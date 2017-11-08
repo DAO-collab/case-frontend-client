@@ -17,9 +17,6 @@ namespace AspNetCoreSpa.Server.Controllers.api
     [Route("api/[controller]")]
     public class AccountController : BaseController
     {
-        private const string host = "http%3A%2F%2Flocalhost%3A5000%2Flogin";
-        // private const string host = "http%3A%2F%2Faspnetcorespa.azurewebsite.net%2Flogin";
-        private string AUTHORIZE_URL = $"~/connect/authorize?client_id=aspnetcorespa&response_type=id_token%20token&redirect_uri={host}&scope=openid%20email%20roles%20profile&nonce=test";
         private readonly IOptions<IdentityOptions> _identityOptions;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
@@ -129,48 +126,44 @@ namespace AspNetCoreSpa.Server.Controllers.api
 
         [HttpGet("ExternalLoginCallback")]
         [AllowAnonymous]
-        public IActionResult ExternalLoginCallback(string returnUrl = null, string remoteError = null)
+        public async Task<IActionResult> ExternalLoginCallback(string returnUrl = null, string remoteError = null)
         {
-            return LocalRedirect(AUTHORIZE_URL);
+            if (remoteError != null)
+            {
+                return Render(ExternalLoginStatus.Error);
+            }
+            var info = await _signInManager.GetExternalLoginInfoAsync();
+            if (info == null)
+            {
+                return Render(ExternalLoginStatus.Invalid);
+            }
 
-            // if (remoteError != null)
-            // {
-            //     return Render(ExternalLoginStatus.Error);
-            // }
-            // var info = await _signInManager.GetExternalLoginInfoAsync();
-            // if (info == null)
-            // {
-            //     return Render(ExternalLoginStatus.Invalid);
-            // }
+            // Sign in the user with this external login provider if the user already has a login.
+            var result = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, isPersistent: false);
+            if (result.Succeeded)
+            {
+                _logger.LogInformation(5, "User logged in with {Name} provider.", info.LoginProvider);
 
-            // // Sign in the user with this external login provider if the user already has a login.
-            // var result = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, isPersistent: false);
-            // if (result.Succeeded)
-            // {
-            //     _logger.LogInformation(5, "User logged in with {Name} provider.", info.LoginProvider);
-
-            //     // var ticket = await AppUtils.CreateTicketAsync(_signInManager, _identityOptions);
-            //     return LocalRedirect(AUTHORIZE_URL);
-
-            //     // return Render(ExternalLoginStatus.Ok); // Everything Ok, login user
-            // }
-            // if (result.RequiresTwoFactor)
-            // {
-            //     return Render(ExternalLoginStatus.TwoFactor);
-            // }
-            // if (result.IsLockedOut)
-            // {
-            //     return Render(ExternalLoginStatus.Lockout);
-            // }
-            // else
-            // {
-            //     // If the user does not have an account, then ask the user to create an account.
-            //     // ViewData["ReturnUrl"] = returnUrl;
-            //     // ViewData["LoginProvider"] = info.LoginProvider;
-            //     // var email = info.Principal.FindFirstValue(ClaimTypes.Email);
-            //     // return RedirectToAction("Index", "Home", new ExternalLoginCreateAccountViewModel { Email = email });
-            //     return Render(ExternalLoginStatus.CreateAccount);
-            // }
+                // var ticket = await AppUtils.CreateTicketAsync(_signInManager, _identityOptions);
+                return Render(ExternalLoginStatus.Ok); // Everything Ok, login user
+            }
+            if (result.RequiresTwoFactor)
+            {
+                return Render(ExternalLoginStatus.TwoFactor);
+            }
+            if (result.IsLockedOut)
+            {
+                return Render(ExternalLoginStatus.Lockout);
+            }
+            else
+            {
+                // If the user does not have an account, then ask the user to create an account.
+                // ViewData["ReturnUrl"] = returnUrl;
+                // ViewData["LoginProvider"] = info.LoginProvider;
+                // var email = info.Principal.FindFirstValue(ClaimTypes.Email);
+                // return RedirectToAction("Index", "Home", new ExternalLoginCreateAccountViewModel { Email = email });
+                return Render(ExternalLoginStatus.CreateAccount);
+            }
         }
 
         [HttpPost("ExternalLoginCreateAccount")]
@@ -191,10 +184,9 @@ namespace AspNetCoreSpa.Server.Controllers.api
                 result = await _userManager.AddLoginAsync(user, info);
                 if (result.Succeeded)
                 {
-                    // await _signInManager.SignInAsync(user, isPersistent: false);
+                    await _signInManager.SignInAsync(user, isPersistent: false);
                     _logger.LogInformation(6, "User created an account using {Name} provider.", info.LoginProvider);
-                    return LocalRedirect(AUTHORIZE_URL);
-                    // return Ok(); // Everything ok
+                    return Ok(); // Everything ok
                 }
             }
             return BadRequest(new[] { "Email already exists" });
