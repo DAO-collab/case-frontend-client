@@ -8,6 +8,10 @@ using Swashbuckle.AspNetCore.Swagger;
 using System.Threading.Tasks;
 using System.Net;
 using AspNetCoreSpa.Server.SignalR;
+using OpenIddict.Core;
+using System;
+using System.Threading;
+using OpenIddict.Models;
 
 namespace AspNetCoreSpa
 {
@@ -69,7 +73,7 @@ namespace AspNetCoreSpa
             services.AddAntiforgery(options => options.HeaderName = "X-XSRF-TOKEN");
 
             services.AddSignalR();
-            
+
             services.AddCustomizedMvc();
 
             // Node services are to execute any arbitrary nodejs code from .net
@@ -112,5 +116,6 @@ namespace AspNetCoreSpa
                     defaults: new { controller = "Home", action = "Index" });
             });
         }
+
     }
 }

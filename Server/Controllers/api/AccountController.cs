@@ -126,44 +126,13 @@ namespace AspNetCoreSpa.Server.Controllers.api
 
         [HttpGet("ExternalLoginCallback")]
         [AllowAnonymous]
-        public async Task<IActionResult> ExternalLoginCallback(string returnUrl = null, string remoteError = null)
+        public IActionResult ExternalLoginCallback(string returnUrl = null, string remoteError = null)
         {
             if (remoteError != null)
             {
                 return Render(ExternalLoginStatus.Error);
             }
-            var info = await _signInManager.GetExternalLoginInfoAsync();
-            if (info == null)
-            {
-                return Render(ExternalLoginStatus.Invalid);
-            }
-
-            // Sign in the user with this external login provider if the user already has a login.
-            var result = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, isPersistent: false);
-            if (result.Succeeded)
-            {
-                _logger.LogInformation(5, "User logged in with {Name} provider.", info.LoginProvider);
-
-                // var ticket = await AppUtils.CreateTicketAsync(_signInManager, _identityOptions);
-                return Render(ExternalLoginStatus.Ok); // Everything Ok, login user
-            }
-            if (result.RequiresTwoFactor)
-            {
-                return Render(ExternalLoginStatus.TwoFactor);
-            }
-            if (result.IsLockedOut)
-            {
-                return Render(ExternalLoginStatus.Lockout);
-            }
-            else
-            {
-                // If the user does not have an account, then ask the user to create an account.
-                // ViewData["ReturnUrl"] = returnUrl;
-                // ViewData["LoginProvider"] = info.LoginProvider;
-                // var email = info.Principal.FindFirstValue(ClaimTypes.Email);
-                // return RedirectToAction("Index", "Home", new ExternalLoginCreateAccountViewModel { Email = email });
-                return Render(ExternalLoginStatus.CreateAccount);
-            }
+            return LocalRedirect(AUTHORIZE_URL);
         }
 
         [HttpPost("ExternalLoginCreateAccount")]
@@ -184,9 +153,10 @@ namespace AspNetCoreSpa.Server.Controllers.api
                 result = await _userManager.AddLoginAsync(user, info);
                 if (result.Succeeded)
                 {
-                    await _signInManager.SignInAsync(user, isPersistent: false);
+                    // await _signInManager.SignInAsync(user, isPersistent: false);
                     _logger.LogInformation(6, "User created an account using {Name} provider.", info.LoginProvider);
-                    return Ok(); // Everything ok
+                    return LocalRedirect(AUTHORIZE_URL);
+                    // return Ok(); // Everything ok
                 }
             }
             return BadRequest(new[] { "Email already exists" });
@@ -364,12 +334,6 @@ namespace AspNetCoreSpa.Server.Controllers.api
                 return RedirectToAction(nameof(HomeController.Index), "Home");
             }
         }
-
-        private IActionResult Render(ExternalLoginStatus status)
-        {
-            return RedirectToAction("Index", "Home", new { externalLoginStatus = (int)status });
-        }
-
 
         #endregion
     }
