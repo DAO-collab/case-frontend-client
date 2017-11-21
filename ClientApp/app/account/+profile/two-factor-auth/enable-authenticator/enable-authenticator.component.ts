@@ -8,7 +8,6 @@ declare var QRCode: any;
 })
 export class EnableAuthenticatorComponent implements OnInit {
 
-  public verifyCode: string;
   @ViewChild('qrcode') private qrCode: ElementRef;
   public model: IEnableAuthenticatorModel;
   constructor(private dataService: DataService) { }
