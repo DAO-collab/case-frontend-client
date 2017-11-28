@@ -1,42 +1,25 @@
-﻿using System.IO;
-using System.Security.Cryptography.X509Certificates;
+﻿using AspNet.Security.OpenIdConnect.Primitives;
 using AspNetCoreSpa.Server.Entities;
 using AspNetCoreSpa.Server.Filters;
-using AspNetCoreSpa.Server.Services;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Builder;
-using AspNet.Security.OpenIdConnect.Primitives;
-using Microsoft.AspNetCore.Identity;
-using OpenIddict.Core;
-using OpenIddict.Models;
-using System.Net;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using System;
-using Microsoft.AspNetCore.Localization;
-using System.Globalization;
-using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc.Razor;
-using Microsoft.Extensions.Localization;
 using AspNetCoreSpa.Server.Middlewares.EntityFrameworkLocalizer;
+using AspNetCoreSpa.Server.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Localization;
+using Microsoft.AspNetCore.Mvc.Razor;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Localization;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using Microsoft.AspNetCore.Hosting;
 
 namespace AspNetCoreSpa.Server.Extensions
 {
     public static class ServiceCollectionExtensions
     {
-        public static IServiceCollection AddSslCertificate(this IServiceCollection services, IHostingEnvironment hostingEnv)
-        {
-            // var cert = new X509Certificate2(Path.Combine(hostingEnv.ContentRootPath, "extra", "cert.pfx"), "game123");
-
-            //services.Configure<KestrelServerOptions>(options =>
-            //{
-            //    options.UseHttps(cert);
-            //});
-
-            return services;
-        }
         public static IServiceCollection AddCustomizedMvc(this IServiceCollection services)
         {
             services.AddMvc(options =>
@@ -65,7 +48,7 @@ namespace AspNetCoreSpa.Server.Extensions
 
             return services;
         }
-        public static IServiceCollection AddCustomOpenIddict(this IServiceCollection services)
+        public static IServiceCollection AddCustomOpenIddict(this IServiceCollection services, IHostingEnvironment env)
         {
             // Configure Identity to use the same JWT claims as OpenIddict instead
             // of the legacy WS-Federation claims it uses by default (ClaimTypes),
@@ -105,7 +88,10 @@ namespace AspNetCoreSpa.Server.Extensions
                 options.SetIdentityTokenLifetime(TimeSpan.FromMinutes(30));
                 options.SetRefreshTokenLifetime(TimeSpan.FromMinutes(60));
                 // During development, you can disable the HTTPS requirement.
-                options.DisableHttpsRequirement();
+                if (env.IsDevelopment() && Convert.ToBoolean(Startup.Configuration["DevHttpsOnly"]))
+                {
+                    options.DisableHttpsRequirement();
+                }
 
                 // Note: to use JWT access tokens instead of the default
                 // encrypted format, the following lines are required:
@@ -198,10 +184,16 @@ namespace AspNetCoreSpa.Server.Extensions
                })
                // https://developer.paypal.com/developer/applications
                .AddPaypal(options =>
-               {
-                   options.ClientId = Startup.Configuration["Authentication:Paypal:ClientId"];
-                   options.ClientSecret = Startup.Configuration["Authentication:Paypal:ClientSecret"];
-               })
+                  {
+                      options.ClientId = Startup.Configuration["Authentication:Paypal:ClientId"];
+                      options.ClientSecret = Startup.Configuration["Authentication:Paypal:ClientSecret"];
+                      if (env.IsDevelopment())
+                      {
+                          options.AuthorizationEndpoint = "https://www.sandbox.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize";
+                          options.TokenEndpoint = "https://api.sandbox.paypal.com/v1/identity/openidconnect/tokenservice";
+                          options.UserInformationEndpoint = "https://api.sandbox.paypal.com/v1/identity/openidconnect/userinfo?schema=openid";
+                      }
+                  })
                // https://developer.yahoo.com
                .AddYahoo(options =>
                {
@@ -273,6 +265,7 @@ namespace AspNetCoreSpa.Server.Extensions
             // New instance every time, only configuration class needs so its ok
             services.AddSingleton<IStringLocalizerFactory, EFStringLocalizerFactory>();
             services.AddTransient<IEmailSender, AuthMessageSender>();
+            services.AddTransient<IApplicationDataService, ApplicationDataService>();
             services.AddTransient<ApplicationDbContext>();
             services.AddScoped<UserResolverService>();
             services.AddScoped<ApiExceptionFilter>();
