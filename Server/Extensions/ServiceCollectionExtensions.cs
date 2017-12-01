@@ -1,36 +1,39 @@
-﻿using AspNet.Security.OpenIdConnect.Primitives;
+﻿using System.IO;
+using System.Security.Cryptography.X509Certificates;
 using AspNetCoreSpa.Server.Entities;
 using AspNetCoreSpa.Server.Filters;
-using AspNetCoreSpa.Server.Middlewares.EntityFrameworkLocalizer;
 using AspNetCoreSpa.Server.Services;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Localization;
-using Microsoft.AspNetCore.Mvc.Razor;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Localization;
-using System;
-using System.Collections.Generic;
-using System.Globalization;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Builder;
+using AspNet.Security.OpenIdConnect.Primitives;
+using Microsoft.AspNetCore.Identity;
+using OpenIddict.Core;
+using OpenIddict.Models;
+using System.Net;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using System;
+using Microsoft.AspNetCore.Localization;
+using System.Globalization;
+using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc.Razor;
+using Microsoft.Extensions.Localization;
+using AspNetCoreSpa.Server.Middlewares.EntityFrameworkLocalizer;
 
 namespace AspNetCoreSpa.Server.Extensions
 {
     public static class ServiceCollectionExtensions
     {
-        // https://github.com/aspnet/JavaScriptServices/tree/dev/src/Microsoft.AspNetCore.SpaServices#debugging-your-javascripttypescript-code-when-it-runs-on-the-server
-        public static IServiceCollection AddPreRenderDebugging(this IServiceCollection services, IHostingEnvironment env)
+        public static IServiceCollection AddSslCertificate(this IServiceCollection services, IHostingEnvironment hostingEnv)
         {
-            if (env.IsDevelopment())
-            {
-                services.AddNodeServices(options =>
-                {
-                    options.LaunchWithDebugging = true;
-                    options.DebuggingPort = 9229;
-                });
-            }
+            // var cert = new X509Certificate2(Path.Combine(hostingEnv.ContentRootPath, "extra", "cert.pfx"), "game123");
+
+            //services.Configure<KestrelServerOptions>(options =>
+            //{
+            //    options.UseHttps(cert);
+            //});
 
             return services;
         }
@@ -51,18 +54,18 @@ namespace AspNetCoreSpa.Server.Extensions
         }
         public static IServiceCollection AddCustomIdentity(this IServiceCollection services)
         {
+            // For api unauthorised calls return 401 with no body
             services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
             {
-                // options for user and password can be set here
-                // options.Password.RequiredLength = 4;
-                // options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequiredLength = 4;
+                options.Password.RequireNonAlphanumeric = false;
             })
             .AddEntityFrameworkStores<ApplicationDbContext>()
             .AddDefaultTokenProviders();
 
             return services;
         }
-        public static IServiceCollection AddCustomOpenIddict(this IServiceCollection services, IHostingEnvironment env)
+        public static IServiceCollection AddCustomOpenIddict(this IServiceCollection services)
         {
             // Configure Identity to use the same JWT claims as OpenIddict instead
             // of the legacy WS-Federation claims it uses by default (ClaimTypes),
@@ -102,10 +105,7 @@ namespace AspNetCoreSpa.Server.Extensions
                 options.SetIdentityTokenLifetime(TimeSpan.FromMinutes(30));
                 options.SetRefreshTokenLifetime(TimeSpan.FromMinutes(60));
                 // During development, you can disable the HTTPS requirement.
-                if (env.IsDevelopment())
-                {
-                    options.DisableHttpsRequirement();
-                }
+                options.DisableHttpsRequirement();
 
                 // Note: to use JWT access tokens instead of the default
                 // encrypted format, the following lines are required:
@@ -198,16 +198,10 @@ namespace AspNetCoreSpa.Server.Extensions
                })
                // https://developer.paypal.com/developer/applications
                .AddPaypal(options =>
-                  {
-                      options.ClientId = Startup.Configuration["Authentication:Paypal:ClientId"];
-                      options.ClientSecret = Startup.Configuration["Authentication:Paypal:ClientSecret"];
-                      if (env.IsDevelopment())
-                      {
-                          options.AuthorizationEndpoint = "https://www.sandbox.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize";
-                          options.TokenEndpoint = "https://api.sandbox.paypal.com/v1/identity/openidconnect/tokenservice";
-                          options.UserInformationEndpoint = "https://api.sandbox.paypal.com/v1/identity/openidconnect/userinfo?schema=openid";
-                      }
-                  })
+               {
+                   options.ClientId = Startup.Configuration["Authentication:Paypal:ClientId"];
+                   options.ClientSecret = Startup.Configuration["Authentication:Paypal:ClientSecret"];
+               })
                // https://developer.yahoo.com
                .AddYahoo(options =>
                {
@@ -279,7 +273,6 @@ namespace AspNetCoreSpa.Server.Extensions
             // New instance every time, only configuration class needs so its ok
             services.AddSingleton<IStringLocalizerFactory, EFStringLocalizerFactory>();
             services.AddTransient<IEmailSender, AuthMessageSender>();
-            services.AddTransient<IApplicationDataService, ApplicationDataService>();
             services.AddTransient<ApplicationDbContext>();
             services.AddScoped<UserResolverService>();
             services.AddScoped<ApiExceptionFilter>();

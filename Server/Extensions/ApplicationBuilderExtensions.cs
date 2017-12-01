@@ -1,13 +1,24 @@
-﻿using Joonasw.AspNetCore.SecurityHeaders;
+﻿using System;
+using Microsoft.AspNetCore.Antiforgery;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Hosting.Server.Features;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.SpaServices.Webpack;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Serilog;
+using Microsoft.AspNetCore.Authentication.MicrosoftAccount;
+using Microsoft.AspNetCore.Authentication.Facebook;
+using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.AspNetCore.Authentication.Twitter;
+using Microsoft.AspNetCore.Localization;
+using System.Globalization;
+using System.Collections.Generic;
 using Microsoft.Extensions.Options;
 using NetEscapades.AspNetCore.SecurityHeaders;
-using System;
+using Joonasw.AspNetCore.SecurityHeaders;
+using Microsoft.AspNetCore.Hosting.Server.Features;
 using System.Linq;
 
 namespace AspNetCoreSpa.Server.Extensions
@@ -28,9 +39,11 @@ namespace AspNetCoreSpa.Server.Extensions
             app.UseCustomHeadersMiddleware(policyCollection);
             return app;
         }
-        // https://github.com/juunas11/aspnetcore-security-headers
         public static IApplicationBuilder UseCustomisedCsp(this IApplicationBuilder app)
         {
+            var URLS = app.ServerFeatures.Get<IServerAddressesFeature>().Addresses;
+            var socketUrl = "ws" + URLS.ToList().First().Replace("http", "", StringComparison.OrdinalIgnoreCase).Replace("https", "", StringComparison.OrdinalIgnoreCase);
+
             // TODO: Implement HSTS once SSL is implemented
             // Enable Strict Transport Security with a 30-day caching period
             // Do not include subdomains
@@ -76,12 +89,11 @@ namespace AspNetCoreSpa.Server.Extensions
                 csp.AllowAudioAndVideo
                                 .FromNowhere();
 
-                // Contained iframes can be sourced from:
+               // Contained iframes can be sourced from:
                 csp.AllowFrames
                     .FromNowhere(); //Nowhere, no iframes allowed
 
                 // Allow AJAX, WebSocket and EventSource connections to:
-                var socketUrl = "ws" + Startup.Configuration["HostUrl"].ToString().Replace("http", "", StringComparison.OrdinalIgnoreCase).Replace("https", "", StringComparison.OrdinalIgnoreCase);
                 csp.AllowConnections
                                 .To(socketUrl)
                                 .ToSelf();
@@ -110,14 +122,14 @@ namespace AspNetCoreSpa.Server.Extensions
             return app;
         }
 
-        // public static IApplicationBuilder UseCustomWebpackDevMiddleware(this IApplicationBuilder app)
-        // {
-        //     app.UseWebpackDevMiddleware(new WebpackDevMiddlewareOptions
-        //     {
-        //         HotModuleReplacement = true
-        //     });
-        //     return app;
-        // }
+        public static IApplicationBuilder UseCustomWebpackDevMiddleware(this IApplicationBuilder app)
+        {
+            app.UseWebpackDevMiddleware(new WebpackDevMiddlewareOptions
+            {
+                HotModuleReplacement = true
+            });
+            return app;
+        }
         public static IApplicationBuilder UseCustomSwaggerApi(this IApplicationBuilder app)
         {
             // Enable middleware to serve generated Swagger as a JSON endpoint
@@ -141,7 +153,7 @@ namespace AspNetCoreSpa.Server.Extensions
                 loggerFactory.AddDebug();
                 app.UseDeveloperExceptionPage();
                 app.UseDatabaseErrorPage();
-                // app.UseCustomWebpackDevMiddleware();
+                app.UseCustomWebpackDevMiddleware();
                 // NOTE: For SPA swagger needs adding before MVC
                 app.UseCustomSwaggerApi();
             }

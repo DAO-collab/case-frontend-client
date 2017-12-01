@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using Serilog;
 using Serilog.Events;
+using static Microsoft.AspNetCore.ResponseCompression.ResponseCompressionDefaults;
 
 namespace AspNetCoreSpa.Server
 {
@@ -15,7 +16,7 @@ namespace AspNetCoreSpa.Server
                         new JsonSerializerSettings
                         {
                             ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
-                            StringEscapeHandling = StringEscapeHandling.EscapeHtml,
+                            StringEscapeHandling =  StringEscapeHandling.EscapeHtml,
                             ContractResolver = new CamelCasePropertyNamesContractResolver()
                         });
         }
@@ -30,5 +31,10 @@ namespace AspNetCoreSpa.Server
             .CreateLogger();
         }
 
+        public static IEnumerable<string> DefaultMimeTypes => MimeTypes.Concat(new[]
+                                {
+                                    "image/svg+xml",
+                                    "application/font-woff2"
+                                });
     }
 }

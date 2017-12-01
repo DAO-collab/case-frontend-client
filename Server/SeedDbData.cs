@@ -105,12 +105,12 @@ namespace AspNetCoreSpa.Server
 
             if (await manager.FindByClientIdAsync("aspnetcorespa", cancellationToken) == null)
             {
-                var host = Startup.Configuration["HostUrl"].ToString();
+                var host = _hostingEnv.IsDevelopment() ? "http://localhost:5000" : "http://aspnetcorespa.azurewebsites.net";
                 var descriptor = new OpenIddictApplicationDescriptor
                 {
                     ClientId = "aspnetcorespa",
                     DisplayName = "AspnetCoreSpa",
-                    PostLogoutRedirectUris = { new Uri($"{host}signout-oidc") },
+                    PostLogoutRedirectUris = { new Uri($"{host}/signout-oidc") },
                     RedirectUris = { new Uri(host) }
                     // RedirectUris = { new Uri($"{host}/signin-oidc") }
                 };
