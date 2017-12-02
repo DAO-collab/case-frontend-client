@@ -14,7 +14,6 @@
 * [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
 * [SignalR](https://github.com/aspnet/SignalR/) (Chat example)
 * [ng-bootstrap](https://ng-bootstrap.github.io/)
-* [@ngx-translate](http://www.ngx-translate.com/)
 * [Typescript](http://www.typescriptlang.org/)
 * [SASS](http://sass-lang.com/) support
 * [Best practices](https://angular.io/docs/ts/latest/guide/style-guide.html) in file and application organization for Angular.
@@ -28,13 +27,13 @@
 * [Server](https://github.com/aspnet/dotnet-watch) and [client](https://webpack.github.io/docs/hot-module-replacement.html) watches
 * Login and Registration functionality using [Asp.Net Identity & JWT](https://docs.asp.net/en/latest/security/authentication/identity.html)
 * Token based authentication using [Openiddict](https://github.com/openiddict/openiddict-core)
-     * Get public key acess using: http://localhost:5000/.well-known/jwks
+     * Get public key acess using: http://127.0.0.1:5000/.well-known/jwks
 * Extensible User/Role identity implementation
 * Various social login support, Follow [this](https://github.com/asadsahi/AspNetCoreSpa/wiki/Social-Login-Setup) wiki page to see how it will work.
 * Lazy loading with pre loading all modules for fast navigation.
 * [Angular dynamic forms](https://angular.io/docs/ts/latest/cookbook/dynamic-form.html) for reusability and to keep html code DRY.
 * [Serilog](https://serilog.net/) with [Seq](https://getseq.net/) support to manage structured logging.
-* [Swagger](http://swagger.io/) as Api explorer (Visit url **http://localhost:5000/swagger** after running the application). More [details](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+* [Swagger](http://swagger.io/) as Api explorer (Visit url **http://127.0.0.1:5000/swagger** after running the application). More [details](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
  
 ## Pre-requisites
 
@@ -60,7 +59,7 @@
     ii) Second: (from command line)
         Dev mode:
         npm run dev:watch
-        Browse using http://localhost:5000 or https://localhost:5001 
+        Browse using http://127.0.0.1:5000 or https://127.0.0.1:5001 
         Prod mode:
         npm run prod:watch
 
@@ -128,6 +127,19 @@ npm run e2e:live
 
 # Azure Deploy
 * You can set an environment variable for azure app deployment password
+Set-Item -path env:AzureAppPass -value passwordhere
+```
+From powershell:
+./deploy-azure.ps1
+```
+# Heroku Deploy (replace your app name where it is aspnetcorespa)
+* dotnet publish -c release
+* docker build -t aspnetcorespa ./bin/release/netcoreapp2.0/publish
+* heroku login
+* heroku container:login
+* docker tag aspnetcorespa registry.heroku.com/aspnetcorespa/web
+* docker push registry.heroku.com/aspnetcorespa/web
+
 Set-Item -path env:AzureAppPass -value passwordhere
 ```
 From powershell:
