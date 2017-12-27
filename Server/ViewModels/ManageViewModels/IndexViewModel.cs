@@ -17,5 +17,6 @@ namespace AspNetCoreSpa.Server.ViewModels.ManageViewModels
         [Display(Name = "Phone number")]
         public string PhoneNumber { get; set; }
 
+        // public string StatusMessage { get; set; }
     }
 }

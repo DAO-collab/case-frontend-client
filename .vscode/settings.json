@@ -16,12 +16,13 @@
         "Properties": true,
         ".awcache": true,
         "extra": true,
-        "deploy.*.ps1": true,
+        "deploy.azure.ps1": true,
         "*.PublishSettings": true,
         "logs": true,
         "npm-debug.log.*": true,
         "runtimeconfig.template.json": true,
-        "LICENSE": true
+        "LICENSE": true,
+        "NuGet.config": true
     },
     "search.exclude": {
         "**/node_modules": true,
@@ -30,5 +31,6 @@
         "compiled": false,
         "wwwroot": true,
         "bin": true
-    }
+    },
+    "typescript.tsdk": "./node_modules/typescript/lib"
 }

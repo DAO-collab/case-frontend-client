@@ -199,11 +199,11 @@ namespace AspNetCoreSpa.Server.Controllers.api
 
             // if (result.RequiresTwoFactor)
             // {
-            //     return Render(ExternalLoginStatus.TwoFactor);
+            //     return this.Render(ExternalLoginStatus.TwoFactor);
             // }
             // if (result.IsLockedOut)
             // {
-            //     return Render(ExternalLoginStatus.Lockout);
+            //     return this.Render(ExternalLoginStatus.Lockout);
             // }
             // else
             // {
@@ -212,7 +212,7 @@ namespace AspNetCoreSpa.Server.Controllers.api
             //     // ViewData["LoginProvider"] = info.LoginProvider;
             //     // var email = info.Principal.FindFirstValue(ClaimTypes.Email);
             //     // return RedirectToAction("Index", "Home", new ExternalLoginCreateAccountViewModel { Email = email });
-            //     return Render(ExternalLoginStatus.CreateAccount);
+            //     return this.Render(ExternalLoginStatus.CreateAccount);
             // }
 
             // if (!User.Identity.IsAuthenticated)
