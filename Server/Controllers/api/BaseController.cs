@@ -14,6 +14,7 @@ namespace AspNetCoreSpa.Server.Controllers.api
         public BaseController()
         {
         }
+      
     }
 
 
