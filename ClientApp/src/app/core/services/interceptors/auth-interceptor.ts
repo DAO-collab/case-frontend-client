@@ -3,7 +3,6 @@ import { HttpEvent, HttpInterceptor, HttpHandler, HttpRequest } from '@angular/c
 import { isPlatformBrowser } from '@angular/common';
 import { Observable } from 'rxjs/Observable';
 import { AccountService } from '../account.service';
-import { COOKIES } from '../../../app.models';
 
 @Injectable()
 export class AuthInterceptor implements HttpInterceptor {
@@ -26,4 +25,5 @@ export class AuthInterceptor implements HttpInterceptor {
         // Pass on the cloned request instead of the original request.
         return next.handle(authReq);
     }
+
 }
