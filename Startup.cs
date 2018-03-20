@@ -69,17 +69,14 @@ namespace AspNetCoreSpa
 
             // app.AddCustomSecurityHeaders();
 
-            app.AddDevMiddlewares();
-
             app.AddCustomLocalization();
+
+            app.AddDevMiddlewares();
 
             if (env.IsProduction())
             {
-                app.UseHsts();
                 app.UseResponseCompression();
             }
-
-            app.UseHttpsRedirection();
 
             app.SetupMigrations();
 
@@ -103,7 +100,7 @@ namespace AspNetCoreSpa
 
             app.UseSignalR(routes =>
             {
-                routes.MapHub<Chat>("/chathub");
+                routes.MapHub<Chat>("chathub");
             });
 
             app.UseMvc(routes =>
