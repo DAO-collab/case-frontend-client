@@ -12,17 +12,23 @@
       "root": "src",
       "outDir": "dist",
       "assets": [
-        "assets"
+        "assets",
+        "manifest.json"
       ],
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
+      "test": "test.ts",
       "tsconfig": "tsconfig.app.json",
+      "testTsconfig": "tsconfig.spec.json",
       "prefix": "appc",
       "styles": [
-        "styles.scss"
+        "styles.scss",
+        "assets/css/flags.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "assets/js/qrcode.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
@@ -59,11 +65,19 @@
       "exclude": "**/node_modules/**"
     },
     {
+      "project": "src/tsconfig.spec.json",
+      "exclude": "**/node_modules/**"
+    },
+    {
       "project": "e2e/tsconfig.e2e.json",
       "exclude": "**/node_modules/**"
     }
   ],
-  "test": {},
+  "test": {
+    "karma": {
+      "config": "./karma.conf.js"
+    }
+  },
   "defaults": {
     "styleExt": "scss",
     "component": {}

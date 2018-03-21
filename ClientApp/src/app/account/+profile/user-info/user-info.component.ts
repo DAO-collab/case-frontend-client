@@ -18,7 +18,7 @@ export class UserInfoComponent implements OnInit {
       label: 'First name',
       placeholder: 'Firstname',
       value: '',
-      type: 'text',
+      type: 'textbox',
       required: true,
       order: 1
     }),
@@ -27,7 +27,7 @@ export class UserInfoComponent implements OnInit {
       label: 'Last name',
       placeholder: 'Lastname',
       value: '',
-      type: 'text',
+      type: 'textbox',
       required: true,
       order: 2
     }),
@@ -36,7 +36,7 @@ export class UserInfoComponent implements OnInit {
       label: 'Phone number',
       placeholder: 'Phone number',
       value: '',
-      type: 'text',
+      type: 'textbox',
       required: false,
       order: 3
     })

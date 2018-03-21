@@ -1,7 +1,8 @@
 {
   "index": "/index.html",
   "appData": {
-    "name": "AspNetCoreSpa"
+    "name": "AspNetCoreSpa",
+    "description": "AspNetCoreSpa single page application"
   },
   "assetGroups": [
     {
