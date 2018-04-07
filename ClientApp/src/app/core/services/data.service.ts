@@ -1,7 +1,7 @@
 ﻿import { Injectable, Injector } from '@angular/core';
 import { HttpClient, HttpResponse, HttpParams } from '@angular/common/http';
-import { Observable } from 'rxjs/Observable';
-import { Subject } from 'rxjs/Subject';
+import { Observable } from 'rxjs';
+import { Subject } from 'rxjs';
 
 import { AccountService } from './account.service';
 
@@ -62,7 +62,7 @@ export class DataService {
         let searchParams = new HttpParams();
         for (const key in params) {
             if (params.hasOwnProperty(key)) {
-                searchParams= searchParams.append(key, params[key]);
+                searchParams.append(key, params[key]);
             }
         }
         return searchParams;
