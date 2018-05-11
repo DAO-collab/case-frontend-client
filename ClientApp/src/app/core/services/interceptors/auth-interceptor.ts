@@ -25,5 +25,4 @@ export class AuthInterceptor implements HttpInterceptor {
         // Pass on the cloned request instead of the original request.
         return next.handle(authReq);
     }
-
 }
