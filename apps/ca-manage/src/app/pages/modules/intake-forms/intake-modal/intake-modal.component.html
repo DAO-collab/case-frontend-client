@@ -1,0 +1,57 @@
+<form
+  method="post"
+  title="upload-document"
+  class="popup-a a form-d shown"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="formTemplateForm"
+  (submit)="$event.preventDefault(); formTemplateForm.invalid ? (formTouched = true) : saveNewForm()"
+>
+  <div class="box-outer">
+    <div class="box-inner form-height">
+      <h2 translate *ngIf="mode === FormModalMode.Create">Add Intake Form</h2>
+      <h2 translate *ngIf="mode === FormModalMode.Edit">
+        Edit Intake Form
+        <span> > {{ getItemIdForTitle() }}</span>
+      </h2>
+
+      <div class="form">
+        <div class="form-container">
+          <div class="form-block right-margin bottom-split">
+            <div>
+              <p class="full-width no-float">
+                <span class="full-width no-float">
+                  <label class="required" name="title" translate>Title</label>
+                  <input #titleF type="text" name="title" formControlName="tag_id" />
+                  <app-error
+                    [fieldValue]="formTemplateForm.controls['tag_id'].value"
+                    [field]="titleF"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block right-margin mobile-bottom-split">
+            <div>
+              <p class="full-width">
+                <label>{{ 'Description' | translate }}</label>
+                <textarea type="text" name="description" formControlName="description"></textarea>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p class="submit">
+        <button type="submit" class="f-right" translate>Save</button>
+      </p>
+
+      <a class="close" (click)="cancelModal()" translate>Close</a>
+    </div>
+    <a class="close" (click)="cancelModal()" translate>Close</a>
+  </div>
+</form>

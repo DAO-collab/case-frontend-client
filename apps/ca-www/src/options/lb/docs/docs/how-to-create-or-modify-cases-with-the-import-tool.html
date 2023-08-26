@@ -1,0 +1,111 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">Wéi erstellen oder ännere Fäll mat dem Import Tool</h1>
+<p>Dësen Artikel weist Administrateuren wéi een existéierend Fäll erstellt oder ännert mam Import Tool.</p>
+<h2 id="opening-the-import-tool">Öffnen vum Import Tool</h2>
+<ol style="list-style-type: decimal">
+  <li>Loggt Iech op den Admin Kont.</li>
+  <li>Fannt eng App op der Apps Säit a klickt op den ADMIN Knäppchen.</li>
+  <li>Op der Admin Panel, klickt op d&#39;Integratioun Tab an dann IMPORTS am Ënnermenü.</li>
+  <li>Klickt op den NEW Knäppchen. D&#39;Füügt Importer Dialogbox weist an engem neie Browser Tab.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Schafen Fäll</h2>
+<p>Nodeems d&#39;Füügt Importer Dialogbox opmaacht:</p>
+<ol style="list-style-type: decimal">
+  <li>Klickt op d&#39;Typ Feld a wielt eng Optioun (kuckt hei ënnen). E Link weist.</li>
+  <li>Klickt op den Download Sample Link. Eng CSV Datei gëtt op Ärem Apparat erofgelueden.</li>
+</ol>
+<p>Als nächst, öffnen d&#39;Datei a füügt Fäll un.</p>
+<h2 id="type">Typ</h2>
+<p>
+  Wann Dir op d&#39; <strong>Typ</strong> Feld klickt, gëtt en Dropdown-Menü ugewisen. Wielt eng vun zwou Optiounen fir
+  bulk Fall Importer.
+</p>
+<ul>
+  <li>
+    <strong>Notiz</strong> Den Dropdown-Menü huet vill Optiounen, awer nëmmen zwee si mat der Gestioun vum Fall
+    verbonnen. All Optioun huet eng aner Probe CSV Datei.
+  </li>
+</ul>
+<h3 id="add-cases">Dobäizemaachen Fäll</h3>
+<ul>
+  <li>Wielt dës Optioun fir en einfache Bulk-Upload vu Fäll.</li>
+  <li>
+    Klickt op den Download Sample Link fir eng CSV-Datei opzemaachen mat Spaltrubriken fir den Erstelle Fäll Import Typ.
+  </li>
+</ul>
+<h3 id="modify-cases">Änneren Fäll</h3>
+<ul>
+  <li>Wielt dës Optioun fir aktuell Fäll ze aktualiséieren.</li>
+  <li>
+    Klickt op den Download Sample Link fir eng CSV Datei opzemaachen mat Kolonnrubriken fir den Änneren Fäll Import Typ.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Eroplueden vun der Datei</h2>
+<p>
+  Dir kënnt e Fichier direkt eroplueden oder zréck an d&#39;Dialogbox Importer addéieren zu engem spéideren Datum an dës
+  Schrëtt ausfëllen.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Öffnen d&#39;Füügt Importer Dialogbox.</li>
+  <li>Gitt en eenzegaartegen Numm fir d&#39;CSV-Datei un.</li>
+  <li>Klickt op de Plus (+) Ikon fir d&#39;Datei vun Ärem Apparat eropzelueden.</li>
+  <li>Klickt op d&#39;Typ Feld a wielt eng Optioun. (kuckt uewen)</li>
+  <li>Klickt SAVE.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Formatéieren</h2>
+<p>
+  Dëst sinn déi erfuerderlech Felder an déi éischt Ufuerderungen. Klickt
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">hei</a> fir
+  d&#39;Formatéierungsdetailer ze iwwerpréiwen.
+</p>
+<p>
+  <strong>tag_id (oder case_ID)</strong> en eenzegaartegen Identifizéierer (benotzt alphanumeresch Zeechen,
+  Bindestrecken ginn ugeholl)
+</p>
+<p><strong>case_status</strong> 0 = zougemaach 1 = aktiv</p>
+<p><strong>date_opened</strong> month/day/year mm/dd/yyyy</p>
+<p>
+  <strong>iwwer</strong> eng eenzegaarteg Beschreiwung vum Fall (benotzt alphanumeresch Zeechen, Bindestrecken ginn
+  ugeholl)
+</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Veraarbechtung</h2>
+<p>
+  Ofhängeg vun der Unzuel vun den Opzeechnungen an der Datei an der Systembelaaschtung, kann d&#39;Plattform e puer
+  Minutten daueren fir den Import ze veraarbecht.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Wann den Import fäerdeg ass, passt d&#39;Plattform Case records un (dh addt oder ännert) op dem Administrateur Cases
+  Dashboard.
+</p>
+<h2 id="failure">Echec</h2>
+<p>
+  Wann d&#39;Importoperatioun feelt, gëtt d&#39;Plattform e Failed Message zréck. An deene meeschte Fäll ass
+  d&#39;Ursaach vum Feeler d&#39;Dateformatéierung.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Fir d&#39;Ursaach vum Echec ze gesinn:</p>
+<ol style="list-style-type: decimal">
+  <li>Klickt View ënner der ACTION Rubrik.</li>
+  <li>Op der nächster Säit, hover d&#39;Maus op der Failed Ikon. Den Tooltip weist de Feeler.</li>
+  <li>Gitt op d&#39;CVS-Datei a passt de Feeler un a fixéiert.</li>
+  <li>Eroplueden de Fichier erëm.</li>
+</ol>
+<div class="figure"><img src="/images/create-case-11.png" alt="img" /></div>

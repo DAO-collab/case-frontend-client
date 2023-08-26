@@ -1,0 +1,18 @@
+{
+  "family_name": "Van",
+  "given_name": "Eerste naam",
+  "locale": "Verkose taal",
+  "zoneinfo": "Tydsone",
+  "email": "E-pos adres",
+  "phone": "Telefoon nommer",
+  "address1": "Straatadres",
+  "address2": "Apt # of eenheid #",
+  "locality": "Stad of ligging",
+  "region": "Staat of streek",
+  "postal_code": "Poskode of poskode",
+  "country": "land",
+  "birthdate": "geboortedatum",
+  "gender": "geslag",
+  "company": "maatskappy",
+  "title": "Naam Titel"
+}

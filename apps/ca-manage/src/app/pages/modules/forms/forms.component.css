@@ -1,0 +1,55 @@
+article.rrule-holder input.flatpickr-input {
+  min-width: 125px;
+  text-align: center;
+}
+
+span.drop-a.drop-status {
+  padding: 0px;
+}
+
+.drop-a > .drop a {
+  min-width: 100px;
+  text-align: left;
+}
+
+.drop label.checkbox-container.centered-checkbox {
+  float: right;
+  top: -6px;
+  left: 18px;
+}
+
+.news-d article {
+  padding: 0;
+}
+
+.dropform:hover .drop {
+  top: 27px;
+}
+
+span.no-drop-list.drop-a > .value:after,
+span.no-drop-list.drop-a > .value:before {
+  content: '';
+  display: none;
+}
+
+.table-b .drop-a {
+  max-width: 100%;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+@media only screen and (min-width: 1200px) {
+  .action-cell,
+  .action-cell .drop-a.dropform {
+    width: 160px !important;
+    min-width: 160px !important;
+  }
+}

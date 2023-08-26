@@ -1,0 +1,159 @@
+<article class="rrule-holder form-d" (mouseup)="generateRRule()" (keyup)="generateRRule()">
+  <form>
+    <p>
+      <label class="bordered-lable"></label>
+      <span class="space-between-txt ixed-95-label" translate> Repeat every: </span>
+      <input
+        type="number"
+        *ngIf="activeFREQ === 'YEARLY'"
+        [name]="models.YEARLY.INTERVAL"
+        (blur)="models.YEARLY.INTERVAL = convertNullValue(models.YEARLY.INTERVAL, 1)"
+        [(ngModel)]="models.YEARLY.INTERVAL"
+      />
+
+      <input
+        #yearF
+        min="1"
+        type="number"
+        *ngIf="activeFREQ === 'MONTHLY'"
+        [name]="models.MONTHLY.INTERVAL"
+        [(ngModel)]="models.MONTHLY.INTERVAL"
+        (keyup)="models.MONTHLY.INTERVAL = yearF.value"
+        (blur)="models.MONTHLY.INTERVAL = convertNullValue(models.MONTHLY.INTERVAL, 1)"
+      />
+
+      <input
+        type="number"
+        *ngIf="activeFREQ === 'WEEKLY'"
+        [name]="models.WEEKLY.INTERVAL"
+        (blur)="models.WEEKLY.INTERVAL = convertNullValue(models.WEEKLY.INTERVAL, 1)"
+        [(ngModel)]="models.WEEKLY.INTERVAL"
+      />
+
+      <ng-select
+        name="repeat-items"
+        bindLabel="text"
+        bindValue="id"
+        [searchable]="false"
+        [clearable]="false"
+        [items]="repeatItems.FREQ"
+        (change)="selected($event, 'activeFREQ'); generateRRule()"
+        [(ngModel)]="activeFREQ"
+      ></ng-select>
+    </p>
+  </form>
+
+  <form *ngIf="activeFREQ === 'YEARLY'">
+    <p>
+      <span class="space-between-txt fixed-95-label" translate>Repeat end:</span>
+      <ng-select
+        name="repeat-end-options"
+        bindLabel="text"
+        bindValue="id"
+        [items]="endOptions"
+        [searchable]="false"
+        [clearable]="false"
+        (change)="previosOnChanges(); end['YEARLY'] = $event.id; generateRRule()"
+        [(ngModel)]="activeEndOption"
+      ></ng-select>
+      <input
+        type="number"
+        *ngIf="end['YEARLY'] === 'COUNT'"
+        [name]="models.YEARLY.COUNT"
+        (blur)="models.YEARLY.COUNT = convertNullValue(models.YEARLY.COUNT, 1)"
+        [(ngModel)]="models.YEARLY.COUNT"
+      />
+      <input
+        mwlFlatpickr
+        type="date"
+        *ngIf="end['YEARLY'] === 'UNTIL'"
+        dateFormat="m/d/Y"
+        placeholder="mm/dd/yyyy"
+        [name]="models.YEARLY.UNTIL"
+        [(ngModel)]="models.YEARLY.UNTIL"
+        (flatpickrChange)="onDateChange($event, 'YEARLY.UNTIL')"
+      />
+    </p>
+  </form>
+
+  <form *ngIf="activeFREQ === 'WEEKLY'">
+    <div>
+      <ul class="week-days list-g">
+        <li
+          class="week-item"
+          *ngFor="let day of weekDaysShort"
+          [ngClass]="{ selected: models.WEEKLY.BYDAY.indexOf(day.id) > -1 }"
+          (click)="toggleWeekDay(day.id)"
+        >
+          {{ day.text }}
+        </li>
+      </ul>
+    </div>
+
+    <p>
+      <label class="bordered-lable fixed-95-label" translate>Repeat end:</label>
+      <ng-select
+        name="end-options"
+        bindLabel="text"
+        bindValue="id"
+        [searchable]="false"
+        [clearable]="false"
+        [items]="endOptions"
+        (change)="end['WEEKLY'] = $event.id; generateRRule()"
+        [(ngModel)]="activeEndOption"
+      ></ng-select>
+      <input
+        type="number"
+        *ngIf="end['WEEKLY'] === 'COUNT'"
+        [name]="models.WEEKLY.COUNT"
+        (blur)="models.WEEKLY.COUNT = convertNullValue(models.WEEKLY.COUNT, 1)"
+        [(ngModel)]="models.WEEKLY.COUNT"
+      />
+      <input
+        mwlFlatpickr
+        type="date"
+        *ngIf="end['WEEKLY'] === 'UNTIL'"
+        dateFormat="m/d/Y"
+        placeholder="mm/dd/yyyy"
+        [name]="models.WEEKLY.UNTIL"
+        [(ngModel)]="models.WEEKLY.UNTIL"
+        (flatpickrChange)="onDateChange($event, 'WEEKLY.UNTIL')"
+      />
+    </p>
+  </form>
+
+  <form *ngIf="activeFREQ === 'DAILY'">
+    <p>
+      <span class="space-between-txt fixed-95-label" translate> Repeat end: </span>
+      <ng-select
+        name="end-options"
+        bindLabel="text"
+        bindValue="id"
+        [items]="endOptions"
+        [searchable]="false"
+        [clearable]="false"
+        (change)="end['DAILY'] = $event.id; generateRRule()"
+        [(ngModel)]="activeEndOption"
+      ></ng-select>
+      <ng-container *ngIf="end['DAILY'] === 'COUNT' || end['DAILY'] === 'UNTIL'">
+        <input
+          type="number"
+          *ngIf="end['DAILY'] === 'COUNT'"
+          [name]="models.DAILY.COUNT"
+          (blur)="models.DAILY.COUNT = convertNullValue(models.DAILY.COUNT, 1)"
+          [(ngModel)]="models.DAILY.COUNT"
+        />
+        <input
+          mwlFlatpickr
+          type="date"
+          *ngIf="end['DAILY'] === 'UNTIL'"
+          dateFormat="m/d/Y"
+          placeholder="mm/dd/yyyy"
+          [name]="models.DAILY.UNTIL"
+          [(ngModel)]="models.DAILY.UNTIL"
+          (flatpickrChange)="onDateChange($event, 'DAILY.UNTIL')"
+        />
+      </ng-container>
+    </p>
+  </form>
+</article>

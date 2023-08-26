@@ -1,0 +1,707 @@
+<!--<link *ngIf="designLink" [href]="designLink" rel="stylesheet" />-->
+
+<div
+  id="root"
+  (window:resize)="pageResize()"
+  [ngClass]="{ 'logged-in': isLoggedIn, 'logged-out': !isLoggedIn }"
+  class="body-content"
+  (mouseup)="multiDropdownFocus($event)"
+>
+  <noscript>
+    <div style="text-align: center; padding: 10px; background: red; color: #fff" translate>
+      Javascript are disabled. Please enable it.
+    </div>
+  </noscript>
+  <div id="cookie-msg" style="display: none; text-align: center; padding: 10px; background: red; color: #fff" translate>
+    Cookies are disabled. Please enable it.
+  </div>
+  <p class="file-a a" style="display: none">
+    <span class="btn"></span>
+  </p>
+
+  <header
+    id="top"
+    [ngClass]="{
+      active: activeMobileMenu,
+      'loading-visible': showLogo === false,
+      'none-margin-bottom': !!noneBottomMenuItems[threeChainsOfRoute]
+    }"
+  >
+    <h1>
+      <a class="top-icon" accesskey="h" [href]="accountClientUrl">
+        <ng-container *ngIf="showLogo === false && !showPaymentErrorModal">
+          <div class="loader-text custom-design-text-color">Loading</div>
+          <div class="lds-ellipsis">
+            <div class="custom-design-background-color"></div>
+            <div class="custom-design-background-color"></div>
+            <div class="custom-design-background-color"></div>
+            <div class="custom-design-background-color"></div>
+          </div>
+        </ng-container>
+        <img [src]="logoTopSrc" />
+      </a>
+    </h1>
+    <nav *ngIf="isLoggedIn" id="nav">
+      <ul>
+        <li
+          (click)="activeMobileMenu = false"
+          routerLinkActive="active"
+          [routerLinkActiveOptions]="{ exact: true }"
+          [ngClass]="{ active: router.url.includes('support') || router.url.includes('announcements') }"
+        >
+          <a accesskey="1" routerLink="/" translate>Home</a>
+          <em>(1)</em>
+        </li>
+        <li (click)="activeMobileMenu = false" routerLinkActive="active">
+          <a accesskey="4" routerLink="/users" translate>Users</a>
+          <em>(4)</em>
+        </li>
+        <li (click)="activeMobileMenu = false" routerLinkActive="active">
+          <a accesskey="2" routerLink="/cases" translate>Cases</a>
+          <em>(2)</em>
+        </li>
+        <!--        <li (click)="activeMobileMenu = false" routerLinkActive="active">-->
+        <!--          <a accesskey="4" routerLink="/roles" translate>Roles</a>-->
+        <!--          <em>(4)</em>-->
+        <!--        </li>-->
+        <li (click)="activeMobileMenu = false" routerLinkActive="active">
+          <a accesskey="4" routerLink="library" translate>Library</a>
+          <em>(4)</em>
+        </li>
+        <li (click)="activeMobileMenu = false" routerLinkActive="active">
+          <a accesskey="4" routerLink="/integration" translate>Integration</a>
+          <em>(4)</em>
+        </li>
+        <li
+          (click)="activeMobileMenu = false"
+          routerLinkActive="active"
+          [ngClass]="{ active: currentRoute == 'roles' }"
+        >
+          <a accesskey="4" routerLink="/settings" translate>Settings</a>
+          <em>(4)</em>
+        </li>
+        <li class="mobile-only">
+          <a accesskey="8" [href]="accountClientUrl + '/apps/logout'" translate>Logout</a>
+          <em>(8)</em>
+        </li>
+      </ul>
+      <div class="menu" *ngIf="isLoggedIn && activeMobileMenu" (click)="activeMobileMenu = false"></div>
+    </nav>
+    <nav *ngIf="adminService && isLoggedIn" id="user">
+      <ul class="user-menu">
+        <li #notificationMenu class="notification-menu-dropdown-icon">
+          <img class="notification-icon" width="20" height="20" src="images/notification.png" />
+        </li>
+        <li #userMenu>
+          <img class="avatar-icon" width="40" height="40" [src]="avatarUrl" />
+          <span>
+            <strong translate>Hi</strong><strong>{{ adminService.userData.given_name ? ', ' : '' }}</strong
+            >{{ adminService.userData.given_name ? adminService.userData.given_name : '' }}</span
+          >
+        </li>
+        <li #menuDropDownIcon class="arrow-dropdown"></li>
+      </ul>
+      <div #userMenuDropdown class="user-menu-dropdown" *ngIf="showUserMenu">
+        <div class="user-menu-dropdown-user">
+          <img class="avatar-icon" width="50" height="50" [src]="avatarUrl" />
+          <div>
+            <strong class="truncate"
+              >{{ adminService.userData.given_name ? adminService.userData.given_name : '' }}&nbsp;{{
+                adminService.userData.family_name ? adminService.userData.family_name : ''
+              }}</strong
+            >
+            <a class="account-link" [href]="accountClientUrl + '/account'" translate>View your account</a>
+          </div>
+        </div>
+        <div class="user-menu-dropdown-apps">
+          <strong style="margin-left: 8px" translate>Apps</strong>&nbsp;
+          <a class="account-link" [href]="accountClientUrl" translate>View page</a>
+          <div style="text-align: center" *ngIf="!apps.length" translate>You don’t have any apps</div>
+          <div *ngIf="apps.length">
+            <ng-container *ngFor="let app of apps; let elementIndex = index">
+              <div style="width: 100%; display: flex">
+                <div #userMenuApp class="user-menu-dropdown-app" (click)="openAppActions(app, $event, elementIndex)">
+                  <!--              (click)="appsService.openApp(app, 'c'); showUserMenu = false"-->
+                  <div class="user-menu-dropdown-app-info">
+                    <div class="user-menu-dropdown-app-logo">
+                      <img [src]="app.favicon" />
+                    </div>
+                    <div class="user-menu-dropdown-app-details">
+                      <strong class="truncate">{{ app.name }}</strong>
+                      <span class="account-link">{{ app.host_user_type | translate }}</span>
+                    </div>
+                  </div>
+                  <div>
+                    <!--                    <img-->
+                    <!--                      class="user-menu-dropdown-img user-menu-dropdown-admin-icon"-->
+                    <!--                      src="images/apps-app.svg"-->
+                    <!--                      alt=""-->
+                    <!--                      (click)="openAppActions(app, $event, elementIndex)"-->
+                    <!--                    />-->
+
+                    <img
+                      [ngClass]="{ 'opacity-0': showAnimationIndex === elementIndex }"
+                      *ngIf="app.host_granted_status === 1"
+                      class="user-menu-dropdown-img"
+                      src="images/apps-settings-dots.svg"
+                      alt=""
+                      (click)="showAppInvitationModal(app); showUserMenu = false"
+                    />
+                  </div>
+                </div>
+
+                <div
+                  class="user-menu-dropdown-buttons"
+                  *ngIf="app.host_granted_status === 1"
+                  [ngClass]="{ 'buttons-animation': showAnimationIndex === elementIndex }"
+                >
+                  <button
+                    class="apps-button apps-app-button"
+                    (click)="openApp(app, 'app'); showUserMenu = false"
+                    translate
+                  >
+                    App
+                  </button>
+                  <button
+                    class="apps-button"
+                    style="margin-right: 46px"
+                    (click)="openApp(app, 'admin'); showUserMenu = false"
+                    translate
+                  >
+                    Admin
+                  </button>
+
+                  <img
+                    *ngIf="app.host_granted_status === 1"
+                    class="user-menu-dropdown-img"
+                    src="images/apps-settings-dots.svg"
+                    alt=""
+                    (click)="showAppInvitationModal(app); showUserMenu = false"
+                  />
+                </div>
+              </div>
+            </ng-container>
+          </div>
+          <!--          <a class="user-menu-dropdown-link" [href]="accountClientUrl + '/apps/create'">-->
+          <!--            <div class="user-menu-dropdown-app" [class.no-apps]="!apps.length">-->
+          <!--              <div class="user-menu-dropdown-app-info">-->
+          <!--                <div class="user-menu-dropdown-app-logo user-menu-dropdown-create-app-logo"></div>-->
+          <!--                <div class="user-menu-dropdown-app-details">-->
+          <!--                  <strong translate>Create an app</strong>-->
+          <!--                </div>-->
+          <!--              </div>-->
+          <!--            </div>-->
+          <!--          </a>-->
+        </div>
+        <div class="user-menu-dropdown-logout">
+          <a class="user-menu-dropdown-link" [href]="accountClientUrl + '/apps/logout'">
+            <strong translate>Logout</strong>
+          </a>
+        </div>
+      </div>
+      <div #notificationMenuDropdown class="notification-menu-dropdown" *ngIf="showNotificationMenu">
+        <strong translate style="margin-left: 14px">Notifications</strong>&nbsp;
+        <div *ngIf="allNotifications && todayNotifications.length + lastWeekNotifications.length === 0">
+          <div class="notification-menu-dropdown-apps">
+            <p class="text-center notification-label" translate>No notifications yet.</p>
+          </div>
+        </div>
+        <div
+          class="notifications-wrapper"
+          *ngIf="allNotifications && todayNotifications.length + lastWeekNotifications.length > 0"
+        >
+          <div class="notification-menu-dropdown-apps" *ngIf="todayNotifications.length">
+            <strong translate style="margin-left: 8px">Today</strong>&nbsp;
+            <div *ngFor="let notification of todayNotifications">
+              <div class="notification-menu-dropdown-app">
+                <div class="notification-menu-dropdown-app-info">
+                  <div class="notification-menu-dropdown-app-logo">
+                    <img [src]="utilsService.userAvatarUrl(notification.user_id, 60)" />
+                    <img [src]="'../images/module_icons/' + notification.module_name + '-active.png'" />
+                  </div>
+                  <div class="notification-menu-dropdown-app-details" title="{{ notification.subject }}">
+                    <span class="truncate-2 notify-text">{{ notification.subject }}</span>
+                    <span class="notify-date">{{ notification.created_on | timeAgo }}</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="notification-menu-dropdown-apps" *ngIf="lastWeekNotifications.length">
+            <strong translate style="margin-left: 8px">Last Week</strong>&nbsp;
+
+            <ng-container *ngFor="let notification of lastWeekNotifications">
+              <div>
+                <div class="notification-menu-dropdown-app">
+                  <div class="notification-menu-dropdown-app-info">
+                    <div class="notification-menu-dropdown-app-logo">
+                      <img [src]="utilsService.userAvatarUrl(notification.user_id, 60)" />
+                      <img [src]="'../images/module_icons/' + notification.module_name + '-active.png'" />
+                    </div>
+                    <div class="notification-menu-dropdown-app-details" title="{{ notification.subject }}">
+                      <span class="truncate-2 notify-text">{{ notification.subject }}</span>
+                      <span class="notify-date">{{ notification.created_on | timeAgo }}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </ng-container>
+          </div>
+        </div>
+        <div *ngIf="!allNotifications">
+          <div class="notification-menu-dropdown-apps">
+            <strong translate style="margin-left: 8px">Today</strong>&nbsp;
+            <div>
+              <div class="notification-menu-dropdown-app" *ngFor="let app of apps">
+                <div class="notification-menu-dropdown-app-info" *ngIf="app.host_granted_status === 0">
+                  <div class="notification-menu-dropdown-app-logo">
+                    <img [src]="avatarUrl" />
+                  </div>
+                  <div class="notification-menu-dropdown-app-details">
+                    <span translate class="truncate">{{ app.name }} has invited you</span>
+                  </div>
+                </div>
+                <span class="btn rmv-avatar-btn" name="avatar" translate *ngIf="app.host_granted_status === 0">
+                  <i class="icon-x-circle avatar-icon"></i>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="menu" *ngIf="isLoggedIn" (click)="activeMobileMenu = true"></div>
+    <nav
+      id="sub"
+      *ngIf="
+        isLoggedIn &&
+        (currentRoute == 'cases' ||
+          currentRoute == 'cases/create' ||
+          currentRoute == 'cases/edit' ||
+          currentRoute == 'cases/permissions' ||
+          currentRoute == 'users/cases')
+      "
+    >
+      <ul *ngIf="currentRoute == 'cases'">
+        <li [ngClass]="{ active: caseSatusFilterValue == CaseStatus.Active }">
+          <a (click)="caseStatusFilter(CaseStatus.Active)" translate>Active</a>
+        </li>
+        <li [ngClass]="{ active: caseSatusFilterValue == CaseStatus.Closed }">
+          <a (click)="caseStatusFilter(CaseStatus.Closed)" translate>Closed</a>
+        </li>
+      </ul>
+      <h2>
+        <span *ngIf="this.router.url.includes('/cases/') && !this.router.url.includes('user::')">
+          <a class="router-link-style" routerLink="/cases">{{ subTitlesByRoute.cases | translate }}</a> >
+          {{ pageSubMenu | translate }}
+          <span class="router-id-style" *ngIf="this.router.url.includes('-' + getItemIdForTitle())">
+            > {{ getItemIdForTitle() }}
+          </span>
+        </span>
+        <span *ngIf="this.router.url.includes('/users/cases/')">
+          <a class="router-link-style" routerLink="/users">{{ subTitlesByRoute.users | translate }}</a> >
+          {{ pageSubMenu | translate }}
+          <span class="router-id-style" *ngIf="this.router.url.includes('-' + getItemIdForTitle())">
+            > {{ getItemIdForTitle() }}
+          </span>
+        </span>
+      </h2>
+      <p class="link-a a" *ngIf="currentRoute == 'cases'">
+        <a routerLink="/cases/create"> <i class="icon-plus"></i> {{ 'New' | translate }}</a>
+      </p>
+      <ng-container *ngIf="currentRoute === 'cases/permissions'">
+        <ca-button [text]="'Add' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="shownAddModalSwitch()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+    </nav>
+    <nav
+      id="sub"
+      *ngIf="
+        isLoggedIn &&
+        (currentRoute == 'users' ||
+          currentRoute == 'users/add' ||
+          currentRoute == 'users/edit' ||
+          currentRoute == 'users/view')
+      "
+    >
+      <ul *ngIf="currentRoute == 'users'">
+        <!--        <li [ngClass]="{ active: usersFilterVal == UserType.User }">-->
+        <!--          <a (click)="userTypeFilter(UserType.User)" translate>Users</a>-->
+        <!--        </li>-->
+        <!--        <li [ngClass]="{ active: usersFilterVal == UserType.Manager }">-->
+        <!--          <a (click)="userTypeFilter(UserType.Manager)" translate>Managers</a>-->
+        <!--        </li>-->
+        <!--        <li [ngClass]="{ active: usersFilterVal == UserType.Admin }">-->
+        <!--          <a (click)="userTypeFilter(UserType.Admin)" translate>Admins</a>-->
+        <!--        </li>-->
+        <li [ngClass]="{ active: usersFilterVal == UserStatus.Active }">
+          <a (click)="userStatusFilter(UserStatus.Active)" translate>Active</a>
+        </li>
+        <li [ngClass]="{ active: usersFilterVal == UserStatus.Disabled }">
+          <a (click)="userStatusFilter(UserStatus.Disabled)" translate>Disabled</a>
+        </li>
+      </ul>
+      <h2>
+        <span *ngIf="this.router.url.includes('/users/')">
+          <a class="router-link-style" routerLink="/users">{{ subTitlesByRoute.users | translate }}</a> >
+          {{ pageSubMenu | translate }}
+          <!--          <span *ngIf="usersFilterVal == UserType.User" class="router-link-style">-->
+          <!--            <a class="router-link-style" routerLink="/users">{{ subTitlesByRoute.users | translate }}</a>-->
+          <!--            > {{ pageSubMenu | translate }}-->
+          <!--          </span>-->
+          <!--          <span *ngIf="usersFilterVal == UserType.Manager" class="router-link-style">-->
+          <!--            <a class="router-link-style" routerLink="/users">{{ 'Managers' | translate }}</a>-->
+          <!--            > {{ 'Edit Manager' | translate }}-->
+          <!--          </span>-->
+          <!--          <span *ngIf="usersFilterVal == UserType.Admin" class="router-link-style">-->
+          <!--            <a class="router-link-style" routerLink="/users">{{ 'Admins' | translate }}</a>-->
+          <!--            <span *ngIf="this.router.url.includes('users/view/')"> > {{ 'View Admin' | translate }} </span>-->
+          <!--            <span *ngIf="this.router.url.includes('users/edit/')"> > {{ 'Edit Admin' | translate }} </span>-->
+          <!--          </span>-->
+          <span class="router-id-style" *ngIf="this.router.url.includes('-' + getItemIdForTitle())">
+            > {{ getItemIdForTitle() }}
+          </span>
+        </span>
+      </h2>
+      <ng-container *ngIf="currentRoute == 'users' && usersFilterVal != UserType.Admin">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAddUserToHostModal()" [fontWeight]="700" margin="0 0 10px"></ca-button>
+      </ng-container>
+    </nav>
+    <!--    <nav-->
+    <!--      id="sub"-->
+    <!--      *ngIf="isLoggedIn && (currentRoute == 'roles' || currentRoute == 'roles/add' || currentRoute == 'roles/edit')"-->
+    <!--    >-->
+    <!--      <ul *ngIf="currentRoute == 'roles'">-->
+    <!--        <li [ngClass]="{ active: roleFilterValue == RoleType.System }">-->
+    <!--          <a (click)="roleTypeFilter(RoleType.System)">System</a>-->
+    <!--        </li>-->
+    <!--        <li [ngClass]="{ active: roleFilterValue == RoleType.Custom }">-->
+    <!--          <a (click)="roleTypeFilter(RoleType.Custom)">Custom</a>-->
+    <!--        </li>-->
+    <!--      </ul>-->
+    <!--      <h2>-->
+    <!--        <span *ngIf="this.router.url.includes('/roles/')">-->
+    <!--          <a class="router-link-style" routerLink="/roles">{{ subTitlesByRoute.roles | translate }}</a> >-->
+    <!--          {{ pageSubMenu | translate }}-->
+    <!--          <span class="router-id-style" *ngIf="this.router.url.includes('-' + getItemIdForTitle())">-->
+    <!--            > {{ getItemIdForTitle() }}-->
+    <!--          </span>-->
+    <!--        </span>-->
+    <!--      </h2>-->
+    <!--      <p class="link-a a" *ngIf="currentRoute == 'roles'">-->
+    <!--        <a [routerLink]="['roles/add']"> <i class="icon-plus"></i> {{ 'New' | translate }}</a>-->
+    <!--      </p>-->
+    <!--    </nav>-->
+    <nav id="sub" *ngIf="isLoggedIn && integrationSubitems[currentRoute]">
+      <ul>
+        <li [ngClass]="{ active: currentRoute == 'integration' || currentRoute == 'integration/import' }">
+          <a [routerLink]="['integration']" translate>Imports</a>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]="['integration/webhooks']" translate>Webhooks</a>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]="['integration/keys']" translate>Keys</a>
+        </li>
+      </ul>
+      <h2>
+        <span *ngIf="router.url.includes('/integration')">
+          <a class="router-link-style" routerLink="/integration">
+            <ng-container *ngIf="this.router.url.includes('/import/view/')">{{ 'Imports' | translate }}</ng-container>
+            <ng-container *ngIf="!this.router.url.includes('/import/view/')">{{
+              pageSubMenu | translate
+            }}</ng-container>
+          </a>
+          <span *ngIf="router.url.includes('/view/import')"> > {{ 'View import' | translate }}</span>
+          <span class="router-id-style" *ngIf="router.url.includes('-' + getItemIdForTitle())">
+            > {{ getItemIdForTitle() }}
+          </span>
+        </span>
+      </h2>
+      <ng-container *ngIf="currentRoute === 'integration'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAddImportsModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+       <ng-container *ngIf="currentRoute === 'integration/keys'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAddKeyModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+      <ng-container *ngIf="currentRoute === 'integration/webhooks'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAddWebhookModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+    </nav>
+    <nav id="sub" *ngIf="isLoggedIn && librarySubitems[currentRoute]">
+      <ul [ngClass]="{ 'none-margin-bottom': !!noneBottomMenuItems[threeChainsOfRoute] }">
+        <li [ngClass]="{ active: currentRoute == 'library' }">
+          <a routerLink="library" translate>Feed Templates</a>
+        </li>
+        <li routerLinkActive="active">
+          <a routerLink="library/forms" translate>Form Templates</a>
+        </li>
+        <li routerLinkActive="active">
+          <a routerLink="library/e-signs" translate>E-sign Templates</a>
+        </li>
+        <li routerLinkActive="active">
+          <a routerLink="library/tasks" translate>Task Templates</a>
+        </li>
+        <li routerLinkActive="active">
+          <a routerLink="library/offices" translate>Locations</a>
+        </li>
+      </ul>
+      <h2
+        class="disable-capitalize"
+        [ngClass]="{ 'full-width': stepBackSupport[threeChainsOfRoute] }"
+        *ngIf="librarySubitems[currentRoute] && !threeChainLibrarySubitems[threeChainsOfRoute]"
+      >
+        {{ pageSubMenu | translate }}
+        <i
+          class="icon-x-thin close-route"
+          *ngIf="stepBackSupport[threeChainsOfRoute]"
+          (click)="goToRoute(stepBackSupport[threeChainsOfRoute])"
+        ></i>
+      </h2>
+      <ng-container *ngIf="currentRoute === 'library/offices'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAddLocationModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+      <ng-container *ngIf="currentRoute === 'library'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAddFileModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+      <ng-container *ngIf="currentRoute === 'library/tasks'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="createTask()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+      <ng-container *ngIf="currentRoute === 'library/forms' && threeChainsOfRoute !== 'library/forms/doc-form-builder' && threeChainsOfRoute !== 'library/forms/form-builder'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="createForm(CreateFormType.FileUpload)" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+      <ng-container *ngIf="currentRoute === 'library/e-signs' && threeChainsOfRoute !== 'library/e-signs/doc-e-signs-builder' && threeChainsOfRoute !== 'library/e-signs/e-signs-builder'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="createSign(CreateFormType.FileUpload)" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+    </nav>
+
+    <nav id="sub" *ngIf="isLoggedIn && homeSubItem[currentRoute]">
+      <ul [ngClass]="{ 'none-margin-bottom': !!noneBottomMenuItems[threeChainsOfRoute] }">
+        <li [ngClass]="{ active: currentRoute == '' }">
+          <a routerLink="/" translate>Dashboard</a>
+        </li>
+        <li routerLinkActive="active">
+          <a routerLink="announcements" translate>Announcements</a>
+        </li>
+        <li routerLinkActive="active">
+          <a routerLink="support" translate>Support</a>
+        </li>
+        <li routerLinkActive="active">
+          <a routerLink="invoices" translate>Payments</a>
+        </li>
+      </ul>
+
+      <h2
+        class="disable-capitalize"
+        [ngClass]="{ 'full-width': stepBackSupport[threeChainsOfRoute] }"
+        *ngIf="currentRoute !== ''"
+      >
+        {{ pageSubMenu | translate }}
+        <i
+          class="icon-x-thin close-route"
+          *ngIf="stepBackSupport[threeChainsOfRoute]"
+          (click)="goToRoute(stepBackSupport[threeChainsOfRoute])"
+        ></i>
+      </h2>
+
+      <ng-container *ngIf="currentRoute === 'announcements'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="openAnnouncementPopup()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+
+      <ng-container *ngIf="currentRoute === 'support'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="openTicketPopup()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+
+    </nav>
+
+    <nav id="sub" *ngIf="isLoggedIn" [hidden]="currentRoute !== ''">
+      <form action="./" method="post">
+        <h2>{{ pageSubMenu | translate }}</h2>
+        <p class="dashboard-select">
+          <label for="dashboard-views" class="hidden">Sort by</label>
+          <ng-select
+            #sortElem
+            [items]="dashboardViews"
+            bindLabel="text"
+            bindValue="id"
+            name="dashboard-view"
+            (change)="pageViewSwitch($event); requestMetrics()"
+            placeholder="{{ 'Sessions' | translate }}"
+          ></ng-select>
+        </p>
+      </form>
+      <form (submit)="requestMetrics()" [formGroup]="viewDatesForm">
+        <p>
+          <label for="tb" translate>From</label>
+          <span class="date-input">
+            <input
+              mwlFlatpickr
+              id="tb"
+              type="date"
+              name="viewStartDate"
+              dateFormat="m/d/Y"
+              placeholder="mm/dd/yyyy"
+              formControlName="viewStartDate"
+              (flatpickrChange)="checkDateRange(ViewDateType.ViewStartDate, $event); requestMetrics()"
+            />
+          </span>
+        </p>
+        <p>
+          <label for="tc" translate>To</label>
+          <span class="date-input">
+            <input
+              mwlFlatpickr
+              id="tc"
+              type="date"
+              name="viewEndDate"
+              dateFormat="m/d/Y"
+              placeholder="mm/dd/yyyy"
+              formControlName="viewEndDate"
+              (flatpickrChange)="checkDateRange(ViewDateType.ViewEndDate, $event); requestMetrics()"
+            />
+          </span>
+        </p>
+      </form>
+    </nav>
+
+    <nav
+      id="sub"
+      *ngIf="
+        isLoggedIn &&
+        settingsSubitems[currentRoute] &&
+        threeChainsOfRoute !== 'settings/intake-forms/doc-form-builder' &&
+        threeChainsOfRoute !== 'settings/intake-forms/form-builder'
+      "
+    >
+      <ul>
+        <li [ngClass]="{ active: currentRoute == 'settings' }">
+          <a [routerLink]="['settings']" translate>System</a>
+        </li>
+        <li
+          [ngClass]="{
+            active: currentRoute == 'settings/user-intake-settings' || currentRoute == 'settings/intake-forms'
+          }"
+        >
+          <a [routerLink]="['settings/intake-forms']" translate>User Intake</a>
+        </li>
+        <li
+          [ngClass]="{
+            active:
+              currentRoute == 'settings/caseform' ||
+              currentRoute == 'settings/noteform' ||
+              currentRoute == 'settings/userform'
+          }"
+        >
+          <a [routerLink]="['settings/caseform']" translate>Custom Fields</a>
+        </li>
+        <li [ngClass]="{ active: currentRoute.includes('settings/after-actions') }">
+          <a [routerLink]="['settings/after-actions-users']" translate>After Actions</a>
+        </li>
+        <li
+          [ngClass]="{
+            active: currentRoute == 'roles' || currentRoute == 'settings/modules'
+          }"
+        >
+          <a [routerLink]="['settings/modules']" translate>Advance Settings</a>
+        </li>
+      </ul>
+      <h2
+        *ngIf="
+          threeChainsOfRoute !== 'settings/intake-forms/doc-form-builder' &&
+          threeChainsOfRoute !== 'settings/intake-forms/form-builder'
+        "
+      >
+        {{ pageSubMenu | translate }}
+      </h2>
+      <p class="link-a a" *ngIf="currentRoute == 'settings/logs'">
+        <a (click)="activateAddLogsModal()"> <i class="icon-plus"></i> {{ 'Add' | translate }}</a>
+      </p>
+      <p class="link-a a" *ngIf="currentRoute == 'roles'">
+        <a [routerLink]="['roles/add']"> <i class="icon-plus"></i> {{ 'New' | translate }}</a>
+      </p>
+      <ng-container *ngIf="currentRoute === 'settings/user-intake-settings'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateUserIntakeModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+      <ng-container *ngIf="currentRoute === 'settings/intake-forms' && threeChainsOfRoute !== 'settings/intake-forms/doc-form-builder' && threeChainsOfRoute !== 'settings/intake-forms/form-builder'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="createIntake(CreateFormType.FileUpload)" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container> 
+      <ng-container *ngIf="currentRoute === 'settings/after-actions-users'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAfterActionsUsersModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+      <ng-container *ngIf="currentRoute === 'settings/after-actions-templates'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAfterActionsTemplatesModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>  
+      <ng-container *ngIf="currentRoute === 'settings/after-actions-cases'">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [isIcon]="true" (btnClick)="activateAfterActionsCasesModal()" [fontWeight]="700" margin="6px 0 0"></ca-button>
+      </ng-container>
+
+    </nav>
+  </header>
+
+  <div id="systemErrorException">
+    <div class="exception" *ngIf="systemErrorException">
+      <p class="notice-a" ca-translate="systemErrorException"></p>
+    </div>
+  </div>
+
+  <div class="main-container">
+    <router-outlet></router-outlet>
+    <!-- <router-outlet *ngIf="!routeLoaderActive"></router-outlet> -->
+
+    <!-- <article id="content" class="module-d" *ngIf="routeLoaderActive">
+      <app-loader class="clear-both" [active]="routeLoaderActive"></app-loader>
+    </article> -->
+  </div>
+
+  <footer id="footer" *ngIf="isLoggedIn">
+    <img class="logo" [src]="logoSrc" (error)="logoLoaded = false" (load)="logoLoaded = true" />
+    <p>
+      <span translate>Made with</span>
+      <i class="icon-heart overlay-a"></i>
+      <span class="hidden">love</span> in New York City <br />
+      ©
+      <span translate>CaseActive </span>
+      <span class="date">{{ currentYear }} </span>
+      <span translate>All rights reserved </span> | <a [href]="termsOfUseUrl" translate>Terms of Use</a> |
+      <a target="_blank" [href]="contactUs" translate>Contact Us</a>
+    </p>
+  </footer>
+
+  <form method="post" class="popup-a a form-d shown" *ngIf="shownConfirmationForm" (submit)="confirmRecordDelete()">
+    <div class="box-outer">
+      <div class="box-inner" *ngIf="!showPopUpLoader">
+        <h2 translate>{{ deleteConfirmationTitle }}</h2>
+
+        <p>{{ deleteConfirationMessage! | translate }}</p>
+
+        <p class="submit">
+          <button type="submit" class="confirm-yes">Yes</button>
+          <a class="confirm-close" (click)="shownConfirmationForm = false; stylesService.popUpDisactivated()"
+            ><a>Cancel</a></a
+          >
+        </p>
+        <a class="close" (click)="shownConfirmationForm = false; stylesService.popUpDisactivated()">Close</a>
+      </div>
+      <div class="popup-loader" *ngIf="showPopUpLoader">
+        <app-loader [active]="true"></app-loader>
+      </div>
+      <a class="close" (click)="shownConfirmationForm = false; stylesService.popUpDisactivated()">Close</a>
+    </div>
+  </form>
+</div>
+
+<app-pop-in-box></app-pop-in-box>
+<app-server-error-modal *ngIf="showServerErrorModal === true"></app-server-error-modal>
+<app-accept-invitation-modal *ngIf="appsService.showModal" [app]="selectedApp"></app-accept-invitation-modal>
+<app-payment-error-modal *ngIf="showPaymentErrorModal"></app-payment-error-modal>
+<app-tour></app-tour>
+<div class="popup-a a form-d shown" *ngIf="globalModalService.isChunkErrorModalShowed">
+  <div class="box-outer">
+    <div class="box-inner">
+      <ca-chunk-loading-error-modal (closeModal)="globalModalService.isChunkErrorModalShowed = false"></ca-chunk-loading-error-modal> 
+    </div>
+    
+    <a class="close" (click)="globalModalService.isChunkErrorModalShowed = false">Close</a>
+  </div>
+</div>
+
+<div class="analytics" #analyticsScript></div>

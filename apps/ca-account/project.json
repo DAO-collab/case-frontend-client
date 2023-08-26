@@ -1,0 +1,180 @@
+{
+  "name": "ca-account",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/ca-account/src",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@angular-devkit/build-angular:browser",
+      "options": {
+        "outputPath": "dist/apps/ca-account",
+        "index": "apps/ca-account/src/index.html",
+        "main": "apps/ca-account/src/main.ts",
+        "tsConfig": "apps/ca-account/tsconfig.app.json",
+        "polyfills": "apps/ca-account/src/polyfills.ts",
+        "assets": [
+          "apps/ca-account/src/assets",
+          "apps/ca-account/src/styles",
+          "apps/ca-account/src/options",
+          "apps/ca-account/src/images",
+          "apps/ca-account/src/javascript",
+          "apps/ca-account/src/favicon.ico",
+          {
+            "input": "shared/options",
+            "glob": "**/*",
+            "output": "opts"
+          }
+        ],
+        "styles": [
+          "apps/ca-account/src/styles/screen.css", 
+          "apps/ca-account/src/styles.css", 
+          "libs/ui/src/lib/styles/module.scss",
+          "./node_modules/intl-tel-input/build/css/intlTelInput.css"
+        ],        
+        "scripts": [],
+        "vendorChunk": true,
+        "extractLicenses": false,
+        "buildOptimizer": false,
+        "sourceMap": true,
+        "optimization": false,
+        "namedChunks": true
+      },
+      "configurations": {
+        "develop": {
+          "budgets": [
+            {
+              "type": "anyComponentStyle",
+              "maximumWarning": "6kb"
+            }
+          ],
+          "optimization": true,
+          "outputHashing": "all",
+          "sourceMap": false,
+          "namedChunks": false,
+          "extractLicenses": true,
+          "vendorChunk": false
+        },
+        "local-dev": {
+          "budgets": [
+            {
+              "type": "anyComponentStyle",
+              "maximumWarning": "6kb"
+            }
+          ],
+          "fileReplacements": [
+            {
+              "replace": "apps/ca-account/src/environments/environment.ts",
+              "with": "apps/ca-account/src/environments/environment.local.ts"
+            }
+          ],
+          "optimization": true,
+          "outputHashing": "all",
+          "sourceMap": false,
+          "namedChunks": false,
+          "extractLicenses": true,
+          "vendorChunk": false
+        },
+        "stage": {
+          "optimization": true,
+          "outputHashing": "all",
+          "sourceMap": false,
+          "namedChunks": false,
+          "extractLicenses": true,
+          "vendorChunk": false,
+          "buildOptimizer": true,
+          "budgets": [
+            {
+              "type": "anyComponentStyle",
+              "maximumWarning": "6kb"
+            }
+          ],
+          "fileReplacements": [
+            {
+              "replace": "apps/ca-account/src/environments/environment.ts",
+              "with": "apps/ca-account/src/environments/environment.stage.ts"
+            }
+          ]
+        },
+        "master": {
+          "optimization": true,
+          "outputHashing": "all",
+          "sourceMap": false,
+          "namedChunks": false,
+          "extractLicenses": true,
+          "vendorChunk": false,
+          "buildOptimizer": true,
+          "budgets": [
+            {
+              "type": "anyComponentStyle",
+              "maximumWarning": "6kb"
+            }
+          ],
+          "fileReplacements": [
+            {
+              "replace": "apps/ca-account/src/environments/environment.ts",
+              "with": "apps/ca-account/src/environments/environment.master.ts"
+            }
+          ]
+        }
+      },
+      "defaultConfiguration": ""
+    },
+    "serve": {
+      "executor": "@angular-devkit/build-angular:dev-server",
+      "options": {
+        "browserTarget": "ca-account:build",
+        "proxyConfig": "proxy.conf.json",
+        "port": 4201
+      },
+      "configurations": {
+        "develop": {
+          "browserTarget": "ca-account:build:develop"
+        },
+        "local-dev": {
+          "browserTarget": "ca-account:build:local-dev"
+        },
+        "stage": {
+          "browserTarget": "ca-account:build:stage"
+        },
+        "master": {
+          "browserTarget": "ca-account:build:master"
+        }
+      }
+    },
+    "extract-i18n": {
+      "executor": "@angular-devkit/build-angular:extract-i18n",
+      "options": {
+        "browserTarget": "ca-account:build"
+      }
+    },
+    "test": {
+      "executor": "@angular-devkit/build-angular:karma",
+      "options": {
+        "main": "apps/ca-account/src/test.ts",
+        "karmaConfig": "apps/ca-account/karma.conf.js",
+        "polyfills": "apps/ca-account/src/polyfills.ts",
+        "tsConfig": "apps/ca-account/tsconfig.spec.json",
+        "scripts": [
+          "node_modules/video.js/dist/video.min.js",
+          "node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js"
+        ],
+        "styles": ["apps/ca-account/src/styles.css", "~@ng-select/ng-select/themes/default.theme.css"],
+        "assets": [
+          "apps/ca-account/src/assets",
+          "apps/ca-account/src/styles",
+          "apps/ca-account/src/options",
+          "apps/ca-account/src/images",
+          "apps/ca-account/src/javascript",
+          "apps/ca-account/src/favicon.ico"
+        ]
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/ca-account/**/*.ts", "apps/ca-account/**/*.html"]
+      }
+    }
+  }
+}

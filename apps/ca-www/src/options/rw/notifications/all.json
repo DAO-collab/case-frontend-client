@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Iyo inyandiko yongewe kuri Feed",
+  "app_confirmation_events": "Ibirori rsvp ndabisabwe",
+  "app_submission_events": "Ibyabaye rsvp birasubizwa",
+  "app_requested_forms": "Impapuro zabugenewe zisabwa kuri njye",
+  "app_submission_forms": "Ifishi yanjye yatanzwe numuntu",
+  "app_requested_signs": "Gutanga umukono birasabwa kuri njye",
+  "app_submission_signs": "Inyandiko yanjye yashyizweho umukono numuntu",
+  "app_requested_tasks": "Inshingano iransabwa",
+  "app_submission_tasks": "Igikorwa cyanjye cyarangiye numuntu",
+  "app_requested_invoices": "Inyemezabuguzi zisabwa kuri njye",
+  "app_submission_invoices": "Inyemezabuguzi yanjye yishyuwe numuntu"
+}

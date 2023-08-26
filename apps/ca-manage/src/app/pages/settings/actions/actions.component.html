@@ -1,0 +1,208 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../modules']">{{ 'Modules' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../roles']">{{ 'Roles' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+  <div class="action-title">
+    <h3 class="action-title-h3">
+      {{ 'When a case is created, auto assign these users' | translate }}
+
+      <button class="custom-color-builder-button action-title-button" (click)="shownAddModalSwitch()">
+        <i class="icon-plus"></i> {{ 'Add' | translate }}
+      </button>
+    </h3>
+  </div>
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="!loading">
+      <tr>
+        <th translate>Name</th>
+        <th translate>User Name</th>
+        <th translate>Role</th>
+        <th translate>Notify</th>
+      </tr>
+      <tr *ngIf="this.afterActionList.length === 0">
+        <td class="text-center" colspan="5">No User Assigned</td>
+      </tr>
+      <ng-container *ngIf="this.afterActionList.length > 0 && !loading">
+        <tr *ngFor="let actions of afterActionList; let index = index">
+          <td class="left-align">{{ userByID[actions.user_id] }}</td>
+          <td class="left-align">{{ userEmailByID[actions.user_id] }}</td>
+          <td>{{ rolesById[actions.role_id] }}</td>
+          <td>{{ actions.notify }}</td>
+        </tr>
+      </ng-container>
+    </table>
+  </div>
+  <div class="pagination_container">
+    <button
+      class="custom-color-builder-button action-remove-button"
+      appConfirmationPopUp
+      (yes)="runRemove()"
+      title="Delete Action"
+      [message]="'You are about to delete action. Are you sure?'"
+      translate
+    >
+      {{ 'Remove All' | translate }}
+    </button>
+    <!--    <nav class="pages">-->
+    <!--      <ul class="pagination">-->
+    <!--        <li class="page-item">-->
+    <!--          <a-->
+    <!--            class="custom-color-builder-button"-->
+    <!--            appConfirmationPopUp-->
+    <!--            (yes)="runRemove()"-->
+    <!--            [message]="'You are about to delete record. Are you sure?'"-->
+    <!--            translate-->
+    <!--          >Remove All</a>-->
+    <!--        </li>-->
+    <!--      </ul>-->
+    <!--    </nav>-->
+  </div>
+</article>
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="shownAddModal"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="assignUserForm"
+  (submit)="createActions()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Assign User</h2>
+      <p>
+        <label for="usersDropdown" class="required" translate>Host User</label>
+        <span class="username-field-wrap">
+          <span
+            #usernameTypesMenuToggle
+            class="username-type"
+            (click)="showUsernameTypeFilter = !showUsernameTypeFilter; isOpenDropDown = false"
+          >
+            {{ searchKeyText | translate }}
+            <div #usernameTypesMenu class="username-type-filters" [ngClass]="{ on: showUsernameTypeFilter }">
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.Email)" translate>Email</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.Phone)" translate>Phone</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.FirstName)" translate>First Name</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.LastName)" translate>Last Name</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.TagId)" translate>Tag ID</div>
+            </div>
+          </span>
+          <p style="display: flex">
+            <!-- <international-phone-number
+              id="phoneNumberInput"
+              formControlName="phone_number"
+              *ngIf="usernameType === UsernameType.Phone"
+              [defaultCountry]="defaultCountry"
+              (onCountryCodeChanged)="onCountryCodeChange($any($event))"
+              (keydown)="onKeyDown($event)"
+            ></international-phone-number> -->
+            <ngx-intl-tel-input
+              id="phoneNumberInput"
+              class="inter-input"
+              *ngIf="usernameType === UsernameType.Phone"
+              formControlName="phone_number"
+              [maxlength]="15"
+              [preferredCountries]="preferredCountries"
+              [enableAutoCountrySelect]="false"
+              [enablePlaceholder]="true"
+              [searchCountryFlag]="true"
+              [searchCountryField]="[
+                SearchCountryField.Iso2,
+                SearchCountryField.Name
+              ]"
+              [selectFirstCountry]="false"
+              [phoneValidation]="false"
+              [separateDialCode]="true"
+              [numberFormat]="PhoneNumberFormat.International"
+              (countryChange)="onCountryCodeChange($event)"
+              name="phoneNumberInput"
+            ></ngx-intl-tel-input>
+            <ng-select
+              #usersDropdownField
+              id="usersDropdown"
+              bindValue="user_id"
+              formControlName="user_id"
+              [notFoundText]="'No Users Found' | translate"
+              [items]="users"
+              [bindLabel]="usernameType"
+              [isOpen]="isOpenDropDown"
+              (select)="onChange()"
+              [closeOnSelect]="true"
+              (change)="onChange()"
+              (search)="onSearchType($event)"
+              [placeholder]="'Type User ' + searchKeyText"
+            >
+              <ng-template ng-notfound-tmp let-searchTerm="searchTerm">
+                <div class="ng-option disabled">
+                  No Users Found
+                  <p class="submit add-user-btn" *ngIf="showAddUserButton">
+                    <button type="submit" (click)="showUserModal(usersDropdownField.searchTerm)" translate>
+                      ADD USER
+                    </button>
+                  </p>
+                </div>
+              </ng-template>
+            </ng-select>
+          </p>
+          <app-error
+            [fieldValue]="assignUserForm.controls['user_id'].value"
+            [regularHtmlElementName]="usersDropdownField"
+            [validationErrors]="validationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+        </span>
+      </p>
+      <p>
+        <label for="RoleId" class="required" translate>Role</label>
+        <ng-select
+          #rolesDropdownField
+          id="RoleId"
+          bindLabel="text"
+          bindValue="id"
+          name="role-id-select"
+          placeholder="{{ 'No role selected' | translate }}"
+          formControlName="role_id"
+          [items]="rolesSelectList"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['role_id'].value"
+          [regularHtmlElementName]="rolesDropdownField"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p style="display: inline-block">
+        <label for="notify" style="float: right; margin-left: 10px" translate>Notify</label>
+        <input type="checkbox" class="cursor-pointer" id="notify" name="notify" formControlName="notify" />
+      </p>
+
+      <p class="submit">
+        <button type="submit" class="f-right" translate>Save</button>
+      </p>
+      <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+  </div>
+</form>
+
+<app-add-user-modal
+  *ngIf="!loading && shownAddUserModal"
+  [username]="username"
+  [type]="type"
+  [showTagId]="false"
+  [countryCode]="selectedCountryCode"
+  [defaultValue]="userInputValue"
+  (save)="onSaveUser($event)"
+  (close)="onAddUserModalClose()"
+></app-add-user-modal>
+<app-case-user></app-case-user>

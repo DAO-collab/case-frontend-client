@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Ler todo o campo do caso especificar no rol",
+    "write": "Escriba todos os campos de casos especificados no rol"
+  },
+  "convos": {
+    "read_all": "Ver o estado actual de convos.",
+    "manage_own": "\u00danete e desacopla a conversa.",
+    "moderate_others": "Iniciar conversa, finalizar conversa e eliminar participante.",
+    "read_all_submissions": "Le todas as conversas gravadas."
+  },
+  "events": {
+    "read_all": "Le todos os eventos.",
+    "manage_own": "Crear, actualizar e eliminar o propio evento.",
+    "moderate_others": "Actualiza e elimina o evento doutro.",
+    "read_all_submissions": "Le todas as confirmaci\u00f3ns do evento.",
+    "submit_own": "Confirmar a solicitude de asistencia ao evento."
+  },
+  "posts": {
+    "read_all": "Le todas as publicaci\u00f3ns.",
+    "manage_own": "Crear, actualizar e eliminar a propia publicaci\u00f3n.",
+    "moderate_others": "Actualiza e elimina a publicaci\u00f3n doutra persoa."
+  },
+  "forms": {
+    "read_all": "Le todos os formularios.",
+    "manage_own": "Crear, actualizar e eliminar o propio formulario.",
+    "moderate_others": "Actualiza e elimina o formulario doutro.",
+    "read_all_submissions": "Le todos os env\u00edos do formulario.",
+    "submit_own": "Enviar solicitude de formulario."
+  },
+  "invoices": {
+    "read_all": "Le todas as facturas.",
+    "manage_own": "Crear, actualizar e eliminar a propia factura.",
+    "moderate_others": "Actualiza e elimina a factura doutros.",
+    "read_all_submissions": "Le todos os env\u00edos de facturas.",
+    "submit_own": "Enviar solicitude de factura."
+  },
+  "notes": {
+    "read_all": "Le todas as notas.",
+    "manage_own": "Crear, actualizar e eliminar a propia nota.",
+    "moderate_others": "Actualiza e elimina a nota doutro."
+  },
+  "signs": {
+    "read_all": "Le todos os sinais electr\u00f3nicos.",
+    "manage_own": "Crear, actualizar e eliminar o propio sinal electr\u00f3nico.",
+    "moderate_others": "Actualiza e elimina o sinal electr\u00f3nico doutro.",
+    "read_all_submissions": "Le todos os env\u00edos de sinais electr\u00f3nicos.",
+    "submit_own": "Enviar solicitude de campo."
+  },
+  "tasks": {
+    "read_all": "Le todas as tarefas.",
+    "manage_own": "Crear, actualizar e eliminar tarefas propias.",
+    "moderate_others": "Actualiza e elimina a tarefa doutro.",
+    "read_all_submissions": "Le todos os env\u00edos de tarefas.",
+    "submit_own": "Enviar solicitude de tarefa."
+  },
+  "team": { "read_all": "Ler equipo por se" }
+}

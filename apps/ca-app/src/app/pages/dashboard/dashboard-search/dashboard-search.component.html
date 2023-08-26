@@ -1,0 +1,22 @@
+<div class="search">
+  <img
+    class="image-search"
+    src="images/dashboard-search.svg"
+    alt=""
+    *ngIf="!visible"
+    (click)="toggleSearchVisibility()"
+  />
+
+  <div class="search-wrapper" *ngIf="visible">
+    <input class="search-input" type="text" placeholder="Search" (input)="onKeyDown($event)" />
+
+    <img class="search-input-image-search" src="images/dashboard-search.svg" alt="" />
+
+    <img
+      class="search-input-image-close"
+      src="images/dashboard-close-search.svg"
+      alt=""
+      (click)="toggleSearchVisibility()"
+    />
+  </div>
+</div>

@@ -1,0 +1,18 @@
+{
+  "family_name": "Cognome",
+  "given_name": "nome di battesimo",
+  "locale": "Lingua preferita",
+  "zoneinfo": "Fuso orario",
+  "email": "Indirizzo email",
+  "phone": "Numero di telefono",
+  "address1": "Indirizzo",
+  "address2": "Apt # o Unit #",
+  "locality": "Citt\u00e0 o localit\u00e0",
+  "region": "Stato o Regione",
+  "postal_code": "Codice postale o CAP",
+  "country": "Nazione",
+  "birthdate": "Data di nascita",
+  "gender": "Genere",
+  "company": "Azienda",
+  "title": "Nome Titolo"
+}

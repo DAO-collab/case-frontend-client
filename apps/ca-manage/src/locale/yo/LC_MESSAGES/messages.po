@@ -1,0 +1,519 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-01-15T21:57:38.438966\n"
+"PO-Revision-Date: 2018-01-15T21:57:38.930277\n"
+"Language: yo\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/repo/src/cases/create-case.html:17
+#: /tmp/repo/src/cases/create-case.html:19
+#: /tmp/repo/src/cases/edit-case.html:21 /tmp/repo/src/cases/edit-case.html:23
+msgid "About"
+msgstr "Nipa"
+
+#: /tmp/repo/src/users/create-user.html:70
+msgid "Add"
+msgstr "Fi kun"
+
+#: /tmp/repo/src/users/add-user.controller.js:14
+msgid "Add User"
+msgstr "Fi Olumulo kun"
+
+#: /tmp/repo/src/users/create-user.html:71
+msgid "Adding..."
+msgstr "Fifi ..."
+
+#: /tmp/repo/src/profile/profile.html:107
+#: /tmp/repo/src/profile/profile.html:119
+#: /tmp/repo/src/profile/profile.html:121
+#: /tmp/repo/src/profile/profile.html:122
+msgid "Address"
+msgstr "Adirẹsi"
+
+#: /tmp/repo/src/profile/profile.html:110
+#: /tmp/repo/src/profile/profile.html:126
+#: /tmp/repo/src/profile/profile.html:128
+#: /tmp/repo/src/profile/profile.html:129
+msgid "Address 2"
+msgstr "Adirẹsi 2"
+
+#: /tmp/repo/src/root/root.html:127
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "Gbogbo awọn ẹtọ wa ni ipamọ"
+
+#: /tmp/repo/src/login/login.html:21
+msgid ""
+"All rights\n"
+"        reserved"
+msgstr "Gbogbo awọn ẹtọ wa ni ipamọ"
+
+#: /tmp/repo/src/cases/assign-user.controller.js:20
+msgid "Assign User"
+msgstr "Fi Olumulo fun"
+
+#: /tmp/repo/src/groups/create-group.html:24
+#: /tmp/repo/src/groups/create-group.html:26
+#: /tmp/repo/src/groups/edit-group.html:24
+#: /tmp/repo/src/groups/edit-group.html:26
+msgid "Audios"
+msgstr "Audios"
+
+#: /tmp/repo/src/profile/profile.html:11
+msgid "Basic"
+msgstr "Ipilẹ"
+
+#: /tmp/repo/src/cases/assign-case.html:37
+#: /tmp/repo/src/cases/create-case.html:50
+#: /tmp/repo/src/cases/edit-case.html:54
+#: /tmp/repo/src/groups/create-group.html:74
+#: /tmp/repo/src/groups/edit-group.html:78
+#: /tmp/repo/src/profile/profile.html:222 /tmp/repo/src/users/add-user.html:28
+#: /tmp/repo/src/users/create-user.html:73
+#: /tmp/repo/src/users/edit-user.html:45
+msgid "Cancel"
+msgstr "Fagilee"
+
+#: /tmp/repo/src/cases/assign-case.html:17
+msgid "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+msgstr "<span class=\"float-right\">Ifi ṣe pataki {{vm.actionCaseId}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform.controller.js:27
+msgid "Case Form Fields"
+msgstr "Awọn aaye Ilana Fọọmu"
+
+#: /tmp/repo/src/cases/create-case.html:13
+msgid "Case Info"
+msgstr "Alaye Alaye"
+
+#: /tmp/repo/src/cases/edit-case.html:17
+msgid "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+msgstr "Alaye Alaye <span class=\"float-right\">[{vm.editData.case_id}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:9
+msgid "Case form updated"
+msgstr "A fọọmu fọọmu"
+
+#: /tmp/repo/src/cases/assign-case.html:8 /tmp/repo/src/cases/edit-case.html:8
+msgid "Case not found!"
+msgstr "Iru ko ri!"
+
+#: /tmp/repo/src/index.html:5 /tmp/repo/src/login/login.html:21
+#: /tmp/repo/src/root/root.html:127
+msgid "CaseActive"
+msgstr "CaseActive"
+
+#: /tmp/repo/src/cases/cases.controller.js:31 /tmp/repo/src/root/root.html:21
+msgid "Cases"
+msgstr "Awọn idi"
+
+#: /tmp/repo/src/profile/profile.html:113
+msgid ""
+"City\n"
+"                    /Locality"
+msgstr "Ilu / agbegbe"
+
+#: /tmp/repo/src/profile/profile.html:133
+#: /tmp/repo/src/profile/profile.html:135
+#: /tmp/repo/src/profile/profile.html:136
+msgid "City/Locality"
+msgstr "Ilu / agbegbe"
+
+#: /tmp/repo/src/profile/profile.html:82 /tmp/repo/src/profile/profile.html:90
+#: /tmp/repo/src/profile/profile.html:92 /tmp/repo/src/profile/profile.html:93
+msgid "Company Name"
+msgstr "Orukọ Ile-iṣẹ"
+
+#: /tmp/repo/src/profile/profile.html:100
+#: /tmp/repo/src/profile/profile.html:85 /tmp/repo/src/profile/profile.html:97
+#: /tmp/repo/src/profile/profile.html:99
+msgid "Company Title"
+msgstr "Ile-iṣẹ Ile-iṣẹ"
+
+#: /tmp/repo/src/cases/cases.html:199
+msgid "Confirm Password"
+msgstr "So ni pato orukoabawole re"
+
+#: /tmp/repo/src/root/root.html:24
+msgid "Content"
+msgstr "Akoonu"
+
+#: /tmp/repo/src/users/add-user.html:25
+msgid "Continue"
+msgstr "Tẹsiwaju"
+
+#: /tmp/repo/src/root/root.html:7
+msgid "Cookies are disabled. Please enable it."
+msgstr "Awọn kuki jẹ alaabo. Jowo jeki o."
+
+#: /tmp/repo/src/profile/profile.html:145
+#: /tmp/repo/src/profile/profile.html:160
+#: /tmp/repo/src/profile/profile.html:162
+#: /tmp/repo/src/profile/profile.html:164
+#: /tmp/repo/src/profile/profile.html:166
+msgid "Country"
+msgstr "Orilẹ-ede"
+
+#: /tmp/repo/src/cases/create-case.html:46
+#: /tmp/repo/src/groups/create-group.html:70
+msgid "Create"
+msgstr "Ṣẹda"
+
+#: /tmp/repo/src/cases/create-case.controller.js:16
+msgid "Create Case"
+msgstr "Ṣẹda Ilẹ"
+
+#: /tmp/repo/src/groups/create-group.controller.js:16
+msgid "Create Group"
+msgstr "Ṣẹda Ẹgbẹ"
+
+#: /tmp/repo/src/users/create-user.controller.js:16
+msgid "Create User"
+msgstr "Ṣẹda olumulo"
+
+#: /tmp/repo/src/cases/cases.html:224
+msgid "Create a case for a business"
+msgstr "Ṣẹda ọran fun owo kan"
+
+#: /tmp/repo/src/users/users.html:9
+msgid "Create an user"
+msgstr "Ṣẹda olumulo kan"
+
+#: /tmp/repo/src/cases/create-case.html:47
+#: /tmp/repo/src/groups/create-group.html:71
+msgid "Creating..."
+msgstr "Ṣiṣẹda ..."
+
+#: /tmp/repo/src/cases/cases.html:167
+msgid "Current Password"
+msgstr "Ọrọigbaniwọle lọwọlọwọ"
+
+#: /tmp/repo/src/dashboard/dashboard.controller.js:25
+#: /tmp/repo/src/root/root.html:19
+msgid "Dashboard"
+msgstr "Dasibodu"
+
+#: /tmp/repo/src/cases/create-case.html:29
+#: /tmp/repo/src/cases/create-case.html:31
+#: /tmp/repo/src/cases/edit-case.html:33 /tmp/repo/src/cases/edit-case.html:35
+msgid "Date Opened"
+msgstr "Ọjọ ti Ṣii"
+
+#: /tmp/repo/src/profile/profile.html:44 /tmp/repo/src/profile/profile.html:52
+#: /tmp/repo/src/profile/profile.html:54 /tmp/repo/src/profile/profile.html:55
+msgid "Date of Birth"
+msgstr "Ojo ibi"
+
+#: /tmp/repo/src/settings/design/design.controller.js:33
+msgid "Design"
+msgstr "Oniru"
+
+#: /tmp/repo/src/groups/create-group.html:29
+#: /tmp/repo/src/groups/create-group.html:31
+#: /tmp/repo/src/groups/edit-group.html:29
+#: /tmp/repo/src/groups/edit-group.html:31
+msgid "Documents"
+msgstr "Awọn iwe aṣẹ"
+
+#: /tmp/repo/src/cases/edit-case.controller.js:15
+msgid "Edit Case"
+msgstr "Ṣatunkọ Ọran"
+
+#: /tmp/repo/src/groups/edit-group.controller.js:16
+msgid "Edit Group"
+msgstr "Ṣatunkọ Ẹgbẹ"
+
+#: /tmp/repo/src/users/edit-user.controller.js:16
+msgid "Edit User"
+msgstr "Ṣatunkọ olumulo"
+
+#: /tmp/repo/src/cases/cases.html:78 /tmp/repo/src/users/add-user.html:15
+#: /tmp/repo/src/users/add-user.html:17
+#: /tmp/repo/src/users/create-user.html:28
+#: /tmp/repo/src/users/create-user.html:30
+msgid "Email"
+msgstr "Imeeli"
+
+#: /tmp/repo/src/users/create-user.html:16
+#: /tmp/repo/src/users/create-user.html:18
+msgid "Family Name"
+msgstr "Oruko ebi"
+
+#: /tmp/repo/src/groups/create-group.html:36
+msgid "Fiels"
+msgstr "Fiels"
+
+#: /tmp/repo/src/groups/create-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:36
+msgid "Files"
+msgstr "Awọn faili"
+
+#: /tmp/repo/src/profile/profile.html:20 /tmp/repo/src/profile/profile.html:28
+#: /tmp/repo/src/profile/profile.html:30 /tmp/repo/src/profile/profile.html:31
+msgid "First Name"
+msgstr "Orukọ kini"
+
+#: /tmp/repo/src/profile/profile.html:47 /tmp/repo/src/profile/profile.html:63
+#: /tmp/repo/src/profile/profile.html:66 /tmp/repo/src/profile/profile.html:71
+msgid "Gender"
+msgstr "Iwa"
+
+#: /tmp/repo/src/users/create-user.html:21
+#: /tmp/repo/src/users/create-user.html:23
+msgid "Given Name"
+msgstr "Orukọ afifun"
+
+#: /tmp/repo/src/groups/create-group.html:13
+msgid "Group Info"
+msgstr "Alaye agbegbe"
+
+#: /tmp/repo/src/groups/edit-group.html:13
+msgid "Group Info <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+msgstr "Alaye Agbegbe <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+
+#: /tmp/repo/src/groups/create-group.html:53
+#: /tmp/repo/src/groups/edit-group.html:55
+msgid "Group Permissions"
+msgstr "Awọn igbanilaaye Awọn ẹgbẹ"
+
+#: /tmp/repo/src/groups/groups.controller.js:27
+#: /tmp/repo/src/root/root.html:23
+msgid "Groups"
+msgstr "Awọn ẹgbẹ"
+
+#: /tmp/repo/src/root/root.html:34
+msgid "Hello"
+msgstr "Pẹlẹ o"
+
+#: /tmp/repo/src/groups/create-group.html:42
+#: /tmp/repo/src/groups/create-group.html:44
+#: /tmp/repo/src/groups/edit-group.html:42
+#: /tmp/repo/src/groups/edit-group.html:44
+msgid "Images"
+msgstr "Awọn aworan"
+
+#: /tmp/repo/src/root/root.html:3
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript jẹ alaabo. Jowo jeki o."
+
+#: /tmp/repo/src/profile/profile.html:185
+#: /tmp/repo/src/profile/profile.html:187
+#: /tmp/repo/src/profile/profile.html:192
+#: /tmp/repo/src/users/create-user.html:35
+#: /tmp/repo/src/users/create-user.html:40
+#: /tmp/repo/src/users/create-user.html:46
+msgid "Language"
+msgstr "Ede"
+
+#: /tmp/repo/src/profile/profile.html:181
+msgid "Language &amp; Region"
+msgstr "Ede ati Ekun"
+
+#: /tmp/repo/src/profile/profile.html:23 /tmp/repo/src/profile/profile.html:35
+#: /tmp/repo/src/profile/profile.html:37 /tmp/repo/src/profile/profile.html:38
+msgid "Last Name"
+msgstr "Oruko idile"
+
+#: /tmp/repo/src/cases/assign-case.html:4 /tmp/repo/src/cases/cases.html:219
+#: /tmp/repo/src/cases/create-case.html:4 /tmp/repo/src/cases/edit-case.html:4
+#: /tmp/repo/src/groups/create-group.html:4
+#: /tmp/repo/src/groups/edit-group.html:4 /tmp/repo/src/groups/groups.html:4
+#: /tmp/repo/src/profile/profile.html:3
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:5
+#: /tmp/repo/src/settings/module/module-settings.html:4
+#: /tmp/repo/src/users/add-user.html:4 /tmp/repo/src/users/create-user.html:4
+#: /tmp/repo/src/users/edit-user.html:4 /tmp/repo/src/users/users.html:4
+msgid "Loading..."
+msgstr "Ikojọpọ ..."
+
+#: /tmp/repo/src/profile/profile.html:104
+msgid "Location"
+msgstr "Ipo"
+
+#: /tmp/repo/src/root/root.html:42
+msgid "Log out"
+msgstr "Jade kuro"
+
+#: /tmp/repo/src/root/root.html:27
+msgid "Logout"
+msgstr "Logout"
+
+#: /tmp/repo/src/login/login.html:20 /tmp/repo/src/root/root.html:126
+msgid "Made with"
+msgstr "Ṣe pẹlu"
+
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Module"
+msgstr "Module"
+
+#: /tmp/repo/src/settings/module/module-settings.controller.js:33
+msgid "Modules"
+msgstr "Awọn modulu"
+
+#: /tmp/repo/src/settings/module/module-settings.html:9
+msgid "Modules settings updated"
+msgstr "Eto imudojuiwọn ni imudojuiwọn"
+
+#: /tmp/repo/src/groups/create-group.html:17
+#: /tmp/repo/src/groups/create-group.html:19
+#: /tmp/repo/src/groups/edit-group.html:17
+#: /tmp/repo/src/groups/edit-group.html:19
+msgid "Name"
+msgstr "Oruko"
+
+#: /tmp/repo/src/cases/cases.html:180
+msgid "New Password"
+msgstr "Ọrọ aṣina Tuntun"
+
+#: /tmp/repo/src/cases/cases.html:223
+msgid "No cases found."
+msgstr "Ko si awọn nkan ti a rii."
+
+#: /tmp/repo/src/groups/groups.html:8
+msgid "No group found."
+msgstr "Ko si ẹgbẹ ti o ri."
+
+#: /tmp/repo/src/users/users.html:8
+msgid "No user found."
+msgstr "Ko si olumulo ti o wa."
+
+#: /tmp/repo/src/profile/profile.html:79
+msgid "Occupation"
+msgstr "Ojúṣe"
+
+#: /tmp/repo/src/groups/create-group.html:55
+#: /tmp/repo/src/groups/edit-group.html:53
+msgid "Permission"
+msgstr "Gbigbanilaaye"
+
+#: /tmp/repo/src/profile/profile.controller.js:30
+msgid "Profile Settings"
+msgstr "Eto Awọn Profaili"
+
+#: /tmp/repo/src/cases/assign-case.html:33
+#: /tmp/repo/src/cases/edit-case.html:50
+#: /tmp/repo/src/groups/edit-group.html:74
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:60
+#: /tmp/repo/src/settings/module/module-settings.html:23
+#: /tmp/repo/src/users/edit-user.html:42
+msgid "Save"
+msgstr "Fipamọ"
+
+#: /tmp/repo/src/cases/assign-case.html:34
+#: /tmp/repo/src/cases/edit-case.html:51
+#: /tmp/repo/src/groups/edit-group.html:75
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:61
+#: /tmp/repo/src/settings/module/module-settings.html:24
+#: /tmp/repo/src/users/edit-user.html:43
+msgid "Saving..."
+msgstr "Fifipamọ ..."
+
+#: /tmp/repo/src/root/root.html:25
+msgid "Settings"
+msgstr "Ètò"
+
+#: /tmp/repo/src/login/login.html:10
+msgid "Sign In"
+msgstr "Wọle"
+
+#: /tmp/repo/src/profile/profile.html:142
+#: /tmp/repo/src/profile/profile.html:155
+#: /tmp/repo/src/profile/profile.html:156
+msgid "State/Region"
+msgstr "Ipinle / Ekun"
+
+#: /tmp/repo/src/cases/create-case.html:34
+#: /tmp/repo/src/cases/create-case.html:40
+#: /tmp/repo/src/cases/edit-case.html:38
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Status"
+msgstr "Ipo"
+
+#: /tmp/repo/src/cases/edit-case.html:44
+msgid "Status Opened"
+msgstr "Ipo ti ṣii"
+
+#: /tmp/repo/src/cases/create-case.html:22
+#: /tmp/repo/src/cases/create-case.html:24
+#: /tmp/repo/src/cases/edit-case.html:26 /tmp/repo/src/cases/edit-case.html:28
+msgid "Tag ID"
+msgstr "ID ID"
+
+#: /tmp/repo/src/login/login.html:22 /tmp/repo/src/root/root.html:128
+msgid "Terms of Use"
+msgstr "Awọn ofin lilo"
+
+#: /tmp/repo/src/profile/profile.html:201
+#: /tmp/repo/src/profile/profile.html:203
+#: /tmp/repo/src/profile/profile.html:208
+#: /tmp/repo/src/users/create-user.html:51
+#: /tmp/repo/src/users/create-user.html:56
+#: /tmp/repo/src/users/create-user.html:62
+msgid "Timezone"
+msgstr "Aago Akoko"
+
+#: /tmp/repo/src/profile/profile.html:219
+msgid "Update"
+msgstr "Imudojuiwọn"
+
+#: /tmp/repo/src/profile/profile.html:220
+msgid "Updating"
+msgstr "Nmu imudojuiwọn"
+
+#: /tmp/repo/src/users/create-user.html:12
+msgid "User Info"
+msgstr "Alaye Olumulo"
+
+#: /tmp/repo/src/users/edit-user.html:16
+msgid "User Info <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+msgstr "Alaye Olumulo <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+
+#: /tmp/repo/src/users/edit-user.html:29 /tmp/repo/src/users/edit-user.html:35
+msgid "User Status"
+msgstr "Ipo olumulo"
+
+#: /tmp/repo/src/users/edit-user.html:20 /tmp/repo/src/users/edit-user.html:26
+msgid "User Type"
+msgstr "Oniruru olumulo"
+
+#: /tmp/repo/src/users/edit-user.html:8
+msgid "User not found."
+msgstr "Olumulo ko ri."
+
+#: /tmp/repo/src/root/root.html:22 /tmp/repo/src/users/users.controller.js:31
+msgid "Users"
+msgstr "Awọn olumulo"
+
+#: /tmp/repo/src/groups/create-group.html:47
+#: /tmp/repo/src/groups/create-group.html:49
+#: /tmp/repo/src/groups/edit-group.html:47
+#: /tmp/repo/src/groups/edit-group.html:49
+msgid "Videos"
+msgstr "Awọn fidio"
+
+#: /tmp/repo/src/users/add-user.html:26
+msgid "Working..."
+msgstr "Ṣiṣẹ..."
+
+#: /tmp/repo/src/profile/profile.html:148
+#: /tmp/repo/src/profile/profile.html:174
+#: /tmp/repo/src/profile/profile.html:175
+#: /tmp/repo/src/profile/profile.html:176
+msgid "Zip/Postal Code"
+msgstr "Siipu / Koodu Ipinlẹta"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "in New York City"
+msgstr "ni Ilu New York"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "love"
+msgstr "ife"
+
+#: /tmp/repo/src/cases/assign-case.html:22
+msgid "{{group.name}}"
+msgstr "{{group.name}}"

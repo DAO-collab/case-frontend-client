@@ -1,0 +1,243 @@
+<article class="module-f signup-page" id="content">
+  <figure>
+    <img alt="Placeholder" width="150" height="119" src="images/illustrations/manage.svg" />
+  </figure>
+  <h2 style="margin-bottom: 16px">
+    {{ (isProd ? 'CASEACTIVE IS COMING SOON' : 'Create a free account') | translate }}
+  </h2>
+  <p>
+    {{
+      (isProd
+        ? "We are putting final touches to it. We will notify you when it's ready!"
+        : 'You’re minutes away from a better collaboration.'
+      ) | translate
+    }}
+  </p>
+
+  <form
+    novalidate
+    name="sign-up-form"
+    autocomplete="off"
+    class="form-e form-e-x signup-form"
+    [formGroup]="isProd ? signUpFormProd : signUpForm"
+    (submit)="(isProd ? signUpFormProd : signUpForm).valid && signup()"
+  >
+    <div class="two-inputs-in-row">
+      <p>
+        <label for="given-name" translate>First Name</label>
+        <input
+          id="given-name"
+          name="given-name"
+          formControlName="given_name"
+          autocomplete="given-name"
+          placeholder="{{ 'First Name' | translate }}"
+          type="text"
+        />
+      </p>
+
+      <p>
+        <label for="family-name" translate>Last Name</label>
+        <input
+          id="family-name"
+          name="family-name"
+          formControlName="family_name"
+          autocomplete="family-name"
+          placeholder="{{ 'Last Name' | translate }}"
+          type="text"
+        />
+      </p>
+    </div>
+
+    <p>
+      <label for="email" translate>Email</label>
+      <input
+        [ngClass]="{ 'pointer-events-none': this.authService.signUpInfo.email }"
+        id="email"
+        name="email"
+        autocomplete="email"
+        formControlName="email"
+        placeholder="{{ 'Email' | translate }}"
+        type="text"
+      />
+    </p>
+    <p
+      app-ca-translate
+      class="required"
+      message="FieldRequiredException"
+      *ngIf="control('email').errors?.['required'] && (control('email').dirty || control('email').touched)"
+    ></p>
+    <p
+      app-ca-translate
+      class="required"
+      message="FieldEmailTypeException"
+      *ngIf="control('email').errors?.['pattern'] && (control('email').dirty || control('email').touched)"
+    ></p>
+
+    <p *ngIf="isProd">
+      <label for="companyName" translate>Company</label>
+      <input
+        id="companyName"
+        name="companyName"
+        autocomplete="companyName"
+        formControlName="company_name"
+        placeholder="{{ 'Company' | translate }}"
+        type="text"
+      />
+    </p>
+
+    <!--    <div class="two-inputs-in-row" *ngIf="!isProd">-->
+    <!--      <p>-->
+    <!--        <label for="new-password" translate>Password</label>-->
+    <!--        <input-->
+    <!--          id="new-password"-->
+    <!--          formControlName="password"-->
+    <!--          type="password"-->
+    <!--          placeholder="{{ 'Password' | translate }}"-->
+    <!--          autocomplete="new-password"-->
+    <!--          maxlength="250"-->
+    <!--          [class.invalid]="-->
+    <!--            control('password').touched &&-->
+    <!--            control('confirm_password').touched &&-->
+    <!--            !passwordValidationConfirmPassword.passwordMatch-->
+    <!--          "-->
+    <!--          (keyup)="CheckPasswordValidation('newPassword')"-->
+    <!--          (focus)="isShowNewPassword = true"-->
+    <!--          (focusout)="isShowNewPassword = false"-->
+    <!--          required-->
+    <!--        />-->
+    <!--        <app-password-validation-->
+    <!--          #passwordFieldNewPassword-->
+    <!--          boxType="new_password"-->
+    <!--          [password]="control('password').value"-->
+    <!--          [hidden]="!isShowNewPassword"-->
+    <!--        >-->
+    <!--        </app-password-validation>-->
+    <!--        <span-->
+    <!--          class="error-msg"-->
+    <!--          *ngIf="control('password').errors?.pattern && (control('password').dirty || control('password').touched)"-->
+    <!--          >&#8226;<span style="margin-left: 2px;" translate>Invalid password entered</span></span-->
+    <!--        >-->
+    <!--      </p>-->
+
+    <!--      <p>-->
+    <!--        <label for="confirm_password" translate>Repeat Password</label>-->
+    <!--        <input-->
+    <!--          id="confirm_password"-->
+    <!--          formControlName="confirm_password"-->
+    <!--          type="password"-->
+    <!--          placeholder="{{ 'Repeat Password' | translate }}"-->
+    <!--          autocomplete="new-password"-->
+    <!--          maxlength="250"-->
+    <!--          [class.invalid]="-->
+    <!--            control('confirm_password').touched &&-->
+    <!--            control('password').touched &&-->
+    <!--            !passwordValidationConfirmPassword.passwordMatch-->
+    <!--          "-->
+    <!--          (keyup)="CheckPasswordValidation('confirmPassword')"-->
+    <!--          (focus)="isShowConfirmPassword = true; passwordValidationConfirmPassword.isPasswordsEqual = true"-->
+    <!--          (focusout)="isShowConfirmPassword = false; passwordValidationConfirmPassword.isPasswordsEqual = false"-->
+    <!--          required-->
+    <!--        />-->
+    <!--        <app-password-validation-->
+    <!--          #passwordValidationConfirmPassword-->
+    <!--          boxType="confirm_password"-->
+    <!--          [password]="control('confirm_password').value"-->
+    <!--          [hidden]="!isShowConfirmPassword"-->
+    <!--        >-->
+    <!--        </app-password-validation>-->
+    <!--        <span-->
+    <!--          class="error-msg"-->
+    <!--          *ngIf="-->
+    <!--            control('confirm_password').touched &&-->
+    <!--            control('password').touched &&-->
+    <!--            !passwordValidationConfirmPassword.passwordMatch-->
+    <!--          "-->
+    <!--          >&#8226;<span style="margin-left: 2px;" translate>Password must match</span></span-->
+    <!--        >-->
+    <!--      </p>-->
+    <!--    </div>-->
+
+    <p *ngIf="!isProd">
+      <label for="language_sel" translate>Language</label>
+      <ng-select
+        [items]="options.languages"
+        bindLabel="text"
+        bindValue="id"
+        formControlName="locale"
+        id="language_sel"
+        [placeholder]="'No language selected' | translate"
+        [closeOnSelect]="true"
+      >
+      </ng-select>
+    </p>
+    <!--    <p *ngIf="!isProd">-->
+    <!--      <label for="timezone_sel" translate>Timezone</label>-->
+    <!--      <ng-select-->
+    <!--        [items]="options?.timezones"-->
+    <!--        bindLabel="text"-->
+    <!--        bindValue="id"-->
+    <!--        formControlName="zoneinfo"-->
+    <!--        id="timezone_sel"-->
+    <!--        [placeholder]="'No timezone selected' | translate"-->
+    <!--      >-->
+    <!--      </ng-select>-->
+    <!--    </p>-->
+
+    <p class="trial-checkbox" *ngIf="!isProd">
+      <label class="trial-checkbox-container">
+        <input type="checkbox" formControlName="agreed" required />
+        <span class="checkmark"></span>
+      </label>
+      <span [innerHTML]="'I agree with' | translate"></span>
+      &nbsp;
+      <a [href]="termsOfUseUrl" target="_blank" [innerHTML]="'Terms of Service' | translate"></a>
+    </p>
+
+    <p app-ca-error [errors]="signupError"></p>
+
+    <p class="submit-wrap">
+      <button type="submit" [disabled]="(isProd ? signUpFormProd : signUpForm).invalid || loading">
+        <span
+          *ngIf="!loading"
+          [innerHTML]="isProd ? 'NOTIFY ME WHEN IT\'S READY!' : ('Create a free account' | translate)"
+        ></span>
+        <span *ngIf="loading" translate>Processing...</span>
+      </button>
+    </p>
+
+    <ul class="list-e">
+      <li routerLink="/login">
+        <a translate>Cancel</a>
+      </li>
+    </ul>
+  </form>
+
+  <!--  <ul class="list-e">-->
+  <!--    <li>-->
+  <!--      <a routerLink="/login" [innerHTML]="'Login' | translate"></a>-->
+  <!--    </li>-->
+  <!--    <li>-->
+  <!--      <a routerLink="/reset-password" translate>Forgot password?</a>-->
+  <!--    </li>-->
+  <!--    <li>-->
+  <!--      <a routerLink="/support" translate>Help</a>-->
+  <!--    </li>-->
+  <!--  </ul>-->
+  <footer>
+    <h3 translate>Need Help?</h3>
+    <p>
+      <a class="custom-text-color" [routerLink]="['/support']" translate>Click here to contact us</a>
+    </p>
+  </footer>
+</article>
+
+<footer id="footer">
+  <p>
+    <span translate>Made with</span> <i class="icon-heart overlay-a custom-text-color"></i>
+    <span class="hidden" translate>love</span> <span translate>in New York City</span><br />
+    &copy;<span translate> CaseActive </span><span class="date">{{ currentYear }}</span>
+    <span translate> All rights reserved </span> |
+    <a class="custom-text-color" target="_blank" [href]="termsOfUseUrl" translate>Terms of Use</a> |
+    <a class="custom-text-color" target="_blank" [href]="contactUs" translate>Contact Us</a>
+  </p>
+</footer>

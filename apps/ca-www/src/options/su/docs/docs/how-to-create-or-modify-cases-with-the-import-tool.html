@@ -1,0 +1,99 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Kumaha Nyiptakeun atanapi Ngarobih Kasus nganggo Alat Impor
+</h1>
+<p>Tulisan ieu nunjukkeun ka admin kumaha cara nyiptakeun atanapi ngarobih kasus anu tos aya nganggo alat Impor.</p>
+<h2 id="opening-the-import-tool">Buka alat Impor</h2>
+<ol style="list-style-type: decimal">
+  <li>Asup ka akun admin.</li>
+  <li>Milarian aplikasi dina halaman Aplikasi teras klik tombol ADMIN.</li>
+  <li>Dina panel Admin, klik tab Integrasi teras IMPOR dina submenu.</li>
+  <li>Klik tombol NEW. Kotak dialog Tambah Impor dipintonkeun dina tab browser anyar.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Nyiptakeun kasus</h2>
+<p>Saatos kotak dialog Tambah Impor dibuka:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik widang Tipe tur pilih hiji pilihan (tingali di handap). Hiji link mintonkeun.</li>
+  <li>Pencét tautan Unduh Sampel. A file CSV diundeur ka alat Anjeun.</li>
+</ol>
+<p>Teras, buka file sareng tambahkeun kasus.</p>
+<h2 id="type">Tipe</h2>
+<p>
+  Nalika anjeun ngaklik médan <strong>Tipe</strong> , ménu turun-handap dipintonkeun. Pilih salah sahiji tina dua
+  pilihan pikeun impor kasus bulk.
+</p>
+<ul>
+  <li>
+    <strong>Catetan</strong> Menu turun-handap ngagaduhan seueur pilihan, tapi ngan ukur dua anu aya hubunganana sareng
+    ngatur kasus. Unggal pilihan gaduh sampel file CSV anu béda.
+  </li>
+</ul>
+<h3 id="add-cases">Tambahkeun kasus</h3>
+<ul>
+  <li>Milih pilihan ieu pikeun unggah bulk basajan tina kasus.</li>
+  <li>Klik tautan Unduh Sampel pikeun muka file CSV sareng judul kolom pikeun jinis impor Jieun kasus.</li>
+</ul>
+<h3 id="modify-cases">Ngaropea kasus</h3>
+<ul>
+  <li>Pilih pilihan ieu pikeun ngapdet kasus ayeuna.</li>
+  <li>Klik tautan Unduh Sampel pikeun muka file CSV kalayan judul kolom pikeun jinis impor Modify case.</li>
+</ul>
+<h2 id="uploading-the-file">Ngunggah file</h2>
+<p>
+  Anjeun tiasa unggah file langsung atanapi uih deui ka kotak dialog Tambah Impor dina waktos engké sareng ngalengkepan
+  léngkah-léngkah ieu.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Buka kotak dialog Tambah Impor.</li>
+  <li>Lebetkeun nami unik pikeun file CSV.</li>
+  <li>Pencét ikon tambah (+) pikeun unggah file tina alat anjeun.</li>
+  <li>Klik widang Tipe tur pilih hiji pilihan. (tingali luhureun)</li>
+  <li>Pencét SAVE.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">pormat</h2>
+<p>
+  Ieu mangrupikeun widang anu diperyogikeun sareng sarat munggaran. Klik
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">di dieu</a> pikeun marios
+  rinci pormat.
+</p>
+<p><strong>tag_id (atawa case_ID)</strong> identifier unik (make karakter alfanumerik, hyphens ditarima)</p>
+<p><strong>case_status</strong> 0 = ditutup 1 = aktip</p>
+<p><strong>tanggal_dibuka</strong> bulan/dinten/taun mm/dd/yyyy</p>
+<p><strong>ngeunaan</strong> pedaran unik ngeunaan kasus (nganggo karakter alfanumerik, hyphens ditarima)</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Ngolah</h2>
+<p>
+  Gumantung kana jumlah rékaman dina file sareng beban sistem, platform tiasa nyandak sababaraha menit pikeun ngolah
+  impor.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Nalika impor réngsé, platform nyaluyukeun rékaman kasus (nyaéta nambihan atanapi ngarobih) dina dasbor Kasus admin.
+</p>
+<h2 id="failure">Kagagalan</h2>
+<p>
+  Lamun operasi impor gagal, platform nu mulih pesen Gagal. Dina kalolobaan kasus, anu ngabalukarkeun gagalna nyaéta
+  pormat data.
+</p>
+<div class="figure"><img src="/images/create-case-10.png" alt="img" /></div>
+<p>Pikeun ningali sabab gagalna:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik View handapeun judul ACTION.</li>
+  <li>Dina kaca salajengna, hover beurit dina ikon Gagal. tooltip mintonkeun kasalahan.</li>
+  <li>Pindah ka file CVS sareng saluyukeun sareng ngalereskeun kasalahan.</li>
+  <li>Unggah deui filena.</li>
+</ol>
+<div class="figure"><img src="/images/create-case-11.png" alt="img" /></div>

@@ -1,0 +1,20 @@
+span.failed {
+  text-align: center;
+  width: 100%;
+}
+
+p.thanks {
+  text-align: center;
+}
+
+p.thanks span {
+  width: 100%;
+}
+
+p.thanks a {
+  font-size: 14px;
+}
+
+.form-b p.required {
+  list-style-type: none;
+}

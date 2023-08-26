@@ -1,0 +1,95 @@
+<h1 id="how-to-create-or-modify-users-with-the-import-tool">
+  Hur man skapar eller ändrar användare med importverktyget
+</h1>
+<p>Den här artikeln visar administratörer hur man skapar användare med importverktyget.</p>
+<h2 id="opening-the-import-tool">Öppnar importverktyget</h2>
+<p>
+  Administratörer kan använda importverktyget för att massöverföra nya användare och ändra befintliga användarposter.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Logga in på administratörskontot.</li>
+  <li>Leta upp en app på appsidan och klicka på ADMIN-knappen.</li>
+  <li>På adminpanelen klickar du på fliken Integration och sedan på IMPORTER på undermenyn.</li>
+  <li>Klicka på knappen NY. Dialogrutan Lägg till importer visas på en ny webbläsarflik.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-records">Skapar poster</h2>
+<p>När dialogrutan Lägg till importer öppnas:</p>
+<ol style="list-style-type: decimal">
+  <li>Klicka på fältet <strong>Typ</strong> och välj ett alternativ (se nedan). En länk visas.</li>
+  <li>Klicka på länken <strong>Ladda ner exempel</strong> . En CSV-fil laddas ner till din enhet.</li>
+</ol>
+<p>
+  Öppna sedan filen och lägg till poster. Klicka <a href="docs/how-to-format-csv-data" target="_blank">här</a> för att
+  lära dig hur du använder formatdata i CSV-filen.
+</p>
+<div class="figure"><img src="/images/import-4.png" alt="img" /></div>
+<h2 id="type">Typ</h2>
+<p>När du klickar på fältet Typ visas en rullgardinsmeny. Välj ett av två alternativ för massimport.</p>
+<p>
+  :utrop: <strong>OBS</strong> Rullgardinsmenyn har många alternativ, men bara två är relaterade till importverktyget.
+  Varje alternativ har olika exempel på CSV-fil.
+</p>
+<h3 id="add-users">Lägg till användare</h3>
+<ul>
+  <li>Välj det här alternativet för en enkel massuppladdning av användarposter.</li>
+  <li>
+    Klicka på länken Ladda ner exempel för att öppna en CSV-fil med kolumnrubriker för importtypen Lägg till användare.
+  </li>
+</ul>
+<h3 id="modify-users">Ändra användare</h3>
+<ul>
+  <li>Välj det här alternativet för att uppdatera data för nuvarande användare.</li>
+  <li>
+    Klicka på länken Ladda ner exempel för att öppna en CSV-fil med kolumnrubriker för typen Ändra användares import.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Laddar upp filen</h2>
+<p>
+  Du kan ladda upp en fil direkt eller gå tillbaka till dialogrutan Lägg till importer vid ett senare tillfälle och
+  slutföra dessa steg.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Öppna dialogrutan Lägg till importer.</li>
+  <li>Ange ett unikt namn för CSV-filen.</li>
+  <li>Klicka på plusikonen (+) för att ladda upp filen från din enhet.</li>
+  <li>Klicka på fältet <strong>Typ</strong> och välj ett alternativ. (se ovan)</li>
+  <li>Klicka på SPARA.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Bearbetning</h2>
+<p>Beroende på antalet poster i filen och systemladdningen kan plattformen ta flera minuter att bearbeta importen.</p>
+<div class="figure">
+  <img src="/images/import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  När importen är klar justerar plattformen användarposter (dvs. lägger till, modifierar eller inaktiverar) på
+  administratörens <strong>användarpanel</strong> .
+</p>
+<h2 id="failure">Fel</h2>
+<p>
+  Om importen misslyckas returnerar plattformen ett misslyckat meddelande. I de flesta fall är orsaken till felet
+  dataformatering.
+</p>
+<div class="figure">
+  <img src="/images/import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Så här ser du orsaken till felet:</p>
+<ol style="list-style-type: decimal">
+  <li>Klicka på <strong>Visa</strong> under rubriken Åtgärd.</li>
+  <li>På nästa sida håller du musen över ikonen Misslyckades. Verktygstipset visar felet.</li>
+  <li>Gå till CVS-filen och justera och åtgärda felet.</li>
+  <li>Ladda upp filen igen.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>

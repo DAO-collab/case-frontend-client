@@ -1,0 +1,8 @@
+{
+  "add_post": "viesti on luotu",
+  "modify_post": "viesti on muokattu",
+  "delete_post": "viesti on poistettu",
+  "add_post_comment": "viesti kommentti on luotu",
+  "modify_post_comment": "viesti kommentti on muokattu",
+  "delete_post_comment": "viestikommentti on poistettu"
+}

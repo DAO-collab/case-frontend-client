@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "L\u00e9igh gach c\u00e1s sonraithe sa r\u00f3l",
+    "write": "Scr\u00edobh gach c\u00e1s sonraithe sa r\u00f3l"
+  },
+  "convos": {
+    "read_all": "F\u00e9ach ar st\u00e1das reatha na convos.",
+    "manage_own": "Glac p\u00e1irt agus d\u00edcheangail convo.",
+    "moderate_others": "Tosaigh convo, deireadh convo, agus bain rannph\u00e1irt\u00ed.",
+    "read_all_submissions": "L\u00e9igh gach convos taifeadta."
+  },
+  "events": {
+    "read_all": "L\u00e9igh gach imeacht.",
+    "manage_own": "Cruthaigh, nuashonraigh agus scrios d&#39;imeacht f\u00e9in.",
+    "moderate_others": "Nuashonraigh agus scrios imeacht daoine eile.",
+    "read_all_submissions": "L\u00e9igh gach dearbh\u00fa imeachta.",
+    "submit_own": "Deimhnigh iarratas tinrimh imeachta."
+  },
+  "posts": {
+    "read_all": "L\u00e9igh gach post\u00e1il.",
+    "manage_own": "Cruthaigh, nuashonraigh agus scrios do phost\u00e1il f\u00e9in.",
+    "moderate_others": "Nuashonraigh agus scrios post\u00e1il daoine eile."
+  },
+  "forms": {
+    "read_all": "L\u00e9igh gach foirm.",
+    "manage_own": "Cruthaigh, nuashonraigh agus scrios a fhoirm f\u00e9in.",
+    "moderate_others": "Nuashonraigh agus scrios foirm daoine eile.",
+    "read_all_submissions": "L\u00e9igh gach foirm aighneacht.",
+    "submit_own": "Cuir iarratas isteach."
+  },
+  "invoices": {
+    "read_all": "L\u00e9igh gach sonrasc.",
+    "manage_own": "Cruthaigh, nuashonraigh agus scrios do shonrasc f\u00e9in.",
+    "moderate_others": "Nuashonraigh agus scrios sonrasc daoine eile.",
+    "read_all_submissions": "L\u00e9igh gach aighneacht sonraisc.",
+    "submit_own": "Cuir iarratas sonraisc isteach."
+  },
+  "notes": {
+    "read_all": "L\u00e9igh na n\u00f3ta\u00ed go l\u00e9ir.",
+    "manage_own": "Cruthaigh, nuashonraigh agus scrios do n\u00f3ta f\u00e9in.",
+    "moderate_others": "Nuashonraigh agus scrios n\u00f3ta daoine eile."
+  },
+  "signs": {
+    "read_all": "L\u00e9igh gach r\u00edomhchomhartha.",
+    "manage_own": "Cruthaigh, nuashonraigh agus scrios do r\u00edomhchomhartha f\u00e9in.",
+    "moderate_others": "Nuashonraigh agus scrios r\u00edomhchomhartha daoine eile.",
+    "read_all_submissions": "L\u00e9igh gach aighneacht r\u00edomhchomhartha.",
+    "submit_own": "Cuir iarratas r\u00e9imse isteach."
+  },
+  "tasks": {
+    "read_all": "L\u00e9igh na tascanna go l\u00e9ir.",
+    "manage_own": "Cruthaigh, nuashonraigh agus scrios a thasc f\u00e9in.",
+    "moderate_others": "Nuashonraigh agus scrios tasc daoine eile.",
+    "read_all_submissions": "L\u00e9igh gach aighneacht tascanna.",
+    "submit_own": "Cuir iarratas taisc isteach."
+  },
+  "team": { "read_all": "L\u00e9igh an fhoireann ar eagla na heagla" }
+}

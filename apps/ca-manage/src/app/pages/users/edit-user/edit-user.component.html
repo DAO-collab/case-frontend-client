@@ -1,0 +1,673 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="!loading && notFound">
+    <p class="text-center" translate>User not found.</p>
+  </div>
+
+  <ng-container *ngIf="!loading && userForm?.controls?.['host_granted_status']?.value">
+    <p class="notice-a a" *ngIf="!isViewMode" translate>
+      User can edit their account information except for the host user attributes section.
+    </p>
+  </ng-container>
+
+  <form
+    novalidate
+    name="form"
+    id="formcase"
+    role="form"
+    autocomplete="off"
+    *ngIf="!loading && !notFound"
+    [ngClass]="{ touchedSubmit: formTouched }"
+    [formGroup]="userForm"
+    (ngSubmit)="saveUser()"
+  >
+    <h3 class="off-margin-top" translate>Basic</h3>
+    <p class="triple a">
+      <span>
+        <label for="first_name" translate>First Name</label>
+        <input type="text" id="first_name" name="first_name" formControlName="given_name" />
+      </span>
+      <span>
+        <label for="last_name" translate>Last Name</label>
+        <input type="text" id="last_name" name="last_name" formControlName="family_name" />
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <label for="date_of_birth" translate>Date of Birth</label>
+        <input
+          mwlFlatpickr
+          dateFormat="Y-m-d"
+          type="text"
+          id="date_of_birth"
+          name="date_of_birth"
+          class="form-control"
+          formControlName="birthdate"
+        />
+      </span>
+      <span>
+        <label for="gender" translate>Gender</label>
+        <ng-select
+          class="select-padding-left"
+          id="gender"
+          name="gender"
+          bindLabel="value"
+          bindValue="key"
+          [items]="genders"
+          formControlName="gender"
+        ></ng-select>
+      </span>
+    </p>
+    <h3 translate>Contact</h3>
+    <p class="triple a">
+      <span>
+        <label for="email" translate>Email</label>
+        <input type="text" id="email" name="email" formControlName="email" />
+      </span>
+      <span>
+        <label for="phone" translate>Phone number</label>
+        <input type="text" id="phone" name="phone" formControlName="phone" />
+      </span>
+    </p>
+    <h3 translate>Occupation</h3>
+    <p class="triple a">
+      <span>
+        <label for="company" translate>Company Name</label>
+        <input type="text" id="company" name="company" formControlName="company" />
+      </span>
+      <span>
+        <label for="title" translate>Company Title</label>
+        <input type="text" id="title" name="title" formControlName="title" />
+      </span>
+    </p>
+    <h3 translate>Location</h3>
+    <p class="triple a">
+      <span>
+        <label for="address1" translate>Address</label>
+        <input type="text" id="address1" name="address1" formControlName="address1" />
+      </span>
+      <span>
+        <label for="address2" translate>Address 2</label>
+        <input type="text" id="address2" name="address2" formControlName="address2" />
+      </span>
+      <span>
+        <label for="locality" translate>City/Locality</label>
+        <input type="text" id="locality" name="locality" formControlName="locality" />
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <label for="region" translate>State/Region</label>
+        <input type="text" id="region" name="region" formControlName="region" />
+      </span>
+      <span>
+        <label for="country" translate>Country</label>
+        <ng-select
+          class="select-padding-left"
+          name="country"
+          bindLabel="value"
+          bindValue="key"
+          [items]="countries"
+          formControlName="country"
+        ></ng-select>
+      </span>
+      <span>
+        <label for="postal_code" translate>Zip Postal Code</label>
+        <input type="text" id="postal_code" name="postal_code" formControlName="postal_code" />
+      </span>
+    </p>
+
+    <h3 translate>Language &amp; Region</h3>
+
+    <p class="triple a">
+      <span>
+        <label for="language" translate>Language</label>
+        <ng-select
+          class="select-padding-left"
+          name="locale"
+          bindLabel="value"
+          bindValue="key"
+          [items]="languages"
+          formControlName="locale"
+        ></ng-select>
+      </span>
+      <span>
+        <label for="timezone" translate>Timezone</label>
+        <ng-select
+          class="select-padding-left"
+          name="zoneinfo"
+          bindLabel="value"
+          bindValue="key"
+          [items]="timezones"
+          formControlName="zoneinfo"
+        ></ng-select>
+      </span>
+    </p>
+    <h3 translate>Notifications</h3>
+    <p class="triple a">
+      <span
+        style="padding-bottom: 10px"
+        class="notification"
+        [ngClass]="{ 'is-read-only': isViewMode }"
+        *ngFor="let notification of notificationList"
+      >
+        <label translate class="container"
+          >{{ notification.value }}
+          <input
+            style="width: 20px !important; height: 30px; float: left !important"
+            type="checkbox"
+            [checked]="showCheckedOrUnchecked(notification.key)"
+            (change)="notificationUpdated(notification.key)"
+          />
+          <span class="checkmark"></span>
+        </label>
+      </span>
+    </p>
+    <h3 translate class="user-info">Host User Attributes</h3>
+
+    <p class="triple a">
+      <span>
+        <label for="user_type" translate>User Type</label>
+        <ng-select
+          class="select-padding-left"
+          #userType
+          name="userType"
+          bindLabel="text"
+          bindValue="id"
+          [items]="userTypesSelectList"
+          formControlName="host_user_type"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="userForm.controls['host_user_type'].value"
+          [regularHtmlElementName]="userType"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+      <span>
+        <label for="user_status" translate>User Status</label>
+        <ng-select
+          class="select-padding-left"
+          #userStatus
+          name="userStatus"
+          bindLabel="text"
+          bindValue="id"
+          [items]="statusSelectList"
+          formControlName="host_user_status"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="userForm.controls['host_user_status'].value"
+          [regularHtmlElementName]="userStatus"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+      <span>
+        <label for="hostTagId" translate>Tag ID</label>
+        <input type="text" id="hostTagId" name="host-tag-id" formControlName="host_tag_id" />
+        <span class="form-hint" translate>A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed</span>
+      </span>
+    </p>
+
+    <p class="triple a">
+      <span>
+        <label for="dueDate" translate>Complete After Date</label>
+        <input
+          mwlFlatpickr
+          dateFormat="m/d/Y"
+          type="text"
+          name="dueDate"
+          id="dueDate"
+          class="form-control"
+          formControlName="due_date"
+          #dueDate
+        />
+        <app-error
+          [field]="dueDate"
+          [fieldValue]="userForm.controls['due_date'].value"
+          [regularHtmlElementName]="dueDate"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: userForm.controls['due_time'].value && !userForm.controls['due_date'].value }"
+        ></app-error>
+      </span>
+
+      <span>
+        <label for="dueTime" translate>Complete After Time</label>
+        <input
+          mwlFlatpickr
+          [altInput]="true"
+          altFormat="G:i:S K"
+          dateFormat="G:i:S K"
+          type="text"
+          id="dueTime"
+          class="form-control"
+          formControlName="due_time"
+          [noCalendar]="true"
+          [enableSeconds]="true"
+          [enableTime]="true"
+          [convertModelValue]="true"
+          #dueTime
+        />
+        <app-error
+          [field]="dueTime"
+          [fieldValue]="userForm.controls['due_time'].value"
+          [regularHtmlElementName]="dueTime"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: !userForm.controls['due_time'].value && userForm.controls['due_date'].value }"
+        ></app-error>
+      </span>
+    </p>
+
+    <h3 translate class="user-info" *ngIf="hostIntakeDataFields?.length">App only User Intake Fields</h3>
+
+    <div formGroupName="host_intake_data" *ngIf="hostIntakeDataFields?.length">
+      <p class="triple a">
+        <span *ngFor="let customField of hostIntakeDataFields">
+          <span
+            *ngIf="(customField.fieldType === 'text' || customField.fieldType === 'text-only') && !customField.readonly"
+          >
+            <label [for]="customField.title" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customTextField
+              type="text"
+              class="form-control"
+              [id]="customField.title"
+              [name]="customField.title"
+              [formControlName]="customField.title"
+            />
+            <app-error
+              [field]="customTextField"
+              [fieldValue]="getHostIntakeData().controls[customField.title].value"
+              [regularHtmlElementName]="customField.title"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'dropdown' && !customField.readonly">
+            <label for="date_opened" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <ng-select
+              #customDropdown
+              name="custom-dropdown"
+              [items]="customField.enum"
+              [formControlName]="customField.title"
+            ></ng-select>
+            <app-error
+              regularHtmlElementName="custom-dropdown"
+              [field]="customDropdown.element"
+              [fieldValue]="getHostIntakeData().controls[customField.title].value?.length"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'textarea' && !customField.readonly">
+            <label [for]="customField.title" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <textarea
+              #customTextArea
+              class="form-control"
+              [id]="customField.title"
+              [name]="customField.title"
+              [formControlName]="customField.title"
+            ></textarea>
+            <app-error
+              [field]="customTextArea"
+              [fieldValue]="getHostIntakeData().controls[customField.title].value"
+              [regularHtmlElementName]="customField.title"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'multidropdown' && !customField.readonly">
+            <label [for]="customField.title" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <ng-select
+              #customMultiDropdown
+              [id]="customField.title"
+              [multiple]="true"
+              [items]="customField.enum"
+              [formControlName]="customField.title"
+            >
+            </ng-select>
+            <app-error
+              [field]="customMultiDropdown.element"
+              [fieldValue]="getHostIntakeData().controls[customField.title].value?.length"
+              [regularHtmlElementName]="customField.title"
+              [validationErrors]="validationErrors"
+              [validation]="{ 'min-required': customField.required }"
+            >
+            </app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'checkboxes' && !customField.readonly">
+            <label [ngClass]="{ required: customField.required }" translate>{{ customField.title }}</label>
+            <span class="checkboxes-group">
+              <span *ngFor="let option of customField.items.enum" class="cb-item">
+                <span class="cg-label" translate>{{ option }}</span>
+                <label class="container cg-box">
+                  <input
+                    #customCheckbox
+                    type="checkbox"
+                    class="form-control"
+                    [name]="customField.title"
+                    [checked]="getHostIntakeData().controls[customField.title].value.includes(option)"
+                    (change)="customCheckboxChangeValue(customField.title, option)"
+                  />
+                  <span class="checkmark"></span>
+                </label>
+              </span>
+            </span>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'boolean' && !customField.readonly">
+            <label [for]="customField.title" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <label class="container">
+              <input
+                #customBoolean
+                type="checkbox"
+                class="form-control"
+                [id]="customField.title"
+                [name]="customField.title"
+                [formControlName]="customField.title"
+              />
+              <span class="checkmark"></span>
+            </label>
+            <app-error
+              [field]="customBoolean"
+              [fieldValue]="getHostIntakeData().controls[customField.title].value"
+              [validationErrors]="validationErrors"
+              [regularHtmlElementName]="customField.title"
+              [validation]="{ 'min-required': customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'number' && !customField.readonly">
+            <label [for]="customField.title" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customNumber
+              type="number"
+              class="form-control"
+              [id]="customField.title"
+              [name]="customField.title"
+              [formControlName]="customField.title"
+            />
+            <app-error
+              [field]="customNumber"
+              [fieldValue]="getHostIntakeData().controls[customField.title].value"
+              [regularHtmlElementName]="customField.title"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="(customField.fieldType === 'date' || customField.fieldType === 'time') && !customField.readonly">
+            <label [for]="customField.title" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customPicker
+              mwlFlatpickr
+              type="text"
+              dateFormat="m/d/Y"
+              class="form-control"
+              placeholder="mm/dd/yyyy"
+              *ngIf="customField.fieldType === 'date'"
+              [id]="customField.title"
+              [name]="customField.title"
+              [formControlName]="customField.title"
+            />
+            <ng-container *ngIf="customField.fieldType === 'time'">
+              <input
+              #customPicker
+              mwlFlatpickr
+              [altInput]="true"
+              altFormat="G:i:S K"
+              dateFormat="G:i:S K"
+              name="defaultsField"
+              type="text"
+              class="form-control"
+              placeholder="hh:mm:ss"
+              [convertModelValue]="true"
+              [noCalendar]="true"
+              [enableSeconds]="true"
+              [enableTime]="true"
+              [id]="customField.title"
+              [name]="customField.title"
+              [formControlName]="customField.title"
+            />
+            <app-error
+              [field]="customPicker"
+              [fieldValue]="getHostIntakeData().controls[customField.title].value"
+              [regularHtmlElementName]="customField.title"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required, pattern: customField.pattern }"
+            >
+            </app-error>
+            </ng-container>
+          </span>
+        </span>
+      </p>
+    </div>
+
+    <h3 *ngIf="customFields?.length" translate>APP ONLY CUSTOM FIELDS</h3>
+
+    <div formGroupName="host_meta_data">
+      <p class="custom-fields-group triple a">
+        <span *ngFor="let customField of customFields">
+          <span
+            *ngIf="(customField.fieldType === 'text' || customField.fieldType === 'text-only') && !customField.readonly"
+          >
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customTextField
+              type="text"
+              class="form-control"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            />
+            <app-error
+              [field]="customTextField"
+              [fieldValue]="hostMetaData.controls[customField.id].value"
+              [regularHtmlElementName]="customField.id"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'dropdown' && !customField.readonly">
+            <label for="date_opened" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <ng-select
+              #customDropdown
+              name="custom-dropdown"
+              [items]="customField.items.enum"
+              [formControlName]="customField.id"
+            ></ng-select>
+            <app-error
+              regularHtmlElementName="custom-dropdown"
+              [field]="customDropdown.element"
+              [fieldValue]="hostMetaData.controls[customField.id].value?.length"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'textarea' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <textarea
+              #customTextArea
+              class="form-control"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            ></textarea>
+            <app-error
+              [field]="customTextArea"
+              [fieldValue]="hostMetaData.controls[customField.id].value"
+              [regularHtmlElementName]="customField.id"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'multidropdown' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <ng-select
+              #customMultiDropdown
+              [id]="customField.id"
+              [multiple]="true"
+              [items]="customField.items.enum"
+              [formControlName]="customField.id"
+            >
+            </ng-select>
+            <app-error
+              [field]="customMultiDropdown.element"
+              [fieldValue]="hostMetaData.controls[customField.id].value?.length"
+              [regularHtmlElementName]="customField.id"
+              [validationErrors]="validationErrors"
+              [validation]="{ 'min-required': customField.required }"
+            >
+            </app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'checkboxes' && !customField.readonly">
+            <label [ngClass]="{ required: customField.required }" translate>{{ customField.title }}</label>
+            <span class="checkboxes-group">
+              <span *ngFor="let option of customField.items.enum" class="cb-item">
+                <span class="cg-label" translate>{{ option }}</span>
+                <label class="container cg-box">
+                  <input
+                    #customCheckbox
+                    type="checkbox"
+                    class="form-control"
+                    [name]="customField.id"
+                    [checked]="hostMetaData.controls[customField.id].value.includes(option)"
+                    (change)="customCheckboxChangeValue(customField.id, option)"
+                  />
+                  <span class="checkmark"></span>
+                </label>
+              </span>
+            </span>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'boolean' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <label class="container">
+              <input
+                #customBoolean
+                type="checkbox"
+                class="form-control"
+                [id]="customField.id"
+                [name]="customField.id"
+                [formControlName]="customField.id"
+              />
+              <span class="checkmark"></span>
+            </label>
+            <app-error
+              [field]="customBoolean"
+              [fieldValue]="hostMetaData.controls[customField.id].value"
+              [validationErrors]="validationErrors"
+              [regularHtmlElementName]="customField.id"
+              [validation]="{ 'min-required': customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'number' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customNumber
+              type="number"
+              class="form-control"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            />
+            <app-error
+              [field]="customNumber"
+              [fieldValue]="hostMetaData.controls[customField.id].value"
+              [regularHtmlElementName]="customField.id"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+            ></app-error>
+          </span>
+
+          <span *ngIf="(customField.fieldType === 'date' || customField.fieldType === 'time') && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customPicker
+              mwlFlatpickr
+              type="text"
+              dateFormat="m/d/Y"
+              class="form-control"
+              placeholder="mm/dd/yyyy"
+              *ngIf="customField.fieldType === 'date'"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            />
+
+            <ng-container *ngIf="customField.fieldType === 'time'">
+              <input
+              #customPicker
+              type="text"
+              class="form-control"
+              placeholder="hh:mm:ss"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            />
+            <app-error
+              [field]="customPicker"
+              [fieldValue]="hostMetaData.controls[customField.id].value"
+              [regularHtmlElementName]="customField.id"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required, pattern: customField.pattern }"
+            >
+            </app-error>
+            </ng-container>
+          </span>
+        </span>
+      </p>
+    </div>
+
+    <p class="submit">
+      <button type="submit" class="f-right" *ngIf="!isViewMode" [disabled]="saving">
+        <span *ngIf="!saving" translate>Save</span>
+        <span *ngIf="saving" translate>Saving...</span>
+      </button>
+      <button type="reset" *ngIf="!isViewMode" class="f-right" (click)="notInterested()" translate>
+        <a>Cancel</a>
+      </button>
+      <button type="reset" *ngIf="isViewMode" class="f-right" (click)="notInterested()" translate><a>Close</a></button>
+    </p>
+  </form>
+</article>

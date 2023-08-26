@@ -1,0 +1,87 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Como atribuir, modificar ou remover atribuições de usuário com a ferramenta de importação
+</h1>
+<p>Este artigo mostra aos administradores como gerenciar usuários de casos com a ferramenta Importar.</p>
+<p>Os administradores podem:</p>
+<ul>
+  <li>atribuir usuários a um caso</li>
+  <li>modificar usuários já atribuídos a um caso</li>
+  <li>remover usuários atribuídos a um caso</li>
+</ul>
+<h2 id="opening-the-import-tool">Abrindo a ferramenta Importar</h2>
+<ol style="list-style-type: decimal">
+  <li>Faça login na conta de administrador.</li>
+  <li>Localize um aplicativo na página Aplicativos e clique no botão ADMIN.</li>
+  <li>Clique na guia Integração e depois em IMPORTAÇÕES no submenu.</li>
+  <li>Clique no botão NOVO. A caixa de diálogo Adicionar importações é exibida.</li>
+</ol>
+<h2 id="creating-records">Criando registros</h2>
+<p>
+  Baixe um ou mais arquivos CSV. Use esses arquivos para adicionar, modificar ou remover usuários do caso. Depois que a
+  caixa de diálogo Adicionar importações for aberta:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Clique no campo Tipo.</li>
+  <li>Percorra o menu suspenso e selecione uma opção (veja abaixo). Um link é exibido.</li>
+  <li>Clique no link Baixar amostra. Um arquivo CSV é baixado para o seu dispositivo.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-1.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Abra o arquivo e adicione registros. Clique aqui para saber como usar dados de formato no arquivo CSV.</p>
+<h3 id="file-options">Opções de arquivo</h3>
+<p>
+  <strong>Atribuir usuários a casos</strong> * Escolha esta opção para adicionar usuários a um caso. * Deixe a célula
+  case_role_order em branco. * Vá para a página Usuários e copie o ID da tag para esta pessoa. Se o campo Tag ID estiver
+  em branco, insira um ID exclusivo, clique em Salvar e copie o ID para o arquivo CSV.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Modificar usuários atribuídos a casos</strong> * Escolha esta opção para atualizar os dados dos usuários
+  atuais atribuídos a um caso. * Use o ID da tag Case para a coluna case_ID.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Remover usuários atribuídos a casos</strong> * Escolha esta opção para remover usuários atribuídos a um caso.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="uploading-the-file">Carregando o arquivo</h2>
+<p>
+  Você pode carregar um arquivo imediatamente ou retornar à caixa de diálogo Adicionar importações posteriormente e
+  concluir essas etapas.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Abra a caixa de diálogo Adicionar importações.</li>
+  <li>Insira um nome exclusivo para o arquivo CSV.</li>
+  <li>Clique no ícone de mais (+) para carregar o arquivo do seu dispositivo.</li>
+  <li>Clique no campo Tipo e selecione uma opção. (Veja acima)</li>
+  <li>Clique em SALVAR.</li>
+</ol>
+<h2 id="processing">Em processamento</h2>
+<p>
+  Dependendo da quantidade de registros do arquivo e da carga do sistema, a plataforma pode demorar alguns minutos para
+  processar a importação.
+</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>
+  Quando a importação é concluída, a plataforma ajusta os registros do usuário (ou seja, adiciona, modifica ou remove)
+  na página Casos.
+</p>
+<h2 id="failure">Falha</h2>
+<p>
+  Se a operação de importação falhar, a plataforma retornará uma mensagem de falha. Na maioria dos casos, a causa da
+  falha é a formatação dos dados.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Para ver a causa da falha:</p>
+<ol style="list-style-type: decimal">
+  <li>Clique em Exibir sob o cabeçalho Ação.</li>
+  <li>Na próxima página, passe o mouse sobre o ícone de falha. A dica de ferramenta exibe o erro.</li>
+  <li>Vá para o arquivo CVS e ajuste e corrija o erro.</li>
+  <li>Carregue o arquivo novamente.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

@@ -1,0 +1,148 @@
+<form
+  method="post"
+  title="upload-document"
+  class="popup-a a form-d shown"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="ticketForm"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Add Ticket</h2>
+
+      <div class="form">
+        <div class="form-container">
+          <div class="form-block">
+            <p class="full-width">
+              <label class="required permissions-field">{{ 'To' | translate }}</label>
+              <span class="username-field-wrap">
+                <span
+                  #usernameTypesMenuToggle
+                  class="username-type"
+                  (click)="showUsernameTypeFilter = !showUsernameTypeFilter; isOpenDropDown = false"
+                >
+                  {{ searchKeyText() | translate }}
+                  <div #usernameTypesMenu class="username-type-filters" [ngClass]="{ on: showUsernameTypeFilter }">
+                    <div class="filter-item" (click)="usernameTypeChange(UsernameType.Email)" translate>Email</div>
+                    <div class="filter-item" (click)="usernameTypeChange(UsernameType.Phone)" translate>Phone</div>
+                    <div class="filter-item" (click)="usernameTypeChange(UsernameType.FirstName)" translate>
+                      First Name
+                    </div>
+                    <div class="filter-item" (click)="usernameTypeChange(UsernameType.LastName)" translate>
+                      Last Name
+                    </div>
+                    <div class="filter-item" (click)="usernameTypeChange(UsernameType.TagId)" translate>Tag ID</div>
+                  </div>
+                </span>
+                <p style="display: flex">
+                  <!-- <international-phone-number
+                    id="phoneNumberInput"
+                    formControlName="phone_number"
+                    *ngIf="usernameType === UsernameType.Phone"
+                    [defaultCountry]="defaultCountry"
+                    (onCountryCodeChanged)="onCountryCodeChange($any($event))"
+                    (keydown)="onKeyDown($event)"
+                  ></international-phone-number> -->
+                  <ngx-intl-tel-input
+                    id="phoneNumberInput"
+                    class="inter-input"
+                    *ngIf="usernameType === UsernameType.Phone"
+                    formControlName="phone_number"
+                    [maxlength]="15"
+                    [preferredCountries]="preferredCountries"
+                    [enableAutoCountrySelect]="false"
+                    [enablePlaceholder]="true"
+                    [searchCountryFlag]="true"
+                    [searchCountryField]="[
+                      SearchCountryField.Iso2,
+                      SearchCountryField.Name
+                    ]"
+                    [selectFirstCountry]="false"
+                    [phoneValidation]="false"
+                    [separateDialCode]="true"
+                    [numberFormat]="PhoneNumberFormat.International"
+                    (countryChange)="onCountryCodeChange($event)"
+                    name="phoneNumberInput"
+                  ></ngx-intl-tel-input>
+                  <ng-select
+                    #usersDropdownField
+                    id="usersDropdown"
+                    bindValue="user_id"
+                    formControlName="user_id"
+                    [notFoundText]="'No Users Found' | translate"
+                    [items]="users"
+                    [bindLabel]="usernameType"
+                    [isOpen]="isOpenDropDown"
+                    (select)="onChange()"
+                    [closeOnSelect]="true"
+                    (change)="onChange()"
+                    (search)="onSearchType($event)"
+                    [placeholder]="'Type User ' + searchKeyText()"
+                  >
+                    <ng-template ng-notfound-tmp let-searchTerm="searchTerm">
+                      <div class="ng-option disabled" style="color: unset !important">
+                        No Users Found
+                        <p class="submit add-user-btn" *ngIf="showAddUserButton">
+                          <button type="submit" (click)="showUserModal(usersDropdownField.searchTerm)" translate>
+                            ADD USER
+                          </button>
+                        </p>
+                      </div>
+                    </ng-template>
+                  </ng-select>
+                </p>
+                <app-error
+                  [fieldValue]="ticketForm.controls['user_id'].value"
+                  [regularHtmlElementName]="usersDropdownField"
+                  [validationErrors]="validationErrors"
+                  [validation]="{ required: true }"
+                ></app-error>
+              </span>
+            </p>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block">
+            <div>
+              <p class="full-width no-float">
+                <span class="full-width no-float">
+                  <label class="required" name="title" translate>Title</label>
+                  <input #titleF type="text" name="title" formControlName="title" />
+                  <app-error
+                    [fieldValue]="ticketForm.controls['title'].value"
+                    [field]="titleF"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block">
+            <div>
+              <p class="full-width">
+                <label class="required">{{ 'Message' | translate }}</label>
+                <textarea #message type="text" name="description" formControlName="message"></textarea>
+
+                <app-error
+                  [fieldValue]="ticketForm.controls['message'].value"
+                  [field]="message"
+                  [validationErrors]="validationErrors"
+                  [validation]="{ required: true }"
+                ></app-error>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="submit"></div>
+      <ca-button class="f-right" [text]="'Save'| translate" [isFilled]="true" [buttonType]="'submit'" [isDisabled]="$any(validationErrors)?.length > 0" (btnClick)="saveNewTicket()" [fontWeight]="600" margin="0 16px 0 0"></ca-button>
+
+      <a class="close" (click)="close()" translate>Close</a>
+    </div>
+    <a class="close" (click)="close()" translate>Close</a>
+  </div>
+</form>

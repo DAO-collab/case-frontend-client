@@ -1,0 +1,208 @@
+{
+  "formatting-case-management-with-the-import-tool": {
+    "description": "format data for case management data with the import tool",
+    "related": [],
+    "tags": [
+      "data format",
+      "csv",
+      "import"
+    ],
+    "title": "Formatting Case Management Data With The Import Tool"
+  },
+  "formatting-user-case-assignments-with-the-import-tool": {
+    "description": "format data for user case assignments data with the import tool",
+    "related": [],
+    "tags": [
+      "data format",
+      "csv",
+      "import"
+    ],
+    "title": "Formatting User Case Assignments Data With The Import Tool"
+  },
+  "formatting-user-management-with-the-import-tool": {
+    "description": "format data for user management data with the import tool",
+    "related": [],
+    "tags": [
+      "data format",
+      "csv",
+      "import"
+    ],
+    "title": "Formatting User Management Data With The Import Tool"
+  },
+  "how-admin-manage-user-assignments-to-cases": {
+    "description": "review four ways to create a case.",
+    "related": [],
+    "tags": [
+      "manage users",
+      "assign users",
+      "cases"
+    ],
+    "title": "How Admins Manage User Assignments To Cases"
+  },
+  "how-admins-manage-cases": {
+    "description": "admins learn four ways to create a case.",
+    "related": [],
+    "tags": [
+      "new case",
+      "create case",
+      "manage cases"
+    ],
+    "title": "How Admins Manage Cases"
+  },
+  "how-admins-manage-users": {
+    "description": "admins learn four ways to manage users.",
+    "related": [],
+    "tags": [
+      "create user",
+      "admins",
+      "new user"
+    ],
+    "title": "How Admins Manage Users"
+  },
+  "how-to-assign-modify-or-remove-user-assignments-with-the-import-tool": {
+    "description": "assign, modify or remove user assignments with the import tool",
+    "related": [
+      "formatting-user-case-assignments-with-the-import-tool"
+    ],
+    "tags": [
+      "manage users",
+      "assign users",
+      "cases"
+    ],
+    "title": "How To Assign, Modify Or Remove User Assignments With The Import Tool"
+  },
+  "how-to-assign-or-remove-user-assignments-with-existing-cases": {
+    "description": "assign or remove user assignments with existing cases",
+    "related": [],
+    "tags": [
+      "manage users",
+      "assign users",
+      "cases"
+    ],
+    "title": "How To Assign Or Remove User Assignments With Existing Cases"
+  },
+  "how-to-assign-users-while-creating-a-case": {
+    "description": "assign users while creating a case",
+    "related": [],
+    "tags": [
+      "manage users",
+      "assign users",
+      "cases"
+    ],
+    "title": "How To Assign Users While Creating A Case"
+  },
+  "how-to-auto-assign-users-with-the-public-signup-link": {
+    "description": "auto assign users with the public signup link",
+    "related": [],
+    "tags": [
+      "manage users",
+      "assign users",
+      "cases"
+    ],
+    "title": "How To Auto Assign Users With The Public Signup Link"
+  },
+  "how-to-auto-create-cases-with-a-public-signup-link": {
+    "description": "admins learn how to create a case (and add a user at the same time) by sending a single signup link.",
+    "related": [],
+    "tags": [
+      "new user",
+      "create case",
+      "signup link"
+    ],
+    "title": "How To Auto Create Cases With A Public Signup Link"
+  },
+  "how-to-create-an-app": {
+    "description": "users learn how to log in to their case active account.",
+    "related": [],
+    "tags": [
+      "admins",
+      "create app",
+      "create acount"
+    ],
+    "title": "How To Create An App"
+  },
+  "how-to-create-and-modify-users-with-the-ui": {
+    "description": "admins learn how to create new users through the platform ui.",
+    "related": [],
+    "tags": [
+      "create user",
+      "new user",
+      "ui"
+    ],
+    "title": "How To Create And Modify Users With The Ui"
+  },
+  "how-to-create-or-modify-cases-through-the-ui-menu": {
+    "description": "admins learn how to create a case with the platform's user interface, add users to a new case, and update existing cases.",
+    "related": [],
+    "tags": [
+      "new user",
+      "create case",
+      "ui"
+    ],
+    "title": "How To Create Or Modify Cases Through The Ui Menu"
+  },
+  "how-to-create-or-modify-cases-with-the-import-tool": {
+    "description": "admins learn how to create or modify existing cases with the import tool.",
+    "related": [
+      "formatting-case-management-with-the-import-tool"
+    ],
+    "tags": [
+      "create case",
+      "bulk file",
+      "import file"
+    ],
+    "title": "How To Create Or Modify Cases With The Import Tool"
+  },
+  "how-to-create-or-modify-users-with-the-import-tool": {
+    "description": "admins learn how to create or modify existing users with the import tool.",
+    "related": [
+      "formatting-user-management-with-the-import-tool"
+    ],
+    "tags": [
+      "create user",
+      "import file",
+      "bulk file"
+    ],
+    "title": "How To Create Or Modify Users With The Import Tool"
+  },
+  "how-to-create-users-with-a-signup-link": {
+    "description": "admins learn how to create new users with a signup link.",
+    "related": [],
+    "tags": [
+      "create user",
+      "signup link",
+      "ui"
+    ],
+    "title": "How To Create Users With A Signup Link"
+  },
+  "how-to-log-in": {
+    "description": "users learn how to log in to their case active account.",
+    "related": [],
+    "tags": [
+      "users",
+      "account",
+      "log in"
+    ],
+    "title": "How To Log In"
+  },
+  "how-to-update-a-user-profile": {
+    "description": "admins and users learn how to update the profile page.",
+    "related": [],
+    "tags": [
+      "user profile",
+      "update",
+      "user status"
+    ],
+    "title": "How To Upate A User Profile"
+  },
+  "how-users-create-a-new-account": {
+    "description": "users learn how to create a case active account.",
+    "related": [],
+    "tags": [
+      "new user",
+      "create account",
+      "sign up"
+    ],
+    "title": "How Users Create A New Account"
+  }
+}

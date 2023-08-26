@@ -1,0 +1,50 @@
+<div class="notify-field">
+  <form [formGroup]="notificationsForm!" class="notify-field-form">
+    <div
+      class="line-block"
+      formArrayName="notifications"
+      *ngFor="let notificationForm of notificationsControls; let index = index"
+    >
+      <div [formGroup]="notificationForm">
+        <div class="ntf-item">
+          <ng-select
+            class="select-padding-left"
+            [items]="notificationTypes"
+            bindLabel="text"
+            bindValue="id"
+            formControlName="type"
+          >
+          </ng-select>
+        </div>
+        <div class="ntf-item margin-10px">
+          <input
+            type="number"
+            [name]="'count' + index"
+            formControlName="count"
+            (keyup)="triggerChange()"
+            (keypress)="onKeyPress($event, index)"
+          />
+        </div>
+        <div class="ntf-item">
+          <ng-select
+            class="select-padding-left"
+            [items]="repeatItems"
+            bindLabel="text"
+            bindValue="id"
+            formControlName="period"
+            (change)="triggerChange(index)"
+          ></ng-select>
+        </div>
+        <div class="ntf-item input-remove">
+          <a (click)="removeNotification(index)"></a>
+        </div>
+      </div>
+    </div>
+  </form>
+
+  <div class="add-notification">
+    <p class="link-b" *ngIf="notifications.length < 4">
+      <a (click)="addNotification()"> <i class="icon-plus"></i> Add Notifications</a>
+    </p>
+  </div>
+</div>

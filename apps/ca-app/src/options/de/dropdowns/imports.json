@@ -1,0 +1,11 @@
+{
+  "post_user": "Benutzer hinzuf\u00fcgen",
+  "put_user": "Benutzer \u00e4ndern",
+  "put_user_status": "Benutzerstatus \u00e4ndern",
+  "post_case": "F\u00e4lle erstellen",
+  "put_case": "F\u00e4lle \u00e4ndern",
+  "post_case_permission": "Weisen Sie Benutzer F\u00e4llen zu",
+  "put_case_permission": "Kundenvorg\u00e4ngen zugewiesene Benutzer \u00e4ndern",
+  "post_case_post": "Fallbeitr\u00e4ge erstellen",
+  "delete_case_permission": "Kundenvorg\u00e4ngen zugewiesene Benutzer entfernen"
+}

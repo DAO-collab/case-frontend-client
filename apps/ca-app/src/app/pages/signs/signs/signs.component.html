@@ -1,0 +1,387 @@
+<article *ngIf="permissions && !permissions['read_all'] && !loading">
+  <p class="notice-a" *ngIf="permissions && !loading && !permissions['read_all']" translate>
+    You don't have permissions to view this page.
+  </p>
+  <div *ngIf="loading" class="loading-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<div class="module-d" *ngIf="!permissions && loading">
+  <div>
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</div>
+
+<div *ngIf="permissions && permissions['read_all']" class="signs-wrap">
+  <div class="module-d tabs custom-tabs-text-color">
+    <ul class="tabs-ul">
+      <li [ngClass]="{ active: showPendingSigns }">
+        <a class="desktop-show" (click)="loadIncompleteSigns()" translate>Your Uncompleted E-signs</a>
+        <a class="mobile-show" (click)="loadIncompleteSigns()" translate>Uncompleted</a>
+      </li>
+      <li [ngClass]="{ active: showConfirmedSigns }">
+        <a class="desktop-show" (click)="loadCompleteSigns()" translate>Your Completed E-signs</a>
+        <a class="mobile-show" (click)="loadCompleteSigns()" translate>Completed</a>
+      </li>
+      <li class="mobile-show-last-tab" *ngIf="!permissions['moderate_others']" [ngClass]="{ active: showMySigns }">
+        <a (click)="loadMySigns()" translate>Your Signs</a>
+      </li>
+      <li
+        class="mobile-show-last-tab"
+        *ngIf="permissions['moderate_others']"
+        [ngClass]="{ active: showMySigns || showAllSigns }"
+      >
+        <a (click)="loadAllSigns()" translate>All E-signs</a>
+        <!-- <a class="mobile-show" (click)="loadAllSigns()" translate>All</a> -->
+      </li>
+    </ul>
+
+    <!--    <div *ngIf="showAllSigns && upcomingSigns.length > 0 && !showSignBuilder" class="filters-box">-->
+    <!--      <p>-->
+    <!--        <a translate>-->
+    <!--          Created by me-->
+    <!--          <label for="createdByMeCheckbox" class="checkbox-container centered-checkbox filter-checkbox">-->
+    <!--            <input type="checkbox" id="createdByMeCheckbox" [formControl]="createdByMeFormsControl" />-->
+    <!--            <span class="checkmark"></span>-->
+    <!--          </label>-->
+    <!--        </a>-->
+    <!--      </p>-->
+    <!--    </div>-->
+
+    <app-sign-submit
+      *ngIf="showSignSubmit"
+      [sign]="selectedSign"
+      [caseId]="caseId"
+      (submit)="onSignClose(); loadSigns()"
+      (close)="onSignClose()"
+    ></app-sign-submit>
+
+    <app-sign-view *ngIf="showSignView" [sign]="selectedSign" [caseId]="caseId" (close)="onSignClose()"></app-sign-view>
+    <app-sign-builder
+      *ngIf="showSignBuilder"
+      [sign]="selectedSign"
+      [caseId]="caseId"
+      [people]="people"
+      (close)="onSignClose(); loadSigns()"
+    ></app-sign-builder>
+    <app-create-doc-sign
+      *ngIf="showSignDocument"
+      [selectedSign]="selectedSign"
+      [currentCaseId]="caseId"
+      [teamData]="people"
+      (close)="onSignClose(); loadSigns()"
+    ></app-create-doc-sign>
+
+    <div *ngIf="!selectedSign">
+      <div class="news-d" *ngIf="!loading && upcomingSigns.length !== 0">
+        <div>
+          <article>
+            <div class="table-wrapper">
+              <table class="table-b a">
+                <tbody>
+                  <tr>
+                    <th translate>E-sign Title</th>
+                    <th translate>Author</th>
+                    <th translate>Due Date</th>
+                    <th>
+                      <span
+                        *ngIf="
+                          (showAllSigns || showMySigns) && (permissions['manage_own'] || permissions['moderate_others'])
+                        "
+                        translate
+                        >Published</span
+                      >
+                    </th>
+                    <th *ngIf="showAllSigns" translate>Submissions</th>
+                    <th translate>Action</th>
+                  </tr>
+                  <tr *ngFor="let sign of upcomingSigns; let ind = index">
+                    <td>{{ sign.name }}</td>
+                    <td>
+                      {{
+                        teamData[sign.user_id]
+                          ? teamData[sign.user_id].sync_info
+                            ? teamData[sign.user_id].sync_info.given_name +
+                              ' ' +
+                              teamData[sign.user_id].sync_info.family_name
+                            : teamData[sign.user_id].given_name + ' ' + teamData[sign.user_id].family_name
+                          : ''
+                      }}
+                    </td>
+                    <td>{{ sign.due_date | date : 'fullDate' }}</td>
+                    <td>
+                      <ca-toggle
+                        class="material-switch-with-checkmark"
+                        [condition]="
+                          (showAllSigns || showMySigns) &&
+                          ((permissions['manage_own'] && sign.user_id === userData.user_id) ||
+                            permissions['moderate_others'])
+                        "
+                        #publishedCheckbox
+                        [ngClass]="{
+                          'material-switch-disabled': publishingSign || sign.responses_ct > 0 || !sign.pages?.length
+                        }"
+                        [checked]="sign.published"
+                        [disabled]="publishingSign || sign.responses_ct > 0 || !sign.pages?.length || sign?.published === 1"
+                        (toggle)="togglePublished(publishedCheckbox, sign, ind)"
+                      ></ca-toggle>
+                    </td>
+                    <td *ngIf="showAllSigns">
+                      <a
+                        (click)="
+                          showAnswersModal = true; answers = sign.responses; signId = sign.sign_id; signType = sign.type
+                        "
+                        >{{ utilsService.getObjectLength(sign.responses) }}
+                        <span translate>of</span>
+                        {{ utilsService.getDistinctValueCount(sign.participants_ids) }}</a
+                      >
+                    </td>
+                    <td width="160">
+                      <span class="drop-a">
+                        <span class="value"> --</span>
+                        <span class="drop">
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="showPendingSigns && permissions['submit_own']"
+                              (click)="runSignSubmit(sign)"
+                              class="drop-item-option"
+                            >
+                              <img class="drop-item-option-img" src="images/item-submit.svg" alt="" />
+                              Submit E-sign
+                            </a>
+                          </ng-container>
+                          <a *ngIf="showConfirmedSigns" (click)="runSignView(sign, true)" class="drop-item-option">
+                            <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                            View E-sign
+                          </a>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="(showMySigns || showAllSigns) && permissions['manage_own'] && !sign?.published"
+                              (click)="openModal(sign)"
+                              class="drop-item-option"
+                            >
+                              <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                              Edit settings
+                            </a>
+                          </ng-container>
+                          <ng-container *ngIf="!!utilsService.convertObjectKeysToArray(sign.responses).length">
+                            <a
+                              *ngIf="
+                                (showMySigns || showAllSigns) &&
+                                ((permissions['manage_own'] && sign.createdByMe) ||
+                                  (permissions['moderate_others'] && !sign.createdByMe))
+                              "
+                              (click)="runSignView(sign)"
+                              class="drop-item-option"
+                            >
+                              <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                              View E-sign
+                            </a>
+                          </ng-container>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <ng-container *ngIf="!utilsService.convertObjectKeysToArray(sign.responses).length">
+                              <a
+                                *ngIf="
+                                  (showMySigns || showAllSigns) &&
+                                  ((permissions['manage_own'] && sign.createdByMe) ||
+                                    (permissions['moderate_others'] && !sign.createdByMe))
+                                    && !sign?.published
+                                "
+                                (click)="openSignBuilder(sign)"
+                              >
+                                <i class="icon-edit"></i> Edit e-sign builder
+                              </a>
+                            </ng-container>
+                          </ng-container>
+                          <a
+                            *ngIf="
+                              (showMySigns || showAllSigns) &&
+                              utilsService.convertObjectKeysToArray(sign.responses).length
+                            "
+                            (click)="
+                              showAnswersModal = true;
+                              answers = sign.responses;
+                              signId = sign.sign_id;
+                              signType = sign.type
+                            "
+                            class="drop-item-option"
+                          >
+                            <img class="drop-item-option-img" src="images/item-view-answers.svg" alt="" />
+                            View Answers
+                          </a>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="
+                                (showMySigns || showAllSigns) &&
+                                ((permissions['manage_own'] && sign.createdByMe) ||
+                                  (permissions['moderate_others'] && !sign.createdByMe))
+                                  && !sign?.published
+                              "
+                              appConfirmationPopUp
+                              (yes)="deleteSign(ind, upcomingSigns)"
+                              title="Delete E-sign"
+                              [message]="'You are about to delete e-sign. Are you sure?'"
+                            >
+                              <i class="icon-trash"></i> Delete E-sign</a
+                            >
+                          </ng-container>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                              <a
+                                *ngIf="
+                                  (showMySigns || showAllSigns) &&
+                                  ((permissions['manage_own'] && sign.createdByMe) ||
+                                    (permissions['moderate_others'] && !sign.createdByMe))
+                                "
+                                (click)="copySign(sign)"
+                              >
+                              <img class="copy-icon--img" src="images/copy-icon-inactive.svg" /> Copy E-sign
+                              </a>
+                            </ng-container>
+                        </span>
+                      </span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <ca-load-more *ngIf="showLoadMore" [isLoading]="newElementsSectionIsLoading" (loadMorePressed)="loadMoreEvents()"></ca-load-more>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div *ngIf="upcomingSigns.length === 0 && !loading">
+        <p *ngIf="!permissions['moderate_others'] && showMySigns; else defaultEmptySigns" class="text-center">{{ 'You currently have no E-signs of your own' | translate }}</p>
+        <ng-template #defaultEmptySigns>
+          <p class="text-center" translate>No E-signs</p>
+        </ng-template>
+      </div>
+      <div *ngIf="loading">
+        <p class="text-center" translate>
+          <span class="loader loader-bubbles">
+            <span></span>
+          </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<form
+  method="post"
+  class="popup-a a form-d library-popup"
+  [ngClass]="{ shown: showSignsList }"
+  (submit)="showSignsList = false; stylesService.popUpDisactivated()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>E-Signs Library</h2>
+      <ul class="checklist-c a" *ngIf="!librarySignsLoading">
+        <li *ngFor="let sign of librarySignsList" (click)="submitLibrarySign(sign)">
+          <label class="file-title-box"
+            >{{ sign.tag_id }}<span>{{ sign.description }}</span></label
+          >
+        </li>
+
+        <li class="text-center" *ngIf="!librarySignsLoading && !librarySignsList.length" translate>
+          No E-signs In Library
+        </li>
+      </ul>
+
+      <div class="module-d" *ngIf="librarySignsLoading">
+        <div>
+          <p class="text-center">
+            <span class="loader loader-bubbles">
+              <span></span>
+            </span>
+          </p>
+        </div>
+      </div>
+
+      <p class="submit">
+        <button type="submit" translate>Done</button>
+        <a class="lib-close-btn" (click)="closeFilesPopUp()" translate>Cancel</a>
+      </p>
+      <a class="close" (click)="closeFilesPopUp()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeFilesPopUp()" translate>Close</a>
+  </div>
+</form>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="permissions && permissions['read_all']"
+  [ngClass]="{ shown: showUploadModal }"
+>
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2 translate>Upload E-sign Document</h2>
+      <app-doc-sign-uploader
+        *ngIf="showUploadModal"
+        [sign]="uploadingSign"
+        [currentCaseId]="caseId"
+        (afterChange)="closeUploadModal()"
+        (afterSave)="openDocSignBuilder($event)"
+      ></app-doc-sign-uploader>
+      <p>
+        <a (click)="closeUploadModal()"></a>
+      </p>
+      <a class="close" (click)="closeUploadModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeUploadModal()">Close</a>
+  </div>
+</form>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="permissions && permissions['read_all']"
+  [ngClass]="{ shown: showModal }"
+>
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2 translate>{{ addSignTitle }}</h2>
+      <app-create-sign (afterChange)="closeModal()" (afterSave)="loadAllSigns()"></app-create-sign>
+      <p>
+        <a (click)="closeModal()"></a>
+      </p>
+      <a class="close" (click)="closeModal()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeModal()" translate>Close</a>
+  </div>
+</form>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="permissions && permissions['read_all']"
+  [ngClass]="{ shown: showAnswersModal }"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Answers</h2>
+
+      <app-answers-view
+        [teamData]="teamData"
+        [answers]="answers"
+        [signId]="signId"
+        [signType]="signType"
+      ></app-answers-view>
+
+      <p>
+        <a (click)="showAnswersModal = false"></a>
+      </p>
+      <a class="close" (click)="showAnswersModal = false" translate>Close</a>
+    </div>
+    <a class="close" (click)="showAnswersModal = false" translate>Close</a>
+  </div>
+</form>

@@ -1,0 +1,52 @@
+<div class="popup-a a form-d shown">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Refund Reason</h2>
+
+      <div>
+        <div class="reasons-content">
+          <div class="reason-body">
+            <input
+              type="radio"
+              class="refund-radio"
+              name="reason-radio"
+              [value]="refundReasons.Duplicate"
+              (change)="onSelectRadio($event.target)"
+            />
+            <span class="unsubscribe-reason-text" translate>Duplicate charge</span>
+          </div>
+
+          <div class="reason-body">
+            <input
+              type="radio"
+              class="refund-radio"
+              name="reason-radio"
+              [value]="refundReasons.Fraudulent"
+              (change)="onSelectRadio($event.target)"
+            />
+            <span class="unsubscribe-reason-text" translate>Fraudulent charge</span>
+          </div>
+
+          <div class="reason-body">
+            <input
+              type="radio"
+              class="refund-radio"
+              name="reason-radio"
+              [value]="refundReasons.RequestedByCustomer"
+              (change)="onSelectRadio($event.target)"
+            />
+            <span class="unsubscribe-reason-text" translate>Requested by customer</span>
+          </div>
+        </div>
+      </div>
+
+      <p class="submit unsubscribe-submit">
+        <a (click)="closeModal()">{{ 'Close' | translate }}</a>
+        <ca-button class="f-right" [text]="'Submit'| translate" [isFilled]="true" [buttonType]="'submit'" [isDisabled]="refundForm.invalid" (btnClick)="selectRefundReason()" [fontWeight]="600"></ca-button>
+      </p>
+
+      <a class="close" (click)="closeModal()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeModal()" translate>Close</a>
+  </div>
+</div>

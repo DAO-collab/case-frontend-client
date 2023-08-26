@@ -1,0 +1,13 @@
+<footer id="footer">
+  <img class="logo" [src]="logo" />
+  <p>
+    <span translate>Made with</span> <i class="icon-heart overlay-a"></i> <span class="hidden" translate>love</span
+    ><span translate>in New York City</span><br />
+    &copy;<span translate> CaseActive </span> <span class="date">{{ currentYear }}</span>
+    <span translate> All rights reserved </span> |
+    <a [routerLink]="['/domains']" [innerHTML]="'Domains' | translate"></a> |
+    <a target="_blank" [href]="termsOfUseUrl" [innerHTML]="'Terms of Use' | translate"></a> |
+    <!--    <a target="_blank" [href]="contactUs" [innerHTML]="'Contact Us' | translate"></a>-->
+    <a [routerLink]="['/support']" translate target="_blank">Contact Us</a>
+  </p>
+</footer>

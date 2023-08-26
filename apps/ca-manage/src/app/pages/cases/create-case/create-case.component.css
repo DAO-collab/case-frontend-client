@@ -1,0 +1,80 @@
+#assign-case span.list {
+  margin-top: 5px;
+}
+
+#assign-case span.list > span {
+  display: block;
+  padding: 8px 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+#assign-case span.list > span > span {
+  float: right;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.container {
+  min-height: 10px;
+}
+
+p.custom-fields-group {
+  margin-top: -30px;
+}
+
+p.custom-fields-group > span {
+  margin-top: 31px;
+  display: inherit;
+}
+
+.select_status {
+  margin-bottom: 47px;
+}
+
+.module-d {
+  z-index: 9 !important;
+}
+
+.form-hint {
+  margin-left: 5px !important;
+}
+
+::ng-deep div.flatpickr-time input.numInput {
+  width: 100%;
+  padding: 0;
+  text-align: center;
+  font-size: 14px;
+  color: #667074;
+}
+
+::ng-deep div.flatpickr-time span.flatpickr-am-pm {
+  border: 1px solid #dadada;
+  padding: 16px 12px;
+  border-radius: 4px;
+  margin-left: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  position: relative;
+  top: -1.5px;
+  color: #667074;
+}
+
+::ng-deep .form-control[readonly] {
+  background-color: #f8fafb !important;
+}
+
+.redirect-to-imports-link-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 14px;
+}
+
+.case-info-title {
+  margin-top: 0;
+}
+
+.redirect-to-imports-text {
+  margin-right: 3px;
+}

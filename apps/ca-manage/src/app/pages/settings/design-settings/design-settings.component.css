@@ -1,0 +1,391 @@
+.file-a {
+  line-height: 1.5;
+  text-align: center;
+}
+
+.file-a .label {
+  color: #667074;
+  font-size: 100%;
+}
+
+.file-a input {
+  position: absolute;
+  left: -3000em;
+  top: 0;
+}
+
+.popup-copy-icon-wrapper {
+  min-width: 26px;
+  position: relative;
+  margin-top: 2px;
+}
+
+.copied-tip {
+  color: #15afc5;
+  position: absolute;
+  margin-top: 10px;
+  padding: 0 5px;
+  left: -11px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.copied-tip:before {
+  border-style: solid;
+  border-width: 5px 5px 5px 0;
+  border-color: transparent #15afc5 transparent transparent;
+  position: absolute;
+  vertical-align: middle;
+  content: '';
+  top: -7px;
+  left: 50%;
+  z-index: 2;
+  transform: rotate(90deg) translateY(20%);
+}
+.file-a .drag {
+  display: block;
+  position: relative;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto 30px;
+  padding: 70px 0 0;
+  color: #a3a8aa;
+  font-weight: 700;
+  font-size: 0.714em;
+  line-height: 1.1;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.file-a .drag:after {
+  content: '\ea54';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #dbdbdb;
+  font-family: i;
+  font-weight: 400;
+  font-size: 180px;
+  line-height: 180px;
+}
+
+.file-a .drag:before {
+  content: '\e9c9';
+  display: block;
+  margin: 0 0 2px;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: i;
+}
+
+.file-a.a {
+  display: inline-block;
+  margin-bottom: 51px;
+  margin-right: 30px;
+  border: 1px solid #dbdbdb;
+  border-radius: 5px;
+  padding: 20px 39px;
+}
+
+@media screen and (max-width: 1000px) {
+  .file-a.a {
+    margin-right: 0px;
+  }
+}
+
+.margin-icon {
+  margin: 15px 7px;
+  width: 120px !important;
+}
+
+@media screen and (max-width: 760px) {
+  .margin-icon {
+    margin: 22px 21%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .margin-icon {
+    margin: 26px 11%;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .margin-icon {
+    margin: 26px 5%;
+  }
+}
+
+@media screen and (max-width: 369px) {
+  .margin-icon {
+    margin: 26px 28%;
+  }
+
+  .file-a.a .btn {
+    margin-top: 0 !important;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .margin-icon {
+    margin: 26px 24%;
+  }
+}
+
+.file-a.a .label {
+  text-align: left;
+  margin-bottom: 0;
+  border-bottom: 1px solid #dbdbdb;
+  border-radius: 0px;
+  padding-bottom: 7px;
+}
+
+.file-a.a .drag {
+  float: left;
+  width: 330px;
+  height: 110px;
+  margin: 0 30px 0 0;
+  padding: 38px 0 0;
+  border-radius: 4px;
+  border: 1px dashed #dbdbdb;
+  background: none;
+}
+
+.file-a.a .btn {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+
+.file-a.a .drag:after {
+  left: -3000em;
+}
+
+.file-a.b {
+  display: inline-block;
+  margin: 10px 0 39px;
+}
+
+.file-a.b .label {
+  text-align: left;
+}
+
+.file-a.b .drag {
+  overflow: hidden;
+  float: left;
+  width: 180px;
+  height: 180px;
+  margin: 0 30px 0 0;
+  padding: 38px 0 0;
+  border-radius: 411px;
+  border: 1px solid #dbdbdb;
+  background: #f8fafb;
+  text-align: left;
+  text-indent: -3000em;
+}
+
+.file-a.b .drag:before,
+.file-a.b .drag:after {
+  position: absolute;
+  left: -3000em;
+  top: 0;
+}
+
+.file-a.b .btn {
+  margin-top: 70px;
+}
+
+.file-a.b .drag:after {
+  left: -3000em;
+}
+
+.color-picker .picker:before {
+  content: '';
+  display: block;
+  position: absolute;
+  right: 11px;
+  top: -17px;
+  width: 32px;
+  height: 17px;
+  background: url('/images/sprite.png') no-repeat;
+}
+
+.color-input {
+  display: block;
+  position: relative;
+  padding-right: 80px;
+}
+
+#root .color-input input {
+  width: 100%;
+}
+
+.color-input .color-picker {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 100;
+}
+
+label img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  max-height: 110px;
+  z-index: 9;
+  display: block;
+  max-width: 120px !important;
+}
+
+span.drag {
+  max-width: 100px;
+}
+
+span.drag.hiddenImg {
+  opacity: 0;
+}
+
+span.source span {
+  display: block;
+  height: 80px;
+}
+
+.noUploadedYet img {
+  display: none;
+}
+
+p.file-a.a span.notice-a.b {
+  display: none;
+}
+
+p.file-a.a .noUploadedYet span.notice-a.b {
+  display: block;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.file-a a[appconfirmationpopup] {
+  display: block;
+  margin-top: -18px;
+  z-index: 9;
+  position: relative;
+}
+
+.canvas-holder {
+  position: relative;
+  margin: 0 auto;
+}
+
+@media (max-width: 760px) {
+  .file-a.a {
+    display: block;
+  }
+}
+
+.control-size {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 2px;
+}
+
+.control-size button {
+  margin: 0;
+  padding: 0px 9px;
+  font-size: 20px;
+  line-height: 20px;
+  background: rgba(0, 0, 0, 0.3);
+  border: 0;
+  margin-right: 3px;
+}
+
+a.btn.cform-type-add {
+  float: right;
+  margin-top: 0px;
+  margin-right: 0;
+  min-width: 70px;
+  min-height: 38px;
+  line-height: 27px;
+  color: #fff;
+}
+
+input#mdb {
+  padding: 0 19px;
+  width: 100%;
+}
+
+i.icon-refresh {
+  font-size: 25px;
+}
+
+app-error.notice-a.clear-both {
+  margin-top: 15px;
+}
+
+.company-info {
+  margin-bottom: 5px !important;
+  border: 0 !important;
+  width: 300px;
+  padding: 0 !important;
+}
+
+.company-info span {
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+.company-info input {
+  position: relative;
+  left: 0;
+  margin-top: 10px;
+}
+
+:host ::ng-deep .user-signup > p > label > ng-select > ng-dropdown-panel {
+  left: 0;
+}
+
+:host ::ng-deep .user-signup > p > label > .ng-select-searchable .ng-input::after {
+  margin-top: 10px;
+}
+
+.user-signup > p > .label {
+  margin-bottom: 10px;
+}
+
+.user-signup-content {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 auto 25px !important;
+  font-size: 12px;
+}
+
+.signup-copy-icon {
+  height: 16px;
+  width: 19px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.signup-url-wrapper {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.signup-url {
+  font-size: 14px;
+}
+
+@media (max-width: 1000px) {
+  .company-info {
+    margin-right: 5px !important;
+  }
+}
+
+@media (max-width: 760px) {
+  .company-info {
+    margin-right: 0 !important;
+    width: 100%;
+  }
+}

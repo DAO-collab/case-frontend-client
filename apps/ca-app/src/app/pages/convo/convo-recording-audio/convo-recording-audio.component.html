@@ -1,0 +1,81 @@
+<article>
+  <div class="convo-recording-container">
+    <div class="convo-record-item" *ngFor="let record of recordList; let i = index">
+      <header class="convo-record-item-header" *ngIf="people?.length">
+        <figure>
+          <img class="avatar-image" width="50" height="50" [src]="getConvoUserAvatar(record.user_id)" alt="" />
+        </figure>
+
+        <div>
+          <div class="user-name">
+            {{ getConvoUserInfo(record.user_id).full_name }}
+          </div>
+          <div class="post-date">
+            <i class="icon-calendar2"></i>
+            {{ record.created_on | date : 'EEEE, MMMM d, y, h:mm:ss a' }}
+          </div>
+        </div>
+
+        <div
+          class="expand-recording-menu"
+          *ngIf="permissions['manage_own'] && permissions['moderate_others']"
+          (click)="toggleMenuClass($event)"
+        >
+          <div class="ins">
+            <div
+              appConfirmationPopUp
+              #target
+              class="m-item"
+              title="Delete Feed"
+              [message]="'You are about to delete feed. Are you sure?' | translate"
+              (yes)="deleteRecord(i, target)"
+            >
+              <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+              {{ 'Delete' | translate }}
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <ng-container *ngIf="record.media_ct !== 0">
+        <div
+          *ngFor="
+            let audio of loadedAttachments[i].audios.showAll
+              ? loadedAttachments[i].audios.list
+              : loadedAttachments[i].audios.list.slice(0, 3);
+            let index = index
+          "
+          [ngClass]="{ 'audio-file': audio.stream, 'w-100': !audio.stream }"
+        >
+          <p class="audio-title" *ngIf="audio.stream">{{ audio?.name }}</p>
+          <app-audiojs
+            class="vjs-has-started"
+            *ngIf="audio.stream"
+            [idx]="'audio_' + i + '_' + index"
+            [duration]="audio.duration"
+            [url]="audio.stream"
+          ></app-audiojs>
+          <i class="icon-download download-doc" (click)="downloadDoc(audio)"></i>
+        </div>
+      </ng-container>
+      <ng-container *ngIf="record.media_ct === 0">
+        <div class="convo-recording-item cursor-pointer">
+          <div class="recording-default-image">
+            <div class="default-image-items">
+              <app-svg-icon icon="video-converting" [height]="48" [width]="48"></app-svg-icon>
+              <p class="converting-title">converting</p>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+    <div class="convo-record-item no-media" *ngIf="recordList.length === 0">
+      <p class="text-center" *ngIf="loading">
+        <span class="loader loader-bubbles">
+          <span></span>
+        </span>
+      </p>
+      <p class="text-center" *ngIf="!loading">{{ 'No convo audios yet' | translate }}</p>
+    </div>
+  </div>
+</article>

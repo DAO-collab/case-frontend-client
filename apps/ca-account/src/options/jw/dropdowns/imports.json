@@ -1,0 +1,11 @@
+{
+  "post_user": "Tambah pangguna",
+  "put_user": "Ngowahi pangguna",
+  "put_user_status": "Ngowahi status pangguna",
+  "post_case": "Nggawe kasus",
+  "put_case": "Ngowahi kasus",
+  "post_case_permission": "Nemtokake pangguna menyang kasus",
+  "put_case_permission": "Ngowahi pangguna sing ditugasake kanggo kasus",
+  "post_case_post": "Nggawe kiriman kasus",
+  "delete_case_permission": "Mbusak pangguna sing ditugasake kanggo kasus"
+}

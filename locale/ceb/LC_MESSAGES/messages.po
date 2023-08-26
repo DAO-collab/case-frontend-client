@@ -1,0 +1,4600 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.335723\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.008095\n"
+"Language: ceb\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Kinahanglan nga imong pilion ang file sa imahe."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Pag-upload sa usa ka dokumento, markahan kini alang sa pirma, ug dayon ang "
+"mga kliyente mag-log in ug pirma kini. Nahuman ang tanan nga wala’y kliyente"
+" nga moadto sa among balay. Mahimong magamit kini sa mga kliyente nga dili "
+"kaduol sa usa ka opisina o kinsa nagpuyo nga wala’y estado .."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Director sa Operations of Capital Insurance"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Mahimo mag-log in ang among mga kaubanan ug tan-awon ang mga batakang "
+"kasayuran kung giunsa ang ilang gipasabut nga kaso. Dako kining gipadako sa "
+"among mga referral nga kaso ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Partner sa Law Office sa Christianon &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Dili na namon kinahanglan makita ang mga kliyente sa opisina alang sa mga "
+"miting, ug ang pagpirma sa dokumento nahuman na sa online - astig !."
+
+msgid "CEO of EL Passion"
+msgstr "Ang CEO sa EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Gamit ang API, hingpit namon nga awtomatiko ang gipakita sa feed sa kaso, "
+"pinasukad sa piho nga mga trigger sa among naa nga sistema. Maayo nga kadali"
+" .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "IT Manager sa mga Abogado sa Carter Mario Injury"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Adunay kami daghang mga kliyente sa multilingual nga naggamit sa bahin sa "
+"paghubad. Gi-post namon ang mga mensahe nga adunay pagsalig nga sila "
+"masabtan sa tanan. Gitugotan kami nga maglihok gikan sa lokal ngadto sa "
+"global nga buluhaton .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "CEO sa Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Gihigugma kini sa mga kliyente! Naghimo kini nga labing kadali sa ilang "
+"kinabuhi. Mahimo nila nga hisgutan ang mga isyu sa amon online, pag-upload "
+"sa mga litrato ug mga dokumento, ug ang tanan gitipig diin ang koponan ug "
+"kliyente mahimo’g makit-an .."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Partner ni Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Gusto namon ang pag-invoice sa kaso tungod kay gitugotan niini ang mga "
+"kliyente nga makita kung unsa gyud ang ilang gibayran .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Bise Presidente sa Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Ang komunikasyon nga adunay kalabutan sa cross sama sa pagbaton sa tanan "
+"nimo nga social media ug mga tool sa kolaborasyon sa usa ka lugar .."
+
+msgid "Director Of Complaint Management"
+msgstr "Direktor sa Pagdumala sa Reklamo"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Ang mga porma sa kaso motugot kanato sa pagpaminaw ug pagkat-on, pagtabang "
+"kanato sa pagpadako sa halin pinaagi sa feedback sa customer .."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Direktor sa Pagbaligya sa Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Ang interface sa user susama kaayo sa Facebook. Sayon ra kaayo gamiton .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Partner sa Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Usa ka pin ang gipadala sa"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Send New Pin"
+msgstr "Ipadala ang Bag-ong Pin"
+
+msgid "Need Help?"
+msgstr "Nagkinahanglan ug Tabang?"
+
+msgid "Click here to contact us"
+msgstr "Pag-klik dinhi aron makontak kami"
+
+msgid "Next"
+msgstr "Sunod"
+
+msgid "Login or Signup"
+msgstr "Login o Signup"
+
+msgid "Invalid email entered"
+msgstr "Dili balido nga email ang gisulod"
+
+msgid "Processing..."
+msgstr "Pagproseso ..."
+
+msgid "Made with"
+msgstr "Gihimo"
+
+msgid "love"
+msgstr "Gugma"
+
+msgid "in New York City"
+msgstr "Sa New York City"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Ang tanan nga mga katungod gigahin"
+
+msgid "Terms of Use"
+msgstr "Mga Termino sa Paggamit"
+
+msgid "Contact Us"
+msgstr "Kontaka Kami"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "New Password"
+msgstr "Bag-ong Password"
+
+msgid "Confirm Password"
+msgstr "Kumpirmahan ang Sandi"
+
+msgid "Set Your New Password"
+msgstr "Ibutang ang imong bag-ong password"
+
+msgid "A code has been sent to"
+msgstr "Usa ka code nga gipadala sa"
+
+msgid "Change Password"
+msgstr "Usba ang Password"
+
+msgid "Changing..."
+msgstr "Pag-usab ..."
+
+msgid "Login"
+msgstr "Sulod"
+
+msgid "Forgot password?"
+msgstr "Nalimtan ang password?"
+
+msgid "Help"
+msgstr "Tabang"
+
+msgid "Email or Phone"
+msgstr "Email o Phone"
+
+msgid "Reset Password"
+msgstr "I-reset ang Password"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Pagsulud sa e-mail address o numero sa telepono nga may kalabutan sa imong "
+"account, dayon i-klik ang isumite. Mag-email kami o mag-text kanimo usa ka "
+"link sa usa ka panid diin dali ka makahimo usa ka bag-ong password."
+
+msgid "Request Code"
+msgstr "Paghangyo sa Code"
+
+msgid "Requesting..."
+msgstr "Naghangyo ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "ANG CASEACTIVE DUOL NA"
+
+msgid "Create a free account"
+msgstr "Paghimo usa ka libre nga account"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Kami ang nagbutang sa katapusan nga paghikap niini. Ipahibalo ka namo kung "
+"andam na!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr ""
+"Pipila ka minuto ang imong kalayo gikan sa usa ka labi ka kaayo nga "
+"pagtinabangay."
+
+msgid "First Name"
+msgstr "Unang Ngalan"
+
+msgid "Last Name"
+msgstr "Last Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Company"
+msgstr "Kumpanya"
+
+msgid "No language selected"
+msgstr "Walay piniling pinulongan"
+
+msgid "I agree with"
+msgstr "Uyon ko sa"
+
+msgid "Terms of Service"
+msgstr "Mga Termino sa Serbisyo"
+
+msgid "Language"
+msgstr "Pinulongan"
+
+msgid "Have at least one lower case character"
+msgstr "Pagbaton og dili mokubos sa usa ka ubos nga kahimtang nga karakter"
+
+msgid "Have at least one capital letter"
+msgstr "Adunay labing menos usa ka capital nga sulat"
+
+msgid "Have at least one number"
+msgstr "Adunay labing menos usa ka numero"
+
+msgid "Have at least 8 characters in length"
+msgstr "Adunay labing menos 8 ka mga karakter ang gitas-on"
+
+msgid "Type your current password"
+msgstr "Isulat ang imong kasamtangan nga password"
+
+msgid "Passwords must match"
+msgstr "Ang mga password kinahanglan nga magkatugma"
+
+msgid "Domains"
+msgstr "Mga domain"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Ang Javascript gibabagan. Palihug himoa kini."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Ang mga cookie dili mahimo. Palihug himoa kini."
+
+msgid "New"
+msgstr "Bag-o nga"
+
+msgid "Create A New App"
+msgstr "Paghimo Usa ka Bag-ong App"
+
+msgid "Apps"
+msgstr "Apps"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Logout"
+msgstr "Pag-log out"
+
+msgid "Hi"
+msgstr "Kumusta"
+
+msgid "View your account"
+msgstr "Tan-awa ang imong account"
+
+msgid "View page"
+msgstr "Tan-awa ang panid"
+
+msgid "You don’t have any apps"
+msgstr "Wala ka’y bisan unsang mga app"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Notifications"
+msgstr "Mga Pahibalo"
+
+msgid "No notifications yet."
+msgstr "Wala pay pahibalo."
+
+msgid "Today"
+msgstr "Karon"
+
+msgid "Last Week"
+msgstr "Kaniadtong Semana"
+
+msgid "No timezone selected"
+msgstr "Dili napili ang timezone"
+
+msgid "Complete profile to continue"
+msgstr "Kompleto ang profile aron magpadayon"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Website:"
+msgstr "Website:"
+
+msgid "Homepage:"
+msgstr "Homepage:"
+
+msgid "Approve Access"
+msgstr "Giuyon ang Pag-access"
+
+msgid "Info"
+msgstr "Impormasyon"
+
+msgid "Permissions"
+msgstr "Mga permiso"
+
+msgid "Billing"
+msgstr "Pagsingil"
+
+msgid "Payment Plan"
+msgstr "Plano sa Pagbayad"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Save"
+msgstr "Luwasa"
+
+msgid "has access to your information below:"
+msgstr "adunay access sa imong kasayuran sa ubos:"
+
+msgid "has invited you to their client portal."
+msgstr "nagdapit kanimo sa ilang portal sa kliyente."
+
+msgid "want access to the following information:"
+msgstr "gusto access sa mosunod nga kasayuran:"
+
+msgid "Decline"
+msgstr "Pagtangtang"
+
+msgid "Remove Access"
+msgstr "Kuhaa ang Pag-access"
+
+msgid "Active"
+msgstr "Aktibo"
+
+msgid "Invites"
+msgstr "Mga imbitasyon"
+
+msgid "Disabled"
+msgstr "Nabaldado"
+
+msgid "No apps found"
+msgstr "Wala nakit-an nga apps"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "user"
+
+msgid "manager"
+msgstr "manager"
+
+msgid "active"
+msgstr "aktibo"
+
+msgid "inactive"
+msgstr "Dili aktibo"
+
+msgid "Company Name"
+msgstr "Pangalan sa Kompanya"
+
+msgid "Type"
+msgstr "Matang"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Invitation"
+msgstr "Imbitasyon"
+
+msgid "About App"
+msgstr "Mahitungod sa App"
+
+msgid "Billing Info"
+msgstr "Impormasyon sa Pagsingil"
+
+msgid "Your Company Name"
+msgstr "Ngalan sa imong Company"
+
+msgid "Your Company Website"
+msgstr "Ang imong Company Website"
+
+msgid "Saving..."
+msgstr "Nagaluwas ..."
+
+msgid "Billing Information"
+msgstr "Impormasyon sa Pagsingil"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Palihug idugang ang APP ID nga gihatag sa kompanya"
+
+msgid "Select an option"
+msgstr "Pagpili og opsyon"
+
+msgid "Join an existing app as a client"
+msgstr "Apil sa kasamtangan nga app isip kliyente"
+
+msgid "Create a new app for my business"
+msgstr "Paghimo og bag-ong app para sa akong negosyo"
+
+msgid "Create Domain"
+msgstr "Paghimo Domain"
+
+msgid "Select enterprise app"
+msgstr "Pilia ang app sa negosyo"
+
+msgid "No item selected"
+msgstr "Walay butang nga gipili"
+
+msgid "Domain name"
+msgstr "Ngalan sa domain"
+
+msgid "Add"
+msgstr "Idugang"
+
+msgid "No enterprise app found"
+msgstr "Walay nakit-an nga app sa negosyo"
+
+msgid "Pending"
+msgstr "Naghulat"
+
+msgid "No domains found"
+msgstr "Walay nakit-an nga mga domain"
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid "Txt Value"
+msgstr "Bili sa Txt"
+
+msgid "Enterprise Host ID"
+msgstr "Enterprise Host ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Aksyon"
+
+msgid "Delete"
+msgstr "Pagtangtang"
+
+msgid "Reset"
+msgstr "I-reset"
+
+msgid "Allow Manual Sign In"
+msgstr "Tugoti ang Manwal nga Pag-sign In"
+
+msgid "Exclude Emails From SSO"
+msgstr "Dili iapil ang mga Email Gikan sa SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Metadata sa Taghatag sa Identidad sa SAML"
+
+msgid "Submit"
+msgstr "Isumite"
+
+msgid "Profile photo"
+msgstr "Litrato sa litrato"
+
+msgid "Uploading..."
+msgstr "Pag-upload ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "giangkon sa lain nga asoy, palihug, usba kini o"
+
+msgid "reclaim"
+msgstr "pagbawi"
+
+msgid "it"
+msgstr "kini"
+
+msgid "pending verification:"
+msgstr "pending verification:"
+
+msgid "verify"
+msgstr "susihon"
+
+msgid "Phone Number"
+msgstr "Numero sa telepono"
+
+msgid "Current Password"
+msgstr "Current Password"
+
+msgid "Change password"
+msgstr "Usba ang password"
+
+msgid "No gender selected"
+msgstr "Walay pinili nga gender"
+
+msgid "Company Title"
+msgstr "Titulo sa Kompanya"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Address 2"
+msgstr "Address 2"
+
+msgid "City/Locality"
+msgstr "Lungsod / Locality"
+
+msgid "State/Region"
+msgstr "Estado / Rehiyon"
+
+msgid "No country selected"
+msgstr "Walay nasud nga napili"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / Postal Code"
+
+msgid "Basic"
+msgstr "Basic"
+
+msgid "Date of Birth"
+msgstr "Petsa sa Pagkatawo"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Occupation"
+msgstr "Trabaho"
+
+msgid "Location"
+msgstr "Lokasyon"
+
+msgid "Address is not valid"
+msgstr "Dili balido ang adres"
+
+msgid "City/Locality is not valid"
+msgstr "Ang lungsod / Lokalidad dili balido"
+
+msgid "Country"
+msgstr "Nasud"
+
+msgid "State/Region is not valid"
+msgstr "Ang estado / Rehiyon dili balido"
+
+msgid "Contact Info"
+msgstr "Impormasyon sa Kontak"
+
+msgid "Language & Region"
+msgstr "Pinulongan ug Rehiyon"
+
+msgid "Saving"
+msgstr "Pagtipig"
+
+msgid "Verify Your"
+msgstr "Tinoa ang Imong"
+
+msgid "Verification Code"
+msgstr "Pagpamatuod nga Code"
+
+msgid "Resend Code"
+msgstr "Ipadala pag-usab ang Code"
+
+msgid "Resending"
+msgstr "Pagpamalandong"
+
+msgid "Verify"
+msgstr "Tinoa"
+
+msgid "Verifying..."
+msgstr "Pagpamatuod ..."
+
+msgid "Later"
+msgstr "Sa ulahi"
+
+msgid "We're here to help"
+msgstr "Ania kami aron motabang"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Salamat sa pagkontak kanamo. Ang imong mensahe malampuson nga gipadala. "
+"Makigkita kami kanimo sa dili madugay!"
+
+msgid "Message"
+msgstr "Mensahe"
+
+msgid "characters left"
+msgstr "mga karakter nga nahabilin"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Ipadala"
+
+msgid "Sending..."
+msgstr "Nagpadala ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Dili ka na makadawat sa email marketing gikan sa listahan."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Kung naa kay gutlo, palihog ipahibalo kanamo kung nganong nag-unsubscribe "
+"ka:"
+
+msgid "Return to our website"
+msgstr "Balik sa among website"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Salamat. Gisumite na ang imong tubag."
+
+msgid "No Cases"
+msgstr "Walay mga Kaso"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Gallery"
+msgstr "Gallery"
+
+msgid "Speaker"
+msgstr "Speaker"
+
+msgid "This case has been closed"
+msgstr "Kini nga kaso gisirado na"
+
+msgid "Feed"
+msgstr "Pakan-a"
+
+msgid "Images"
+msgstr "Mga larawan"
+
+msgid "Docs"
+msgstr "Mga Dokumento"
+
+msgid "Audios"
+msgstr "Mga Audio"
+
+msgid "Videos"
+msgstr "Mga Video"
+
+msgid "Files"
+msgstr "Mga file"
+
+msgid "Events"
+msgstr "Mga panghitabo"
+
+msgid "Forms"
+msgstr "Mga porma"
+
+msgid "E-signs"
+msgstr "E-timailhan"
+
+msgid "Invoices"
+msgstr "Mga invoice"
+
+msgid "Notes"
+msgstr "Mga nota"
+
+msgid "Tasks"
+msgstr "Mga buluhaton"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Dako nga trabaho!"
+
+msgid "You did all"
+msgstr "Gihimo nimo ang tanan"
+
+msgid "the tasks"
+msgstr "ang mga buluhaton"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Skip to navigation (n)"
+msgstr "Laktaw ngadto sa panid (n)"
+
+msgid "Skip to content (c)"
+msgstr "Lakaw ngadto sa sulod (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Lakaw ngadto sa footer (f)"
+
+msgid "Case"
+msgstr "Kaso"
+
+msgid "Search"
+msgstr "Pagpangita"
+
+msgid "Using Form Builder"
+msgstr "Paggamit sa Form Builder"
+
+msgid "Using Forms Library"
+msgstr "Paggamit sa Forms Library"
+
+msgid "Using E-sign Builder"
+msgstr "Paggamit sa E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Paggamit sa E-signs Library"
+
+msgid "Documents"
+msgstr "Mga dokumento"
+
+msgid "Create Note"
+msgstr "Paghimo og Pahinumdom"
+
+msgid "Edit Note"
+msgstr "I-edit ang Pasidaan"
+
+msgid "End Convo"
+msgstr "Tapuson ang Convo"
+
+msgid "Create Form"
+msgstr "Paghimo sa Porma"
+
+msgid "Create Sign"
+msgstr "Paghimo og Sign"
+
+msgid "Event Create"
+msgstr "Paghimo sa Kalihokan"
+
+msgid "Convo Videos"
+msgstr "Mga Video sa Convo"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Mga kaso"
+
+msgid "Case categories"
+msgstr "Mga kategorya sa kaso"
+
+msgid "Your team"
+msgstr "Imong team"
+
+msgid "To do"
+msgstr "Ang buhaton"
+
+msgid "To Do:"
+msgstr "Buhaton:"
+
+msgid "Case Categories"
+msgstr "Mga Kategorya sa Kaso"
+
+msgid "Your Team"
+msgstr "Imong Team"
+
+msgid "To Do"
+msgstr "Buhaton"
+
+msgid "Yes"
+msgstr "Oo"
+
+msgid "Close"
+msgstr "Suod nga"
+
+msgid "Publish"
+msgstr "Imantala"
+
+msgid "Visibility"
+msgstr "Pagtan-aw"
+
+msgid "all"
+msgstr "tanan"
+
+msgid "sign"
+msgstr "timaan"
+
+msgid "Page"
+msgstr "Pahina"
+
+msgid "of"
+msgstr "sa"
+
+msgid "Processing"
+msgstr "Pagproseso"
+
+msgid "failed."
+msgstr "pakyas"
+
+msgid "Value should be greater or equal to 1"
+msgstr "Ang bili kinahanglang mas dako o katumbas sa 1"
+
+msgid "Repeat end:"
+msgstr "Balika ang katapusan:"
+
+msgid "Signature"
+msgstr "Pirma"
+
+msgid "Draw"
+msgstr "Pagdrowing"
+
+msgid "Write"
+msgstr "Isulat"
+
+msgid "Clear Signature"
+msgstr "Klaro nga Pirma"
+
+msgid "Still processing video..."
+msgstr "Giproseso pa ang video ..."
+
+msgid "You"
+msgstr "Ikaw"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Hapit na nimo papason ang feed. Sigurado ka?"
+
+msgid "No convo audios yet"
+msgstr "Wala pay convo audios"
+
+msgid "No convo videos yet"
+msgstr "Wala pay convo videos"
+
+msgid "Start Convo"
+msgstr "Pagsugod sa Convo"
+
+msgid "Notify the Host"
+msgstr "Pahibalo sa Host"
+
+msgid "is in the call"
+msgstr "naa sa tawag"
+
+msgid "and"
+msgstr "ug"
+
+msgid "others are in the call"
+msgstr "ang uban naa sa tawag"
+
+msgid "Audio call is being recorded"
+msgstr "Ang tawag sa audio girekord"
+
+msgid "Video call is being recorded"
+msgstr "Girekord ang video call"
+
+msgid "Join now"
+msgstr "Apil na"
+
+msgid "Dismiss"
+msgstr "Isalikway"
+
+msgid "Can’t find your "
+msgstr "Dili makit-an ang imong"
+
+msgid "microphone"
+msgstr "mikropono"
+
+msgid "Check your system settings to make sure that "
+msgstr "Susiha ang imong mga setting sa sistema aron masiguro kana"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"anaa na. Kung dili, i-plug ang usa. Tingali kinahanglan nimo nga i-restart "
+"ang imong browser."
+
+msgid "web camera"
+msgstr "web camera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Magsugod ka ug tawag sa Convo. Magsugod sa:"
+
+msgid "Video & Audio"
+msgstr "Video ug Audio"
+
+msgid "Audio Only"
+msgstr "Audio Lamang"
+
+msgid "Record the meeting"
+msgstr "Irekord ang miting"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr ""
+"Naghulat alang sa usa nga adunay pagtugot sa pagsugod sa usa ka tawag sa "
+"Convo"
+
+msgid "Add Ticket"
+msgstr "Idugang ang Tiket"
+
+msgid "Title"
+msgstr "Titulo"
+
+msgid "Open"
+msgstr "Bukas"
+
+msgid "Closed"
+msgstr "Sulud"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Hapit na nimo isira ang tiket. Sigurado ka?"
+
+msgid "Announcements"
+msgstr "Mga pahibalo"
+
+msgid "Support"
+msgstr "Suporta"
+
+msgid "Opened"
+msgstr "Gibuksan"
+
+msgid "View"
+msgstr "Tan-awa"
+
+msgid "Locations"
+msgstr "Mga lokasyon"
+
+msgid "You currently have no announcements."
+msgstr "Wala kay mga anunsyo karon."
+
+msgid "You currently have no"
+msgstr "Wala ka karon"
+
+msgid "open cases. Click"
+msgstr "bukas nga mga kaso. Pag-klik"
+
+msgid "here"
+msgstr "dinhi"
+
+msgid "to contact support."
+msgstr "sa pagkontak sa suporta."
+
+msgid "closed cases."
+msgstr "sirado nga mga kaso."
+
+msgid "open tickets."
+msgstr "bukas nga mga tiket."
+
+msgid "closed tickets."
+msgstr "sirado nga mga tiket."
+
+msgid "You currently have no locations."
+msgstr "Wala ka karon mga lokasyon."
+
+msgid "Write a comment...."
+msgstr "Pagsulat usa ka komento…."
+
+msgid "Post"
+msgstr "Pagsulat"
+
+msgid "Add Location"
+msgstr "Idugang ang Location"
+
+msgid "Save Event"
+msgstr "I-save ang Hitabo"
+
+msgid "Name"
+msgstr "Ngalan"
+
+msgid "Start Date"
+msgstr "Pagsugod sa Petsa"
+
+msgid "Start Time"
+msgstr "Pagsugod Panahon"
+
+msgid "End Date"
+msgstr "Petsa sa Katapusan"
+
+msgid "End Time"
+msgstr "Panahon sa Katapusan"
+
+msgid "Repeat"
+msgstr "Pag-usab"
+
+msgid "Attendees"
+msgstr "Mga nanambong"
+
+msgid "Event Location"
+msgstr "Location Location"
+
+msgid "Link"
+msgstr "Pag-link"
+
+msgid "Description"
+msgstr "Deskripsiyon"
+
+msgid "Attending"
+msgstr "Pagtambong"
+
+msgid "Add to calendar"
+msgstr "Idugang sa kalendaryo"
+
+msgid "Details"
+msgstr "Mga Detalye"
+
+msgid "Event by"
+msgstr "Panghitabo ni"
+
+msgid "Duration:"
+msgstr "Gidugayon:"
+
+msgid "more"
+msgstr "labi pa"
+
+msgid "Maybe"
+msgstr "Tingali"
+
+msgid "Not Attending"
+msgstr "Dili Pagtambong"
+
+msgid "No"
+msgstr "Dili"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Komperensya sa Video"
+
+msgid "Event details"
+msgstr "Mga detalye sa panghitabo"
+
+msgid "You don't have permissions to view this page."
+msgstr "Wala ka&#39;y ​​permiso sa pagtan-aw niini nga panid."
+
+msgid "Your Upcoming Events"
+msgstr "Imong Umaabut nga mga Hitabo"
+
+msgid "Upcoming"
+msgstr "umaabot"
+
+msgid "Your Past Events"
+msgstr "Imong Mga Naagi nga Hinabo"
+
+msgid "Past"
+msgstr "Kaniadto"
+
+msgid "Your Events"
+msgstr "Imong mga Hitabo"
+
+msgid "All"
+msgstr "Tanan"
+
+msgid "All Events"
+msgstr "Tanang Hitabo"
+
+msgid "Directions"
+msgstr "Mga direksyon"
+
+msgid "Edit settings"
+msgstr "Pag-edit sa mga setting"
+
+msgid "Delete event"
+msgstr "Delete event"
+
+msgid "Attending?"
+msgstr "Nagtambong?"
+
+msgid "No Events"
+msgstr "Walay mga panghitabo"
+
+msgid "more comment(s)"
+msgstr "dugang nga komentaryo (s)"
+
+msgid "Loading comments"
+msgstr "Nag-load sa mga komento"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Hapit na nimo matanggal ang komento. Naa ba ka?"
+
+msgid "task"
+msgstr "buluhaton"
+
+msgid "to do"
+msgstr "buhaton"
+
+msgid "tasks"
+msgstr "mga buluhaton"
+
+msgid "Write something..."
+msgstr "Isulat ang usa ka butang ..."
+
+msgid "Attach File"
+msgstr "Ilakip ang File"
+
+msgid "From Template"
+msgstr "Gikan sa Template"
+
+msgid "No feeds yet."
+msgstr "Wala&#39;y mga feed."
+
+msgid "comments"
+msgstr "mga komento"
+
+msgid "comment"
+msgstr "komentaryo"
+
+msgid "Add a comment"
+msgstr "Pagdugang og komento"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "No templates"
+msgstr "Wala’y mga template"
+
+msgid "Done"
+msgstr "Nahimo"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Pilia ang mga miyembro nga kinahanglan nga pun-on kini nga porma"
+
+msgid "Update Form"
+msgstr "Pag-update sa Porma"
+
+msgid "Due Date"
+msgstr "Tungod sa Petsa"
+
+msgid "Due Time"
+msgstr "Tungod sa Panahon"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Save & Close"
+msgstr "I-save ug Isira"
+
+msgid "Add an element"
+msgstr "Pagdugang usa ka elemento"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Ang media nakabig. Among ipahibalo kanimo kung andam na kini"
+
+msgid "Add "
+msgstr "Idugang"
+
+msgid "Field"
+msgstr "Natad"
+
+msgid "Edit "
+msgstr "Edit"
+
+msgid "Text"
+msgstr "Teksto"
+
+msgid "Sub Text"
+msgstr "Sub Text"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Napakyas ang media sa pagkabig. Palihug kuhaa ug sulayi pag-usab o sa lain."
+
+msgid "Pages"
+msgstr "Mga panid"
+
+msgid "Saved"
+msgstr "Naluwas"
+
+msgid "Insert"
+msgstr "Isuksok"
+
+msgid "Elements"
+msgstr "Mga elemento"
+
+msgid "Action Required"
+msgstr "Aksyon Gikinahanglan"
+
+msgid "Add a new page"
+msgstr "Pagdugang og bag-ong panid"
+
+msgid "Blank page"
+msgstr "Blangko nga panid"
+
+msgid "From PDF"
+msgstr "Gikan sa PDF"
+
+msgid "From image"
+msgstr "Gikan sa imahe"
+
+msgid "Add PDF"
+msgstr "Idugang ang PDF"
+
+msgid "Add Image"
+msgstr "Idugang ang Imahe"
+
+msgid "Options"
+msgstr "Mga kapilian"
+
+msgid "Column Names"
+msgstr "Mga Ngalan sa Kolum"
+
+msgid "Option already exists."
+msgstr "Naa na ang opsyon."
+
+msgid "options list is empty"
+msgstr "Ang listahan sa mga kapilian walay sulod"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Gisuportahan ra sa natad sa mga checkbox ang 5 nga kapilian. Mahimo nimo "
+"mabag-o ang natad sa dropdown aron makadugang daghang kapilian"
+
+msgid "columns list is empty"
+msgstr "lista sa mga kolum walay sulod"
+
+msgid "Default Value"
+msgstr "Bili nga Bili"
+
+msgid "Delete row"
+msgstr "Pagtangtang sa laray"
+
+msgid "Add a new row"
+msgstr "Pagdugang og bag-ong laray"
+
+msgid "Download"
+msgstr "Pag-download"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Question"
+msgstr "Pangutana"
+
+msgid "Default answer"
+msgstr "Default nga tubag"
+
+msgid "Media is converting"
+msgstr "Ang media nakabig"
+
+msgid "Send Form"
+msgstr "Ipadala ang Form"
+
+msgid "Form Submited."
+msgstr "Porma nga gipadala."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Wala ka&#39;y permiso sa pagsumite sa mga porma."
+
+msgid "You currently have no forms of your own"
+msgstr "Sa pagkakaron wala kay mga porma sa imong kaugalingon"
+
+msgid "Your Uncompleted Forms"
+msgstr "Ang Imong Wala Kumpleto nga Porma"
+
+msgid "Uncompleted"
+msgstr "Wala nahuman"
+
+msgid "Your Completed Forms"
+msgstr "Ang Imong Nakumpleto nga Porma"
+
+msgid "Completed"
+msgstr "Nahuman"
+
+msgid "Your Forms"
+msgstr "Imong mga Porma"
+
+msgid "All Forms"
+msgstr "Tanang Porma"
+
+msgid "Form Title"
+msgstr "Pamagat nga Porma"
+
+msgid "Author"
+msgstr "Awtor"
+
+msgid "Published"
+msgstr "Gipatik"
+
+msgid "Submissions"
+msgstr "Pagsumite"
+
+msgid "No Forms"
+msgstr "Walay Porma"
+
+msgid "Upload Form Document"
+msgstr "Pag-upload sa Porma nga Dokumento"
+
+msgid "Forms Library"
+msgstr "Mga Porma sa Library"
+
+msgid "No Forms In Library"
+msgstr "Walay Porma Diha sa Library"
+
+msgid "Answers"
+msgstr "Mga Tubag"
+
+msgid "Close - Status changed"
+msgstr "Pag-ayo - Nausab ang kahimtang"
+
+msgid "Change Status"
+msgstr "Palihug Pagbalhin"
+
+msgid "Case Number"
+msgstr "Numero sa Kaso"
+
+msgid "Tag Id"
+msgstr "Tag Id"
+
+msgid "Date Opened"
+msgstr "Giablihan ang Petsa"
+
+msgid "Host Id"
+msgstr "Host Id"
+
+msgid "User Id"
+msgstr "User Id"
+
+msgid "Case Id"
+msgstr "Kaso Id"
+
+msgid "Confirm your details"
+msgstr "Kumpirma ang imong mga detalye"
+
+msgid "Form Submitted."
+msgstr "Gisumite nga porma."
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "PO No:"
+msgstr "PO No:"
+
+msgid "Reference ID:"
+msgstr "Reference ID:"
+
+msgid "Term:"
+msgstr "Termino:"
+
+msgid "Note:"
+msgstr "Nota:"
+
+msgid "QTY"
+msgstr "QTY"
+
+msgid "Price"
+msgstr "Presyo"
+
+msgid "Add more"
+msgstr "Dugangi pa"
+
+msgid "Subtotal($)"
+msgstr "Subtotal($)"
+
+msgid "Discount(%)"
+msgstr "Diskwento(%)"
+
+msgid "TAX(%)"
+msgstr "BUHIS(%)"
+
+msgid "Total($)"
+msgstr "Total($)"
+
+msgid "Invoice No"
+msgstr "Invoice No"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr ""
+"Pilia ang mga miyembro nga kinahanglan nga motan-aw o mobayad niini nga "
+"invoice"
+
+msgid "Update Invoice"
+msgstr "Pag-update sa Invoice"
+
+msgid "Create Invoice"
+msgstr "Paghimo og Invoice"
+
+msgid "PO No."
+msgstr "PO No."
+
+msgid "Reference ID"
+msgstr "Reference ID"
+
+msgid "Term"
+msgstr "Termino"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Quantity"
+msgstr "Kadaghanon"
+
+msgid "Price ($)"
+msgstr "Presyo ($)"
+
+msgid "Subtotal ($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount (%)"
+msgstr "Diskwento (%)"
+
+msgid "Tax (%)"
+msgstr "Buhis (%)"
+
+msgid "Total ($)"
+msgstr "Total ($)"
+
+msgid "Pay Invoice"
+msgstr "Pagbayad sa Invoice"
+
+msgid "Payment method"
+msgstr "Paagi sa pagbayad"
+
+msgid "Add a new payment method"
+msgstr "Pagdugang og bag-ong paagi sa pagbayad"
+
+msgid "Summary"
+msgstr "Summary"
+
+msgid "Payment:"
+msgstr "Bayad:"
+
+msgid "Total charge:"
+msgstr "Kinatibuk-ang bayad:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Imong Wala Mabayri nga mga Invoice"
+
+msgid "Unpaid"
+msgstr "Wala mabayri"
+
+msgid "Your Paid Invoices"
+msgstr "Imong Bayad nga mga Invoice"
+
+msgid "Paid"
+msgstr "Gibayran"
+
+msgid "Your Invoices"
+msgstr "Imong mga Invoice"
+
+msgid "All Invoices"
+msgstr "Tanan nga mga Invoice"
+
+msgid "Invoice Title"
+msgstr "Titulo sa Invoice"
+
+msgid "No Invoices"
+msgstr "Walay mga Invoice"
+
+msgid "No Audios yet."
+msgstr "Wala pay Audios."
+
+msgid "Loading failed."
+msgstr "Ang pagkapakyas napakyas."
+
+msgid "retry"
+msgstr "usba"
+
+msgid "No documents yet."
+msgstr "Wala pay dokumento."
+
+msgid "No Files yet."
+msgstr "Wala pay Files."
+
+msgid "No Images yet."
+msgstr "Wala pay mga Imahe."
+
+msgid "No Videos yet."
+msgstr "Wala pay mga Video."
+
+msgid "Page Not Found"
+msgstr "Wala Makita ang Panid"
+
+msgid "Attachments"
+msgstr "Mga Sakyanan"
+
+msgid "Note View"
+msgstr "Tan-awa ang Nota"
+
+msgid "No Notes"
+msgstr "Walay mga Mubo nga sulat"
+
+msgid "Select the person to answer this field"
+msgstr "Pilia ang tawo aron pagtubag niini nga natad"
+
+msgid "Create E-sign"
+msgstr "Paghimo og E-sign"
+
+msgid "Update E-signs"
+msgstr "Pag-update sa mga E-sign"
+
+msgid "Signs"
+msgstr "Mga timailhan"
+
+msgid "Add Field"
+msgstr "Idugang ang Field"
+
+msgid "Edit Field"
+msgstr "I-edit ang Field"
+
+msgid "Send E-sign"
+msgstr "Ipadala ang E-sign"
+
+msgid "E-sign Submitted."
+msgstr "E-sign Gisumite."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Wala kay permiso sa pagsumite sa mga e-sign."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Sa pagkakaron wala kay E-sign sa imong kaugalingon"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Imong Wala Makompleto nga E-sign"
+
+msgid "Your Completed E-signs"
+msgstr "Imong Nakompleto nga E-signs"
+
+msgid "Your Signs"
+msgstr "Imong mga Timailhan"
+
+msgid "All E-signs"
+msgstr "Tanan nga E-sign"
+
+msgid "E-sign Title"
+msgstr "E-sign nga Titulo"
+
+msgid "No E-signs"
+msgstr "Walay E-sign"
+
+msgid "E-Signs Library"
+msgstr "E-Signs Library"
+
+msgid "No E-signs In Library"
+msgstr "Walay E-sign sa Library"
+
+msgid "Upload E-sign Document"
+msgstr "I-upload ang E-sign nga Dokumento"
+
+msgid "Update Task"
+msgstr "Pag-update sa Buluhaton"
+
+msgid "Create Task"
+msgstr "Paghimo og Buluhaton"
+
+msgid "You currently have no tasks of your own"
+msgstr "Sa pagkakaron wala kay mga buluhaton sa imong kaugalingon"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Imong Wala Mahuman nga mga Buluhaton"
+
+msgid "Your Completed Tasks"
+msgstr "Imong Nakompleto nga mga Buluhaton"
+
+msgid "Your Tasks"
+msgstr "Imong mga Buluhaton"
+
+msgid "All Tasks"
+msgstr "Tanang Buluhaton"
+
+msgid "Task"
+msgstr "Buluhaton"
+
+msgid "Deadline"
+msgstr "Ang deadline"
+
+msgid "Assignees"
+msgstr "Mga assignee"
+
+msgid "In Progress"
+msgstr "Sa Pag-uswag"
+
+msgid "Delete task"
+msgstr "Pagtangtang sa buluhaton"
+
+msgid "No Tasks"
+msgstr "Walay Buluhaton"
+
+msgid "wants access"
+msgstr "gusto access"
+
+msgid "No Answers"
+msgstr "Walay mga tubag"
+
+msgid "Select Field Type"
+msgstr "Pagpili sa Field Type"
+
+msgid "Text Only"
+msgstr "Teksto Lamang"
+
+msgid "Multiple Line Text"
+msgstr "Multiple Line Text"
+
+msgid "Dropdown"
+msgstr "Pag-dropdown"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Mga checkbox"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Petsa"
+
+msgid "Time"
+msgstr "Panahon"
+
+msgid "Yes/No"
+msgstr "Oo / Dili"
+
+msgid "Number"
+msgstr "Gidaghanon"
+
+msgid "Access Denied"
+msgstr "Gidili ang Pag-access"
+
+msgid "You don't have access to this case."
+msgstr "Wala ka’y access sa kini nga kaso."
+
+msgid "Imports"
+msgstr "Pag-import"
+
+msgid "View import"
+msgstr "Tan-awa ang import"
+
+msgid "Sessions"
+msgstr "Mga sesyon"
+
+msgid "Home"
+msgstr "Balay"
+
+msgid "Users"
+msgstr "Mga tiggamit"
+
+msgid "Library"
+msgstr "Library"
+
+msgid "Integration"
+msgstr "Paghiusa"
+
+msgid "Settings"
+msgstr "Mga Setting"
+
+msgid "Webhooks"
+msgstr "Mga Webhook"
+
+msgid "Keys"
+msgstr "Mga yawi"
+
+msgid "Feed Templates"
+msgstr "Mga Templo sa Feed"
+
+msgid "Form Templates"
+msgstr "Porma nga Templates"
+
+msgid "E-sign Templates"
+msgstr "E-sign nga mga Template"
+
+msgid "Task Templates"
+msgstr "Mga Template sa Buluhaton"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payments"
+msgstr "Mga bayad"
+
+msgid "From"
+msgstr "Gikan"
+
+msgid "To"
+msgstr "Sa"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "User Intake"
+msgstr "Paggamit sa Gumagamit"
+
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+msgid "After Actions"
+msgstr "Human sa mga Aksyon"
+
+msgid "Advance Settings"
+msgstr "Mga Advance nga Setting"
+
+msgid "Label Name"
+msgstr "Pag-label sa Ngalan"
+
+msgid "Fields"
+msgstr "Mga Field"
+
+msgid "Tag ID"
+msgstr "Tag ID"
+
+msgid "Have many users?"
+msgstr "Adunay daghang tiggamit?"
+
+msgid "Import users"
+msgstr "Import nga tiggamit"
+
+msgid "or"
+msgstr "o"
+
+msgid "Send them a signup link."
+msgstr "Ipadala kanila ang link sa pag-signup."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Magsugod kita pinaagi sa pagsulod sa numero sa email o telepono"
+
+msgid "Phone"
+msgstr "Telepono"
+
+msgid "Invalid phone number entered"
+msgstr "Dili balido nga numero sa telepono ang gisulud"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Usa ka marka aron dali makapangita kaso. dili kini mabag-o sa ulahi"
+
+msgid "Visibility:"
+msgstr "Pagtan-aw:"
+
+msgid "Who can use this template"
+msgstr "Kinsa ang makagamit niini nga template"
+
+msgid "One time"
+msgstr "Usa ka higayon"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr ""
+"Palihug isulod ang balido nga impormasyon sa pagbayad sa dili pa mopadayon"
+
+msgid "Add Payment"
+msgstr "Idugang ang Bayad"
+
+msgid "Repeat every:"
+msgstr "Balika ang matag:"
+
+msgid "Let's get started"
+msgstr "Magsugod na ta"
+
+msgid "Take me there"
+msgstr "Dad-a ko didto"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Onboarding"
+msgstr "Pagsakay"
+
+msgid "Created on"
+msgstr "Gihimo sa"
+
+msgid "Expires on"
+msgstr "Ma-expire sa"
+
+msgid "No announcements yet."
+msgstr "Wala pay mga anunsyo."
+
+msgid "Add Announcement"
+msgstr "Idugang ang Anunsyo"
+
+msgid "Edit Announcement"
+msgstr "I-edit ang Pahibalo"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Ang petsa ug oras kinahanglan labing menos usa ka oras sa unahan"
+
+msgid "Delete Date"
+msgstr "Pagtangtang sa Petsa"
+
+msgid "Delete Time"
+msgstr "Pagtangtang sa Oras"
+
+msgid "Back"
+msgstr "Balik"
+
+msgid "No Users Found"
+msgstr "Wala Nakit-an ang mga Gumagamit"
+
+msgid "No role selected"
+msgstr "Wala’y gipili nga papel"
+
+msgid "No permissions added!"
+msgstr "Walay permiso nga nadugang!"
+
+msgid "ASSIGNED USERS"
+msgstr "GI-ASIGNG USERS"
+
+msgid "CASE PERMISSIONS"
+msgstr "KASINGKASING SA KASO"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "Role"
+msgstr "Papel"
+
+msgid "remove"
+msgstr "kuhaon"
+
+msgid "Assign User"
+msgstr "Pagtudlo sa Gumagamit"
+
+msgid "User"
+msgstr "Gigamit"
+
+msgid "ADD USER"
+msgstr "PAGDUGANG NGA USER"
+
+msgid "Email user about case assignment"
+msgstr "Email nga tiggamit mahitungod sa assignment sa kaso"
+
+msgid "Keyword"
+msgstr "Keyword"
+
+msgid "No cases found."
+msgstr "Walay mga kaso nga nakit-an."
+
+msgid "Create a case for a business"
+msgstr "Paghimo og kaso alang sa usa ka negosyo"
+
+msgid "Case ID"
+msgstr "Kaso nga ID"
+
+msgid "Created On"
+msgstr "Gihimo"
+
+msgid "Case Status"
+msgstr "Katawanan sa Kaso"
+
+msgid "Case Type"
+msgstr "Tipo sa Kaso"
+
+msgid "Assign Users"
+msgstr "Pagtudlo sa mga Gumagamit"
+
+msgid "No cases found"
+msgstr "Walay mga kaso nga nakit-an"
+
+msgid "Have many cases?"
+msgstr "Adunay daghang mga kaso?"
+
+msgid "Click here to import cases."
+msgstr "Pag-klik dinhi aron ma-import ang mga kaso."
+
+msgid "No status selected"
+msgstr "Walay gipili nga status"
+
+msgid "No type selected"
+msgstr "Wala gipili nga tipo"
+
+msgid "Case Info"
+msgstr "Mga Impormasyon sa Kaso"
+
+msgid "About"
+msgstr "Mahitungod sa"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Usa ka permanente nga label aron dali nga makit-an ang usa ka kaso. (a-z, "
+"0-9, -, /) gitugotan"
+
+msgid "Case Types"
+msgstr "Mga tipo sa kaso"
+
+msgid "Click"
+msgstr "Pag-klik"
+
+msgid "to edit case types"
+msgstr "aron ma-edit ang mga tipo sa kaso"
+
+msgid "No Type selected"
+msgstr "Walay Type nga gipili"
+
+msgid "Case not found!"
+msgstr "Dili makita ang kaso!"
+
+msgid "Media Size"
+msgstr "Media Size"
+
+msgid "All statistics"
+msgstr "Tanan nga estadistika"
+
+msgid "Import not found."
+msgstr "Dili nakit-an ang import."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Ang pagproseso sa file napakyas. Siguruha nga kini usa ka tipo sa file nga "
+"CSV ug adunay sulud nga husto nga mga ulohan"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "No Imports yet."
+msgstr "Wala pa Mga Pag-import."
+
+msgid "Source"
+msgstr "Gigikanan"
+
+msgid "Stats"
+msgstr "Mga istatistika"
+
+msgid "Passed:"
+msgstr "Pasado:"
+
+msgid "Failed:"
+msgstr "Napakyas:"
+
+msgid "Total:"
+msgstr "Total"
+
+msgid "Add Imports"
+msgstr "Pagdugang Mga Pag-import"
+
+msgid "Download Sample"
+msgstr "Pag-download nga Sampol"
+
+msgid "Choose a file"
+msgstr "Pagpili usa ka file"
+
+msgid "Edit Key"
+msgstr "Pag-edit sa Yawi"
+
+msgid "Add Key"
+msgstr "Idugang ang Yawi"
+
+msgid "No Keys yet."
+msgstr "Wala pa mga Yawi."
+
+msgid "Source CIDR"
+msgstr "Gigikanan CIDR"
+
+msgid "Remove"
+msgstr "Kuhaa"
+
+msgid "is invalid."
+msgstr "dili balido"
+
+msgid "Secret Key"
+msgstr "Sekreto nga Yawi"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Siguruha nga kopyahon ang imong bag-ong tinago nga yawi karon. Dili na nimo "
+"kini makita pag-usab!"
+
+msgid "Edit Webhook"
+msgstr "Pag-edit sa Webhook"
+
+msgid "Add Webhook"
+msgstr "Idugang ang Webhook"
+
+msgid "No event selected"
+msgstr "Wala gipili nga hitabo"
+
+msgid "No Webhooks yet."
+msgstr "Wala pa Webhooks."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Sekreto nga Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Siguruha nga kopyahon ang imong bag-ong tinago nga webhook karon. Dili na "
+"nimo kini makita pag-usab!"
+
+msgid "Sign In"
+msgstr "Sign In"
+
+msgid "Login in account page."
+msgstr "Pag-login sa pahina sa akawnt."
+
+msgid "Edit form builder"
+msgstr "I-edit ang tigbuhat sa porma"
+
+msgid "Delete form"
+msgstr "Pagtangtang sa porma"
+
+msgid "No forms yet."
+msgstr "Walay mga porma."
+
+msgid "Intake Forms"
+msgstr "Mga Porma sa Pag-inom"
+
+msgid "Upload Intake Form Document"
+msgstr "Pag-upload sa Dokumento sa Intake nga Porma"
+
+msgid "Add Intake Form"
+msgstr "Idugang ang Intake Form"
+
+msgid "Edit Intake Form"
+msgstr "I-edit ang Intake Form"
+
+msgid "Show Media"
+msgstr "Ipakita ang Media"
+
+msgid "Add Post"
+msgstr "Add Post"
+
+msgid "Edit Post"
+msgstr "I-edit ang Post"
+
+msgid "Files Amount"
+msgstr "Mga File Amount"
+
+msgid "No Feed Templates yet."
+msgstr "Wala’y Paagi sa Feed."
+
+msgid "Post Name"
+msgstr "Post Name"
+
+msgid "Post Message"
+msgstr "Post Message"
+
+msgid "Processing media ..."
+msgstr "Pagproseso sa media ..."
+
+msgid "Download original file"
+msgstr "Pag-download sa orihinal nga file"
+
+msgid "Could not display media"
+msgstr "Dili ipakita ang media"
+
+msgid "No locations found."
+msgstr "Wala&#39;y nakaplagan nga mga lugar."
+
+msgid "Main Office"
+msgstr "Panguna nga Opisina"
+
+msgid "Location Name"
+msgstr "Ngalan sa Lokasyon"
+
+msgid "Delete e-sign"
+msgstr "Pagtangtang sa e-sign"
+
+msgid "No e-signs yet."
+msgstr "Wala pa nga e-sign."
+
+msgid "Subtasks Count"
+msgstr "Ihap sa mga subtasks"
+
+msgid "No tasks yet."
+msgstr "Wala pay buluhaton."
+
+msgid "Invoice ID"
+msgstr "Invoice ID"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Refund"
+msgstr "Pag-uli"
+
+msgid "No invoices yet."
+msgstr "Wala pay invoice."
+
+msgid "Refund Reason"
+msgstr "Rason sa Pagbayad"
+
+msgid "Duplicate charge"
+msgstr "Duplicate nga bayad"
+
+msgid "Fraudulent charge"
+msgstr "Panglimbong nga bayad"
+
+msgid "Requested by customer"
+msgstr "Gihangyo sa kustomer"
+
+msgid "On Board"
+msgstr "Sakay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Impormasyon sa Papel"
+
+msgid "It cannot be changed later"
+msgstr "Dili kini mabag-o sa ulahi"
+
+msgid "Role Permissions"
+msgstr "Mga Katungod sa Papel"
+
+msgid "e-signs"
+msgstr "mga e-sign"
+
+msgid "on"
+msgstr "sa"
+
+msgid "Allowed File Sizes"
+msgstr "Gitugot nga Laki sa File"
+
+msgid "Create"
+msgstr "Paghimo"
+
+msgid "Creating..."
+msgstr "Naghimo ..."
+
+msgid "Modules"
+msgstr "Mga Modulo"
+
+msgid "Roles"
+msgstr "Mga tahas"
+
+msgid "Profile information"
+msgstr "Impormasyon sa profile"
+
+msgid "No role found."
+msgstr "Walay nakitang papel."
+
+msgid "When a case is created, auto assign these users"
+msgstr ""
+"Kung ang usa ka kaso gihimo, awtomatik nga i-assign kini nga mga tiggamit"
+
+msgid "Remove All"
+msgstr "Kuhaa ang Tanan"
+
+msgid "User Name"
+msgstr "Ngalan sa Gumagamit"
+
+msgid "Notify"
+msgstr "Pahibalo"
+
+msgid "Host User"
+msgstr "Host User"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Kung ang usa ka tiggamit gi-assign sa usa ka kaso, awtomatikong idugang ang "
+"mga template"
+
+msgid "No post selected"
+msgstr "Walay gipili nga post"
+
+msgid "No form selected"
+msgstr "Walay gipili nga porma"
+
+msgid "No e-sign selected"
+msgstr "Walay gipili nga e-sign"
+
+msgid "Templates"
+msgstr "Mga template"
+
+msgid "Add Templates"
+msgstr "Idugang ang mga Template"
+
+msgid "Idle Cases"
+msgstr "Mga Kaso nga Idle"
+
+msgid "When a case is idle, post this message"
+msgstr "Kung walay kaso ang usa ka kaso, i-post kini nga mensahe"
+
+msgid "No case type selected"
+msgstr "Walay gipili nga tipo sa kaso"
+
+msgid "Idle Days"
+msgstr "Idle Days"
+
+msgid "Post Id"
+msgstr "Post Id"
+
+msgid "Set Idle Message"
+msgstr "Ibutang ang Idle nga Mensahe"
+
+msgid "No task selected"
+msgstr "Walay buluhaton nga gipili"
+
+msgid "No operation order selected"
+msgstr "Walay gipili nga order sa operasyon"
+
+msgid "Operation Order"
+msgstr "Orden sa Operasyon"
+
+msgid "Add Templates to Assign Users"
+msgstr "Idugang ang mga Template aron I-assign ang mga Gumagamit"
+
+msgid "CaseType"
+msgstr "Tipo sa Kaso"
+
+msgid "Case Form"
+msgstr "Porma sa Kaso"
+
+msgid "User Form"
+msgstr "Porma sa Gumagamit"
+
+msgid "Notes Form"
+msgstr "Porma sa mga Nota"
+
+msgid "Defaults"
+msgstr "Mga bakak"
+
+msgid "Required"
+msgstr "Gikinahanglan"
+
+msgid "Public User Signup link:"
+msgstr "Link sa Public User Signup:"
+
+msgid "Design Settings"
+msgstr "Mga setting sa laraw"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Pag-usab sa file"
+
+msgid "Delete Favicon"
+msgstr "Pagwagtang sa Favicon"
+
+msgid "Logo:"
+msgstr "Logo:"
+
+msgid "Delete Logo"
+msgstr "Pagwagtang Logo"
+
+msgid "Text Color"
+msgstr "Kolor sa Teksto"
+
+msgid "Recommended Colors:"
+msgstr "Girekomenda nga Mga Kolor:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "pag-reset"
+
+msgid "Background Color"
+msgstr "Kolor sa background"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Impormasyon sa Kompanya"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Terms of Use URL"
+msgstr "Mga Termino sa Paggamit URL"
+
+msgid "User Signup"
+msgstr "Pag-signup sa Gumagamit"
+
+msgid "Allow Signup"
+msgstr "Tugoti ang Signup"
+
+msgid "Auto Create Case"
+msgstr "Awtomatikong Paghimo Kaso"
+
+msgid "Case User Role"
+msgstr "Papel sa Gumagamit sa Kaso"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Yawe sa Analytics"
+
+msgid "delete"
+msgstr "pagtangtang"
+
+msgid "Crop Image"
+msgstr "Hulagway"
+
+msgid "No Filter"
+msgstr "Walay Filter"
+
+msgid "No logs requested."
+msgstr "Walay gipangayo nga mga troso."
+
+msgid "Logs list is empty."
+msgstr "Ang lista sa logs walay sulod."
+
+msgid "Download CSV"
+msgstr "I-download ang CSV"
+
+msgid "Request Logs"
+msgstr "Mangayo og mga Log"
+
+msgid "Log Type"
+msgstr "Pag-type sa Tala"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Select a case"
+msgstr "Pagpili usa ka kaso"
+
+msgid "Enter the email address"
+msgstr "Pagsulod sa email address"
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Header (3 max)"
+msgstr "Ulo (3 max)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Kung ang usa ka user moapil sa app, hangyoa ang user nga ipaambit ang "
+"mosunod"
+
+msgid "No user intake found."
+msgstr "Wala'y nakit-an nga paggamit sa tiggamit."
+
+msgid "User Type"
+msgstr "Type sa Gumagamit"
+
+msgid "Intake Form"
+msgstr "Porma sa Pag-inom"
+
+msgid "Complete After"
+msgstr "Kompleto Human"
+
+msgid "No user type selected"
+msgstr "Walay gipili nga tipo sa user"
+
+msgid "No intake form selected"
+msgstr "Walay gipili nga porma sa pag-inom"
+
+msgid "Complete After Date"
+msgstr "Kompleto Human sa Petsa"
+
+msgid "Complete After Time"
+msgstr "Kompleto Human sa Panahon"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Ang petsa ug oras kinahanglan dili kaayo o parehas sa karon"
+
+msgid "Comment ct"
+msgstr "Komento ct"
+
+msgid "View Ticket"
+msgstr "Tan-awa ang Tiket"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "No tickets yet."
+msgstr "Wala pay tiket."
+
+msgid "User not found."
+msgstr "Wala makita ang tiggamit."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Ang user mahimong mag-edit sa ilang impormasyon sa account gawas sa seksyon "
+"sa host user attributes."
+
+msgid "Contact"
+msgstr "Pagkontak"
+
+msgid "Phone number"
+msgstr "Numero sa telepono"
+
+msgid "Zip Postal Code"
+msgstr "Zip Postal Code"
+
+msgid "Host User Attributes"
+msgstr "Host User Attributes"
+
+msgid "User Status"
+msgstr "Status sa Gumagamit"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Usa ka permanente nga label aron dali nga makit-an ang usa ka tiggamit. "
+"(a-z, 0-9, -, /) gitugotan"
+
+msgid "App only User Intake Fields"
+msgstr "App lamang nga User Intake Fields"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "PAG-APP LAMANG SA MGA CUSTOM FIELDS"
+
+msgid "s found."
+msgstr "s nakit-an."
+
+msgid "Created Date"
+msgstr "Gitukod nga Petsa"
+
+msgid "View Cases"
+msgstr "Tan-awa ang mga Kaso"
+
+msgid "VIEW CASES"
+msgstr "TAN-AWA ANG MGA KASO"
+
+msgid "Get Started"
+msgstr "Pagsugod"
+
+msgid "Password"
+msgstr "Pulong"
+
+msgid "Email is not valid."
+msgstr "Dili balido ang email."
+
+msgid "CaseActive lets you and your client"
+msgstr "Ang CaseActive nagtugot kaninyo ug sa inyong kliyente"
+
+msgid "work together"
+msgstr "magtinabangay"
+
+msgid "at any time, in any place."
+msgstr "sa bisan unsang panahon, sa bisan unsang dapit."
+
+msgid "Explore"
+msgstr "Pag-usisa"
+
+msgid "Pricing"
+msgstr "Pagpresyo"
+
+msgid "Support & Docs"
+msgstr "Suporta & Docs"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to validate if you are human"
+msgstr "Napakyas sa pag-validate kung ikaw tawo"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "KINAHANGLAN KANAKO KINI HIMO!"
+
+msgid "Thank You!"
+msgstr "Salamat!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Igapahibalo kami kanimo kung andam na ang app"
+
+msgid "Most popular"
+msgstr "Labing popular"
+
+msgid "All languages"
+msgstr "Ang tanan nga mga pinulongan"
+
+msgid "Oops, Something went wrong."
+msgstr "Mga Oops, Adunay usa ka butang nga sayup."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Mga Oops, Adunay usa ka butang nga sayup. Gipahibalo ang among team. Sulayi "
+"pag-usab pagkahuman"
+
+msgid "Support Documentation"
+msgstr "Pagsuporta sa Dokumentasyon"
+
+msgid "All Categories"
+msgstr "Tanang Kategorya"
+
+msgid "Contents"
+msgstr "Mga sulod"
+
+msgid "Related Articles"
+msgstr "May Kalabutan nga mga Artikulo"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Pagsugod: mga proseso, labing maayong gawi, mga giya sa pag-setup, ug daghan"
+" pa!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr ""
+"Pangitaa ang bisan unsang kinahanglan nimo aron makatrabaho sa CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Ang tanan nga komunikasyon sa kaso sa usa ka lugar"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Pagkabigkita, pag-post sa mga update, pagtubag sa mga pangutana, pagkuhag "
+"mga nota, komento, ug ang tanan nga mga panaghisgot nga gisulat sa mga "
+"notipikasyon sa email ug SMS."
+
+msgid "Share with confidence"
+msgstr "Pagpakigbahin uban ang pagsalig"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Pagpanghatag mga dokumento ug litrato taliwala sa mga kliyente ug mga "
+"miyembro sa koponan sa bisan unsang ug tanan nga mga aparato, mao nga ang "
+"tanan nagpadayon kanunay."
+
+msgid "Take it on the go"
+msgstr "Dad-a kini sa paglakaw"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Paggamit mga mobile device sama sa mga tablet ug mga smartphone aron "
+"magtinabangay sa mga yawe nga mga detalye, hisguti ang mga dagkong isyu, mga"
+" dokumento sa pagbinayloay, ug pag-uswag sa kaso sa tsart sa tinuud nga "
+"oras."
+
+msgid "Immediate records access"
+msgstr "Dali nga mga rekord ang access"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Ang mga awtorisado nga tiggamit mahimong dali nga maka-access sa datos sa "
+"kliyente ug kasayuran sa kaso (lakip na ang karon, nakaraan, bukas, sirado, "
+"ug mga pending nga mga kaso), tanan pinaagi sa usa ka portal."
+
+msgid "Automatic timezone conversion"
+msgstr "Automatic conversion nga timezone"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Bisan sa pagbiyahe o pagpabilin sa lain nga lokasyon, mag-sync ka sa among "
+"sistema sa pagdumala sa pag-istoryahanay sa time-zone."
+
+msgid "Track Events"
+msgstr "Pagsubay sa mga Hitabo"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Pag-iskedyul og mga miting, pag-monitor sa umaabot nga mga panghitabo, ug "
+"pagdapit sa mga kliyente ug mga sakop sa team isip mga nanambong."
+
+msgid "Video Conferencing"
+msgstr "Pagmiting sa Video"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Sumpaysumpaya ang mga kliyente ug mga miyembro sa team pinaagi sa live video"
+" chat alang sa dugang nga interactivity."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"I-automate ang mga buluhaton kung ang usa ka kaso gihimo o ang usa ka "
+"tiggamit gi-assign sa usa ka kaso."
+
+msgid "Automated Alerts"
+msgstr "Automated Alerts"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Gusto mo nga ang imong mga kliyente usa ka Malipayon nga Kaadlawon? Paghimo "
+"usa ka awtomatikong mensahe alang sa kaniadto ug karon nga mga kliyente "
+"alang sa ilang espesyal nga adlaw!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Ang pagtipig sa mga kliyente ang labing bag-ong detalye"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Ang mga kliyente makahimo sa pag-usab sa ilang mga profile nga adunay "
+"updated nga datos, mga litrato, mga password, ug mga setting sa account."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Pagpangutana Mga Pangutana, Pagkuha Tubag."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Paghimo pasadya nga mga porma ug ipadala kini sa mga kliyente aron mahuman. "
+"Magtapok hinungdanon nga kasayuran, paghatag mga exit survey, ug makuha ang "
+"tanan nga datos nga kinahanglan nimo nga buhaton ang imong trabaho nga "
+"maayo!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Direktor sa Pagbaligya sa Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Paghimo sa kliyente nga pagsuhol ingon nga direkta kutob sa mahimo uban sa "
+"mga online nga mga invoice ug pagbayad."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Gihigugma namo ang invoicing sa kaso tungod kay kini nagpakita sa mga "
+"kliyente nga eksakto kung unsa ang ilang gibayad."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Bise Presidente sa Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Malingaw sa e-sign"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Pag-sign up sa elektroniko ang tanan nga mga dokumento pinaagi sa DocSign, "
+"gamit ang gi-upload nga mga dokumento ug mga hangyo ug pirmahan sa kliyente "
+"nga kliyente."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Pag-upload sa usa ka dokumento, markahan kini alang sa pirma, ug dayon ang "
+"kliyente mag-log in ug e-pirmahan kini. Mahuman ang tanan nga dili "
+"kinahanglan nga mosulod ang kliyente sa among bilding. Magamit kini sa mga "
+"kliyente nga dili duol sa opisina o nagpuyo sa gawas sa estado."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Direktor sa Operations sa Capital Insurance"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr ""
+"Pagpalambo sa Imong Sistema. Diyutay nga Trabaho, Dugang nga mga Resulta."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Gamita ang Feature sa Pagpangalagad sa Kaugalingon"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Pagkuha sa kinatibuk-an nga pagkontrol sa imong CaseActive management suite "
+"gikan sa plataporma mismo."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr ""
+"Ang walay kalabutan nga nalambigit sa imong kasamtangan nga sistema sa "
+"CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Paghiusa sa among proprietary API aron awtomatiko nga maghimo mga kaso, pag-"
+"assign sa mga tiggamit, ug pagmugna mga taho base sa pag-input sa imong "
+"system."
+
+msgid "Acting as a"
+msgstr "Nagbuhat ingon nga usa ka"
+
+msgid "virtual administrative assistant"
+msgstr "virtual assistant administratibo"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", Ang CaseActive naghatag kanimo&#39;g gahum pinaagi sa streamlined document"
+" ug media handling, pribado"
+
+msgid "client-to-customer communications"
+msgstr "client-to-customer nga komunikasyon"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "pag-eskedyul sa panghitabo, ug pagpadali sa kaso nga kaso."
+
+msgid "Self-Serve Administration"
+msgstr "Pag-alagad sa Kaugalingon nga Pag-alagad"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Ang paglihok isip usa ka virtual nga katabang sa administratibo, ang "
+"CaseActive naghatag gahum kanimo sa naka-streamline nga dokumento ug "
+"pagdumala sa media, pribado nga kliyente nga kliyente ngadto sa customer, "
+"pag-iskedyul sa panghitabo, ug pagproseso sa lakang sa lakang."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Pagdumala sa Mga Logins sa Gumagamit ug Paglikha sa Kaso"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Direkta nga bantayan ang pagmugna sa mga account sa gumagamit samtang "
+"gitugotan ang ilang mga permiso sa pag-access sa basihan nga kaso. Pagdumala"
+" sa paghimo sa kaso, pag-uswag, ug pagtapos, uban ang hingpit nga pagreport "
+"sa matag lakang sa pamaagi."
+
+msgid "View Caseactive Analytics"
+msgstr "Tan-awa ang Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Tan-awa kung giunsa kung ang us aka kaso nag-uswag, ang gidaghanon sa mga "
+"kaso nga malampuson nga sirado, ug tan-awa ang mga oras sa pagtubag pinaagi "
+"sa bug-os nga module sa pag-analisar sa CaseActive. Ang kinaadman gahum, ug "
+"among gihatag kanimo ang tanan aron mahibal-an ang bahin sa imong "
+"kaugalingon nga mga proyekto."
+
+msgid "Monitor User Logs"
+msgstr "Monitor Users Logs"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Pagtan-aw sa mga logins sa mga kliyente ug miyembro sa plataporma ug "
+"kalihokan sa plataporma aron masiguro ang tanan nilang mga aksyon nga "
+"gitugutan sa sulud sa kaso ug ang tanan nga mga miyembro nagbuhat sa ilang "
+"mga katungdanan kung gikinahanglan."
+
+msgid "Employ Advanced Searches"
+msgstr "Gamita ang Advanced nga mga Paghuhukom"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Pagpangita gayud kung unsa ang imong kinahanglan kung kinahanglan nimo kini."
+" Ang mga kaso sa pagpangita pinaagi sa mga ngalan sa tiggamit ug kliyente, "
+"mga keyword, mga timeline, gi-upload nga mga dokumento, ug daghan pa!"
+
+msgid "Create Custom Fields"
+msgstr "Paghimo og Custom Fields"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Paghimo espesyalista nga natad sa kaso alang sa pag-input sa membro ug team,"
+" ug tiguma ang datos nga kinahanglan nimo gikan sa tanan nga nahilambigit. "
+"Himua nga talagsaon ang interface sa kaso sa imong negosyo ug brand!"
+
+msgid "Create Custom Templates"
+msgstr "Create Custom Templates"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Pagpalambo og daghang kadaghan sa naandan nga mga porma ug mga template "
+"alang sa pag-apod-apod ug pagkompleto sa matag usa ug pagkahuman sa usa ka "
+"kaso (sama sa mga pagsusi sa exit sa kliyente). Bisan unsa nga porma nga "
+"kinahanglan nimo, mahimo nimong makamugna!"
+
+msgid "Violet Cherry"
+msgstr "Si Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Pagpangita sa As-You-Go"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Ania kami aron sa pagtabang! Pangutan-a kon aduna pa kamoy mga pangutana ug "
+"motubag kami sulod sa duha ka adlaw nga trabaho."
+
+msgid "* Email is not valid."
+msgstr "* Dili balido ang email."
+
+msgid "Low"
+msgstr "Ubos"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "High"
+msgstr "Hataas"
+
+msgid "Critical"
+msgstr "Kritikal"
+
+msgid "Choose Importance"
+msgstr "Pilia ang Kaimportante"
+
+msgid "Department"
+msgstr "Department"
+
+msgid "Sales"
+msgstr "Pagbaligya"
+
+msgid "Other"
+msgstr "Uban pa"
+
+msgid "Choose Department"
+msgstr "Pilia ang Departamento"
+
+msgid "Loading"
+msgstr "Loading"
+
+msgid "Importance"
+msgstr "Kamahinungdanon"
+
+msgid "Send A New Message"
+msgstr "Pagpadala Usa ka Bag-ong Mensahe"
+
+msgid "Send message"
+msgstr "Ipadala ang mensahe"
+
+msgid "Answers to Questions"
+msgstr "Mga Tubag sa mga Pangutana"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Adunay mga pangutana? Basaha ang dugang nga giya sa among mga tubag sa mga "
+"pangutana sa kustomer ug pangitaa ang mga tubag sa imong kaugalingon."
+
+msgid "How secure is CaseActive?"
+msgstr "Unsa ka luwas ang CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"Gigamit sa CaseActive ang military ug bank grade 128-bit SSL encryption para"
+" sa data transmission ug 256-bit AES encryption para sa data nga nagpahulay."
+" Ang matag kaso sa CaseActive adunay usa ka talagsaon nga yawe nga nahimo, "
+"nga naghatag usa ka dugang nga layer sa seguridad alang sa imong negosyo. "
+"Dili namo tugutan ang laing kompanya nga maka-access sa imong database o "
+"storage system."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Ako adunay usa ka kasamtangan nga sistema sa lugar, Mahimo ba ang CaseActive"
+" sa pagtrabaho uban sa akong kasamtangan nga sistema?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Oo, mahimo nimong i-integrate ang among proprietary API o import nga module "
+"aron awtomatiko nga makahimo og mga kaso, mag-assign sa mga tiggamit, ug "
+"makamugna og mga taho base sa imong sistema nga input."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Kami adunay mga kliyente sa tibuok kalibutan. Anaa ba ang CaseActive sa "
+"ubang mga pinulongan?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Oo, ang CaseActive nga app ug komunikasyon mahimong mahubad sa kapin sa 60 "
+"ka mga pinulongan, lakip ang, Mandarin Chinese, Spanish, Hindi ug Russian "
+"ingon man English."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Mahimo ba ako makadugang usa ka logo o ipasadya ang CaseActive sa bisan "
+"unsang paagi?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Hingpit nga! Gidisenyo ang CaseActive nga naa sa imong hunahuna. Sa panid sa"
+" setting sa admin panel, mahimo nimong i-upload ang imong kaugalingon nga "
+"personal nga kolor ug pilion ang mga kolor sa imong kompanya."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Nahiuyon ba ang CaseActive sa bisan unsang aparato (PC, Mac, Tablet ug "
+"Mobile)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"Ang CaseActive usa ka responsive nga web app. Nagdagan kini sa bisan unsang "
+"web browser sama sa Internet Explorer, Firefox, Safari o Chrome, ug uban pa."
+" Kini nagpasabot nga ang matang sa device (PC, Mac, Tablet ug Mobile) nga "
+"imong gigamit walay kalainan. Ablihi lang ang web browser, log in sa imong "
+"CaseActive account, ug andam ka na."
+
+msgid "How many clients can I have?"
+msgstr "Pila ka mga kliyente ang mahimo nako?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Gisingil ka matag lingkuranan sa kawani, matag bulan. Mahimo kang adunay "
+"walay limitasyon nga tiggamit sa kliyente."
+
+msgid "Enhance User Experience"
+msgstr "Pauswaga ang Kasinatian sa Gumagamit"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Walay minimum nga bayronon ug walay upfront nga mga pasalig. Nagbayad ka "
+"lang matag lingkuranan sa kawani, matag bulan."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "kada Bulan"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr ""
+"Ang tanan nga imong gikinahanglan sa pagsugod. 3 ka lingkoranan ang giapil."
+
+msgid "Business"
+msgstr "Negosyo"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Ang among pinakapopular nga plano. 4 ka lingkoranan ang gilakip."
+
+msgid "Enterprise"
+msgstr "Enterprise"
+
+msgid "Contact sales for pricing"
+msgstr "Kontaka ang halin para sa presyo"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Custom nga Presyo, Advanced nga mga bahin, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Kontaka ang Sales"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Pakigsulti ug ipaambit ang mga dokumento sa imong mga kliyente"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Pag-eskedyul og balik-balik nga mga panghitabo ug mga miting"
+
+msgid "Fully customize your form to generate data"
+msgstr "Hingpit nga ipasibo ang imong porma aron makamugna og datos"
+
+msgid "Keep track of case progression"
+msgstr "Pagsubay sa pag-uswag sa kaso"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Paghangyo nga nagsunod sa mga e-pirma gikan sa daghang mga tiggamit"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Paghimo og invoice aron makita o mabayran sa imong kliyente"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Gitugotan ang tanan nga mahibal-an kung unsa ang umaabot ug angay"
+
+msgid "Auto notify the user when something is due"
+msgstr "Awtomatikong ipahibalo ang tiggamit kung adunay kinahanglan"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Idugang ang custom case field para sa tanan nimong case"
+
+msgid "Custom Branding"
+msgstr "Custom Branding"
+
+msgid "Make your app unique with logo and color styles"
+msgstr ""
+"Himua nga talagsaon ang imong app gamit ang logo ug mga istilo sa kolor"
+
+msgid "Access to customer support"
+msgstr "Pag-access sa suporta sa kustomer"
+
+msgid "Storage"
+msgstr "Pagtipig"
+
+msgid "Unlimited"
+msgstr "Walay kinutuban"
+
+msgid "Additional Users Seats"
+msgstr "Dugang nga mga Lingkod sa Gumagamit"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "$83.34"
+
+msgid "Convo with recording"
+msgstr "Convo nga naay recording"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video o audio chat nga adunay recording nga gitipig sa kaso"
+
+msgid "API Access"
+msgstr "Pag-access sa API"
+
+msgid "Automate tasks with access to API"
+msgstr "I-automate ang mga buluhaton nga adunay access sa API"
+
+msgid "Module Templates"
+msgstr "Mga Template sa Module"
+
+msgid "Create a standard template and reuse it"
+msgstr "Paghimo ug standard template ug gamita kini pag-usab"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Awtomatikong pagdagan ang usa ka aksyon kung ang usa ka kaso o kaso nga gi-"
+"assign ma-trigger"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Ipadala ang kinatibuk-an, adlawng natawhan, o mga mensahe sa holiday ngadto "
+"sa mga kliyente (Moabot Na)"
+
+msgid "Encryption at rest"
+msgstr "Pag-encrypt sa pagpahulay"
+
+msgid "Protects your data from system compromise"
+msgstr "Gipanalipdan ang imong datos gikan sa pagkompromiso sa sistema"
+
+msgid "Encryption in transit"
+msgstr "Pag-encrypt sa pagbalhin"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Gipanalipdan ang imong data kung ang mga komunikasyon ma-intercept"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Single sign-on (SSO) nga nakabase sa SAML"
+
+msgid "Respond realtime to events"
+msgstr "Pagtubag sa tinuud nga oras sa mga panghitabo"
+
+msgid "Seamless Collaboration"
+msgstr "Seamless nga Kolaborasyon"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"Gi-streamline sa CaseActive ang digital nga kolaborasyon tali sa imong "
+"kompanya ug mga kliyente - gikan sa konsultasyon hangtod sa resolusyon, "
+"tanan sa usa ka plataporma."
+
+msgid "Take a tour"
+msgstr "Pag-tour"
+
+msgid "Stay Connected"
+msgstr "Pagpabilin nga Sumpay"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Hupti ang dali nga kontak sa mga myembro sa team nga gigamit ang interface "
+"nga maabi-abihon sa CaseActive ingon imong usa ka hunong nga hub alang sa "
+"kliyente ug pagdumala sa kaso."
+
+msgid "Connect"
+msgstr "Sumpayan"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr ""
+"Ang Feed sa pagkaon naghatag kanimo sa labing bag-o sa imong mga kliyente."
+
+msgid "Schedule"
+msgstr "Eskedyul"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Paghimo og mga panghitabo, pagdapit sa mga nanambong, ug pag-monitor sa "
+"imong kalendaryo."
+
+msgid "Call"
+msgstr "Pagtawag"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Pag-apil sa live nga mga koneksyon sa video sa bisan unsang oras, sa bisan "
+"diin."
+
+msgid "Share"
+msgstr "Ipakigbahin"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Lig-on nga mag-upload og mga file, hisgoti kini, ug ipakigbahin."
+
+msgid "Powerful Case Management"
+msgstr "Gamhanan nga Pagdumala sa Kaso"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Gawas nga Kasagaran"
+
+msgid "Easily assign individuals"
+msgstr "Dali nga ihatag ang mga tawo"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "o mga grupo sa usa ka kaso ug pakigtambayayong sa mga kliyente."
+
+msgid "Manage user groups"
+msgstr "Pagdumala sa mga grupo sa tiggamit"
+
+msgid "and customize access permissions."
+msgstr "ug ipahiangay ang mga permiso sa pag-access."
+
+msgid "All data is automatically backed up"
+msgstr "Ang tanan nga mga data awtomatikong gipaluyohan"
+
+msgid "in case a recovery is ever needed."
+msgstr "kon may gikinahanglan nga pagkaayo."
+
+msgid "All information"
+msgstr "Ang tanang impormasyon"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "ang gikuhaan sa kasigurohan, pagsiguro sa imong hingpit nga privacy."
+
+msgid "Customize"
+msgstr "Pagpahiangay"
+
+msgid "with your own colors and logo."
+msgstr "uban sa imong kaugalingon nga mga kolor ug logo."
+
+msgid "can be enabled/disabled at any time."
+msgstr "mahimong makahimo / magpugong sa bisan unsang panahon."
+
+msgid "Benefits of "
+msgstr "Mga kaayohan sa"
+
+msgid "Reduction in time "
+msgstr "Pagkunhod sa panahon"
+
+msgid "to intake new clients"
+msgstr "sa pagkuha sa bag-ong mga kliyente"
+
+msgid "Minimize "
+msgstr "Pagminus"
+
+msgid "the chance of "
+msgstr "ang kahigayonan sa"
+
+msgid "malpractice"
+msgstr "malpractice"
+
+msgid "Better experience "
+msgstr "Mas maayo nga kasinatian"
+
+msgid "for your client"
+msgstr "para sa imong kliyente"
+
+msgid "Increase in caseload capacity "
+msgstr "Pagdugang sa kapasidad sa caseload"
+
+msgid "per staff"
+msgstr "kada kawani"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Sugdi ang atong mga Gitukod nga Apps"
+
+msgid "All you need in one place."
+msgstr "Ang tanan nga imong gikinahanglan sa usa ka dapit."
+
+msgid "Case Feed"
+msgstr "Pagpakaon sa Kaso"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Dali nga mag-assign sa usa ka kliyente, kawani, ug mga kaubanan sa usa ka "
+"kaso ug pag-apil sa usa ka luwas nga wanang nga magtugot kanimo sa pag-uswag"
+" sa kaso, adunay mga pag-istoryahan sa chat ug video nga tin-aw, ingon usab "
+"mga iskedyul nga mga panghitabo, e-sign / upload / download nga mga "
+"dokumento, ug daghan pa."
+
+msgid "Case Invoices"
+msgstr "Mga Invoice sa Kaso"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Sa pag-invoice sa as-you-go, ang pagsingil sa kliyente usa ra ka pag-klik, "
+"ug tugutan ka nga ipadala dayon ang mga gipangayo nga pondo sa pondo ug "
+"makadawat diretso nga bayad."
+
+msgid "Case Events"
+msgstr "Mga Panghitabo sa Kaso"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Ipadayon nga organisado ang imong kalendaryo sa kaso sa tanan nga mga oras, "
+"pag-iskedyul sa mga panghitabo, pagdapit sa mga nanambong, pagpadala mga "
+"pahinumdom sa panghitabo, ug pagsiguro nga ang tanan nagpadayon sa pagsubay."
+
+msgid "Case Convo"
+msgstr "Kaso Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Pakigtagbo sa mga kliyente ug mga miyembro sa koponan hapit &#39;nawong-sa-"
+"nawong&#39; pinaagi sa gitukod nga video nga komperensya aron makasulti ka "
+"direkta sa tanan nga nahilambigit."
+
+msgid "Case Forms & E-signs"
+msgstr "Mga Porma sa Kaso ug E-sign"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Hingpit nga ipasibo ang imong porma sa kaso aron makamugna ang talagsaon nga"
+" mga template nga nagsilbi sa imong piho nga panginahanglan. Kini nga mga "
+"template mahimong iapud-apod sa mga kliyente ug mga miyembro sa koponan aron"
+" pun-on ug pag-sign"
+
+msgid "Case notes"
+msgstr "Mga nota sa kaso"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Pagtipig og mga nota nga adunay mga custom nga field ug mga attachment sa "
+"pag-uswag sa kaso alang sa karon ug sa umaabot nga mga miyembro sa team"
+
+msgid "Case Media"
+msgstr "Kaso Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Pag-upload, pagpaambit, pagkomento, ug pag-download sa mga file nga may "
+"kalabotan sa kaso aron ang tanan adunay pakisayran sa tanan nga hinungdanon "
+"nga mga detalye, mga tawo, ug mga sitwasyon."
+
+msgid "About Case"
+msgstr "Mahitungod sa Kaso"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Himua ang mga kliyente ug kawani nga tan-awon ang mga kinatibuk-ang detalye "
+"alang sa mga kaso nga nahilambigit niini. Mahimo nimo nga tapuson ang kaso "
+"kung ang tanan naputos, o hatagan ang pagtugot sa miyembro sa team nga "
+"buhaton kini."
+
+msgid "Plus Many More Features"
+msgstr "Dugang Daghang Daghang mga Features"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Gamita ang Tinuud nga Pag-alagad sa Kaugalingon Pag-alagad Pagdumala sa "
+"tibuuk nga pagkontrol sa imong suite sa CaseActive management gikan sa "
+"plataporma mismo."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Hugot nga pag-link ang imong naglungtad nga sistema sa CaseActive Pagsama sa"
+" among proprietary API aron awtomatiko nga maghimo mga kaso, pag-assign sa "
+"mga tiggamit, ug pagmugna mga taho base sa imong input sa system."
+
+msgid "Multi-Language Enabled:"
+msgstr "Pinahigda nga Multi-Pinulongan:"
+
+msgid "Interact with clients in"
+msgstr "Makig-uban sa mga kliyente sa"
+
+msgid "70+ languages"
+msgstr "70+ ka pinulongan"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Bisan kon nagtrabaho sa lokal o sa tibuok kalibutan, mahimo nimong "
+"i-translate ang lumad nga pinulongan sa imong kliyente pinaagi sa "
+"CaseActive&#39;s"
+
+msgid "language management system"
+msgstr "sistema sa pagdumala sa pinulongan"
+
+msgid "No more confusion or limits."
+msgstr "Wala nay kalibog o limitasyon."
+
+msgid "Let's see what others are saying"
+msgstr "Atong tan-awon kung unsay gisulti sa uban"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Hibal-i kung giunsa ang among kahibulongang mga kostumer - gikan sa gagmay "
+"nga mga negosyo hangtod sa mga negosyo sa negosyo - nagpadako sa ilang "
+"kompetensya nga bentaha pinaagi sa pagkahimong mga manggugubat nga "
+"CaseActive."
+
+msgid "SUPPORT"
+msgstr "SUPORTA"
+
+msgid "Everything at Your Fingertips."
+msgstr "Ang tanan sa Imong mga Tudlo."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Pagsugod sa imong CaseActive app pinaagi sa pagsunod sa among video guide, "
+"ug i-customize kini aron mohaum sa imong mga panginahanglan."
+
+msgid "What are you looking for..."
+msgstr "Unsay imong gipangita ..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Katapusan nga Gi-update: Hunyo 7, 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"Ang CaseActive adunay reserba sa tama, bisan kanus-a ug sa iyang kaugalingon"
+" nga pagkabuotan, aron ma-update ug mabag-o ang bisan kinsa o tanan niining "
+"mga Termino sa Serbisyo. Kung gibag-o sa CaseActive kini nga Mga Termino sa "
+"Pag-alagad, ang CaseActive magbag-o sa &#39;Kataposang Gi-update&#39; nga "
+"petsa sa ibabaw. Ikaw ang responsable sa kanunay nga pagribyu sa labing bag-"
+"ong bersyon sa Serbisyo. Ang imong padayon nga paggamit sa Mga Serbisyo "
+"pagkahuman sa bisan unsang mga pagbag-o nga nahimo nahimo nga imong pagtugot"
+" nga mahiusa sa mga pagbag-o. Kung supak ka sa bisan unsang mga pagbag-o sa "
+"Mga Termino sa Pag-alagad, ang imong bugtong ug eksklusibo nga solusyon mao "
+"ang pagtapos sa Mga Serbisyo sumala sa mga termino dinhi."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Ang mga Kinatibuk-ang Mga Termino sa Pag-alagad magamit sa mga Serbisyo sa "
+"kinatibuk-an. Ang dugang nga mga termino nga magamit sa matag gitanyag nga "
+"Serbisyo gibutang sa mga link nga gihatag sa ubos (ang &#39;Dugang nga mga "
+"Termino sa Serbisyo&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Mga serbisyo:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Ang among proprietary software usa ka platform sa serbisyo nga among gi-host"
+" alang sa among mga kostumer aron ihalad ang mga serbisyo nga detalyado sa "
+"ubos. Aron mag-subscribe sa usa ka Serbisyo, kinahanglan nimo nga ipatuman "
+"ang usa ka Order Form alang niana nga Serbisyo ug / o pagkompleto ang pag-"
+"sign up nga serbisyo alang sa Serbisyo. May katungod ka lamang nga mogamit "
+"sa mga Serbisyo diin imong gi-subscribe ug nabayran, ug ang imong paggamit "
+"sa Mga Serbisyo nasakup sa imong pagsunod sa tanan nga mga termino ug "
+"kondisyon sa Kasabutan. Giila nimo ug miuyon kami nga adunay katungod sa "
+"pagbag-o sa Mga Serbisyo (o bisan unsang bahin niini) matag karon ug unya "
+"dili kami manubag kanimo o sa bisan unsang ikatulong partido alang sa bisan "
+"unsang pagbag-o sa mga Serbisyo."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Paghulagway sa CaseActive Service: Ang CaseActive Service mao ang suite "
+"sa mga host software nga serbisyo alang sa pagdumala sa kolaborasyon sa "
+"kliyente online nga gitanyag sa CaseActive LLC. Ang pag-sign-up flow nga "
+"imong giuyonan, o ang Order Form nga imong gipahamtang, nagpaila sa "
+"CaseActive Service nga imong gi-subscribe, ang termino sa subscription ug "
+"mga bayad nga mabayran nimo alang sa CaseActive Service. Ang dugang nga mga "
+"termino ug kondisyon nga magamit sa imong paggamit sa CaseActive Serbisyo "
+"gipakita sa:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Pagpalapad sa mga Serbisyo:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Mahimo ka nga mag-subscribe sa bisan unsang dugang nga mga Serbisyo, lakip "
+"ang mga bag-ong Serbisyo nga mahimo magamit sa CaseActive matag karon ug "
+"unya, o madugangan ang imong naa nga Serbisyo pinaagi sa pagpahamtang usa ka"
+" dugang nga Form Form o pag-agos sa pag-sign up, ingon bahin sa Mga "
+"Serbisyo. Ang matag bag-ong pag-sign-up flow o Order Form maglakip sa presyo"
+" ug mga petsa sa pagsingil sa Mga Serbisyo nga idugang sa oras. Ang tanan "
+"nga mga bag-ong Serbisyo gipailalom sa Mga Kinatibuk-ang Mga Termino sa Pag-"
+"alagad ug bisan unsang dugang nga mga termino ug kondisyon nga mahimong piho"
+" nga magamit sa dugang nga mga Serbisyo."
+
+msgid "3. Customer Support:"
+msgstr "3. Suporta sa Customer:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Kung nabayran na nimo ang tanan nga bayad nga ibayad kanimo alang sa mga "
+"Serbisyo, mogamit kami nga makatarunganon nga mga paningkamot nga gihatag, "
+"nga wala’y bayad kanimo, mga serbisyo nga suporta sa teknikal kanimo ug sa "
+"imong awtorisadong mga gumagamit nga nag-subscribe sa Mga Serbisyo. Usa ka "
+"representante sa serbisyo sa kliyente ang i-assign sa imong mga kaso. Ang "
+"mga walay kinutuban nga kaso gidawat gikan sa awtorisado nga mga tiggamit. "
+"Ang among sumbanan nga suporta magamit 24/7, dili apil ang mga dagkong mga "
+"piyesta opisyal, nga naglakip sa Adlaw sa Memoryal, Adlaw sa Kalayaan, Adlaw"
+" sa Trabaho, Pagpasulud, Pasko, ug Adlaw sa Bag-ong Tuig. Mahimo nimong "
+"kontakon ang suporta sa kustomer pinaagi sa paggamit sa among"
+
+msgid "Contact Form"
+msgstr "Contact Form"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Ang atong tubag sa panahon dili labi sa duha ka adlaw sa negosyo."
+
+msgid "4. Training:"
+msgstr "4. Pagbansay:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Kung gihatagan nimo ang tanan nga bayad nga ibayad kanimo alang sa Mga "
+"Serbisyo, maghimo kami nga magamit nga hilit, mabuhi o naitala nga mga "
+"sesyon sa pagbansay sa imong gitudlo, gipangalan ug awtorisado nga mga "
+"tiggamit ingon usab naghatag mga panudlo nga ma-access pinaagi sa seksyon sa"
+" Tulong ug Pagbansay sa among website sa walay dugang nga bayad. Alang sa "
+"pipila nga Mga Serbisyo naghatag kami pipila nga pagbansay sa on-site nga "
+"hangyo ug dugang bayad. Palihug kontaka kami pinaagi sa paggamit sa amon"
+
+msgid "for more information about on-site training."
+msgstr "alang sa dugang nga impormasyon bahin sa pagbansay sa on-site."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Ang Imong Mga Katungod ug mga Pagpanghimakak:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Lisensya: Uyon sa mga termino ug kundisyon sa Kasabutan, ug sa panahon "
+"nga pagbayad sa tanan nga mga magamit nga bayranan nga gilatid sa Order Form"
+" o pag-sign-up flow, pinaagi niini hatagan namon kanimo usa ka dili "
+"eksklusibo, dili mabalhin, limitado nga katungod ug lisensya nga gamiton (ug"
+" gitugotan ang imong awtorisado nga mga tiggamit nga magamit) ang mga "
+"Serbisyo nga imong gi-subscribe, alang lamang sa imong mga katuyoan sa "
+"negosyo sa sulod."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Mga Awtorisadong Gumagamit: Ikaw (i) ang responsable sa pagsunod sa "
+"imong awtorisado nga tiggamit sa Kasabutan, ug (ii) mogamit sa "
+"makatarunganon nga mga paningkamot aron malikayan ang dili awtorisado nga "
+"pag-access o paggamit sa Mga Serbisyo ug ipahibalo sa amon dayon sa bisan "
+"unsang dili awtorisado nga pag-access o paggamit. Imong responsibilidad ang "
+"pagtangtang sa pag-access sa mga Serbisyo kung ang gitugutan nga kahimtang "
+"sa usa ka user o gitudlo nga empleyado nagbag-o."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Ang Imong Mga Kapangakohan ug Pagpugong: Ikaw ang adunay katungdanan "
+"alang sa tanan nga mga kalihokan nga mahitabo sa ilalum sa imong mga account"
+" sa gumagamit o sa imong gitugotan nga tiggamit. Kinahanglan nimo: (i) "
+"adunay bug-at nga responsibilidad alang sa katukma, kalidad, integridad, "
+"pagkaluwas, kasaligan ug katukma sa tanan nga datos nga imong gisumite sa "
+"Mga Serbisyo; (ii) mogamit sa makatarunganon nga mga paningkamot aron "
+"mapugngan ang dili awtorisado nga pagkontrol o pag-tampar o bisan unsang "
+"uban pa nga dili awtorisado nga pag-access, o paggamit sa, ang Mga Serbisyo "
+"ug gipahibalo kami dayon sa bisan unsang dili awtorisado nga paggamit o "
+"paglapas sa seguridad; (iii) pagtuman sa tanan nga magamit nga lokal, "
+"estado, pederal, ug langyaw nga mga balaod (lakip ang mga balaod bahin sa "
+"pagkapribado ug pagpanalipod sa impormasyon sa personal o consumer) sa "
+"paggamit sa Mga Serbisyo; (iv) kutob sa mahimo, pagsunod sa tanan nga "
+"magamit nga mga lagda sa mga asosasyon sa credit card (lakip ang American "
+"Express, MasterCard ug Visa); ug (v) makuha ug huptan ang tanan nga computer"
+" hardware, software ug mga kagamitan sa komunikasyon nga gikinahanglan aron "
+"ma-access ang Mga Serbisyo, ug pagbayad ang tanan nga mga bayad sa pag-"
+"access (pananglitan ang mga bayad sa ISP) nga gihimo nimo nga adunay "
+"kalabotan sa imong paggamit sa mga Serbisyo."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Dili mahimo nimo, ug siguruha nga ang imong mga awtorisado nga tiggamit "
+"dili, (i) pagbuak, pag-usab sa inhenyero, pag-decompile o kung dili man "
+"sulayan nga mahibal-an ang bisan unsang code nga may kalabotan sa mga "
+"Serbisyo, o pagbag-o, ipahiangay, paghimo sa mga hinimo nga mga buhat nga "
+"gibase sa, o gihubad ang Mga serbisyo; (ii) lisensya, sublicense, ibaligya, "
+"pagrenta, pag-apod-apod, pag-apod-apod, pagbalhin sa oras, pag-abang, "
+"pagpangutang, pagbaligya alang sa ganansya, pag-apod-apod o kung dili man "
+"komersyal nga pahimulos, paghatag mga katungod sa o paghimo sa mga Serbisyo "
+"nga magamit sa bisan unsang ikatulong partido; (iii) gamita ang mga Serbisyo"
+" gawas kung adunay tinuud nga awtorisado dinhi o paglapas sa bisan unsang "
+"magamit nga mga balaod; (iv) ang pag-apil sa bisan unsang ilegal o "
+"malimbungon nga pamatasan sa pamaligya bahin sa Mga Serbisyo; (v) paglikay o"
+" pag-disable sa bisan unsang kasiguruhan o uban pang mga teknikal nga bahin "
+"o mga lakang sa Serbisyo o bisan unsa nga aspeto sa Software o, sa bisan "
+"unsang paagi, pagsulay nga makuha o makuha ang dili awtorisado nga pag-"
+"access sa Mga Serbisyo o ang mga may kalabutan nga computer system o "
+"network; (vi) gigamit ang Mga Serbisyo aron maipadala ang paglapas, libog, "
+"malaw-ay, paghulga o kung dili man supak sa balaod, dili luwas, malisyoso, "
+"mapasipalahon o mapait nga materyal, o sa pagtipig o pagpadala sa materyal "
+"sa paglapas sa mga katungod sa pagkapribado sa third-party; (vii) gigamit "
+"ang Serbisyo aron pagtipig o pagbalhin sa bisan unsang mga virus, ulod, "
+"bomba sa oras, kabayo sa Trojan ug uban pang makadaot o makadaot nga code, "
+"file, script, ahente o programa, o pagpadala sa spam o kung dili man doble o"
+" dili paminawa nga mga mensahe sa paglapas sa mga magamit nga balaod ; o "
+"(viii) nga makabalda o makaguba sa integridad o pasundayag sa Mga Serbisyo o"
+" mga datos nga adunay ikatulong partido nga anaa niini."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Pagreserba sa mga Katungod: Wala’y ubang mga katungod nga gihatag gawas "
+"kung hayag nga gipakita sa Kasabutan. Ang Kasabutan dili usa ka pagbaligya "
+"ug wala magdala sa bisan unsang mga katungod o pagpanag-iya sa, o sa, sa mga"
+" Serbisyo o bisan unsang nahiagum nga software. Tag-iya namon ang tanan nga "
+"mga katungod, titulo, ug interes, lakip ang tanan nga mga katungod sa "
+"intelektwal nga kabtangan, sa ug sa mga Serbisyo ug ang nahiilalum nga "
+"software ug bisan unsang ug tanan nga mga update, pag-upgrade, pagbag-o, "
+"pagdugang, pag-ayo o mga buhat sa derivative, ug sa bisan unsang ideya, "
+"nahibal-an giunsa, ug mga programa nga napatubo sa amon o sa among mga "
+"lisensya sa panahon sa dagan sa mga Serbisyo."
+
+msgid "6. Term and Termination:"
+msgstr "6. Term ug Terminasyon:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Term: Ang termino sa mga Serbisyo magkalainlain depende sa Serbisyo nga "
+"imong gi-subscribe ug ibutang sa Order Form o miuyon sa pag-sign-up flow ug "
+"magbag-o sama sa mosunod:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive Serbisyo sa Termino: Ang Imong Suskrisyon sa CaseActive "
+"Serbisyo awtomatiko nga magbag-o alang sa sunud-sunod nga usa ka bulan o usa"
+" ka tuig nga termino, sama sa gilatid sa Order Form o pag-sign-up flow, "
+"gawas kung dili namon ihunong ang Serbisyo nga gihatag nimo kanamo sa "
+"pahibalo sa ang dili pagbag-o sa labing gamay katloan (30) ka adlaw sa wala "
+"pa matapos ang dayon nga termino."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 CaseActive Website Services Term: Ang imong pag-suskrisyon sa mga "
+"serbisyo sa website sa CaseActive awtomatiko nga magbag-o alang sa sunud-"
+"sunod nga usa ka bulan o usa ka tuig nga termino, ingon sa gilatid sa Order "
+"Form o pag-sign-up flow, gawas kung dili namon ihunong ang Serbisyo o "
+"gihatagan mo kami nga adunay pahibalo sa dili pagbag-o sa labing gamay "
+"katloan (30) ka adlaw sa wala pa matapos ang termino kaniadto."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Ang gisulat nga pahibalo sa dili pagbag-o nga kinahanglan nimo nga "
+"isumite sa CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Pagtapos: Ang bisan kinsa nga partido mahimong mag-undang sa Kasabutan "
+"ug ang tanan nga mga suskrisyon sa Serbisyo (i) kung ang uban nga partido "
+"naglapas sa bisan unsang materyal nga obligasyon niini sa ilalum sa "
+"Kasabutan ug ang ingon nga paglapas wala matambal sa sulod sa traynta (30) "
+"ka adlaw nga pagdawat sa pahibalo gikan sa dili paglapas partido, o (ii) "
+"kung ang uban nga partido mahimong dili masulub-an o pagkabangkaruta, likido"
+" o mawala, o mohunong sa kadaghanan sa iyang negosyo. Mahimo naton nga "
+"tapuson dayon ang Kasabutan sa higayon nga adunay paglapas sa Seksyon 5.3 sa"
+" taas. Sa pagtapos sa Kasabutan, ihunong dayon nimo ang tanan nga paggamit "
+"sa mga Serbisyo, mohunong sa pagrepresentar sa bisan unsang porma nga ikaw "
+"usa ka tiggamit sa Mga Serbisyo, ug gub-on ang tanan namon nga kompidensyal "
+"nga Impormasyon sa imong panag-iya. Bisan kinsa nga partido dili manubag "
+"alang sa bisan unsang kadaot nga sangputanan gikan sa usa ka pagtapos sa "
+"Kasabutan o bisan unsang mga suskrisyon sa Mga Serbisyo nga gihatag dinhi; "
+"nga gihatag, bisan pa, nga ang pag-undang sa Kasabutan dili makaapekto sa "
+"bisan unsang pag-angkon nga naggikan sa wala pa ang pag-undang."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Pagdumala sa Imong Data sa Pagtapos sa Paghinapos: Giila nimo ug uyon ka"
+" nga pagkahuman sa pagkalipas o pagtapos sa bisan unsang mga suskrisyon sa "
+"Mga Serbisyo, mahimo dayon namon nga i-deactivate ang mga apektadong "
+"Serbisyo ug kana, pagsunod sa usa ka makatarunganon nga panahon nga dili "
+"moubus sa kasiyaman (90 ) mga adlaw, mahimong tangtangon ang imong account "
+"ug data. Bisan pa, kung ang mga Serbisyo natapos sa amon, hatagan ka namon "
+"temporaryo, limitado nga pag-access sa Mga Serbisyo, dili molapas sa katloan"
+" (30) ka adlaw, alang sa bug-os nga katuyoan nga gitugutan ka nga makuha ang"
+" imong datos sa proprietary, nga gihatag, nabayran mo ang tanan nga maayo "
+"nga pagtuo nga wala’y masupak nga kantidad nga nabayad kanamo. Imong dugang "
+"nga mouyon nga kami dili manubag kanimo o sa bisan unsang ikatulo nga "
+"partido alang sa bisan unsang pagtapos sa imong pag-access sa Mga Serbisyo o"
+" pagtangtang sa imong data, sa kondisyon nga kami nagsunod sa mga termino sa"
+" Seksyon 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Bayad:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Mga Bayad sa Serbisyo: Kinahanglan nga bayran nimo ang mga dili bayad "
+"nga bayad alang sa Mga Serbisyo sa kantidad nga gilatid sa pag-sign-up flow "
+"o Order Form (&#39;Mga Bayad sa Serbisyo&#39;) ug sumala sa frequency sa "
+"pagsingil nga gipahayag sa pag-agos sa pag-sign up o Order Porma. Ang Bayad "
+"sa Pag-alagad kinahanglan maabuton ug mabayran sa petsa sa invoice. Ang mga "
+"Bayad sa Serbisyo mahimo nga madugangan base sa among gibayad karon. Ang mga"
+" Bayad sa Serbisyo dili ma-refund bisan kung sayo nga nahuman ang imong "
+"suskrisyon sa sayo."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Dugang nga Bayad: Mahimo kang makadala us aka mga dili bayad nga bayad o"
+" bayad alang sa imong paggamit sa Mga Serbisyo dugang sa mga bayranan nga "
+"gilatid sa Order Form ug / o pag-agos sa pag-sign up. Ang dugang nga dili "
+"bayad nga bayad ug bayad gipahamutang sa dugang nga mga termino alang sa "
+"magamit nga Serbisyo."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Katapusan nga Pagbayad: Giila nimo nga ang imong pagkapakyas sa pagbayad"
+" sa bisan unsang mga bayad o bayad kung adunay panahon mahimo’g moresulta sa"
+" pagsuspinde o pagtapos sa imong (Mga) suskrisyon sa produkto sa CaseActive."
+" Kung napakyas ka nga magbayad sa bisan unsang mga bayranan o singil tungod "
+"niini, ang CaseActive adunay katungod sa pag-apil sa usa ka ahensya sa "
+"pagkolekta aron makolekta ang mga bayranan ug singil ug kinahanglan nimo nga"
+" bayaran ang tanan nga mga gasto nga natapos sa CaseActive nga may kalabotan"
+" sa pagkolekta sa mga nangagi nga angay nga kantidad, lakip ang , nga wala’y"
+" limitasyon, makatarunganon nga abogado &#39;ug mga bayad sa mga ahensya sa "
+"mga koleksyon dugang nga interes sa kantidad nga katumbas sa labing gamay "
+"nga 1.0% matag bulan o ang labing taas nga rate nga gitugotan sa magamit nga"
+" balaod."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Buwis: Ikaw ang mahimong responsable alang sa tanan nga buhis sa "
+"pagbaligya, paggamit sa buhis, kantidad nga gidugang nga buhis, pagpugong sa"
+" buhis ug uban pang susamang buhis ug mga sumbong sa bisan unsang klase nga "
+"gipahamtang sa pederal, estado o lokal nga mga entidad sa gobyerno sa mga "
+"transaksyon nga gilaraw sa Kasabutan. Kung kami adunay ligal nga obligasyon "
+"sa pagbayad o pagkolekta sa mga buhis nga ikaw ang may tulubagon, subay sa "
+"Seksyon, ang angay nga kantidad kinahanglan nga i-invoice ug ibayad kanimo "
+"gawas kung hatagan ka namon usa ka balido nga sertipikasyon sa pagbayad sa "
+"buhis nga gitugutan sa angay nga awtoridad sa pagbuhis."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Mga representasyon ug mga garantiya:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Mga Representasyon sa Mutual ug mga Garantiya: Ang matag partido dinhi "
+"nagrepresentar ug nagprenda sa uban pang partido nga (i) adunay tanan nga "
+"kinahanglan nga awtoridad nga mosulod ug ipatuman ang mga obligasyon sa "
+"ilalum sa Kasabutan nga wala’y pagtugot sa bisan unsang ikatulong partido o "
+"paglapas sa bisan unsang kontrata o kasabutan sa bisan unsang ikatulo nga "
+"partido, (ii) ang tanan nga mga tawo nga nagbuhat sa bisan unsang mga "
+"obligasyon sa dinhi nakasulod sa tanan nga mga kinahanglanon nga kasabutan "
+"aron kini sundon ang mga termino ug kondisyon sa Kasabutan, ug (iii) kini "
+"magsunod sa tanan nga materyal nga respeto sa tanan nga mga balaod nga "
+"magamit sa ang mga Serbisyo."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Dugang nga mga Representasyon ug Mga Garantiya: Gipasalig mo, "
+"nagrepresentar ug nakigsaad kami kanimo nga gamiton nimo ang mga Serbisyo "
+"alang sa mga katuyoan nga uyon sa Kasabutan ug sa tanan nga magamit nga mga "
+"palisiya ug sumbanan sa CaseActive."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Pagsalikway sa Mga Warantiya: PAGHULAT ALANG SA KADAGHANAN NGA MGA "
+"WARRANTIES GIHATAG SA KATAPOSAN SA SEKSYON 8, SA KATUMANAN SA MAXIMUM NGA "
+"GIHIMO SA KATAWHAN NGA KATAWHAN, MAHIMONG DILI ANG UBAN NGA MGA KASAL, "
+"KAHIMTANG, GIHAPON, PAG-ATUBANG O KINABUHI, SA KATAPOSAN O GIKAN SA MAONG "
+"KATAWHAN SA TRADE, GIKAN SA ANAK NGA KATAPUSAN, PAGSULOD SA KATUNGOD SA "
+"PAGKAMAHINAYAN, KATUYUAN SA KATAPUSAN, PAGTUO, KAHIGAYAG ALANG SA KATUNGOD "
+"NGA KATUYOHAN, O WALA PAG-INGRADO. WALA KAMI GUSTO NGA ANG KOMISYONAN KON "
+"UNSA ANG PAG-ALAGAD KITA ANG TANAN SA INYONG KINAHANGLAN, PAGPASABOT SA "
+"KINAHANGLAN NGA KINAHANGLAN, O ANG PAGGAMIT SA KATAPUSAN O ANG MGA PAG-"
+"ALAGAD NGA MAHIMONG MAHIMONG MAABUTAN O GIHAPON ANG ERROR. ANG SOFTWARE AND "
+"SERBISYO GIKITA SA INYO SA USA KA &#39;AS IS&#39; BASIS UG ANG IMONG "
+"PAGGAMIT SA SOFTWARE AND SERBISYO SA INYONG KAUGALINGONG RISIKO, PAGSULOD, "
+"WALAY PAGLIMBONG, KOMPLIKASYON SA USA KA BATAS. ANG KAHINUNGDANAN NAGTUO NGA"
+" GIHIMO SA KINAHANGLAN NGA ANG KAHIMTANG SA KASINGKASING NGA KASULATAN Usa "
+"ka DAKONG KAUGALINGONG BAHIN SA KOMISYONAN."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"GIHIMO NIMONG ANYON NGA REPRESENTASYON O MGA KASALA NGA ANG IYANG PAGGAMIT "
+"SA SERBISYO MAAYO SA KATUNGOD O PAG-ENSIYON SA KOMPLIKASYON SA ANAK NGA "
+"LABAN NGA TINUOD O MGA KATAWHANAN O PAG-ARON. KINAHANGLAN ANG PAG-APPLAIMER "
+"NGA GIAPON SA PERO DILI MAHIMONG LABI SA ANYONG FEDERAL O PAG-USAB SA MGA "
+"SULOD O KATUNGOD NGA MAKA-APPLIKAL SA IYA. IKAW MAAYONG RESPONSIBLE NGA PARA"
+" SA PAG-ENSAY NGA ANG IMONG PAGGAMIT SA MGA SERBISYO GIHATAG SA AKONG LABAN "
+"SA APPLICABLE LAW."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"KUNG IKAW NABALIK SA PAG-ALAGAD SA MGA SERBISYO O KINAHANGLAN NGA PAG-ANTOS,"
+" ANG IMONG PAGPANGALAGAD UG HINUNGDANONG GIHIMO SA PAGHIMO SA PAGGAMIT SA "
+"SERBISYO."
+
+msgid "9. Confidential Information:"
+msgstr "9. Kompidensyal nga Impormasyon:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Gawas kung tin-aw nga gitugotan sa ubang partido, ang bisan kinsa nga "
+"partido dili magpadayag sa bisan unsang ikatulo nga partido ang bisan unsang"
+" kasayuran o mga materyal nga gihatag sa ubang partido sa ilalum sa "
+"Kasabutan ug makatarunganon nga nasabtan nga kompidensiyal "
+"(&#39;Confidential Information&#39;), o mogamit sa ingon nga Confidential "
+"Information sa bisan unsang paagi nga uban pa kay sa pagtuman sa mga "
+"obligasyon niini sa ilalum sa Kasabutan. Ang nahisgutan nga mga pagdili wala"
+" magamit sa bisan unsang kasayuran nga naa sa pampublikong domain o na sa "
+"pagpanag-iya sa partido nga nadawat, naila sa partido sa pagdawat sa wala pa"
+" ang petsa sa pagbunyag o nahibal-an sa pagdawat partido pagkahuman gikan sa"
+" usa ka ikatulo nga partido nga adunay dayag. Bona fide katungod nga ibunyag"
+" ang kasayuran, o Confidential Information nga ang pagdawat partido obligado"
+" sa pagmugna subay sa usa ka mando sa usa ka korte nga adunay husgado nga "
+"hurisdiksyon o usa ka balidong administratibo nga subpoena, nga gihatagan "
+"ang partido sa pagdawat naghatag sa pagpadayag sa partido sa pamanahon nga "
+"pahibalo sa usa ka korte order o subpoena. Dugang pa, imong masiguro nga ang"
+" imong awtorisado nga mga tiggamit magpadayon sa hugot nga pagsalig sa tanan"
+" nga mga password ug uban pang kasayuran sa pag-access sa Mga Serbisyo. Kini"
+" nga Seksyon 9 mabuhi sa pag-undang o pagtapos sa kini nga Kasabutan."
+
+msgid "10. Indemnification:"
+msgstr "10. Pagkaganti:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Indigipikasyon alang sa Paglapas: Uyon sa Seksyon 10.4, kami, sa among "
+"gasto, manalipod kanimo batok sa bisan unsang pag-angkon sa ikatulo nga "
+"partido nga gidala batok kanimo nga nag-ingon nga ang Mga Serbisyo naglapas "
+"sa bisan unsang patent sa US nga gihatag sa usa ka ikatulo nga partido sama "
+"sa Epektibo nga Petsa; o paglapas sa bisan unsang copyright, trademark o "
+"trade secret sa bisan unsang ikatulo nga partido (kolektibo nga gipasabut "
+"ingon ang &#39;Intellectual Property Underlying the Services&#39;). Kung ang"
+" usa ka injunction gipangita o nakuha batok sa paggamit sa Intellectual "
+"Property Underlying the Services o sa among opinyon lagmit nga pangitaon o "
+"makuha, kita, sa among kapilian ug gasto, bisan (i) makuha alang kanimo ug "
+"sa imong ngalan awtorisado nga mga tiggamit ang katungod sa pagpadayon sa "
+"paggamit sa Mga Serbisyo, o (ii) mopuli o bag-ohon ang Mga Serbisyo aron "
+"dili magamit ang ilang paggamit samtang wala makahimo sa daghang "
+"pagpahiangay. Kung ang mga subsidy sa okasyon (i) ug (ii) sa taas dili "
+"praktikal, mahimo naton tapuson ang mga Serbisyo ug ibalik ang bisan unsang "
+"bayad, apan wala magamit nga Bayad sa Serbisyo. Dili kami obligado sa "
+"pagdepensa o manubag sa bisan unsang mga gasto o danyos sa ilalum sa Seksyon"
+" 10.1 kung ang giingon nga paglapas naggawas o naa sa bisan unsang paagi nga"
+" gipahinungod sa (i) bisan unsang pagbag-o sa bisan unsang Mga Serbisyo "
+"kanimo (o bisan kinsa sa imong awtorisado o gitudlo nga mga gumagamit) o "
+"(ii) paggamit sa mga Serbisyo nga nahiusa sa mga serbisyo ug produkto nga "
+"wala gihatag sa CaseActive kung ang ingon nga paglapas dili malikayan kung "
+"wala’y ingon nga pagbag-o o kombinasyon, o (iii) pagsunod sa imong mga laraw"
+" o panudlo o (iv) usa ka pag-angkon nga wala ipahayag sa tino nga ang mga "
+"Serbisyo ang hilisgutan sa pag-angkon (matag usa usa ka &#39;Wala Gawas nga "
+"Pag-angkon&#39;). Ang mga obligasyon sa indemnipikasyon nga naa sa Seksyon "
+"10.1 mabuhi sa bisan unsang pag-undang o pagtapos sa kini nga Kasabutan."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Indigipikasyon alang sa Seguridad sa Data ug Pagkapribado: Uyon sa "
+"Seksyon 10.4, ug sa panahon sa imong pag-subscribe sa Mga Serbisyo, kami, sa"
+" among gasto, panalipdan ka batok sa bisan unsang pag-angkon sa ikatulo nga "
+"partido nga gidala batok kanimo nga gibuhian ang among kawalay pagpasagad sa"
+" pagpugong sa dili awtorisado nga pag-access sa, o sa atong tinuyo nga dili "
+"maayong buhat sa pagpadayag, Personal nga Pagkilala nga Impormasyon sa imong"
+" mga kostumer nga among gihuptan o kontrol. Kini nga panimalus dili magamit "
+"sa gilapdon nga ang ingon nga pag-angkon naggikan o adunay kalabutan sa "
+"imong pagpabaya o tinuyo nga dili maayo nga buhat o sa imong mga ahente o "
+"representante, o sa gidak-on ang liability ginawaran o limitado sa bisan "
+"unsang partido sa ilalum sa Kasabutan. Ang mga obligasyon sa indemnidad nga "
+"gipakita sa kini nga seksyon nakasalig kanimo nga nagpamatuod sa among "
+"grabeng pagpabaya o tinuyo nga dili maayong buhat direkta ug hapit na "
+"miresulta sa dili awtorisado nga pag-access o pagbunyag sa personal nga "
+"mailhan nga kasayuran sa imong mga kostumer sa among panag-iya o kontrol."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Ang Imong Indigasyon: Mouyon ka sa pagbayad, dili makadaot, ug "
+"panalipdan kami ug ang tanan namon nga mga empleyado, opisyales, direktor ug"
+" ahente gikan sa bisan kinsa ug tanan nga mga pag-angkon, mga demanda, "
+"demanda, mga pagdumala, imbistigasyon, danyos, gasto, gasto, pagkalugi, ug "
+"uban pa mga kapangakohan (lakip ang makatarunganon nga bayad sa abogado, mga"
+" gasto sa korte ug paggasto) nga naggikan sa o may kalabutan sa (i) imong "
+"paggamit sa Mga Serbisyo nga nakalapas sa Kasabutan, (ii) usa ka Gawas nga "
+"Pag-angkon, (iii) bisan unsang tinuud o giingon nga paglapas kanimo sa bisan"
+" unsang representasyon, garantiya, pakigsaad o obligasyon sa ilalum sa "
+"Kasabutan, o (iv) ang imong grabeng pagpabaya o tinuyo nga pagbuhat. Ang "
+"imong mga obligasyon sa indemnipikasyon sa ilalum sa Seksyon 10.3 mabuhi sa "
+"bisan unsang pag-undang o pagtapos sa Kasabutan."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Pahibalo ug Pagtinabangay: Ang mga obligasyon sa partido nga "
+"nagpahamtang sa indigay nga partido sa ilalum sa Seksyon 10 sa ibabaw ang "
+"nakondisyon sa (i) gipahamtang nga partido nga nagpahibalo sa indigay nga "
+"partido nga gisulat, sa pagkasayud sa bisan unsang pag-angkon, nga niini "
+"mahimo nga adunay katungod sa pagpanimalus sa ilalum sa Kasabutan ; (ii) "
+"kutob sa magamit, giinsulig nga partido nga nagpahunong sa paggamit sa "
+"giangkon nga naglapas nga mga Serbisyo kung nadawat ang pahibalo sa pareho; "
+"(iii) ginansya nga partido nga nagtugot sa indemnifying party nga adunay "
+"bug-os nga katungod sa pagkontrol sa pagdepensa ug paghusay sa bisan unsang "
+"ingon nga pag-angkon (sa kondisyon nga ang indigasyon nga partido dili "
+"mahimong maghusay sa bisan unsang pag-angkon nga wala’y pagtugot sa partido "
+"gawas kung ang pag-areglo nga dili tinuud nga nagpagawas sa indemnified "
+"party gikan sa tanan nga kapangakohan); (iv) ginansya nga partido nga "
+"naghatag og makatarunganon nga tabang sa pagpanimalus sa partido, sa "
+"paggasto sa gasto sa partido, sa pagpanalipod sa ingon nga pag-angkon; . ug "
+"(vi) gipanalanginan nga partido nga nagsunod sa bisan unsang pag-areglo o "
+"mando sa korte nga gihimo may kalabotan sa pag-angkon (nga may kalabutan sa "
+"umaabot nga paggamit sa bisan unsang mga naglapas nga materyales). Ang "
+"indigay nga partido mahimong moapil sa depensa o paghusay sa usa ka pag-"
+"angkon nga adunay tambag sa kaugalingon nga pagpili ug sa kaugalingon nga "
+"gasto."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Eksklusibo nga Kalingawan: Kini nga Seksyon 10 nagsulti sa bug-os nga "
+"kapangakohan sa partido sa, ug ang eksklusibo nga pag-ayad sa partido batok "
+"sa, ang uban pang partido alang sa bisan unsang klase sa pag-angkon nga "
+"gihubit sa niini nga Seksyon."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Limitasyon sa Liability:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"PAGSULAY SA PAGSULOD SA MGA DAMAG NGA PAGSULAY SA PAGSULAY SA KATAWHAN SA "
+"SEKSYON 5.3 O 12, SA KATUMANAN SA MAXIMUM GIHATAG SA KATAWHAN, SA WALA "
+"KAHIMTANG NGA PAGTUO SA PAGTUO SA KATUMANAN SA KATUMANAN SA KATUMANAN SA "
+"KATUMANAN IKAW PARA SA MGA PAG-ALAGAD GIHAPON ANG PAGSULAY SA LIABILITY "
+"DURING SA USA KA TUIG NGA YUTA NGA HINUNGDANON NGA GIHATAG SA TINUOD NGA "
+"PAG-ALAGAD SA KATUNGOD SA ACTION AROSE."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"PAGSULAY SA PAGSULAY SA MGA DAMAG NGA ARISING SA PAGSULAY UBAT SA USA KA "
+"BREAK SA SEKSYON 5.3 O 12, SA KATUMANAN SA MAXIMUM GIHATAG SA KATAWHAN, SA "
+"WALA KAHIMTANG NGA PAGTUO SA TINUOD NGA KATAPOSAN, GIHIMO GIHAPON O GIHAPON "
+"SA KATAPOSAN, KAY ANA NGA LALAKI NGA GIHIMO SA UBAN NGA LALAKI KARON "
+"KATUMANAN SA PROSESYON SA MAAYONG GASA SA PAGSULAY O PAG-ALAGAD O PARA SA "
+"ANUMANG KAHIMTANG, ESPESYAL, KONSEPENTAL, PAGSULAT O KAPALIGTONG, HINUMDOMAN"
+" NGA GIHIMO AT GIPATABANG SA ANONG KAAYO SA LIABILIDAD (PAGLABOT SA "
+"NEGLIGADO), PAG-ARON SA PAGTUO SA KATAPUSAN KINI NGA MGA OBLIGASYON "
+"HEREUNDER, KON UNSAY O DILI MAKAPANGITA BAHIN ANG KATUMAN SA KATUNGDANAN SA "
+"MGA HINUMDOM NGA DAMANG."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"TUNGOD SA UBANG MGA HINUNGDANAN / JURISDICTIONS WALA GIHIMO ANG KAHIMTANG O "
+"KATAWHANAN SA KATAWHANAN PARA SA KONSEPENTAL O KATUNGDANAN NGA MGA DAMAGDAN,"
+" ANG KATAPUSANG PAGHIMO DILI MAHIMO MAPAKITA SA INYO, SA KINAHANGLAN ANG "
+"ATONG KATAWHANAN GIHIMO KATUYOAN SA MAONG MAAYONG LAKSAN."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Personal nga Impormasyon ug Pahayag sa Privacy:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Imong sundon ang tanan nga magamit nga pagkapribado ug uban pang mga balaod,"
+" mga lagda, regulasyon ug mga giya nga may kalabutan sa proteksyon, "
+"pagkolekta, paggamit ug pag-apod-apod sa Personal nga Pagkilala nga "
+"Impormasyon (ingon gipiho sa ubos) sa bisan kinsa nga tawo. Mag-post ka usa "
+"ka pahayag sa pagkapribado sa panid kung diin nakolekta nimo ang Personal "
+"nga Pagkilala nga Impormasyon (&#39;Pahayag sa Pagkapribado&#39;) nga "
+"nagsunod sa tanan nga mga magamit nga balaod, mga lagda, mga regulasyon ug "
+"mga panudlo ug, sa labing gamay, gipahibalo ang mga tiggamit sa Personal nga"
+" Pagkilala nga Impormasyon nga nakolekta, giunsa kini gamiton ug kung giunsa"
+" kini pagseguro, ug nga gipaila ang paagi sa pagkolekta (cookies, web beacon"
+" o uban pang mga magamit nga paagi) ug ang paggamit sa kasayuran nga "
+"nakolekta nga may kalabotan sa mga Serbisyo, pagkuha sa wala’y nahibal-an "
+"nga pagtugot (opt-in) sa wala pa magamit ang bisan unsang mga teknolohiya sa"
+" pagsubay, kutob sa gikinahanglan sa mga magamit nga mga balaod ug "
+"regulasyon. Ang ingon usa ka Pahayag sa Pagkapribado maglakip usab sa "
+"kasayuran sa teknikal nga may kalabutan sa pagkolekta, paghatud ug pagtipig "
+"sa Inpormasyon nga Personal nga Mahibal-an nga gihatag sa amon pinaagi sa "
+"mga Serbisyo. Kung gikinahanglan pinaagi sa magamit nga balaod sa "
+"pagpanalipod sa datos o uban pang balaod o regulasyon, ipahibalo nimo ang "
+"mga ikatulo nga partido nga gihatagan nimo kami sa ilang Personal nga "
+"Pagkilala nga Impormasyon alang sa pagproseso ug masiguro nga ang bisan "
+"unsang kinahanglan nga mga ikatulong partido naghatag sa ilang pag-uyon sa "
+"maong pagbunyag ug pagproseso. Mouyon ka sa pagsunod sa mga paghulagway ug "
+"mga probisyon sa Pahayag sa Pagkapribado. Ang &#39;Personal nga Pagkilala "
+"nga Impormasyon&#39; nagpasabut sa bisan unsang kasayuran nga mahimong iupod"
+" o masubay sa bisan kinsa nga indibidwal, lakip ang ngalan sa usa ka tawo, "
+"adres, numero sa telepono, e-mail address, kasayuran sa credit card, numero "
+"sa seguridad sa sosyal o uban pang parehas nga piho nga kasayuran nga "
+"tinuud, bisan unsa pa man ang media diin gitago ang maong kasayuran "
+"(pananglitan sa papel o elektroniko)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Miscellaneous:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Independent Partido: Ikaw ug CaseActive mga independente nga mga "
+"kontraktor. Ang Kasabutan wala maghimo bisan unsang hiniusa nga pakigpulong,"
+" panag-uban, ahensya o relasyon sa trabaho taliwala sa mga partido. Ikaw ang"
+" mahimong responsable sa pagdumala sa imong mga empleyado ug alang sa bisan "
+"unsa ug tanan nga bayad, buhis, benepisyo ug responsibilidad sa imong mga "
+"empleyado ug bisan kinsa sa imong uban nga mga representante o mga service "
+"provider. Dili ikaw o ang bisan kinsa sa imong mga empleyado, representante,"
+" o mga taghatag sa serbisyo ang makahimo sa bisan unsang mga representasyon,"
+" garantiya o garantiya nga may pagtahod sa amon, sa Kasabutan o sa Serbisyo "
+"gawas sa tin-aw nga pagtugot sa amon sa pagsulat."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Assignment: Ni ang Kasabutan o bisan kinsa sa imong mga katungod o "
+"obligasyon sa ilalum sa Kasabutan mahimong itudlo o ibalhin, pinaagi sa "
+"operasyon sa balaod o kung dili, kung wala ang among sinulat nga pagtugot, "
+"gawas kung itudlo sa usa ka manununod nga interes, o subay sa usa ka "
+"panagsama, corporate pag-organisar pag-usab, o usa ka pagbaligya o pagbalhin"
+" sa tanan o labi ka tanan sa imong mga kabtangan nga imong gihatagan kami "
+"nga namatikdan labing menus katloan (30) ka adlaw sa wala pa matapos ang "
+"transaksyon. Ang usa ka buluhaton nga gihatag kanimo, nga gipasukad sa bisan"
+" unsang uban nga mga kahimtang, nanginahanglan sa una namon nga pagtugot, "
+"nga kini nga pagtugot dili dili mapugngan. Mahimo namon nga hilway magtakda "
+"sa kini nga Kasabutan nga wala’y pagtugot kanimo. Subay sa nahauna, ang kini"
+" nga Kasabutan mobugkos ug mosulud sa kaayohan sa mga partido, kaniadtong "
+"mga tagalunod ug gitugotan nga mga asaynment."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force Majeure: Bisan ang partido dili mahimong responsable alang sa "
+"bisan unsang pagdugay, pagkaguba o uban pang kapakyasan sa paghimo sa ilawom"
+" sa Kasabutan tungod sa mga buhat nga dili makontrol sa responsableng "
+"partido, apan hangtod sa hangtod nga ang ingon nga mga kondisyon magpadayon."
+" Ang mga panghitabo sa Force majeure naglakip, apan dili limitado sa: "
+"natural nga mga kalamidad (sama sa kilat, linog, bagyo, baha); mga gubat, "
+"kagubot, mga kalihokan sa terorista, ug komosyong sibil; usa ka lokal nga "
+"kalihokan sa tigpamalit, ug uban pang mga aksyon sa mga ikatulong partido; "
+"mga pagbuto ug sunog; panghimaraot, pag-atake ug mga panaglalis sa "
+"pagpatrabaho; mando sa gobyerno; mga kapakyasan sa mga tighatag sa "
+"telecommunication o mga taghatag sa serbisyo sa internet; mga kapakyasan sa "
+"mga tagtugyan sa ikatulo nga partido, mga service provider o mga vendor; ug "
+"bisan unsang uban pa nga hinungdan sa gawas sa makatarunganon nga pagpugong "
+"sa usa ka partido."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Pagpili sa Balaod: Ang Kasabutan ug ang bisan unsang panaglalis nga "
+"naggikan o may kalabotan sa Kasabutan pagamandoan ug ipadayag sa ilalum sa "
+"mga balaod sa Estado sa California, nga wala’y pagtahod sa mga prinsipyo sa "
+"panagbangi sa mga balaod. Ang tanan nga mga panaglalis nga gikan sa o may "
+"kalabutan sa Kasabutan mahimong ipailalom sa eksklusibo nga hurisdiksyon ug "
+"lugar sa estado sa California ug pederal nga mga korte para sa Santa "
+"Barbara, California, ug ang mga partido mouyon sa personal ug eksklusibo nga"
+" hurisdiksyon sa mga korte."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-mail ug Mga Paunawa: Imong dugang nga mouyon nga mahimo kaming "
+"maghatag sa bisan unsa ug tanan nga mga pahibalo, mga pahayag ug uban pang "
+"mga komunikasyon kanimo pinaagi sa e-mail, mail, serbisyo sa pagpahayag, o "
+"gipadala sa usa ka giila nga tigdala sa komersyal nga gitubag sa adres nga "
+"katapusan nga gitudlo sa Kasabutan. Ikaw ang responsable sa paghatag kanamo "
+"sa bisan unsang na-update nga impormasyon sa pagkontak."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Walay Waiver; Cululative Remedies: Wala mapakyas o paglangan sa bisan "
+"kinsa nga partido sa pagbuhat sa bisan unsang katungod sa ilalum sa kini nga"
+" Kasabutan nga mahimong usa ka pag-undang sa kana nga katungod. Gawas sa "
+"gipahayag dinhi, ang mga remedyo nga gihatag dinhi dugang pa, ug dili "
+"eksklusibo, bisan unsang ubang mga remedyo sa usa ka partido sa balaod o "
+"katarungan."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Kalig-on: Kung ang bisan unsang probisyon sa kini nga Kasabutan "
+"gihuptan sa usa ka korte nga adunay katakus nga hurisdiksyon nga sukwahi sa "
+"balaod, ang probisyon kinahanglan nga bag-ohon sa korte ug mahubad aron labi"
+" ka labing matuman ang mga katuyoan sa orihinal nga probisyon sa tibuuk nga "
+"gitugutan sa balaod, ug ang nahabilin nga mga probisyon sa kini nga "
+"Kasabutan kinahanglan magpabilin nga bug-os nga kusog ug epekto."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Tibuok nga Kasabutan: Hangtud sa labing taas nga gitugot sa magamit nga"
+" balaod, kini nga Kasabutan, kauban ang mga dokumento nga gihisgutan dinhi "
+"ug ang tanan nga mga Order Form ug mga pag-sign up, naglangkob sa tibuuk nga"
+" kasabutan tali sa mga partido kalabot sa hilisgutan niini, ug gipulihan ang"
+" tanan kaniadto ug sa hunahuna nga mga kasabutan, panukiduki o "
+"representasyon, gisulat o oral, bahin sa hilisgutan sa kini nga Kasabutan. "
+"Wala’y representasyon, saad o saad ang makuha nga gihatag o ipahiuyon gikan "
+"sa bisan unsang gisulti o nasulat sa mga negosasyon tali sa mga partido sa "
+"wala pa kini nga Kasabutan gawas kung ingon sa tin-aw nga gipahayag sa kini "
+"nga Kasabutan. Wala’y partido nga adunay bisan unsang solusyon sa pagtahod "
+"sa bisan unsang dili tinuod nga pahayag nga gihimo sa us aka partido nga "
+"gisaligan sa maong partido sa pagsulod sa kini nga Kasabutan (gawas kung ang"
+" dili tinuud nga pamahayag gihimo nga malimbungon) ug nga ang usa ka partido"
+" nga solusyon sa pagtahod sa bisan unsang dili tinuud nga pahayag ang mahimo"
+" alang sa paglapas sa kontrata sama sa gihatag sa kini nga Kasabutan. Giila "
+"nimo ug miuyon ka nga ang imong kasabutan wala dinhi wala mag-agad sa "
+"pagdala sa bisan unsang umaabot nga pag-andar o mga bahin nga wala "
+"mahisgutan dinhi o sa usa ka Order Form o nagsalig sa bisan unsang oral o "
+"sinulat, publiko o pribado nga mga komentaryo nga gihimo sa amon bahin sa "
+"umaabot nga pag-andar o mga bahin alang sa Mga Serbisyo. Kung adunay bisan "
+"unsang panagbangi tali sa mga probisyon sa mga Kinatibuk-ang Mga Termino sa "
+"Serbisyo ug bisan unsang Order Form o Dugang nga Mga Termino sa Pag-alagad, "
+"ang mga termino sa ingon nga Order Form o Dugang nga Mga Termino sa Pag-"
+"alagad ang molungtad, hangtod sa ingon nga panagbangi. Wala’y mga termino o "
+"kondisyon nga gipahayag sa imong order sa pagpalit o sa bisan unsang uban "
+"nga imong dokumentasyon sa pag-order nga iapil sa o paghimo sa bisan unsang "
+"bahin sa kini nga Kasabutan, ug ang tanan nga mga termino o kondisyon nga "
+"dili mahimong wala’y hinungdan."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Pag-export: Ang duha nga partido mouyon sa pagsunod sa mga magamit nga "
+"mga balaod sa US sa pag-export ug pag-import ug pag-import. Dili nimo "
+"tugutan ang imong mga tiggamit nga maka-access o mogamit sa mga Serbisyo nga"
+" naglapas sa bisan unsang panghimara, pagbawal o pagdili sa pag-export sa "
+"US."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publisidad: Tingali dili kita nimo tawgon nga tiggamit sa Mga Serbisyo"
+" nga wala ang imong sinulat nga pagtugot."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Mga link sa mga Site nga Pangatlo sa Partido: Ang Mga Serbisyo o ang "
+"among website mahimo nga maglakip sa mga link sa mga site sa ikatulo nga "
+"partido (&#39;Mga Dugtong nga site&#39;). Ang mga Nakalakip nga mga site "
+"wala sa ilawom sa among pagkontrol ug kami dili responsable alang sa sulud "
+"sa bisan unsang Nalambigit nga Site, lakip ang wala’y paglimita sa bisan "
+"unsang link nga adunay sulod sa usa ka Nahiangay nga Site, o bisan unsang "
+"mga pagbag-o o pag-update sa usa ka Link nga Site o mga Serbisyo nga gihatag"
+" pinaagi sa usa ka Link Site. Gihatagan namon kini nga mga link kanimo "
+"lamang ingon usa ka kasayon, ug ang paglakip sa bisan unsang link wala "
+"magpasabut sa pag-endorso sa amon sa site o sa bisan unsang kaubanan nga "
+"serbisyo nga gihatag sa site."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Nag-uyon ka nga makadawat mga email, tawag sa telepono ug mga mensahe "
+"sa SMS gikan sa CaseActive aron maghatag mga pag-update sa imong order ug / "
+"o alang sa mga katuyoan sa pagpamaligya. Ang kadaghan sa mensahe naa sa "
+"imong kalihokan. Mahimo ka magpili pinaagi sa pag-uncheck sa mga pahibalo "
+"gikan sa imong account o pagtangtang sa imong account. Mahimong magamit ang "
+"mga rate sa mensahe ug datos."
+
+msgid "An error occurred"
+msgstr "Usa ka sayup ang nahitabo"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Naay nahitabo. Gipahibalo ang among mga engineer. Pindota ang reload button "
+"aron ma-reload."
+
+msgid "Reload"
+msgstr "I-reload"

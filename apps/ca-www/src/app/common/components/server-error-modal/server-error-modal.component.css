@@ -1,0 +1,31 @@
+p {
+  margin-bottom: 30px;
+}
+
+img {
+  display: block;
+  margin: 0 auto 30px;
+}
+
+.server-error-popup .box-inner {
+  background-color: #f7f9fb;
+  padding: 26px 29px 0;
+  width: 600px;
+}
+
+.server-error-popup h2 {
+  border-bottom: none;
+  margin-top: 40px;
+  padding: 0;
+}
+
+p,
+h2 {
+  text-align: center;
+}
+
+@media only screen and (max-width: 47.5em) {
+  .server-error-popup .box-inner {
+    width: auto;
+  }
+}

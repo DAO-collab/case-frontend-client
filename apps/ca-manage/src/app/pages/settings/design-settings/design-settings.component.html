@@ -1,0 +1,349 @@
+<article id="content" class="module-d">
+  <form action="./" method="post" joyrideStep="beatify_app">
+    <h3 translate>Design Settings</h3>
+    <canvas #canvasval class="hide"></canvas>
+    <p class="file-a a">
+      <span class="label" translate>Favicon:</span>
+      <label for="fla" [ngClass]="{ noUploadedYet: noFavicon }">
+        <!-- Favicon loader -->
+        <span class="notice-a b">
+          <span class="file-title-box text-center" translate
+            >{{ uploadProgress['favicon'].stepName }}
+            <i *ngIf="uploadProgress['favicon'].value">{{ uploadProgress['favicon'].value + '%' }}</i></span
+          >
+          <span
+            class="progress-bar"
+            *ngIf="uploadProgress['favicon'].value"
+            [style.width.%]="uploadProgress['favicon'].value"
+          ></span>
+        </span>
+
+        <input
+          type="file"
+          (change)="setUploadingProperties($event, 'favicon')"
+          accept=".ico, .png"
+          id="fla"
+          name="fla"
+        />
+        <img
+          *ngIf="faviconSrc"
+          class="margin-icon"
+          (error)="noFavicon = true"
+          (load)="imageLoaded(this, 'noFavicon')"
+          [src]="faviconSrc"
+        />
+        <span class="drag" [ngClass]="{ hiddenImg: faviconSrc }" translate>Add</span>
+        <span class="btn" translate>Change file</span>
+        <a
+          appConfirmationPopUp
+          [includeLoader]="true"
+          [showLoader]="popupDeletionGoes"
+          [message]="'You are about to delete favicon. Are you sure?'"
+          title="Delete Favicon"
+          (yes)="deleteLogoOrFavicon(SystemType.Favicon)"
+          translate
+          >Delete Favicon</a
+        >
+      </label>
+    </p>
+
+    <p class="file-a a">
+      <span class="label" translate>Logo:</span>
+      <label for="fla2" [ngClass]="{ noUploadedYet: noLogo }">
+        <!-- Logo loader -->
+        <span class="notice-a b">
+          <span class="file-title-box text-center" translate
+            >{{ uploadProgress['logo'].stepName }}
+            <i *ngIf="uploadProgress['logo'].value">{{ uploadProgress['logo'].value + '%' }}</i></span
+          >
+          <span
+            class="progress-bar"
+            *ngIf="uploadProgress['logo'].value"
+            [style.width.%]="uploadProgress['logo'].value"
+          ></span>
+        </span>
+
+        <input type="file" (change)="setUploadingProperties($event, 'logo')" accept=".png" id="fla2" name="fla2" />
+        <img
+          *ngIf="logoSrc"
+          class="y-centered-image margin-icon"
+          (error)="noLogo = true"
+          (load)="noLogo = false"
+          [src]="logoSrc"
+          (load)="getImage(logoSrc)"
+        />
+        <span class="drag" [ngClass]="{ hiddenImg: logoSrc }" translate>Add</span>
+        <span class="btn" translate>Change file</span>
+        <a
+          appConfirmationPopUp
+          [includeLoader]="true"
+          [showLoader]="popupDeletionGoes"
+          [message]="'You are about to delete logo. Are you sure?'"
+          title="Delete Logo"
+          (yes)="deleteLogoOrFavicon(SystemType.Logo)"
+          translate
+          >Delete Logo</a
+        >
+      </label>
+    </p>
+
+    <p class="triple a" #container>
+      <span>
+        <label for="mdc" translate>Text Color</label>
+        <span class="color-input">
+          <input type="text" [disabled]="true" id="mdc" name="mdc" [(ngModel)]="designData.colors.text" />
+          <span class="color-picker" #cPickerField>
+            <span
+              class="color"
+              data-color="#f9a92c"
+              [style.borderColor]="'rgb(' + designData.colors.text + ')'"
+              [style.backgroundColor]="'rgb(' + designData.colors.text + ')'"
+            ></span>
+            <span class="picker">
+              <span class="source">
+                <span [style.backgroundColor]="'rgb(' + designData.colors.text + ')'"></span>
+                <span class="color-picker-activate-box">
+                  <input
+                    type="color"
+                    [value]="newColor"
+                    name="newColor"
+                    (change)="setNewColor($any(designData.colors), newColor, 'text'); saveDesign()"
+                    [style.background]="newColor"
+                    [(ngModel)]="newColor"
+                  />
+                </span>
+              </span>
+              <label for="recommended-colors" *ngIf="recommendedColors.length" translate>Recommended Colors:</label>
+              <span class="memory" id="recommended-colors">
+                <span
+                  *ngFor="let cl of recommendedColors"
+                  (click)="designData.colors.text = cl; saveDesign()"
+                  data-color="#f9a92c"
+                  [style.borderColor]="'rgb(' + cl + ')'"
+                  [style.backgroundColor]="'rgb(' + cl + ')'"
+                ></span>
+              </span>
+              <span class="input">
+                <label for="cla" translate>RGB:</label>
+                <input type="text" id="cla" name="cla" [disabled]="true" [(ngModel)]="designData.colors.text" />
+              </span>
+            </span>
+          </span>
+        </span>
+
+        <a
+          class="reset-color-btn"
+          *ngIf="designData.colors.text !== defaultTextColor"
+          appConfirmationPopUp
+          (yes)="removeStyle('text', defaultTextColor)"
+          [includeLoader]="false"
+          [showLoader]="false"
+          [message]="'You are about to reset Text Color. Are you sure?'"
+          title="Reset Text Color"
+          translate
+          >reset</a
+        >
+      </span>
+      <span>
+        <label for="mdd" translate>Background Color</label>
+        <span class="color-input">
+          <input type="text" [disabled]="true" id="mdd" name="mdd" [(ngModel)]="designData.colors.background" />
+          <span class="color-picker" #cPickerField>
+            <span
+              class="color"
+              data-color="#f96b2c"
+              [style.borderColor]="'rgb(' + designData.colors.background + ')'"
+              [style.backgroundColor]="'rgb(' + designData.colors.background + ')'"
+            ></span>
+            <span class="picker">
+              <span class="source">
+                <span [style.backgroundColor]="'rgb(' + designData.colors.background + ')'"></span>
+                <span class="color-picker-activate-box">
+                  <input
+                    type="color"
+                    [value]="newColor"
+                    name="newBackground"
+                    (change)="setNewColor($any(designData.colors), newBackground, 'background'); saveDesign()"
+                    [style.background]="newBackground"
+                    [(ngModel)]="newBackground"
+                  />
+                </span>
+              </span>
+              <label for="recommended-colors" *ngIf="recommendedColors.length" translate>Recommended Colors:</label>
+              <span class="memory">
+                <span
+                  *ngFor="let cl of recommendedColors"
+                  (click)="designData.colors.background = cl; saveDesign()"
+                  [style.borderColor]="'rgb(' + cl + ')'"
+                  [style.backgroundColor]="'rgb(' + cl + ')'"
+                ></span>
+              </span>
+              <span class="input">
+                <label for="clb" translate>Hex:</label>
+                <input type="text" id="clb" name="clb" [disabled]="true" [(ngModel)]="designData.colors.background" />
+              </span>
+            </span>
+          </span>
+        </span>
+
+        <a
+          class="reset-color-btn"
+          *ngIf="designData.colors.background !== defaultBackgroundColor"
+          appConfirmationPopUp
+          (yes)="removeStyle('background', defaultBackgroundColor)"
+          [includeLoader]="false"
+          [showLoader]="false"
+          title="Reset Background Color"
+          [message]="'You are about to reset Background Color. Are you sure?'"
+          translate
+          >reset</a
+        >
+      </span>
+    </p>
+  </form>
+
+  <h3 translate>Company Info</h3>
+  <p class="file-a a company-info">
+    <span class="label" translate>Name</span>
+    <label>
+      <input
+        type="text"
+        name="company_name"
+        id="company_name"
+        class="form-control"
+        [(ngModel)]="companyName"
+        (ngModelChange)="companyInfoUpdate.next($event)"
+      />
+    </label>
+  </p>
+  <p class="file-a a company-info">
+    <span class="label" translate>Website</span>
+    <label>
+      <input
+        type="text"
+        name="company_website"
+        id="company_website"
+        class="form-control"
+        [(ngModel)]="companyWebsite"
+        (ngModelChange)="companyInfoUpdate.next($event)"
+      />
+    </label>
+  </p>
+  <p class="file-a a company-info">
+    <span class="label" translate>Terms of Use URL</span>
+    <label>
+      <input
+        type="text"
+        name="company_url"
+        id="company_url"
+        class="form-control"
+        [(ngModel)]="companyTerms"
+        (ngModelChange)="companyInfoUpdate.next($event)"
+      />
+    </label>
+  </p>
+
+  <h3 translate #userSignup>User Signup</h3>
+
+  <form action="" [formGroup]="usedSignupInfoForm" class="user-signup" *ngIf="hasUserSignUpResponseCame">
+    <div class="signup-url-wrapper" *ngIf="usedSignupInfoForm.value.allowSignup">
+      <span class="signup-url">{{ 'Public User Signup link:' | translate }} {{ signupUrl }}</span>
+      <!-- <div class="popup-copy-icon-wrapper">
+        <img class="signup-copy-icon copy-svg-icon" src="images/copy-icon-inactive.svg" alt="" (click)="copyText()" />
+      </div> -->
+      <ca-copy (click)="copyText()"></ca-copy>
+    </div>
+    <p class="file-a a company-info">
+      <span class="label" translate>Allow Signup</span>
+      <label>
+        <ng-select
+          name="allow-signup"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="allowSignup"
+          [items]="usedSignupOptions.allowSignup"
+          (ngModelChange)="userSignUpOptionsUpdated.next($event)"
+        ></ng-select>
+      </label>
+    </p>
+
+    <p class="file-a a company-info">
+      <span class="label" translate>Auto Create Case</span>
+      <label>
+        <ng-select
+          name="create-case"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="createCase"
+          [items]="usedSignupOptions.createCase"
+          (ngModelChange)="userSignUpOptionsUpdated.next($event)"
+        ></ng-select>
+      </label>
+    </p>
+
+    <p class="file-a a company-info" *ngIf="usedSignupInfoForm.value.createCase">
+      <span class="label" translate>Case User Role</span>
+      <label *ngIf="usedSignupOptions.userCaseRole.length">
+        <ng-select
+          name="user-case-role"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="userCaseRole"
+          [items]="usedSignupOptions.userCaseRole"
+          (ngModelChange)="userSignUpOptionsUpdated.next($event)"
+        ></ng-select>
+      </label>
+    </p>
+  </form>
+
+  <h3 translate>Google Analytics</h3>
+
+  <form method="post" [formGroup]="analyticsForm" [ngClass]="{ touchedSubmit: analyticsFormTouched }">
+    <p class="triple a">
+      <span>
+        <label for="mdb" translate>Analytics Key</label>
+        <input id="mdb" name="key" formControlName="analyticsId" />
+        <br />
+        <a
+          appConfirmationPopUp
+          class="reset-color-btn"
+          (yes)="deleteAnalyticsKey()"
+          *ngIf="analyticsData.analytics_id"
+          title="Delete Key"
+          [message]="'You are about to delete key. Are you sure?'"
+          translate
+          >delete</a
+        >
+      </span>
+    </p>
+  </form>
+</article>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="showCropModal"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  (submit)="handleFileUpload($event, imageChangedEvent, uploadingType)"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Crop Image</h2>
+
+      <div class="canvas-holder">
+        <image-cropper
+          [aspectRatio]="16 / 9"
+          [imageChangedEvent]="imageChangedEvent"
+          format="png"
+          (imageCropped)="imageCropped($event)"
+        ></image-cropper>
+      </div>
+
+      <p class="submit">
+        <button type="submit" class="f-right" translate>Save</button>
+      </p>
+      <a class="close" (click)="hideCropPopup()" translate>Close</a>
+    </div>
+    <a class="close" (click)="hideCropPopup()" translate>Close</a>
+  </div>
+</form>

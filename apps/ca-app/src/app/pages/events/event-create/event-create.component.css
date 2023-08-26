@@ -1,0 +1,247 @@
+ng-select.location-input {
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+}
+
+label.location-icon {
+  display: inline-block;
+  width: 46px;
+  text-align: center;
+  font-size: 26px;
+  height: 35px;
+  line-height: 45px;
+  vertical-align: top;
+}
+
+.fix-field-margins {
+  margin-top: 15px;
+  display: block;
+  margin-bottom: 15px;
+}
+
+ng-select.repeat-every {
+  display: inline-block;
+  width: 145px;
+  position: relative;
+  vertical-align: top;
+}
+
+label.checkbox-container.centered-checkbox {
+  width: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+label.left-label {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.recurring-block {
+  display: block;
+  float: none;
+  margin-top: 10px;
+}
+
+label.checkbox-container.centered-checkbox .checkmark {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+article.rrule-holder input.flatpickr-input {
+  min-width: 125px;
+  text-align: center;
+}
+
+span.drop-a.drop-status {
+  padding: 0px;
+  max-width: none;
+}
+
+.drop-a > .drop a {
+  min-width: 138px;
+  text-align: left;
+}
+
+.drop label.checkbox-container.centered-checkbox {
+  float: right;
+  top: -6px;
+  left: 18px;
+}
+
+.no-float {
+  float: none;
+}
+
+.no-float:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+@media only screen and (max-width: 47.5em) {
+  .custom-fields-group span.permissions-field {
+    display: block;
+    width: 100%;
+    padding: 0;
+  }
+}
+
+@media (min-width: 761px) {
+  .custom-fields-group span.permissions-field {
+    display: inline-block;
+  }
+}
+
+.icon-time {
+  font-size: 20px;
+  position: absolute;
+  z-index: 2;
+  right: 15px;
+  bottom: 12px;
+}
+
+.strong {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+}
+
+.list-h img {
+  top: unset;
+}
+
+.list-h li {
+  display: flex;
+  align-items: center;
+  padding: 7px 0 0 50px;
+}
+
+.input-remove {
+  position: unset;
+}
+
+.ntf-item.input-remove {
+  min-height: 40px;
+  max-width: 30px;
+}
+
+.attendees app-checkbox-select ::ng-deep .view-perimissions {
+  width: 100%;
+}
+
+.attendees app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .input {
+  height: 40px;
+  line-height: 38px;
+}
+
+.attendees app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .text {
+  display: none;
+}
+
+.attendees app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .select-ffe {
+  top: 43px;
+}
+
+.attendees app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .select-ffe li a {
+  line-height: 40px !important;
+  color: #3f3f3f;
+}
+
+.attendees app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .select-ffe li label {
+  top: 10px;
+}
+
+h3 {
+  border: 0;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: none;
+}
+
+.form-container {
+  display: flex;
+}
+
+.form-block {
+  flex: 1;
+  margin-bottom: 20px;
+}
+
+.inner-scroll {
+  overflow: auto;
+  max-height: 350px;
+}
+
+.form-block-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.bottom-split {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.form-block.left-margin {
+  margin-left: 15px;
+}
+
+.form-block.right-margin {
+  margin-right: 15px;
+}
+
+p.submit a {
+  float: left;
+}
+
+p.submit button span {
+  text-transform: none !important;
+}
+
+h3 {
+  margin-bottom: 5px;
+}
+
+.participants-list {
+  max-height: 200px;
+}
+
+.full-width.no-float {
+  margin-bottom: 10px;
+}
+
+:host ::ng-deep .rrule-holder p {
+  margin-bottom: 5px;
+}
+
+:host ::ng-deep .bordered-lable {
+  margin-bottom: 10px !important;
+}
+
+label {
+  margin-bottom: 0;
+}
+
+.full-width.no-float > p {
+  margin-bottom: 0;
+}
+
+.float-right {
+  float: right;
+}
+
+@media only screen and (max-width: 1000px) {
+  .form-container {
+    flex-direction: column;
+  }
+
+  .form-block {
+    width: 100%;
+    margin: 5px !important;
+  }
+
+  .mobile-bottom-split {
+    border-bottom: 1px solid #dbdbdb;
+  }
+}

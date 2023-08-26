@@ -1,0 +1,170 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="!keys?.length && !loading" class="text-center">
+    <p translate>No Keys yet.</p>
+  </div>
+
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="keys.length && !loading">
+      <tr>
+        <th translate>Description</th>
+        <th translate>Source CIDR</th>
+        <th>Domain</th>
+        <th>Last used</th>
+        <th>Last used IP</th>
+        <th translate>Active</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let key of keys">
+        <td>{{ key.description }}</td>
+        <td>{{ key.source_cidr }}</td>
+        <td>{{ key.domain }}</td>
+        <td>{{ key.last_used | date }}</td>
+        <td>{{ key.last_used_ip }}</td>
+        <td>{{ (key.active ? 'Yes' : 'No') | translate }}</td>
+        <td>
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="editKey(key)" translate>
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit
+              </a>
+              <a
+                appConfirmationPopUp
+                title="Delete Key"
+                message="You are about to delete key. Are you sure?"
+                (yes)="removeKey(key?.asset_id!)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Remove
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</article>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="activeKeyPopUp"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="addKeyForm"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2>
+        {{ (editingKey ? 'Edit Key' : 'Add Key') | translate }}
+        <span *ngIf="editingKey"> > {{ editingKey.asset_id?.slice(editingKey.asset_id!.lastIndexOf('-') + 1) }}</span>
+      </h2>
+
+      <p class="half-width">
+        <label for="keyDescription" class="required" translate>Description</label>
+        <input #keyDescriptionInput type="text" id="keyDescription" formControlName="description" />
+        <app-error
+          [fieldValue]="addKeyForm.get('description')?.value"
+          [validationErrors]="validationErrors"
+          [field]="keyDescriptionInput"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p class="half-width">
+        <label for="keySource" translate>Source CIDR</label>
+        <input #KeySourceCidrInput type="text" id="keySource" formControlName="source_cidr" />
+        <app-error
+          [fieldValue]="addKeyForm.get('source_cidr')?.value"
+          [validationErrors]="validationErrors"
+          [field]="KeySourceCidrInput"
+          [validation]="{ required: false }"
+        ></app-error>
+        <span class="form-hint">0.0.0.0/32</span>
+        <span
+          style="display: block; color: #d75a4a; line-height: 24px"
+          *ngIf="
+            addKeyForm.controls['source_cidr'].invalid &&
+            addKeyForm.controls['source_cidr'].touched &&
+            addKeyForm.controls['source_cidr'].value
+          "
+          >&#8226;<span style="margin-left: 10px" translate>is invalid.</span></span
+        >
+      </p>
+
+      <p class="half-width keys-select">
+        <label for="domainSourceValues" class="required" translate>Domain</label>
+        <ng-select
+          #DomainSourceSelect
+          id="domainSourceValues"
+          bindLabel="text"
+          bindValue="id"
+          [items]="domainValues"
+          formControlName="domain"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="addKeyForm.get('domain')?.value"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p class="half-width" style="display: flex; align-items: center">
+        <label class="left-label" style="margin-right: 10px" for="keyActive" translate>Active</label>
+        <label class="checkbox-container">
+          <input type="checkbox" id="keyActive" formControlName="active" />
+          <span class="checkmark"></span>
+        </label>
+      </p>
+
+      <p class="submit">
+        <button type="button" class="f-right" [disabled]="savingKey" (click)="saveKey()">
+          {{ 'Save' | translate }}
+        </button>
+      </p>
+      <a class="close" (click)="refreshModal()">Close</a>
+    </div>
+    <a class="close" (click)="refreshModal()">Close</a>
+  </div>
+</form>
+
+<form method="post" class="popup-a a form-d shown" *ngIf="activeSecretPopUp">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Secret Key</h2>
+
+      <p>
+        <label translate>Make sure to copy your new secret key now. You won’t be able to see it again!</label>
+        <span style="display: flex">
+          <input #secretKeyInput type="text" [value]="secretKey" />
+          <button
+            type="button"
+            style="margin: 0 0 0 10px; padding: 0 10px 0 8px"
+            (click)="copySecretKey(secretKeyInput)"
+          >
+            <i class="icon-clipboard" style="font-size: 21px; vertical-align: sub"></i>
+          </button>
+        </span>
+      </p>
+
+      <p class="submit">
+        <button type="button" class="f-right" (click)="refreshSecretModal(false)" translate>Save</button>
+      </p>
+      <a class="close" (click)="refreshSecretModal(false)">Close</a>
+    </div>
+    <a class="close" (click)="refreshSecretModal(false)">Close</a>
+  </div>
+</form>

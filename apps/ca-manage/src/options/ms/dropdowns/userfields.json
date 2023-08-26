@@ -1,0 +1,18 @@
+{
+  "family_name": "Nama terakhir",
+  "given_name": "Nama pertama",
+  "locale": "Bahasa pilihan",
+  "zoneinfo": "Zon masa",
+  "email": "Alamat emel",
+  "phone": "Nombor telefon",
+  "address1": "Alamat Jalan",
+  "address2": "Apt # atau Unit #",
+  "locality": "Bandar atau Kawasan",
+  "region": "Negeri atau Wilayah",
+  "postal_code": "Poskod atau Poskod",
+  "country": "Negara",
+  "birthdate": "Tarikh lahir",
+  "gender": "Jantina",
+  "company": "Syarikat",
+  "title": "Tajuk Nama"
+}

@@ -1,0 +1,18 @@
+{
+  "family_name": "Perekonnanimi",
+  "given_name": "Eesnimi",
+  "locale": "Eelistatud keel",
+  "zoneinfo": "Ajav\u00f6\u00f6nd",
+  "email": "E-posti aadress",
+  "phone": "Telefoninumber",
+  "address1": "T\u00e4nava aadress",
+  "address2": "Apt # v\u00f5i \u00fchiku nr",
+  "locality": "Linn v\u00f5i paikkond",
+  "region": "Riik v\u00f5i piirkond",
+  "postal_code": "Postiindeks",
+  "country": "Riik",
+  "birthdate": "S\u00fcnnikuup\u00e4ev",
+  "gender": "Sugu",
+  "company": "Firma",
+  "title": "Nimi pealkiri"
+}

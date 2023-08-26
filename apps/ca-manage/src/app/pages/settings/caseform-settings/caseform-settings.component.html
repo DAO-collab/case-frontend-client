@@ -1,0 +1,135 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['../../settings/caseform']">{{ 'Case Form' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/userform']">{{ 'User Form' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/noteform']">{{ 'Notes Form' | translate }}</a>
+    </p>
+  </div>
+</nav>
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <form (submit)="save()" *ngIf="!loading">
+    <p class="notice-a success" *ngIf="message" translate>{{ message }}</p>
+    <p class="form-h-element notice-a success" *ngIf="errorMessage">{{ errorMessage }}</p>
+
+    <app-add-field (add)="addField()" (typeChange)="onTypeChange($event)"></app-add-field>
+
+    <div class="table-wrapper">
+      <table class="table-a cform-field-lists">
+        <thead>
+          <tr>
+            <th width="15%" translate>Label Name</th>
+            <th width="10%" translate>Type</th>
+            <th width="20%" translate>Defaults</th>
+            <th width="5%" translate class="centered-text">Required</th>
+            <th width="5%" translate class="centered-text">Active</th>
+            <th width="5%" translate class="centered-text">Edit</th>
+            <th width="5%" translate class="centered-text">Delete</th>
+            <th class="draggable-point centered-text">Arrange</th>
+          </tr>
+        </thead>
+        <tbody class="table-draggable-list" cdkDropList (cdkDropListDropped)="drop($event)">
+          <!-- Static Fields -->
+          <tr *ngFor="let field of staticFields; let i = index" [joyrideStep]="field.title | toSnakeCase">
+            <td>{{ field.title }}</td>
+            <td>{{ field.fieldType }}</td>
+            <td class="default-edit">
+              <span>{{ getDefaultValue(field) }}</span>
+            </td>
+            <td class="va-middle">
+              <label class="checkbox-container centered-checkbox">
+                <input type="checkbox" name="{{ field.required }}" [disabled]="true" [checked]="field.required" />
+                <span class="checkmark"></span>
+              </label>
+            </td>
+            <td class="va-middle">
+              <label class="checkbox-container centered-checkbox">
+                <input type="checkbox" [disabled]="true" [checked]="true" />
+                <span class="checkmark"></span>
+              </label>
+            </td>
+            <td class="table-draggable-list-item va-middle centered-text">
+              <i
+                *ngIf="field.editable === true"
+                class="icon-edit edit-def-icon align-icon-edit"
+                (click)="activateNativeModal(field)"
+              ></i>
+            </td>
+            <td class="va-middle"></td>
+            <td></td>
+          </tr>
+          <!-- Dynamic Fields -->
+          <tr
+            class="table-draggable-list-box"
+            *ngFor="let field of schemaList(); let i = index"
+            cdkDrag
+            cdkDragLockAxis="y"
+          >
+            <td class="table-draggable-list-item">{{ field.title }}</td>
+            <td class="table-draggable-list-item">{{ field.fieldType }}</td>
+            <td class="table-draggable-list-item default-edit" *ngIf="field.fieldType !== 'time'">
+              <span>{{ getDefaultValue(field) }}</span>
+            </td>
+            <td class="table-draggable-list-item default-edit" *ngIf="field.fieldType === 'time'">
+              <span>{{ getDefaultValue(field) | time : true }}</span>
+            </td>
+            <td class="table-draggable-list-item va-middle">
+              <label class="checkbox-container centered-checkbox">
+                <input
+                  type="checkbox"
+                  name="{{ field.required + i }}"
+                  [disabled]="!field.readonly"
+                  [checked]="field.required"
+                  (change)="requiredChanged(field)"
+                />
+                <span class="checkmark"></span>
+              </label>
+            </td>
+            <td class="table-draggable-list-item va-middle">
+              <label class="checkbox-container centered-checkbox">
+                <input
+                  type="checkbox"
+                  name="{{ field.readonly + i }}"
+                  [checked]="field.readonly"
+                  (change)="readOnlyChanged(field)"
+                />
+                <span class="checkmark"></span>
+              </label>
+            </td>
+            <td class="table-draggable-list-item va-middle centered-text">
+              <i class="icon-edit edit-def-icon align-icon-edit" (click)="activateDefaultsModal(field, i)"></i>
+            </td>
+            <td class="table-draggable-list-item va-middle centered-text">
+              <i class="align-icon-remove icon-delete edit-def-icon cursor-pointer" (click)="deleteField(i)"></i>
+            </td>
+            <td class="table-draggable-list-item dragg-texture centered-text">
+              <i class="icon-arrow-move"></i>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </form>
+</article>
+
+<form method="post" class="popup-a a form-d shown" *ngIf="shownDefaultsModal">
+  <div class="box-outer">
+    <div class="box-inner add-post-popup">
+      <app-add-field-content
+        [editingField]="editingField"
+        [customValues]="customValues"
+        [editCustomFields]="editCustomFields"
+        (saveField)="saveDefaultValue()"
+      ></app-add-field-content>
+
+      <a class="close" (click)="shownDefaultsModal = false; stylesService.popUpDisactivated()">Close</a>
+    </div>
+    <a class="close" (click)="shownDefaultsModal = false; stylesService.popUpDisactivated()">Close</a>
+  </div>
+</form>

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Basaha ang tanan nga kaso nga field espesipiko sa papel",
+    "write": "Isulat ang tanang kaso nga field espesipiko sa papel"
+  },
+  "convos": {
+    "read_all": "Tan-awa ang kasamtangan nga kahimtang sa mga convo.",
+    "manage_own": "Apil ug unjoin convo.",
+    "moderate_others": "Pagsugod sa convo, pagtapos sa convo, ug pagtangtang sa partisipante.",
+    "read_all_submissions": "Basaha ang tanang narekord nga convo."
+  },
+  "events": {
+    "read_all": "Basaha ang tanang panghitabo.",
+    "manage_own": "Paghimo, pag-update ug pagtangtang sa kaugalingon nga panghitabo.",
+    "moderate_others": "I-update ug i-delete ang panghitabo sa uban.",
+    "read_all_submissions": "Basaha ang tanang kumpirmasyon sa panghitabo.",
+    "submit_own": "Kumpirma ang hangyo sa pagtambong sa panghitabo."
+  },
+  "posts": {
+    "read_all": "Basaha ang tanan nga mga post.",
+    "manage_own": "Paghimo, pag-update ug pagtangtang sa kaugalingon nga post.",
+    "moderate_others": "I-update ug i-delete ang post sa uban."
+  },
+  "forms": {
+    "read_all": "Basaha ang tanang porma.",
+    "manage_own": "Paghimo, pag-update ug pagtangtang sa kaugalingon nga porma.",
+    "moderate_others": "Pag-update ug pagtangtang sa porma sa uban.",
+    "read_all_submissions": "Basaha ang tanan nga mga pagsumite sa porma.",
+    "submit_own": "Isumite ang hangyo sa porma."
+  },
+  "invoices": {
+    "read_all": "Basaha ang tanan nga mga invoice.",
+    "manage_own": "Paghimo, pag-update ug pagtangtang sa kaugalingon nga invoice.",
+    "moderate_others": "Pag-update ug pagtangtang sa invoice sa uban.",
+    "read_all_submissions": "Basaha ang tanan nga mga pagsumite sa invoice.",
+    "submit_own": "Isumite ang hangyo sa invoice."
+  },
+  "notes": {
+    "read_all": "Basaha ang tanan nga mga nota.",
+    "manage_own": "Paghimo, pag-update ug pagtangtang sa kaugalingon nga nota.",
+    "moderate_others": "Pag-update ug pagtangtang sa nota sa uban."
+  },
+  "signs": {
+    "read_all": "Basaha ang tanang e-sign.",
+    "manage_own": "Paghimo, pag-update ug pagtangtang sa kaugalingon nga e-sign.",
+    "moderate_others": "Pag-update ug pagtangtang sa e-sign sa uban.",
+    "read_all_submissions": "Basaha ang tanang e-sign submissions.",
+    "submit_own": "Isumite ang hangyo sa uma."
+  },
+  "tasks": {
+    "read_all": "Basaha ang tanang buluhaton.",
+    "manage_own": "Paghimo, pag-update ug pagtangtang sa kaugalingon nga buluhaton.",
+    "moderate_others": "Pag-update ug pagtangtang sa buluhaton sa uban.",
+    "read_all_submissions": "Basaha ang tanang gisumiter nga buluhaton.",
+    "submit_own": "Isumiter ang hangyo sa buluhaton."
+  },
+  "team": { "read_all": "Basaha ang team sa kaso" }
+}

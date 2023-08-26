@@ -1,0 +1,109 @@
+<form
+  method="post"
+  title="upload-document"
+  class="popup-a a form-d shown"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="announcementForm"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 *ngIf="!broadcast" translate>Add Announcement</h2>
+      <h2 *ngIf="broadcast" translate>Edit Announcement</h2>
+
+      <div class="form">
+        <div class="form-container">
+          <div class="form-block">
+            <div>
+              <p class="full-width no-float">
+                <span class="full-width no-float">
+                  <label class="required" name="title" translate>Title</label>
+                  <input #titleF type="text" name="title" formControlName="title" />
+                  <app-error
+                    [fieldValue]="announcementForm.controls['title'].value"
+                    [field]="titleF"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block">
+            <p class="full-width">
+              <label class="required permissions-field">{{ 'Visibility' | translate }}</label>
+              <app-checkbox-select
+                [outputValue]="announcementForm.get('permissions')?.value"
+                [items]="usersTypesForNotAdmin || []"
+                [hideLable]="true"
+                (valueChange)="setPermissions($event)"
+              ></app-checkbox-select>
+
+              <app-error
+                [fieldValue]="announcementForm.get('permissions')?.value?.length"
+                [regularHtmlElementName]="'permissions'"
+                [validation]="{ required: true }"
+              ></app-error>
+            </p>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block">
+            <p class="full-width">
+              <span class="error-message" *ngIf="showPastDateOrTimeError" translate>Date and time should be at least one hour ahead</span>
+
+              <span class="half-width">
+                <label for="endDate" translate>Delete Date</label>
+                <input
+                  mwlFlatpickr
+                  type="text"
+                  id="endDate"
+                  class="form-control"
+                  [altInput]="true"
+                  altFormat="m/d/Y"
+                  formControlName="expire_date"
+                  (flatpickrChange)="toggleDate($event)"
+                />
+              </span>
+
+              <span class="half-width">
+                <label translate>Delete Time</label>
+                <ca-time-selector
+                  #selectStartTime
+                  [enabled]="true"
+                  [selectedTime]="announcementForm.get('expire_time')?.value"
+                  (open)="setDropDownSelectedPosition(selectStartTime)"
+                  (selected)="toggleTime($event)"
+                ></ca-time-selector>
+              </span>
+            </p>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block">
+            <p class="full-width">
+              <label class="required">{{ 'Message' | translate }}</label>
+              <textarea #message type="text" name="description" formControlName="message"></textarea>
+
+              <app-error
+                [fieldValue]="announcementForm.controls['message'].value"
+                [field]="message"
+                [validationErrors]="validationErrors"
+                [validation]="{ required: true }"
+              ></app-error>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="submit"></div>
+      <ca-button class="f-right" [text]="'Save'| translate" [isFilled]="true" [buttonType]="'submit'" [isDisabled]="isInvalid() || showPastDateOrTimeError" (btnClick)="saveNewAnnouncement()" [fontWeight]="600" margin="0 16px 0 0"></ca-button>
+
+      <a class="close" (click)="close()" translate>Close</a>
+    </div>
+    <a class="close" (click)="close()" translate>Close</a>
+  </div>
+</form>

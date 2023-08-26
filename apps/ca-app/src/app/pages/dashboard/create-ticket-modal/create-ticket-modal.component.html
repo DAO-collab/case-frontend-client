@@ -1,0 +1,59 @@
+<form
+  method="post"
+  title="upload-document"
+  class="popup-a a form-d shown"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="ticketForm"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Add Ticket</h2>
+
+      <div class="form">
+        <div class="form-container">
+          <div class="form-block">
+            <div>
+              <p class="full-width no-float">
+                <span class="full-width no-float">
+                  <label class="required" name="title" translate>Title</label>
+                  <input #titleF type="text" name="title" formControlName="title" />
+                  <!--                  <app-error-->
+                  <!--                    [fieldValue]="ticketForm.controls.title.value"-->
+                  <!--                    [field]="titleF"-->
+                  <!--                    [validationErrors]="validationErrors"-->
+                  <!--                    [validation]="{ required: true }"-->
+                  <!--                  ></app-error>-->
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block">
+            <div>
+              <p class="full-width">
+                <label class="required">{{ 'Message' | translate }}</label>
+                <textarea #message type="text" name="description" formControlName="message"></textarea>
+
+                <!--                <app-error-->
+                <!--                  [fieldValue]="ticketForm.controls.message.value"-->
+                <!--                  [field]="message"-->
+                <!--                  [validationErrors]="validationErrors"-->
+                <!--                  [validation]="{ required: true }"-->
+                <!--                ></app-error>-->
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p class="submit">
+        <button type="submit" class="f-right" (click)="saveNewTicket()" translate>Save</button>
+      </p>
+
+      <a class="close" (click)="close()" translate>Close</a>
+    </div>
+    <a class="close" (click)="close()" translate>Close</a>
+  </div>
+</form>

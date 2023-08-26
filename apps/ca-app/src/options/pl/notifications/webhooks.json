@@ -1,0 +1,8 @@
+{
+  "add_post": "post jest tworzony",
+  "modify_post": "post zosta\u0142 zmodyfikowany",
+  "delete_post": "post zostanie usuni\u0119ty",
+  "add_post_comment": "komentarz do wpisu jest tworzony",
+  "modify_post_comment": "komentarz do wpisu zosta\u0142 zmodyfikowany",
+  "delete_post_comment": "komentarz do wpisu zostanie usuni\u0119ty"
+}

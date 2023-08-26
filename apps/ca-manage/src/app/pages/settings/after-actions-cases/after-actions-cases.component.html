@@ -1,0 +1,132 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/after-actions-users']">{{ 'Assign Users' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/after-actions-templates']">{{ 'Add Templates' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['../../settings/after-actions-cases']">{{ 'Idle Cases' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+  <div class="action-title">
+    <h3 class="action-title-h3">
+      {{ 'When a case is idle, post this message' | translate }}
+    </h3>
+  </div>
+  <div class="table-wrapper">
+    <table class="table-b a">
+      <tr>
+        <th translate>Case Type</th>
+        <th translate>Idle Days</th>
+        <th translate>Post Id</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngIf="this.idleCaseList.length === 0">
+        <td class="text-center" colspan="4">No Idle Case</td>
+      </tr>
+      <ng-container *ngIf="this.idleCaseList.length > 0 && !loading">
+        <tr *ngFor="let idleCase of idleCaseList; let index = index">
+          <td class="left-align">{{ idleCase.case_type }}</td>
+          <td>{{ idleCase.value.idle_days }}</td>
+          <td>
+            <span *ngIf="idleCase.value.post_id !== ''">{{ postsById[idleCase.value.post_id] }}</span>
+          </td>
+          <td>
+            <span class="drop-a dropform">
+              <span class="value">--</span>
+              <span class="drop">
+                <a
+                  appConfirmationPopUp
+                  (yes)="runRemove(idleCase.case_type)"
+                  title="Delete Record"
+                  [message]="'You are about to delete record. Are you sure?'"
+                  translate
+                >
+                  <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                  Remove
+                </a>
+              </span>
+            </span>
+          </td>
+        </tr>
+      </ng-container>
+    </table>
+  </div>
+</article>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="shownAddModal"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="assignUserForm"
+  (submit)="createActions()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Set Idle Message</h2>
+      <p>
+        <label for="CaseTypeId" class="required">Case Type</label>
+        <ng-select
+          #caseTypeDropdownField
+          id="CaseTypeId"
+          bindLabel="text"
+          bindValue="id"
+          name="case-type-id-select"
+          placeholder="{{ 'No case type selected' | translate }}"
+          formControlName="case_type"
+          [items]="caseTypeList"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['case_type'].value"
+          [regularHtmlElementName]="caseTypeDropdownField"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p>
+        <label for="IdleDays" class="required">Idle Days</label>
+        <input type="number" id="IdleDays" formControlName="idle_days" #idleDaysField />
+        <app-error
+          [fieldValue]="assignUserForm.controls['idle_days'].value"
+          [regularHtmlElementName]="idleDaysField"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p>
+        <label for="PostId">Post ID</label>
+        <ng-select
+          #postsDropdownField
+          id="PostId"
+          bindLabel="text"
+          bindValue="id"
+          name="post-id-select"
+          placeholder="{{ 'No post selected' | translate }}"
+          formControlName="post_id"
+          [items]="feedPostsSelectList"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['post_id'].value"
+          [regularHtmlElementName]="postsDropdownField"
+          [validationErrors]="validationErrors"
+        ></app-error>
+      </p>
+      <p class="submit">
+        <button type="submit" class="f-right" translate>Save</button>
+      </p>
+      <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+  </div>
+</form>

@@ -1,0 +1,4445 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-04-30T18:34:19.177589\n"
+"PO-Revision-Date: 2020-04-30T18:34:21.925702\n"
+"Language: rw\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Ugomba guhitamo dosiye."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Kuramo inyandiko, ushireho akamenyetso kugirango usinywe, hanyuma umukiriya "
+"arinjire kandi ayisinyire. Ibintu byose bikorwa nta mukiriya ugomba kwinjira"
+" mu nyubako yacu. Ibi bifasha abakiriya batari hafi y&#39;ibiro cyangwa baba"
+" hanze yigihugu .."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Umuyobozi ushinzwe ibikorwa byubwishingizi bwimari"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Abagenzi bacu barashobora kwinjira hanyuma bakabona amakuru yibanze yukuntu "
+"urubanza rwabo rwoherejwe rugenda. Ibi byiyongereye cyane kohereza ibibazo "
+"..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Umufatanyabikorwa wibiro byamategeko bya Christianon &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Ntabwo dukeneye kubona abakiriya mubiro byinama, kandi gusinya inyandiko "
+"byose byarangiye kumurongo - byiza!."
+
+msgid "CEO of EL Passion"
+msgstr "Umuyobozi mukuru wa EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Twifashishije API, twahinduye rwose ibyerekanwe mubiryo byurubanza, "
+"dushingiye ku mbarutso yihariye muri sisitemu yacu iriho. Nibyiza .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Umuyobozi wa IT ya Carter Mario Abavoka bakomeretse"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Dufite abakiriya benshi bavuga indimi nyinshi bakoresha uburyo bwo "
+"guhindura. Turashiraho ubutumwa twizeye ko bazasobanuka nabantu bose. Ibi "
+"bituma dushobora kuva mubikorwa byaho tujya mubikorwa byisi .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Umuyobozi mukuru wa Solid Rock Igishushanyo"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Abakiriya barabikunda! Bituma ubuzima bwabo bworoha cyane. Bashobora "
+"kuganira natwe kuri interineti, kohereza amafoto ninyandiko, kandi ibintu "
+"byose bibitswe aho itsinda hamwe nabakiriya bashobora kubireba .."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Umufatanyabikorwa wa Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Dukunda inyemezabuguzi y&#39;urubanza kuko ituma abakiriya babona neza icyo "
+"bishyura .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Visi Perezida wa Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Itumanaho rihuza ni nko kugira imbuga nkoranyambaga zose hamwe nibikoresho "
+"byubufatanye ahantu hamwe .."
+
+msgid "Director Of Complaint Management"
+msgstr "Umuyobozi ushinzwe ibibazo"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Impapuro zimanza zitwemerera kumva no kwiga, bidufasha kongera ibicuruzwa "
+"binyuze mubitekerezo byabakiriya .."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Umuyobozi wo kugurisha Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Imigaragarire yukoresha irasa cyane na Facebook. Biroroshye cyane gukoresha "
+".."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Umufatanyabikorwa wa Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Ipine yoherejwe kuri"
+
+msgid "Cancel"
+msgstr "Kureka"
+
+msgid "Send New Pin"
+msgstr "Ohereza Pin"
+
+msgid "Need Help?"
+msgstr "Ukeneye ubufasha?"
+
+msgid "Click here to contact us"
+msgstr "Kanda hano kugirango utubwire"
+
+msgid "Next"
+msgstr "Ibikurikira"
+
+msgid "Login or Signup"
+msgstr "Injira cyangwa Kwiyandikisha"
+
+msgid "Invalid email entered"
+msgstr "Imeri itemewe yinjiye"
+
+msgid "Processing..."
+msgstr "Gutunganya ..."
+
+msgid "Made with"
+msgstr "Byakozwe na"
+
+msgid "love"
+msgstr "urukundo"
+
+msgid "in New York City"
+msgstr "mu mujyi wa New York"
+
+msgid "CaseActive"
+msgstr "Urubanza"
+
+msgid "All rights reserved"
+msgstr "Uburenganzira bwose burabitswe"
+
+msgid "Terms of Use"
+msgstr "Amategeko yo gukoresha"
+
+msgid "Contact Us"
+msgstr "Twandikire"
+
+msgid "Username"
+msgstr "Izina ryukoresha"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "New Password"
+msgstr "Ijambobanga Rishya"
+
+msgid "Confirm Password"
+msgstr "Emeza ijambo ryibanga"
+
+msgid "Set Your New Password"
+msgstr "Shiraho ijambo ryibanga rishya"
+
+msgid "A code has been sent to"
+msgstr "Kode yoherejwe kuri"
+
+msgid "Change Password"
+msgstr "Hindura ijambo ryibanga"
+
+msgid "Changing..."
+msgstr "Guhindura ..."
+
+msgid "Login"
+msgstr "Injira"
+
+msgid "Forgot password?"
+msgstr "Wibagiwe ijambo ryibanga?"
+
+msgid "Help"
+msgstr "Ubufasha"
+
+msgid "Email or Phone"
+msgstr "Imeri cyangwa Terefone"
+
+msgid "Reset Password"
+msgstr "Ongera usubize ijambo ryibanga"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Injira aderesi imeri cyangwa numero ya terefone ijyanye na konte yawe, "
+"hanyuma ukande kohereza. Tuzohereza imeri cyangwa twohereze umurongo "
+"kurupapuro ushobora gukora byoroshye ijambo ryibanga rishya."
+
+msgid "Request Code"
+msgstr "Gusaba Kode"
+
+msgid "Requesting..."
+msgstr "Gusaba ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "URUBANZA RUZA VUBA"
+
+msgid "Create a free account"
+msgstr "Kora konti yubuntu"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Turimo gushiraho ibisobanuro byanyuma. Tuzabamenyesha igihe byiteguye!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Wowe iminota mike uva mubufatanye bwiza."
+
+msgid "First Name"
+msgstr "Izina"
+
+msgid "Last Name"
+msgstr "Izina ryanyuma"
+
+msgid "Email"
+msgstr "Imeri"
+
+msgid "Company"
+msgstr "Isosiyete"
+
+msgid "No language selected"
+msgstr "Nta rurimi rwatoranijwe"
+
+msgid "I agree with"
+msgstr "Ndabyemera"
+
+msgid "Terms of Service"
+msgstr "Amasezerano ya serivisi"
+
+msgid "Language"
+msgstr "Ururimi"
+
+msgid "Have at least one lower case character"
+msgstr "Kugira byibuze inyuguti imwe ntoya"
+
+msgid "Have at least one capital letter"
+msgstr "Kugira byibuze inyuguti nkuru"
+
+msgid "Have at least one number"
+msgstr "Kugira byibuze umubare umwe"
+
+msgid "Have at least 8 characters in length"
+msgstr "Kugira byibura inyuguti 8 z&#39;uburebure"
+
+msgid "Type your current password"
+msgstr "Andika ijambo ryibanga"
+
+msgid "Passwords must match"
+msgstr "Ijambobanga rigomba guhura"
+
+msgid "Domains"
+msgstr "Indangarugero"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript irahagarikwa. Nyamuneka shoboza."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookies zirahagarikwa. Nyamuneka shoboza."
+
+msgid "New"
+msgstr "Gishya"
+
+msgid "Create A New App"
+msgstr "Kora Porogaramu Nshya"
+
+msgid "Apps"
+msgstr "Porogaramu"
+
+msgid "Profile"
+msgstr "Umwirondoro"
+
+msgid "Logout"
+msgstr "Gusohoka"
+
+msgid "Hi"
+msgstr "Muraho"
+
+msgid "View your account"
+msgstr "Reba konte yawe"
+
+msgid "View page"
+msgstr "Reba urupapuro"
+
+msgid "You don’t have any apps"
+msgstr "Nta porogaramu ufite"
+
+msgid "App"
+msgstr "Porogaramu"
+
+msgid "Admin"
+msgstr "Umuyobozi"
+
+msgid "Notifications"
+msgstr "Kumenyesha"
+
+msgid "No notifications yet."
+msgstr "Nta menyesha."
+
+msgid "Today"
+msgstr "Uyu munsi"
+
+msgid "Last Week"
+msgstr "Icyumweru gishize"
+
+msgid "No timezone selected"
+msgstr "Nta gihe cyagenwe cyatoranijwe"
+
+msgid "Complete profile to continue"
+msgstr "Umwirondoro wuzuye kugirango ukomeze"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Update"
+msgstr "Kuvugurura"
+
+msgid "Website:"
+msgstr "Urubuga:"
+
+msgid "Homepage:"
+msgstr "Urupapuro rwitangiriro:"
+
+msgid "Approve Access"
+msgstr "Emeza kwinjira"
+
+msgid "Info"
+msgstr "Amakuru"
+
+msgid "Permissions"
+msgstr "Uruhushya"
+
+msgid "Billing"
+msgstr "Kwishura"
+
+msgid "Payment Plan"
+msgstr "Gahunda yo Kwishura"
+
+msgid "Edit"
+msgstr "Hindura"
+
+msgid "Save"
+msgstr "Bika"
+
+msgid "has access to your information below:"
+msgstr "ifite amakuru yawe hepfo:"
+
+msgid "has invited you to their client portal."
+msgstr "yagutumiye kumurongo wabakiriya."
+
+msgid "want access to the following information:"
+msgstr "ushaka kubona amakuru akurikira:"
+
+msgid "Decline"
+msgstr "Kugabanuka"
+
+msgid "Remove Access"
+msgstr "Kuraho Kwinjira"
+
+msgid "Active"
+msgstr "Bikora"
+
+msgid "Invites"
+msgstr "Ubutumire"
+
+msgid "Disabled"
+msgstr "Abamugaye"
+
+msgid "No apps found"
+msgstr "Nta porogaramu zabonetse"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "umukoresha"
+
+msgid "manager"
+msgstr "umuyobozi"
+
+msgid "active"
+msgstr "Bikora"
+
+msgid "inactive"
+msgstr "idakora"
+
+msgid "Company Name"
+msgstr "Izina ryisosiyete"
+
+msgid "Type"
+msgstr "Andika"
+
+msgid "Status"
+msgstr "Imiterere"
+
+msgid "Invitation"
+msgstr "Ubutumire"
+
+msgid "About App"
+msgstr "Ibyerekeye Porogaramu"
+
+msgid "Billing Info"
+msgstr "Amakuru yo kwishura"
+
+msgid "Your Company Name"
+msgstr "Izina ryisosiyete yawe"
+
+msgid "Your Company Website"
+msgstr "Urubuga rwawe"
+
+msgid "Saving..."
+msgstr "Kuzigama ..."
+
+msgid "Billing Information"
+msgstr "Amakuru yo kwishura"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Nyamuneka ongeraho indangamuntu ya APP yatanzwe nisosiyete"
+
+msgid "Select an option"
+msgstr "Hitamo uburyo"
+
+msgid "Join an existing app as a client"
+msgstr "Injira muri porogaramu iriho nk'umukiriya"
+
+msgid "Create a new app for my business"
+msgstr "Kora porogaramu nshya kubucuruzi bwanjye"
+
+msgid "Create Domain"
+msgstr "Kurema indangarubuga"
+
+msgid "Select enterprise app"
+msgstr "Hitamo porogaramu"
+
+msgid "No item selected"
+msgstr "Nta kintu cyatoranijwe"
+
+msgid "Domain name"
+msgstr "Izina rya domeni"
+
+msgid "Add"
+msgstr "Ongeraho"
+
+msgid "No enterprise app found"
+msgstr "Nta porogaramu yimishinga yabonetse"
+
+msgid "Pending"
+msgstr "Bitegereje"
+
+msgid "No domains found"
+msgstr "Nta domeni zabonetse"
+
+msgid "Domain"
+msgstr "Indanganturo"
+
+msgid "Txt Value"
+msgstr "Agaciro"
+
+msgid "Enterprise Host ID"
+msgstr "Ikirangantego"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Igikorwa"
+
+msgid "Delete"
+msgstr "Siba"
+
+msgid "Reset"
+msgstr "Gusubiramo"
+
+msgid "Allow Manual Sign In"
+msgstr "Emerera Intoki"
+
+msgid "Exclude Emails From SSO"
+msgstr "Kuramo imeri muri SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML Indangamuntu itanga Metadata"
+
+msgid "Submit"
+msgstr "Tanga"
+
+msgid "Profile photo"
+msgstr "Ifoto yumwirondoro"
+
+msgid "Uploading..."
+msgstr "Gukuramo ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "byasabwe n&#39;indi konti, nyamuneka, uhindure cyangwa"
+
+msgid "reclaim"
+msgstr "kwisubiraho"
+
+msgid "it"
+msgstr "ni"
+
+msgid "pending verification:"
+msgstr "hagitegerejwe kugenzurwa:"
+
+msgid "verify"
+msgstr "kugenzura"
+
+msgid "Phone Number"
+msgstr "Numero ya terefone"
+
+msgid "Current Password"
+msgstr "Ijambobanga ryubu"
+
+msgid "Change password"
+msgstr "Hindura ijambo ryibanga"
+
+msgid "No gender selected"
+msgstr "Nta gitsina cyatoranijwe"
+
+msgid "Company Title"
+msgstr "Umutwe w&#39;isosiyete"
+
+msgid "Address"
+msgstr "Aderesi"
+
+msgid "Address 2"
+msgstr "Aderesi ya 2"
+
+msgid "City/Locality"
+msgstr "Umujyi / Ahantu"
+
+msgid "State/Region"
+msgstr "Intara / Intara"
+
+msgid "No country selected"
+msgstr "Nta gihugu cyatoranijwe"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / Kode y&#39;iposita"
+
+msgid "Basic"
+msgstr "Shingiro"
+
+msgid "Date of Birth"
+msgstr "Itariki y&#39;amavuko"
+
+msgid "Gender"
+msgstr "Uburinganire"
+
+msgid "Occupation"
+msgstr "Umwuga"
+
+msgid "Location"
+msgstr "Aho biherereye"
+
+msgid "Address is not valid"
+msgstr "Aderesi ntabwo yemewe"
+
+msgid "City/Locality is not valid"
+msgstr "Umujyi / Ahantu ntabwo byemewe"
+
+msgid "Country"
+msgstr "Igihugu"
+
+msgid "State/Region is not valid"
+msgstr "Intara / Intara ntabwo byemewe"
+
+msgid "Contact Info"
+msgstr "Menyesha Amakuru"
+
+msgid "Language & Region"
+msgstr "Ururimi &amp; Akarere"
+
+msgid "Saving"
+msgstr "Kuzigama"
+
+msgid "Verify Your"
+msgstr "Kugenzura ibyawe"
+
+msgid "Verification Code"
+msgstr "Kode yo kugenzura"
+
+msgid "Resend Code"
+msgstr "Kode yo Kode"
+
+msgid "Resending"
+msgstr "Kurungika"
+
+msgid "Verify"
+msgstr "Kugenzura"
+
+msgid "Verifying..."
+msgstr "Kugenzura ..."
+
+msgid "Later"
+msgstr "Nyuma"
+
+msgid "We're here to help"
+msgstr "Turi hano gufasha"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Urakoze kutwandikira. Ubutumwa bwawe bwoherejwe neza. Tuzabonana nawe vuba "
+"cyane!"
+
+msgid "Message"
+msgstr "Ubutumwa"
+
+msgid "characters left"
+msgstr "Inyuguti zisigaye"
+
+msgid "Recaptcha"
+msgstr "Gusubiramo"
+
+msgid "Send"
+msgstr "Ohereza"
+
+msgid "Sending..."
+msgstr "Kohereza ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Ntuzongera kwakira imeri yoherejwe kurutonde."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Niba ufite akanya, nyamuneka utumenyeshe impamvu utiyandikishije:"
+
+msgid "Return to our website"
+msgstr "Garuka kurubuga rwacu"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Murakoze. Igisubizo cyawe cyatanzwe."
+
+msgid "No Cases"
+msgstr "Nta manza"
+
+msgid "Layout"
+msgstr "Imiterere"
+
+msgid "Gallery"
+msgstr "Ikarita"
+
+msgid "Speaker"
+msgstr "Orateur"
+
+msgid "This case has been closed"
+msgstr "Uru rubanza rwashojwe"
+
+msgid "Feed"
+msgstr "Kugaburira"
+
+msgid "Images"
+msgstr "Amashusho"
+
+msgid "Docs"
+msgstr "Inyandiko"
+
+msgid "Audios"
+msgstr "Amajwi"
+
+msgid "Videos"
+msgstr "Amashusho"
+
+msgid "Files"
+msgstr "Amadosiye"
+
+msgid "Events"
+msgstr "Ibyabaye"
+
+msgid "Forms"
+msgstr "Ifishi"
+
+msgid "E-signs"
+msgstr "E-ibimenyetso"
+
+msgid "Invoices"
+msgstr "Inyemezabuguzi"
+
+msgid "Notes"
+msgstr "Inyandiko"
+
+msgid "Tasks"
+msgstr "Inshingano"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Akazi keza!"
+
+msgid "You did all"
+msgstr "Wakoze byose"
+
+msgid "the tasks"
+msgstr "imirimo"
+
+msgid "Media"
+msgstr "Itangazamakuru"
+
+msgid "Skip to navigation (n)"
+msgstr "Jya mu nzira (n)"
+
+msgid "Skip to content (c)"
+msgstr "Jya ku bikubiyemo (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Jya kuri footer (f)"
+
+msgid "Case"
+msgstr "Urubanza"
+
+msgid "Search"
+msgstr "Shakisha"
+
+msgid "Using Form Builder"
+msgstr "Gukoresha Ifishi Yubaka"
+
+msgid "Using Forms Library"
+msgstr "Koresha Isomero"
+
+msgid "Using E-sign Builder"
+msgstr "Ukoresheje E-ikimenyetso cyubaka"
+
+msgid "Using E-signs Library"
+msgstr "Ukoresheje E-ibimenyetso Isomero"
+
+msgid "Documents"
+msgstr "Inyandiko"
+
+msgid "Create Note"
+msgstr "Kora Icyitonderwa"
+
+msgid "Edit Note"
+msgstr "Hindura Icyitonderwa"
+
+msgid "End Convo"
+msgstr "Kurangiza Convo"
+
+msgid "Create Form"
+msgstr "Kora Ifishi"
+
+msgid "Create Sign"
+msgstr "Kora ikimenyetso"
+
+msgid "Event Create"
+msgstr "Kurema ibyabaye"
+
+msgid "Convo Videos"
+msgstr "Amashusho ya Convo"
+
+msgid "Convo Audios"
+msgstr "Amajwi ya Convo"
+
+msgid "Cases"
+msgstr "Imanza"
+
+msgid "Case categories"
+msgstr "Ibyiciro by'imanza"
+
+msgid "Your team"
+msgstr "Ikipe yawe"
+
+msgid "To do"
+msgstr "Gukora"
+
+msgid "To Do:"
+msgstr "Gukora:"
+
+msgid "Case Categories"
+msgstr "Ibyiciro by'imanza"
+
+msgid "Your Team"
+msgstr "Ikipe yawe"
+
+msgid "To Do"
+msgstr "Gukora"
+
+msgid "Yes"
+msgstr "Yego"
+
+msgid "Close"
+msgstr "Funga"
+
+msgid "Publish"
+msgstr "Tangaza"
+
+msgid "Visibility"
+msgstr "Kugaragara"
+
+msgid "all"
+msgstr "byose"
+
+msgid "sign"
+msgstr "ikimenyetso"
+
+msgid "Page"
+msgstr "Urupapuro"
+
+msgid "of"
+msgstr "Bya"
+
+msgid "Processing"
+msgstr "Gutunganya"
+
+msgid "failed."
+msgstr "byananiranye."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Agaciro kagomba kuba kinini cyangwa kangana na 1"
+
+msgid "Repeat end:"
+msgstr "Subiramo iherezo:"
+
+msgid "Signature"
+msgstr "Umukono"
+
+msgid "Draw"
+msgstr "Shushanya"
+
+msgid "Write"
+msgstr "Andika"
+
+msgid "Clear Signature"
+msgstr "Umukono usobanutse"
+
+msgid "Still processing video..."
+msgstr "Biracyatunganya amashusho ..."
+
+msgid "You"
+msgstr "Wowe"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Ugiye gusiba ibiryo. Urabyizeye?"
+
+msgid "No convo audios yet"
+msgstr "Nta majwi ya convo"
+
+msgid "No convo videos yet"
+msgstr "Nta videwo ya convo"
+
+msgid "Start Convo"
+msgstr "Tangira Convo"
+
+msgid "Notify the Host"
+msgstr "Menyesha nyiricyubahiro"
+
+msgid "is in the call"
+msgstr "ni mu guhamagara"
+
+msgid "and"
+msgstr "na"
+
+msgid "others are in the call"
+msgstr "abandi bari mu guhamagarwa"
+
+msgid "Audio call is being recorded"
+msgstr "Ihamagarwa ry'amajwi ririmo kwandikwa"
+
+msgid "Video call is being recorded"
+msgstr "Hamagara kuri videwo"
+
+msgid "Join now"
+msgstr "Injira nonaha"
+
+msgid "Dismiss"
+msgstr "Kwirukana"
+
+msgid "Can’t find your "
+msgstr "Ntushobora kubona ibyawe"
+
+msgid "microphone"
+msgstr "mikoro"
+
+msgid "Check your system settings to make sure that "
+msgstr "Reba igenamiterere rya sisitemu kugirango umenye neza ko"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"irahari. Niba atariyo, shyiramo imwe. Urashobora gukenera gutangira "
+"mushakisha yawe."
+
+msgid "web camera"
+msgstr "kamera y'urubuga"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Ugiye gutangira guhamagara Convo. Tangira na:"
+
+msgid "Video & Audio"
+msgstr "Video & Audio"
+
+msgid "Audio Only"
+msgstr "Ijwi ryonyine"
+
+msgid "Record the meeting"
+msgstr "Andika inama"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Gutegereza umuntu ufite uruhushya rwo gutangira guhamagara Convo"
+
+msgid "Add Ticket"
+msgstr "Ongeraho Tike"
+
+msgid "Title"
+msgstr "Umutwe"
+
+msgid "Open"
+msgstr "Fungura"
+
+msgid "Closed"
+msgstr "Gufunga"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Ugiye gufunga itike. Urabyizeye?"
+
+msgid "Announcements"
+msgstr "Amatangazo"
+
+msgid "Support"
+msgstr "Inkunga"
+
+msgid "Opened"
+msgstr "Gufungura"
+
+msgid "View"
+msgstr "Reba"
+
+msgid "Locations"
+msgstr "Ahantu"
+
+msgid "You currently have no announcements."
+msgstr "Kugeza ubu nta matangazo ufite."
+
+msgid "You currently have no"
+msgstr "Kugeza ubu nta"
+
+msgid "open cases. Click"
+msgstr "fungura imanza. Kanda"
+
+msgid "here"
+msgstr "hano"
+
+msgid "to contact support."
+msgstr "kuvugana n'inkunga."
+
+msgid "closed cases."
+msgstr "imanza zafunzwe."
+
+msgid "open tickets."
+msgstr "fungura amatike."
+
+msgid "closed tickets."
+msgstr "amatike afunze."
+
+msgid "You currently have no locations."
+msgstr "Kugeza ubu nta mwanya ufite."
+
+msgid "Write a comment...."
+msgstr "Andika igitekerezo ...."
+
+msgid "Post"
+msgstr "Kohereza"
+
+msgid "Add Location"
+msgstr "Ongeraho Ahantu"
+
+msgid "Save Event"
+msgstr "Bika Icyabaye"
+
+msgid "Name"
+msgstr "Izina"
+
+msgid "Start Date"
+msgstr "Itariki yo gutangiriraho"
+
+msgid "Start Time"
+msgstr "Igihe cyo Gutangira"
+
+msgid "End Date"
+msgstr "Itariki yo kurangiriraho"
+
+msgid "End Time"
+msgstr "Igihe cyanyuma"
+
+msgid "Repeat"
+msgstr "Subiramo"
+
+msgid "Attendees"
+msgstr "Abitabiriye"
+
+msgid "Event Location"
+msgstr "Aho byabereye"
+
+msgid "Link"
+msgstr "Ihuza"
+
+msgid "Description"
+msgstr "Ibisobanuro"
+
+msgid "Attending"
+msgstr "Kwitabira"
+
+msgid "Add to calendar"
+msgstr "Ongeraho kuri kalendari"
+
+msgid "Details"
+msgstr "Ibisobanuro"
+
+msgid "Event by"
+msgstr "Ibirori by"
+
+msgid "Duration:"
+msgstr "Igihe rimara:"
+
+msgid "more"
+msgstr "byinshi"
+
+msgid "Maybe"
+msgstr "Birashoboka"
+
+msgid "Not Attending"
+msgstr "Kutitabira"
+
+msgid "No"
+msgstr "Oya"
+
+msgid "CaseActive Convo"
+msgstr "Urubanza"
+
+msgid "Video Conference"
+msgstr "Ihuriro rya Video"
+
+msgid "Event details"
+msgstr "Ibisobanuro birambuye"
+
+msgid "You don't have permissions to view this page."
+msgstr "Ntabwo ufite uburenganzira bwo kureba iyi page."
+
+msgid "Your Upcoming Events"
+msgstr "Ibikorwa byawe biri imbere"
+
+msgid "Upcoming"
+msgstr "Ibizaza"
+
+msgid "Your Past Events"
+msgstr "Ibyabaye kera"
+
+msgid "Past"
+msgstr "Kera"
+
+msgid "Your Events"
+msgstr "Ibyabaye"
+
+msgid "All"
+msgstr "Byose"
+
+msgid "All Events"
+msgstr "Ibyabaye byose"
+
+msgid "Directions"
+msgstr "Icyerekezo"
+
+msgid "Edit settings"
+msgstr "Hindura igenamiterere"
+
+msgid "Delete event"
+msgstr "Siba ibyabaye"
+
+msgid "Attending?"
+msgstr "Kwitabira?"
+
+msgid "No Events"
+msgstr "Nta byabaye"
+
+msgid "more comment(s)"
+msgstr "ibisobanuro byinshi"
+
+msgid "Loading comments"
+msgstr "Gutanga ibitekerezo"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Ugiye gusiba ibitekerezo. Urabyizeye?"
+
+msgid "task"
+msgstr "inshingano"
+
+msgid "to do"
+msgstr "gukora"
+
+msgid "tasks"
+msgstr "imirimo"
+
+msgid "Write something..."
+msgstr "Andika ikintu ..."
+
+msgid "Attach File"
+msgstr "Ongeraho Idosiye"
+
+msgid "From Template"
+msgstr "Kuva ku cyitegererezo"
+
+msgid "No feeds yet."
+msgstr "Nta bigaburira."
+
+msgid "comments"
+msgstr "ibitekerezo"
+
+msgid "comment"
+msgstr "igitekerezo"
+
+msgid "Add a comment"
+msgstr "Ongeraho igitekerezo"
+
+msgid "Template"
+msgstr "Inyandikorugero"
+
+msgid "No templates"
+msgstr "Nta nyandikorugero"
+
+msgid "Done"
+msgstr "Byakozwe"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Hitamo abanyamuryango bakeneye kuzuza iyi fomu"
+
+msgid "Update Form"
+msgstr "Ifishi yo kuvugurura"
+
+msgid "Due Date"
+msgstr "Itariki ntarengwa"
+
+msgid "Due Time"
+msgstr "Igihe gikwiye"
+
+msgid "Loading..."
+msgstr "Kuremera ..."
+
+msgid "Preview"
+msgstr "Imbere"
+
+msgid "Save & Close"
+msgstr "Bika & Gufunga"
+
+msgid "Add an element"
+msgstr "Ongeraho ikintu"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Itangazamakuru rirahinduka. Tuzabamenyesha igihe byiteguye"
+
+msgid "Add "
+msgstr "Ongeraho"
+
+msgid "Field"
+msgstr "Umurima"
+
+msgid "Edit "
+msgstr "Hindura"
+
+msgid "Text"
+msgstr "Inyandiko"
+
+msgid "Sub Text"
+msgstr "Inyandiko"
+
+msgid "Format"
+msgstr "Imiterere"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Itangazamakuru ryananiwe guhindura. Nyamuneka siba hanyuma ugerageze cyangwa"
+" ikindi."
+
+msgid "Pages"
+msgstr "Urupapuro"
+
+msgid "Saved"
+msgstr "Yakijijwe"
+
+msgid "Insert"
+msgstr "Shyiramo"
+
+msgid "Elements"
+msgstr "Ibigize"
+
+msgid "Action Required"
+msgstr "Igikorwa gisabwa"
+
+msgid "Add a new page"
+msgstr "Ongeraho urupapuro rushya"
+
+msgid "Blank page"
+msgstr "Urupapuro rutagaragara"
+
+msgid "From PDF"
+msgstr "Kuva kuri PDF"
+
+msgid "From image"
+msgstr "Kuva ku ishusho"
+
+msgid "Add PDF"
+msgstr "Ongeraho PDF"
+
+msgid "Add Image"
+msgstr "Ongeraho Ishusho"
+
+msgid "Options"
+msgstr "Amahitamo"
+
+msgid "Column Names"
+msgstr "Amazina y'inkingi"
+
+msgid "Option already exists."
+msgstr "Ihitamo rirahari."
+
+msgid "options list is empty"
+msgstr "amahitamo urutonde ni ubusa"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Agasanduku k'isanduku gashigikira amahitamo 5 gusa. Urashobora guhindura "
+"umurima kumanuka kugirango wongere amahitamo menshi"
+
+msgid "columns list is empty"
+msgstr "Inkingi Urutonde ni ubusa"
+
+msgid "Default Value"
+msgstr "Agaciro gasanzwe"
+
+msgid "Delete row"
+msgstr "Siba umurongo"
+
+msgid "Add a new row"
+msgstr "Ongeraho umurongo mushya"
+
+msgid "Download"
+msgstr "Kuramo"
+
+msgid "Label"
+msgstr "Ikirango"
+
+msgid "Question"
+msgstr "Ikibazo"
+
+msgid "Default answer"
+msgstr "Igisubizo gisanzwe"
+
+msgid "Media is converting"
+msgstr "Itangazamakuru rirahinduka"
+
+msgid "Send Form"
+msgstr "Kohereza Ifishi"
+
+msgid "Form Submited."
+msgstr "Ifishi yatanzwe."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Ntabwo ufite uburenganzira bwo gutanga impapuro."
+
+msgid "You currently have no forms of your own"
+msgstr "Kugeza ubu nta buryo bwawe bwihariye ufite"
+
+msgid "Your Uncompleted Forms"
+msgstr "Impapuro zawe zituzuye"
+
+msgid "Uncompleted"
+msgstr "Byuzuye"
+
+msgid "Your Completed Forms"
+msgstr "Impapuro zawe zuzuye"
+
+msgid "Completed"
+msgstr "Byarangiye"
+
+msgid "Your Forms"
+msgstr "Ifishi yawe"
+
+msgid "All Forms"
+msgstr "Imiterere yose"
+
+msgid "Form Title"
+msgstr "Umutwe"
+
+msgid "Author"
+msgstr "Umwanditsi"
+
+msgid "Published"
+msgstr "Byatangajwe"
+
+msgid "Submissions"
+msgstr "Ibyatanzwe"
+
+msgid "No Forms"
+msgstr "Nta fomu"
+
+msgid "Upload Form Document"
+msgstr "Kuramo Ifishi"
+
+msgid "Forms Library"
+msgstr "Ifishi y'ibitabo"
+
+msgid "No Forms In Library"
+msgstr "Nta Ifishi iri mu isomero"
+
+msgid "Answers"
+msgstr "Ibisubizo"
+
+msgid "Close - Status changed"
+msgstr "Gufunga - Imiterere yarahindutse"
+
+msgid "Change Status"
+msgstr "Hindura Imiterere"
+
+msgid "Case Number"
+msgstr "Inomero y&#39;urubanza"
+
+msgid "Tag Id"
+msgstr "Tag Id"
+
+msgid "Date Opened"
+msgstr "Itariki yafunguwe"
+
+msgid "Host Id"
+msgstr "Ikirangantego"
+
+msgid "User Id"
+msgstr "Umukoresha Id"
+
+msgid "Case Id"
+msgstr "Urubanza Id"
+
+msgid "Confirm your details"
+msgstr "Emeza amakuru yawe"
+
+msgid "Form Submitted."
+msgstr "Ifishi yatanzwe."
+
+msgid "Invoice"
+msgstr "Inyemezabuguzi"
+
+msgid "PO No:"
+msgstr "PO Oya:"
+
+msgid "Reference ID:"
+msgstr "Indangamuntu:"
+
+msgid "Term:"
+msgstr "Igihe:"
+
+msgid "Note:"
+msgstr "Icyitonderwa:"
+
+msgid "QTY"
+msgstr "QTY"
+
+msgid "Price"
+msgstr "Igiciro"
+
+msgid "Add more"
+msgstr "Ongeraho byinshi"
+
+msgid "Subtotal($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount(%)"
+msgstr "Kugabanuka (%)"
+
+msgid "TAX(%)"
+msgstr "UMUSORO (%)"
+
+msgid "Total($)"
+msgstr "Igiteranyo ($)"
+
+msgid "Invoice No"
+msgstr "Inyemezabuguzi Oya"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Hitamo abanyamuryango bakeneye kureba cyangwa kwishyura iyi fagitire"
+
+msgid "Update Invoice"
+msgstr "Kuvugurura inyemezabuguzi"
+
+msgid "Create Invoice"
+msgstr "Kora inyemezabuguzi"
+
+msgid "PO No."
+msgstr "PO No."
+
+msgid "Reference ID"
+msgstr "Indangamuntu"
+
+msgid "Term"
+msgstr "Igihe"
+
+msgid "Note"
+msgstr "Icyitonderwa"
+
+msgid "Quantity"
+msgstr "Umubare"
+
+msgid "Price ($)"
+msgstr "Igiciro ($)"
+
+msgid "Subtotal ($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount (%)"
+msgstr "Kugabanuka (%)"
+
+msgid "Tax (%)"
+msgstr "Umusoro (%)"
+
+msgid "Total ($)"
+msgstr "Igiteranyo ($)"
+
+msgid "Pay Invoice"
+msgstr "Inyemezabuguzi"
+
+msgid "Payment method"
+msgstr "Uburyo bwo kwishyura"
+
+msgid "Add a new payment method"
+msgstr "Ongeraho uburyo bushya bwo kwishyura"
+
+msgid "Summary"
+msgstr "Incamake"
+
+msgid "Payment:"
+msgstr "Kwishura:"
+
+msgid "Total charge:"
+msgstr "Amafaranga yose hamwe:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Inyemezabuguzi zitishyuwe"
+
+msgid "Unpaid"
+msgstr "Ntahembwa"
+
+msgid "Your Paid Invoices"
+msgstr "Inyemezabuguzi zishyuwe"
+
+msgid "Paid"
+msgstr "Yishyuwe"
+
+msgid "Your Invoices"
+msgstr "Inyemezabuguzi"
+
+msgid "All Invoices"
+msgstr "Inyemezabuguzi zose"
+
+msgid "Invoice Title"
+msgstr "Inyemezabuguzi"
+
+msgid "No Invoices"
+msgstr "Nta fagitire"
+
+msgid "No Audios yet."
+msgstr "Nta majwi."
+
+msgid "Loading failed."
+msgstr "Kuremera byarananiranye."
+
+msgid "retry"
+msgstr "ongera ugerageze"
+
+msgid "No documents yet."
+msgstr "Nta nyandiko."
+
+msgid "No Files yet."
+msgstr "Nta dosiye."
+
+msgid "No Images yet."
+msgstr "Nta mashusho."
+
+msgid "No Videos yet."
+msgstr "Nta videwo."
+
+msgid "Page Not Found"
+msgstr "Urupapuro Ntiruboneka"
+
+msgid "Attachments"
+msgstr "Umugereka"
+
+msgid "Note View"
+msgstr "Icyitonderwa Reba"
+
+msgid "No Notes"
+msgstr "Nta Inyandiko"
+
+msgid "Select the person to answer this field"
+msgstr "Hitamo umuntu wo gusubiza iki gice"
+
+msgid "Create E-sign"
+msgstr "Kora E-ikimenyetso"
+
+msgid "Update E-signs"
+msgstr "Kuvugurura E-ibimenyetso"
+
+msgid "Signs"
+msgstr "Ibimenyetso"
+
+msgid "Add Field"
+msgstr "Ongeraho Umwanya"
+
+msgid "Edit Field"
+msgstr "Hindura Umwanya"
+
+msgid "Send E-sign"
+msgstr "Kohereza E-ikimenyetso"
+
+msgid "E-sign Submitted."
+msgstr "E-ikimenyetso cyatanzwe."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Ntabwo ufite uburenganzira bwo gutanga e-ibimenyetso."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Kugeza ubu nta E-bimenyetso byawe wenyine"
+
+msgid "Your Uncompleted E-signs"
+msgstr "E-ibimenyetso byawe bituzuye"
+
+msgid "Your Completed E-signs"
+msgstr "Ibimenyetso byawe byuzuye"
+
+msgid "Your Signs"
+msgstr "Ibimenyetso byawe"
+
+msgid "All E-signs"
+msgstr "E-ibimenyetso byose"
+
+msgid "E-sign Title"
+msgstr "E-umukono Umutwe"
+
+msgid "No E-signs"
+msgstr "Nta bimenyetso bya E-bimenyetso"
+
+msgid "E-Signs Library"
+msgstr "E-Ibimenyetso Isomero"
+
+msgid "No E-signs In Library"
+msgstr "Nta E-ibimenyetso mu Isomero"
+
+msgid "Upload E-sign Document"
+msgstr "Kuramo E-ikimenyetso cyinyandiko"
+
+msgid "Update Task"
+msgstr "Kuvugurura Inshingano"
+
+msgid "Create Task"
+msgstr "Kora Inshingano"
+
+msgid "You currently have no tasks of your own"
+msgstr "Kugeza ubu nta mirimo yawe wenyine"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Inshingano zawe zitarangiye"
+
+msgid "Your Completed Tasks"
+msgstr "Imirimo yawe Yuzuye"
+
+msgid "Your Tasks"
+msgstr "Inshingano zawe"
+
+msgid "All Tasks"
+msgstr "Inshingano zose"
+
+msgid "Task"
+msgstr "Inshingano"
+
+msgid "Deadline"
+msgstr "Igihe ntarengwa"
+
+msgid "Assignees"
+msgstr "Abashinzwe"
+
+msgid "In Progress"
+msgstr "Iterambere"
+
+msgid "Delete task"
+msgstr "Siba inshingano"
+
+msgid "No Tasks"
+msgstr "Nta nshingano"
+
+msgid "wants access"
+msgstr "ishaka kwinjira"
+
+msgid "No Answers"
+msgstr "Nta bisubizo"
+
+msgid "Select Field Type"
+msgstr "Hitamo Ubwoko bwumurima"
+
+msgid "Text Only"
+msgstr "Inyandiko Yonyine"
+
+msgid "Multiple Line Text"
+msgstr "Imirongo myinshi"
+
+msgid "Dropdown"
+msgstr "Kumanuka"
+
+msgid "Multi Dropdown"
+msgstr "Ibitonyanga byinshi"
+
+msgid "Checkboxes"
+msgstr "Agasanduku"
+
+msgid "Radio"
+msgstr "Radiyo"
+
+msgid "Date"
+msgstr "Itariki"
+
+msgid "Time"
+msgstr "Igihe"
+
+msgid "Yes/No"
+msgstr "Yego / Oya"
+
+msgid "Number"
+msgstr "Umubare"
+
+msgid "Access Denied"
+msgstr "Kwinjira byanze"
+
+msgid "You don't have access to this case."
+msgstr "Ntushobora kubona uru rubanza."
+
+msgid "Imports"
+msgstr "Ibicuruzwa bitumizwa mu mahanga"
+
+msgid "View import"
+msgstr "Reba ibitumizwa hanze"
+
+msgid "Sessions"
+msgstr "Amasomo"
+
+msgid "Home"
+msgstr "Murugo"
+
+msgid "Users"
+msgstr "Abakoresha"
+
+msgid "Library"
+msgstr "Isomero"
+
+msgid "Integration"
+msgstr "Kwishyira hamwe"
+
+msgid "Settings"
+msgstr "Igenamiterere"
+
+msgid "Webhooks"
+msgstr "Urubuga"
+
+msgid "Keys"
+msgstr "Urufunguzo"
+
+msgid "Feed Templates"
+msgstr "Kugaburira Inyandikorugero"
+
+msgid "Form Templates"
+msgstr "Ifishi yerekana"
+
+msgid "E-sign Templates"
+msgstr "E-umukono Inyandikorugero"
+
+msgid "Task Templates"
+msgstr "Inyandikorugero"
+
+msgid "Dashboard"
+msgstr "Ikibaho"
+
+msgid "Payments"
+msgstr "Kwishura"
+
+msgid "From"
+msgstr "Kuva"
+
+msgid "To"
+msgstr "Kuri"
+
+msgid "System"
+msgstr "Sisitemu"
+
+msgid "User Intake"
+msgstr "Kwinjira"
+
+msgid "Custom Fields"
+msgstr "Imirima yihariye"
+
+msgid "After Actions"
+msgstr "Nyuma y'ibikorwa"
+
+msgid "Advance Settings"
+msgstr "Igenamiterere"
+
+msgid "Label Name"
+msgstr "Izina ry&#39;ikirango"
+
+msgid "Fields"
+msgstr "Imirima"
+
+msgid "Tag ID"
+msgstr "Ikirangantego"
+
+msgid "Have many users?"
+msgstr "Ufite abakoresha benshi?"
+
+msgid "Import users"
+msgstr "Kuzana abakoresha"
+
+msgid "or"
+msgstr "cyangwa"
+
+msgid "Send them a signup link."
+msgstr "Ohereza ubutumwa bwo kwiyandikisha."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Reka dutangire winjiza imeri cyangwa numero ya terefone"
+
+msgid "Phone"
+msgstr "Terefone"
+
+msgid "Invalid phone number entered"
+msgstr "Inomero ya terefone itemewe"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr ""
+"Ikirango kugirango byoroshye kubona urubanza. ntishobora guhinduka nyuma"
+
+msgid "Visibility:"
+msgstr "Kugaragara:"
+
+msgid "Who can use this template"
+msgstr "Ninde ushobora gukoresha iyi shusho"
+
+msgid "One time"
+msgstr "Igihe kimwe"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Nyamuneka andika amakuru yishyuwe mbere yo gukomeza"
+
+msgid "Add Payment"
+msgstr "Ongeraho Kwishura"
+
+msgid "Repeat every:"
+msgstr "Subiramo buri:"
+
+msgid "Let's get started"
+msgstr "Reka dutangire"
+
+msgid "Take me there"
+msgstr "Unjyaneyo"
+
+msgid "Mark"
+msgstr "Ikimenyetso"
+
+msgid "Onboarding"
+msgstr "Kwinjira"
+
+msgid "Created on"
+msgstr "Byaremewe"
+
+msgid "Expires on"
+msgstr "Byarangiye"
+
+msgid "No announcements yet."
+msgstr "Nta tangazo kugeza ubu."
+
+msgid "Add Announcement"
+msgstr "Ongeraho Itangazo"
+
+msgid "Edit Announcement"
+msgstr "Hindura Itangazo"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Itariki nigihe bigomba kuba byibura isaha imwe imbere"
+
+msgid "Delete Date"
+msgstr "Gusiba Itariki"
+
+msgid "Delete Time"
+msgstr "Siba Igihe"
+
+msgid "Back"
+msgstr "Inyuma"
+
+msgid "No Users Found"
+msgstr "Nta mukoresha wabonetse"
+
+msgid "No role selected"
+msgstr "Nta ruhare rwatoranijwe"
+
+msgid "No permissions added!"
+msgstr "Nta ruhushya rwongeyeho!"
+
+msgid "ASSIGNED USERS"
+msgstr "ABAKORESHEJWE"
+
+msgid "CASE PERMISSIONS"
+msgstr "URUBUGA RW&#39;URUBANZA"
+
+msgid "User ID"
+msgstr "Indangamuntu"
+
+msgid "Role"
+msgstr "Uruhare"
+
+msgid "remove"
+msgstr "gukuramo"
+
+msgid "Assign User"
+msgstr "Shinga Umukoresha"
+
+msgid "User"
+msgstr "Umukoresha"
+
+msgid "ADD USER"
+msgstr "WONGEYE UKORESHE"
+
+msgid "Email user about case assignment"
+msgstr "Imeri ukoresha kubyerekeye umukoro"
+
+msgid "Keyword"
+msgstr "Ijambo ryibanze"
+
+msgid "No cases found."
+msgstr "Nta manza zabonetse."
+
+msgid "Create a case for a business"
+msgstr "Kora urubanza kubucuruzi"
+
+msgid "Case ID"
+msgstr "Indangamuntu"
+
+msgid "Created On"
+msgstr "Byaremewe"
+
+msgid "Case Status"
+msgstr "Imiterere y&#39;urubanza"
+
+msgid "Case Type"
+msgstr "Ubwoko bw'imanza"
+
+msgid "Assign Users"
+msgstr "Kugenera Abakoresha"
+
+msgid "No cases found"
+msgstr "Nta manza zabonetse"
+
+msgid "Have many cases?"
+msgstr "Ufite imanza nyinshi?"
+
+msgid "Click here to import cases."
+msgstr "Kanda hano kugirango utumize imanza."
+
+msgid "No status selected"
+msgstr "Nta status yatoranijwe"
+
+msgid "No type selected"
+msgstr "Nta bwoko bwatoranijwe"
+
+msgid "Case Info"
+msgstr "Amakuru y&#39;urubanza"
+
+msgid "About"
+msgstr "Ibyerekeye"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Ikirango gihoraho kugirango byoroshye kubona urubanza. (a-z, 0-9, -, /) "
+"biremewe"
+
+msgid "Case Types"
+msgstr "Ubwoko bw'imanza"
+
+msgid "Click"
+msgstr "Kanda"
+
+msgid "to edit case types"
+msgstr "Kuri Guhindura Ubwoko"
+
+msgid "No Type selected"
+msgstr "Nta bwoko bwatoranijwe"
+
+msgid "Case not found!"
+msgstr "Urubanza ntirwabonetse!"
+
+msgid "Media Size"
+msgstr "Ingano y&#39;Itangazamakuru"
+
+msgid "All statistics"
+msgstr "Imibare yose"
+
+msgid "Import not found."
+msgstr "Kuzana ibicuruzwa bitabonetse."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Gutunganya dosiye byarananiranye. Menya neza ko ari ubwoko bwa dosiye ya CSV"
+" kandi irimo imitwe iboneye"
+
+msgid "Data"
+msgstr "Amakuru"
+
+msgid "No Imports yet."
+msgstr "Nta bicuruzwa bitumizwa mu mahanga."
+
+msgid "Source"
+msgstr "Inkomoko"
+
+msgid "Stats"
+msgstr "Imibare"
+
+msgid "Passed:"
+msgstr "Yatsinze:"
+
+msgid "Failed:"
+msgstr "Kunanirwa:"
+
+msgid "Total:"
+msgstr "Igiteranyo:"
+
+msgid "Add Imports"
+msgstr "Ongeraho Ibitumizwa hanze"
+
+msgid "Download Sample"
+msgstr "Kuramo Icyitegererezo"
+
+msgid "Choose a file"
+msgstr "Hitamo dosiye"
+
+msgid "Edit Key"
+msgstr "Hindura Urufunguzo"
+
+msgid "Add Key"
+msgstr "Ongeraho Urufunguzo"
+
+msgid "No Keys yet."
+msgstr "Nta Urufunguzo."
+
+msgid "Source CIDR"
+msgstr "Inkomoko CIDR"
+
+msgid "Remove"
+msgstr "Kuraho"
+
+msgid "is invalid."
+msgstr "ni impfabusa."
+
+msgid "Secret Key"
+msgstr "Urufunguzo rwibanga"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Witondere gukoporora urufunguzo rwawe rwibanga nonaha. Ntuzongera kubona "
+"ukundi!"
+
+msgid "Edit Webhook"
+msgstr "Hindura Urubuga"
+
+msgid "Add Webhook"
+msgstr "Ongeraho Urubuga"
+
+msgid "No event selected"
+msgstr "Nta gikorwa cyatoranijwe"
+
+msgid "No Webhooks yet."
+msgstr "Nta Webhooks."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Urubuga rwibanga"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Witondere kwigana webhook yawe y'ibanga nonaha. Ntuzongera kubona ukundi!"
+
+msgid "Sign In"
+msgstr "Injira"
+
+msgid "Login in account page."
+msgstr "Injira kurupapuro."
+
+msgid "Edit form builder"
+msgstr "Hindura umwubatsi"
+
+msgid "Delete form"
+msgstr "Gusiba ifishi"
+
+msgid "No forms yet."
+msgstr "Nta fomu."
+
+msgid "Intake Forms"
+msgstr "Ifishi yo gufata"
+
+msgid "Upload Intake Form Document"
+msgstr "Kuramo Ifishi yo gufata"
+
+msgid "Add Intake Form"
+msgstr "Ongeraho Ifishi yo gufata"
+
+msgid "Edit Intake Form"
+msgstr "Hindura Ifishi yo gufata"
+
+msgid "Show Media"
+msgstr "Erekana Itangazamakuru"
+
+msgid "Add Post"
+msgstr "Ongeraho Post"
+
+msgid "Edit Post"
+msgstr "Hindura Inyandiko"
+
+msgid "Files Amount"
+msgstr "Umubare w&#39;amadosiye"
+
+msgid "No Feed Templates yet."
+msgstr "Nta Kugaburira Inyandikorugero."
+
+msgid "Post Name"
+msgstr "Izina ry&#39;iposita"
+
+msgid "Post Message"
+msgstr "Kohereza Ubutumwa"
+
+msgid "Processing media ..."
+msgstr "Gutunganya itangazamakuru ..."
+
+msgid "Download original file"
+msgstr "Kuramo dosiye y&#39;umwimerere"
+
+msgid "Could not display media"
+msgstr "Ntushobora kwerekana itangazamakuru"
+
+msgid "No locations found."
+msgstr "Nta hantu na hamwe wabonetse."
+
+msgid "Main Office"
+msgstr "Ibiro Bikuru"
+
+msgid "Location Name"
+msgstr "Izina ryaho"
+
+msgid "Delete e-sign"
+msgstr "Siba e-ikimenyetso"
+
+msgid "No e-signs yet."
+msgstr "Nta e-kimenyetso."
+
+msgid "Subtasks Count"
+msgstr "Subtasks Kubara"
+
+msgid "No tasks yet."
+msgstr "Nta mirimo iracyariho."
+
+msgid "Invoice ID"
+msgstr "Inyemezabuguzi"
+
+msgid "Total"
+msgstr "Igiteranyo"
+
+msgid "Refund"
+msgstr "Gusubizwa"
+
+msgid "No invoices yet."
+msgstr "Nta fagitire."
+
+msgid "Refund Reason"
+msgstr "Impamvu yo gusubizwa"
+
+msgid "Duplicate charge"
+msgstr "Amafaranga yishyurwa"
+
+msgid "Fraudulent charge"
+msgstr "Amafaranga y'uburiganya"
+
+msgid "Requested by customer"
+msgstr "Basabwe n'umukiriya"
+
+msgid "On Board"
+msgstr "Ku Nama y'Ubutegetsi"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Uruhare rw&#39;amakuru"
+
+msgid "It cannot be changed later"
+msgstr "Ntishobora guhinduka nyuma"
+
+msgid "Role Permissions"
+msgstr "Uruhushya"
+
+msgid "e-signs"
+msgstr "e-ibimenyetso"
+
+msgid "on"
+msgstr "ku"
+
+msgid "Allowed File Sizes"
+msgstr "Byemerewe Idosiye Ingano"
+
+msgid "Create"
+msgstr "Kurema"
+
+msgid "Creating..."
+msgstr "Kurema ..."
+
+msgid "Modules"
+msgstr "Module"
+
+msgid "Roles"
+msgstr "Inshingano"
+
+msgid "Profile information"
+msgstr "Ibisobanuro"
+
+msgid "No role found."
+msgstr "Nta ruhare rwabonetse."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Mugihe urubanza rwashizweho, auto igenera aba bakoresha"
+
+msgid "Remove All"
+msgstr "Kuraho Byose"
+
+msgid "User Name"
+msgstr "Izina ryumukoresha"
+
+msgid "Notify"
+msgstr "Menyesha"
+
+msgid "Host User"
+msgstr "Umukoresha"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "Iyo umukoresha yashinzwe murubanza, auto ongeraho inyandikorugero"
+
+msgid "No post selected"
+msgstr "Nta nyandiko yatoranijwe"
+
+msgid "No form selected"
+msgstr "Nta fomu yatoranijwe"
+
+msgid "No e-sign selected"
+msgstr "Nta e-ikimenyetso cyatoranijwe"
+
+msgid "Templates"
+msgstr "Inyandikorugero"
+
+msgid "Add Templates"
+msgstr "Ongeraho Inyandikorugero"
+
+msgid "Idle Cases"
+msgstr "Imanza zidafite ishingiro"
+
+msgid "When a case is idle, post this message"
+msgstr "Mugihe urubanza rudafite akamaro, andika ubu butumwa"
+
+msgid "No case type selected"
+msgstr "Nta bwoko bw'imanza bwatoranijwe"
+
+msgid "Idle Days"
+msgstr "Iminsi Yumunsi"
+
+msgid "Post Id"
+msgstr "Kohereza Id"
+
+msgid "Set Idle Message"
+msgstr "Shiraho Ubutumwa Bwuzuye"
+
+msgid "No task selected"
+msgstr "Nta gikorwa cyatoranijwe"
+
+msgid "No operation order selected"
+msgstr "Nta gahunda y'ibikorwa yatoranijwe"
+
+msgid "Operation Order"
+msgstr "Urutonde rwibikorwa"
+
+msgid "Add Templates to Assign Users"
+msgstr "Ongeraho Inyandikorugero Kugena Abakoresha"
+
+msgid "CaseType"
+msgstr "Ubwoko bw'Urubanza"
+
+msgid "Case Form"
+msgstr "Ifishi y'urubanza"
+
+msgid "User Form"
+msgstr "Ifishi y'abakoresha"
+
+msgid "Notes Form"
+msgstr "Ifishi y'inyandiko"
+
+msgid "Defaults"
+msgstr "Mburabuzi"
+
+msgid "Required"
+msgstr "Birasabwa"
+
+msgid "Public User Signup link:"
+msgstr "Ihuza ry'abakoresha rusange:"
+
+msgid "Design Settings"
+msgstr "Igishushanyo mbonera"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Hindura dosiye"
+
+msgid "Delete Favicon"
+msgstr "Siba Favicon"
+
+msgid "Logo:"
+msgstr "Ikirangantego:"
+
+msgid "Delete Logo"
+msgstr "Siba Ikirangantego"
+
+msgid "Text Color"
+msgstr "Ibara ry&#39;inyandiko"
+
+msgid "Recommended Colors:"
+msgstr "Amabara asabwa:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "gusubiramo"
+
+msgid "Background Color"
+msgstr "Ibara ry&#39;inyuma"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Amakuru yisosiyete"
+
+msgid "Website"
+msgstr "Urubuga"
+
+msgid "Terms of Use URL"
+msgstr "Amategeko yo gukoresha URL"
+
+msgid "User Signup"
+msgstr "Umukoresha"
+
+msgid "Allow Signup"
+msgstr "Emera Kwiyandikisha"
+
+msgid "Auto Create Case"
+msgstr "Kurema Imodoka"
+
+msgid "Case User Role"
+msgstr "Uruhare rwabakoresha"
+
+msgid "Google Analytics"
+msgstr "Isesengura rya Google"
+
+msgid "Analytics Key"
+msgstr "Urufunguzo rwo gusesengura"
+
+msgid "delete"
+msgstr "gusiba"
+
+msgid "Crop Image"
+msgstr "Igishusho"
+
+msgid "No Filter"
+msgstr "Nta Muyunguruzi"
+
+msgid "No logs requested."
+msgstr "Nta biti byasabwe."
+
+msgid "Logs list is empty."
+msgstr "Urutonde rwibiti ni ubusa."
+
+msgid "Download CSV"
+msgstr "Kuramo CSV"
+
+msgid "Request Logs"
+msgstr "Saba Ibiti"
+
+msgid "Log Type"
+msgstr "Ubwoko bwinjira"
+
+msgid "Filter"
+msgstr "Muyunguruzi"
+
+msgid "Select a case"
+msgstr "Hitamo urubanza"
+
+msgid "Enter the email address"
+msgstr "Injira aderesi imeri"
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Header (3 max)"
+msgstr "Umutwe (3 max)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Mugihe umukoresha yinjiye muri porogaramu, saba uyikoresha gusangira ibi "
+"bikurikira"
+
+msgid "No user intake found."
+msgstr "Nta mukoresha ukoresha wabonetse."
+
+msgid "User Type"
+msgstr "Ubwoko bw&#39;abakoresha"
+
+msgid "Intake Form"
+msgstr "Ifishi yo gufata"
+
+msgid "Complete After"
+msgstr "Byuzuye Nyuma"
+
+msgid "No user type selected"
+msgstr "Nta bwoko bwabakoresha bwatoranijwe"
+
+msgid "No intake form selected"
+msgstr "Nta fomu yo gufata yatoranijwe"
+
+msgid "Complete After Date"
+msgstr "Byuzuye Nyuma yitariki"
+
+msgid "Complete After Time"
+msgstr "Byuzuye Nyuma yigihe"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Itariki nigihe bigomba kuba bike cyangwa bingana nubu"
+
+msgid "Comment ct"
+msgstr "Igitekerezo ct"
+
+msgid "View Ticket"
+msgstr "Reba Tike"
+
+msgid "Ticket"
+msgstr "Tike"
+
+msgid "No tickets yet."
+msgstr "Nta matike."
+
+msgid "User not found."
+msgstr "Umukoresha ntabwo yabonetse."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Umukoresha arashobora guhindura konti zabo amakuru usibye kubakira "
+"abakoresha ibiranga igice."
+
+msgid "Contact"
+msgstr "Twandikire"
+
+msgid "Phone number"
+msgstr "Inomero ya terefone"
+
+msgid "Zip Postal Code"
+msgstr "Kode y&#39;iposita"
+
+msgid "Host User Attributes"
+msgstr "Ikiranga Umukoresha Ibiranga"
+
+msgid "User Status"
+msgstr "Imiterere y&#39;abakoresha"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Ikirango gihoraho kugirango byoroshye kubona umukoresha. (a-z, 0-9, -, /) "
+"biremewe"
+
+msgid "App only User Intake Fields"
+msgstr "Koresha gusa Imikoreshereze Yumukoresha"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "SHAKA GUKURIKIRA GUSA"
+
+msgid "s found."
+msgstr "s."
+
+msgid "Created Date"
+msgstr "Itariki Yashyizweho"
+
+msgid "View Cases"
+msgstr "Reba Imanza"
+
+msgid "VIEW CASES"
+msgstr "REBA IMANZA"
+
+msgid "Get Started"
+msgstr "Gutangira"
+
+msgid "Password"
+msgstr "Ijambobanga"
+
+msgid "Email is not valid."
+msgstr "Imeri ntabwo yemewe."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive ikwemerera hamwe numukiriya wawe"
+
+msgid "work together"
+msgstr "mukorere hamwe"
+
+msgid "at any time, in any place."
+msgstr "igihe icyo ari cyo cyose, ahantu hose."
+
+msgid "Explore"
+msgstr "Shakisha"
+
+msgid "Pricing"
+msgstr "Igiciro"
+
+msgid "Support & Docs"
+msgstr "Inkunga & Inyandiko"
+
+msgid "FAQ"
+msgstr "Ibibazo"
+
+msgid "Failed to validate if you are human"
+msgstr "Kunanirwa kwemeza niba uri umuntu"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "MBONA IYO IYITEGUYE!"
+
+msgid "Thank You!"
+msgstr "Urakoze!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Tuzakumenyesha mugihe porogaramu izaba yiteguye"
+
+msgid "Most popular"
+msgstr "Birazwi cyane"
+
+msgid "All languages"
+msgstr "Indimi zose"
+
+msgid "Oops, Something went wrong."
+msgstr "Oops, Ikintu kitagenze neza."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Oops, Ikintu kitagenze neza. Ikipe yacu yaramenyeshejwe. Nyamuneka gerageza "
+"nyuma."
+
+msgid "Support Documentation"
+msgstr "Inkunga Inyandiko"
+
+msgid "All Categories"
+msgstr "Ibyiciro byose"
+
+msgid "Contents"
+msgstr "Ibirimo"
+
+msgid "Related Articles"
+msgstr "Ingingo bifitanye isano"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr "Tangira: inzira, imyitozo myiza, kuyobora ubuyobozi, nibindi byinshi!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Shakisha ikintu cyose ukeneye kugirango ubone akazi muri CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Itumanaho ryimanza zose ahantu hamwe"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Hindura, ohereza ibishya, subiza ibibazo, wandike, utange ibitekerezo, kandi"
+" ufite ibiganiro byose byashizweho na imeri-nyayo na imenyesha rya SMS."
+
+msgid "Share with confidence"
+msgstr "Sangira ufite ikizere"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Sangira inyandiko n&#39;amafoto hagati yabakiriya nabagize itsinda murwego "
+"urwo arirwo rwose nibikoresho byose, kugirango buriwese akomeze agezweho."
+
+msgid "Take it on the go"
+msgstr "Fata urugendo"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Koresha ibikoresho bigendanwa nka tableti na terefone zigendanwa kugirango "
+"ufatanye amakuru arambuye, muganire kubibazo bikomeye, guhana inyandiko, "
+"hamwe nimbonerahamwe yiterambere mugihe nyacyo."
+
+msgid "Immediate records access"
+msgstr "Kwinjira byihuse"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Abakoresha babiherewe uburenganzira barashobora kubona byihuse amakuru "
+"yumukiriya namakuru yimanza (harimo nubu, kera, gufungura, gufunga, no "
+"gutegereza imanza), byose binyuze kumurongo umwe."
+
+msgid "Automatic timezone conversion"
+msgstr "Guhindura igihe cyigihe"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Waba ingendo cyangwa kuguma ahandi, uzaba uhujwe na sisitemu yo gucunga "
+"ibiganiro-umwanya."
+
+msgid "Track Events"
+msgstr "Kurikirana ibyabaye"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Teganya vuba inama, ukurikirane ibyabaye, kandi utumire abakiriya nabagize "
+"itsinda nkabitabira."
+
+msgid "Video Conferencing"
+msgstr "Amashusho ya Video"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Ihuze nabakiriya hamwe nabagize itsinda ukoresheje ibiganiro bya videwo "
+"bizima kugirango birusheho gukorana."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Hindura imirimo mugihe urubanza rwakozwe cyangwa umukoresha yashinzwe "
+"murubanza."
+
+msgid "Automated Alerts"
+msgstr "Imenyekanisha ryikora"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Urashaka kwifuriza abakiriya bawe Isabukuru nziza? Shiraho ubutumwa bwikora "
+"kubakiriya ba kera nubu nubu kumunsi wabo wihariye!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Kugumana abakiriya amakuru arambuye"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Abakiriya barashobora guhindura imyirondoro yabo hamwe namakuru agezweho, "
+"amafoto, ijambo ryibanga, hamwe na konte ya konti."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Baza Ibibazo, Shaka Ibisubizo."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Kora impapuro zabugenewe hanyuma wohereze kubakiriya kugirango barangize. "
+"Kusanya amakuru yingenzi, utange ubushakashatsi bwo gusohoka, kandi ubone "
+"amakuru yose ukeneye kugirango ukore akazi kawe neza!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Umuyobozi wo kugurisha Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Kora fagitire y&#39;abakiriya mu buryo bworoshye bushoboka hamwe na fagitire"
+" zo kuri interineti no kwishyura."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Dukunda inyemezabuguzi kuko ituma abakiriya babona neza icyo bishyura."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Visi Perezida wa Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Ishimire byoroshye e-gusinya"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Hamagara kuri elegitoronike ibyangombwa byose ukoresheje DocSign, ukoresheje"
+" inyandiko zoherejwe hamwe nibisabwa umukono wa digitale no kwemeza."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Kuramo inyandiko, shyira akamenyetso kumukono, hanyuma umukiriya arinjira "
+"hanyuma e-ayisinyire. Ibintu byose bikorwa nta mukiriya ugomba kwinjira mu "
+"nyubako yacu. Ibi bifasha abakiriya batari hafi y'ibiro cyangwa baba hanze "
+"yigihugu .."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Umuyobozi ushinzwe ibikorwa byubwishingizi bwimari"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Kongera Sisitemu. Akazi Gake, Ibisubizo Byinshi."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Koresha Kwikorera-Gukorera Ibiranga Ubuyobozi"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Fata igenzura ryuzuye rya CaseActive yo gucunga suite uhereye kumurongo "
+"ubwayo."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Ntagahato uhuze sisitemu yawe iriho na CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Shyiramo API yacu yihariye kugirango uhite ukora imanza, ugenera abakoresha,"
+" kandi utange raporo ukurikije sisitemu yinjiza."
+
+msgid "Acting as a"
+msgstr "Gukora nka a"
+
+msgid "virtual administrative assistant"
+msgstr "umufasha wubutegetsi busanzwe"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive iguha imbaraga hamwe ninyandiko zoroheje hamwe nogukoresha "
+"itangazamakuru, wenyine"
+
+msgid "client-to-customer communications"
+msgstr "itumanaho ryabakiriya-kubakiriya"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr ""
+"gahunda y&#39;ibyabaye, hamwe n&#39;intambwe ku yindi gutunganya urubanza."
+
+msgid "Self-Serve Administration"
+msgstr "Ubuyobozi Bwikorera wenyine"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Gukora nkumufasha wubutegetsi busanzwe, CaseActive iguha imbaraga hamwe "
+"ninyandiko zoroheje hamwe nogukoresha itangazamakuru, itumanaho ryumukiriya "
+"ku bakiriya, gahunda y&#39;ibikorwa, hamwe no gutunganya intambwe ku yindi."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Gucunga Abakoresha Kwinjira &amp; Kurema Urubanza"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Kugenzura mu buryo butaziguye ishyirwaho rya konti zabakoresha mugihe utanga"
+" uburenganzira bwo kwinjira kuri buri kibazo. Gucunga imanza, gutera imbere,"
+" no gufunga, hamwe na raporo yuzuye buri ntambwe yinzira."
+
+msgid "View Caseactive Analytics"
+msgstr "Reba Isesengura Ryakozwe"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Reba neza uko urubanza rugenda rutera imbere, umubare wimanza warangiye "
+"neza, kandi urebe igihe cyo gusubiza ukoresheje CaseActive yuzuye isesengura"
+" ryuzuye. Ubumenyi nimbaraga, kandi twaguhaye ibintu byose bihari kugirango "
+"umenye imishinga yawe."
+
+msgid "Monitor User Logs"
+msgstr "Kurikirana Ibikoresha"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Komeza witegereze kubakiriya hamwe nitsinda ryabagize itsinda hamwe "
+"nibikorwa bya platform kugirango barebe ko ibikorwa byabo byose byemewe "
+"mubipimo byimanza kandi ko abanyamuryango bose bakora imirimo yabo nkuko "
+"bisabwa."
+
+msgid "Employ Advanced Searches"
+msgstr "Koresha Shakisha Ryambere"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Shakisha neza ibyo ukeneye mugihe ubikeneye. Shakisha imanza ukoresheje "
+"amazina yumukoresha n’abakiriya, ijambo ryibanze, ingengabihe, inyandiko "
+"zoherejwe, nibindi byinshi!"
+
+msgid "Create Custom Fields"
+msgstr "Kurema imirima yihariye"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Kora imanza zihariye kubakiriya hamwe nitsinda ryabagize itsinda, hanyuma "
+"ukusanye amakuru ukeneye kubantu bose babigizemo uruhare. Kora isura yimanza"
+" yihariye kubucuruzi bwawe nibirango!"
+
+msgid "Create Custom Templates"
+msgstr "Kurema Inyandikorugero"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Gutezimbere urutonde runini rwimiterere ninyandikorugero zo gukwirakwiza no "
+"kurangiza haba mugihe na nyuma yurubanza (nkabakiriya basohotse "
+"mubushakashatsi). Imiterere yose ukeneye, urashobora gukora!"
+
+msgid "Violet Cherry"
+msgstr "Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Inyemezabuguzi"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Turi hano gufasha! Menyesha niba ugifite ikibazo kandi tuzagusubiza muminsi "
+"ibiri y&#39;akazi."
+
+msgid "* Email is not valid."
+msgstr "* Imeri ntabwo yemewe."
+
+msgid "Low"
+msgstr "Hasi"
+
+msgid "Medium"
+msgstr "Hagati"
+
+msgid "High"
+msgstr "Hejuru"
+
+msgid "Critical"
+msgstr "Birakomeye"
+
+msgid "Choose Importance"
+msgstr "Hitamo Akamaro"
+
+msgid "Department"
+msgstr "Ishami"
+
+msgid "Sales"
+msgstr "Kugurisha"
+
+msgid "Other"
+msgstr "Ibindi"
+
+msgid "Choose Department"
+msgstr "Hitamo Ishami"
+
+msgid "Loading"
+msgstr "Kuremera"
+
+msgid "Importance"
+msgstr "Akamaro"
+
+msgid "Send A New Message"
+msgstr "Ohereza Ubutumwa bushya"
+
+msgid "Send message"
+msgstr "Ohereza ubutumwa"
+
+msgid "Answers to Questions"
+msgstr "Ibisubizo by'ibibazo"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Ufite ikibazo? Soma ubundi buyobozi mubisubizo byacu kubibazo byabakiriya "
+"hanyuma ushakishe ibisubizo byawe wenyine."
+
+msgid "How secure is CaseActive?"
+msgstr "CaseActive ifite umutekano muke?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive ikoresha urwego rwa gisirikari na banki 128-bit ya SSL ibanga ryo"
+" kohereza amakuru hamwe na 256-bit AES ibanga ryamakuru kuruhuka. Buri "
+"CaseActive urugero ifite urufunguzo rwihariye rwakozwe, rutanga urwego "
+"rwumutekano rwubucuruzi bwawe. Ntabwo tuzigera twemerera indi sosiyete "
+"kugera kububiko bwawe cyangwa sisitemu yo kubika."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Mfite sisitemu iriho, Ese CaseActive ishobora gukorana na sisitemu yanjye "
+"iriho?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Nibyo, urashobora guhuza API yacu yihariye cyangwa gutumiza module kugirango"
+" uhite ukora imanza, ugenera abakoresha, kandi utange raporo ukurikije "
+"sisitemu yinjiza."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr "Dufite abakiriya kwisi yose. Ese CaseActive iraboneka mu zindi ndimi?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Nibyo, porogaramu ya CaseActive hamwe n’itumanaho birashobora guhindurwa mu "
+"ndimi zirenga 60, harimo, Igishinwa, Igisipanyoli, Umuhindi n’Uburusiya "
+"kimwe n’icyongereza."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Nshobora kongeramo ikirango cyangwa gutunganya CaseActive muburyo ubwo "
+"aribwo bwose?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Rwose! CaseActive yateguwe nawe mubitekerezo. Kurupapuro rwimikorere ya "
+"admin, urashobora gushiraho ibara ryawe bwite hanyuma ugahitamo amabara "
+"yikigo."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr "Ese CaseActive irahuza nibikoresho byose (PC, Mac, Tablet na Mobile)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive ni porogaramu y'urubuga yitabira. Ikora muri mushakisha iyariyo "
+"yose nka Internet Explorer, Firefox, Safari cyangwa Chrome, nibindi. Ibi "
+"bivuze ko ubwoko bwibikoresho (PC, Mac, Tablet na Mobile) ukoresha ntacyo "
+"bihindura. Fungura gusa mushakisha y'urubuga, injira kuri konte yawe ya "
+"CaseActive, kandi byose urashizweho."
+
+msgid "How many clients can I have?"
+msgstr "Nshobora kugira abakiriya bangahe?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Wishyurwa kuri buri cyicaro cyabakozi, buri kwezi. Urashobora kugira "
+"abakoresha batagira imipaka."
+
+msgid "Enhance User Experience"
+msgstr "Kongera uburambe bwabakoresha"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Nta mafaranga make kandi nta mihigo iri imbere. Wishyura gusa ku ntebe "
+"y'abakozi, ku kwezi."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "ku kwezi"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Ikintu cyose ukeneye kugirango utangire. Harimo imyanya 3."
+
+msgid "Business"
+msgstr "Ubucuruzi"
+
+msgid "Popular"
+msgstr "Birakunzwe"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Gahunda yacu izwi cyane. Harimo imyanya 4."
+
+msgid "Enterprise"
+msgstr "Uruganda"
+
+msgid "Contact sales for pricing"
+msgstr "Menyesha kugurisha kubiciro"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Igiciro cyumukiriya, Ibiranga iterambere, SSO, Urubuga."
+
+msgid "Contact Sales"
+msgstr "Menyesha kugurisha"
+
+msgid "Overview"
+msgstr "Incamake"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Vugana kandi usangire docs nabakiriya bawe"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Teganya ibyabaye hamwe ninama"
+
+msgid "Fully customize your form to generate data"
+msgstr "Hindura neza ifishi yawe kugirango utange amakuru"
+
+msgid "Keep track of case progression"
+msgstr "Kurikirana imigendekere yimanza"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Saba e-umukono wujuje ibisabwa kubakoresha benshi"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Kora fagitire kubakiriya bawe kureba cyangwa kwishyura"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Emerera abantu bose kumenya ibizaza nibikwiye"
+
+msgid "Auto notify the user when something is due"
+msgstr "Auto imenyesha uyikoresha mugihe hari igihe cyagenwe"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Ongeraho imanza zabigenewe kubibazo byawe byose"
+
+msgid "Custom Branding"
+msgstr "Kwamamaza ibicuruzwa"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Kora porogaramu yawe idasanzwe hamwe nikirangantego nuburyo bwamabara"
+
+msgid "Access to customer support"
+msgstr "Kugera kubufasha bwabakiriya"
+
+msgid "Storage"
+msgstr "Ububiko"
+
+msgid "Unlimited"
+msgstr "Ntarengwa"
+
+msgid "Additional Users Seats"
+msgstr "Abakoresha b'inyongera"
+
+msgid "N/A"
+msgstr "N / A."
+
+msgid "$83.34"
+msgstr "$ 83.34"
+
+msgid "Convo with recording"
+msgstr "Convo hamwe no gufata amajwi"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video cyangwa amajwi kuganira hamwe na majwi yabitswe murubanza"
+
+msgid "API Access"
+msgstr "API Kubona"
+
+msgid "Automate tasks with access to API"
+msgstr "Hindura imirimo hamwe no kugera kuri API"
+
+msgid "Module Templates"
+msgstr "Inyandikorugero"
+
+msgid "Create a standard template and reuse it"
+msgstr "Kora inyandikorugero isanzwe hanyuma uyikoreshe"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr "Autorun igikorwa mugihe urubanza cyangwa urubanza rwatanzwe"
+
+msgid "Newsletter"
+msgstr "Akanyamakuru"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Kohereza ubutumwa rusange, isabukuru, cyangwa ibiruhuko kubakiriya (Biza "
+"vuba)"
+
+msgid "Encryption at rest"
+msgstr "Encryption kuruhuka"
+
+msgid "Protects your data from system compromise"
+msgstr "Kurinda amakuru yawe sisitemu yo gutandukana"
+
+msgid "Encryption in transit"
+msgstr "Encryption muri transit"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Kurinda amakuru yawe niba itumanaho rihagaritswe"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML ishingiye kumurongo umwe winjira (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Subiza igihe nyacyo kubyabaye"
+
+msgid "Seamless Collaboration"
+msgstr "Ubufatanye"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive yerekana ubufatanye bwa digitale hagati yikigo cyawe nabakiriya -"
+" kuva kugisha inama kugeza kumyanzuro, byose kumurongo umwe."
+
+msgid "Take a tour"
+msgstr "Fata urugendo"
+
+msgid "Stay Connected"
+msgstr "Komeza Guhuza"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Komeza guhita uhura nabagize itsinda ukoresheje interineti ya CaseActive-"
+"yoroheje-nkumuyoboro umwe uhuza abakiriya no gucunga imanza."
+
+msgid "Connect"
+msgstr "Ihuze"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Kugaburira Case bikomeza kugezwaho amakuru nabakiriya bawe."
+
+msgid "Schedule"
+msgstr "Gahunda"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Kora ibyabaye, utumire abitabiriye, kandi ukurikirane ikirangaminsi."
+
+msgid "Call"
+msgstr "Hamagara"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Kwitabira inama ya videwo nzima guhamagara igihe icyo ari cyo cyose, ahantu "
+"hose."
+
+msgid "Share"
+msgstr "Sangira"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Kohereza dosiye neza, ubiganireho, kandi dusangire."
+
+msgid "Powerful Case Management"
+msgstr "Gucunga Imanza zikomeye"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Hanze-ya-Agasanduku Imikorere"
+
+msgid "Easily assign individuals"
+msgstr "Kugenera abantu kugiti cyabo"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "cyangwa amakipe murubanza no gufatanya nabakiriya."
+
+msgid "Manage user groups"
+msgstr "Gucunga amatsinda y&#39;abakoresha"
+
+msgid "and customize access permissions."
+msgstr "kandi uhindure uburenganzira bwo kwinjira."
+
+msgid "All data is automatically backed up"
+msgstr "Amakuru yose ahita abikwa"
+
+msgid "in case a recovery is ever needed."
+msgstr "mugihe hagomba gukira."
+
+msgid "All information"
+msgstr "Amakuru yose"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "ni ibanga neza, byemeza ubuzima bwawe bwuzuye."
+
+msgid "Customize"
+msgstr "Hindura"
+
+msgid "with your own colors and logo."
+msgstr "n&#39;amabara yawe n&#39;ibirango."
+
+msgid "can be enabled/disabled at any time."
+msgstr "irashobora gushobozwa / guhagarikwa igihe icyo aricyo cyose."
+
+msgid "Benefits of "
+msgstr "Inyungu za"
+
+msgid "Reduction in time "
+msgstr "Kugabanuka mugihe"
+
+msgid "to intake new clients"
+msgstr "gufata abakiriya bashya"
+
+msgid "Minimize "
+msgstr "Gabanya"
+
+msgid "the chance of "
+msgstr "amahirwe ya"
+
+msgid "malpractice"
+msgstr "imyitwarire mibi"
+
+msgid "Better experience "
+msgstr "Uburambe bwiza"
+
+msgid "for your client"
+msgstr "kubakiriya bawe"
+
+msgid "Increase in caseload capacity "
+msgstr "Kongera ubushobozi bwa caseload"
+
+msgid "per staff"
+msgstr "ku bakozi"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Tangira hamwe na porogaramu zacu zubatswe"
+
+msgid "All you need in one place."
+msgstr "Ibyo ukeneye byose ahantu hamwe."
+
+msgid "Case Feed"
+msgstr "Kugaburira Urubanza"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Byoroshye kugenera umukiriya, abakozi, hamwe nabagenzi murubanza kandi "
+"winjire mumwanya utekanye utuma wohereza iterambere ryimanza, ukaganira "
+"mugihe nyacyo no kuganira kuri videwo, hamwe nibyabaye kuri gahunda, "
+"e-ikimenyetso / kohereza / gukuramo inyandiko, na byinshi cyane."
+
+msgid "Case Invoices"
+msgstr "Inyemezabuguzi"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Hamwe na fagitire-fagitire, fagitire yabakiriya ni ugukanda kure, kandi "
+"ikagufasha kohereza ibyifuzo byamafaranga yatanzwe hanyuma ugahabwa ubwishyu"
+" butaziguye."
+
+msgid "Case Events"
+msgstr "Ibyabaye"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Komeza ingengabihe yawe itunganijwe igihe cyose, utegure ibyabaye, gutumira "
+"abitabiriye, kohereza ibyibutsa ibyabaye, kandi urebe ko ibintu byose "
+"bikomeza kumurongo."
+
+msgid "Case Convo"
+msgstr "Urubanza"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Hura nabakiriya hamwe nabagize itsinda hafi ya &#39;imbonankubone&#39; "
+"binyuze mumashusho yerekana amashusho kugirango ubashe kuvugana nabantu bose"
+" babigizemo uruhare."
+
+msgid "Case Forms & E-signs"
+msgstr "Imiterere y'urubanza & E-ibimenyetso"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Hindura neza urupapuro rwawe kugirango ubyare inyandikorugero zidasanzwe "
+"zikenera ibyo ukeneye byihariye. Inyandikorugero zirashobora gukwirakwizwa "
+"kubakiriya hamwe nitsinda ryuzuza no gusinya"
+
+msgid "Case notes"
+msgstr "Inyandiko"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Bika inyandiko hamwe nimirima yihariye hamwe numugereka kubikorwa "
+"byiterambere kubagize itsinda hamwe nigihe kizaza"
+
+msgid "Case Media"
+msgstr "Itangazamakuru"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Kuramo, gusangira, gutanga ibitekerezo, no gukuramo dosiye zijyanye "
+"nurubanza kugirango buriwese agire aho yerekeza kubintu byose byingenzi, "
+"abantu, nibihe."
+
+msgid "About Case"
+msgstr "Ibyerekeye Urubanza"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Reka abakiriya n&#39;abakozi barebe ibisobanuro rusange kubibazo barimo. "
+"Urashobora noneho kurangiza urubanza ibintu byose birangiye, cyangwa ugaha "
+"umunyamuryango uburenganzira bwo kubikora."
+
+msgid "Plus Many More Features"
+msgstr "Ongeraho Ibindi Byinshi Biranga"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Koresha Kwikorera-Kwikorera Ibiranga Ubuyobozi Fata igenzura ryuzuye rya "
+"sisitemu yo gucunga ibintu uhereye kurubuga rwonyine."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Ntagahato uhuza sisitemu yawe iriho na CaseActive Huza API yacu yihariye "
+"kugirango uhite ukora imanza, ugenera abakoresha, kandi utange raporo "
+"zishingiye kubyo winjije muri sisitemu."
+
+msgid "Multi-Language Enabled:"
+msgstr "Indimi nyinshi zishoboye:"
+
+msgid "Interact with clients in"
+msgstr "Imikoranire nabakiriya muri"
+
+msgid "70+ languages"
+msgstr "Indimi 70+"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Waba ukorera mu karere cyangwa kwisi yose, urashobora guhindura ururimi "
+"kavukire rwumukiriya wawe ukoresheje CaseActive"
+
+msgid "language management system"
+msgstr "sisitemu yo gucunga ururimi"
+
+msgid "No more confusion or limits."
+msgstr "Ntibizongera kwitiranya cyangwa imipaka."
+
+msgid "Let's see what others are saying"
+msgstr "Reka turebe icyo abandi bavuga"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Menya uburyo abakiriya bacu beza - kuva mubucuruzi buciriritse kugeza mubigo"
+" - byongereye amahirwe yo guhatanira kuba abarwanyi ba CaseActive."
+
+msgid "SUPPORT"
+msgstr "INKUNGA"
+
+msgid "Everything at Your Fingertips."
+msgstr "Ibintu byose kuri Urutoki rwawe."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Tangira hamwe na porogaramu yawe ya CaseActive ukurikiza amabwiriza ya "
+"videwo, hanyuma uyitondere kugirango uhuze ibyo ukeneye."
+
+msgid "What are you looking for..."
+msgstr "Urimo gushaka iki ..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Ibiherutse kuvugururwa: Ku ya 7 Kamena 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive ibika uburenganzira, igihe icyo ari cyo cyose kandi ku bushake "
+"bwayo, bwo kuvugurura no guhindura ayo ari yo yose cyangwa yose muri aya "
+"Masezerano ya serivisi. Mugihe CaseActive ihinduye aya Masezerano ya "
+"Service, CaseActive izahindura itariki &#39;Iheruka kuvugururwa&#39; hejuru."
+" Ushinzwe gusubiramo buri gihe verisiyo igezweho ya Serivisi. Gukomeza "
+"gukoresha Serivisi nyuma yizo mpinduka zose zakozwe bizaba bigize "
+"uburenganzira bwawe bwo kugengwa nizo mpinduka. Niba wanze ko hagira "
+"igihinduka kuri aya Masezerano ya serivisi, igisubizo cyawe cyonyine kandi "
+"cyihariye ni uguhagarika Serivisi ukurikije aya magambo."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Aya Mategeko rusange ya serivisi akurikizwa kuri serivisi muri rusange. "
+"Amagambo yinyongera akoreshwa kuri buri Serivisi yatanzwe ashyirwa kumurongo"
+" watanzwe hepfo (&#39;Amabwiriza yinyongera ya serivisi&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Serivisi:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Porogaramu yihariye ni urubuga rwa serivisi twakira abakiriya bacu kugirango"
+" dutange serivisi zirambuye hepfo. Kwiyandikisha kuri Serivisi, ugomba "
+"gukora urupapuro rwabigenewe kuri iyo Serivisi kandi / cyangwa ukuzuza "
+"kwiyandikisha kuri iyo serivisi. Ufite uburenganzira gusa bwo gukoresha "
+"Serivisi wiyandikishije kandi wishyuye, kandi imikoreshereze ya Serivisi "
+"ikurikiza kubahiriza amategeko n&#39;amasezerano yose. Uremera kandi ukemera"
+" ko tubitse uburenganzira bwo guhindura Serivisi (cyangwa igice cyayo) buri "
+"gihe kandi ko tutazabaryozwa cyangwa undi muntu uwo ari we wese kugirango "
+"duhindure Serivisi."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Ibisobanuro bya serivisi ya CaseActive: Serivise ya CaseActive ni suite "
+"ya serivise yakiriwe na serivise zo gucunga abakiriya kumurongo zitangwa na "
+"CaseActive LLC. Kwiyandikisha gutemba wemeye, cyangwa Ifishi yo gutumiza "
+"wakoze, igaragaza serivisi ya CaseActive wiyandikishije, igihe cyo "
+"kwiyandikisha hamwe namafaranga wishyurwa nawe kuri Service ya CaseActive. "
+"Amabwiriza yinyongera akurikizwa mugukoresha serivisi ya CaseActive "
+"yashyizweho kuri:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Kwagura serivisi:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Urashobora kwiyandikisha kuri Serivisi zinyongera, harimo Serivisi nshya "
+"nkuko zishobora kuboneka na CaseActive buri gihe, cyangwa ukongera Serivisi "
+"zisanzweho ukoresheje urupapuro rwabigenewe cyangwa iyandikwa ryinjira, "
+"nkigice cya Serivisi. Buri fomu nshya yo kwiyandikisha cyangwa Ifishi yo "
+"gutumiza izaba irimo igiciro nitariki yo kwishyuriraho (s) ya Serivisi "
+"zongerewe icyo gihe. Serivisi zose nshya zigengwa naya Masezerano rusange "
+"yumurimo hamwe nandi mabwiriza yose yinyongera ashobora gukoreshwa muburyo "
+"bwihariye."
+
+msgid "3. Customer Support:"
+msgstr "3. Inkunga y&#39;abakiriya:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Mugihe wishyuye amafaranga yose yishyuwe nawe kuri Serivisi, tuzakoresha "
+"imbaraga zubucuruzi zogutanga, nta kiguzi kuri wewe, serivisi zita kubuhanga"
+" kuri wewe hamwe nabakoresha bawe bemerewe kwiyandikisha kuri Serivisi. "
+"Uhagarariye serivisi zabakiriya azahabwa ibibazo byawe. Imanza zitagira "
+"imipaka zemewe kubakoresha byemewe. Inkunga yacu isanzwe iraboneka 24/7, "
+"usibye iminsi mikuru mikuru, irimo umunsi wo kwibuka, umunsi wubwigenge, "
+"umunsi wumurimo, gushimira, Noheri, numunsi mushya. Urashobora kuvugana "
+"nabakiriya ukoresheje ibyacu"
+
+msgid "Contact Form"
+msgstr "Ifishi y&#39;itumanaho"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Igihe cyo gusubiza ntigishobora kurenza iminsi ibiri yakazi."
+
+msgid "4. Training:"
+msgstr "4. Amahugurwa:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Mugihe wishyuye amafaranga yose yishyuwe nawe kuri Serivisi, tuzatanga "
+"amahugurwa ya kure, atuye cyangwa yanditswe mumahugurwa yabagenewe, amazina "
+"yawe kandi abifitemo uburenganzira kimwe no gutanga inyigisho zishobora "
+"kuboneka binyuze mubice bifasha n&#39;amahugurwa kurubuga rwacu kuri nta "
+"yandi mafaranga yishyurwa. Kuri Serivisi zimwe dutanga amahugurwa kumurongo "
+"kubisabwa no kwishyurwa ryinyongera. Nyamuneka twandikire ukoresheje ibyacu"
+
+msgid "for more information about on-site training."
+msgstr "kubindi bisobanuro bijyanye namahugurwa kurubuga."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Uburenganzira bwawe nimbogamizi:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Uruhushya: Haseguriwe ibikubiye mu masezerano, kandi mugihe cyo "
+"kwishyura ku gihe cyagenwe amafaranga yose asabwa agaragara mu ifishi "
+"yatanzwe cyangwa kwiyandikisha, turaguha uburenganzira budasanzwe, "
+"butimurwa, uburenganzira buke kandi uruhushya rwo gukoresha (kandi wemerere "
+"abakoresha bawe bemerewe gukoresha) Serivisi wiyandikishije, gusa kubikorwa "
+"byawe byimbere."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2. Koresha. Ninshingano zawe kuvanaho kwinjira muri Serivisi niba "
+"imiterere yemewe yumukoresha cyangwa abakozi bagenwe bahindutse."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Inshingano zawe nimbogamizi: Ushinzwe ibikorwa byose bibaho munsi ya "
+"konte yumukoresha wawe cyangwa kubakoresha byemewe. Ugomba: (i) ufite "
+"inshingano zonyine zo kumenya ukuri, ubuziranenge, ubunyangamugayo, "
+"amategeko, kwiringirwa no gukwirakwiza amakuru yose wohereje muri Serivisi; "
+"(ii) gukoresha imbaraga zifatika mubucuruzi kugirango wirinde kugenzura "
+"cyangwa kubangamira uburenganzira cyangwa ubundi buryo ubwo aribwo bwose "
+"butemewe bwo kwinjira, cyangwa gukoresha Serivisi no kutumenyesha bidatinze "
+"kubikoresha bitemewe cyangwa guhungabanya umutekano; (iii) kubahiriza "
+"amategeko yose akurikizwa mu karere, muri Leta, muri Leta zunze ubumwe za "
+"Amerika, no mu mahanga (harimo amategeko yerekeye ubuzima bwite no kurinda "
+"amakuru bwite cyangwa ay&#39;umuguzi) mu gukoresha Serivisi; (iv) ku buryo "
+"bukurikizwa, hubahirizwa amategeko yose akoreshwa mu mashyirahamwe "
+"y&#39;amakarita y&#39;inguzanyo (harimo Express Express y&#39;Abanyamerika, "
+"MasterCard na Visa); kandi (v) kubona no kubungabunga ibikoresho byose bya "
+"mudasobwa, porogaramu n&#39;ibikoresho by&#39;itumanaho bikenewe kugira ngo "
+"ugere kuri Serivisi, kandi wishyure amafaranga yose yo kwinjira (urugero: "
+"amafaranga ya ISP) watewe nawe mu bijyanye no gukoresha Serivisi."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Ntushobora, kandi uzemeza ko abakoresha bawe babiherewe uburenganzira "
+"batabikora, (i) gusenya, guhinduranya injeniyeri, kubora cyangwa kugerageza "
+"kugerageza gusobanura code iyo ari yo yose ijyanye na Serivisi, cyangwa "
+"guhindura, guhuza, gukora imirimo ikomokaho ishingiye, cyangwa guhindura "
+"Serivisi; (ii) uruhushya, sublicense, kugurisha, gukodesha, kugenera, "
+"gukwirakwiza, kwimura igihe, gukodesha, kuguriza, kugurisha inyungu, "
+"kugabura cyangwa gukoresha ubundi bucuruzi, gutanga uburenganzira muri "
+"cyangwa gutanga serivisi kubantu bose; (iii) gukoresha Serivisi usibye ko "
+"byemewe hano cyangwa kurenga ku mategeko ayo ari yo yose akurikizwa; (iv) "
+"kwishora mu bikorwa by&#39;ubucuruzi bitemewe cyangwa bishuka bijyanye na "
+"serivisi; (v) kuzenguruka cyangwa guhagarika umutekano uwo ari wo wose "
+"cyangwa ibindi bikoresho bya tekiniki cyangwa ingamba za Serivisi cyangwa "
+"ikindi kintu icyo ari cyo cyose cya Porogaramu cyangwa, mu buryo ubwo ari "
+"bwo bwose, kugerageza kubona cyangwa kugera ku buryo butemewe na serivisi "
+"cyangwa sisitemu ya mudasobwa cyangwa imiyoboro ijyanye nayo; (vi) gukoresha"
+" Serivisi mu kohereza ihohoterwa, isebanya, iteye isoni, iterabwoba cyangwa "
+"ubundi buryo butemewe n&#39;amategeko, umutekano muke, mubi, gutukana "
+"cyangwa gutoteza, cyangwa kubika cyangwa kohereza ibintu binyuranyije "
+"n’uburenganzira bw’abandi bantu; . ; cyangwa (viii) kwivanga cyangwa "
+"guhungabanya ubusugire cyangwa imikorere ya Serivisi cyangwa amakuru "
+"y’abandi bantu arimo."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Kubungabunga uburenganzira: Nta bundi burenganzira butangwa keretse "
+"nkuko bigaragara mu masezerano. Amasezerano ntabwo agurishwa kandi ntabwo "
+"atanga uburenganzira cyangwa uburenganzira muri, cyangwa kuri, Serivisi "
+"cyangwa software iyo ari yo yose. Dufite uburenganzira bwose, umutwe, "
+"ninyungu, harimo uburenganzira bwose bwumutungo wubwenge, muri no kuri "
+"Serivisi hamwe na software ishingiye hamwe nibindi byose, kuvugurura, "
+"guhindura, kuzamura, kunoza cyangwa imirimo ikomokaho, kandi mubitekerezo "
+"byose, kumenya- nigute, na gahunda zateguwe natwe cyangwa abaduha "
+"uburenganzira mugihe cyimikorere ya Serivisi."
+
+msgid "6. Term and Termination:"
+msgstr "6. Igihe no kurangiza:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Igihembwe: Igihe cya Serivisi kiratandukanye bitewe na Serivisi "
+"wiyandikishije kandi izashyirwa kumpapuro zabigenewe cyangwa zemeranijwe "
+"mukwiyandikisha kandi bizavugururwa kuburyo bukurikira:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Igihe cyibikorwa bya serivisi: Kwiyandikisha kwa Serivise ya "
+"CaseActive bizahita bivugurura manda yukwezi kumwe cyangwa umwaka umwe, "
+"nkuko bigaragara kumpapuro zabigenewe cyangwa kwiyandikisha, keretse "
+"duhagaritse Serivisi uduha kubimenyesha kutavugurura byibuze iminsi mirongo "
+"itatu (30) mbere yuko manda irangiye."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2. hamwe no kumenyesha kutavugururwa byibura iminsi mirongo itatu (30) "
+"mbere yuko manda irangiye."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Imenyesha ryanditse ryo kutavugururwa nawe ugomba gushyikirizwa "
+"CaseActive, LLC, 1107 W. Umuhanda wa 6, Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Guhagarika: Impande zombi zishobora gusesa Amasezerano no kwiyandikisha "
+"kwa Serivisi zose (i) mugihe undi muburanyi yarenze ku nshingano zayo zose "
+"z’amasezerano kandi ayo masezerano akaba adakize mu minsi mirongo itatu (30)"
+" uhereye igihe yakiriye imenyesha ritubahirijwe. ishyaka, cyangwa (ii) niba "
+"undi muburanyi abaye umwenda cyangwa guhomba, guseswa cyangwa guseswa, "
+"cyangwa guhagarika ibikorwa byayo byose. Turashobora guhagarika Amasezerano "
+"ako kanya mugihe habaye ukurenga ku gice cya 5.3 hejuru. Iyo amasezerano "
+"arangiye, uzahita uhagarika imikoreshereze yose ya Serivisi, ureke "
+"guhagararira muburyo ubwo aribwo bwose ko ukoresha Serivisi, kandi usenye "
+"amakuru yacu yose yibanga ufite. Nta muburanyi ugomba kuryozwa ibyangiritse "
+"biturutse ku iseswa ry&#39;amasezerano cyangwa abiyandikishije muri serivisi"
+" nk&#39;uko biteganijwe hano; biteganijwe ariko, ko iseswa ry’amasezerano "
+"ritazagira ingaruka ku kirego cyose kivuka mbere y’iryo seswa."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Gukoresha amakuru yawe mugihe cyo guhagarika: Uremera kandi ukemera ko "
+"nyuma yo kurangira cyangwa guhagarika kimwe mubyo wiyandikishije muri "
+"Serivisi, dushobora guhita duhagarika serivisi zangiritse kandi ko, nyuma "
+"yigihe giteganijwe kitari munsi ya mirongo cyenda (90 ) iminsi, irashobora "
+"gusiba konte yawe namakuru. Ariko, mugihe Serivisi zahagaritswe natwe, "
+"tuzaguha uburenganzira bwigihe gito, bugarukira kuri Serivisi, ntibirenza "
+"iminsi mirongo itatu (30), kubwintego yonyine yo kukwemerera kugarura "
+"amakuru yawe bwite, yatanzwe, ko wishyuye byuzuye kwizera kwiza kutagabanije"
+" kwishyura. Uremeranya kandi ko tutagomba kuryozwa wowe cyangwa undi muntu "
+"uwo ari we wese kugira ngo uhagarike serivisi zawe cyangwa gusiba amakuru "
+"yawe, mu gihe twubahiriza ibikubiye muri iki gice 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Amafaranga:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7 Ifishi. Amafaranga ya serivisi agomba kwishyurwa kandi yishyurwa kumunsi "
+"wa fagitire. Amafaranga ya serivisi arashobora kongerwa hashingiwe "
+"kumafaranga yatanzwe. Amafaranga ya serivisi ntasubizwa nubwo wahagarika "
+"abiyandikishije hakiri kare."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2. Amafaranga yinyongera adasubizwa hamwe namafaranga ateganijwe mumagambo"
+" yinyongera kuri serivisi ikoreshwa."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Gutinda kwishyura: Uremera ko kunanirwa kwishyura amafaranga cyangwa "
+"amafaranga iyo ari yo yose mugihe gishobora kuvamo guhagarika cyangwa "
+"guhagarika ibicuruzwa byawe bya CaseActive. Niba udashoboye kwishyura "
+"amafaranga cyangwa amafaranga yatanzwe hano, CaseActive ifite uburenganzira "
+"bwo kwishora mu kigo gishinzwe gukusanya amafaranga n’amafaranga kandi "
+"uzishyura amafaranga yose yatanzwe na CaseActive bijyanye no gukusanya ayo "
+"mafaranga yashize, harimo , nta mbogamizi, amafaranga y’abavoka bashyira mu "
+"gaciro hamwe n’ibigo byakusanyije hiyongereyeho inyungu zingana n’amafaranga"
+" ari munsi ya 1.0% buri kwezi cyangwa igipimo ntarengwa cyemewe n’amategeko "
+"akurikizwa."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Imisoro: Ushinzwe imisoro yose yagurishijwe, gukoresha umusoro, imisoro "
+"ku nyongeragaciro, imisoro ifatirwa hamwe nindi misoro isa nkiyishyurwa "
+"muburyo ubwo aribwo bwose bwashyizweho ninzego za leta, leta cyangwa "
+"iz&#39;ibanze ku bikorwa biteganijwe n’amasezerano. Mugihe dufite inshingano"
+" zemewe zo kwishyura cyangwa gukusanya imisoro ushinzwe, dukurikije iki "
+"Cyiciro, amafaranga akwiye agomba kwishyurwa no kwishyurwa nawe keretse "
+"uduhaye icyemezo cyemewe cyo gusonerwa imisoro cyemewe ninzego zibishinzwe."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Guhagararirwa na garanti:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1. undi muntu uwo ari we wese, (ii) abantu bose bakora inshingano izo ari "
+"zo zose bagiranye amasezerano yose akenewe kugira ngo yubahirize ibikubiye "
+"mu masezerano, kandi (iii) agomba kubahiriza ibintu byose bifatika amategeko"
+" yose akurikizwa; Serivisi."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Abahagarariye abandi na garanti: Uremeza, uhagararira kandi udusezeranya"
+" ko uzakoresha Serivisi kubwimpamvu zemewe gusa ukurikije Amasezerano hamwe "
+"na politiki zose zikoreshwa na CaseActive."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3. RY&#39;UBUCURUZI, KU BINTU BYOSE, HARIMO ABA BUCURUZI, UMUNTU "
+"UFATANYIJE, TITLE, FITNESS KUBIKORWA BIDASANZWE, CYANGWA BIDASANZWE. NTABWO "
+"TWEMEJE KO SOFTWARE CYANGWA SERIVISI ZIZAHUZA IBISABWA BYANYU BYOSE, HARIMO "
+"IBISABWA BYA KONTI, CYANGWA UKORESHEJWE NA SOFTWARE CYANGWA SERIVISI "
+"ZIZAKORESHWA CYANGWA AMAKOSA-KUBUNTU. SOFTWARE NA SERIVISI ZITANZWE KURI "
+"SHINGIRO &#39;NKUKO&#39; KANDI UKORESHEJE SOFTWARE NA SERIVISI ZIKURIKIRA, "
+"HARIMO, NTA LIMITATION, YUZUYE N&#39;AMATEGEKO YOSE. AMASHYAKA YEMEWE CYANE "
+"KO UREGA AMATEGEKO Y’INGENZI IGICE CY&#39;INGENZI CY&#39;AMASEZERANO."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"DUSOBANURA ABAHAGARARIYE CYANGWA BEMEZO KO UKORESHEJE SERIVISI "
+"BIZAHAGARAGARA CYANGWA BIKWEMERA KUBIKORWA N&#39;INSHINGANO Z&#39;AMATEGEKO "
+"CYANGWA AMATEGEKO CYANGWA AMATEGEKO. IYI NYUMA YASABWE ARIKO NTIBISHOBORA "
+"KUBA LETA ZOSE ZA FEDERAL CYANGWA LETA CYANGWA AMATEGEKO ASHOBORA KUBONA. "
+"URI INSHINGANO CYANE KUBONA KO UKORESHEJE SERIVISI BIFATANYIJE "
+"N&#39;AMATEGEKO AKORESHWA."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"NIBA UDATANZWE NA SERIVISI CYANGWA IYI MASEZERANO, UMUTI WAWE KANDI "
+"UDASANZWE NUKO UKORESHEJE UKORESHEJE SERIVISI."
+
+msgid "9. Confidential Information:"
+msgstr "9. Amakuru y&#39;ibanga:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Keretse keretse byemewe n’urundi ruhande, nta muburanyi ugomba kumenyesha "
+"undi muntu amakuru cyangwa ibikoresho byatanzwe n’undi muburanyi hakurikijwe"
+" ayo masezerano kandi byumvikane neza ko ari ibanga (&#39;Amakuru "
+"y&#39;ibanga&#39;), cyangwa gukoresha ayo makuru y&#39;ibanga mu bundi buryo"
+" ubwo ari bwo bwose kuruta gukora inshingano zayo mu masezerano. Ibibujijwe "
+"bimaze kuvugwa ntabwo bikurikizwa ku makuru ayo ari yo yose ari mu ruhame "
+"rusange cyangwa asanzwe afite mu ishyaka ryakira, yari azwi n’uwakiriye "
+"mbere y’itariki yatangarijweho cyangwa akamenyekana n’uwakiriye nyuma y’undi"
+" muntu ufite ikigaragara bona uburenganzira bwo gutangaza amakuru, cyangwa "
+"Amakuru y&#39;ibanga umuburanyi yakiriye agomba gutanga hashingiwe ku "
+"cyemezo cy&#39;urukiko rubifitiye ububasha cyangwa ihamagarwa "
+"ry&#39;ubutegetsi ryemewe, mu gihe umuburanyi yakiriye atanga umuburanyi "
+"utanga amakuru ku gihe nk&#39;urwo rukiko. gutumiza cyangwa guhamagarwa. "
+"Byongeye kandi, uzemeza ko abakoresha bawe bemewe bazakomeza kugirira "
+"ikizere ijambo ryibanga ryose hamwe nandi makuru yo kugera kuri Serivisi. "
+"Iki gice cya 9 kizakomeza kurangira cyangwa kurangira aya masezerano."
+
+msgid "10. Indemnification:"
+msgstr "10. Indishyi:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Indishyi z&#39;ihohoterwa: Dukurikije ingingo ya 10.4, tuzakwirwanaho "
+"ku kirego cy’abandi bantu bakurega kivuga ko Serivisi zitubahiriza ipatanti "
+"iyo ari yo yose yo muri Amerika yahawe undi muntu guhera ku munsi "
+"ukurikizwa; cyangwa kubangamira uburenganzira ubwo aribwo bwose, "
+"ikirangantego cyangwa ibanga ryubucuruzi bwundi muntu uwo ari we wese (twese"
+" hamwe bita &#39;Umutungo wubwenge ushingiye kuri serivisi&#39;). Mugihe "
+"haramutse hashakishijwe icyemezo cyangwa kibujijwe gukoresha ikoreshwa "
+"ryumutungo wubwenge Ushingiye kuri Serivisi cyangwa mubitekerezo byacu "
+"birashoboka ko dushakishwa cyangwa kuboneka, tuzabishaka, kandi tubikoresha,"
+" (i) kugura kuri wewe hamwe nizina ryawe; abakoresha bemerewe uburenganzira "
+"bwo gukomeza gukoresha Serivisi, cyangwa (ii) gusimbuza cyangwa guhindura "
+"Serivisi kugirango imikoreshereze yabo itabangamiye mugihe bashoboye gukora "
+"cyane umurimo umwe. Mugihe ibyiciro (i) na (ii) byavuzwe haruguru "
+"bidashoboka mubucuruzi, turashobora guhagarika Serivise hanyuma tugasubiza "
+"amafaranga yishyuwe mbere, ariko adakoreshwa. Ntabwo dushinzwe kurengera "
+"cyangwa kuryozwa ikiguzi cyose cyangwa ibyangiritse nkuko bivugwa muri iki "
+"Cyiciro 10.1 niba ihohoterwa rivugwa ryaturutse cyangwa rikaba ryaratewe na "
+"(i) guhindura serivisi iyo ari yo yose nawe (cyangwa umwe mubemerewe cyangwa"
+" abakoresha bagenwe) cyangwa (ii) gukoresha Serivisi ihujwe na serivisi "
+"nibicuruzwa bidatanzwe na CaseActive niba iryo hohoterwa ryaririndwa "
+"hatabayeho guhinduka cyangwa guhuza, cyangwa (iii) kubahiriza ibishushanyo "
+"byawe cyangwa amabwiriza cyangwa (iv) ikirego kivuga ko ntisobanura neza ko "
+"Serivisi arizo ngingo zisabwa (buriwese &#39;Ikirego kitarimo&#39;). "
+"Inshingano z&#39;indishyi zikubiye muri iki Cyiciro 10.1 zizakomeza kubaho "
+"igihe cyose aya masezerano arangiye cyangwa arangiye."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Indishyi z&#39;umutekano wibanga n’ibanga: Haseguriwe Igice cya 10.4, "
+"kandi mugihe cyigihe cyo kwiyandikisha kuri Serivisi, tuzishyura amafaranga "
+"yacu, tuzakurwanirira ikirego cy’abandi bantu bakurega kirega uburangare "
+"bukabije mu gukumira kwinjira bitemewe. Kuri, cyangwa imyitwarire yacu "
+"idahwitse muguhishura, Umuntu ku giti cye Amakuru yamenyekanye kubakiriya "
+"bawe dufite cyangwa tugenzura. Iyi ndishyi ntizakurikizwa mugihe ibyo birego"
+" bituruka cyangwa bifitanye isano n&#39;uburangare bwawe cyangwa imyitwarire"
+" idahwitse nkana cyangwa iy&#39;abakozi bawe cyangwa abahagarariye, cyangwa "
+"ku buryo inshingano zitangwa cyangwa zigarukira ku mpande zombi hakurikijwe "
+"Amasezerano. Inshingano z&#39;indishyi zivugwa muri iki gice zishingiye kuri"
+" wewe werekana uburangare bukabije cyangwa imyitwarire idahwitse yabigizemo "
+"uruhare mu buryo butaziguye kandi byegeranye no kubona cyangwa "
+"kutamenyekanisha amakuru yihariye y&#39;abakiriya bawe dufite cyangwa "
+"tugenzura."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Indishyi zawe: Uremera kwishyura, gufata nabi, no kuturwanirira hamwe "
+"nabakozi bacu bose, abayobozi, abayobozi n&#39;abakozi bacu kubintu byose, "
+"ibisabwa, ibirego, imiburanishirize, iperereza, ibyangiritse, ibiciro, "
+"amafaranga, igihombo, nibindi byose imyenda (harimo igihembo cya avoka "
+"gifite ishingiro, amagarama y&#39;urubanza n&#39;amafaranga yakoreshejwe) "
+"akomoka cyangwa ajyanye na (i) imikoreshereze yawe ya Serivisi mu buryo "
+"bunyuranyije n’amasezerano, (ii) Ikirego kivuyeho, (iii) kutubahiriza ukuri "
+"cyangwa kuvugwa nawe cyo guhagararirwa, garanti, amasezerano cyangwa "
+"inshingano nkuko amasezerano abiteganya, cyangwa (iv) uburangare bwawe "
+"bukabije cyangwa imyitwarire mibi nkana. Inshingano zawe zo kwishyurwa "
+"hakurikijwe iki gice 10.3 zizarokoka amasezerano yose arangiye cyangwa "
+"arangiye."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Kumenyesha n’ubufatanye: Inshingano z’ishyurwa ku muburanyi wishyurwa "
+"hakurikijwe iki gika cya 10 zavuzwe haruguru ziteganijwe (i) umuburanyi "
+"wishyuye amenyesha umuburanyi wishyuye bidatinze mu nyandiko, abizi ku "
+"kirego icyo ari cyo cyose, gishobora kwemererwa kwishyurwa hakurikijwe "
+"Amasezerano. ; (ii) ku buryo bukurikizwa, indishyi zishyuwe zireka gukoresha"
+" serivisi zivugwa mu gihe cyo kubimenyeshwa kimwe; (iii) umuburanyi wishyuye"
+" yemerera umuburanyi kwishyurwa kugira uburenganzira bwonyine bwo kugenzura "
+"ubwunganizi no gukemura icyo kirego icyo ari cyo cyose (hashingiwe ko "
+"umuburanyi wishyuye adashobora gukemura ikibazo icyo ari cyo cyose atabanje "
+"kubiherwa uruhushya n’umuburanyi keretse iyo ubwumvikane burekuye nta shiti "
+"indishyi zishingiye ku nshingano zose); (iv) umuburanyi wishyuye atanga "
+"ubufasha bufatika bwo kwishyuza umuburanyi, kwishyura indishyi "
+"z&#39;ishyaka, mu kurengera icyo kirego; . na (vi) umuburanyi wishyuye "
+"yubahiriza icyemezo icyo ari cyo cyose cyo gukemura cyangwa icyemezo "
+"cy&#39;urukiko cyerekeranye n&#39;ikirego (kijyanye no gukoresha ejo hazaza "
+"ibikoresho byose bibangamiye). Umuburanyi wishyuwe ashobora kugira uruhare "
+"mu kwiregura cyangwa gukemura ikibazo abunganira ku bushake bwabo kandi ku "
+"giti cyabo."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr "10.5."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Imipaka ntarengwa:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"URETSE KUBAHA INGARUKA ZAVUKANYE HAMWE N&#39;UMWANZURO W&#39;ICYICIRO CYA "
+"5.3 CYANGWA 12, KUGEZWEHO MAXIMUM YEMEJWE N&#39;AMATEGEKO, NTA KINTU CYIZA "
+"KUGIRA ICYEMEZO CY&#39;AMAFARANGA YATANZWE CYANE CYANE CYANE CYANGWA "
+"CYEMEZO. WOWE KUBERA SERIVISI ZITUMA KUBONA INSHINGANO MU GIHE CY&#39;UMWAKA"
+" UMWE MU GIHE CYANE ITEGANYA ITARIKI IMPAMVU YO GUKORA."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"URETSE KUBAHA INGARUKA ZAVUKANYE HAMWE N&#39;UMWANZURO W&#39;ICYICIRO CYA "
+"5.3 CYANGWA 12, KUGEZWEHO MAXIMUM YEMEJWE N&#39;AMATEGEKO, NTA KINTU "
+"KIZAHORA HAMWE MU BIKORWA BYINSHI CYANE CYANE CYANE CYANE CYANE CYANE CYANE "
+"CYANE CYANE CYANE CYANE CYANE CYANE CYANE CYANE CYANE CYANE CYANE CYANE "
+"CYANE CYANE CYANE. AMAFARANGA YO GUTANGA ICYIZA CYANGWA SERIVISI CYANGWA "
+"KUBIKORWA BYOSE BIDASANZWE, BIDASANZWE, BIDASANZWE, BIDASANZWE CYANGWA "
+"BIDASANZWE, UKO BYATERANYE BIKURIKIRA, BIKURIKIRA INGINGO ZIKURIKIRA. "
+"INSHINGANO ZAYO HANO, NUBWO CYANGWA CYANE ISHYAKA RYATANZWE KUBISHOBOKA "
+"BYINSHI CYANE."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"KUKO LETA ZIMWE / UBUBASHA NTIBEMERE KUGARAGAZA CYANGWA KUGARAGAZA "
+"INSHINGANO Z&#39;INDISHYI ZIDASANZWE CYANGWA ZIDASANZWE, LIMITATION "
+"YISHOBORA KUBA NTIBIKURIKIRA, KUBURANISHA URUBYIRUKO RWACU RUKURIKIRA."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Amakuru yihariye hamwe n’ibanga:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Uzubahiriza amabanga yose akurikizwa nandi mategeko, amategeko, amabwiriza "
+"nubuyobozi bujyanye no kurinda, gukusanya, gukoresha no gukwirakwiza amakuru"
+" yamenyekanye ku giti cye (nkuko byasobanuwe hepfo) yumuntu uwo ari we wese."
+" Uzashyiraho itangazo ryibanga kurupapuro ukusanyirizamo amakuru yumuntu ku "
+"giti cye (&#39;Itangazo ryerekeye ubuzima bwite&#39;) ryubahiriza amategeko "
+"yose, amategeko, amabwiriza n&#39;amabwiriza akurikizwa kandi, byibuze, "
+"amenyesha abakoresha amakuru yihariye yamenyekanye yakusanyijwe, uburyo "
+"izakoreshwa nuburyo izarindwa umutekano, kandi iragaragaza uburyo bwo "
+"gukusanya (kuki, urumuri rwa interineti cyangwa ubundi buryo bukoreshwa) "
+"hamwe no gukoresha amakuru yakusanyirijwe hamwe na Serivisi, kubona "
+"uruhushya rubimenyeshejwe mbere (opt-in) mbere yo gukoresha icyaricyo cyose "
+"gukurikirana ikoranabuhanga, kurwego rusabwa n&#39;amategeko "
+"n&#39;amabwiriza akurikizwa. Amabwiriza yerekeye ubuzima bwite agomba kandi "
+"kuba akubiyemo amakuru ya tekiniki ajyanye no gukusanya, kohereza no kubika "
+"amakuru yamenyekanye ku giti cye yatanzwe natwe binyuze muri Serivisi. Niba "
+"bisabwa n&#39;amategeko akurikizwa yo kurinda amakuru cyangwa andi mategeko "
+"cyangwa amabwiriza, uzamenyesha abandi bantu ko uduha amakuru yabo bwite "
+"kugirango tuyatunganyirize kandi uzemeza ko abandi bantu bose basabwa "
+"gutanga uburenganzira bwabo bwo gutangaza no gutunganya. Uremera gukurikiza "
+"ibisobanuro n&#39;ibiteganijwe mu ibanga. &#39;Amakuru Yumuntu ku giti "
+"cye&#39; bisobanura amakuru ayo ari yo yose ashobora guhuzwa cyangwa "
+"gukurikiranwa ku muntu uwo ari we wese, harimo izina ry&#39;umuntu, aderesi,"
+" nimero ya terefone, aderesi imeri, amakuru y&#39;amakarita y&#39;inguzanyo,"
+" nimero y&#39;ubwiteganyirize cyangwa andi makuru yihariye asa, atitaye ku "
+"itangazamakuru ayo makuru abikwa (urugero ku mpapuro cyangwa kuri "
+"elegitoroniki)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Dutandukanye:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Amashyaka yigenga: Wowe na CaseActive ni abashoramari bigenga. "
+"Amasezerano ntashyiraho umushinga uhuriweho, ubufatanye, ibigo cyangwa "
+"umubano wakazi hagati yababuranyi. Uzaba ufite inshingano zo gucunga abakozi"
+" bawe gusa hamwe nindishyi zose, imisoro, inyungu ninshingano kubakozi bawe "
+"ndetse nabandi bahagarariye cyangwa abatanga serivise. Yaba wowe cyangwa "
+"umwe mu bakozi bawe, abahagarariye, cyangwa abatanga serivisi ntuzashobora "
+"guhagararirwa, garanti cyangwa ingwate kuri twe, Amasezerano cyangwa "
+"Serivisi usibye ko twemerewe mu nyandiko."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13 kuvugurura, cyangwa kugurisha cyangwa kwimura ibintu byose cyangwa cyane "
+"cyane umutungo wawe wose uduha kumenyesha byibuze iminsi mirongo itatu (30) "
+"mbere yuko irangizwa ryubucuruzi. Inshingano yawe nawe, ishingiye ku bindi "
+"bihe byose, isaba kubanza kubyemererwa, ibyo ntibishobora guhagarikwa "
+"bidafite ishingiro. Turashobora kugenera ubuntu aya masezerano "
+"tutabigusabye. Haseguriwe ibimaze kuvugwa haruguru, aya masezerano agomba "
+"kubahiriza kandi agamije inyungu z’ababuranyi, abasimbuye ndetse "
+"n’inshingano zemewe."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13. Imbaraga zidashobora guhangana zirimo, ariko ntabwo zigarukira gusa: "
+"ibiza (urugero inkuba, umutingito, inkubi y&#39;umuyaga, imyuzure); "
+"intambara, imvururu, ibikorwa by&#39;iterabwoba, n&#39;imvururu "
+"z&#39;abaturage; ibikorwa byabatwara ibicuruzwa byaho, nibindi bikorwa "
+"byabandi bantu; ibisasu n&#39;umuriro; ibihano, imyigaragambyo "
+"n&#39;amakimbirane y&#39;abakozi; ibyemezo bya leta; kunanirwa "
+"kw&#39;abatanga itumanaho cyangwa abatanga serivisi za interineti; kunanirwa"
+" kw&#39;abandi batanga isoko, abatanga serivisi cyangwa abacuruzi; nizindi "
+"mpamvu zose zirenze kugenzura neza ishyaka."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Guhitamo Amategeko: Amasezerano n’amakimbirane yose akomoka cyangwa "
+"ajyanye n’amasezerano azagengwa kandi asobanurwe n’amategeko ya Leta ya "
+"Californiya, hatitawe ku mahame y’amakimbirane y’amategeko. Impaka zose "
+"zikomoka cyangwa zijyanye n’amasezerano zigomba kugengwa n’ububasha "
+"bwihariye n’ahantu inkiko za leta ya Californiya n’intara za Santa Barbara, "
+"muri Californiya, kandi ababuranyi bemera ububasha bwihariye kandi bwihariye"
+" bw’izi nkiko."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-imeri n&#39;amatangazo: Uremeranya kandi ko dushobora kuguha "
+"amatangazo yose, amatangazo yose hamwe nandi makuru yose kuri wewe binyuze "
+"kuri e-imeri, imeri, serivise yohereza ibicuruzwa, cyangwa bigatangwa "
+"nabatwara ibicuruzwa bizwi byandikiwe aderesi iheruka kugenwa. ku "
+"masezerano. Ushinzwe kuduha amakuru yose agezweho."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Nta kureka; Umuti wo guhuriza hamwe: Nta kunanirwa cyangwa gutinda "
+"n’impande zombi mu gukoresha uburenganzira ubwo ari bwo bwose muri aya "
+"masezerano bizaba ari ukureka ubwo burenganzira. Usibye nkuko byavuzwe hano,"
+" imiti yatanzwe hano yongeyeho, kandi ntabwo yihariye, ubundi buryo ubwo "
+"aribwo bwose bwo gukemura ibibazo muburanyi cyangwa muburinganire."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Gukomera: Niba ingingo zose z’aya Masezerano zifatwa n’urukiko "
+"rubifitiye ububasha binyuranyije n’amategeko, ingingo izahindurwa n’urukiko "
+"kandi igasobanurwa kugira ngo igere ku ntego z’ingingo y’umwimerere ku buryo"
+" bwuzuye bwemewe na amategeko, n&#39;ibiteganijwe muri aya masezerano "
+"bizakomeza gukurikizwa."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Amasezerano yose: Ku rugero ntarengwa rwemewe n’amategeko akurikizwa, "
+"aya masezerano, hamwe n’inyandiko zivugwa hano hamwe n’impapuro zose "
+"zategetse hamwe no kwiyandikisha, bigize amasezerano yose hagati "
+"y’ababuranyi ku kibazo cyayo, kandi agasimbuza ibyabanjirije byose kandi "
+"amasezerano y&#39;iki gihe, ibyifuzo cyangwa abahagarariye, byanditse "
+"cyangwa umunwa, bijyanye n&#39;ingingo y&#39;aya masezerano. Nta "
+"guhagararirwa, kwiyemeza cyangwa gusezerana bizafatwa ko byatanzwe cyangwa "
+"bisobanurwa mubintu byose byavuzwe cyangwa byanditswe mubiganiro hagati "
+"yababuranyi mbere yaya masezerano keretse nkuko byavuzwe muri aya "
+"masezerano. Nta muburanyi n&#39;umwe wagira umuti ku bijyanye n&#39;amagambo"
+" ayo ari yo yose yatanzwe n&#39;undi uwo shyaka yashingiyeho kugira ngo "
+"bagire aya masezerano (keretse iyo ayo magambo atari yo yavuzwe mu "
+"buriganya) kandi ko igisubizo cyonyine cy&#39;ishyaka ku byerekeye amagambo "
+"atari yo. kutubahiriza amasezerano nkuko biteganijwe muri aya masezerano. "
+"Uremera kandi ukemera ko amasezerano yawe aha atagengwa nogutanga ibikorwa "
+"byose bizaza cyangwa ibiranga bitavuzwe hano cyangwa muburyo bwo gutumiza "
+"cyangwa biterwa nigitekerezo icyo ari cyo cyose cyanditswe mu magambo "
+"cyangwa cyanditse, rusange cyangwa ibyigenga byatanzwe natwe kubijyanye "
+"nibikorwa bizaza cyangwa ibiranga Kuri Serivisi. Mugihe habaye amakimbirane "
+"hagati yingingo ziteganijwe muri aya Masezerano rusange yumurimo nifishi iyo"
+" ari yo yose yatanzwe cyangwa andi mabwiriza ya serivisi, amategeko yaya "
+"mabwiriza cyangwa andi masezerano yumurimo azatsinda, kugeza aho ayo "
+"makimbirane abereye. Nta tegeko cyangwa ibisabwa bivugwa mu cyemezo cyawe "
+"cyo kugura cyangwa mu zindi nyandiko zawe zose zigomba kwinjizwa cyangwa "
+"gukora igice icyo ari cyo cyose cy’aya masezerano, kandi ayo mabwiriza yose "
+"nta gaciro afite."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Kwohereza hanze: Impande zombi zemeye kubahiriza amategeko "
+"n&#39;amabwiriza akoreshwa muri Amerika yohereza no gutumiza mu mahanga. "
+"Ntushobora kwemerera abakoresha bawe kwinjira cyangwa gukoresha Serivisi mu "
+"buryo bunyuranyije n’ibihano byoherezwa mu mahanga muri Amerika, kubuza "
+"cyangwa kubuza."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Kumenyekanisha: Ntidushobora kukwita umukoresha wa Serivisi utabanje "
+"kubiherwa uruhushya."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Ihuza ryurubuga rwagatatu: Serivisi cyangwa urubuga rwacu rushobora "
+"gushyiramo amahuza kurubuga rwabandi (&#39;Imbuga zihujwe&#39;). Imbuga "
+"zahujwe ntabwo zigenzurwa kandi ntabwo dushinzwe ibikubiye kurubuga urwo "
+"arirwo rwose, harimo nta mbogamizi ihuza Urubuga ruhujwe, cyangwa impinduka "
+"cyangwa ivugururwa ryurubuga ruhujwe cyangwa Serivisi zitangwa binyuze "
+"kurubuga ruhujwe. Turimo gutanga aya mahuza kuri wewe gusa nkuburyo "
+"bworoshye, kandi gushyiramo umurongo uwo ariwo wose ntabwo bivuze ko "
+"twemejwe nuru rubuga cyangwa serivisi zijyanye nayo zitangwa nurubuga."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Uremera kwakira imeri, guhamagara kuri terefone n'ubutumwa bugufi bwa "
+"CaseActive kugirango utange amakuru mashya kubyo wategetse kandi / cyangwa "
+"kubucuruzi. Inshuro zubutumwa ziterwa nigikorwa cyawe. Urashobora guhitamo "
+"gukuramo amatangazo kuri konte yawe cyangwa gusiba konti yawe. Ubutumwa "
+"nibipimo byamakuru birashobora gukurikizwa."
+
+msgid "An error occurred"
+msgstr "Habaye ikibazo"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Ikintu kitagenze neza. Ba injeniyeri bacu barabimenyeshejwe. Kanda buto yo "
+"gusubiramo kugirango usubiremo."
+
+msgid "Reload"
+msgstr "Ongera usubiremo"

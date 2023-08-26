@@ -1,0 +1,18 @@
+{
+  "family_name": "Familljennumm",
+  "given_name": "Virnumm",
+  "locale": "Preferenz\u00e9iert Sprooch",
+  "zoneinfo": "Z\u00e4itzone",
+  "email": "E-Mailadress",
+  "phone": "Telefonsnummer",
+  "address1": "Strooss Adress",
+  "address2": "Apt # oder Eenheet #",
+  "locality": "Stad oder Lokalit\u00e9it",
+  "region": "Staat oder Regioun",
+  "postal_code": "Postleitzuel oder Postleitzuel",
+  "country": "Land",
+  "birthdate": "Gebuertsdatum",
+  "gender": "Geschlecht",
+  "company": "Gesellschaft",
+  "title": "Numm Tittel"
+}

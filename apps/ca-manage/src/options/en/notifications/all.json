@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "When a post is added to Feed",
+  "app_confirmation_events": "Event rsvp is requested from me",
+  "app_submission_events": "My event rsvp is answered",
+  "app_requested_forms": "Form submission is requested from me",
+  "app_submission_forms": "My form is submitted by someone",
+  "app_requested_signs": "Signature submission is requested from me",
+  "app_submission_signs": "My document is signed by someone",
+  "app_requested_tasks": "Task is requested from me",
+  "app_submission_tasks": "My task is completed by someone",
+  "app_requested_invoices": "Invoice submission is requested from me",
+  "app_submission_invoices": "My invoice is paid by someone"
+}

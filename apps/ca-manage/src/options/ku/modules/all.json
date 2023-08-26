@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Hem\u00ee qada doz\u00ea di rola xwe de diyar bikin bixw\u00eenin",
+    "write": "Hem\u00ee qada doz\u00ea ku di rol\u00ea de diyar dike biniv\u00eesin"
+  },
+  "convos": {
+    "read_all": "Rew\u015fa hey\u00ee ya konvoyan bib\u00eenin.",
+    "manage_own": "Tevl\u00ee hev bibin \u00fb nebin konvo.",
+    "moderate_others": "Convo dest p\u00ea bikin, convo bi daw\u00ee bikin, \u00fb be\u015fdar derx\u00eenin.",
+    "read_all_submissions": "Hem\u00ee konvoy\u00ean tomarkir\u00ee bixw\u00eenin."
+  },
+  "events": {
+    "read_all": "Hem\u00ee b\u00fbyeran bixw\u00eenin.",
+    "manage_own": "B\u00fbyera xwe biafir\u00eenin, n\u00fbve bikin \u00fb j\u00eabirin.",
+    "moderate_others": "B\u00fbyerek din n\u00fbve bikin \u00fb j\u00eabirin.",
+    "read_all_submissions": "Hem\u00ee pi\u015ftrastkirina b\u00fbyer\u00ea bixw\u00eenin.",
+    "submit_own": "Daxwaza be\u015fdarb\u00fbna b\u00fbyer\u00ea pi\u015ftrast bikin."
+  },
+  "posts": {
+    "read_all": "Hem\u00ee postan bixw\u00eenin.",
+    "manage_own": "Posta xwe biafir\u00eenin, n\u00fbve bikin \u00fb j\u00eabirin.",
+    "moderate_others": "Mesaja kes\u00ean din n\u00fbve bikin \u00fb j\u00eabirin."
+  },
+  "forms": {
+    "read_all": "Hem\u00ee forman bixw\u00eenin.",
+    "manage_own": "Forma xwe biafir\u00eenin, n\u00fbve bikin \u00fb j\u00eabirin.",
+    "moderate_others": "Forma y\u00ean din n\u00fbve bikin \u00fb j\u00eabirin.",
+    "read_all_submissions": "Hem\u00ee form\u00ean radestkir\u00ee bixw\u00eenin.",
+    "submit_own": "Daxwaza form\u00ea bi\u015f\u00eenin."
+  },
+  "invoices": {
+    "read_all": "Hem\u00ee fat\u00fbreyan bixw\u00eenin.",
+    "manage_own": "fat\u00fbreya xwe biafir\u00eenin, n\u00fbve bikin \u00fb j\u00eabirin.",
+    "moderate_others": "fat\u00fbreya kes\u00ean din n\u00fbve bikin \u00fb j\u00eabirin.",
+    "read_all_submissions": "Hem\u00ee radestkirin\u00ean fat\u00fbrey\u00ea bixw\u00eenin.",
+    "submit_own": "Daxwaza fat\u00fbrey\u00ea bi\u015f\u00eenin."
+  },
+  "notes": {
+    "read_all": "Hem\u00ee notan bixw\u00eenin.",
+    "manage_own": "N\u00ee\u015feya xwe biafir\u00eenin, n\u00fbve bikin \u00fb j\u00eabirin.",
+    "moderate_others": "N\u00ee\u015feya kes\u00ean din n\u00fbve bikin \u00fb j\u00eabirin."
+  },
+  "signs": {
+    "read_all": "Hem\u00ee e-n\u00ee\u015fanan bixw\u00eenin.",
+    "manage_own": "E-n\u00ee\u015fana xwe biafir\u00eenin, n\u00fbve bikin \u00fb j\u00eabirin.",
+    "moderate_others": "E-n\u00ee\u015fana kes\u00ean din n\u00fbve bikin \u00fb j\u00eabirin.",
+    "read_all_submissions": "Hem\u00ee \u015fandin\u00ean e-n\u00ee\u015fan bixw\u00eenin.",
+    "submit_own": "Daxwaza zeviy\u00ea bi\u015f\u00eenin."
+  },
+  "tasks": {
+    "read_all": "Hem\u00ee karan bixw\u00eenin.",
+    "manage_own": "Kar\u00ea xwe biafir\u00eenin, n\u00fbve bikin \u00fb j\u00eabirin.",
+    "moderate_others": "Kar\u00ea y\u00ean din n\u00fbve bikin \u00fb j\u00eabirin.",
+    "read_all_submissions": "Hem\u00ee radestkirin\u00ean peywir\u00ea bixw\u00eenin.",
+    "submit_own": "Daxwaza peywir\u00ea bi\u015f\u00eenin."
+  },
+  "team": { "read_all": "Di rew\u015f\u00ea de t\u00eem\u00ea bixw\u00eenin" }
+}

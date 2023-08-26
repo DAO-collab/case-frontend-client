@@ -1,0 +1,113 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Cumu creà o mudificà i casi cù u strumentu d&#39;importazione
+</h1>
+<p>Questu articulu mostra à l&#39;amministratori cumu creà o mudificà i casi esistenti cù l&#39;utillita Import.</p>
+<h2 id="opening-the-import-tool">Apertura di u strumentu Import</h2>
+<ol style="list-style-type: decimal">
+  <li>Accedi à u contu amministratore.</li>
+  <li>Truvate una app nantu à a pagina Apps è cliccate u buttone ADMIN.</li>
+  <li>In u pannellu Admin, cliccate nantu à a tabulazione Integrazione è dopu IMPORTA in u sottumenu.</li>
+  <li>Cliccate u buttone NEW. A finestra di dialogu Add Imports si mostra in una nova tabulazione di u navigatore.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Crià casi</h2>
+<p>Dopu chì a finestra di dialogu Add Imports si apre:</p>
+<ol style="list-style-type: decimal">
+  <li>Cliccate u campu Type è selezziunate una opzione (vede quì sottu). Un ligame mostra.</li>
+  <li>Cliccate u ligame Download Sample. Un schedariu CSV si scarica in u vostru dispositivu.</li>
+</ol>
+<p>Dopu, apre u schedariu è aghjunghje casi.</p>
+<h2 id="type">Tipu</h2>
+<p>
+  Quandu cliccate nant&#39;à u campu <strong>Type</strong> , un menu a tendina si mostra. Sceglite una di e duie opzioni
+  per l&#39;importazione di casi in massa.
+</p>
+<ul>
+  <li>
+    <strong>Nota</strong> U menù drop-down hà parechje opzioni, ma solu dui sò ligati à a gestione di u casu. Ogni
+    opzione hà un schedariu CSV di mostra differente.
+  </li>
+</ul>
+<h3 id="add-cases">Aghjunghjite i casi</h3>
+<ul>
+  <li>Sceglite sta opzione per una carica simplice in massa di casi.</li>
+  <li>
+    Cliccate u ligame Scaricate Sample per apre un schedariu CSV cù intestazioni di colonna per u tipu
+    d&#39;importazione Crea casi.
+  </li>
+</ul>
+<h3 id="modify-cases">Mudificà i casi</h3>
+<ul>
+  <li>Sceglite sta opzione per aghjurnà i casi attuali.</li>
+  <li>
+    Cliccate u ligame Scaricate Sample per apre un schedariu CSV cù intestazioni di colonna per u tipu
+    d&#39;importazione di mudificà i casi.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Caricà u schedariu</h2>
+<p>
+  Pudete cullà un schedariu subitu o vultà à a finestra di dialogu Add Imports in una data dopu è compie questi passi.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Aprite a finestra di dialogu Add Imports.</li>
+  <li>Inserite un nome unicu per u schedariu CSV.</li>
+  <li>Cliccate nantu à l&#39;icona più (+) per carricà u schedariu da u vostru dispositivu.</li>
+  <li>Cliccate u campu Type è selezziunate una opzione. (vede sopra)</li>
+  <li>Cliccate SAVE.</li>
+</ol>
+<div class="figure"><img src="/images/import-case-2.png" alt="img" /></div>
+<h2 id="formatting">Formatting</h2>
+<p>
+  Quessi sò i campi richiesti è i primi requisiti. Cliccate
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">quì</a> per vede i dettagli
+  di furmatu.
+</p>
+<p>
+  <strong>tag_id (o case_ID)</strong> un identificatore unicu (utilizate caratteri alfanumerici, i trattini sò
+  accettati)
+</p>
+<p><strong>case_status</strong> 0 = chjusu 1 = attivu</p>
+<p><strong>data_apertura</strong> mese/ghjornu/annu mm/gg/aaaa</p>
+<p>
+  <strong>circa</strong> una descrizzione unica di u casu (utilizate caratteri alfanumerici, i trattini sò accettati)
+</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Trattamentu</h2>
+<p>
+  Sicondu u numeru di registri in u schedariu è a carica di u sistema, a piattaforma pò piglià parechji minuti per
+  processà l&#39;importazione.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Quandu l&#39;importazione cumpleta, a piattaforma aghjusta i registri di casi (vale à dì aghjunghje o mudifica) nantu
+  à u dashboard Cases di l&#39;amministratore.
+</p>
+<h2 id="failure">fallimentu</h2>
+<p>
+  Se l&#39;operazione d&#39;impurtazione falla, a piattaforma torna un missaghju Fallatu. In a maiò parte di i casi, a
+  causa di u fallimentu hè u furmatu di dati.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Per vede a causa di u fallimentu:</p>
+<ol style="list-style-type: decimal">
+  <li>Cliccate Vede sottu a rubrica ACTION.</li>
+  <li>Nantu à a pagina dopu, passa u mouse nantu à l&#39;icona Fiascu. U tooltip mostra l&#39;errore.</li>
+  <li>Andate à u schedariu CVS è aghjustate è corregge l&#39;errore.</li>
+  <li>Caricate u schedariu di novu.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

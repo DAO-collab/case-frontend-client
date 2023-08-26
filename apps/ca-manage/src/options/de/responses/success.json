@@ -1,0 +1,13 @@
+{
+  "AppSignup": "App wurde erfolgreich erstellt.",
+  "AvatarDeleted": "Avatar wurde erfolgreich gel\u00f6scht.",
+  "AvatarUpdated": "Avatar wurde erfolgreich hochgeladen.",
+  "CodeSent": "Ein Best\u00e4tigungscode wurde an Ihr Ger\u00e4t gesendet.",
+  "DeviceVerified": "Ger\u00e4t wurde \u00fcberpr\u00fcft.",
+  "GlobalLogout": "Melden Sie sich auf allen Ger\u00e4ten ab. Bis bald.",
+  "LocalLogout": "Melden Sie sich auf diesem Ger\u00e4t ab. Bis bald.",
+  "PasswordUpdated": "Das Passwort wurde erfolgreich aktualisiert.",
+  "ProfileUpdated": "Profil wurde erfolgreich aktualisiert.",
+  "SignupPassword": "Konto wurde erfolgreich erstellt.",
+  "TicketSent": "Eine E-Mail wurde an das Support-Team geschickt."
+}

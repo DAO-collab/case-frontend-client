@@ -1,0 +1,4467 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.332622\n"
+"PO-Revision-Date: 2019-03-13T10:04:22.096875\n"
+"Language: az\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Şəkil faylı seçməlisiniz."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Sənədi yükləyin, imza üçün qeyd edin və sonra müştəri daxil olub imzalayır. "
+"Müştərinin binamıza gəlməsinə ehtiyac olmadan hər şey görülür. Bu, ofisə "
+"yaxın olmayan və ya ştat xaricində yaşayan müştərilərlə əlverişlidir .."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Kapital Sığortası Əməliyyatları Direktoru"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Həmsöhbətlərimiz daxil olduqları işlərin necə getdikləri barədə əsas "
+"məlumatları görə bilərlər. Bu, müraciət müraciətlərimizi çox artırdı ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Christianon &amp; Bayles Hüquq Bürosunun ortağı"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Artıq görüşlər üçün ofisdə müştəriləri görməyə məcbur deyilik və sənəd "
+"imzası hamısı onlayn şəkildə tamamlandı - parlaq!"
+
+msgid "CEO of EL Passion"
+msgstr "EL Passion şirkətinin baş direktoru"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"API-dən istifadə edərək mövcud sistemimizdəki xüsusi tetikleyicilərə "
+"əsaslanaraq, işdə göstərilənləri tamamilə avtomatlaşdırdıq. Çox əlverişlidir"
+" .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Carter Mario yaralanma vəkillərinin İT meneceri"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Tərcümə xüsusiyyətindən istifadə edən çoxdilli müştərilərimiz var. Mesajları"
+" hamının başa düşəcəyinə inamla göndəririk. Bu, yerli işlərdən qlobal işə "
+"keçməyə imkan verir .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Solid Rock Designs şirkətinin baş direktoru"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Müştərilər sevirlər! Bu onların həyatını çox asanlaşdırır. Onları bizimlə "
+"onlayn olaraq müzakirə edə, foto və sənədlər yükləyə bilər və hər şey "
+"komanda və müştəri görə biləcəyi yerdə saxlanılır .."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Ashley &amp; Ashley PC-nin tərəfdaşı"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Biz müştərilərə nə üçün ödədiklərini tam olaraq görmək imkanı verdiyinə görə"
+" fakturanı sevirik .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Sky Digital şirkətinin vitse-prezidenti"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Çarpaz əlaqəli ünsiyyət, bütün sosial medialarınızın və əməkdaşlıq "
+"alətlərinizin bir yerdə olmasına bənzəyir .."
+
+msgid "Director Of Complaint Management"
+msgstr "Şikayətlərin İdarə Edilməsi üzrə Direktor"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Davam formaları, bizə müştəri rəyləri vasitəsilə satışların artırılmasına "
+"kömək etmək üçün bizə qulaq asmağa və öyrənməyə imkan verir .."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Cain &amp; Company satış direktoru"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"İstifadəçi interfeysi Facebook-a çox oxşardır. Istifadə etmək çox asandır .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Wong Medical Group MMC-nin tərəfdaşı"
+
+msgid "A pin has been sent to"
+msgstr "pin göndərildi"
+
+msgid "Cancel"
+msgstr "Ləğv et"
+
+msgid "Send New Pin"
+msgstr "Yeni Pin Göndər"
+
+msgid "Need Help?"
+msgstr "Kömək lazımdır?"
+
+msgid "Click here to contact us"
+msgstr "Bizimlə əlaqə saxlamaq üçün bura klikləyin"
+
+msgid "Next"
+msgstr "Sonrakı"
+
+msgid "Login or Signup"
+msgstr "Daxil ol və ya qeydiyyatdan keç"
+
+msgid "Invalid email entered"
+msgstr "Yanlış e-poçt daxil edilib"
+
+msgid "Processing..."
+msgstr "Qenerasiya ..."
+
+msgid "Made with"
+msgstr "Ilə hazırlanmışdır"
+
+msgid "love"
+msgstr "Sevgi"
+
+msgid "in New York City"
+msgstr "Nyu-Yorkda"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Bütün hüquqlar qorunur"
+
+msgid "Terms of Use"
+msgstr "İstifadə şərtləri"
+
+msgid "Contact Us"
+msgstr "Bizimlə əlaqə saxlayın"
+
+msgid "Username"
+msgstr "İstifadəçi adı"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "New Password"
+msgstr "yeni şifrə"
+
+msgid "Confirm Password"
+msgstr "Şifrəni təsdiqləyin"
+
+msgid "Set Your New Password"
+msgstr "Yeni Şifrənizi Yaradın"
+
+msgid "A code has been sent to"
+msgstr "Bir kod göndərildi"
+
+msgid "Change Password"
+msgstr "Şifrəni dəyişdirin"
+
+msgid "Changing..."
+msgstr "Değişiyor ..."
+
+msgid "Login"
+msgstr "Daxil ol"
+
+msgid "Forgot password?"
+msgstr "Şifrəni unutmusunuz?"
+
+msgid "Help"
+msgstr "Kömək edin"
+
+msgid "Email or Phone"
+msgstr "E-poçt və ya telefon"
+
+msgid "Reset Password"
+msgstr "Parolu sıfırlamak"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Hesabınızla əlaqəli e-poçt adresini və ya telefon nömrəsini daxil edin, "
+"sonra təqdim et vurun. Asanlıqla yeni bir şifrə yarada biləcəyiniz bir "
+"səhifəyə bir e-poçt və ya mətn göndərəcəyik."
+
+msgid "Request Code"
+msgstr "İstek Kodu"
+
+msgid "Requesting..."
+msgstr "İstəyirik ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "MƏHKƏMƏ TEZLİKLƏDİR"
+
+msgid "Create a free account"
+msgstr "Pulsuz hesab yaradın"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Buna son toxunuşları edirik. Hazır olduqda sizə xəbər verəcəyik!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Daha yaxşı bir işbirliyinizə bir neçə dəqiqə qalırsınız."
+
+msgid "First Name"
+msgstr "Adı"
+
+msgid "Last Name"
+msgstr "Soyad"
+
+msgid "Email"
+msgstr "E-poçt"
+
+msgid "Company"
+msgstr "Şirkət"
+
+msgid "No language selected"
+msgstr "Heç bir dil seçilməyib"
+
+msgid "I agree with"
+msgstr "Razıyam"
+
+msgid "Terms of Service"
+msgstr "Xidmət Şərtləri"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Have at least one lower case character"
+msgstr "Ən azı bir kiçik işarəsi var"
+
+msgid "Have at least one capital letter"
+msgstr "Ən azı bir baş məktub var"
+
+msgid "Have at least one number"
+msgstr "Ən azı bir ədəd var"
+
+msgid "Have at least 8 characters in length"
+msgstr "Ən azı 8 simvol uzunluğuna malikdir"
+
+msgid "Type your current password"
+msgstr "Mövcud şifrənizi yazın"
+
+msgid "Passwords must match"
+msgstr "Şifrələr üst-üstə düşməlidir"
+
+msgid "Domains"
+msgstr "Domenlər"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript aradan qaldırıldı. Xahiş edirik bunu təmin edin."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookies aradan qaldırıldı. Xahiş edirik bunu təmin edin."
+
+msgid "New"
+msgstr "Yeni"
+
+msgid "Create A New App"
+msgstr "Yeni Tətbiq Yaradın"
+
+msgid "Apps"
+msgstr "Proqramlar"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Çıxış"
+
+msgid "Hi"
+msgstr "Salam"
+
+msgid "View your account"
+msgstr "Hesabınıza baxın"
+
+msgid "View page"
+msgstr "Səhifəyə baxın"
+
+msgid "You don’t have any apps"
+msgstr "Heç bir tətbiqiniz yoxdur"
+
+msgid "App"
+msgstr "Proqram"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Notifications"
+msgstr "Bildirişlər"
+
+msgid "No notifications yet."
+msgstr "Hələ bildiriş yoxdur."
+
+msgid "Today"
+msgstr "Bu gün"
+
+msgid "Last Week"
+msgstr "Keçən həftə"
+
+msgid "No timezone selected"
+msgstr "Heç bir vaxt zonası seçilməyib"
+
+msgid "Complete profile to continue"
+msgstr "Davam etmək üçün tam profil"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Update"
+msgstr "Yeniləmə"
+
+msgid "Website:"
+msgstr "Veb sayt:"
+
+msgid "Homepage:"
+msgstr "Əsas səhifə:"
+
+msgid "Approve Access"
+msgstr "Giriş təsdiq edin"
+
+msgid "Info"
+msgstr "Məlumat"
+
+msgid "Permissions"
+msgstr "İcazələr"
+
+msgid "Billing"
+msgstr "Faturalandırma"
+
+msgid "Payment Plan"
+msgstr "Ödəniş Planı"
+
+msgid "Edit"
+msgstr "Redaktə et"
+
+msgid "Save"
+msgstr "Yadda saxla"
+
+msgid "has access to your information below:"
+msgstr "aşağıdakı məlumatlara daxil ola bilər:"
+
+msgid "has invited you to their client portal."
+msgstr "sizi müştəri portalına dəvət etdi."
+
+msgid "want access to the following information:"
+msgstr "aşağıdakı məlumatları əldə etmək istəyirik:"
+
+msgid "Decline"
+msgstr "Düşmək"
+
+msgid "Remove Access"
+msgstr "Girişi silin"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Invites"
+msgstr "dəvət edir"
+
+msgid "Disabled"
+msgstr "Əlil"
+
+msgid "No apps found"
+msgstr "Tətbiq tapılmadı"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "istifadəçi"
+
+msgid "manager"
+msgstr "menecer"
+
+msgid "active"
+msgstr "Aktiv"
+
+msgid "inactive"
+msgstr "Effektiv deyil"
+
+msgid "Company Name"
+msgstr "Şirkət Adı"
+
+msgid "Type"
+msgstr "Tipi"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Invitation"
+msgstr "Dəvət"
+
+msgid "About App"
+msgstr "Tətbiq haqqında"
+
+msgid "Billing Info"
+msgstr "Ödəniş Məlumatı"
+
+msgid "Your Company Name"
+msgstr "Şirkətinizin adı"
+
+msgid "Your Company Website"
+msgstr "Sizin Veb saytınız"
+
+msgid "Saving..."
+msgstr "Saving ..."
+
+msgid "Billing Information"
+msgstr "Ödəmə məlumatı"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Lütfən, şirkət tərəfindən verilən APP ID-ni əlavə edin"
+
+msgid "Select an option"
+msgstr "Seçim seçin"
+
+msgid "Join an existing app as a client"
+msgstr "Mövcud proqrama müştəri kimi qoşulun"
+
+msgid "Create a new app for my business"
+msgstr "Biznesim üçün yeni proqram yaradın"
+
+msgid "Create Domain"
+msgstr "Domen yaradın"
+
+msgid "Select enterprise app"
+msgstr "Müəssisə proqramı seçin"
+
+msgid "No item selected"
+msgstr "Heç bir element seçilməyib"
+
+msgid "Domain name"
+msgstr "Domen adı"
+
+msgid "Add"
+msgstr "Əlavə et"
+
+msgid "No enterprise app found"
+msgstr "Heç bir müəssisə proqramı tapılmadı"
+
+msgid "Pending"
+msgstr "gözləyən"
+
+msgid "No domains found"
+msgstr "Heç bir domen tapılmadı"
+
+msgid "Domain"
+msgstr "Domen"
+
+msgid "Txt Value"
+msgstr "Txt dəyəri"
+
+msgid "Enterprise Host ID"
+msgstr "Enterprise Host ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Fəaliyyət"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Reset"
+msgstr "Sıfırlayın"
+
+msgid "Allow Manual Sign In"
+msgstr "Manual Girişə icazə verin"
+
+msgid "Exclude Emails From SSO"
+msgstr "E-poçtları SSO-dan xaric edin"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML Identity Provider Metadata"
+
+msgid "Submit"
+msgstr "təqdim"
+
+msgid "Profile photo"
+msgstr "Profil şəkli"
+
+msgid "Uploading..."
+msgstr "Yüklənir ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr ""
+"başqa bir hesab tərəfindən iddia edildi, zəhmət olmasa dəyişdirin və ya "
+"dəyişdirin"
+
+msgid "reclaim"
+msgstr "düzəltmək"
+
+msgid "it"
+msgstr "o"
+
+msgid "pending verification:"
+msgstr "doğrulama gözləyir:"
+
+msgid "verify"
+msgstr "doğrulayın"
+
+msgid "Phone Number"
+msgstr "Telefon nömrəsi"
+
+msgid "Current Password"
+msgstr "Hazırkı şifrə"
+
+msgid "Change password"
+msgstr "Parolu dəyişdirin"
+
+msgid "No gender selected"
+msgstr "Cinsiyyət seçilməyib"
+
+msgid "Company Title"
+msgstr "Şirkətin adı"
+
+msgid "Address"
+msgstr "Ünvanı"
+
+msgid "Address 2"
+msgstr "ünvan 2"
+
+msgid "City/Locality"
+msgstr "Şəhər / Yerləşmə"
+
+msgid "State/Region"
+msgstr "Dövlət / Region"
+
+msgid "No country selected"
+msgstr "Ölkə seçilməyib"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / Poçt Kodu"
+
+msgid "Basic"
+msgstr "Əsas"
+
+msgid "Date of Birth"
+msgstr "Doğum tarixi"
+
+msgid "Gender"
+msgstr "Cinsiyyət"
+
+msgid "Occupation"
+msgstr "Məşğuliyyət"
+
+msgid "Location"
+msgstr "Yerləşmə"
+
+msgid "Address is not valid"
+msgstr "Ünvan etibarlı deyil"
+
+msgid "City/Locality is not valid"
+msgstr "Şəhər / Yer etibarlı deyil"
+
+msgid "Country"
+msgstr "Ölkə"
+
+msgid "State/Region is not valid"
+msgstr "Ştat / bölgə etibarlı deyil"
+
+msgid "Contact Info"
+msgstr "Əlaqə məlumatı"
+
+msgid "Language & Region"
+msgstr "Dil və Bölgə"
+
+msgid "Saving"
+msgstr "Saxlanır"
+
+msgid "Verify Your"
+msgstr "Sizin təsdiq et"
+
+msgid "Verification Code"
+msgstr "Yoxlama kodu"
+
+msgid "Resend Code"
+msgstr "Kodu yenidən göndərmək"
+
+msgid "Resending"
+msgstr "Yenidən göndərmə"
+
+msgid "Verify"
+msgstr "Doğrulayın"
+
+msgid "Verifying..."
+msgstr "Təsdiqləmə ..."
+
+msgid "Later"
+msgstr "Daha sonra"
+
+msgid "We're here to help"
+msgstr "Biz kömək üçün buradayıq"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Bizə müraciət etdiyiniz üçün təşəkkür edirik. Mesajınız uğurla göndərildi. "
+"Çox tezliklə sizinlə əlaqə saxlayacağıq!"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "characters left"
+msgstr "simvol qalıb"
+
+msgid "Recaptcha"
+msgstr "Səs vermək"
+
+msgid "Send"
+msgstr "Göndər"
+
+msgid "Sending..."
+msgstr "Göndərmə ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Siz artıq siyahıdan e-poçt marketinqi almayacaqsınız."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Vaxtınız varsa, abunəliyi niyə ləğv etdiyinizi bizə bildirin:"
+
+msgid "Return to our website"
+msgstr "Veb saytımıza qayıdın"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Çox sağ ol. Cavabınız göndərildi."
+
+msgid "No Cases"
+msgstr "Heç bir halda yoxdur"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Gallery"
+msgstr "Qalereya"
+
+msgid "Speaker"
+msgstr "Natiq"
+
+msgid "This case has been closed"
+msgstr "Bu iş bağlanıb"
+
+msgid "Feed"
+msgstr "Feed"
+
+msgid "Images"
+msgstr "Şəkillər"
+
+msgid "Docs"
+msgstr "Sənədlər"
+
+msgid "Audios"
+msgstr "Audio"
+
+msgid "Videos"
+msgstr "Videolar"
+
+msgid "Files"
+msgstr "Fayllar"
+
+msgid "Events"
+msgstr "Hadisələr"
+
+msgid "Forms"
+msgstr "Formalar"
+
+msgid "E-signs"
+msgstr "Elektron işarələr"
+
+msgid "Invoices"
+msgstr "Fakturalar"
+
+msgid "Notes"
+msgstr "Qeydlər"
+
+msgid "Tasks"
+msgstr "Tapşırıqlar"
+
+msgid "Convo"
+msgstr "Konvo"
+
+msgid "Great job!"
+msgstr "Əla işdir!"
+
+msgid "You did all"
+msgstr "Hamısını etdin"
+
+msgid "the tasks"
+msgstr "vəzifələr"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Skip to navigation (n)"
+msgstr "Naviqasiya ötürmək (n)"
+
+msgid "Skip to content (c)"
+msgstr "İçindəkinə keç (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Altbilgiyə atlayın (f)"
+
+msgid "Case"
+msgstr "İş"
+
+msgid "Search"
+msgstr "Axtarış"
+
+msgid "Using Form Builder"
+msgstr "Form Builder istifadə"
+
+msgid "Using Forms Library"
+msgstr "Forma Kitabxanasından istifadə"
+
+msgid "Using E-sign Builder"
+msgstr "E-sign Builder istifadə"
+
+msgid "Using E-signs Library"
+msgstr "E-işarələr Kitabxanasından istifadə"
+
+msgid "Documents"
+msgstr "Sənədlər"
+
+msgid "Create Note"
+msgstr "Qeyd yarat"
+
+msgid "Edit Note"
+msgstr "Qeydləri Düzenle"
+
+msgid "End Convo"
+msgstr "Konvoyu bitir"
+
+msgid "Create Form"
+msgstr "Form yarat"
+
+msgid "Create Sign"
+msgstr "İmza yaradın"
+
+msgid "Event Create"
+msgstr "Hadisəni yaradın"
+
+msgid "Convo Videos"
+msgstr "Convo Videolar"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Davalar"
+
+msgid "Case categories"
+msgstr "İş növləri"
+
+msgid "Your team"
+msgstr "Sizin komandanız"
+
+msgid "To do"
+msgstr "Etmək"
+
+msgid "To Do:"
+msgstr "Etmək:"
+
+msgid "Case Categories"
+msgstr "Case Kateqoriyalar"
+
+msgid "Your Team"
+msgstr "Sizin Komandanız"
+
+msgid "To Do"
+msgstr "Etmək"
+
+msgid "Yes"
+msgstr "Bəli"
+
+msgid "Close"
+msgstr "Yaxın"
+
+msgid "Publish"
+msgstr "dərc et"
+
+msgid "Visibility"
+msgstr "Görünürlük"
+
+msgid "all"
+msgstr "hamısı"
+
+msgid "sign"
+msgstr "işarəsi"
+
+msgid "Page"
+msgstr "Səhifə"
+
+msgid "of"
+msgstr "of"
+
+msgid "Processing"
+msgstr "Qenerasiya olunur"
+
+msgid "failed."
+msgstr "uğursuz oldu."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Dəyər 1-ə bərabər və ya böyük olmalıdır"
+
+msgid "Repeat end:"
+msgstr "Sonu təkrarlayın:"
+
+msgid "Signature"
+msgstr "İmza"
+
+msgid "Draw"
+msgstr "çəkmək"
+
+msgid "Write"
+msgstr "yaz"
+
+msgid "Clear Signature"
+msgstr "İmzanı təmizləyin"
+
+msgid "Still processing video..."
+msgstr "Video hələ işlənir ..."
+
+msgid "You"
+msgstr "Sən"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Siz lenti silmək üzrəsiniz. Sən əminsən?"
+
+msgid "No convo audios yet"
+msgstr "Konvo audioları hələ yoxdur"
+
+msgid "No convo videos yet"
+msgstr "Hələ konvo videosu yoxdur"
+
+msgid "Start Convo"
+msgstr "Convo-ya başlayın"
+
+msgid "Notify the Host"
+msgstr "Ev sahibini xəbərdar edin"
+
+msgid "is in the call"
+msgstr "zəngdədir"
+
+msgid "and"
+msgstr "və"
+
+msgid "others are in the call"
+msgstr "başqaları zəngdədir"
+
+msgid "Audio call is being recorded"
+msgstr "Audio zəng qeydə alınır"
+
+msgid "Video call is being recorded"
+msgstr "Video zəng qeydə alınır"
+
+msgid "Join now"
+msgstr "İndi qoşul"
+
+msgid "Dismiss"
+msgstr "Rədd et"
+
+msgid "Can’t find your "
+msgstr "Sizinkini tapa bilmir"
+
+msgid "microphone"
+msgstr "mikrofon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Buna əmin olmaq üçün sistem parametrlərinizi yoxlayın"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"mövcuddur. Əgər yoxsa, birini qoşun. Brauzerinizi yenidən başlatmalı ola "
+"bilərsiniz."
+
+msgid "web camera"
+msgstr "veb kamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Siz Convo zənginə başlayacaqsınız. Başlayın:"
+
+msgid "Video & Audio"
+msgstr "Video & Audio"
+
+msgid "Audio Only"
+msgstr "Yalnız Audio"
+
+msgid "Record the meeting"
+msgstr "Görüşü qeyd edin"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Convo zənginə başlamaq üçün icazəsi olan birini gözləyirik"
+
+msgid "Add Ticket"
+msgstr "Bilet əlavə edin"
+
+msgid "Title"
+msgstr "Başlıq"
+
+msgid "Open"
+msgstr "Açıq"
+
+msgid "Closed"
+msgstr "Bağlı"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Bileti bağlamaq üzrəsiniz. Sən əminsən?"
+
+msgid "Announcements"
+msgstr "Elanlar"
+
+msgid "Support"
+msgstr "Dəstək"
+
+msgid "Opened"
+msgstr "Açıldı"
+
+msgid "View"
+msgstr "Görünüş"
+
+msgid "Locations"
+msgstr "Məkanlar"
+
+msgid "You currently have no announcements."
+msgstr "Hazırda heç bir elanınız yoxdur."
+
+msgid "You currently have no"
+msgstr "Hal-hazırda yoxdur"
+
+msgid "open cases. Click"
+msgstr "açıq işlər. klikləyin"
+
+msgid "here"
+msgstr "burada"
+
+msgid "to contact support."
+msgstr "dəstəyi ilə əlaqə saxlamaq."
+
+msgid "closed cases."
+msgstr "qapalı işlər."
+
+msgid "open tickets."
+msgstr "açıq biletlər."
+
+msgid "closed tickets."
+msgstr "qapalı biletlər."
+
+msgid "You currently have no locations."
+msgstr "Hazırda məkanınız yoxdur."
+
+msgid "Write a comment...."
+msgstr "Şərh yazın ...."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Yerini əlavə edin"
+
+msgid "Save Event"
+msgstr "Tədbiri Saxla"
+
+msgid "Name"
+msgstr "Adı"
+
+msgid "Start Date"
+msgstr "Başlanğıc tarixi"
+
+msgid "Start Time"
+msgstr "Vaxtını başla"
+
+msgid "End Date"
+msgstr "Bitmə vaxtı"
+
+msgid "End Time"
+msgstr "End Time"
+
+msgid "Repeat"
+msgstr "Təkrarlamaq"
+
+msgid "Attendees"
+msgstr "İştirakçılar"
+
+msgid "Event Location"
+msgstr "Hadisə yeri"
+
+msgid "Link"
+msgstr "Bağlantı"
+
+msgid "Description"
+msgstr "Təsvir"
+
+msgid "Attending"
+msgstr "Qatılaraq"
+
+msgid "Add to calendar"
+msgstr "Təqvimə əlavə edin"
+
+msgid "Details"
+msgstr "Təfərrüatlar"
+
+msgid "Event by"
+msgstr "Hadisə tərəfindən"
+
+msgid "Duration:"
+msgstr "Müddət:"
+
+msgid "more"
+msgstr "daha çox"
+
+msgid "Maybe"
+msgstr "Ola bilər"
+
+msgid "Not Attending"
+msgstr "Qatılan deyil"
+
+msgid "No"
+msgstr "Yox"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Video konfrans"
+
+msgid "Event details"
+msgstr "Hadisə təfərrüatları"
+
+msgid "You don't have permissions to view this page."
+msgstr "Bu səhifəni görmək üçün icazəniz yoxdur."
+
+msgid "Your Upcoming Events"
+msgstr "Gələcək Tədbirləriniz"
+
+msgid "Upcoming"
+msgstr "Qarşıdan gələn"
+
+msgid "Your Past Events"
+msgstr "Keçmiş hadisələriniz"
+
+msgid "Past"
+msgstr "Keçmiş"
+
+msgid "Your Events"
+msgstr "Tədbirləriniz"
+
+msgid "All"
+msgstr "Hamısı"
+
+msgid "All Events"
+msgstr "Bütün Hadisələr"
+
+msgid "Directions"
+msgstr "Istiqamətləri"
+
+msgid "Edit settings"
+msgstr "Ayarları redaktə edin"
+
+msgid "Delete event"
+msgstr "Tədbiri silin"
+
+msgid "Attending?"
+msgstr "İştirak edirsiniz?"
+
+msgid "No Events"
+msgstr "Hadisələr yoxdur"
+
+msgid "more comment(s)"
+msgstr "daha çox şərh (lər)"
+
+msgid "Loading comments"
+msgstr "Şərhlər yüklənir"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Şərhi silmək üzrəsiniz. Sən əminsən?"
+
+msgid "task"
+msgstr "vəzifə"
+
+msgid "to do"
+msgstr "etmək"
+
+msgid "tasks"
+msgstr "tapşırıqlar"
+
+msgid "Write something..."
+msgstr "Bir şey yazmaq..."
+
+msgid "Attach File"
+msgstr "Fayl əlavə edin"
+
+msgid "From Template"
+msgstr "Şablondan"
+
+msgid "No feeds yet."
+msgstr "Hələ yem yoxdur."
+
+msgid "comments"
+msgstr "şərhlər"
+
+msgid "comment"
+msgstr "Şərh"
+
+msgid "Add a comment"
+msgstr "Şərh əlavə edin"
+
+msgid "Template"
+msgstr "Şablon"
+
+msgid "No templates"
+msgstr "Şablon yoxdur"
+
+msgid "Done"
+msgstr "Bitdi"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Bu formanı doldurmalı olan üzvləri seçin"
+
+msgid "Update Form"
+msgstr "Formanı yeniləyin"
+
+msgid "Due Date"
+msgstr "Bitiş tarixi, son tarix"
+
+msgid "Due Time"
+msgstr "Zamanında"
+
+msgid "Loading..."
+msgstr "Yüklənir ..."
+
+msgid "Preview"
+msgstr "Önizləmə"
+
+msgid "Save & Close"
+msgstr "Saxla və Bağlayın"
+
+msgid "Add an element"
+msgstr "Bir element əlavə edin"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Media çevrilir. Hazır olduqda sizi xəbərdar edəcəyik"
+
+msgid "Add "
+msgstr "Əlavə et"
+
+msgid "Field"
+msgstr "Sahə"
+
+msgid "Edit "
+msgstr "Redaktə et"
+
+msgid "Text"
+msgstr "Mətn"
+
+msgid "Sub Text"
+msgstr "Alt mətn"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Media çevrilə bilmədi. Lütfən, silin və yenidən cəhd edin və ya başqa."
+
+msgid "Pages"
+msgstr "Səhifələr"
+
+msgid "Saved"
+msgstr "Saxlandı"
+
+msgid "Insert"
+msgstr "Daxil edin"
+
+msgid "Elements"
+msgstr "Elementlər"
+
+msgid "Action Required"
+msgstr "Fəaliyyət Tələb olunur"
+
+msgid "Add a new page"
+msgstr "Yeni səhifə əlavə edin"
+
+msgid "Blank page"
+msgstr "Boş səhifə"
+
+msgid "From PDF"
+msgstr "PDF-dən"
+
+msgid "From image"
+msgstr "Şəkildən"
+
+msgid "Add PDF"
+msgstr "PDF əlavə et"
+
+msgid "Add Image"
+msgstr "Şəkil əlavə edin"
+
+msgid "Options"
+msgstr "Seçimlər"
+
+msgid "Column Names"
+msgstr "Sütun adları"
+
+msgid "Option already exists."
+msgstr "Seçim zaten var."
+
+msgid "options list is empty"
+msgstr "variantlar siyahısı boşdur"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Onay qutuları sahəsi yalnız 5 seçimi dəstəkləyir. Daha çox seçim əlavə etmək"
+" üçün sahəni açılır siyahıya dəyişə bilərsiniz"
+
+msgid "columns list is empty"
+msgstr "sütunlar siyahısı boşdur"
+
+msgid "Default Value"
+msgstr "Cari dəyər"
+
+msgid "Delete row"
+msgstr "Sıranı silin"
+
+msgid "Add a new row"
+msgstr "Yeni sıra əlavə edin"
+
+msgid "Download"
+msgstr "Yüklə"
+
+msgid "Label"
+msgstr "Etiket"
+
+msgid "Question"
+msgstr "Sual"
+
+msgid "Default answer"
+msgstr "Defolt cavab"
+
+msgid "Media is converting"
+msgstr "Media çevrilir"
+
+msgid "Send Form"
+msgstr "Formu göndərin"
+
+msgid "Form Submited."
+msgstr "Formu Submited."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Formaları təqdim etmək üçün icazəniz yoxdur."
+
+msgid "You currently have no forms of your own"
+msgstr "Hazırda öz formalarınız yoxdur"
+
+msgid "Your Uncompleted Forms"
+msgstr "Tamamlanmamış Formalarınız"
+
+msgid "Uncompleted"
+msgstr "Yarımçıq"
+
+msgid "Your Completed Forms"
+msgstr "Tamamlanmış formalarınız"
+
+msgid "Completed"
+msgstr "Tamamlandı"
+
+msgid "Your Forms"
+msgstr "Formalarınız"
+
+msgid "All Forms"
+msgstr "Bütün Formlar"
+
+msgid "Form Title"
+msgstr "Forma adı"
+
+msgid "Author"
+msgstr "Müəllif"
+
+msgid "Published"
+msgstr "Nəşr olunub"
+
+msgid "Submissions"
+msgstr "Təqdimatlar"
+
+msgid "No Forms"
+msgstr "No formaları"
+
+msgid "Upload Form Document"
+msgstr "Forma sənədini yükləyin"
+
+msgid "Forms Library"
+msgstr "Formalar Kitabxanası"
+
+msgid "No Forms In Library"
+msgstr "Kitabxanada formalar yoxdur"
+
+msgid "Answers"
+msgstr "Cavablar"
+
+msgid "Close - Status changed"
+msgstr "Bağlamaq - Vəziyyət dəyişdi"
+
+msgid "Change Status"
+msgstr "Status dəyişdirin"
+
+msgid "Case Number"
+msgstr "Kassa nömrəsi"
+
+msgid "Tag Id"
+msgstr "Tag Id"
+
+msgid "Date Opened"
+msgstr "Tarix açıldı"
+
+msgid "Host Id"
+msgstr "Host İD"
+
+msgid "User Id"
+msgstr "İstifadəçi adı"
+
+msgid "Case Id"
+msgstr "Case ID"
+
+msgid "Confirm your details"
+msgstr "Təfərrüatlarınızı təsdiqləyin"
+
+msgid "Form Submitted."
+msgstr "Forma Təqdim edildi."
+
+msgid "Invoice"
+msgstr "Faktura"
+
+msgid "PO No:"
+msgstr "PO No:"
+
+msgid "Reference ID:"
+msgstr "Referans ID:"
+
+msgid "Term:"
+msgstr "Müddət:"
+
+msgid "Note:"
+msgstr "Qeyd:"
+
+msgid "QTY"
+msgstr "QTY"
+
+msgid "Price"
+msgstr "Qiymət"
+
+msgid "Add more"
+msgstr "Daha çox əlavə et"
+
+msgid "Subtotal($)"
+msgstr "Ara cəmi($)"
+
+msgid "Discount(%)"
+msgstr "Güzəşt(%)"
+
+msgid "TAX(%)"
+msgstr "VERGİ(%)"
+
+msgid "Total($)"
+msgstr "Cəmi($)"
+
+msgid "Invoice No"
+msgstr "Faktura nömrəsi"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Bu fakturaya baxmaq və ya ödəməli olan üzvləri seçin"
+
+msgid "Update Invoice"
+msgstr "Fakturanı yeniləyin"
+
+msgid "Create Invoice"
+msgstr "Faktura yaradın"
+
+msgid "PO No."
+msgstr "PO No."
+
+msgid "Reference ID"
+msgstr "İstinad ID"
+
+msgid "Term"
+msgstr "Müddət"
+
+msgid "Note"
+msgstr "Qeyd"
+
+msgid "Quantity"
+msgstr "Kəmiyyət"
+
+msgid "Price ($)"
+msgstr "Qiymət ($)"
+
+msgid "Subtotal ($)"
+msgstr "Ara cəmi ($)"
+
+msgid "Discount (%)"
+msgstr "Güzəşt (%)"
+
+msgid "Tax (%)"
+msgstr "Vergi (%)"
+
+msgid "Total ($)"
+msgstr "Cəmi ($)"
+
+msgid "Pay Invoice"
+msgstr "Ödəniş faktura"
+
+msgid "Payment method"
+msgstr "Ödəniş üsulu"
+
+msgid "Add a new payment method"
+msgstr "Yeni ödəniş üsulu əlavə edin"
+
+msgid "Summary"
+msgstr "Xülasə"
+
+msgid "Payment:"
+msgstr "Ödəniş:"
+
+msgid "Total charge:"
+msgstr "Ümumi ödəniş:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Ödənilməmiş fakturalarınız"
+
+msgid "Unpaid"
+msgstr "Ödənilməmiş"
+
+msgid "Your Paid Invoices"
+msgstr "Ödənilmiş Fakturalarınız"
+
+msgid "Paid"
+msgstr "Ödənişli"
+
+msgid "Your Invoices"
+msgstr "Fakturalarınız"
+
+msgid "All Invoices"
+msgstr "Bütün fakturalar"
+
+msgid "Invoice Title"
+msgstr "Faktura Başlığı"
+
+msgid "No Invoices"
+msgstr "Faktura yoxdur"
+
+msgid "No Audios yet."
+msgstr "Hələ Audio yoxdur."
+
+msgid "Loading failed."
+msgstr "Yükləmə uğursuz oldu."
+
+msgid "retry"
+msgstr "yenidən cəhd edin"
+
+msgid "No documents yet."
+msgstr "Hələ sənəd yoxdur."
+
+msgid "No Files yet."
+msgstr "Hələ Fayl yoxdur."
+
+msgid "No Images yet."
+msgstr "Hələ Şəkil yoxdur."
+
+msgid "No Videos yet."
+msgstr "Hələ Video yoxdur."
+
+msgid "Page Not Found"
+msgstr "Səhifə tapılmadı"
+
+msgid "Attachments"
+msgstr "Əlavələr"
+
+msgid "Note View"
+msgstr "Qeyd Görünüşü"
+
+msgid "No Notes"
+msgstr "Qeydlər yoxdur"
+
+msgid "Select the person to answer this field"
+msgstr "Bu sahədə cavab verən şəxsləri seçin"
+
+msgid "Create E-sign"
+msgstr "Elektron işarə yaradın"
+
+msgid "Update E-signs"
+msgstr "Elektron nişanları yeniləyin"
+
+msgid "Signs"
+msgstr "İşarələr"
+
+msgid "Add Field"
+msgstr "Alan əlavə edin"
+
+msgid "Edit Field"
+msgstr "Sahəni Düzenle"
+
+msgid "Send E-sign"
+msgstr "E-işarəsi göndərin"
+
+msgid "E-sign Submitted."
+msgstr "E-imza təqdim edildi."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Sizin e-işarələr təqdim etmək icazəniz yoxdur."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Hal-hazırda sizin öz E-işarələriniz yoxdur"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Tamamlanmamış elektron işarələriniz"
+
+msgid "Your Completed E-signs"
+msgstr "Tamamlanmış E-işarələriniz"
+
+msgid "Your Signs"
+msgstr "Bürcləriniz"
+
+msgid "All E-signs"
+msgstr "Bütün e-işarələr"
+
+msgid "E-sign Title"
+msgstr "E-imza Başlığı"
+
+msgid "No E-signs"
+msgstr "E-işarələr yoxdur"
+
+msgid "E-Signs Library"
+msgstr "Elektron İşarələr Kitabxanası"
+
+msgid "No E-signs In Library"
+msgstr "Kitabxanada E-işarə yoxdur"
+
+msgid "Upload E-sign Document"
+msgstr "E-imza sənədini yükləyin"
+
+msgid "Update Task"
+msgstr "Tapşırığı yeniləyin"
+
+msgid "Create Task"
+msgstr "Tapşırıq yaradın"
+
+msgid "You currently have no tasks of your own"
+msgstr "Hal-hazırda sizin heç bir vəzifəniz yoxdur"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Tamamlanmamış Tapşırıqlarınız"
+
+msgid "Your Completed Tasks"
+msgstr "Tamamlanmış Tapşırıqlarınız"
+
+msgid "Your Tasks"
+msgstr "Tapşırıqlarınız"
+
+msgid "All Tasks"
+msgstr "Bütün Tapşırıqlar"
+
+msgid "Task"
+msgstr "Tapşırıq"
+
+msgid "Deadline"
+msgstr "Son tarix"
+
+msgid "Assignees"
+msgstr "Təyin edilmiş şəxslər"
+
+msgid "In Progress"
+msgstr "Davam edir"
+
+msgid "Delete task"
+msgstr "Tapşırığı silin"
+
+msgid "No Tasks"
+msgstr "Tapşırıqlar yoxdur"
+
+msgid "wants access"
+msgstr "giriş istəyir"
+
+msgid "No Answers"
+msgstr "Cavab yoxdur"
+
+msgid "Select Field Type"
+msgstr "Alan Tipini Seçin"
+
+msgid "Text Only"
+msgstr "Yalnız mətn"
+
+msgid "Multiple Line Text"
+msgstr "Birden çox Xətt Mətnidir"
+
+msgid "Dropdown"
+msgstr "Açılan"
+
+msgid "Multi Dropdown"
+msgstr "Çox açılma"
+
+msgid "Checkboxes"
+msgstr "Yoxlama qutuları"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Tarix"
+
+msgid "Time"
+msgstr "Vaxt"
+
+msgid "Yes/No"
+msgstr "Hə Yox"
+
+msgid "Number"
+msgstr "Sayı"
+
+msgid "Access Denied"
+msgstr "Giriş qadağandır"
+
+msgid "You don't have access to this case."
+msgstr "Bu işə girişiniz yoxdur."
+
+msgid "Imports"
+msgstr "İdxal"
+
+msgid "View import"
+msgstr "Importa baxın"
+
+msgid "Sessions"
+msgstr "Sessiyalar"
+
+msgid "Home"
+msgstr "Ev"
+
+msgid "Users"
+msgstr "İstifadəçilər"
+
+msgid "Library"
+msgstr "Kitabxana"
+
+msgid "Integration"
+msgstr "İnteqrasiya"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Düymələr"
+
+msgid "Feed Templates"
+msgstr "Feed Şablonları"
+
+msgid "Form Templates"
+msgstr "Forma Şablonları"
+
+msgid "E-sign Templates"
+msgstr "Elektron işarə şablonları"
+
+msgid "Task Templates"
+msgstr "Tapşırıq şablonları"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payments"
+msgstr "Ödənişlər"
+
+msgid "From"
+msgstr "Dən"
+
+msgid "To"
+msgstr "Kənar"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "User Intake"
+msgstr "İstifadəçi qəbulu"
+
+msgid "Custom Fields"
+msgstr "Fərdi Sahələr"
+
+msgid "After Actions"
+msgstr "Hərəkətlərdən sonra"
+
+msgid "Advance Settings"
+msgstr "Qabaqcıl Parametrlər"
+
+msgid "Label Name"
+msgstr "Etiket Adı"
+
+msgid "Fields"
+msgstr "Sahələr"
+
+msgid "Tag ID"
+msgstr "Tag ID"
+
+msgid "Have many users?"
+msgstr "Çox istifadəçi var?"
+
+msgid "Import users"
+msgstr "İstifadəçiləri idxal edin"
+
+msgid "or"
+msgstr "və ya"
+
+msgid "Send them a signup link."
+msgstr "Onlara qeydiyyat linki göndərin."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "E-poçt və ya telefon nömrəsini daxil etməklə başlayaq"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Invalid phone number entered"
+msgstr "Yanlış telefon nömrəsi daxil edildi"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Bir işi asanlıqla tapmaq üçün bir etiket. sonra dəyişdirilə bilməz"
+
+msgid "Visibility:"
+msgstr "Görünürlük:"
+
+msgid "Who can use this template"
+msgstr "Bu şablondan kim istifadə edə bilər"
+
+msgid "One time"
+msgstr "Bir dəfə"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Davam etməzdən əvvəl etibarlı ödəniş məlumatını daxil edin"
+
+msgid "Add Payment"
+msgstr "Ödəniş əlavə edin"
+
+msgid "Repeat every:"
+msgstr "Hər şeyi təkrarlayın:"
+
+msgid "Let's get started"
+msgstr "Gəlin başlayaq"
+
+msgid "Take me there"
+msgstr "Məni ora apar"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Onboarding"
+msgstr "Onboarding"
+
+msgid "Created on"
+msgstr "tarixində yaradılmışdır"
+
+msgid "Expires on"
+msgstr "Müddəti bitir"
+
+msgid "No announcements yet."
+msgstr "Hələ heç bir elan yoxdur."
+
+msgid "Add Announcement"
+msgstr "Elan əlavə edin"
+
+msgid "Edit Announcement"
+msgstr "Elanı redaktə edin"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Tarix və vaxt ən azı bir saat qabaqda olmalıdır"
+
+msgid "Delete Date"
+msgstr "Tarixi Sil"
+
+msgid "Delete Time"
+msgstr "Vaxtı silin"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "No Users Found"
+msgstr "İstifadəçi tapılmadı"
+
+msgid "No role selected"
+msgstr "Heç bir rol seçilməyib"
+
+msgid "No permissions added!"
+msgstr "No icazələrin əlavə olundu!"
+
+msgid "ASSIGNED USERS"
+msgstr "Təyin olunmuş istifadəçilər"
+
+msgid "CASE PERMISSIONS"
+msgstr "NƏZƏR VƏZİFƏLƏR"
+
+msgid "User ID"
+msgstr "İstifadəçi adı"
+
+msgid "Role"
+msgstr "Rolu"
+
+msgid "remove"
+msgstr "çıxarın"
+
+msgid "Assign User"
+msgstr "İstifadəçi Ata"
+
+msgid "User"
+msgstr "İstifadəçi"
+
+msgid "ADD USER"
+msgstr "İSTİFADƏÇİ əlavə edin"
+
+msgid "Email user about case assignment"
+msgstr "Kassa tapşırığı ilə əlaqədar istifadəçi göndərin"
+
+msgid "Keyword"
+msgstr "Açar söz"
+
+msgid "No cases found."
+msgstr "Heç bir halda tapılmadı."
+
+msgid "Create a case for a business"
+msgstr "Bir iş üçün bir iş yaradın"
+
+msgid "Case ID"
+msgstr "İşin şəxsiyyəti"
+
+msgid "Created On"
+msgstr "Yaradıldı"
+
+msgid "Case Status"
+msgstr "Vəziyyət vəziyyəti"
+
+msgid "Case Type"
+msgstr "Case Tipi"
+
+msgid "Assign Users"
+msgstr "İstifadəçiləri təyin edin"
+
+msgid "No cases found"
+msgstr "Heç bir halda tapılmadı"
+
+msgid "Have many cases?"
+msgstr "Çoxlu hallar var?"
+
+msgid "Click here to import cases."
+msgstr "Davaları idxal etmək üçün bura klikləyin."
+
+msgid "No status selected"
+msgstr "Status seçilməyib"
+
+msgid "No type selected"
+msgstr "Heç bir növ seçilməyib"
+
+msgid "Case Info"
+msgstr "Hadisə məlumatları"
+
+msgid "About"
+msgstr "Haqqında"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Davamı asanlıqla tapmaq üçün daimi etiket. (a-z, 0-9, -, /) icazə verilir"
+
+msgid "Case Types"
+msgstr "Dava növləri"
+
+msgid "Click"
+msgstr "klikləyin"
+
+msgid "to edit case types"
+msgstr "hal növlərini redaktə etmək üçün"
+
+msgid "No Type selected"
+msgstr "Heç bir Növ seçilmədi"
+
+msgid "Case not found!"
+msgstr "Olmaz tapılmadı!"
+
+msgid "Media Size"
+msgstr "Media Ölçü"
+
+msgid "All statistics"
+msgstr "Bütün statistika"
+
+msgid "Import not found."
+msgstr "İdxal tapılmadı."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Faylın işlənməsi uğursuz oldu. Bunun CSV fayl növü olduğundan və düzgün "
+"başlıqlardan ibarət olduğundan əmin olun"
+
+msgid "Data"
+msgstr "Məlumat"
+
+msgid "No Imports yet."
+msgstr "Hələ idxal yoxdur."
+
+msgid "Source"
+msgstr "Mənbə"
+
+msgid "Stats"
+msgstr "Statistikalar"
+
+msgid "Passed:"
+msgstr "Keçdi:"
+
+msgid "Failed:"
+msgstr "Uğursuz:"
+
+msgid "Total:"
+msgstr "Ümumi:"
+
+msgid "Add Imports"
+msgstr "İdxal əlavə edin"
+
+msgid "Download Sample"
+msgstr "Nümunəni yükləyin"
+
+msgid "Choose a file"
+msgstr "Bir fayl seçin"
+
+msgid "Edit Key"
+msgstr "Açarı redaktə edin"
+
+msgid "Add Key"
+msgstr "Açar əlavə edin"
+
+msgid "No Keys yet."
+msgstr "Hələ açar yoxdur."
+
+msgid "Source CIDR"
+msgstr "Mənbə CIDR"
+
+msgid "Remove"
+msgstr "Sil"
+
+msgid "is invalid."
+msgstr "etibarsızdır."
+
+msgid "Secret Key"
+msgstr "Gizli açar"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Yeni gizli açarınızı indi kopyaladığınızdan əmin olun. Yenidən görə "
+"bilməyəcəksiniz!"
+
+msgid "Edit Webhook"
+msgstr "Webhook-u redaktə edin"
+
+msgid "Add Webhook"
+msgstr "Webhook əlavə edin"
+
+msgid "No event selected"
+msgstr "Heç bir hadisə seçilməyib"
+
+msgid "No Webhooks yet."
+msgstr "Hələ Webhooks yoxdur."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Gizli Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Yeni gizli webhook'unuzu indi kopyaladığınızdan əmin olun. Yenidən görə "
+"bilməyəcəksiniz!"
+
+msgid "Sign In"
+msgstr "Daxil ol"
+
+msgid "Login in account page."
+msgstr "Hesab səhifəsinə daxil olun."
+
+msgid "Edit form builder"
+msgstr "Forma qurucusunu redaktə edin"
+
+msgid "Delete form"
+msgstr "Formanı silin"
+
+msgid "No forms yet."
+msgstr "Hələ formalar yoxdur."
+
+msgid "Intake Forms"
+msgstr "Qəbul formaları"
+
+msgid "Upload Intake Form Document"
+msgstr "Qəbul Forması Sənədini yükləyin"
+
+msgid "Add Intake Form"
+msgstr "Qəbul Forması əlavə edin"
+
+msgid "Edit Intake Form"
+msgstr "Qəbul formasını redaktə edin"
+
+msgid "Show Media"
+msgstr "Media göstər"
+
+msgid "Add Post"
+msgstr "Post əlavə et"
+
+msgid "Edit Post"
+msgstr "Yazını redaktə edin"
+
+msgid "Files Amount"
+msgstr "Faylların miqdarı"
+
+msgid "No Feed Templates yet."
+msgstr "Hələ Şablon Şablonları yoxdur."
+
+msgid "Post Name"
+msgstr "Post Adı"
+
+msgid "Post Message"
+msgstr "Mesaj göndər"
+
+msgid "Processing media ..."
+msgstr "Mediya işlənir ..."
+
+msgid "Download original file"
+msgstr "Orijinal faylı yükləyin"
+
+msgid "Could not display media"
+msgstr "Medianı göstərə bilmədi"
+
+msgid "No locations found."
+msgstr "Yer tapılmadı."
+
+msgid "Main Office"
+msgstr "Baş ofis"
+
+msgid "Location Name"
+msgstr "Yerin adı"
+
+msgid "Delete e-sign"
+msgstr "Elektron işarəni silin"
+
+msgid "No e-signs yet."
+msgstr "Hələ elektron işarə yoxdur."
+
+msgid "Subtasks Count"
+msgstr "Alt tapşırıqların sayı"
+
+msgid "No tasks yet."
+msgstr "Hələ tapşırıq yoxdur."
+
+msgid "Invoice ID"
+msgstr "Faktura ID"
+
+msgid "Total"
+msgstr "Ümumi"
+
+msgid "Refund"
+msgstr "Geri qaytarma"
+
+msgid "No invoices yet."
+msgstr "Hələ faktura yoxdur."
+
+msgid "Refund Reason"
+msgstr "Geri ödəmə səbəbi"
+
+msgid "Duplicate charge"
+msgstr "Dublikat ödəniş"
+
+msgid "Fraudulent charge"
+msgstr "Saxta ittiham"
+
+msgid "Requested by customer"
+msgstr "Müştəri tərəfindən tələb olunur"
+
+msgid "On Board"
+msgstr "Bortda"
+
+msgid "Stripe"
+msgstr "Zolaq"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Rol məlumatı"
+
+msgid "It cannot be changed later"
+msgstr "Sonra dəyişdirilə bilməz"
+
+msgid "Role Permissions"
+msgstr "Rolu icazələr"
+
+msgid "e-signs"
+msgstr "e-işarələr"
+
+msgid "on"
+msgstr "on"
+
+msgid "Allowed File Sizes"
+msgstr "Faylın ölçüsünə icazə verilir"
+
+msgid "Create"
+msgstr "Yaradın"
+
+msgid "Creating..."
+msgstr "Yaratmaq ..."
+
+msgid "Modules"
+msgstr "Modullar"
+
+msgid "Roles"
+msgstr "Roles"
+
+msgid "Profile information"
+msgstr "Profil məlumatları"
+
+msgid "No role found."
+msgstr "Heç bir rol tapılmadı."
+
+msgid "When a case is created, auto assign these users"
+msgstr "İş yaradıldıqda, bu istifadəçiləri avtomatik təyin edin"
+
+msgid "Remove All"
+msgstr "Hamısını Sil"
+
+msgid "User Name"
+msgstr "İstifadəçi adı"
+
+msgid "Notify"
+msgstr "Xəbərdar etmək"
+
+msgid "Host User"
+msgstr "Host İstifadəçi"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "İstifadəçi işə təyin edildikdə, şablonları avtomatik əlavə edin"
+
+msgid "No post selected"
+msgstr "Heç bir post seçilmədi"
+
+msgid "No form selected"
+msgstr "Heç bir forma seçilməyib"
+
+msgid "No e-sign selected"
+msgstr "Heç bir e-işarə seçilməyib"
+
+msgid "Templates"
+msgstr "Şablonlar"
+
+msgid "Add Templates"
+msgstr "Şablonlar əlavə edin"
+
+msgid "Idle Cases"
+msgstr "Boş İşlər"
+
+msgid "When a case is idle, post this message"
+msgstr "İş boş olduqda, bu mesajı göndərin"
+
+msgid "No case type selected"
+msgstr "Heç bir iş növü seçilməyib"
+
+msgid "Idle Days"
+msgstr "Boş Günlər"
+
+msgid "Post Id"
+msgstr "Post İD"
+
+msgid "Set Idle Message"
+msgstr "Boş Mesajı təyin edin"
+
+msgid "No task selected"
+msgstr "Heç bir tapşırıq seçilməyib"
+
+msgid "No operation order selected"
+msgstr "Heç bir əməliyyat sırası seçilməyib"
+
+msgid "Operation Order"
+msgstr "Əməliyyat əmri"
+
+msgid "Add Templates to Assign Users"
+msgstr "İstifadəçiləri təyin etmək üçün şablonlar əlavə edin"
+
+msgid "CaseType"
+msgstr "Case Tipi"
+
+msgid "Case Form"
+msgstr "Dava forması"
+
+msgid "User Form"
+msgstr "İstifadəçi forması"
+
+msgid "Notes Form"
+msgstr "Qeydlər forması"
+
+msgid "Defaults"
+msgstr "Varsayılanlar"
+
+msgid "Required"
+msgstr "Lazımdır"
+
+msgid "Public User Signup link:"
+msgstr "İctimai İstifadəçi Qeydiyyatı linki:"
+
+msgid "Design Settings"
+msgstr "Dizayn Ayarları"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Fayl dəyişdirin"
+
+msgid "Delete Favicon"
+msgstr "Faviconu silin"
+
+msgid "Logo:"
+msgstr "Loqo:"
+
+msgid "Delete Logo"
+msgstr "Loqonu silin"
+
+msgid "Text Color"
+msgstr "Mətn Rəngi"
+
+msgid "Recommended Colors:"
+msgstr "Tövsiyə olunan rənglər:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "yenidən qur"
+
+msgid "Background Color"
+msgstr "Fon rəngi"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Şirkət Məlumatı"
+
+msgid "Website"
+msgstr "Veb sayt"
+
+msgid "Terms of Use URL"
+msgstr "İstifadə Şərtləri URL"
+
+msgid "User Signup"
+msgstr "İstifadəçi Qeydiyyatı"
+
+msgid "Allow Signup"
+msgstr "Qeydiyyata icazə verin"
+
+msgid "Auto Create Case"
+msgstr "Avtomatik Case Yaradın"
+
+msgid "Case User Role"
+msgstr "Case İstifadəçi Rolu"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Analitika açarı"
+
+msgid "delete"
+msgstr "silmək"
+
+msgid "Crop Image"
+msgstr "Şəkli əkin"
+
+msgid "No Filter"
+msgstr "Filtrsiz"
+
+msgid "No logs requested."
+msgstr "Heç bir jurnal tələb edilmədi."
+
+msgid "Logs list is empty."
+msgstr "Siyahıların siyahısı boşdur."
+
+msgid "Download CSV"
+msgstr "CSV yükləyin"
+
+msgid "Request Logs"
+msgstr "Günlükleri isteyin"
+
+msgid "Log Type"
+msgstr "Giriş növü"
+
+msgid "Filter"
+msgstr "Filtrə"
+
+msgid "Select a case"
+msgstr "Bir halda seçin"
+
+msgid "Enter the email address"
+msgstr "E-poçt ünvanını daxil edin"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Header (3 max)"
+msgstr "Başlıq (maks. 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"İstifadəçi proqrama qoşulduqda istifadəçidən aşağıdakıları paylaşmasını "
+"xahiş edin"
+
+msgid "No user intake found."
+msgstr "Heç bir istifadəçi girişi tapılmadı."
+
+msgid "User Type"
+msgstr "İstifadəçi Tipi"
+
+msgid "Intake Form"
+msgstr "Qəbul forması"
+
+msgid "Complete After"
+msgstr "Sonra tamamlayın"
+
+msgid "No user type selected"
+msgstr "Heç bir istifadəçi növü seçilmədi"
+
+msgid "No intake form selected"
+msgstr "Heç bir qəbul forması seçilməyib"
+
+msgid "Complete After Date"
+msgstr "Tarixdən sonra tamamlayın"
+
+msgid "Complete After Time"
+msgstr "Vaxt keçdikdən sonra tamamlayın"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Tarix və vaxt indidən az və ya bərabər olmalıdır"
+
+msgid "Comment ct"
+msgstr "Şərh ct"
+
+msgid "View Ticket"
+msgstr "Bilete baxın"
+
+msgid "Ticket"
+msgstr "Bilet"
+
+msgid "No tickets yet."
+msgstr "Hələ bilet yoxdur."
+
+msgid "User not found."
+msgstr "İstifadəçi tapılmadı."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"İstifadəçi host istifadəçisinin atributları bölməsi istisna olmaqla, öz "
+"hesab məlumatlarını redaktə edə bilər."
+
+msgid "Contact"
+msgstr "Əlaqə"
+
+msgid "Phone number"
+msgstr "Telefon nömrəsi"
+
+msgid "Zip Postal Code"
+msgstr "Poçt kodu"
+
+msgid "Host User Attributes"
+msgstr "Host İstifadəçi Atributları"
+
+msgid "User Status"
+msgstr "İstifadəçi statusu"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"İstifadəçini asanlıqla tapmaq üçün daimi etiket. (a-z, 0-9, -, /) icazə "
+"verilir"
+
+msgid "App only User Intake Fields"
+msgstr "Yalnız Tətbiq İstifadəçi Qəbul Sahələri"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "Yalnızca MÜŞTƏRİ ƏMƏKDAŞLARI"
+
+msgid "s found."
+msgstr "tapıldı."
+
+msgid "Created Date"
+msgstr "Yaradılma tarixi"
+
+msgid "View Cases"
+msgstr "Cases Baxın"
+
+msgid "VIEW CASES"
+msgstr "HALLARA BAXIN"
+
+msgid "Get Started"
+msgstr "Başlamaq"
+
+msgid "Password"
+msgstr "Şifrə"
+
+msgid "Email is not valid."
+msgstr "E-poçt etibarlı deyil."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive sizə və müştərinizə imkan verir"
+
+msgid "work together"
+msgstr "birgə iş"
+
+msgid "at any time, in any place."
+msgstr "hər hansı bir yerdə, hər hansı bir yerdə."
+
+msgid "Explore"
+msgstr "Araşdırın"
+
+msgid "Pricing"
+msgstr "Qiymətləndirmə"
+
+msgid "Support & Docs"
+msgstr "Dəstək və Sənədlər"
+
+msgid "FAQ"
+msgstr "Suallar"
+
+msgid "Failed to validate if you are human"
+msgstr "Əgər insansan doğrulaya bilmədi"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "HAZIR OLDUĞU BİLMƏZ!"
+
+msgid "Thank You!"
+msgstr "Çox sağ ol!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Tətbiq hazır olduqda sizə xəbər verəcəyik"
+
+msgid "Most popular"
+msgstr "Ən məşhur"
+
+msgid "All languages"
+msgstr "Bütün dillər"
+
+msgid "Oops, Something went wrong."
+msgstr "Xeyr, bir şey səhv oldu."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Xeyr, bir şey səhv oldu. Komandamıza məlumat verildi. Zəhmət olmasa bir az "
+"sonra yenə cəhd edin."
+
+msgid "Support Documentation"
+msgstr "Dəstək Sənədləri"
+
+msgid "All Categories"
+msgstr "bütün kateqoriyalar"
+
+msgid "Contents"
+msgstr "İçindəkilər"
+
+msgid "Related Articles"
+msgstr "Əlaqədar Məqalələr"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Başlayın: proseslər, ən yaxşı təcrübələr, quraşdırma təlimatları və s.!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "CaseActive-də işləmək üçün lazım olan hər şeyi tapın."
+
+msgid "All case communication in one spot"
+msgstr "Bir vəziyyətdə bütün hallarda ünsiyyət"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Söhbət edin, yeniləmələri göndərin, suallara cavab verin, qeydlər edin, şərh"
+" edin və bütün müzakirələri real vaxt e-poçt və SMS bildirişləri ilə "
+"etiketləyin."
+
+msgid "Share with confidence"
+msgstr "Etibarlı hiss"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Hər hansı bir cihazda müştərilər və komanda üzvləri arasında sənədləri və "
+"şəkilləri paylaşın ki, hər kəs aktuallaşır."
+
+msgid "Take it on the go"
+msgstr "Yolda saxlayın"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Əsas məlumatlar üzərində işləmək, əsas problemləri müzakirə etmək, sənəd "
+"mübadiləsi və real vaxt rejimində iş tərəqqisi üçün tablet və smartfonlar "
+"kimi mobil cihazlardan istifadə edin."
+
+msgid "Immediate records access"
+msgstr "Dərhal qeydlərə giriş"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Səlahiyyətli istifadəçilər müştəri məlumatlarına və iş məlumatlarına (cari, "
+"keçmiş, açıq, qapalı və gözləyən işlər daxil olmaqla) hamısını bir portal "
+"vasitəsilə əldə edə bilərlər."
+
+msgid "Automatic timezone conversion"
+msgstr "Avtomatik vaxt zonası dönüşümü"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Səyahət etmək və ya başqa bir yerdə olsanız, zaman zonamızdakı danışıq "
+"idarəetmə sistemi ilə sinxronlaşacaqsınız."
+
+msgid "Track Events"
+msgstr "Hadisələri baxın"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Görüşləri tez bir zamanda planlaşdırın, qarşıdan gələn hadisələrə nəzarət "
+"edin və müştərilər və qrup üzvlərini iştirakçı kimi dəvət edirik."
+
+msgid "Video Conferencing"
+msgstr "Video konfrans"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Daha interaktivlik üçün canlı video chat vasitəsilə müştərilər və komanda "
+"üzvləri ilə əlaqə saxlayın."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"İş yaradıldıqda və ya istifadəçi işə təyin edildikdə tapşırıqları "
+"avtomatlaşdırın."
+
+msgid "Automated Alerts"
+msgstr "Avtomatlaşdırılmış Alerts"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Müştərilərinizə Müqəddəs Doğum günü arzulayıram? Xüsusi gün üçün həm keçmiş,"
+" həm də cari müştərilər üçün avtomatik bir mesaj qurun!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Müştərilərin detallarını müasir saxlamaq"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Müştərilər, profillərini yenilənmiş məlumatlar, şəkillər, parollar və hesab "
+"ayarları ilə dəyişə bilər."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Sual verin, cavablar alın."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Xüsusi formaları yaradın və başa çatdırmaq üçün müştərilərə göndərin. Əsas "
+"məlumatları toplayın, çıxış anketlərini təmin edin və işinizi yaxşı aparmaq "
+"üçün lazım olan bütün məlumatları əldə edin!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Cain &amp; Company satış direktoru"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Onlayn hesab-fakturalar və ödəmələrlə müştəri göndərmə qaydasını mümkün "
+"qədər asanlıqla yerinə yetirin."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Biz faturalandırmayı sevirik, çünki müştərilərin ödəmə etdiyinin tam olaraq "
+"nə olduğunu görməyə imkan verir."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Sky Digital şirkətinin vitse-prezidenti"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Elektron imzanın asanlığından zövq alın"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Yüklənmiş sənədlərdən və rəqəmsal müştəri imza tələblərindən və "
+"təsdiqlənmədən istifadə edərək DocSign vasitəsilə bütün sənədləri elektron "
+"şəkildə elektron qaydada bağlayın."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Sənədi yükləyin, onu imza üçün qeyd edin və sonra müştəri daxil olur və onu "
+"e-imzalayır. Müştərinin binamıza gəlməsinə ehtiyac olmadan hər şey edilir. "
+"Bu, ofisə yaxın olmayan və ya əyalətdən kənarda yaşayan müştərilər üçün "
+"əlverişlidir."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr "Capital Sığorta əməliyyatları üzrə direktor"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Sisteminizi gücləndirin. Az iş, daha çox nəticə."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Self-Servis İdarəetmə İstifadə funksiyasından istifadə edin"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"CaseActive idarəetmə paketinizin ümumi nəzarətini platformadan özünə "
+"götürün."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Mövcud sisteminizi CaseActive ilə səylə bağlayın"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Avtomatik hallar yaratmaq, istifadəçilər təyin etmək və sistem girişinizə "
+"əsasən hesabatlar yaratmaq üçün mülkiyyətçi API -imizi inteqrasiya edin."
+
+msgid "Acting as a"
+msgstr "A"
+
+msgid "virtual administrative assistant"
+msgstr "virtual inzibati köməkçi"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ", CaseActive xüsusi sənəd və media işləmələri ilə təmin edir"
+
+msgid "client-to-customer communications"
+msgstr "müştəri-müştəri rabitəsi"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "hadisənin planlaşdırılması və addım-addım iş prosesi."
+
+msgid "Self-Serve Administration"
+msgstr "Self-Servis İdarəsi"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Virtual inzibati köməkçi kimi fəaliyyət göstərən CaseActive, sənədləşdirmə "
+"və media ilə işləmə, fərdi müştəri-müştəri ünsiyyəti, hadisələrin "
+"planlaşdırılması və addım-addım işləmə imkanları verir."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "İstifadəçi Girişlərini və Case Yaradılmasını idarə edin"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Bir-birinə ayrıca əsaslarla giriş icazələrini verərkən istifadəçi "
+"hesablarının yaradılmasına birbaşa nəzarət edin. Hər addımın tam hesabatını "
+"verərək dava yaratmağı, irəliləməyi və bağlanmağı idarə edin."
+
+msgid "View Caseactive Analytics"
+msgstr "Zərərli Analytics bax"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Bir işin necə inkişaf etdiyini, işlərin müvəffəqiyyətlə bağlandığını və "
+"CaseActive-nin hərtərəfli analitik modulu vasitəsilə cavab vaxtlarına baxın."
+" Bilik gücdür və öz layihələrinizi bilmək üçün sizə hər şeyi verdik."
+
+msgid "Monitor User Logs"
+msgstr "İstifadəçi qeydlərini izləyin"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Müştəri və komanda üzvlərinin girişlərini və platforma fəaliyyətlərini "
+"diqqətlə nəzərdən keçirin ki, bütün hərəkətləri iş parametrləri daxilində "
+"səlahiyyətlidir və bütün üzvlər öz vəzifələrini tələb olunduğu kimi yerinə "
+"yetirirlər."
+
+msgid "Employ Advanced Searches"
+msgstr "Ətraflı axtarışları istifadə edin"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Ehtiyacınız olduqda tam olaraq nəyi tapın. İstifadəçi və müştəri adları, "
+"açar sözlər, müddətlər, yüklənmiş sənədlər və daha çox şeylər axtarın!"
+
+msgid "Create Custom Fields"
+msgstr "Xüsusi sahələri yaradın"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Müştəri və komanda üzvü girişi üçün ixtisaslaşdırılmış sahələr yaradın və "
+"cəlb olunan hər kəsdən lazım olan məlumatları toplayın. Dava interfeysini "
+"işinizə və markanıza unikal edin!"
+
+msgid "Create Custom Templates"
+msgstr "Xüsusi şablonları yaradın"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Həm iş zamanı, həm də sonra (müştəri çıxışı anketləri kimi) yayılması və "
+"tamamlanması üçün geniş bir xüsusi forma və şablon hazırlayın. Hansı formada"
+" lazımdırsa, yarada bilərsiniz!"
+
+msgid "Violet Cherry"
+msgstr "Violet Albalı"
+
+msgid "As-You-Go Invoicing"
+msgstr "As-You-Go faktura"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrik Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Kömək etmək üçün buradayıq! Hər hansı bir sualınız varsa, əlaqə saxlayın və "
+"biz iki iş günü ərzində cavab verəcəyik."
+
+msgid "* Email is not valid."
+msgstr "* Email etibarlı deyil."
+
+msgid "Low"
+msgstr "Aşağı"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "High"
+msgstr "Yüksək"
+
+msgid "Critical"
+msgstr "Tənqidi"
+
+msgid "Choose Importance"
+msgstr "Əhəmiyyətini seçin"
+
+msgid "Department"
+msgstr "Bölmə"
+
+msgid "Sales"
+msgstr "Satış"
+
+msgid "Other"
+msgstr "Digərləri"
+
+msgid "Choose Department"
+msgstr "Departamenti seçin"
+
+msgid "Loading"
+msgstr "Yüklənir"
+
+msgid "Importance"
+msgstr "Əhəmiyyəti"
+
+msgid "Send A New Message"
+msgstr "Yeni bir mesaj göndər"
+
+msgid "Send message"
+msgstr "Mesaj göndər"
+
+msgid "Answers to Questions"
+msgstr "Suallara cavablar"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Hər hansı bir sualınız varmı? Müştərilərin sorgularına cavablarımızda daha "
+"çox təlimat oxuyun və öz cavablarını tapa bilərsiniz."
+
+msgid "How secure is CaseActive?"
+msgstr "CaseActive nə dərəcədə təhlükəsizdir?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive məlumat ötürülməsi üçün hərbi və bank dərəcəli 128-bit SSL "
+"şifrələməsindən və istirahətdə olan məlumatlar üçün 256-bit AES "
+"şifrələməsindən istifadə edir. Hər CaseActive instansiyasında biznesiniz "
+"üçün əlavə təhlükəsizlik səviyyəsini təmin edən unikal açar yaradılır. Biz "
+"heç vaxt başqa şirkətin verilənlər bazanıza və ya saxlama sisteminizə daxil "
+"olmasına icazə verməyəcəyik."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Mövcud sistemim var, CaseActive mənim mövcud sistemimlə işləyə bilərmi?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Bəli, siz bizim xüsusi API və ya idxal modulumuzu avtomatik olaraq hallar "
+"yaratmaq, istifadəçiləri təyin etmək və sistem daxiletməniz əsasında "
+"hesabatlar yaratmaq üçün inteqrasiya edə bilərsiniz."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Bütün dünyada müştərilərimiz var. CaseActive digər dillərdə mövcuddur?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Bəli, CaseActive proqramı və ünsiyyəti 60-dan çox dilə, o cümlədən Mandarin "
+"Çini, İspan, Hind və Rus, eləcə də İngilis dillərinə tərcümə edilə bilər."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Loqo əlavə edə və ya CaseActive-i hər hansı şəkildə fərdiləşdirə bilərəmmi?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Mütləq! CaseActive sizin üçün nəzərdə tutulmuşdur. İdarəetmə panelinin "
+"parametrləri səhifəsində öz şəxsi rənginizi yükləyə və şirkət rənglərinizi "
+"seçə bilərsiniz."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"CaseActive hər hansı bir cihazla (PC, Mac, Planşet və Mobil) uyğun gəlirmi?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive cavab verən veb tətbiqidir. O, Internet Explorer, Firefox, Safari"
+" və ya Chrome və s. kimi istənilən veb brauzerdə işləyir. Bu o deməkdir ki, "
+"istifadə etdiyiniz cihazın növü (PC, Mac, Planşet və Mobil) heç bir fərq "
+"qoymur. Sadəcə veb brauzeri açın, CaseActive hesabınıza daxil olun və "
+"hamınız hazırsınız."
+
+msgid "How many clients can I have?"
+msgstr "Neçə müştərim ola bilər?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Sizdən ayda bir işçi yeri üçün ödəniş edilir. Limitsiz müştəri istifadəçiniz"
+" ola bilər."
+
+msgid "Enhance User Experience"
+msgstr "İstifadəçi Təcrübəsini Təkmilləşdirin"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Minimum ödənişlər və ilkin öhdəliklər yoxdur. Ayda yalnız hər bir işçi yeri "
+"üçün ödəyirsiniz."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "hər ay üçün"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Başlamaq üçün lazım olan hər şey. 3 oturacaq daxildir."
+
+msgid "Business"
+msgstr "Biznes"
+
+msgid "Popular"
+msgstr "Məşhur"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Ən populyar planımız. 4 oturacaq daxildir."
+
+msgid "Enterprise"
+msgstr "Müəssisə"
+
+msgid "Contact sales for pricing"
+msgstr "Qiymət üçün satışla əlaqə saxlayın"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Fərdi Qiymətləndirmə, Qabaqcıl xüsusiyyətlər, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Satış ilə əlaqə saxlayın"
+
+msgid "Overview"
+msgstr "Ümumi baxış"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Müştərilərinizlə əlaqə saxlayın və sənədləri paylaşın"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Təkrarlanan tədbirlər və görüşlər planlaşdırın"
+
+msgid "Fully customize your form to generate data"
+msgstr "Məlumat yaratmaq üçün formanızı tamamilə fərdiləşdirin"
+
+msgid "Keep track of case progression"
+msgstr "Davanın gedişatını izləyin"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Birdən çox istifadəçidən uyğun e-imza tələb edin"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Müştərinizin baxması və ya ödəməsi üçün faktura yaradın"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Hər kəsə nəyin gələcəyini və nəyin gözlədiyini bilməyə imkan verir"
+
+msgid "Auto notify the user when something is due"
+msgstr "Nəyinsə vaxtı çatdıqda istifadəçini avtomatik xəbərdar edir"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Bütün hallarınız üçün fərdi iş sahələri əlavə edin"
+
+msgid "Custom Branding"
+msgstr "Fərdi Brendləşdirmə"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Loqo və rəng üslubları ilə tətbiqinizi unikal edin"
+
+msgid "Access to customer support"
+msgstr "Müştəri dəstəyinə giriş"
+
+msgid "Storage"
+msgstr "Saxlama"
+
+msgid "Unlimited"
+msgstr "Limitsiz"
+
+msgid "Additional Users Seats"
+msgstr "Əlavə İstifadəçi Oturacaqları"
+
+msgid "N/A"
+msgstr "Yoxdur"
+
+msgid "$83.34"
+msgstr "83,34 dollar"
+
+msgid "Convo with recording"
+msgstr "Səsyazma ilə konvo"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "İşdə saxlanılan qeyd ilə video və ya audio söhbət"
+
+msgid "API Access"
+msgstr "API Girişi"
+
+msgid "Automate tasks with access to API"
+msgstr "API girişi ilə tapşırıqları avtomatlaşdırın"
+
+msgid "Module Templates"
+msgstr "Modul şablonları"
+
+msgid "Create a standard template and reuse it"
+msgstr "Standart bir şablon yaradın və onu yenidən istifadə edin"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Təyin edilmiş iş və ya iş işə salındıqda əməliyyatı avtomatik icra edin"
+
+msgid "Newsletter"
+msgstr "Xəbər bülleteni"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr "Müştərilərə ümumi, ad günü və ya bayram mesajları göndərin (Tezliklə)"
+
+msgid "Encryption at rest"
+msgstr "İstirahət zamanı şifrələmə"
+
+msgid "Protects your data from system compromise"
+msgstr "Məlumatlarınızı sistem təhlükəsindən qoruyur"
+
+msgid "Encryption in transit"
+msgstr "Tranzitdə şifrələmə"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Əlaqələr ələ keçirildikdə məlumatlarınızı qoruyur"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML əsaslı tək giriş (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Hadisələrə real vaxtda cavab verin"
+
+msgid "Seamless Collaboration"
+msgstr "Sorunsuz Əməkdaşlıq"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive şirkətiniz və müştəriləriniz arasında rəqəmsal əməkdaşlığı "
+"asanlaşdırır - məsləhətləşmədən həllə qədər hamısı bir platformada."
+
+msgid "Take a tour"
+msgstr "Bir tur atın"
+
+msgid "Stay Connected"
+msgstr "Bağlı olun"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"CaseActive-in istifadəçi dostu interfeysini müştəri və iş idarəetmə üçün bir"
+" pəncərə mərkəzi olaraq istifadə edərək komanda üzvləri ilə sürətli əlaqə "
+"qurun."
+
+msgid "Connect"
+msgstr "Bağlayın"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed, müşterilerinizle güncel tutar."
+
+msgid "Schedule"
+msgstr "Cədvəl"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Tədbirlər yaradın, iştirakçıları dəvət edin və təqviminizi izləyin."
+
+msgid "Call"
+msgstr "Zəng et"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "Canlı videokonfransda hər zaman, hər yerdə zəng edin."
+
+msgid "Share"
+msgstr "Paylaş"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Təhlükəsiz faylları yükləyin, müzakirə edin və paylaşın."
+
+msgid "Powerful Case Management"
+msgstr "Güclü Case Management"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Qeyri-Dəyişən İşlevsellik"
+
+msgid "Easily assign individuals"
+msgstr "Asanlıqla fərdlər təyin edin"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "və ya qrupları bir işə çağırır və müştərilərlə əməkdaşlıq edir."
+
+msgid "Manage user groups"
+msgstr "İstifadəçi qruplarını idarə edin"
+
+msgid "and customize access permissions."
+msgstr "və giriş icazələrini özelleştirin."
+
+msgid "All data is automatically backed up"
+msgstr "Bütün məlumatlar avtomatik olaraq qorunur"
+
+msgid "in case a recovery is ever needed."
+msgstr "bir bərpa ehtiyac olduqda."
+
+msgid "All information"
+msgstr "Bütün məlumatlar"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "təhlükəsiz şifrələnir, mütləq gizlilik təmin edir."
+
+msgid "Customize"
+msgstr "Özəlləşdirmək"
+
+msgid "with your own colors and logo."
+msgstr "öz rəngləri və loqosu ilə."
+
+msgid "can be enabled/disabled at any time."
+msgstr "istənilən vaxt effektiv / əlil ola bilər."
+
+msgid "Benefits of "
+msgstr "Faydaları"
+
+msgid "Reduction in time "
+msgstr "Vaxtın azaldılması"
+
+msgid "to intake new clients"
+msgstr "yeni müştərilər qəbul etmək"
+
+msgid "Minimize "
+msgstr "minimuma endir"
+
+msgid "the chance of "
+msgstr "şansı"
+
+msgid "malpractice"
+msgstr "səhv hərəkət"
+
+msgid "Better experience "
+msgstr "Daha yaxşı təcrübə"
+
+msgid "for your client"
+msgstr "müştəriniz üçün"
+
+msgid "Increase in caseload capacity "
+msgstr "Çanta yükləmə qabiliyyətinin artırılması"
+
+msgid "per staff"
+msgstr "heyətə görə"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Daxili tətbiqlərimizə başlayın"
+
+msgid "All you need in one place."
+msgstr "Bir yerdə ehtiyacınız var."
+
+msgid "Case Feed"
+msgstr "Case Feed"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Müştərini, işçilərini və iş yoldaşlarını bir işə asanlıqla təyin edin və "
+"işin gedişatını göndərməyinizə, real vaxt söhbət və video söhbətlərinizə, "
+"habelə tədbirləri planlaşdırmağa, sənədləri imzalamağa / yükləyin / yükləyin"
+" və yükləyin daha çox."
+
+msgid "Case Invoices"
+msgstr "Dava fakturaları"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"As-faktura ilə, müştəri göndərmə sadəcə bir klikdir və avtomatik olaraq "
+"yaradılan fond sorğularını göndərməyə və bunun müqabilində birbaşa ödənişlər"
+" almağa imkan verir."
+
+msgid "Case Events"
+msgstr "Dava hadisələri"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"İş təqviminizi hər zaman mütəmadi olaraq təşkil edin, tədbirləri "
+"planlaşdırın, iştirakçılara dəvət edin, tədbir xatırlatmaları göndərin və "
+"hər şeyin yolda qalmasını təmin edin."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Müştərilər və komanda üzvləri ilə quraşdırılmış video konfrans vasitəsilə "
+"faktiki olaraq &#39;üz-üzə&#39; ilə tanış olun, beləliklə hər kəslə birbaşa "
+"danışa bilərsiniz."
+
+msgid "Case Forms & E-signs"
+msgstr "Dava Formaları və E-işarələr"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Xüsusi ehtiyaclarınıza cavab verən unikal şablonları yaratmaq üçün iş "
+"formanızı tamamilə düzəldin. Bu şablonlar daha sonra doldurmaq və imzalamaq "
+"üçün müştərilərə və komanda üzvlərinə paylana bilər"
+
+msgid "Case notes"
+msgstr "Dava qeydləri"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Hazırkı və gələcək komanda üzvləri üçün işin gedişatına dair xüsusi sahələr "
+"və əlavələrlə qeydlər aparın"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"İşə aid faylları yükləyin, paylaşın, şərh edin və endirin ki, hər kəs bütün "
+"vacib detallar, insanlar və vəziyyətlər haqqında məlumat əldə etsin."
+
+msgid "About Case"
+msgstr "Haqqında"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Müştərilərə və işçilərə iştirak etdikləri işlərin ümumi təfərrüatlarına "
+"baxsınlar. Hər şeyi bağlandıqdan sonra işi bağlaya və ya komanda üzvünə "
+"icazə verə bilərsiniz."
+
+msgid "Plus Many More Features"
+msgstr "Üstəlik bir çox xüsusiyyətləri"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Özünə xidmət etmə inzibati xüsusiyyətindən istifadə CaseActive idarəetmə "
+"dəstinizi platformanın özündən götürün."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Mövcud sisteminizi çətinliklə CaseActive ilə əlaqələndirin, avtomatik olaraq"
+" hallar yaratmaq, istifadəçilər təyin etmək və sistem girişinizə əsaslanaraq"
+" hesabatlar yaratmaq üçün mülkiyyətçi API-ni inteqrasiya edin."
+
+msgid "Multi-Language Enabled:"
+msgstr "Çoklu Dilli Etkin:"
+
+msgid "Interact with clients in"
+msgstr "Müştərilərlə qarşılıqlı əlaqə"
+
+msgid "70+ languages"
+msgstr "70+ dildə"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Yerli və ya qlobal işləməyiniz, Müştərinizin ana dilini CaseActive "
+"vasitəsilə tərcümə edə bilərsiniz"
+
+msgid "language management system"
+msgstr "dil idarəetmə sistemi"
+
+msgid "No more confusion or limits."
+msgstr "Daha çox qarışıqlıq və ya məhdudiyyət yoxdur."
+
+msgid "Let's see what others are saying"
+msgstr "Başqalarının dediklərini görək"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Kiçik müəssisələrdən tutmuş korporativ müəssisələrə qədər zəhmli "
+"müştərilərimizin CaseActive döyüşçülərinə çevrilməklə rəqabət üstünlüyünü "
+"necə artırdıqlarını kəşf edin."
+
+msgid "SUPPORT"
+msgstr "DƏSTƏK"
+
+msgid "Everything at Your Fingertips."
+msgstr "Hər şey parmaklarınızın ucunda."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Video tapşırığımıza əməl edərək CaseActive tətbiqinizlə başlayın və "
+"ehtiyaclarınıza cavab verin."
+
+msgid "What are you looking for..."
+msgstr "Nə axtarırsan..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Son Yenilənmə: 7 iyun 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive, istədiyi vaxt və öz istəyi ilə, bu Xidmət şərtlərinin hər hansı "
+"birini və ya hamısını yeniləmək və dəyişdirmək hüququnu özündə saxlayır. "
+"CaseActive bu Xidmət şərtlərini dəyişdirdikdə, CaseActive yuxarıdakı "
+"&#39;Son Yenilənib&#39; tarixini dəyişdirəcəkdir. Xidmətin ən son "
+"versiyasını mütəmadi olaraq nəzərdən keçirmək üçün məsuliyyət daşıyırsınız. "
+"Hər hansı bir dəyişiklik edildikdən sonra Xidmətlərdən davamlı istifadə "
+"etməyiniz bu dəyişikliklərə bağlı olmağınızdan xəbər verir. Bu Xidmət "
+"Şərtlərinə edilən hər hansı bir dəyişiklikə etiraz edirsinizsə, yeganə və "
+"müstəsna vasitəçiniz bu şərtlərə uyğun olaraq Xidmətlərə xitam verməlidir."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Bu Ümumi Xidmət Şərtləri ümumiyyətlə Xidmətlərə tətbiq olunur. Təqdim olunan"
+" hər bir Xidmətə tətbiq olunan əlavə şərtlər aşağıda göstərilən linklərdə "
+"(&#39;Əlavə Xidmət Şərtləri&#39;) göstərilmişdir."
+
+msgid "1. Services:"
+msgstr "1. Xidmətlər:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Xüsusi proqram, aşağıda göstərilən xidmətləri təklif etmək üçün "
+"müştərilərimizə təqdim etdiyimiz bir xidmət platformasıdır. Bir Xidmətə "
+"abunə olmaq üçün, Xidmət üçün Sifariş Formasını hazırlamalı və / və ya "
+"Xidmət üçün qeydiyyat axını tamamlamalısınız. Yalnız abunə olduğunuz və "
+"ödənişli xidmətlərdən istifadə etmək hüququnuz var və Xidmətlərdən "
+"istifadəniz Sazişin bütün şərtlərinə uyğun gəlir. Xidmətləri (və ya onun hər"
+" hansı bir hissəsini) zaman-zaman dəyişdirmək hüququmuzu saxladığımızı qəbul"
+" edir və razılaşırsınız və Xidmətlərə edilən hər hansı bir dəyişiklik üçün "
+"sizin və ya üçüncü tərəfin qarşısında məsuliyyət daşımırıq."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 CaseActive Xidmətinin Təsviri: CaseActive Xidməti, CaseActive MMC "
+"tərəfindən təklif olunan onlayn müştəri əməkdaşlığının idarə edilməsi üçün "
+"yerləşdirilmiş proqram xidmətlərinin dəstidir. Razılaşdığınız və ya icra "
+"etdiyiniz Sifariş Forması, yazdığınız CaseActive Xidmətini, abunə müddətini "
+"və CaseActive Xidməti üçün ödəyəcəyiniz haqları müəyyənləşdirir. CaseActive "
+"Xidmətindən istifadənizlə əlaqədar əlavə şərtlər aşağıdakılardır:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Xidmətlərin genişləndirilməsi:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Zaman-zaman CaseActive tərəfindən təqdim edilə bilən yeni xidmətlər də daxil"
+" olmaqla istənilən əlavə xidmətlərə abunə ola bilərsiniz və ya Xidmətlərin "
+"bir hissəsi olaraq əlavə Sifariş Forması və ya qeydiyyatdan keçən axını icra"
+" edərək mövcud Xidmətlərinizi artıra bilərsiniz. Hər bir yeni qeydiyyat "
+"hərəkəti və ya Sifariş Formasında həmin dövrdə əlavə olunan Xidmətlərin "
+"qiyməti və göndərmə tarixi (lər) daxil ediləcəkdir. Bütün yeni Xidmətlər bu "
+"Ümumi Xidmət Şərtlərinə və xüsusi olaraq əlavə Xidmətlərə tətbiq oluna "
+"biləcək hər hansı əlavə şərt və şərtlərə tabedir."
+
+msgid "3. Customer Support:"
+msgstr "3. Müştəri dəstəyi:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Xidmətlər üçün ödəməli olduğunuz bütün haqları ödəmisinizsə, sizə və "
+"Xidmətlərə abunə olan səlahiyyətli istifadəçilərinizə pulsuz olaraq texniki "
+"dəstək xidmətləri təqdim etmək üçün ticari cəhətdən istifadə edəcəyik. "
+"İşlərinizə müştəri xidmətləri nümayəndəsi təyin ediləcəkdir. Limitsiz işlər "
+"səlahiyyətli istifadəçilərdən qəbul edilir. Standart dəstəyimiz Xatirə Günü,"
+" Müstəqillik Günü, Əmək Günü, Şükranlıq, Milad və Yeni İl Günü daxil olmaqla"
+" böyük tətillər istisna olmaqla, 24/7-də mövcuddur. Bizim istifadə edərək "
+"müştəri dəstəyi ilə əlaqə saxlaya bilərsiniz"
+
+msgid "Contact Form"
+msgstr "Əlaqə Forması"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Cavab vaxtımız iki iş günündən çox olmamalıdır."
+
+msgid "4. Training:"
+msgstr "4. Təlim:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Xidmətlər üçün ödəməli olduğunuz bütün haqları ödəmisinizsə, təyin edilmiş, "
+"adlandırılmış və səlahiyyətli istifadəçilərinizə uzaq, canlı və ya yazılmış "
+"təlim məşğələləri təqdim edəcəyik, həmçinin veb saytımızın Kömək və Təlim "
+"bölməsi vasitəsilə əldə edilə bilən dərsləri təqdim edəcəyik. əlavə ödəniş "
+"yoxdur. Bəzi xidmətlər üçün tələb və əlavə ödəniş üçün bəzi yerlərdə təlim "
+"veririk. Zəhmət olmasa bizimlə əlaqə saxlayın"
+
+msgid "for more information about on-site training."
+msgstr "yerdəki təlim haqqında daha çox məlumat üçün."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Sizin hüquqlarınız və məhdudiyyətləriniz:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Lisenziya: Müqavilənin şərtlərinə uyğun olaraq və Sifariş Formasında "
+"göstərilən bütün ödənişləri vaxtında ödədikdən sonra, sizə eksklüziv, "
+"köçürülməyən, məhdud bir hüquq veririk. Yalnız daxili iş məqsədləriniz üçün "
+"qeyd etdiyiniz Xidmətlərdən istifadə etmək (və səlahiyyətli "
+"istifadəçilərinizdən istifadə etməyə icazə vermək) lisenziyası."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Səlahiyyətli İstifadəçilər: Siz (i) səlahiyyətli istifadəçilərinizin "
+"Razılaşmaya uyğunluğuna görə məsuliyyət daşıyırsınız və (ii) Xidmətlərə "
+"icazəsiz daxil olmağın və ya istifadənin qarşısını almaq üçün kommersiya "
+"baxımından əlverişli səylərdən istifadə etməli və bu cür icazəsiz giriş və "
+"ya dərhal bizə məlumat verməlisiniz. istifadə etmək. Bir istifadəçinin və ya"
+" təyin edilmiş işçinin səlahiyyətli statusu dəyişdikdə Xidmətlərə girişin "
+"aradan qaldırılması sizin məsuliyyətinizdir."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Məsuliyyətləriniz və məhdudiyyətləriniz: İstifadəçi hesablarınızda və ya"
+" səlahiyyətli istifadəçiləriniz tərəfindən baş verən bütün fəaliyyətlərə "
+"görə məsuliyyət daşıyırsınız. Siz: (i) Xidmətlərə təqdim etdiyiniz bütün "
+"məlumatların düzgünlüyünə, keyfiyyətinə, bütövlüyünə, qanuniliyinə, "
+"etibarlılığına və uyğunluğuna görə yeganə məsuliyyət daşıyırsınız; (ii) "
+"icazəsiz nəzarətin və ya xidmətin pozulmasının və ya hər hansı digər "
+"icazəsiz girilmənin və ya istifadənin qarşısını almaq üçün kommersiya "
+"baxımından məqbul səylərdən istifadə edin və icazəsiz istifadə və ya "
+"təhlükəsizlik pozuntuları barədə dərhal xəbərdar edin; (iii) Xidmətlərdən "
+"istifadə zamanı tətbiq olunan bütün yerli, ştat, federal və xarici qanunlara"
+" (şəxsi və ya istehlakçı məlumatlarının məxfiliyi və qorunması ilə bağlı "
+"qanunlara) riayət etmək; (iv) kredit kartı birliklərinin bütün tətbiq olunan"
+" qaydalarına (American Express, MasterCard və Visa daxil olmaqla) riayət "
+"etmək; və (v) Xidmətlərə daxil olmaq üçün lazım olan bütün kompüter "
+"qurğularını, proqram təminatlarını və rabitə avadanlıqlarını əldə etmək və "
+"saxlamaq və Xidmətlərdən istifadə ilə əlaqədar çəkdiyiniz bütün giriş "
+"xərclərini (məsələn, ISP haqları) ödəmək."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Etə bilməzsiniz və səlahiyyətli istifadəçilərinizin: (i) Xidmətlərlə əlaqəli"
+" hər hansı bir kodu deşifrə etməyə, dəyişdirməyə, uyğunlaşdırmağa, "
+"düzəltməyə, yaratmağa və ya çevirməyə cəhd etməməsinə, tərtib etməməsinə, "
+"tərtib etməməsinə, tərtib etməməsinə və ya başqa bir şəkildə cəhd etməməsinə"
+" təmin etməlisiniz. Xidmətlər; (ii) lisenziya, lisenziya, satmaq, icarəyə "
+"vermək, tapşırmaq, paylamaq, dəfələrlə köçürmə, icarə, kredit, mənfəət üçün "
+"satmaq, paylamaq və ya başqa şəkildə kommersiya istismarı, hüquqları vermək "
+"və ya hər hansı üçüncü tərəfə təqdim etmək; (iii) birbaşa olaraq təsdiq "
+"edilmiş hallardan və ya tətbiq olunan qanunların pozulmasından başqa "
+"xidmətlərdən istifadə etmək; (iv) Xidmətlərə münasibətdə hər hansı bir "
+"qanunsuz və ya aldadıcı ticarət təcrübəsi ilə məşğul olmaq; (v) hər hansı "
+"bir təhlükəsizlik və ya digər texniki xüsusiyyətlərini və ya tədbirlərini və"
+" ya Proqramın digər aspektlərini aşmaq və ya aradan qaldırmaq və ya hər "
+"hansı bir şəkildə Xidmətlərə və ya əlaqəli kompüter sistemlərinə və ya "
+"şəbəkələrinə icazəsiz giriş əldə etmək və ya əldə etmək cəhdi; (vi) pozucu, "
+"yalan, ədəbsiz, təhdid və ya başqa şəkildə qanunsuz, təhlükəli, zərərli, "
+"təhqiramiz və ya işgəncəli material ötürmək və ya üçüncü şəxslərin məxfilik "
+"hüquqlarını pozaraq materialı saxlamaq və ya ötürmək üçün xidmətlərdən "
+"istifadə etmək; (vii) Xidməti hər hansı bir virus, qurd, vaxt bombası, "
+"Trojan atları və digər zərərli və ya zərərli kodu, faylları, skriptləri, "
+"agentləri və ya proqramları saxlamaq və ya ötürmək, ya da spamları və ya "
+"tətbiq olunan qanunları pozmaqla təkrarlanan və ya istənməyən mesajları "
+"göndərmək üçün istifadə edin. ; və ya (viii) Xidmətlərin və ya orada olan "
+"üçüncü tərəflərin məlumatlarının bütövlüyünə və ya fəaliyyətinə müdaxilə "
+"etmək və ya pozmaq."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Hüquqların qorunması: Müqavilədə açıq şəkildə göstərilən hallardan başqa"
+" heç bir hüquq verilmir. Müqavilə satış deyil və Xidmətlərə və ya əsas "
+"proqram təminatına heç bir hüquq və ya mülkiyyəti çatdırmır. Xidmətlərə və "
+"əsas proqram təminatına daxil olan bütün intellektual mülkiyyət hüquqları "
+"daxil olmaqla bütün hüquqlara, mövzuya və maraqlara, hər hansı bir "
+"yeniləmələrə, yeniləmələrə, düzəlişlərə, təkmilləşdirmələrə, "
+"təkmilləşdirmələrə və ya törəmələrə və hər hansı bir fikrə, biliklərə "
+"sahibik. Xidmətlərin icrası zamanı bizim və ya lisenziyamız tərəfindən "
+"hazırlanmış və necə hazırlanan proqramlar."
+
+msgid "6. Term and Termination:"
+msgstr "6. Müddət və sona çatma:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Müddət: Xidmətlərin müddəti abunə olduğunuz Xidmətdən asılı olaraq "
+"dəyişir və Sifariş Formasında müəyyənləşdirilir və ya qeydiyyat dövrü ilə "
+"razılaşdırılır və aşağıdakı kimi təzələnir:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive xidmət müddəti: CaseActive xidmətinə abunə olmağınız "
+"Sifariş Formasında və ya qeydiyyatdan keçmədə göstərilən ardıcıl bir aylıq "
+"və ya bir illik müddətlər üçün avtomatik olaraq yenilənəcəkdir, əgər biz "
+"sizə təqdim etdiyimiz xidməti dayandırmasaq. sonrakı dövrün bitməsindən ən "
+"azı otuz (30) gün əvvəl bərpa edilməməsi."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 CaseActive Veb sayt xidmətlərinin müddəti: Xidməti dayandırmasaq və ya"
+" səni bizə təqdim etməsən, Sifariş Formasında və ya qeydiyyatdan keçmə "
+"axarında göstərildiyi kimi ardıcıl bir ay və ya bir illik müddət üçün "
+"abunəliyiniz avtomatik olaraq yenilənəcəkdir. ən azı otuz (30) gün keçməmiş "
+"tarixdən əvvəl yenilənməməsi barədə bildirişlə."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Yeniləməməyiniz barədə yazılı bildiriş CaseActive, LLC-yə təqdim "
+"olunmalı, 6-cı prospekti 1107 W., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2. Xitam: Tərəflərdən hər biri Sazişi və bütün Xidmət abunəliklərini ləğv "
+"edə bilər (i) əgər qarşı tərəf Saziş üzrə hər hansı bir maddi öhdəliyi "
+"pozursa və bu pozuntu pozulmaması barədə bildiriş aldıqdan sonra otuz (30) "
+"gün ərzində müalicə olunmazsa. tərəf və ya (ii) digər tərəf müflisləşərsə və"
+" ya iflas edərsə, ləğv edilərsə və ya ləğv edilərsə və ya bütün fəaliyyətini"
+" tamamilə dayandırarsa. Yuxarıdakı 5.3 Bölmə pozulduqda Sazişi dərhal ləğv "
+"edə bilərik. Müqaviləni ləğv etdikdən sonra dərhal Xidmətlərin bütün "
+"istifadəsini dayandıracaqsınız, Xidmətlərdən istifadəçi olduğunuz hər hansı "
+"bir formada təmsil olunmağı dayandıracaqsınız və əlinizdəki bütün məxfi "
+"məlumatlarımızı məhv edəcəksiniz. Tərəflərdən heç biri Sazişin ləğvi "
+"nəticəsində yaranan zərərlərə və ya burada göstərilən Xidmətlərə abunə "
+"olmağa görə məsuliyyət daşımır; Bununla birlikdə, Sazişin ləğvi bu ləğv "
+"edilmədən əvvəl yaranan hər hansı bir iddiaya təsir göstərməməsi şərtilə."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Ləğv halında məlumatlarınızı idarə etmək: Xidmətlərə abunə olmağınız "
+"bitdikdən və ya ləğv edildikdən sonra təsirlənmiş Xidmətləri dərhal ləğv edə"
+" biləcəyimizi və doxsandan az olmayan məqbul bir müddətdən sonra qəbul "
+"etdiyinizi qəbul edirsiniz; ) gün, hesabınızı və məlumatlarınızı silə bilər."
+" Bununla birlikdə, Xidmətlər tərəfindən ləğv edildiyi təqdirdə, təmin "
+"edilmiş mülkiyyət məlumatlarınızı əldə etməyinizə icazə vermək məqsədi ilə "
+"sizə otuz (30) gündən çox olmamaq şərti ilə, müvəqqəti, məhdud xidmətlər "
+"əldə edəcəyik. bizə borclu olan mübahisəsiz məbləğləri tam vicdanla "
+"ödəmisiniz. Bundan əlavə razılaşırsınız ki, bu Bölmə 6.3-ün şərtlərinə əməl "
+"etməyimiz şərtilə xidmətlərə girişinizin dayandırılması və ya "
+"məlumatlarınızın silinməsi üçün sizin və ya üçüncü tərəfin qarşısında "
+"cavabdeh olmayacağıq."
+
+msgid "7. Fees:"
+msgstr "7. Ücretler:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Xidmət haqqı: Qeydiyyat axını və ya Sifariş Formasında (&#39;Xidmət "
+"haqqı&#39;) göstərilən miqdarda və qeydiyyat dövrü və ya Sifarişdə "
+"göstərilən göndərmə tezliyinə uyğun olaraq xidmətlər üçün geri qaytarılmayan"
+" haqları ödəməlisiniz. Forma. Xidmət haqqı hesab-faktura tarixində tutulmalı"
+" və ödənilməlidir. Xidmət haqqı bizim indiki ödənişlərimizə əsasən artırıla "
+"bilər. Abunəliyinizi erkən dayandırsanız da, Xidmət haqqı geri qaytarılmır."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Əlavə ödənişlər: Sifariş Formasında və / və ya qeydiyyatdan keçmə "
+"axınında göstərilən ödənişlərə əlavə olaraq Xidmətlərdən istifadə etdiyiniz "
+"üçün başqa geri qaytarılmayan ödənişlər və ya ödənişlər ola bilər. Əlavə "
+"geri qaytarılmayan haqlar və ödənişlər tətbiq olunan Xidmət üçün əlavə "
+"şərtlərdə müəyyən edilir."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Gecikmiş Ödənişlər: Müvəqqəti olaraq hər hansı bir ödəniş və ya ödəniş "
+"ödəməməyinizin CaseActive məhsul abunəliyinizin (lərinizin) dayandırılması "
+"və ya ləğvi ilə nəticələnə biləcəyini qəbul edirsiniz. Müvafiq qaydada "
+"ödənilən hər hansı bir ödəniş və ya ödəniş ödəməsəniz, CaseActive, rüsum və "
+"ödənişləri toplamaq üçün kolleksiya agentliyi cəlb etmək hüququnu özündə "
+"saxlayır və CaseActive tərəfindən ödənilmiş vaxtı keçmiş məbləğlərin "
+"toplanması ilə əlaqədar bütün xərcləri ödəməlisiniz. , məhdudiyyət olmadan, "
+"ağlabatan vəkil və kolleksiya agentliklərinin rüsumları, üstəlik ayda 1.0% "
+"-dən az olan məbləğə və ya tətbiq olunan qanunla icazə verilən maksimum "
+"dərəcəyə faiz."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4. Vergilər: Bütün satış vergisi, istifadə vergisi, əlavə dəyər vergiləri,"
+" tutulan vergilər və federal, əyalət və ya yerli hökumət qurumları "
+"tərəfindən Sazişdə nəzərdə tutulan əməliyyatlarla əlaqədar tətbiq olunan "
+"istənilən növ vergi və ödənişlər üçün məsuliyyət daşıyırsınız. Bu bölməyə "
+"uyğun olaraq məsuliyyət daşıdığınız vergiləri ödəmək və ya toplamaqla bağlı "
+"qanuni öhdəliyimiz olduqda, müvafiq vergi orqanı tərəfindən təsdiq edilmiş "
+"etibarlı vergi güzəştləri sənədi təqdim etməsəniz, müvafiq məbləğ sizin "
+"tərəfindən hesablanır və ödənilir."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Nümayəndəliklər və Zəmanətlər:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Qarşılıqlı nümayəndəliklər və zəmanətlər: Hər bir tərəf, digər tərəfi "
+"təmsil edir və zəmanət verir ki, (i) hər hansı üçüncü tərəfin razılığı "
+"olmadan və ya hər hansı bir müqaviləni və ya müqaviləni pozmadan Saziş üzrə "
+"öhdəlikləri daxil etmək və yerinə yetirmək üçün bütün lazımi səlahiyyətlərə "
+"malikdir. hər hansı bir üçüncü tərəf, (ii) bununla bağlı hər hansı bir "
+"öhdəlik yerinə yetirən bütün şəxslər bu Sazişin şərtlərinə uyğun olması üçün"
+" bütün zəruri müqavilələr bağlamış və (iii) bütün maddi baxımdan tətbiq "
+"olunan bütün qanunlara uyğun olmalıdır. Xidmətlər."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Əlavə Nümayəndəliklər və Zəmanətlər: Siz xidmətlərdən yalnız qanuni "
+"məqsədlər üçün Saziş və bütün tətbiq olunan CaseActive siyasət və qaydalara "
+"uyğun istifadə edəcəyinizə dair zəmanət verirsiniz, təqdim edirsiniz."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Zəmanətdən imtina: Bu Bölmə 8-də tətbiq olunan QANUNLAR ÜÇÜN VERİLƏN "
+"MÜQAVİLƏNİN ƏMƏKDAŞLIĞI ÜÇÜN DƏSTƏK VƏZİFƏLƏRİ ÜÇÜN İSTƏYİR, BİZİM ZƏMANƏT "
+"VƏZİFƏLƏRİ YOXDUR, İSTƏMƏZƏM, İSTƏMƏZƏMƏMƏ, DÖVLƏT VƏ DİGƏRİMİZ, QANUNU VƏ "
+"ƏMƏLİYYATINDA TƏCİLİ, HƏR YERİ ÜÇÜN ƏMƏKDAŞLIQ MƏHSULLARI ÜÇÜN ƏMƏKDAŞLIĞI, "
+"SATISFACTORY keyfiyyəti, adı, FITNESİ daxil olmaqla. SOFTWARE və ya "
+"XİDMƏTLƏR, mühasibat tələblərini daxil olmaqla, bütün tələblərinizi "
+"cavablandıracağına və ya proqramın istifadəsi və ya xidmətlərin istifadəsiz "
+"və ya səhv ediləcəyinə zəmanət vermirik. ƏMƏLİYYAT VƏ XİDMƏTLƏR SİZİN ÜZRƏ "
+"ƏSAS VƏZİFƏLƏRİ VƏ XİDMƏTLƏRİ İSTİFADƏ ETMƏKDƏN, SİZİN HÜQUQLARA İSTƏMƏSƏN, "
+"İZLƏMƏSƏN, İSTƏYİR. Zəmanət mübahisəsini pozan tərəfi razılaşmanın ƏHƏMİYYƏT"
+" TƏRƏFİNDƏN İSTƏYİR"
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"XİDMƏTLƏRİ İSTİFADƏ EDƏN HƏR HÜQUQ MƏHBUSLARI VƏ QANUNLARI VƏ QANUNLARI "
+"İSTƏYİRƏCƏKLƏRİMİZ HESABAT VƏ ZƏMANƏTLƏRİ İSTƏYİR. BU MÜSABİQƏLƏR BUNA "
+"ÇATDIRILMAZ, SİZ ÜÇÜN tətbiq oluna bilən HƏR FEDERAL VƏ DÖVLƏT STATUTLARI VƏ"
+" QAYDALARI ilə məhdudlaşmır. XİDMƏTLƏRİNİ İSTİFADƏ ETMƏK ÜÇÜN TƏMİN EDİLMƏSİ"
+" ÜÇÜN MƏNZİL OLUNUR."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"XİDMƏTLƏRƏ VƏ BU SAZİŞƏ İSTƏMƏSİNİZ, SİZİN VƏ EKSKLÜZİV MÜDAFİƏ XİDMƏTLƏRİ "
+"İSTİFADƏ EDƏCƏKDİR."
+
+msgid "9. Confidential Information:"
+msgstr "9. Məxfi məlumatlar:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Digər tərəf tərəfindən açıq şəkildə icazə verilmədiyi təqdirdə, heç bir "
+"tərəf digər tərəfin Sazişə əsasən verdiyi və məxfi (&#39;Gizli Məlumat&#39;)"
+" kimi əsaslandırılmış məlumatları və ya materialları hər hansı üçüncü tərəfə"
+" açıqlamır və ya bu cür məxfi məlumatı başqa bir şəkildə istifadə edə "
+"bilməz. Saziş üzrə öhdəliklərini yerinə yetirməkdən daha çox. Yuxarıda "
+"göstərilən məhdudiyyətlər ictimai sahədəki və ya qəbul edən tərəfin "
+"ixtiyarında olan, açıqlama tarixindən əvvəl qəbul edən tərəfə məlum olmuş və"
+" ya üçüncü tərəfdən aşkar bir tərəfə məlum olduğu hər hansı bir məlumata "
+"şamil edilmir. məlumatı və ya qəbul edən tərəfin səlahiyyətli bir "
+"yurisdiksiya məhkəməsinin qərarı və ya etibarlı bir inzibati dəvətnamə "
+"əsasında istehsal etmək məcburiyyətində qaldığı məlumatı və ya gizli "
+"məlumatı açıqlamaq hüququndan istifadə etməklə, qəbul edən tərəf belə bir "
+"məhkəməni vaxtında xəbərdar etməyi təmin edərsə. sifariş və ya dəvətnamə. "
+"Bundan əlavə, səlahiyyətli istifadəçilərinizin bütün parolları və Xidmətlərə"
+" daxil olma məlumatlarını ciddi şəkildə qoruyacağınıza əmin olacaqsınız. Bu "
+"Bölmə 9 bu Sazişin ləğvindən və ya müddətinin bitməsindən xilas olacaqdır."
+
+msgid "10. Indemnification:"
+msgstr "10. Təminat:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Qanun pozuntusuna görə kompensasiya: 10.4-cü Bölmə şərtlərinə əsasən, "
+"Xidmətlər qüvvəyə minmə tarixində Üçüncü tərəfə verilən hər hansı bir ABŞ "
+"patentini pozduğunu iddia edən qarşı tərəfin iddiasına qarşı müdafiə "
+"edəcəyik; və ya hər hansı bir üçüncü tərəfin müəllif hüquqları, ticarət "
+"nişanı və ya ticarət sirrini pozmaq (kollektiv olaraq &quot;Xidmətlərin "
+"əsasını təşkil edən əqli mülkiyyət&quot; adlanır). Xidmətlərə əsaslanan Əqli"
+" Mülkiyyətin istifadəsinə qarşı bir əmr istədiyi və ya əldə edildiyi və ya "
+"fikrimizcə, axtarılan və ya əldə oluna biləcəyi təqdirdə, öz seçimimiz və "
+"hesabımıza görə (i) sizin və adınız üçün satın alacağıq səlahiyyətli "
+"istifadəçilərin xidmətlərdən istifadəsini davam etdirmək və ya (ii) eyni "
+"funksiyanı əhəmiyyətli dərəcədə yerinə yetirmək iqtidarında olduqda "
+"xidmətlərini pozmamaq üçün Xidmətləri dəyişdirmək və dəyişdirmək hüququ. "
+"Yuxarıdakı (i) və (ii) alt hissələr kommersiya baxımından mümkün olmadıqda, "
+"Xidmətləri ləğv edə və əvvəlcədən ödənilmiş, lakin istifadə olunmamış Xidmət"
+" haqqını geri qaytara bilərik. Bu Bölmə 10.1-də göstərilən hər hansı bir "
+"xərc və ya ziyana görə qorunmaq və ya cavabdeh olmalı deyilik, əgər iddia "
+"edilən pozuntu (i) sizin (və ya səlahiyyətli və ya hər hansı bir "
+"Xidmətinizin hər hansı bir dəyişdirilməsinə aiddirsə) təyin edilmiş "
+"istifadəçilər) və ya (ii) CaseActive tərəfindən təmin edilməmiş xidmətlər və"
+" məhsullarla birlikdə xidmətlərdən istifadə, əgər belə pozuntular belə "
+"dəyişdirilmədən və ya birləşmədən alınarsa və ya (iii) dizayn və ya "
+"təlimatlarınıza uyğunluq və ya (iv) tələb Xidmətlərin iddianın predmeti "
+"olduğunu xüsusi ilə bildirmir (hər biri &#39;Çıxarılan İddia&#39;). Bu Bölmə"
+" 10.1-də olan kompensasiya öhdəlikləri bu Sazişin hər hansı bir ləğvindən və"
+" ya bitməsindən sonra qalacaqdır."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Məlumat Təhlükəsizliyi və Məxfiliyə görə kompensasiya: Bölmə 10.4-ə "
+"uyğun olaraq və Xidmətlərə abunə müddəti ərzində, icazəsiz girişə mane "
+"olmağımıza dair kobud laqeydliyimizi iddia edən qarşı tərəfin iddiasına "
+"qarşı biz öz hesabımızdan müdafiə edəcəyik. mülkiyyətimizdə və ya "
+"nəzarətimizdə olan müştərilərinizin Şəxsi müəyyənləşdirilmiş məlumatlarını "
+"ifşa etməkdə və ya qəsdən pozduğumuzda. Bu kompensasiya bu iddianın "
+"səhlənkarlığınızdan və ya qəsdən qanunsuz hərəkətlərinizdən və ya "
+"agentləriniz və ya nümayəndələrinizdən qaynaqlandığı və ya əlaqəli olduğu və"
+" ya məsuliyyətin Razılığa əsasən hər hansı bir tərəf tərəfindən rədd "
+"edildiyi və ya məhdudlaşdırıldığı dərəcədə tətbiq edilmir. Bu bölmədə "
+"göstərilən ödəmə öhdəlikləri, kobud laqeydliyimizi və ya bilərəkdən "
+"işlədilmiş qanunsuzluğumuzu birbaşa və ehtimal ki, sahibliyimizdə və ya "
+"nəzarətimizdə olan müştərilərin şəxsiyyətini müəyyənləşdirən məlumatların "
+"icazəsiz əldə edilməsi və ya açıqlanması ilə nəticələndiyini sübut "
+"etməyinizə bağlıdır."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Sizin ödəməniz: Sizi kompensasiya etməyə, zərərsiz saxlamağa "
+"razılaşırsınız və bizi və bütün işçilərimizi, zabitlərimizi, "
+"direktorlarımızı və agentlərimizi hər hansı bir iddia, tələb, iddia, icraat,"
+" araşdırma, ziyan, xərc, xərc, itki və digər hər şeydən müdafiə edirsiniz. "
+"Müqaviləni pozaraq (ii) Xidmətlərdən istifadə etməyinizlə bağlı yaranan "
+"öhdəliklər (məqbul vəkillərin haqları, məhkəmə xərcləri və xərcləri daxil "
+"olmaqla), (ii) Qaydasız İddia, (iii) sizin tərəfindən hər hansı bir faktiki "
+"və ya ehtimal olunan pozuntu. Razılığa əsasən hər hansı bir nümayəndəlik, "
+"zəmanət, əhd və ya öhdəlik, və ya (iv) kobud səhlənkarlığınız və ya "
+"bilərəkdən yalnış davranışınız. Bu Bölmə 10.3-dəki ödəmə öhdəliyiniz Sazişin"
+" hər hansı bir ləğvindən və ya bitməsindən sonra qalacaqdır."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Bildiriş və əməkdaşlıq: Yuxarıdakı 10 Bölmə üzrə kompensasiya edilmiş "
+"tərəfin qarşısında ödəməli olan tərəflərin öhdəlikləri (i) kompensasiya "
+"edilmiş tərəfi dərhal Razılığa əsasən kompensasiya etmək hüququ əldə edə "
+"biləcəyi hər hansı bir iddianı bildikdən sonra dərhal tərəfə yazılı şəkildə "
+"xəbərdarlıq edən tərəfə bildirməlidir. ; (ii) tətbiq olunan dərəcədə, "
+"ödənilmiş tərəf, bildiriş aldıqdan sonra iddia edilən pozuntu xidmətlərindən"
+" istifadəni dayandırır; (iii) kompensasiya verən tərəfə hər hansı bir bu "
+"iddianın müdafiəsinə və həllinə nəzarət etmək yeganə hüququna malik olmasına"
+" icazə verən tərəf (şərtdir ki, ödəmə tərəfi bütün məsuliyyətdən şərti "
+"olaraq azad etmədiyi halda kompensasiya tərəfi razılığı olmadan hər hansı "
+"bir tələbi həll edə bilməzsə); (iv) kompensasiya edən tərəfə bu iddianın "
+"müdafiəsi üçün tərəfin xərcini ödəməklə lazımi köməklik göstərmiş "
+"kompensasiya edilmiş tərəf; (v) kompensasiya edilmiş tərəf heç bir həll "
+"razılaşması bağlamamış və ya başqa bir tələbi tərəfin əvvəlcədən yazılı "
+"razılığını və ya tələbini ödəmədən; və (vi) iddia ilə əlaqədar hər hansı bir"
+" həll qərarına və ya məhkəmə qərarına əməl edən kompensasiya edilmiş tərəf "
+"(hər hansı pozucu materialların gələcək istifadəsi ilə əlaqədar). Ödənilən "
+"tərəf öz istəyi ilə və öz hesabına vəkilin tələbi ilə iddianın müdafiəsində "
+"və ya həllində iştirak edə bilər."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Eksklüziv müdafiə: Bu Bölmə 10 Bu Bölmədə təsvir olunan hər hansı bir "
+"iddia növü üçün qarşı tərəfin qarşı tərəfə qarşı yeganə cavabdehliyini və "
+"qarşı tərəfin ödədiyi müstəsna vasitəni bildirir."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Məsuliyyətin məhdudlaşdırılması:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"5.3 və ya 12 BÖLMƏ ƏMƏLİNDƏN BAĞLIQDA BAĞLIQDA VƏZİFƏ VERİLƏN RƏHMƏTLƏ BAĞLI"
+" HAZIRLANMA, QANUNU VERİLƏN MÜQAVİLƏN MÜQAVİLƏ OLMAZ, TƏRƏFİNİN ƏMƏLİYYATINA"
+" GƏLƏNMƏDƏ VƏ BAĞLI RAZILAŞMA VƏZİYYƏTİ VERİLİR BİR İL İLİN ƏMƏLİYYATINA "
+"GƏLƏNƏCƏK VƏZİFƏ VƏZİFƏSİNƏ DAXİL EDƏN XİDMƏTLƏR ÜÇÜN."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"5.3 və ya 12 BÖLMƏ ƏMƏLİYYƏ BAĞLIQDA BAĞLIQDA VƏZİFƏLƏRDƏN BAĞLIĞA QARŞI "
+"HESAB VERİLƏN ƏMƏK, HERETO TƏRƏFİNDƏN HƏR BİR HƏRƏKƏSİZ, LİZANATÇILARI VƏ "
+"TƏMİRLƏRİ İSTƏYİR, ƏMƏK DƏSTƏKİ ÜÇÜN ƏMƏKDAŞLIĞINIZ ƏLAQƏDİR ƏMƏKDAŞLIQ "
+"ƏMƏLİYYATI VƏ XİDMƏTLƏRİ VƏ HƏR ŞƏXS, XÜSUSİ, KEÇİRİCİLİK, VƏZİFƏLİ "
+"ZƏMANƏTLƏR ÜÇÜN ƏMƏLİYYATIN HƏR TƏHLÜKƏSİZLİKDƏN VERİLMƏSİ VƏ ƏMƏKDAŞLIQ "
+"TƏMİNATI ÜÇÜN ƏMƏLİYYAT VƏZİFƏSİ VERİLİR BUNUN ÖDƏNİŞSİZ, HƏR ŞƏHƏR VƏ "
+"YOXDUR ŞƏRHİN İSTƏMƏSİNDƏ BU DƏYƏRLƏRİN İSTİFADƏ OLUNUR."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"Bəzi dövlətlərdən / YURİZİKLİKLƏRDƏN QARŞI İDDİA VƏ YA QANUN DAĞIDAN "
+"ZƏMANƏTLƏR ÜÇÜN CAVABININ İDDİASINA İMZAMAYIN, QANUNUN MÜDAFİƏSİ MƏNZİM "
+"İMKANININ MÜHÜM İMKANI MÜHÜM İMKANINA ÇOX BAŞA BİLMƏZ."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Şəxsi Məlumat və Məxfilik Bəyanatı:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"İstənilən şəxsin şəxsiyyətini müəyyənləşdirən məlumatların (aşağıda "
+"müəyyənləşdirildiyi kimi) qorunması, toplanması, istifadəsi və yayılması ilə"
+" əlaqəli bütün məxfilik və digər qanun, qayda, qayda və təlimatlara əməl "
+"edəcəksiniz. Bütün tətbiq olunan qanunlara, qaydalara, qaydalara və "
+"qaydalara uyğun Şəxsi Şəxsiyyət Məlumatı (&#39;Gizlilik Bəyanatı&#39;) "
+"topladığınız səhifədə məxfilik bəyanatını yerləşdirəcəksiniz və ən azı "
+"toplanmış Şəxsi İdarə Olunan Məlumat istifadəçilərinə necə məlumat verir. "
+"istifadə ediləcək və necə təmin ediləcəyi, toplama metodunu (çərəzlər, veb "
+"mayakları və ya digər tətbiq olunan vasitələr) və Xidmətlərlə əlaqəli "
+"toplanmış məlumatların istifadəsini, hər hansı bir istifadə etməzdən əvvəl "
+"əvvəlcədən məlumatlandırılmış razılıq (opt-in) əldə edilməsini "
+"müəyyənləşdirir. tətbiq olunan qanun və qaydalarla tələb olunan dərəcədə "
+"izləmə texnologiyaları. Belə bir məxfilik bəyannaməsi, Xidmətlər vasitəsi "
+"ilə bizə təqdim olunan Şəxsi tanıan məlumatların toplanması, ötürülməsi və "
+"saxlanması ilə bağlı texniki məlumatları da əhatə edir. Tətbiq olunan "
+"məlumatların qorunması qanunvericiliyi və ya digər qanun və ya tənzimləmə "
+"ilə tələb olunarsa, üçüncü tərəflərə onların Şəxsi tanılanacaq məlumatlarını"
+" emal üçün bizə təqdim etdiyinizi bildirəcəksiniz və tələb olunan üçüncü "
+"tərəflərin belə açıqlanmasına və işlənməsinə razılıq verdiklərini təmin "
+"edəcəksiniz. Məxfilik Bəyanatının təsviri və müddəalarına əməl etməyə "
+"razılıq verirsiniz. &#39;Şəxsi tanıdan məlumat&#39;, hər hansı bir şəxslə "
+"əlaqəli və ya izlənilə bilən hər hansı bir məlumatı, o cümlədən şəxsin adı, "
+"ünvanı, telefon nömrəsi, e-poçt ünvanı, kredit kartı məlumatı, sosial "
+"təminat nömrəsi və ya digər oxşar xüsusi faktiki məlumatları ifadə edir. bu "
+"cür məlumatların saxlanıldığı media (məsələn, kağız və ya elektron)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Müxtəlif:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Müstəqil Tərəflər: Siz və CaseActive müstəqil podratçılarsınız. Saziş "
+"tərəflər arasında heç bir ortaq müəssisə, tərəfdaşlıq, agentlik və ya iş "
+"münasibətləri yaratmır. İşçilərinizi idarə etmək və işçilərinizə və digər "
+"nümayəndələrinizə və ya xidmət provayderlərinizə verilən hər hansı bir "
+"kompensasiya, vergi, güzəşt və öhdəliklərə görə məsuliyyət daşıyırsınız. Nə "
+"siz, nə də işçiləriniz, nümayəndələriniz və ya xidmət provayderləriniz bizə,"
+" Saziş və ya Xidmətlərə dair yazılı şəkildə açıq şəkildə təsdiqlənmiş "
+"hallardan başqa heç bir göstəriş, zəmanət və ya zəmanət vermirlər."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Tapşırıq: Nə Saziş, nə də Saziş üzrə hüquqlarınız və ya öhdəlikləriniz "
+"qanunla və ya başqa şəkildə, əvvəlcədən yazılı razılığımız olmadan verilmiş "
+"və ya köçürülə bilməz, faizi davamçıya və ya birləşməyə uyğun olaraq. "
+"yenidən qurulması, ya da əməliyyatın bitməsindən ən azı otuz (30) gün əvvəl "
+"bizə bildirdiyiniz bütün və ya əhəmiyyətli dərəcədə bütün aktivlərinizin "
+"satılması və ya təhvil verilməsi. Hər hansı digər hallara əsaslanaraq sizin "
+"tərəfindən verilən tapşırıq, əvvəlcədən razılaşdırılmağımızı tələb edir, bu "
+"razılıq əsassız tutulmayacaqdır. Bu razılaşmanı sənin icazəniz olmadan "
+"sərbəst təyin edə bilərik. Yuxarıda göstərilənlərə əsasən, bu Saziş "
+"tərəflərin, onların müvafiq varislərinin və icazə verilən tapşırıqlarının "
+"xeyrinə bağlanacaq və qüvvədə olacaqdır."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Qüvvət forması: Heç bir tərəf cavabdeh tərəfin nəzarətindən kənar "
+"hərəkətlər səbəbindən Saziş çərçivəsində hər hansı bir gecikmə, fasilə və ya"
+" digər uğursuzluq üçün məsuliyyət daşımır, ancaq belə şərtlər qaldıqda. "
+"Fövqəladə vəziyyət hadisələrinə aşağıdakılar daxildir, lakin bunlarla "
+"məhdudlaşmır: təbii fəlakətlər (məsələn, ildırım, zəlzələ, qasırğalar, sel);"
+" müharibələr, iğtişaşlar, terror hadisələri və vətəndaş iğtişaşları; yerli "
+"mübadilə daşıyıcısının fəaliyyəti və üçüncü şəxslərin digər aktları; "
+"partlayışlar və yanğınlar; embarqolar, tətillər və əmək mübahisələri; "
+"hökumət qərarları; telekommunikasiya provayderlərinin və ya internet xidməti"
+" təminatçılarının uğursuzluqları; üçüncü tərəf təchizatçılarının, xidmət "
+"təminatçılarının və ya satıcılarının uğursuzluqları; və bir tərəfin "
+"ağlabatan nəzarətindən kənar hər hansı digər səbəb."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Qanun seçimi: Saziş və Sazişdən irəli gələn və ya onunla əlaqədar "
+"yaranan hər hansı bir mübahisə qanunların ixtilaf prinsiplərinə baxmadan, "
+"Kaliforniya ştatının qanunları ilə tənzimlənir və şərh edilir. Sazişdən "
+"irəli gələn və ya onunla əlaqəli bütün mübahisələr, Kaliforniya ştatının və "
+"Santa Barbara, Kaliforniya üçün federal məhkəmələrin müstəsna "
+"yurisdiksiyasına və yerlərinə aiddir və tərəflər bu məhkəmələrin şəxsi və "
+"müstəsna yurisdiksiyasına razıdırlar."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 Elektron poçt və bildirişlər: Bundan əlavə, hər hansı bir bildiriş, "
+"bəyanat və digər rabitə məlumatları ya e-poçt, poçt, təcili çatdırılma "
+"xidməti və ya tanınmış kommersiya daşıyıcısı tərəfindən son təyin olunmuş "
+"ünvana göndərilən ünvana təqdim edə biləcəyimizə razılaşırsınız. Saziş üzrə."
+" Hər hansı bir yenilənmiş əlaqə məlumatı ilə təmin etmək üçün məsuliyyət "
+"daşıyırsınız."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 imtina yoxdur; Yekun müdafiə vasitələri: Bu Sazişə əsasən hər hansı bir"
+" hüququn həyata keçirilməsində hər hansı tərəf tərəfindən hər hansı bir "
+"uğursuzluq və ya gecikmə bu hüquqdan imtina edilmir. Burada açıq şəkildə "
+"göstərilənlərdən başqa, burada təqdim olunan müdafiə vasitələri qanunla və "
+"ya kapitalda tərəflərin hər hansı digər müdafiə vasitələrinə əlavə və "
+"istisna deyil."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Aydınlıq: Bu Sazişin hər hansı bir müddəası səlahiyyətli bir "
+"yurisdiksiya məhkəməsi tərəfindən qanuna zidd olduğu təqdirdə, müddəa "
+"məhkəmə tərəfindən dəyişdirilərək ilkin müddəanın məqsədəuyğun şəkildə ən "
+"yaxşı şəkildə çatması üçün şərh olunmalıdır. qanun və bu Sazişin qalan "
+"müddəaları tam qüvvədə və qüvvədədir."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Bütün Saziş: Müvafiq qanunla icazə verilən maksimum dərəcədə, bu Saziş,"
+" burada istinad edilən sənədlər və bütün Sifariş Formaları və qeydiyyat "
+"axınları ilə birlikdə tərəflər arasındakı mövzuya dair bütün razılaşmanı "
+"təşkil edir və əvvəlki və əvvəlki hər birini əvəz edir. bu Sazişin mövzusuna"
+" dair yazılı və ya şifahi, müasir sazişlər, təkliflər və ya nümayəndəliklər."
+" Tərəflər arasında bu Sazişdən əvvəl danışıqlar zamanı deyilən və ya "
+"yazılmış heç bir şey verilməmiş və ya verilməmişdir. Tərəfin bu Sazişin "
+"bağlanmasına etibar etdiyi tərəfin verdiyi hər hansı bir yalnış bəyanata "
+"münasibətdə heç bir vasitə yoxdur (belə yalnış bəyanat saxtalaşdırılmadığı "
+"təqdirdə) və hər hansı bir yalnış bəyanatla bağlı tərəfin yeganə çarəsi "
+"olmalıdır. bu Sazişdə nəzərdə tutulmuş müqavilənin pozulması. Razılığa "
+"gəldiyiniz razılaşmanın gələcəkdə işləmə və ya burada göstərilməyən "
+"xüsusiyyətlərin və ya Sifariş Formasında göstərilməməsi ilə əlaqəli "
+"olmadığını və gələcək işləmə və ya xüsusiyyətlər ilə əlaqədar bizim "
+"tərəfindən edilən hər hansı bir şifahi və ya yazılı, ictimai və ya özəl "
+"şərhlərdən asılı olmadığını qəbul edirsiniz və razısınız. Xidmətlər üçün. Bu"
+" Ümumi Xidmət Şərtləri ilə hər hansı bir Sifariş Forması və ya Əlavə Xidmət "
+"Şərtləri arasında hər hansı bir ziddiyyət yarandığı təqdirdə, bu Sifariş "
+"Formasının və ya Əlavə Xidmət Şərtlərinin şərtləri bu qarşıdurma dərəcəsinə "
+"qədər üstünlük təşkil edəcəkdir. Satınalma sifarişinizdə və ya sifariş "
+"sənədlərinizdə göstərilən heç bir şərt və ya şərt bu Sazişin hər hansı bir "
+"hissəsinə daxil edilmir və ya təşkil edilmir və bütün bu şərtlər və ya "
+"şərtlər etibarsızdır."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 İxrac: Hər iki tərəf ABŞ-ın tətbiq olunan ixrac və idxal qanun və "
+"qaydalarına riayət etməyə razıdır. İstifadəçilərinizə ABŞ-ın hər hansı bir "
+"ixrac embarqosunu, qadağanını və ya məhdudiyyətini pozaraq Xidmətlərə daxil "
+"olmağa və istifadə etməyə icazə verməməlisiniz."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Təqdimat: Biz sizin yazılı razılığı olmadan Sizi Xidmətlərin "
+"istifadəçisi kimi adlandırmaya bilərik."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Üçüncü tərəf saytlarına bağlantılar: Xidmətlər və ya veb saytımızda "
+"üçüncü tərəf saytlarına bağlantılar ola bilər (&#39;Bağlı Saytlar&#39;). "
+"Bağlı saytlar bizim nəzarətimizdə deyil və heç bir əlaqəli saytın məzmununa,"
+" o cümlədən məhdudlaşdırılmadan saytdakı hər hansı bir bağlantıya və ya "
+"əlaqəli sayt və ya əlaqəli sayt vasitəsilə verilən xidmətlərə edilən "
+"dəyişiklik və ya yeniləmələrə görə məsuliyyət daşımırıq. Bu əlaqələri yalnız"
+" bir rahatlıq olaraq sizə təqdim edirik və hər hansı bir bağlantının daxil "
+"edilməsi saytın və ya sayt tərəfindən təqdim olunan hər hansı bir xidmətin "
+"təsdiqlənməsini nəzərdə tutmur."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Sifarişinizlə və / və ya marketinq məqsədi ilə yeniləmələr təmin etmək"
+" üçün CaseActive-dan e-poçt, telefon danışıqları və SMS mesajları almağa "
+"razılıq verirsiniz. Mesaj tezliyi fəaliyyətinizdən asılıdır. Hesabınızdakı "
+"bildirişləri ləğv edərək və ya hesabınızı silərək imtina edə bilərsiniz. "
+"Mesaj və məlumat dərəcələri tətbiq oluna bilər."
+
+msgid "An error occurred"
+msgstr "Xəta baş verdi"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Nəsə xəta baş verdi. Mühəndislərimizə məlumat verilib. Yenidən yükləmək üçün"
+" yenidən yükləmə düyməsini basın."
+
+msgid "Reload"
+msgstr "Yenidən yükləyin"

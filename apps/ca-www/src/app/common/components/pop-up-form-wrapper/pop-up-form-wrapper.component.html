@@ -1,0 +1,12 @@
+<div id="pop-up-form" class="popup-a a form-c shown" [ngClass]="{ shown: showModal }">
+  <div class="box-outer">
+    <div class="box-inner">
+      <ng-content></ng-content>
+
+      <p>
+        <a (click)="managedSignUpPopUp()"></a>
+      </p>
+    </div>
+    <a class="close" (click)="managedSignUpPopUp()" translate>Close</a>
+  </div>
+</div>

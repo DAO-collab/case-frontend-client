@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Nyeem tag nrho cov ntaub ntawv hais qhia hauv lub luag haujlwm",
+    "write": "Sau tag nrho cov ntaub ntawv teb qhia hauv lub luag haujlwm"
+  },
+  "convos": {
+    "read_all": "Saib cov xwm txheej tam sim no ntawm convos.",
+    "manage_own": "Koom thiab unjoin convo.",
+    "moderate_others": "Pib convo, xaus convo, thiab tshem tawm cov neeg koom nrog.",
+    "read_all_submissions": "Nyeem tag nrho cov lus sau tseg."
+  },
+  "events": {
+    "read_all": "Nyeem tag nrho cov xwm txheej.",
+    "manage_own": "Tsim, hloov kho thiab tshem tawm tus kheej qhov xwm txheej.",
+    "moderate_others": "Hloov kho thiab tshem tawm lwm qhov xwm txheej.",
+    "read_all_submissions": "Nyeem tag nrho cov xwm txheej pom zoo.",
+    "submit_own": "Txheeb xyuas qhov kev thov tuaj koom."
+  },
+  "posts": {
+    "read_all": "Nyeem tag nrho cov ntawv.",
+    "manage_own": "Tsim, hloov kho thiab rho tawm tus kheej tshaj tawm.",
+    "moderate_others": "Hloov kho thiab rho tawm lwm tus ncej."
+  },
+  "forms": {
+    "read_all": "Nyeem tag nrho cov ntawv.",
+    "manage_own": "Tsim, hloov kho thiab rho tawm tus kheej daim ntawv.",
+    "moderate_others": "Hloov kho thiab rho tawm lwm daim ntawv.",
+    "read_all_submissions": "Nyeem tag nrho cov ntawv xa tuaj.",
+    "submit_own": "Xa daim ntawv thov."
+  },
+  "invoices": {
+    "read_all": "Nyeem tag nrho cov ntawv xa nyiaj.",
+    "manage_own": "Tsim, hloov kho thiab tshem tawm tus kheej daim ntawv them nqi.",
+    "moderate_others": "Hloov kho thiab tshem tawm lwm tus daim nqi them.",
+    "read_all_submissions": "Nyeem tag nrho cov ntawv xa tuaj.",
+    "submit_own": "Xa daim ntawv thov."
+  },
+  "notes": {
+    "read_all": "Nyeem tag nrho cov ntawv.",
+    "manage_own": "Tsim, hloov kho thiab rho tawm tus kheej daim ntawv.",
+    "moderate_others": "Hloov kho thiab rho tawm lwm tus ntawv."
+  },
+  "signs": {
+    "read_all": "Nyeem tag nrho cov cim e.",
+    "manage_own": "Tsim, hloov kho thiab tshem tawm tus kheej e-kos npe.",
+    "moderate_others": "Hloov kho thiab rho tawm lwm tus e-kos npe.",
+    "read_all_submissions": "Nyeem tag nrho e-kos npe xa ntawv.",
+    "submit_own": "Xa daim ntawv thov teb."
+  },
+  "tasks": {
+    "read_all": "Nyeem tag nrho cov haujlwm.",
+    "manage_own": "Tsim, hloov kho thiab tshem tawm tus kheej txoj haujlwm.",
+    "moderate_others": "Hloov kho thiab tshem tawm lwm tus txoj haujlwm.",
+    "read_all_submissions": "Nyeem tag nrho cov ntaub ntawv xa mus.",
+    "submit_own": "Xa daim ntawv thov ua haujlwm."
+  },
+  "team": { "read_all": "Nyeem pab neeg hauv rooj plaub" }
+}

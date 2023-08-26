@@ -1,0 +1,326 @@
+<div
+  #wrapper
+  class="d-field-wrapper"
+>
+  <div class="field-body">
+    <div
+      class="highlight-field"
+      *ngIf="highlightField"
+      [ngStyle]="{
+        transform: 'scale(' + 1 / scaleNumber + ')',
+        left: (20 / scaleNumber - 20 * scaleNumber) / 2 + 'px',
+        top: (-25 / scaleNumber + 25 * (scaleNumber - 1)) / 2 + 'px'
+      }"
+    >
+      <img src="/images/download-image.svg" alt="" />
+    </div>
+
+    <ng-container *ngIf="!!fieldData.displayText && fieldData.fieldType !== 'text-only'">
+      <span class="field-text">{{ fieldData.title || '' }}</span>
+    </ng-container>
+    <ng-container *ngIf="!!fieldData.displayText">
+      <span class="field-text" style="font-size: 0.8em">{{ fieldData.subText || '' }}</span>
+    </ng-container>
+    <span 
+      [ngSwitch]="fieldData.fieldType" 
+      [ngClass]="{ listing: fieldData.fieldType === 'checkboxes' || fieldData.fieldType === 'options' }"
+    >
+      <ng-container *ngSwitchCase="'dropdown'">
+        <ng-select
+          class="form-control-bg no-transparent multi-dropdown"
+          name="dropdown-items"
+          [items]="fieldData.enum"
+          bindLabel="text"
+          bindValue="id"
+          [disabled]="fieldData.readonly"
+          [(ngModel)]="saveModel[fieldData.key]"
+          [clearable]="false"
+          appendTo="body"
+          (change)="handleChange(saveModel)"
+        >
+        </ng-select>
+      </ng-container>
+      <ng-container *ngSwitchCase="'text-only'">
+        <mat-formio [form]="editorConfig"></mat-formio>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'text'">
+        <input
+          type="text"
+          class="form-control form-control-bg no-transparent"
+          name="saveModeli"
+          [disabled]="fieldData.readonly"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+          (keyup)="handleKeyup($event, fieldData)"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'multi-text'">
+        <textarea
+          class="form-control form-control-bg no-transparent"
+          name="saveModeli"
+          [disabled]="fieldData.readonly"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+          (keyup)="handleKeyup($event, fieldData)"
+        ></textarea>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'textarea'">
+        <textarea
+          name="saveModeli"
+          [disabled]="fieldData.readonly"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+        ></textarea>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'multidropdown'">
+        <ng-select
+          class="form-control-bg no-transparent multi-dropdown"
+          name="multi-dropdown-items"
+          [items]="fieldData.items.enum"
+          bindLabel="text"
+          bindValue="id"
+          [disabled]="fieldData.readonly"
+          [(ngModel)]="saveModel[fieldData.key]"
+          [clearable]="false"
+          [multiple]="true"
+          (change)="handleChange(saveModel)"
+          appendTo="body"
+        >
+          <ng-template ng-label-tmp let-item="item">
+            <div class="wrapper">
+              <span (click)="removeSelectItem(item)" aria-hidden="true" class="ng-value-icon left ng-star-inserted"
+                >×</span
+              >
+              <span class="ng-value-label">{{ item }}</span>
+            </div>
+          </ng-template>
+        </ng-select>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'checkboxes'">
+        <span class="checkboxes-group">
+          <span *ngFor="let opt of fieldData.items.enum" class="cb-item">
+            <label class="container cg-box single">
+              <input
+                type="checkbox"
+                class="form-control form-control-bg no-transparent"
+                [disabled]="fieldData.readonly"
+                (change)="
+                  generateActiveItems(fieldData.description).indexOf(opt) > -1
+                    ? fieldData.description.splice(fieldData.description.indexOf(opt), 1)
+                    : fieldData.description.push(opt)
+                "
+                [checked]="generateActiveItems(fieldData.description).indexOf(opt) > -1"
+              />
+              <span class="checkmark form-control-bg no-transparent"></span>
+            </label>
+            <span class="cg-label" translate>{{ opt }}</span>
+          </span>
+        </span>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'options'">
+        <ul class="checklist-d form-control-bg no-transparent" style="z-index: 9" [attr.disabled]="fieldData.readonly">
+          <ng-container *ngFor="let opt of fieldData.enum; let i = index">
+            <li *ngIf="i === (fieldData.childIndex === undefined ? i : fieldData.childIndex)">
+              <label [for]="fieldData.key" class="radio" [class.radio-left]="fieldData?.displayText">
+                <input
+                  type="radio"
+                  id="{{ fieldData.key }}-{{ i }}"
+                  [name]="fieldData.key"
+                  [value]="opt"
+                  [(ngModel)]="saveModel[fieldData.key]"
+                  (change)="handleChange(saveModel)"
+                />
+                &nbsp;&nbsp;<ng-container *ngIf="fieldData.displayText">{{ opt }}</ng-container>
+                <div class="input"><div class="inner"></div></div>
+              </label>
+            </li>
+          </ng-container>
+        </ul>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'checkbox-options'">
+        <ng-container *ngFor="let opt of fieldData.items.enum; let i = index">
+          <span class="cb-item single">
+            <label
+              class="container cg-box single"
+              *ngIf="i === (fieldData.childIndex === undefined ? i : fieldData.childIndex)"
+            >
+              <input
+                type="checkbox"
+                class="form-control form-control-bg no-transparent"
+                [disabled]="fieldData.readonly"
+                [checked]="generateActiveItems(fieldData.description).indexOf(opt) > -1"
+                (change)="checkboxesChange(opt)"
+              />
+              <span class="checkmark form-control-bg no-transparent"></span>
+            </label>
+            <span
+              class="cg-label"
+              *ngIf="i === (fieldData.childIndex === undefined ? i : fieldData.childIndex) && fieldData.displayText"
+              >{{ opt }}</span
+            >
+          </span>
+        </ng-container>
+      </ng-container>
+
+      <ng-container class="boolen-field clear-after" *ngSwitchCase="'boolean'">
+        <label class="container">
+          <input
+            type="checkbox"
+            class="form-control form-control-bg no-transparent"
+            [disabled]="fieldData.readonly"
+            [(ngModel)]="saveModel[fieldData.key]"
+            [checked]="saveModel[fieldData.name]"
+            (change)="handleChange(saveModel)"
+          />
+          <span class="checkmark"></span>
+        </label>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'number'">
+        <input
+          type="number"
+          class="form-control form-control-bg no-transparent"
+          name="saveModel[fieldData.name]i"
+          [disabled]="fieldData.readonly"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'date'">
+        <input
+          mwlFlatpickr
+          required
+          [altInput]="true"
+          altFormat="m/d/Y"
+          type="text"
+          name="saveModel[fieldData.name]"
+          class="form-control form-control-bg no-transparent date-input"
+          [disabled]="fieldData.readonly"
+          [value]="fieldData.description"
+          [convertModelValue]="true"
+          (change)="handleChange(saveModel)"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'time'">
+        <input
+          mwlFlatpickr
+          [altInput]="true"
+          altFormat="G:i:S K"
+          dateFormat="G:i:S K"
+          type="text"
+          name="saveModel[fieldData.name]"
+          class="form-control form-control-bg no-transparent time-input"
+          [convertModelValue]="true"
+          [noCalendar]="true"
+          [enableSeconds]="true"
+          [enableTime]="true"
+          [value]="currentTimeForInput"
+          (change)="handleChange(saveModel)"
+          [disabled]="fieldData.readonly"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'table'">
+        <table [class.fixed-cols]="!editTable">
+          <thead>
+            <tr>
+              <th *ngFor="let col of fieldData.cols">{{ col }}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <ng-container *ngIf="!creatorPreview; else submitPreview">
+              <tr class="delete-row" *ngFor="let row of saveModel[fieldData.key][rowsModelIndex]; let rowInd = index">
+                <td
+                  class="form-control-bg no-transparent"
+                  *ngFor="let col of saveModel[fieldData.key][columnsModelIndex]; let colInd = index; let isLast = last"
+                >
+                  <ng-container *ngIf="!editTable; else editRows">
+                    {{ saveModel[fieldData.key][rowsModelIndex][rowInd][colInd] }}
+                  </ng-container>
+                  <ng-template #editRows>
+                    <input
+                      class="form-control form-control-bg no-transparent"
+                      type="text"
+                      (change)="handleChange(saveModel)"
+                      [(ngModel)]="saveModel[fieldData.key][rowsModelIndex][rowInd][colInd]"
+                    />
+                  </ng-template>
+                  <button
+                    *ngIf="editTable && isLast"
+                    (click)="deleteRow(rowInd)"
+                    [matTooltip]="'Delete row' | translate"
+                    [matTooltipShowDelay]="200"
+                    [matTooltipPosition]="'right'"
+                  >
+                    <i class="icon-plus"></i>
+                  </button>
+                </td>
+              </tr>
+            </ng-container>
+            <ng-template #submitPreview>
+              <tr class="delete-row" *ngFor="let row of previewTableData; let rowInd = index">
+                <td
+                  class="form-control-bg no-transparent"
+                  *ngFor="let col of fieldData.cols; let colInd = index; let isLast = last"
+                >
+                  <input class="form-control form-control-bg no-transparent" type="text" />
+                  <button
+                    *ngIf="isLast"
+                    (click)="deleteTableRow(rowInd)"
+                    [matTooltip]="'Delete row' | translate"
+                    [matTooltipShowDelay]="200"
+                    [matTooltipPosition]="'right'"
+                  >
+                    <i class="icon-plus"></i>
+                  </button>
+                </td>
+              </tr>
+            </ng-template>
+          </tbody>
+          <tfoot *ngIf="editTable || creatorPreview">
+            <tr class="add-row">
+              <td [colSpan]="fieldData.cols.length">
+                <button
+                  (click)="creatorPreview ? addNewTableRow() : addNewRow(saveModel[fieldData.key][1])"
+                  [matTooltip]="'Add a new row' | translate"
+                  [matTooltipShowDelay]="200"
+                  [matTooltipPosition]="'below'"
+                >
+                  <i class="icon-plus"></i>
+                </button>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'list'">
+        <ul class="checklist-d list form-control-bg no-transparent">
+          <li
+            (click)="listClick(row)"
+            [class.active]="row === (creatorPreview ? previewListValue : fieldData.description)"
+            *ngFor="let row of fieldData.enum"
+          >
+            {{ row }}
+          </li>
+        </ul>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'signature-box'">
+        <div class="signature-box-wrapper no-transparent" (click)="openSignaturePopup(fieldData)">
+          <span class="signature-sign" translate>sign</span>
+          <img [src]="creatorPreview ? previewSignatureSrc : saveModel[fieldData.key]" alt="" />
+        </div>
+      </ng-container>
+    </span>
+  </div>
+</div>

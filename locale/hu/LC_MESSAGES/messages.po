@@ -1,0 +1,4544 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.348436\n"
+"PO-Revision-Date: 2019-03-13T10:04:21.145376\n"
+"Language: hu\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Válasszon képfájlt."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Töltsön fel egy dokumentumot, jelölje meg aláírásra, majd az ügyfél "
+"bejelentkezik és aláírja. Minden megtörténik anélkül, hogy az ügyfélnek be "
+"kellene lépnie az épületünkbe. Ez olyan ügyfelek számára hasznos, akik nem "
+"állnak közel irodába, vagy államon kívül élnek."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "A tőkebiztosítás üzemeltetési igazgatója"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Munkatársaink bejelentkezhetnek és megnézhetik az alapvető információkat "
+"arról, hogy az ügyük miként alakul. Ez jelentősen megnövelte az ügyek "
+"áttételét ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "A Christianson &amp; Bayles Ügyvédi Iroda partnere"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Többé nem kell az ügyfelekkel találkoznunk az irodában az ülésen, és a "
+"dokumentumok aláírása mind online módon megtörtént - ragyogó !."
+
+msgid "CEO of EL Passion"
+msgstr "Az EL Passion vezérigazgatója"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Az API használatával a meglévő rendszerünkben szereplő speciális "
+"eseményindítók alapján teljesen automatizáltuk azt, amely megjelenik az "
+"ügyetáblában. Nagyon kényelmes .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "A Carter Mario Sérülés ügyvédek informatikai igazgatója"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Sok olyan többnyelvű ügyfél van, akik a fordítási funkciót használják. Olyan"
+" bizalommal küldünk üzeneteket, hogy mindenki megérti. Ez lehetővé teszi a "
+"helyi munkáról a globális munkára való áttérést."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "A Solid Rock Designs vezérigazgatója"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Az ügyfelek imádják! Sokkal könnyebbé teszi életüket. Online megbeszélhetnek"
+" velünk a kérdéseket, feltölthetnek fényképeket és dokumentumokat, és "
+"mindent tárolnak, ahol mind a csapat, mind az ügyfél megtekintheti őket."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Az Ashley &amp; Ashley PC partnere"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Szeretjük az eseti számlázást, mert lehetővé teszi az ügyfelek számára, hogy"
+" pontosan megnézhessék, mire fizetnek."
+
+msgid "Vice President of Sky Digital"
+msgstr "A Sky Digital alelnöke"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"A térhálósított kommunikáció olyan, mintha minden közösségi média és "
+"együttműködési eszköz egy helyen lenne."
+
+msgid "Director Of Complaint Management"
+msgstr "Panaszkezelő igazgató"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Az esettanulmányok lehetővé teszik számunkra, hogy meghallgassuk és "
+"tanulhassunk, segítve az ügyfelek visszajelzéseinek növelését."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "A Cain &amp; Company értékesítési igazgatója"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"A felhasználói felület nagyon hasonló a Facebook-hoz. Rendkívül könnyen "
+"használható .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "A Wong Medical Group LLC partnere"
+
+msgid "A pin has been sent to"
+msgstr "PIN-kódot küldtünk a címre"
+
+msgid "Cancel"
+msgstr "Megszünteti"
+
+msgid "Send New Pin"
+msgstr "Új PIN-kód küldése"
+
+msgid "Need Help?"
+msgstr "Kell segítség?"
+
+msgid "Click here to contact us"
+msgstr "Kattintson ide, ha kapcsolatba szeretne lépni velünk"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Login or Signup"
+msgstr "Bejelentkezés vagy regisztráció"
+
+msgid "Invalid email entered"
+msgstr "Érvénytelen e-mail-címet adott meg"
+
+msgid "Processing..."
+msgstr "Feldolgozás..."
+
+msgid "Made with"
+msgstr "Készült"
+
+msgid "love"
+msgstr "szerelem"
+
+msgid "in New York City"
+msgstr "New Yorkban"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Minden jog fenntartva"
+
+msgid "Terms of Use"
+msgstr "Használati feltételek"
+
+msgid "Contact Us"
+msgstr "Lépjen kapcsolatba velünk"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "New Password"
+msgstr "új jelszó"
+
+msgid "Confirm Password"
+msgstr "Jelszó megerősítése"
+
+msgid "Set Your New Password"
+msgstr "Állítsa be új jelszavát"
+
+msgid "A code has been sent to"
+msgstr "A kódot elküldtük"
+
+msgid "Change Password"
+msgstr "Jelszó módosítása"
+
+msgid "Changing..."
+msgstr "Megváltoztatása ..."
+
+msgid "Login"
+msgstr "Belépek"
+
+msgid "Forgot password?"
+msgstr "Elfelejtette a jelszavát?"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid "Email or Phone"
+msgstr "Mailben vagy telefonon"
+
+msgid "Reset Password"
+msgstr "Jelszó visszaállítása"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Írja be a fiókjához társított e-mail címet vagy telefonszámot, majd "
+"kattintson a Küldés gombra. E-mailben vagy szövegesen elküldjük Önnek egy "
+"olyan oldalra mutató linket, ahol könnyen létrehozhat új jelszót."
+
+msgid "Request Code"
+msgstr "Kérjen kódot"
+
+msgid "Requesting..."
+msgstr "Kérése ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "AZ ESETÉRTELMÉNY hamarosan beköszön"
+
+msgid "Create a free account"
+msgstr "Hozzon létre egy ingyenes fiókot"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Utolsó simításokat teszünk hozzá. Értesítünk, ha készen áll!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Percekre van a jobb együttműködéstől."
+
+msgid "First Name"
+msgstr "Keresztnév"
+
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Company"
+msgstr "Vállalat"
+
+msgid "No language selected"
+msgstr "Nincs kiválasztva nyelv"
+
+msgid "I agree with"
+msgstr "Egyetértek"
+
+msgid "Terms of Service"
+msgstr "Szolgáltatás feltételei"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Have at least one lower case character"
+msgstr "Legalább egy kisbetű"
+
+msgid "Have at least one capital letter"
+msgstr "Legalább egy nagybetűt"
+
+msgid "Have at least one number"
+msgstr "Legalább egy szám"
+
+msgid "Have at least 8 characters in length"
+msgstr "Legalább 8 karakter hosszú"
+
+msgid "Type your current password"
+msgstr "gépelje be a jelenlegi jelszavát"
+
+msgid "Passwords must match"
+msgstr "a jelszavaknak egyezniük kell"
+
+msgid "Domains"
+msgstr "Domains"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "A Javascript le van tiltva. Engedélyezze."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "A cookie-k le vannak tiltva. Engedélyezze."
+
+msgid "New"
+msgstr "Új"
+
+msgid "Create A New App"
+msgstr "Hozzon létre egy új alkalmazást"
+
+msgid "Apps"
+msgstr "Alkalmazások"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Kilépés"
+
+msgid "Hi"
+msgstr "Szia"
+
+msgid "View your account"
+msgstr "Tekintse meg fiókját"
+
+msgid "View page"
+msgstr "Oldal megtekintése"
+
+msgid "You don’t have any apps"
+msgstr "Nincsenek alkalmazásai"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "admin"
+
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgid "No notifications yet."
+msgstr "Még nincsenek értesítések."
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "Last Week"
+msgstr "Múlt hét"
+
+msgid "No timezone selected"
+msgstr "Nincs kiválasztott időzóna"
+
+msgid "Complete profile to continue"
+msgstr "Teljes profil a folytatáshoz"
+
+msgid "Timezone"
+msgstr "Időzóna"
+
+msgid "Update"
+msgstr "frissítés"
+
+msgid "Website:"
+msgstr "Weboldal:"
+
+msgid "Homepage:"
+msgstr "Honlap:"
+
+msgid "Approve Access"
+msgstr "Jóváhagyja a hozzáférést"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Permissions"
+msgstr "Engedélyek"
+
+msgid "Billing"
+msgstr "Számlázás"
+
+msgid "Payment Plan"
+msgstr "Fizetési terv"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "has access to your information below:"
+msgstr "hozzáféréssel rendelkezik az alábbi információkhoz:"
+
+msgid "has invited you to their client portal."
+msgstr "meghívta Önt az ügyfélportálra."
+
+msgid "want access to the following information:"
+msgstr "hozzáférést kíván a következő információkhoz:"
+
+msgid "Decline"
+msgstr "Hanyatlás"
+
+msgid "Remove Access"
+msgstr "Távolítsa el az Access szolgáltatást"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Invites"
+msgstr "Meghívja"
+
+msgid "Disabled"
+msgstr "Tiltva"
+
+msgid "No apps found"
+msgstr "Nem található alkalmazás"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "használó"
+
+msgid "manager"
+msgstr "menedzser"
+
+msgid "active"
+msgstr "aktív"
+
+msgid "inactive"
+msgstr "tétlen"
+
+msgid "Company Name"
+msgstr "Cégnév"
+
+msgid "Type"
+msgstr "típus"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "Invitation"
+msgstr "Meghívás"
+
+msgid "About App"
+msgstr "Az alkalmazásról"
+
+msgid "Billing Info"
+msgstr "Számlázási info"
+
+msgid "Your Company Name"
+msgstr "Cégének neve"
+
+msgid "Your Company Website"
+msgstr "A cég weboldala"
+
+msgid "Saving..."
+msgstr "Megtakarítás..."
+
+msgid "Billing Information"
+msgstr "számlázási információ"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Kérjük, adja meg a cég által megadott APP ID-t"
+
+msgid "Select an option"
+msgstr "Válassz egy lehetőséget"
+
+msgid "Join an existing app as a client"
+msgstr "Csatlakozzon egy meglévő alkalmazáshoz ügyfélként"
+
+msgid "Create a new app for my business"
+msgstr "Új alkalmazás létrehozása a vállalkozásom számára"
+
+msgid "Create Domain"
+msgstr "Domain létrehozása"
+
+msgid "Select enterprise app"
+msgstr "Válassza ki a vállalati alkalmazást"
+
+msgid "No item selected"
+msgstr "Nincs kiválasztva elem"
+
+msgid "Domain name"
+msgstr "Domain név"
+
+msgid "Add"
+msgstr "hozzáad"
+
+msgid "No enterprise app found"
+msgstr "Nem található vállalati alkalmazás"
+
+msgid "Pending"
+msgstr "Függőben levő"
+
+msgid "No domains found"
+msgstr "Nem található domain"
+
+msgid "Domain"
+msgstr "Tartomány"
+
+msgid "Txt Value"
+msgstr "Txt érték"
+
+msgid "Enterprise Host ID"
+msgstr "Vállalati gazdagép-azonosító"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Akció"
+
+msgid "Delete"
+msgstr "Töröl"
+
+msgid "Reset"
+msgstr "Visszaállítás"
+
+msgid "Allow Manual Sign In"
+msgstr "Kézi bejelentkezés engedélyezése"
+
+msgid "Exclude Emails From SSO"
+msgstr "E-mailek kizárása az egyszeri bejelentkezésből"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML Identity Provider metaadatok"
+
+msgid "Submit"
+msgstr "Beküldés"
+
+msgid "Profile photo"
+msgstr "Profilkép"
+
+msgid "Uploading..."
+msgstr "Feltöltés..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "egy másik fiók állította igényét, kérjük, módosítsa vagy"
+
+msgid "reclaim"
+msgstr "visszakövetel"
+
+msgid "it"
+msgstr "azt"
+
+msgid "pending verification:"
+msgstr "függőben lévő ellenőrzés:"
+
+msgid "verify"
+msgstr "ellenőrizze"
+
+msgid "Phone Number"
+msgstr "Telefonszám"
+
+msgid "Current Password"
+msgstr "jelenlegi jelszó"
+
+msgid "Change password"
+msgstr "Jelszó módosítása"
+
+msgid "No gender selected"
+msgstr "Nincs nem kiválasztva"
+
+msgid "Company Title"
+msgstr "Cégcím"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "Address 2"
+msgstr "cím 2"
+
+msgid "City/Locality"
+msgstr "Város / helység"
+
+msgid "State/Region"
+msgstr "Ország / régió"
+
+msgid "No country selected"
+msgstr "Nincs kiválasztva ország"
+
+msgid "Zip/Postal Code"
+msgstr "Irányítószám"
+
+msgid "Basic"
+msgstr "Alapvető"
+
+msgid "Date of Birth"
+msgstr "Születési dátum"
+
+msgid "Gender"
+msgstr "nem"
+
+msgid "Occupation"
+msgstr "Foglalkozása"
+
+msgid "Location"
+msgstr "Elhelyezkedés"
+
+msgid "Address is not valid"
+msgstr "A cím érvénytelen"
+
+msgid "City/Locality is not valid"
+msgstr "A város / helység érvénytelen"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "State/Region is not valid"
+msgstr "Az állam / régió érvénytelen"
+
+msgid "Contact Info"
+msgstr "Elérhetőségei"
+
+msgid "Language & Region"
+msgstr "Nyelv és régió"
+
+msgid "Saving"
+msgstr "Megtakarítás"
+
+msgid "Verify Your"
+msgstr "Ellenőrizd"
+
+msgid "Verification Code"
+msgstr "Ellenőrző kód"
+
+msgid "Resend Code"
+msgstr "Kód újraküldése"
+
+msgid "Resending"
+msgstr "újraküldése"
+
+msgid "Verify"
+msgstr "Ellenőrizze"
+
+msgid "Verifying..."
+msgstr "Ellenőrzés ..."
+
+msgid "Later"
+msgstr "A későbbiekben"
+
+msgid "We're here to help"
+msgstr "Itt vagyunk, hogy segítsünk"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Köszönjük, hogy kapcsolatba lépett velünk. Az üzenetet sikeresen elküldtük. "
+"Hamarosan kapcsolatba lépünk Önnel!"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "characters left"
+msgstr "karakterek maradtak"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Elküld"
+
+msgid "Sending..."
+msgstr "Küldés ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "A továbbiakban nem fog e-mail marketinget kapni a listáról."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Ha van egy perce, kérjük, ossza meg velünk, miért iratkozott le:"
+
+msgid "Return to our website"
+msgstr "Térjen vissza weboldalunkra"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Köszönöm. Válaszát elküldtük."
+
+msgid "No Cases"
+msgstr "Nincsenek esetek"
+
+msgid "Layout"
+msgstr "Elrendezés"
+
+msgid "Gallery"
+msgstr "Képtár"
+
+msgid "Speaker"
+msgstr "Hangszóró"
+
+msgid "This case has been closed"
+msgstr "Ezt az ügyet lezárták"
+
+msgid "Feed"
+msgstr "takarmány"
+
+msgid "Images"
+msgstr "képek"
+
+msgid "Docs"
+msgstr "Docs"
+
+msgid "Audios"
+msgstr "Hangok"
+
+msgid "Videos"
+msgstr "Videók"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Events"
+msgstr "Események"
+
+msgid "Forms"
+msgstr "Forms"
+
+msgid "E-signs"
+msgstr "E-jelek"
+
+msgid "Invoices"
+msgstr "Számlák"
+
+msgid "Notes"
+msgstr "Megjegyzések"
+
+msgid "Tasks"
+msgstr "Feladatok"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Nagyszerű munka!"
+
+msgid "You did all"
+msgstr "Mindent megtettél"
+
+msgid "the tasks"
+msgstr "a feladatok"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Skip to navigation (n)"
+msgstr "Ugrás a navigációra (n)"
+
+msgid "Skip to content (c)"
+msgstr "Ugrás a tartalomhoz (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Ugrás a láblécre (f)"
+
+msgid "Case"
+msgstr "Ügy"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Using Form Builder"
+msgstr "Form Builder használata"
+
+msgid "Using Forms Library"
+msgstr "A Forms Library használata"
+
+msgid "Using E-sign Builder"
+msgstr "Az E-sign Builder használata"
+
+msgid "Using E-signs Library"
+msgstr "Az E-signs Library használata"
+
+msgid "Documents"
+msgstr "Dokumentumok"
+
+msgid "Create Note"
+msgstr "Megjegyzés létrehozása"
+
+msgid "Edit Note"
+msgstr "Megjegyzés módosítása"
+
+msgid "End Convo"
+msgstr "Convo vége"
+
+msgid "Create Form"
+msgstr "Űrlap létrehozása"
+
+msgid "Create Sign"
+msgstr "Jelző létrehozása"
+
+msgid "Event Create"
+msgstr "Esemény létrehozása"
+
+msgid "Convo Videos"
+msgstr "Convo videók"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Esetek"
+
+msgid "Case categories"
+msgstr "Esetkategóriák"
+
+msgid "Your team"
+msgstr "Csapatod"
+
+msgid "To do"
+msgstr "Csinálni"
+
+msgid "To Do:"
+msgstr "Csinálni:"
+
+msgid "Case Categories"
+msgstr "Ügykategóriák"
+
+msgid "Your Team"
+msgstr "Csapatod"
+
+msgid "To Do"
+msgstr "Csinálni"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "Publish"
+msgstr "Közzététel"
+
+msgid "Visibility"
+msgstr "Láthatóság"
+
+msgid "all"
+msgstr "minden"
+
+msgid "sign"
+msgstr "jel"
+
+msgid "Page"
+msgstr "oldal"
+
+msgid "of"
+msgstr "nak,-nek"
+
+msgid "Processing"
+msgstr "Feldolgozás"
+
+msgid "failed."
+msgstr "nem sikerült."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Az értéknek nagyobbnak vagy egyenlőnek kell lennie 1-gyel"
+
+msgid "Repeat end:"
+msgstr "Ismétlés vége:"
+
+msgid "Signature"
+msgstr "Aláírás"
+
+msgid "Draw"
+msgstr "Húz"
+
+msgid "Write"
+msgstr "Ír"
+
+msgid "Clear Signature"
+msgstr "Tiszta aláírás"
+
+msgid "Still processing video..."
+msgstr "A videó feldolgozása folyamatban van ..."
+
+msgid "You"
+msgstr "Ön"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "A hírcsatorna törlésére készül. biztos vagy ebben?"
+
+msgid "No convo audios yet"
+msgstr "Még nincsenek beszélgetési hanganyagok"
+
+msgid "No convo videos yet"
+msgstr "Még nincsenek beszélgetési videók"
+
+msgid "Start Convo"
+msgstr "Indítsa el a Convo-t"
+
+msgid "Notify the Host"
+msgstr "Értesítse a házigazdát"
+
+msgid "is in the call"
+msgstr "a hívásban van"
+
+msgid "and"
+msgstr "és"
+
+msgid "others are in the call"
+msgstr "mások is részt vesznek a hívásban"
+
+msgid "Audio call is being recorded"
+msgstr "A hanghívás rögzítése folyamatban van"
+
+msgid "Video call is being recorded"
+msgstr "A videohívás rögzítése folyamatban van"
+
+msgid "Join now"
+msgstr "Csatlakozz most"
+
+msgid "Dismiss"
+msgstr "Elvetés"
+
+msgid "Can’t find your "
+msgstr "Nem találja a tiéd"
+
+msgid "microphone"
+msgstr "mikrofon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Ellenőrizze a rendszerbeállításokat, hogy megbizonyosodjon erről"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"elérhető. Ha nem, csatlakoztasson egyet. Lehet, hogy újra kell indítania a "
+"böngészőt."
+
+msgid "web camera"
+msgstr "webkamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Convo hívást fog indítani. Kezdeni valamivel:"
+
+msgid "Video & Audio"
+msgstr "Videó és hang"
+
+msgid "Audio Only"
+msgstr "Csak hang"
+
+msgid "Record the meeting"
+msgstr "Rögzítse a találkozót"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Várakozás valakire, aki jogosult a Convo hívás indítására"
+
+msgid "Add Ticket"
+msgstr "Jegy hozzáadása"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Open"
+msgstr "Nyisd ki"
+
+msgid "Closed"
+msgstr "Zárva"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "A jegy lezárása előtt áll. biztos vagy ebben?"
+
+msgid "Announcements"
+msgstr "Közlemények"
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Opened"
+msgstr "Nyitott"
+
+msgid "View"
+msgstr "Kilátás"
+
+msgid "Locations"
+msgstr "Helyszínek"
+
+msgid "You currently have no announcements."
+msgstr "Jelenleg nincsenek bejelentései."
+
+msgid "You currently have no"
+msgstr "Jelenleg nincs"
+
+msgid "open cases. Click"
+msgstr "nyitott ügyek. Kattintson"
+
+msgid "here"
+msgstr "itt"
+
+msgid "to contact support."
+msgstr "hogy lépjen kapcsolatba az ügyfélszolgálattal."
+
+msgid "closed cases."
+msgstr "lezárt ügyek."
+
+msgid "open tickets."
+msgstr "nyitott jegyek."
+
+msgid "closed tickets."
+msgstr "zárt jegyek."
+
+msgid "You currently have no locations."
+msgstr "Jelenleg nincsenek helyei."
+
+msgid "Write a comment...."
+msgstr "Írj hozzászólást...."
+
+msgid "Post"
+msgstr "posta"
+
+msgid "Add Location"
+msgstr "Add meg a helyet"
+
+msgid "Save Event"
+msgstr "Esemény mentése"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Start Date"
+msgstr "Kezdő dátum"
+
+msgid "Start Time"
+msgstr "Kezdési idő"
+
+msgid "End Date"
+msgstr "Befejezés dátuma"
+
+msgid "End Time"
+msgstr "Idő vége"
+
+msgid "Repeat"
+msgstr "Ismétlés"
+
+msgid "Attendees"
+msgstr "Résztvevők"
+
+msgid "Event Location"
+msgstr "Esemény helye"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Attending"
+msgstr "Részt vesz"
+
+msgid "Add to calendar"
+msgstr "Hozzáadás a naptárhoz"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "Event by"
+msgstr "Esemény:"
+
+msgid "Duration:"
+msgstr "Időtartam:"
+
+msgid "more"
+msgstr "több"
+
+msgid "Maybe"
+msgstr "Talán"
+
+msgid "Not Attending"
+msgstr "Nem jelenik meg"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Videó konferencia"
+
+msgid "Event details"
+msgstr "Esemény részletei"
+
+msgid "You don't have permissions to view this page."
+msgstr "Nincs jogosultsága az oldal megtekintéséhez."
+
+msgid "Your Upcoming Events"
+msgstr "Közelgő eseményeid"
+
+msgid "Upcoming"
+msgstr "Közelgő"
+
+msgid "Your Past Events"
+msgstr "A múlt eseményei"
+
+msgid "Past"
+msgstr "Múlt"
+
+msgid "Your Events"
+msgstr "Az Ön eseményei"
+
+msgid "All"
+msgstr "Összes"
+
+msgid "All Events"
+msgstr "Minden esemény"
+
+msgid "Directions"
+msgstr "Útvonal"
+
+msgid "Edit settings"
+msgstr "Beállítások szerkesztése"
+
+msgid "Delete event"
+msgstr "Esemény törlése"
+
+msgid "Attending?"
+msgstr "Részt vesz?"
+
+msgid "No Events"
+msgstr "Nincs esemény"
+
+msgid "more comment(s)"
+msgstr "több megjegyzés (ek)"
+
+msgid "Loading comments"
+msgstr "Megjegyzések betöltése"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "A megjegyzés törlésére készül. biztos vagy ebben?"
+
+msgid "task"
+msgstr "feladat"
+
+msgid "to do"
+msgstr "csinálni"
+
+msgid "tasks"
+msgstr "feladatokat"
+
+msgid "Write something..."
+msgstr "Írjon valamit..."
+
+msgid "Attach File"
+msgstr "Fájl csatolása"
+
+msgid "From Template"
+msgstr "Sablonból"
+
+msgid "No feeds yet."
+msgstr "Még nincs hírcsatorna."
+
+msgid "comments"
+msgstr "Hozzászólások"
+
+msgid "comment"
+msgstr "megjegyzés"
+
+msgid "Add a comment"
+msgstr "Hozzászólni"
+
+msgid "Template"
+msgstr "Sablon"
+
+msgid "No templates"
+msgstr "Nincsenek sablonok"
+
+msgid "Done"
+msgstr "Kész"
+
+msgid "Select the members who needs to fill this form"
+msgstr ""
+"Válassza ki azokat a tagokat, akiknek ki kell tölteniük ezt az űrlapot"
+
+msgid "Update Form"
+msgstr "Űrlap frissítése"
+
+msgid "Due Date"
+msgstr "Esedékesség"
+
+msgid "Due Time"
+msgstr "Kellő időben"
+
+msgid "Loading..."
+msgstr "Betöltés..."
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Save & Close"
+msgstr "Mentés és bezárás"
+
+msgid "Add an element"
+msgstr "Adjon hozzá egy elemet"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "A média konvertálódik. Értesítjük, ha elkészül"
+
+msgid "Add "
+msgstr "Hozzáadás"
+
+msgid "Field"
+msgstr "Terület"
+
+msgid "Edit "
+msgstr "Szerkesztés"
+
+msgid "Text"
+msgstr "Szöveg"
+
+msgid "Sub Text"
+msgstr "Alszöveg"
+
+msgid "Format"
+msgstr "Formátum"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"A média átalakítása nem sikerült. Kérjük, törölje, és próbálja újra vagy "
+"másikkal."
+
+msgid "Pages"
+msgstr "Oldalak"
+
+msgid "Saved"
+msgstr "Mentett"
+
+msgid "Insert"
+msgstr "Helyezze be"
+
+msgid "Elements"
+msgstr "Elemek"
+
+msgid "Action Required"
+msgstr "Cselekvést kíván"
+
+msgid "Add a new page"
+msgstr "Új oldal hozzáadása"
+
+msgid "Blank page"
+msgstr "Üres lap"
+
+msgid "From PDF"
+msgstr "PDF-ből"
+
+msgid "From image"
+msgstr "Képből"
+
+msgid "Add PDF"
+msgstr "PDF hozzáadása"
+
+msgid "Add Image"
+msgstr "Kép hozzáadása"
+
+msgid "Options"
+msgstr "Lehetőségek"
+
+msgid "Column Names"
+msgstr "Oszlopok nevei"
+
+msgid "Option already exists."
+msgstr "Az opció már létezik."
+
+msgid "options list is empty"
+msgstr "az opciók listája üres"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"A jelölőnégyzetek mező csak 5 lehetőséget támogat. További lehetőségek "
+"hozzáadásához módosíthatja a mezőt legördülő menüre"
+
+msgid "columns list is empty"
+msgstr "az oszlopok listája üres"
+
+msgid "Default Value"
+msgstr "Alapértelmezett érték"
+
+msgid "Delete row"
+msgstr "Sor törlése"
+
+msgid "Add a new row"
+msgstr "Új sor hozzáadása"
+
+msgid "Download"
+msgstr "Letöltés"
+
+msgid "Label"
+msgstr "Címke"
+
+msgid "Question"
+msgstr "Kérdés"
+
+msgid "Default answer"
+msgstr "Alapértelmezett válasz"
+
+msgid "Media is converting"
+msgstr "A média konvertálódik"
+
+msgid "Send Form"
+msgstr "Küldés űrlapot"
+
+msgid "Form Submited."
+msgstr "Form Submited."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Nincs engedélyezési űrlapja."
+
+msgid "You currently have no forms of your own"
+msgstr "Jelenleg nincs saját formája"
+
+msgid "Your Uncompleted Forms"
+msgstr "Kitöltetlen űrlapjai"
+
+msgid "Uncompleted"
+msgstr "Befejezetlen"
+
+msgid "Your Completed Forms"
+msgstr "A kitöltött űrlapok"
+
+msgid "Completed"
+msgstr "Befejezve"
+
+msgid "Your Forms"
+msgstr "Az Ön űrlapjai"
+
+msgid "All Forms"
+msgstr "Minden űrlap"
+
+msgid "Form Title"
+msgstr "Űrlap címe"
+
+msgid "Author"
+msgstr "Szerző"
+
+msgid "Published"
+msgstr "Közzétett"
+
+msgid "Submissions"
+msgstr "Beadványok"
+
+msgid "No Forms"
+msgstr "Nincsenek formák"
+
+msgid "Upload Form Document"
+msgstr "Űrlap dokumentum feltöltése"
+
+msgid "Forms Library"
+msgstr "Forms Library"
+
+msgid "No Forms In Library"
+msgstr "Nincs formában a könyvtárban"
+
+msgid "Answers"
+msgstr "Válaszok"
+
+msgid "Close - Status changed"
+msgstr "Bezárás - az állapot megváltozott"
+
+msgid "Change Status"
+msgstr "Állapotváltozás"
+
+msgid "Case Number"
+msgstr "Ügyszám"
+
+msgid "Tag Id"
+msgstr "Címkeazonosító"
+
+msgid "Date Opened"
+msgstr "Megnyitott dátum"
+
+msgid "Host Id"
+msgstr "Gazdaazonosító"
+
+msgid "User Id"
+msgstr "Felhasználói azonosító"
+
+msgid "Case Id"
+msgstr "Case Id"
+
+msgid "Confirm your details"
+msgstr "Erősítse meg adatait"
+
+msgid "Form Submitted."
+msgstr "Űrlap elküldve."
+
+msgid "Invoice"
+msgstr "Számla"
+
+msgid "PO No:"
+msgstr "Megrendelési szám:"
+
+msgid "Reference ID:"
+msgstr "Hivatkozási azonosító:"
+
+msgid "Term:"
+msgstr "Term:"
+
+msgid "Note:"
+msgstr "Jegyzet:"
+
+msgid "QTY"
+msgstr "MENNYISÉG"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Add more"
+msgstr "Adj hozzá többet"
+
+msgid "Subtotal($)"
+msgstr "Részösszeg ($)"
+
+msgid "Discount(%)"
+msgstr "Kedvezmény(%)"
+
+msgid "TAX(%)"
+msgstr "ADÓ(%)"
+
+msgid "Total($)"
+msgstr "Összesen ($)"
+
+msgid "Invoice No"
+msgstr "Nincs számla"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr ""
+"Válassza ki azokat a tagokat, akiknek meg kell tekinteniük vagy ki kell "
+"fizetniük ezt a számlát"
+
+msgid "Update Invoice"
+msgstr "Számla frissítése"
+
+msgid "Create Invoice"
+msgstr "Számla létrehozása"
+
+msgid "PO No."
+msgstr "PO sz."
+
+msgid "Reference ID"
+msgstr "Hivatkozási azonosító"
+
+msgid "Term"
+msgstr "Term"
+
+msgid "Note"
+msgstr "jegyzet"
+
+msgid "Quantity"
+msgstr "Mennyiség"
+
+msgid "Price ($)"
+msgstr "Ár ($)"
+
+msgid "Subtotal ($)"
+msgstr "Részösszeg ($)"
+
+msgid "Discount (%)"
+msgstr "Kedvezmény (%)"
+
+msgid "Tax (%)"
+msgstr "adó (%)"
+
+msgid "Total ($)"
+msgstr "Összesen ($)"
+
+msgid "Pay Invoice"
+msgstr "Számla befizetése"
+
+msgid "Payment method"
+msgstr "Fizetési mód"
+
+msgid "Add a new payment method"
+msgstr "Új fizetési mód hozzáadása"
+
+msgid "Summary"
+msgstr "Összegzés"
+
+msgid "Payment:"
+msgstr "Fizetés:"
+
+msgid "Total charge:"
+msgstr "Teljes díj:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Kifizetetlen számlái"
+
+msgid "Unpaid"
+msgstr "Kifizetetlen"
+
+msgid "Your Paid Invoices"
+msgstr "Kifizetett számlái"
+
+msgid "Paid"
+msgstr "Fizetett"
+
+msgid "Your Invoices"
+msgstr "Az Ön számlái"
+
+msgid "All Invoices"
+msgstr "Minden számla"
+
+msgid "Invoice Title"
+msgstr "Számla címe"
+
+msgid "No Invoices"
+msgstr "Nincsenek számlák"
+
+msgid "No Audios yet."
+msgstr "Még nincs hanganyag."
+
+msgid "Loading failed."
+msgstr "A betöltése sikertelen."
+
+msgid "retry"
+msgstr "próbálja újra"
+
+msgid "No documents yet."
+msgstr "Még nincsenek dokumentumok."
+
+msgid "No Files yet."
+msgstr "Még nincsenek fájlok."
+
+msgid "No Images yet."
+msgstr "Még nincsenek képek."
+
+msgid "No Videos yet."
+msgstr "Még nincsenek videók."
+
+msgid "Page Not Found"
+msgstr "Az oldal nem található"
+
+msgid "Attachments"
+msgstr "Mellékletek"
+
+msgid "Note View"
+msgstr "Megjegyzés Nézet"
+
+msgid "No Notes"
+msgstr "Nincs jegyzet"
+
+msgid "Select the person to answer this field"
+msgstr "Válassza ki azt a személyt, aki erre a mezőre válaszol"
+
+msgid "Create E-sign"
+msgstr "E-jel létrehozása"
+
+msgid "Update E-signs"
+msgstr "Frissítse az E-jeleket"
+
+msgid "Signs"
+msgstr "Jelek"
+
+msgid "Add Field"
+msgstr "Mező hozzáadása"
+
+msgid "Edit Field"
+msgstr "Mező szerkesztése"
+
+msgid "Send E-sign"
+msgstr "E-jel küldése"
+
+msgid "E-sign Submitted."
+msgstr "E-jel beküldve."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Nincs jogosultsága e-jelzések benyújtására."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Jelenleg nincs saját E-jelzése"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Befejezetlen E-jelei"
+
+msgid "Your Completed E-signs"
+msgstr "Az Ön kitöltött E-jelei"
+
+msgid "Your Signs"
+msgstr "A jelek"
+
+msgid "All E-signs"
+msgstr "Minden E-jel"
+
+msgid "E-sign Title"
+msgstr "E-jel Cím"
+
+msgid "No E-signs"
+msgstr "Nincsenek E-táblák"
+
+msgid "E-Signs Library"
+msgstr "E-Signs Library"
+
+msgid "No E-signs In Library"
+msgstr "Nincs e-jelzés a könyvtárban"
+
+msgid "Upload E-sign Document"
+msgstr "E-aláírási dokumentum feltöltése"
+
+msgid "Update Task"
+msgstr "Feladat frissítése"
+
+msgid "Create Task"
+msgstr "Feladat létrehozása"
+
+msgid "You currently have no tasks of your own"
+msgstr "Jelenleg nincs saját feladata"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Az Ön befejezetlen feladatai"
+
+msgid "Your Completed Tasks"
+msgstr "Az Ön elvégzett feladatai"
+
+msgid "Your Tasks"
+msgstr "Az Ön feladatai"
+
+msgid "All Tasks"
+msgstr "Minden feladat"
+
+msgid "Task"
+msgstr "Feladat"
+
+msgid "Deadline"
+msgstr "Határidő"
+
+msgid "Assignees"
+msgstr "Megbízottak"
+
+msgid "In Progress"
+msgstr "Folyamatban"
+
+msgid "Delete task"
+msgstr "Feladat törlése"
+
+msgid "No Tasks"
+msgstr "Nincsenek feladatok"
+
+msgid "wants access"
+msgstr "hozzáférést akar"
+
+msgid "No Answers"
+msgstr "Nincs válasz"
+
+msgid "Select Field Type"
+msgstr "Válassza ki a mező típusát"
+
+msgid "Text Only"
+msgstr "Csak szöveg"
+
+msgid "Multiple Line Text"
+msgstr "Többsoros szöveg"
+
+msgid "Dropdown"
+msgstr "Ledob"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "négyzeteket"
+
+msgid "Radio"
+msgstr "Rádió"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "Yes/No"
+msgstr "Igen nem"
+
+msgid "Number"
+msgstr "Szám"
+
+msgid "Access Denied"
+msgstr "Hozzáférés megtagadva"
+
+msgid "You don't have access to this case."
+msgstr "Nincs hozzáférése ehhez az esethez."
+
+msgid "Imports"
+msgstr "Behozatal"
+
+msgid "View import"
+msgstr "Importálás megtekintése"
+
+msgid "Sessions"
+msgstr "Munkamenetek"
+
+msgid "Home"
+msgstr "itthon"
+
+msgid "Users"
+msgstr "felhasználók"
+
+msgid "Library"
+msgstr "Könyvtár"
+
+msgid "Integration"
+msgstr "Integráció"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Webhooks"
+msgstr "Webhookok"
+
+msgid "Keys"
+msgstr "Kulcsok"
+
+msgid "Feed Templates"
+msgstr "Feed sablonok"
+
+msgid "Form Templates"
+msgstr "Űrlapsablonok"
+
+msgid "E-sign Templates"
+msgstr "E-sign sablonok"
+
+msgid "Task Templates"
+msgstr "Feladatsablonok"
+
+msgid "Dashboard"
+msgstr "Irányítópult"
+
+msgid "Payments"
+msgstr "Kifizetések"
+
+msgid "From"
+msgstr "Tól től"
+
+msgid "To"
+msgstr "Nak nek"
+
+msgid "System"
+msgstr "Rendszer"
+
+msgid "User Intake"
+msgstr "Felhasználó felvétele"
+
+msgid "Custom Fields"
+msgstr "Egyéni mezők"
+
+msgid "After Actions"
+msgstr "Akciók után"
+
+msgid "Advance Settings"
+msgstr "Speciális beállítások"
+
+msgid "Label Name"
+msgstr "Címke neve"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Tag ID"
+msgstr "Címkeazonosító"
+
+msgid "Have many users?"
+msgstr "Sok felhasználója van?"
+
+msgid "Import users"
+msgstr "Felhasználók importálása"
+
+msgid "or"
+msgstr "vagy"
+
+msgid "Send them a signup link."
+msgstr "Küldj nekik egy regisztrációs linket."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Kezdjük az e-mail vagy telefonszám megadásával"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Invalid phone number entered"
+msgstr "Érvénytelen telefonszámot adott meg"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Címke az ügy könnyű megtalálásához. később nem változtatható meg"
+
+msgid "Visibility:"
+msgstr "Láthatóság:"
+
+msgid "Who can use this template"
+msgstr "Ki használhatja ezt a sablont"
+
+msgid "One time"
+msgstr "Egyszer"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Kérjük, a folytatás előtt adjon meg érvényes fizetési adatokat"
+
+msgid "Add Payment"
+msgstr "Fizetés hozzáadása"
+
+msgid "Repeat every:"
+msgstr "Minden ismételje meg:"
+
+msgid "Let's get started"
+msgstr "Kezdjük el"
+
+msgid "Take me there"
+msgstr "Vigyél el oda"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Onboarding"
+msgstr "Beszállás"
+
+msgid "Created on"
+msgstr "Készült ekkor"
+
+msgid "Expires on"
+msgstr "Lejárat dátuma"
+
+msgid "No announcements yet."
+msgstr "Még nincsenek bejelentések."
+
+msgid "Add Announcement"
+msgstr "Közlemény hozzáadása"
+
+msgid "Edit Announcement"
+msgstr "Közlemény szerkesztése"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "A dátumnak és az időpontnak legalább egy órával előbbre kell lennie"
+
+msgid "Delete Date"
+msgstr "Dátum törlése"
+
+msgid "Delete Time"
+msgstr "Idő törlése"
+
+msgid "Back"
+msgstr "Hát"
+
+msgid "No Users Found"
+msgstr "Nem található felhasználó"
+
+msgid "No role selected"
+msgstr "Nincs kiválasztva szerep"
+
+msgid "No permissions added!"
+msgstr "Nincs engedélye hozzáadva!"
+
+msgid "ASSIGNED USERS"
+msgstr "FELHASZNÁLT FELHASZNÁLÓK"
+
+msgid "CASE PERMISSIONS"
+msgstr "ESETES MEGENGEDÉSEK"
+
+msgid "User ID"
+msgstr "Felhasználói azonosító"
+
+msgid "Role"
+msgstr "Szerep"
+
+msgid "remove"
+msgstr "eltávolítás"
+
+msgid "Assign User"
+msgstr "Felhasználó hozzárendelése"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "ADD USER"
+msgstr "FELHASZNÁLÓ HOZZÁADÁSA"
+
+msgid "Email user about case assignment"
+msgstr "E-mail felhasználó az eset hozzárendeléséről"
+
+msgid "Keyword"
+msgstr "Kulcsszó"
+
+msgid "No cases found."
+msgstr "Nem találtak eseteket."
+
+msgid "Create a case for a business"
+msgstr "Hozzon létre egy ügyet egy vállalkozás számára"
+
+msgid "Case ID"
+msgstr "Eset azonosítója"
+
+msgid "Created On"
+msgstr "Készült ekkor"
+
+msgid "Case Status"
+msgstr "Esetállapot"
+
+msgid "Case Type"
+msgstr "Ügytípus"
+
+msgid "Assign Users"
+msgstr "Felhasználók hozzárendelése"
+
+msgid "No cases found"
+msgstr "Nem találtak eseteket"
+
+msgid "Have many cases?"
+msgstr "Sok esete van?"
+
+msgid "Click here to import cases."
+msgstr "Kattintson ide az esetek importálásához."
+
+msgid "No status selected"
+msgstr "Nincs kiválasztva állapot"
+
+msgid "No type selected"
+msgstr "Nincs kiválasztva típus"
+
+msgid "Case Info"
+msgstr "Case Info"
+
+msgid "About"
+msgstr "Ról ről"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Állandó címke a tok könnyű megtalálásához. (a-z, 0-9, -, /) megengedett"
+
+msgid "Case Types"
+msgstr "Ügytípusok"
+
+msgid "Click"
+msgstr "Kattintson"
+
+msgid "to edit case types"
+msgstr "esettípusok szerkesztéséhez"
+
+msgid "No Type selected"
+msgstr "Nincs kiválasztva típus"
+
+msgid "Case not found!"
+msgstr "Az ügy nem található!"
+
+msgid "Media Size"
+msgstr "Médiaméret"
+
+msgid "All statistics"
+msgstr "Minden statisztika"
+
+msgid "Import not found."
+msgstr "Az importálás nem található."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"A fájl feldolgozása sikertelen. Győződjön meg arról, hogy CSV-fájltípusról "
+"van szó, és tartalmazza a megfelelő fejléceket"
+
+msgid "Data"
+msgstr "Adat"
+
+msgid "No Imports yet."
+msgstr "Még nincs import."
+
+msgid "Source"
+msgstr "Forrás"
+
+msgid "Stats"
+msgstr "Statisztika"
+
+msgid "Passed:"
+msgstr "Sikeres:"
+
+msgid "Failed:"
+msgstr "Nem sikerült:"
+
+msgid "Total:"
+msgstr "Teljes:"
+
+msgid "Add Imports"
+msgstr "Import hozzáadása"
+
+msgid "Download Sample"
+msgstr "Töltse le a mintát"
+
+msgid "Choose a file"
+msgstr "Válasszon egy fájlt"
+
+msgid "Edit Key"
+msgstr "Szerkesztés kulcs"
+
+msgid "Add Key"
+msgstr "Kulcs hozzáadása"
+
+msgid "No Keys yet."
+msgstr "Még nincsenek kulcsok."
+
+msgid "Source CIDR"
+msgstr "Forrás CIDR"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "is invalid."
+msgstr "érvénytelen."
+
+msgid "Secret Key"
+msgstr "Titkos kulcs"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Győződjön meg róla, hogy most másolja az új titkos kulcsot. Nem láthatja "
+"újra!"
+
+msgid "Edit Webhook"
+msgstr "Webhook szerkesztése"
+
+msgid "Add Webhook"
+msgstr "Webhook hozzáadása"
+
+msgid "No event selected"
+msgstr "Nincs kiválasztva esemény"
+
+msgid "No Webhooks yet."
+msgstr "Még nincsenek webhookok."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Titkos Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Győződjön meg róla, hogy most másolja az új titkos webhorgot. Nem láthatja "
+"újra!"
+
+msgid "Sign In"
+msgstr "Bejelentkezés"
+
+msgid "Login in account page."
+msgstr "Jelentkezzen be a fiókoldalon."
+
+msgid "Edit form builder"
+msgstr "Űrlapkészítő szerkesztése"
+
+msgid "Delete form"
+msgstr "Űrlap törlése"
+
+msgid "No forms yet."
+msgstr "Még nincsenek formák."
+
+msgid "Intake Forms"
+msgstr "Bevételi formák"
+
+msgid "Upload Intake Form Document"
+msgstr "Töltsd fel a felvételi űrlap dokumentumát"
+
+msgid "Add Intake Form"
+msgstr "Adja hozzá a beviteli űrlapot"
+
+msgid "Edit Intake Form"
+msgstr "Szerkessze a felvételi űrlapot"
+
+msgid "Show Media"
+msgstr "Média megjelenítése"
+
+msgid "Add Post"
+msgstr "Új hozzászólás"
+
+msgid "Edit Post"
+msgstr "Bejegyzés szerkesztése"
+
+msgid "Files Amount"
+msgstr "Fájlok összege"
+
+msgid "No Feed Templates yet."
+msgstr "Még nincs takarmánysablon."
+
+msgid "Post Name"
+msgstr "A bejegyzés neve"
+
+msgid "Post Message"
+msgstr "Üzenet írása"
+
+msgid "Processing media ..."
+msgstr "Adathordozó feldolgozása ..."
+
+msgid "Download original file"
+msgstr "Töltse le az eredeti fájlt"
+
+msgid "Could not display media"
+msgstr "Nem sikerült megjeleníteni a médiát"
+
+msgid "No locations found."
+msgstr "Nincs találat."
+
+msgid "Main Office"
+msgstr "Központi iroda"
+
+msgid "Location Name"
+msgstr "A helyszín neve"
+
+msgid "Delete e-sign"
+msgstr "E-jel törlése"
+
+msgid "No e-signs yet."
+msgstr "Még nincsenek e-táblák."
+
+msgid "Subtasks Count"
+msgstr "Részfeladatok Szám"
+
+msgid "No tasks yet."
+msgstr "Még nincsenek feladatok."
+
+msgid "Invoice ID"
+msgstr "Számlaazonosító"
+
+msgid "Total"
+msgstr "Teljes"
+
+msgid "Refund"
+msgstr "Visszatérítés"
+
+msgid "No invoices yet."
+msgstr "Még nincs számla."
+
+msgid "Refund Reason"
+msgstr "Visszatérítés oka"
+
+msgid "Duplicate charge"
+msgstr "Ismétlődő terhelés"
+
+msgid "Fraudulent charge"
+msgstr "Hamis vád"
+
+msgid "Requested by customer"
+msgstr "Az ügyfél kérésére"
+
+msgid "On Board"
+msgstr "A fedélzeten"
+
+msgid "Stripe"
+msgstr "Csík"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Szerepinformáció"
+
+msgid "It cannot be changed later"
+msgstr "Később nem lehet megváltoztatni"
+
+msgid "Role Permissions"
+msgstr "Szerep engedélyei"
+
+msgid "e-signs"
+msgstr "e-jelek"
+
+msgid "on"
+msgstr "tovább"
+
+msgid "Allowed File Sizes"
+msgstr "Engedélyezett fájlméretek"
+
+msgid "Create"
+msgstr "Teremt"
+
+msgid "Creating..."
+msgstr "Létrehozása ..."
+
+msgid "Modules"
+msgstr "modulok"
+
+msgid "Roles"
+msgstr "szerepek"
+
+msgid "Profile information"
+msgstr "Profil információ"
+
+msgid "No role found."
+msgstr "Nem található szerep."
+
+msgid "When a case is created, auto assign these users"
+msgstr ""
+"Az eset létrehozásakor automatikusan hozzárendeli ezeket a felhasználókat"
+
+msgid "Remove All"
+msgstr "Összes eltávolítása"
+
+msgid "User Name"
+msgstr "Felhasználónév"
+
+msgid "Notify"
+msgstr "Értesítés"
+
+msgid "Host User"
+msgstr "Gazdafelhasználó"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Amikor egy felhasználó hozzá van rendelve egy esethez, automatikusan ad "
+"hozzá sablonokat"
+
+msgid "No post selected"
+msgstr "Nincs kiválasztva bejegyzés"
+
+msgid "No form selected"
+msgstr "Nincs kiválasztva űrlap"
+
+msgid "No e-sign selected"
+msgstr "Nincs e-jel kiválasztva"
+
+msgid "Templates"
+msgstr "Sablonok"
+
+msgid "Add Templates"
+msgstr "Sablonok hozzáadása"
+
+msgid "Idle Cases"
+msgstr "Üresjárati esetek"
+
+msgid "When a case is idle, post this message"
+msgstr "Ha egy ügy tétlen, küldje el ezt az üzenetet"
+
+msgid "No case type selected"
+msgstr "Nincs kiválasztva ügytípus"
+
+msgid "Idle Days"
+msgstr "Tétlen Napok"
+
+msgid "Post Id"
+msgstr "Hozzászólás azonosítója"
+
+msgid "Set Idle Message"
+msgstr "Készenléti üzenet beállítása"
+
+msgid "No task selected"
+msgstr "Nincs kiválasztva feladat"
+
+msgid "No operation order selected"
+msgstr "Nincs kiválasztva műveleti sorrend"
+
+msgid "Operation Order"
+msgstr "Hadműveleti parancs"
+
+msgid "Add Templates to Assign Users"
+msgstr "Sablonok hozzáadása a felhasználók hozzárendeléséhez"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Case Form"
+
+msgid "User Form"
+msgstr "Felhasználói űrlap"
+
+msgid "Notes Form"
+msgstr "Megjegyzések űrlap"
+
+msgid "Defaults"
+msgstr "Alapértékek"
+
+msgid "Required"
+msgstr "Kívánt"
+
+msgid "Public User Signup link:"
+msgstr "Nyilvános felhasználói regisztrációs link:"
+
+msgid "Design Settings"
+msgstr "Tervezési beállítások"
+
+msgid "Favicon:"
+msgstr "favicon:"
+
+msgid "Change file"
+msgstr "Fájl módosítása"
+
+msgid "Delete Favicon"
+msgstr "Törölje a Favicont"
+
+msgid "Logo:"
+msgstr "logo:"
+
+msgid "Delete Logo"
+msgstr "Logó törlése"
+
+msgid "Text Color"
+msgstr "Szöveg szín"
+
+msgid "Recommended Colors:"
+msgstr "Ajánlott színek:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "Visszaállítás"
+
+msgid "Background Color"
+msgstr "Háttérszín"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Cégadatok"
+
+msgid "Website"
+msgstr "Weboldal"
+
+msgid "Terms of Use URL"
+msgstr "Felhasználási feltételek URL"
+
+msgid "User Signup"
+msgstr "Felhasználó regisztráció"
+
+msgid "Allow Signup"
+msgstr "Regisztráció engedélyezése"
+
+msgid "Auto Create Case"
+msgstr "Tok automatikus létrehozása"
+
+msgid "Case User Role"
+msgstr "Felhasználói szerepkör"
+
+msgid "Google Analytics"
+msgstr "A Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Analytics kulcs"
+
+msgid "delete"
+msgstr "töröl"
+
+msgid "Crop Image"
+msgstr "Kép vágása"
+
+msgid "No Filter"
+msgstr "Nincs szűrő"
+
+msgid "No logs requested."
+msgstr "Nincs szükség naplóra."
+
+msgid "Logs list is empty."
+msgstr "A naplók listája üres."
+
+msgid "Download CSV"
+msgstr "CSV letöltése"
+
+msgid "Request Logs"
+msgstr "Kérésnaplók"
+
+msgid "Log Type"
+msgstr "Napló típusa"
+
+msgid "Filter"
+msgstr "Szűrő"
+
+msgid "Select a case"
+msgstr "Válasszon egy esetet"
+
+msgid "Enter the email address"
+msgstr "Adja meg az e-mail címet"
+
+msgid "Module"
+msgstr "modul"
+
+msgid "Header (3 max)"
+msgstr "Fejléc (max. 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Amikor egy felhasználó csatlakozik az alkalmazáshoz, kérje meg a "
+"felhasználót, hogy ossza meg a következőket"
+
+msgid "No user intake found."
+msgstr "Nem található felhasználói bejegyzés."
+
+msgid "User Type"
+msgstr "Felhasználói típus"
+
+msgid "Intake Form"
+msgstr "Bevételi forma"
+
+msgid "Complete After"
+msgstr "Teljes után"
+
+msgid "No user type selected"
+msgstr "Nincs kiválasztva felhasználói típus"
+
+msgid "No intake form selected"
+msgstr "Nincs kiválasztva beviteli forma"
+
+msgid "Complete After Date"
+msgstr "Teljes dátum után"
+
+msgid "Complete After Time"
+msgstr "Befejezés idő után"
+
+msgid "Date and time should be less or equal to now"
+msgstr ""
+"A dátumnak és az időnek kisebbnek vagy egyenlőnek kell lennie a mostanival"
+
+msgid "Comment ct"
+msgstr "Megjegyzés ct"
+
+msgid "View Ticket"
+msgstr "Jegy megtekintése"
+
+msgid "Ticket"
+msgstr "Jegy"
+
+msgid "No tickets yet."
+msgstr "Még nincs jegy."
+
+msgid "User not found."
+msgstr "Felhasználó nem található."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"A felhasználó szerkesztheti fiókadatait, kivéve a gazdagép felhasználói "
+"attribútumait."
+
+msgid "Contact"
+msgstr "Kapcsolatba lépni"
+
+msgid "Phone number"
+msgstr "Telefonszám"
+
+msgid "Zip Postal Code"
+msgstr "Irányítószám"
+
+msgid "Host User Attributes"
+msgstr "Gazdafelhasználói attribútumok"
+
+msgid "User Status"
+msgstr "Felhasználói állapot"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Állandó címke a felhasználó könnyű megtalálásához. (a-z, 0-9, -, /) "
+"megengedett"
+
+msgid "App only User Intake Fields"
+msgstr "Csak alkalmazás felhasználói beviteli mezők"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP CSAK VÉGREHAJTÁSOK"
+
+msgid "s found."
+msgstr "s találtak."
+
+msgid "Created Date"
+msgstr "Létrehozás dátuma"
+
+msgid "View Cases"
+msgstr "Ügyek megtekintése"
+
+msgid "VIEW CASES"
+msgstr "ESETEK MEGTEKINTÉSE"
+
+msgid "Get Started"
+msgstr "Fogj neki"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Email is not valid."
+msgstr "Az e-mail nem érvényes."
+
+msgid "CaseActive lets you and your client"
+msgstr "A CaseActive lehetővé teszi az Ön és az ügyfelek számára"
+
+msgid "work together"
+msgstr "együtt dolgozni"
+
+msgid "at any time, in any place."
+msgstr "bármikor, bármely helyen."
+
+msgid "Explore"
+msgstr "Fedezd fel"
+
+msgid "Pricing"
+msgstr "Árazás"
+
+msgid "Support & Docs"
+msgstr "Támogatás és dokumentumok"
+
+msgid "FAQ"
+msgstr "GYIK"
+
+msgid "Failed to validate if you are human"
+msgstr "Nem sikerült érvényesíteni, ha ember vagy"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "MEGJEGYZÉS, HOGY KÉSZÜLT!"
+
+msgid "Thank You!"
+msgstr "Köszönöm!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Értesítjük, ha az alkalmazás kész"
+
+msgid "Most popular"
+msgstr "Legnepszerubb"
+
+msgid "All languages"
+msgstr "Összes nyelv"
+
+msgid "Oops, Something went wrong."
+msgstr "Hoppá! Valami rosszul sült el."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Hoppá! Valami rosszul sült el. Csapatunk értesítést kapott. Kérlek, próbáld "
+"újra később."
+
+msgid "Support Documentation"
+msgstr "Támogatási dokumentáció"
+
+msgid "All Categories"
+msgstr "Minden kategória"
+
+msgid "Contents"
+msgstr "Tartalom"
+
+msgid "Related Articles"
+msgstr "kapcsolódó cikkek"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Kezdje el: folyamatok, bevált módszerek, beállítási útmutatók és még sok "
+"más!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "A CaseActive-ban mindent megtalálhat, amire szüksége van a munkához."
+
+msgid "All case communication in one spot"
+msgstr "Minden eset kommunikáció egy helyen"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Beszélgessen, frissítéseket tegyen közzé, válaszoljon a kérdésekre, "
+"jegyzeteket készítsen, megjegyzéseket fűzzen, és minden beszélgetést valós "
+"idejű e-mail és SMS értesítésekkel címkézzen."
+
+msgid "Share with confidence"
+msgstr "Ossza meg bizalommal"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Ossza meg dokumentumait és fényképeit az ügyfelek és a csapat tagjai között "
+"bármilyen eszközön, így mindenki naprakész lehet."
+
+msgid "Take it on the go"
+msgstr "Vigye útközben"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Használjon olyan mobil eszközöket, mint a táblagépek és az okostelefonok, "
+"hogy együttműködjen a legfontosabb részletekben, megvitassa a fő kérdéseket,"
+" cserélje ki a dokumentumokat, és valós időben ábrázolja az esetek "
+"előrehaladását."
+
+msgid "Immediate records access"
+msgstr "Azonnali nyilvántartás-hozzáférés"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"A felhatalmazott felhasználók gyorsan hozzáférhetnek az ügyféladatokhoz és "
+"az ügyekkel kapcsolatos információkhoz (ideértve a jelenlegi, a múltbeli, a "
+"nyitott, a zárt és a folyamatban lévő ügyeket), egy portálon keresztül."
+
+msgid "Automatic timezone conversion"
+msgstr "Automatikus időzóna konverzió"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Akár utazik, akár egy másik helyen tartózkodik, szinkronban lesz a időzóna "
+"beszélgetéskezelő rendszerünkkel."
+
+msgid "Track Events"
+msgstr "Nyomon követheti az eseményeket"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Gyorsan ütemezheti az üléseket, figyelemmel kíséri a közelgő eseményeket, és"
+" meghívhatja az ügyfeleket és a csapattagokat résztvevőként."
+
+msgid "Video Conferencing"
+msgstr "Videókonferenciázás"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Csatlakozzon az ügyfelekhez és a csapattagokhoz egy élő videocsevegésen "
+"keresztül, hogy még több interaktivitást érjen el."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatizálja a feladatokat, amikor egy esetet létrehoznak, vagy egy "
+"felhasználót rendelnek hozzá."
+
+msgid "Automated Alerts"
+msgstr "Automatizált figyelmeztetések"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Szeretne boldog születésnapot kívánni ügyfeleinek? Állítson be automatikus "
+"üzenetet mind a korábbi, mind a jelenlegi ügyfelek számára a különleges "
+"napra!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Az Ügyfél adatai naprakészen tartása"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Az ügyfelek módosíthatják profiljukat a frissített adatokkal, fotókkal, "
+"jelszavakkal és fiókbeállításokkal."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Tegyen fel kérdéseket, kapjon válaszokat."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Készítsen egyedi űrlapokat, és küldje el az ügyfeleknek kitöltésre. Gyűjtsön"
+" össze alapvető információkat, nyújtson be kilépési felméréseket, és "
+"szerezze be az összes adatot, amely a munkájához jó."
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", A Cain &amp; Company értékesítési igazgatója"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Az ügyfelek számlázása a lehető legegyszerűbb online számlákkal és "
+"fizetésekkel."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Szeretjük az ügyszámlázást, mert lehetővé teszi az ügyfelek számára, hogy "
+"pontosan mit tudnak fizetni."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", A Sky Digital alelnöke"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Élvezze az e-aláírás egyszerűségét"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Az DocSign segítségével elektronikusan írja le az összes dokumentumot a "
+"feltöltött dokumentumok és a digitális kliens aláírási kérelmek, valamint a "
+"megerősítés felhasználásával."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Töltsön fel egy dokumentumot, jelölje meg aláírásra, majd a kliens "
+"bejelentkezik és e-aláírja. Minden megtörténik anélkül, hogy az ügyfélnek be"
+" kellene jönnie az épületünkbe. Ez olyan ügyfelek számára hasznos, akik "
+"nincsenek közel egy irodához, vagy akik külföldön élnek."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Tőkebiztosítási igazgató"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "A rendszer javítása. Kevesebb munka, több eredmény."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Használja az Önkiszolgáló adminisztrációs funkciót"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr "Teljesen irányítsa a CaseActive menedzsment csomagját a platformról."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "A meglévő rendszert könnyedén összekapcsolja a CaseActive rendszerrel"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integrálja a védett API-t az esetek automatikus létrehozásához, a "
+"felhasználók hozzárendeléséhez és a rendszerbevitel alapján jelentések "
+"készítéséhez."
+
+msgid "Acting as a"
+msgstr "A"
+
+msgid "virtual administrative assistant"
+msgstr "virtuális adminisztratív asszisztens"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", A CaseActive felhatalmazza Önt az egyszerűsített dokumentum- és "
+"médiakezelésre, privát"
+
+msgid "client-to-customer communications"
+msgstr "ügyfél-ügyfél közötti kommunikáció"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "esemény-ütemezés, és lépésenkénti eseti feldolgozás."
+
+msgid "Self-Serve Administration"
+msgstr "Önkiszolgáló adminisztráció"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Virtuális adminisztrátori asszisztensként eljárva a CaseActive lehetővé "
+"teszi az egyszerűsített dokumentum- és médiakezelést, az ügyfelek közötti "
+"magán kommunikációt, az események ütemezését és az ügyek lépésről lépésre "
+"történő feldolgozását."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Kezelje a felhasználói bejelentkezéseket és az eset létrehozását"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Közvetlenül felügyelje a felhasználói fiókok létrehozását, miközben eseti "
+"alapon engedélyezi a hozzáférési engedélyeket. Kezelje az ügyek "
+"létrehozását, az előrehaladást és a lezárást, teljes jelentéssel, minden "
+"lépésnél."
+
+msgid "View Caseactive Analytics"
+msgstr "Tekintse meg a Caseactive Analytics szolgáltatást"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Pontosan megnézheti az ügy előrehaladását, az ügyek sikeres lezárását, és a "
+"CaseActive alapos elemző modulján keresztül megnézheti a válaszidőket. A "
+"tudás hatalom, és mindent megadtunk neked, amit tudni kell a saját "
+"projektjeiről."
+
+msgid "Monitor User Logs"
+msgstr "Monitor felhasználói naplók"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Figyelemmel kell kísérnie az ügyfél és a csapat tagjainak bejelentkezéseit "
+"és a platform tevékenységeit annak biztosítása érdekében, hogy minden "
+"cselekedetük az eset paraméterein belül engedélyezett legyen, és hogy minden"
+" tag elvégzi feladatait."
+
+msgid "Employ Advanced Searches"
+msgstr "Speciális keresések alkalmazása"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Pontosan megtalálja azt, amire szüksége van, amikor szüksége van rá. "
+"Keressen esetek felhasználói és ügyfélnevek, kulcsszavak, ütemtervek, "
+"feltöltött dokumentumok és még sok minden más alapján!"
+
+msgid "Create Custom Fields"
+msgstr "Egyéni mezők létrehozása"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Generáljon speciális esetmezőket az ügyfelek és a csapattagok beviteléhez, "
+"és gyűjtse össze a szükséges adatokat minden résztvevőtől. Tegye egyedivé az"
+" ügyfélfelületet vállalkozása és márkája számára!"
+
+msgid "Create Custom Templates"
+msgstr "Egyéni sablonok létrehozása"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Készítsen óriási választékot az egyedi űrlapokról és sablonokról a "
+"terjesztéshez és a kitöltéshez mind az eset alatt, mind annak után (például "
+"az ügyfelek kilépési felmérései). Bármilyen formát is igényel, létrehozhat!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Személyes számlázás"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Itt vagyunk, hogy segítsünk! Lépjen kapcsolatba, ha még kérdése van, és két "
+"munkanapon belül válaszolunk."
+
+msgid "* Email is not valid."
+msgstr "* Az e-mail nem érvényes."
+
+msgid "Low"
+msgstr "Alacsony"
+
+msgid "Medium"
+msgstr "Közepes"
+
+msgid "High"
+msgstr "Magas"
+
+msgid "Critical"
+msgstr "Kritikai"
+
+msgid "Choose Importance"
+msgstr "Válassza a fontosságot"
+
+msgid "Department"
+msgstr "Osztály"
+
+msgid "Sales"
+msgstr "Sales"
+
+msgid "Other"
+msgstr "Egyéb"
+
+msgid "Choose Department"
+msgstr "Válassza ki az Osztályt"
+
+msgid "Loading"
+msgstr "Betöltés"
+
+msgid "Importance"
+msgstr "fontosság"
+
+msgid "Send A New Message"
+msgstr "Új üzenet küldése"
+
+msgid "Send message"
+msgstr "Üzenet küldése"
+
+msgid "Answers to Questions"
+msgstr "Válaszok a kérdésekre"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Van kérdés? Olvassa el az ügyfelek lekérdezéseire adott válaszok további "
+"útmutatásait, és találja meg a saját válaszát."
+
+msgid "How secure is CaseActive?"
+msgstr "Mennyire biztonságos a CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"A CaseActive katonai és banki szintű 128 bites SSL titkosítást használ az "
+"adatátvitelhez és 256 bites AES titkosítást a nyugalmi adatokhoz. Minden "
+"CaseActive-példány egyedi kulcsot generál, amely további biztonsági réteget "
+"biztosít vállalkozása számára. Soha nem engedjük meg, hogy más cégek "
+"hozzáférjenek adatbázisához vagy tárolórendszeréhez."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Van egy meglévő rendszerem. Működhet a CaseActive a meglévő rendszeremmel?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Igen, integrálhatja saját fejlesztésű API-nkat vagy importálási modulunkat "
+"az esetek automatikus létrehozásához, a felhasználók hozzárendeléséhez és a "
+"jelentések készítéséhez a rendszerbemenetek alapján."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"A világ minden táján vannak ügyfeleink. Elérhető a CaseActive más nyelveken "
+"is?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Igen, a CaseActive alkalmazás és kommunikáció több mint 60 nyelvre "
+"lefordítható, köztük mandarin kínai, spanyol, hindi és orosz, valamint angol"
+" nyelvre."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Hozzáadhatok logót vagy bármilyen módon testreszabhatom a CaseActive-t?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Teljesen! A CaseActive az Ön számára készült. Az adminisztrációs panel "
+"beállítási oldalán feltöltheti saját személyes színét, és kiválaszthatja a "
+"cég színeit."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"A CaseActive kompatibilis bármilyen eszközzel (PC, Mac, táblagép és mobil)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"A CaseActive egy reszponzív webalkalmazás. Bármilyen webböngészőben fut, "
+"például Internet Explorer, Firefox, Safari vagy Chrome stb. Ez azt jelenti, "
+"hogy a használt eszköz típusa (PC, Mac, táblagép és mobil) nem számít. "
+"Egyszerűen nyissa meg a webböngészőt, jelentkezzen be CaseActive-fiókjába, "
+"és már kész is."
+
+msgid "How many clients can I have?"
+msgstr "Hány ügyfelem lehet?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Számlázunk havonta alkalmazotti helyenként. Korlátlan számú kliens "
+"felhasználója lehet."
+
+msgid "Enhance User Experience"
+msgstr "Növelje a felhasználói élményt"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Nincsenek minimális díjak és előzetes kötelezettségvállalások. Csak "
+"alkalmazotti helyenként, havonta fizet."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "havonta"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Minden, amire szüksége van az induláshoz. 3 ülés van benne."
+
+msgid "Business"
+msgstr "Üzleti"
+
+msgid "Popular"
+msgstr "Népszerű"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "A legnépszerűbb tervünk. 4 ülés van benne."
+
+msgid "Enterprise"
+msgstr "Vállalkozás"
+
+msgid "Contact sales for pricing"
+msgstr "Az árakért lépjen kapcsolatba az értékesítéssel"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr ""
+"Egyéni árképzés, speciális funkciók, egyszeri bejelentkezés, webhookok."
+
+msgid "Contact Sales"
+msgstr "Lépjen kapcsolatba az értékesítéssel"
+
+msgid "Overview"
+msgstr "Áttekintés"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Kommunikáljon és ossza meg dokumentumokat ügyfeleivel"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Ütemezze be az ismétlődő eseményeket és találkozókat"
+
+msgid "Fully customize your form to generate data"
+msgstr "Teljesen testreszabhatja űrlapját az adatok generálásához"
+
+msgid "Keep track of case progression"
+msgstr "Kövesse nyomon az ügy előrehaladását"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Kérjen megfelelő e-aláírást több felhasználótól"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Készítsen számlát ügyfele számára, amelyet megtekinthet vagy fizethet"
+
+msgid "ToDos"
+msgstr "Teendők"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Lehetővé teszi, hogy mindenki tudja, mi várható és mi várható"
+
+msgid "Auto notify the user when something is due"
+msgstr "Automatikusan értesíti a felhasználót, ha valami esedékes"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Adjon hozzá egyéni esetmezőket az összes esethez"
+
+msgid "Custom Branding"
+msgstr "Egyedi márkaépítés"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Tedd egyedivé alkalmazásodat logó- és színstílusokkal"
+
+msgid "Access to customer support"
+msgstr "Hozzáférés az ügyfélszolgálathoz"
+
+msgid "Storage"
+msgstr "Tárolás"
+
+msgid "Unlimited"
+msgstr "Korlátlan"
+
+msgid "Additional Users Seats"
+msgstr "További felhasználói ülések"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "83,34 dollár"
+
+msgid "Convo with recording"
+msgstr "Tárgyalás felvétellel"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video- vagy audiocsevegés a tokba mentett felvétellel"
+
+msgid "API Access"
+msgstr "API hozzáférés"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatizálja a feladatokat az API-hoz való hozzáféréssel"
+
+msgid "Module Templates"
+msgstr "Modul sablonok"
+
+msgid "Create a standard template and reuse it"
+msgstr "Hozzon létre egy szabványos sablont, és használja újra"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Művelet automatikus futtatása, amikor egy eset vagy hozzárendelt eset "
+"aktiválódik"
+
+msgid "Newsletter"
+msgstr "Hírlevél"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Általános, születésnapi vagy ünnepi üzenetek küldése az ügyfeleknek "
+"(hamarosan)"
+
+msgid "Encryption at rest"
+msgstr "Titkosítás nyugalmi állapotban"
+
+msgid "Protects your data from system compromise"
+msgstr "Megvédi adatait a rendszer kompromittálódásától"
+
+msgid "Encryption in transit"
+msgstr "Titkosítás átvitel közben"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Védi adatait, ha a kommunikációt lehallgatják"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML-alapú egyszeri bejelentkezés (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Valós idejű reagálás az eseményekre"
+
+msgid "Seamless Collaboration"
+msgstr "Zökkenőmentes együttműködés"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"A CaseActive leegyszerűsíti a digitális együttműködést cége és ügyfelei "
+"között – a konzultációtól a megoldásig, mindezt egyetlen platformon."
+
+msgid "Take a tour"
+msgstr "Nézz körbe"
+
+msgid "Stay Connected"
+msgstr "Maradj kapcsolatban"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Az ügyfelek és az ügyek kezelésének egyablakos ügyintézési pontjaként "
+"tartson fenn azonnali kapcsolatot a csapat tagjaival a CaseActive "
+"felhasználóbarát felületén keresztül."
+
+msgid "Connect"
+msgstr "Csatlakozás"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Az Case Feed naprakészen tartja az ügyfelekkel."
+
+msgid "Schedule"
+msgstr "Menetrend"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Rendezvények létrehozása, résztvevők meghívása és a naptár ellenőrzése."
+
+msgid "Call"
+msgstr "Hívás"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "Élő videokonferencia-hívások bármely időpontban, bárhol."
+
+msgid "Share"
+msgstr "Részvény"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr ""
+"Biztonságosan töltsön fel fájlokat, beszélje meg őket és ossza meg őket."
+
+msgid "Powerful Case Management"
+msgstr "Erős ügykezelés"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "A dobozon kívüli funkciók"
+
+msgid "Easily assign individuals"
+msgstr "Könnyen hozzárendelhet egyéni személyeket"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "vagy csapatok egy ügyben, és együttműködnek az ügyfelekkel."
+
+msgid "Manage user groups"
+msgstr "Felhasználói csoportok kezelése"
+
+msgid "and customize access permissions."
+msgstr "és testreszabja a hozzáférési engedélyeket."
+
+msgid "All data is automatically backed up"
+msgstr "Minden adat automatikusan mentésre kerül"
+
+msgid "in case a recovery is ever needed."
+msgstr "abban az esetben, ha szükség van helyreállásra."
+
+msgid "All information"
+msgstr "Minden információ"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr ""
+"biztonságosan titkosítva van, biztosítva ezzel az abszolút adatvédelmet."
+
+msgid "Customize"
+msgstr "Testreszab"
+
+msgid "with your own colors and logo."
+msgstr "saját színeivel és logójával."
+
+msgid "can be enabled/disabled at any time."
+msgstr "bármikor engedélyezhető / letiltható."
+
+msgid "Benefits of "
+msgstr "Előnyei"
+
+msgid "Reduction in time "
+msgstr "Időcsökkentés"
+
+msgid "to intake new clients"
+msgstr "új ügyfelek fogadására"
+
+msgid "Minimize "
+msgstr "Minimalizálja"
+
+msgid "the chance of "
+msgstr "az esélye"
+
+msgid "malpractice"
+msgstr "visszásság"
+
+msgid "Better experience "
+msgstr "Jobb tapasztalat"
+
+msgid "for your client"
+msgstr "ügyfele számára"
+
+msgid "Increase in caseload capacity "
+msgstr "A tokok terhelhetőségének növelése"
+
+msgid "per staff"
+msgstr "személyzetenként"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Kezdje el a beépített alkalmazásokat"
+
+msgid "All you need in one place."
+msgstr "Minden, amire szüksége van egy helyen."
+
+msgid "Case Feed"
+msgstr "Case Feed"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Könnyen hozzárendelhet ügyfelet, alkalmazottakat és munkatársait egy ügyhöz,"
+" és vehet részt egy biztonságos helyen, amely lehetővé teszi az ügy "
+"előrehaladásának közzétételét, valós idejű csevegést és "
+"videobeszélgetéseket, valamint események ütemezését, e-aláírást / "
+"dokumentumok feltöltését / letöltését és sokkal több."
+
+msgid "Case Invoices"
+msgstr "Ügy számlák"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Az aktuális számlázással az ügyfelek számlálása csak egy kattintásnyira van,"
+" és lehetővé teszi az automatikusan generált alapkérelmek küldését és a "
+"közvetlen kifizetések cseréjét."
+
+msgid "Case Events"
+msgstr "Események"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Az esettanulmányt mindig folyamatosan rendezheti, rendezheti az eseményeket,"
+" felhívhatja a résztvevőket, küldhet emlékeztetőket és gondoskodhat arról, "
+"hogy minden helyesen maradjon."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Találkozzon az ügyfelekkel és a csapat tagjaival gyakorlatilag „szemtől "
+"szemben” a beépített videokonferencia segítségével, így közvetlenül "
+"beszélgethet az összes érintett féllel."
+
+msgid "Case Forms & E-signs"
+msgstr "Ügynyomtatványok és E-jelek"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Az esettanulmányt teljesen testreszabhatja, hogy egyedi sablonokat hozzon "
+"létre, amelyek kiszolgálják az Ön egyedi igényeit. Ezeket a sablonokat "
+"ezután el lehet osztani az ügyfelek és a csapat tagjai számára, hogy "
+"kitöltsék és aláírják"
+
+msgid "Case notes"
+msgstr "Esetjegyzetek"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Készítsen feljegyzéseket egyéni mezőkkel és mellékletekkel az esetek "
+"előrehaladásáról a jelenlegi és jövőbeli csapattagok számára"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Töltse fel, ossza meg, kommentálja és töltse le az üggyel kapcsolatos "
+"fájlokat, hogy mindenki tájékozódjon az összes fontos részletről, "
+"személyekről és helyzetekről."
+
+msgid "About Case"
+msgstr "A Case-ről"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Hagyja, hogy az ügyfelek és a személyzet megtekintse azoknak az eseteknek az"
+" általános részleteit, amelyekben részt vesznek. Ezután az ügyet bezárhatja,"
+" ha minden megtörtént, vagy felhatalmazást adhat a csapat tagjának."
+
+msgid "Plus Many More Features"
+msgstr "Plusz még sok más szolgáltatás"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Használja az önkiszolgáló adminisztratív funkciót. Vegye át a CaseActive "
+"felügyeleti csomag teljes irányítását maga a platform."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"A meglévő rendszert könnyedén összekapcsolhatja a CaseActive-lal. Integrálja"
+" saját védett API-ját az esetek automatikus létrehozásához, a felhasználók "
+"hozzárendeléséhez és a rendszerbevitel alapján jelentések készítéséhez."
+
+msgid "Multi-Language Enabled:"
+msgstr "Többnyelvű engedélyezve:"
+
+msgid "Interact with clients in"
+msgstr "Interakció az ügyfelekkel"
+
+msgid "70+ languages"
+msgstr "70+ nyelv"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Akár helyben, akár világszerte dolgozik, lefordíthatja az ügyfél anyanyelvét"
+" a CaseActive-n keresztül"
+
+msgid "language management system"
+msgstr "nyelvi menedzsment rendszer"
+
+msgid "No more confusion or limits."
+msgstr "Nincs több zavar vagy korlátozás."
+
+msgid "Let's see what others are saying"
+msgstr "Lássuk, mit mondanak mások"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Fedezze fel, hogyan félelmetes ügyfeleink - a kisvállalkozásoktól a "
+"vállalati vállalkozásokig - növelték versenyképességüket azzal, hogy "
+"CaseActive harcosokká váltak."
+
+msgid "SUPPORT"
+msgstr "TÁMOGATÁS"
+
+msgid "Everything at Your Fingertips."
+msgstr "Minden a kezedben."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Kezdje el a CaseActive alkalmazást a videó útmutató segítségével, és "
+"testreszabhatja azt az Ön igényeinek megfelelően."
+
+msgid "What are you looking for..."
+msgstr "Mit keresel..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Utolsó frissítés: 2021. június 7"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"A CaseActive fenntartja a jogot, hogy bármikor, saját belátása szerint "
+"frissítse és módosítsa a Szolgáltatási feltételeket. Amikor a CaseActive "
+"megváltoztatja ezeket a Szolgáltatási feltételeket, a CaseActive módosítja a"
+" fenti „Legutóbbi frissítés” dátumot. Az Ön felelős a Szolgáltatás "
+"legfrissebb verziójának rendszeres felülvizsgálatáért. A Szolgáltatások "
+"további felhasználása az ilyen változtatások elvégzése után azt jelenti, "
+"hogy beleegyezik abba, hogy ilyen változtatásokra kötelezze magát. Ha "
+"ellenzi a jelen Szolgáltatási Feltételek bármilyen módosítását, akkor az "
+"egyetlen és kizárólagos jogorvoslata a Szolgáltatásoknak a jelen "
+"feltételekkel összhangban történő megszüntetése."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"A jelen Általános Szolgáltatási feltételek általában a Szolgáltatásokra "
+"vonatkoznak. Az egyes felajánlott Szolgáltatásokra vonatkozó kiegészítő "
+"feltételeket az alább található linkek tartalmazzák („További Szolgáltatási "
+"feltételek”)."
+
+msgid "1. Services:"
+msgstr "1. Szolgáltatások:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Saját szabadalmaztatott szoftverünk egy olyan szolgáltatási platform, "
+"amelyet az ügyfelek számára üzemeltetünk az alább részletezett "
+"szolgáltatások nyújtása érdekében. Szolgáltatás előfizetéséhez ki kell "
+"töltenie a Szolgáltatás Megrendelőlapját és / vagy teljesítenie kell a "
+"Szolgáltatás feliratkozási folyamatát. Csak akkor jogosult a Szolgáltatások "
+"igénybevételére, amelyekre Ön feliratkozott és fizetett, és a Szolgáltatások"
+" használatától függ, hogy Ön teljesíti-e a Szerződés összes feltételeit. Ön "
+"tudomásul veszi és elfogadja, hogy fenntartjuk a jogot a Szolgáltatások "
+"(vagy azok bármely részének) időről időre történő módosítására, és hogy nem "
+"vállalunk felelősséget Önnek vagy harmadik félnek a Szolgáltatások bármilyen"
+" módosításáért."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 A CaseActive szolgáltatás leírása: A CaseActive szolgáltatás a "
+"CaseActive LLC által kínált, online ügyfél-együttműködési menedzsmenthez "
+"üzemeltetett szoftverszolgáltatások. A feliratkozási folyamat, amelyet Ön "
+"elfogadott, vagy az Ön által végrehajtott Megrendelőlap, azonosítja az "
+"előfizetött CaseActive szolgáltatást, az előfizetési időt és az Ön által a "
+"CaseActive Szolgáltatásért fizetendő díjakat. A CaseActive szolgáltatás "
+"igénybevételére vonatkozó további feltételek a következő címen találhatók:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. A szolgáltatások bővítése:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Feliratkozhat bármilyen kiegészítő szolgáltatásra, beleértve az új "
+"szolgáltatásokat is, amelyeket a CaseActive időről időre rendelkezésre "
+"bocsáthat, vagy bővítheti meglévő szolgáltatásait egy kiegészítő "
+"megrendelőlap vagy regisztrációs folyamat végrehajtásával a Szolgáltatások "
+"részeként. Minden új feliratkozási folyamat vagy megrendelőlap tartalmazza "
+"az abban az időben hozzáadott Szolgáltatások árát és számlázási dátumát. "
+"Minden új Szolgáltatásra a jelen Általános Szolgáltatási Feltételek "
+"vonatkoznak, és minden olyan kiegészítő feltételre vonatkoznak, amelyek "
+"kifejezetten vonatkozhatnak az ilyen kiegészítő Szolgáltatásokra."
+
+msgid "3. Customer Support:"
+msgstr "3. Ügyfélszolgálat:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Feltéve, hogy megfizette az Ön által a Szolgáltatásokért fizetendő összes "
+"díjat, kereskedelmi szempontból ésszerű erőfeszítéseket fogunk tenni, hogy "
+"díjmentesen műszaki támogatási szolgáltatást nyújtsunk Önnek és a "
+"Szolgáltatásokra feliratkozott jogosult felhasználóinak. Az ügyekhez "
+"ügyfélszolgálati képviselőt rendelnek. Korlátlan esetet fogadnak el az "
+"engedélyezett felhasználók. Általános támogatása 24 órán keresztül elérhető,"
+" a főbb ünnepek kivételével, ideértve az emléknapot, a függetlenség napját, "
+"a munkás napját, a hálaadás napját, a karácsonyt és az újév napját. Az "
+"ügyfélszolgálattal kapcsolatba léphet a"
+
+msgid "Contact Form"
+msgstr "Kapcsolatfelvételi űrlap"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Válaszidőnk nem haladhatja meg a két munkanapot."
+
+msgid "4. Training:"
+msgstr "4. Képzés:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Feltéve, hogy megfizette az Ön által a Szolgáltatásokért fizetendő díjakat, "
+"távoli, élő vagy rögzített képzéseket biztosítunk a kijelölt, megnevezett és"
+" felhatalmazott felhasználók számára, valamint oktatóanyagokat biztosítunk, "
+"amelyek elérhetőek weboldalunkon a Súgó és képzés részben, a következő "
+"címen: nincs pótdíj. Egyes szolgáltatások esetében kérésre és felár "
+"ellenében biztosítunk helyszíni képzést. Kérjük, vegye fel velünk a "
+"kapcsolatot a"
+
+msgid "for more information about on-site training."
+msgstr "további információ a helyszíni képzésről."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Jogai és korlátozásai:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Engedély: A Szerződés feltételeire és a Megrendelőlapon vagy a "
+"regisztrációs folyamatban rögzített összes alkalmazandó díj időben történő "
+"megfizetésére figyelemmel, ezennel nem kizárólagos, nem átruházható, "
+"korlátozott jogot és licenc arra, hogy kizárólag belső üzleti céljaira "
+"felhasználhassa (és engedélyezi a felhatalmazott felhasználók számára) azon "
+"szolgáltatások igénybevételét, amelyekre Ön feliratkozott."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2. Engedélyezett felhasználók: Ön (i) felelős azért, hogy jogosult "
+"felhasználói betartják a megállapodást, és (ii) kereskedelmi szempontból "
+"ésszerű erőfeszítéseket tesz a Szolgáltatásokhoz való jogosulatlan "
+"hozzáférés megakadályozására, és haladéktalanul értesíti minket az ilyen "
+"jogosulatlan hozzáférésről vagy használat. Az Ön felelőssége, hogy "
+"megszüntesse a Szolgáltatásokhoz való hozzáférést, ha a felhasználó vagy a "
+"kijelölt alkalmazott meghatalmazott státusza megváltozik."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Az Ön felelõsségei és korlátozásai: Ön felelõs minden olyan "
+"tevékenységért, amely a felhasználói fiókok alatt vagy a felhatalmazott "
+"felhasználók által történik. Ön: (i) kizárólagos felelősséggel tartozik a "
+"Szolgáltatásokhoz benyújtott adatok pontosságáért, minőségéért, "
+"integritásáért, jogszerűségéért, megbízhatóságáért és megfelelőségéért; (ii)"
+" kereskedelmi szempontból ésszerű erőfeszítéseket tesz a Szolgáltatások "
+"jogosulatlan ellenőrzésének, meghamisításának vagy bármilyen más "
+"jogosulatlan hozzáférésének vagy a szolgáltatások használatának "
+"megakadályozására, és haladéktalanul értesíti bennünket minden illetéktelen "
+"felhasználásról vagy biztonsági megsértésről; (iii) a Szolgáltatások "
+"használata során betartja az összes alkalmazandó helyi, állami, szövetségi "
+"és külföldi törvényt (beleértve a magánéletre és a személyes vagy fogyasztói"
+" információk védelmére vonatkozó törvényeket); iv. az alkalmazandó mértékben"
+" betartja a hitelkártya-társulások minden alkalmazandó szabályát (ideértve "
+"az American Express-et, a MasterCard-ot és a Visa-t); és (v) megszerezi és "
+"karbantartja a Szolgáltatásokhoz való hozzáféréshez szükséges összes "
+"számítógépes hardvert, szoftvert és kommunikációs berendezést, és fizeti az "
+"összes hozzáférési díjat (pl. ISP-díjak), amelyek a Szolgáltatások "
+"használatával kapcsolatban merültek fel."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Nem teheti, és biztosítania kell, hogy az engedélyezett felhasználók ne (i) "
+"szétszereljék, megtervezzék, dekompilálják vagy más módon megpróbálják "
+"megfejteni a Szolgáltatásokkal kapcsolatos bármely kódot, vagy nem "
+"módosíthatják, adaptálhatják, nem hozhatnak létre származékos munkákat a "
+"szolgáltatások; (ii) licenc, allicenc, eladás, bérlés, átruházása, "
+"terjesztése, időben megosztott ingatlan átruházása, bérbeadása, "
+"kölcsönadása, haszonszerzés céljából viszonteladása, disztribúciója vagy "
+"egyéb módon kereskedelmi hasznosítása, jogok megadása vagy a Szolgáltatások "
+"harmadik fél számára történő hozzáférhetővé tétele; (iii) nem használja a "
+"Szolgáltatásokat, kivéve az alább kifejezetten engedélyezett módon, vagy az "
+"alkalmazandó törvényeket megsértve; (iv) bármilyen illegális vagy "
+"megtévesztő kereskedelmi gyakorlatot folytat a Szolgáltatásokkal "
+"kapcsolatban; (v) megkerüli vagy letiltja a Szolgáltatások vagy a Szoftver "
+"bármely más szempontjának biztonsági vagy egyéb műszaki jellemzőit vagy "
+"intézkedéseit, vagy bármilyen módon megkísérel megszerezni vagy elérni a "
+"Szolgáltatásokhoz vagy a kapcsolódó számítógépes rendszerekhez vagy "
+"hálózatokhoz való jogosulatlan hozzáférést; (vi) használja a "
+"Szolgáltatásokat jogsértő, rágalmazó, obszcén, fenyegető vagy egyéb módon "
+"jogellenes, nem biztonságos, rosszindulatú, visszaélésszerű vagy kínzó anyag"
+" továbbítására, vagy anyag tárolására vagy továbbítására, megsértve a "
+"harmadik felek adatvédelmi jogait; (vii) a Szolgáltatást vírusok, férgek, "
+"időbombák, trójai lovak és egyéb káros vagy rosszindulatú kódok, fájlok, "
+"szkriptek, ügynökök vagy programok tárolására vagy továbbítására, illetve "
+"spam, vagy másolatú vagy kéretlen üzenetek küldésére, az alkalmazandó "
+"törvények megsértésével küldi el. ; vagy (viii) megzavarhatja vagy "
+"megzavarhatja a Szolgáltatások integritását vagy teljesítését vagy azokban "
+"szereplő harmadik fél adatait."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Jog fenntartása: Semmilyen más jogot nem adnak ki, kivéve, ha azt a "
+"megállapodás kifejezetten rögzíti. A Megállapodás nem értékesítés, és "
+"semmiféle jogot vagy tulajdonjogot nem ruház fel a Szolgáltatásokra vagy a "
+"hozzájuk tartozó szoftverekre, vagy azokhoz. Minden jog, tulajdonjog és "
+"érdek, beleértve a szellemi tulajdonhoz fűződő jogokat is, a "
+"Szolgáltatásokban és az azok alapjául szolgáló szoftverekben, valamint azok "
+"bármilyen frissítésében, frissítésében, módosításában, továbbfejlesztésében,"
+" fejlesztésében vagy származékos munkáiban, valamint bármilyen ötleten "
+"belül, tudásunkból hogyan, és azokat a programokat, amelyeket a "
+"Szolgáltatások teljesítése során az általunk vagy licencadóinkként "
+"fejlesztettünk ki."
+
+msgid "6. Term and Termination:"
+msgstr "6. Határidő és megszűnés:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1. Futamidő: A Szolgáltatások időtartama az Ön által igénybe vett "
+"Szolgáltatástól függően változik, és azokat meg kell adni a Megrendelőlapon "
+"vagy jóvá kell hagyni a feliratkozási folyamatban, és az alábbiak szerint "
+"megújul:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive Szolgáltatási idő: A CaseActive Szolgáltatás előfizetése "
+"automatikusan meghosszabbodik egymást követő egy hónapos vagy egy éves "
+"időtartamra, a Megrendelőlapon vagy a feliratkozási folyamatban "
+"meghatározottak szerint, kivéve, ha megszüntetjük a Szolgáltatást, amelyet "
+"az Ön általi értesítés útján nyújt be. a megújítás elmulasztása legalább a "
+"harminc (30) nappal az akkori jelenlegi lejárat előtt."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 CaseActive webhelyszolgáltatások időtartama: Az Ön előfizetése a "
+"CaseActive webhelyszolgáltatásokra automatikusan meghosszabbodik egymást "
+"követő egy hónapos vagy egyéves időtartamra, a megrendelőlapon vagy a "
+"regisztrációs folyamatban meghatározottak szerint, kivéve, ha megszüntetjük "
+"a szolgáltatást, vagy ha Ön nekünk nyújtja a megújítás értesítésével, "
+"legalább 30 harminc (30) nappal az akkori jelenlegi lejárat előtt."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Az Ön megújításának írásbeli értesítését be kell nyújtani a "
+"CaseActive, LLC-hez, 1107 W. 6. Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2. Felmondás: Bármelyik fél felmondhatja a Megállapodást és az összes "
+"előfizetést (i), ha a másik fél megszegi a Megállapodás szerinti anyagi "
+"kötelezettségeit, és az ilyen jogsértést a jogsértés hiányáról szóló "
+"értesítés kézhezvételétől számított harminc (30) napon belül nem orvosolják."
+" vagy (ii) ha a másik fél fizetésképtelenné vagy csődbe kerül, "
+"felszámolódik, feloszlik, vagy üzleti tevékenysége lényegében leáll. A fenti"
+" 5.3. Szakasz megsértése esetén haladéktalanul felmondhatjuk a "
+"megállapodást. A Szerződés megszűnésekor Ön azonnal abbahagyja a "
+"Szolgáltatások használatát, bármilyen formában nem képviseli, hogy Ön a "
+"Szolgáltatás felhasználója, és megsemmisíti a birtokában lévő összes "
+"bizalmas információt. Egyik fél sem felel a kárért, amely a Szerződés "
+"megszűnéséből vagy a Szolgáltatásoknak a jelen Előírás szerinti "
+"előfizetéséből származik; azzal a feltétellel, hogy a megállapodás "
+"megszűnése nem érinti a felmondás előtt felmerült követeléseket."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Az Ön adatainak kezelése megszűnés esetén: Ön tudomásul veszi és "
+"elfogadja, hogy a Szolgáltatások bármelyik előfizetésének lejártát vagy "
+"megszűnését követően az érintett Szolgáltatásokat azonnal kikapcsolhatjuk, "
+"és legalább kilencven (90) ésszerű időtartamot követően ) nap, törölheti "
+"fiókját és adatait. Abban az esetben azonban, ha a Szolgáltatásokat "
+"felmondjuk, ideiglenes, korlátozott hozzáférést biztosítunk Önnek, "
+"legfeljebb harminc (30) napra, kizárólag azzal a céllal, hogy lehetővé "
+"tegyük a tulajdonosi adatok beolvasását, feltéve, hogy teljes mértékben "
+"megfizette a jóhiszeműen nem vitatott összegeket. Ezenkívül beleegyezik "
+"abba, hogy nem vállalunk felelõsséget Önnek vagy harmadik félnek a "
+"Szolgáltatásokhoz való hozzáférés megszüntetéséért vagy az Ön adatainak "
+"törléséért, feltéve, hogy betartjuk a 6.3. Szakasz feltételeit."
+
+msgid "7. Fees:"
+msgstr "7. Díjak:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Szolgáltatási díjak: A Szolgáltatásokért vissza nem térítendő díjakat a "
+"feliratkozási folyamatban vagy a Megrendelőlapon („Szolgáltatási díjak”) "
+"meghatározott összegben, a feliratkozási folyamatban vagy a Megrendelésben "
+"megadott számlázási gyakoriságnak megfelelően kell megfizetnie. Forma. A "
+"szolgáltatási díjak a számla napján esedékesek. A szolgáltatási díjakat az "
+"akkori jelenlegi díjaink alapján növelhetjük. A szolgáltatási díjak akkor "
+"sem visszatéríthetők, ha előfizetését korábban felmondják."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Kiegészítő díjak: A Megrendelőlapon és / vagy a feliratkozási "
+"folyamatban meghatározott díjakon túl a Szolgáltatások használatáért más, "
+"vissza nem térítendő díjakat vagy díjakat is felszámíthatnak. A vissza nem "
+"térítendő további díjakat és díjakat az alkalmazandó Szolgáltatás kiegészítő"
+" feltételei tartalmazzák."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Késedelmes fizetések: Ön tudomásul veszi, hogy az esedékes esedékes "
+"díjak vagy díjak fizetésének elmulasztása a CaseActive termék-előfizetésének"
+" felfüggesztését vagy megszüntetését vonhatja maga után. Ha nem fizeti be az"
+" alábbiak szerint esedékes díjakat vagy díjakat, a CaseActive fenntartja a "
+"jogot, hogy beszedési ügynökséget vonjon be a díjak és díjak beszedésére, és"
+" Önnek minden olyan költséget meg kell fizetnie, amely a CaseActive-nál "
+"merül fel az ilyen esedékes összegek beszedésével kapcsolatban, ideértve a "
+"következőket: korlátozás nélkül ésszerű ügyvédi és beszedési ügynökségek "
+"díjai, plusz kamatok, amelyek összege megegyezik a havi 1,0% -kal vagy az "
+"alkalmazandó jogszabályok által megengedett maximális kamatlábbal."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Adók: Ön felelős az összes forgalmi adóból, használati adóból, "
+"hozzáadottérték-adóból, forrásadóból és minden egyéb hasonló adóból és egyéb"
+" illetékből, amelyeket a szövetségi, állami vagy helyi kormányzati szervek "
+"vetnek ki a megállapodásban szereplő ügyletekre. Ha e szakasz értelmében "
+"jogi kötelezettségünk van az Ön felelősségi körébe tartozó adók fizetésére "
+"vagy beszedésére, akkor a megfelelő összeget számlázza ki és Ön fizeti ki, "
+"kivéve, ha megadja nekünk a megfelelő adóhatóság által engedélyezett "
+"érvényes adómentességi igazolást."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Képviselet és garancia:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Kölcsönös képviselet és garanciavállalás: Mindegyik fél kijelenti és "
+"szavatolja a másik felet, hogy (i) minden szükséges felhatalmazással "
+"rendelkezik ahhoz, hogy harmadik felek hozzájárulása nélkül vállalja és "
+"teljesítse a megállapodás szerinti kötelezettségeit, vagy bármilyen "
+"szerződéssel vagy megállapodással megsértse bármely harmadik fél, (ii) a "
+"jelen kötelezettségeket teljesítő minden személy megkötött minden szükséges "
+"megállapodást a megállapodás feltételeinek való megfelelés érdekében, és "
+"(iii) minden lényeges szempontból betartja a a Szolgáltatások."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Kiegészítő nyilatkozatok és garanciák: Ön szavatolja, kijelenti és "
+"szövetséget köt számunkra, hogy a Szolgáltatásokat csak törvényes célokra "
+"fogja használni, a Megállapodással és az összes alkalmazandó CaseActive "
+"politikával és iránymutatással összhangban."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Jótállási nyilatkozat: A 8. SZAKASZBAN MEGHATÁROZOTT KIFEJEZETT "
+"GARANCIÁK KIVÉTELÉVEL, AZ ALKALMAZHATÓ JOG által megengedett maximális "
+"mértékig, nem tehetünk semmilyen más, kifejezett, közvetett, törvényben "
+"foglalt, vagy törvényben foglalt, vagy törvény által lekérdezett, vagy "
+"törvényben foglalt garanciavállalást. MINDEN ÜGYRE VONATKOZÓ KERESKEDELEM, "
+"BETEGTELVE A KERESKEDELEMÉNYSÉGET, AZ ÉRTÉKESÍTÉSI MINŐSÉGET, A CÍMET, A "
+"KÖVETKEZŐ CÉL SZERINT FELHASZNÁLÁSÁT VAGY NINCS MEGSÉRTETÉSET. NEM GARANCIA,"
+" HOGY A SZOFTVER vagy a SZOLGÁLTATÁSOK MINDEN SZÜKSÉGESSÉGET, "
+"KÖVETELMÉNYEKET SZERINT, SZERINTI, SZERINT A SZOFTVER vagy a SZOLGÁLTATÁSOK "
+"HASZNÁLATA SZERKESZTETTEN VAGY Hibától mentes. A SZOFTVERT ÉS A "
+"SZOLGÁLTATÁST „SZERINT SZERINT” ALAPJÁNAK SZÁLLÍTÁSÁRA VONATKOZIK, ÉS A "
+"SZOFTVER ÉS A SZOLGÁLTATÁSOK HASZNÁLATA A SAVAD KOCKÁZATÁNAK FELTÜNTETTEN, "
+"MEGKÖZELÍTÉSEN, KORLÁTOZÁSOKAL, SZABÁLYOK SZERINTI MEGFELELÉSÉT. A Felek "
+"kifejezetten elismerik, hogy a jótállási nyilatkozat a szerzõdés lényeges "
+"részét alkotja."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"FELELŐSSÉGET NYILATKOZIK KÉPESSÉGET VAGY GARANCIAKAT, HOGY A SZOLGÁLTATÁSOK "
+"HASZNÁLATA SEGÍTSÉGES VAGY BIZTOSÍTJA MEG JOGI KÖTELEZETTSÉGET VAGY JOGI "
+"RENDELETEKET. EZT A NYILATKOZATOT FELTÉTELEKRE NEM KAPCSOLATOS "
+"KÖVETELMÉNYEKRE VAGY ALKALMAZOTT VAGY ÁLLAMI SZABÁLYOKRA VAGY "
+"RENDELKEZÉSEKKÉRE. FELELŐS FELELŐS FELELŐS, hogy BIZTOSÍTVA, HOGY A "
+"SZOLGÁLTATÁSOK HASZNÁLATA SZABÁLYOZHATÓ MEGFELELÕEN"
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"HA A SZOLGÁLTATÁSOKKAL, VAGY E SZERZŐDÉSBEN ELKAPCSOLATAK, A SZOLGÁLTATÁSOK "
+"HASZNÁLATÁVAL FELTÜNTETTEN A SZOLGÁLTATÁSOKAT ÉS A KIZÁRÓLAG KÖRNYEZETT "
+"JÓVÁHAGYÁSÁT SZÜKSÉGI."
+
+msgid "9. Confidential Information:"
+msgstr "9. Bizalmas információk:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"A másik fél kifejezett felhatalmazása hiányában egyik fél sem fedheti fel "
+"harmadik fél számára a megállapodás alapján a másik fél által szolgáltatott "
+"és ésszerűen bizalmasnak tekintett információkat vagy anyagokat („bizalmas "
+"információ”), vagy az ilyen bizalmas információkat bármilyen módon "
+"felhasználhatja. mint hogy teljesítse a megállapodás szerinti "
+"kötelezettségeit. A fenti korlátozások nem vonatkoznak olyan információkra, "
+"amelyek köztulajdonban vannak vagy már a fogadó fél birtokában vannak, "
+"amelyek a fogadó félnek a nyilvánosságra hozatal időpontja előtt ismertek "
+"voltak, vagy ezt követően a fogadó fél számára ismertté válnak egy harmadik "
+"féltől. az információ vagy a bizalmas információ nyilvánosságra hozatalának "
+"jogát, amelyet az átvevő félnek az illetékes joghatósággal rendelkező "
+"bíróság végzése vagy az érvényes közigazgatási idézés alapján kötelesek "
+"benyújtani, feltéve, hogy a fogadó fél a nyilvánosságra hozó félnek időben "
+"értesíti az ilyen bíróságot végzés vagy idézés. Ezenkívül biztosítja, hogy "
+"az engedélyezett felhasználók szigorúan bizalommal őrzik meg a "
+"Szolgáltatásokhoz tartozó összes jelszót és egyéb információt. Ez a 9. "
+"szakasz fennmarad a jelen Megállapodás megszűnése vagy lejárta után."
+
+msgid "10. Indemnification:"
+msgstr "10. Kártérítés:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Kártérítés a jogsértésért: A 10.4. Szakasz rendelkezéseire is "
+"figyelemmel, saját költségünkön megvédjük Önt bármely harmadik fél ellen "
+"felmerült keresettel szemben, amely állítólag a Szolgáltatások a "
+"hatálybalépés napjától sértik meg bármely harmadik fél számára kiadott "
+"amerikai szabadalmat; vagy megsérti bármely harmadik fél szerzői jogait, "
+"védjegyeit vagy üzleti titkait (együttesen a szolgáltatások alapjául "
+"szolgáló szellemi tulajdonnak nevezik). Abban az esetben, ha elrendelést "
+"kérnek vagy megszereznek a szolgáltatások alapjául szolgáló szellemi "
+"tulajdon használatával szemben, vagy véleményünk szerint valószínűleg "
+"keresni vagy megszerezni, akkor választásunk és költségünk ellenében i) "
+"beszerzzük az Ön és a megnevezett felhatalmazott felhasználók számára a jog,"
+" hogy továbbra is használják a Szolgáltatásokat, vagy (ii) kicseréljék vagy "
+"módosítsák a Szolgáltatásokat annak érdekében, hogy használatuk nem "
+"jogsértő, miközben képesek ugyanannak a funkciónak a végrehajtására. Abban "
+"az esetben, ha a fenti (i) és (ii) bekezdések nem gyakorlatilag "
+"megvalósíthatók, felmondhatjuk a Szolgáltatásokat és visszatéríthetjük az "
+"előre fizetett, de fel nem használt Szolgáltatási díjakat. Nem vagyunk "
+"kötelesek védeni vagy felelősséget vállalni a 10.1. Szakasz szerinti "
+"költségekért vagy károkért, ha az állítólagos jogsértés a Szolgáltatásoknak "
+"az Ön (vagy az Ön által engedélyezett vagy bármely kijelölt felhasználók) "
+"vagy (ii) a Szolgáltatások olyan szolgáltatásokkal és termékekkel kombinált "
+"használata, amelyeket a CaseActive nem nyújtott, ha az ilyen jogsértést "
+"ilyen módosítás vagy kombináció nélkül el lehetett volna kerülni, vagy (iii)"
+" a terveknek vagy az utasításoknak való megfelelés, vagy (iv) egy állítás "
+"pontosan nem állítja, hogy a szolgáltatások a követelés tárgyát képezik "
+"(mindegyik „kizárt igény”). A 10.1. Szakaszban foglalt kártalanítási "
+"kötelezettségek fennállnak a jelen Megállapodás bármilyen felmondása vagy "
+"lejárta esetén."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Kártérítés az adatbiztonságért és a magánéletért: A 10.4. Szakasz "
+"rendelkezéseire is figyelemmel, és a Szolgáltatások előfizetésének "
+"időtartama alatt, saját költségünkön megvédjük Önt minden harmadik féllel "
+"szembeni, szemben az Ön ellen felhozott követeléssel szemben, amely az "
+"illetéktelen hozzáférés megakadályozásának súlyos gondatlanságára utal. vagy"
+" szándékos kötelességszegésünk a birtokunkban vagy ellenőrzése alatt álló "
+"ügyfeleink személyes azonosításával kapcsolatos információk közzététele "
+"során. Ez a kártalanítás nem vonatkozik arra az esetre, ha az ilyen igény az"
+" Ön vagy képviselői vagy képviselői gondatlanságából vagy szándékos "
+"kötelességszegéséből származik, vagy azzal kapcsolatos, vagy amennyiben a "
+"felelõsségét a felek a Megállapodás alapján valamelyik fél elutasítja vagy "
+"korlátozza. Az ebben a szakaszban meghatározott kártalanítási "
+"kötelezettségek attól függnek, hogy igazolja-e súlyos gondatlanságunkat vagy"
+" szándékos kötelességszegésünket, közvetlenül és közvetett módon a "
+"birtokunkban vagy ellenőrzésünk alatt álló ügyfelek személyes azonosításával"
+" kapcsolatos információk jogosulatlan hozzáférésének vagy közzétételének "
+"eredményeként."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Ön kártalanítása: Ön vállalja, hogy kártalanítja, ártalmatlannak tartja"
+" és megvédi minket és minden alkalmazottunkat, tisztjeinket, igazgatóinkat "
+"és ügynökeinket minden igénytől, követeléstől, pertől, eljárástól, "
+"nyomozástól, károktól, költségektől, költségeitől, veszteségeitől és minden "
+"egyéb kötelezettségek (ideértve az ésszerű ügyvédi díjakat, bírósági "
+"költségeket és költségeket), amelyek felmerülnek vagy kapcsolódnak a "
+"következőkhöz: i) a Szolgáltatásoknak a Megállapodást megsértésével történő "
+"használata, (ii) kizárt követelés, (iii) az Ön tényleges vagy állítólagos "
+"megszegése bármilyen képviselet, garancia, szövetség vagy "
+"kötelezettségvállalás a megállapodás alapján, vagy (iv) súlyos gondatlanság "
+"vagy szándékos kötelességszegés. Az e 10.3. Szakasz szerinti kártalanítási "
+"kötelezettségei fennállnak a Szerződés bármilyen felmondása vagy lejárta "
+"esetén is."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Értesítés és együttműködés: A kártalanító félnek a kártalanítást "
+"igénybe vevő felekkel szembeni, a fenti 10. szakasz szerinti kötelezettségei"
+" attól függnek, hogy (i) a kártalanított fél a kártalanító felet "
+"haladéktalanul, írásban értesíti, bármilyen követelés ismeretében, amelyre a"
+" megállapodás alapján kártalanításra jogosult. ; (ii) amennyire "
+"alkalmazható, a kártalanított fél az értesítés kézhezvétele után megszünteti"
+" az állítólag jogsértő Szolgáltatások használatát; iii. kártalanított fél, "
+"amely lehetővé teszi a kártalanító fél számára annak egyedüli jogát, hogy "
+"ellenőrizze az ilyen követelések védelmét és rendezését (feltéve, hogy a "
+"kártalanító fél nem rendezhet igényt a kártalanított fél beleegyezése "
+"nélkül, kivéve, ha a megállapodás feltétel nélkül mentesíti a kártalanított "
+"felet minden felelősség alól); iv. a kártalanított fél, amely ésszerű "
+"segítséget nyújt a kártalanító félnek a felek költségének megtérítésére az "
+"ilyen követelés védelmében; v. a kártalanított fél, amely nem kötött "
+"rendezési megállapodást, vagy egyéb módon rendezi az ilyen igényt a fél "
+"kifejezett előzetes írásbeli hozzájárulásának vagy kérésének megtérítése "
+"nélkül; és vi. a kártérítést igénybe vevő fél, aki eleget tesz a "
+"követeléssel kapcsolatban hozott bármely rendezésnek vagy bírósági végzésnek"
+" (bármilyen jogsértő anyag jövőbeni felhasználására vonatkozik). A "
+"kártalanításban részesült fél a választása során és saját költségén részt "
+"vehet a követelés védelmében vagy rendezésében."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Kizárólagos jogorvoslat: Ez a 10. szakasz kimondja a kártalanító felet "
+"a másik féllel szemben kizárólagos felelősséggel és a kártalanított fél "
+"kizárólagos jogorvoslatával szemben a jelen szakaszban ismertetett bármely "
+"típusú követeléssel szemben."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. A felelősség korlátozása:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"A 5.3. Vagy 12. SZAKASZ MEGSÉRTÉSÉNEK KOCKÁZATÁRA VONATKOZÓ "
+"KÖVETELMÉNYEKBEN, A TÖRVÉNYESSÉGEK MEGERŐSÍTETT MEGFELELŐSÉGÉNEK, A FELEK "
+"SZÜKSÉGESSÉGÉNEK KÖZÖTTI KÖTELEZŐ FELELŐSSÉGET KÖVETKEZŐEN A SZERZŐDÉS "
+"MEGÁLLAPODÁSÁVAL KÖTELEZŐEN A FELELŐSSÉGRE VONATKOZÓ SZOLGÁLTATÁSOKAT AZ "
+"EGYÉNES IDŐTARTAM IDŐT KÖVETŐEN, MEGÁLLAPÍTÁSA A DÁTUM DÁTUMÁT, HOGY A "
+"KÖVETKEZŐ OK."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"A 5.3. Vagy 12. SZAKASZ MEGSÉRTÉSÉNEK KOCKÁZATÁRA VONATKOZÓ "
+"KÖVETELMÉNYEKKEL, A TÖRVÉNYESSÉGEK SZERINTI MEGFELELŐ MEGFELELŐSÉGEKET, A "
+"FÉL HERETÓJÁNAK, AZ ENGEDÉLYEZETTŐI VAGY SZOLGÁLTATÓKAT NEM FELELŐSEN "
+"FELELŐSSÉGEKET MÁS FELELŐSSÉGÉRE VONATKOZIK. AZ ALKALMAZOTT ÁRUK VAGY "
+"SZOLGÁLTATÁSOK VAGY SZERINTI, KÜLÖNLEGES, KÖVETKEZŐ, Például vagy véletlen "
+"károk beszerzésének költségei, MEGFELELŐEN ÉS A FELELŐSSÉG ELŐÍRÁSÁNAK "
+"(SZERZŐDVE A SZEGVÉNYESSÉGET), A SZERZŐDÉS RÉSZÉRE, SZERINT IDEIGLEN "
+"KÖTELEZETTSÉGEKET, AMELYEKBEN FELEK VAGY NEM MEGFELELŐEN FELTÉTELEK A KÁROK "
+"LEHETŐSÉGÉRT."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"MIVEL NEM FELTÜNTETT ÁLLAMOK / JOGHATÓSÁGOK NEM SZENNYEZIK KÖVETKEZŐ vagy "
+"VÉLETLEN KÁROK FELELŐSSÉGÉNEK KIZÁRÁSAI ÉS KORLÁTOZÁSA, A FELTÉTEL "
+"KAPCSOLATÁNAK NEM ALKALMAZHATVA, HOGY AZ ESETT FELELŐSSÉGET A MEGERŐSÍTETT "
+"ENGEDÉLYEKHEZ KORLÁTOZNI."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Személyes adatok és adatvédelmi nyilatkozat:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Meg fogja felelni az összes alkalmazandó adatvédelmi és egyéb törvénynek, "
+"szabálynak, szabályozásnak és iránymutatásnak, amelyek a személyekkel "
+"azonosítható információk (alábbiakban meghatározottak szerint) védelmére, "
+"gyűjtésére, felhasználására és terjesztésére vonatkoznak. Az adatvédelmi "
+"nyilatkozatot közzéteszi azon az oldalon, ahol személyesen azonosítható "
+"információkat gyűjt („Adatvédelmi nyilatkozat”), amely megfelel az összes "
+"alkalmazandó törvénynek, szabálynak, szabályozásnak és iránymutatásnak, és "
+"legalább értesíti a gyűjtött személyes azonosítással rendelkező információk "
+"felhasználóit, hogy hogyan kerül felhasználásra és annak biztosítására, és "
+"meghatározza a gyűjtési módszert (sütik, webjelzők vagy egyéb alkalmazható "
+"eszközök) és a Szolgáltatásokkal összegyűjtött információk felhasználását, "
+"előzetes tájékozott beleegyezést (opt-in) megszerezve, mielőtt bármilyen "
+"nyomkövető technológiák, az alkalmazandó törvények és rendeletek által "
+"megkövetelt mértékben. Az ilyen adatvédelmi nyilatkozatnak tartalmaznia kell"
+" a Személyesen azonosítható információk gyűjtésével, továbbításával és "
+"tárolásával kapcsolatos műszaki információkat is, amelyeket a "
+"Szolgáltatásokon keresztül nyújtunk. Ha az alkalmazandó adatvédelmi "
+"jogszabályok vagy más törvények vagy rendeletek megkövetelik, akkor értesíti"
+" a harmadik feleket arról, hogy személyes azonosításukra alkalmas "
+"információt szolgáltat nekünk feldolgozás céljából, és biztosítja, hogy "
+"minden szükséges harmadik fél hozzájáruljon az ilyen nyilvánosságra "
+"hozatalhoz és feldolgozáshoz. Ön vállalja, hogy betartja az adatvédelmi "
+"nyilatkozat leírásait és rendelkezéseit. „Személyesen azonosítható "
+"információ”: bármilyen információ, amely bármely személyhez társítható vagy "
+"nyomon követhető, beleértve az egyén nevét, címét, telefonszámát, e-mail "
+"címét, hitelkártya-adatait, társadalombiztosítási számát vagy más hasonló "
+"konkrét tényszerű információt, függetlenül attól, hogy az adathordozó, "
+"amelyen ezeket az információkat tárolják (pl. papíron vagy elektronikusan)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Egyéb:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Független felek: Ön és a CaseActive független vállalkozók. A "
+"megállapodás nem hoz létre közös vállalkozást, partnerséget, ügynökséget "
+"vagy munkaviszonyokat a felek között. Kizárólag Ön felel az alkalmazottainak"
+" irányításáért, valamint az alkalmazottakkal és bármely más képviselőjével "
+"vagy szolgáltatójával szembeni minden kompenzációért, adóért, juttatásért és"
+" kötelezettségért. Sem Ön, sem alkalmazottai, képviselői vagy szolgáltatói "
+"nem tehetnek semmiféle nyilatkozatot, garanciát vagy garanciát ránk, a "
+"Szerződésre vagy a Szolgáltatásokra, kivéve, ha azt kifejezetten írásban "
+"felhatalmazzuk."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2. Átruházás: Sem a megállapodást, sem a megállapodás szerinti jogait "
+"vagy kötelezettségeit törvény alapján vagy más módon nem ruházhatjuk át vagy"
+" ruházhatjuk át előzetes írásbeli hozzájárulásunk nélkül, kivéve, ha érdek "
+"utódjára, vagy egyesülés alapján vagyonának átszervezése vagy teljes vagy "
+"lényegében az összes vagyának eladása vagy átruházása, amelyről Ön legalább "
+"10 nappal a tranzakció befejezése előtt értesítést küld nekünk. Az Ön által "
+"végzett bármilyen más körülmény alapján történő előzetes beleegyezésünkhöz "
+"szükség van, amely hozzájárulást nem szabad indokolatlanul visszatartani. "
+"Ezt a megállapodást az Ön hozzájárulása nélkül szabadon átruházhatjuk. A "
+"fentiekre figyelemmel, ez a megállapodás a felek, azok jogutódjainak és "
+"engedélyezett átruházásainak érdekében kötelező és érvényes."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Vis maior: Egyik fél sem felel a Megállapodás szerinti késésért, "
+"megszakításért vagy egyéb mulasztásért, amely a felelős felet nem "
+"befolyásolja, de csak addig, amíg az ilyen feltételek fennállnak. A vis "
+"maior eseményei magukban foglalják, de nem korlátozódnak ezekre: természeti "
+"katasztrófák (pl. Villámlás, földrengések, hurrikánok, áradások); háborúk, "
+"zavargások, terrorista tevékenységek és polgári felkelések; a helyi tőzsdei "
+"fuvarozó tevékenysége és harmadik felek egyéb tevékenységei; robbanások és "
+"tüzek; embargó, sztrájk és munkaügyi viták; kormányzati rendeletek; "
+"telekommunikációs szolgáltatók vagy internetszolgáltatók kudarcai; harmadik "
+"fél szállítói, szolgáltatói vagy szállítói kudarcai; és bármely más, a párt "
+"ésszerű befolyásán kívüli okból."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Jogválasztás: A megállapodást és a megállapodásból eredő, illetve azzal"
+" összefüggésben felmerülő vitákat Kaliforniai állam törvényei szabályozzák "
+"és értelmezik, a kollíziós szabályok elveinek figyelembevétele nélkül. "
+"Minden, a Megállapodásból származó vagy azzal összefüggésben felmerülő vita "
+"kizárólag a kaliforniai állam és a kaliforniai Santa Barbara szövetségi "
+"bíróságainak kizárólagos joghatósága alá tartozik és a felek hozzájárulnak e"
+" bíróságok személyes és kizárólagos joghatóságához."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-mail és közlemények: Ön továbbá beleegyezik abba, hogy bármilyen "
+"értesítést, nyilatkozatot és egyéb közleményt e-mailben, postai úton, "
+"expressz kézbesítéssel vagy elismert kereskedelmi fuvarozó által az utoljára"
+" megjelölt címre küldtünk. a megállapodásról. Az Ön felelőssége, hogy minden"
+" frissített elérhetőséget megadjon nekünk."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Nincs mentesség; Összesített jogorvoslatok: A jelen Megállapodás "
+"szerinti jogok gyakorlásának vagy bármelyik fél általi elmulasztása nem "
+"jelenti e jog lemondását. A leírásban kifejezetten megállapítottak "
+"kivételével az itt biztosított jogorvoslati lehetőségek kiegészítik és nem "
+"zárják ki a jogi személy vagy a méltányosság bármely más jogorvoslatát."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7. Elválaszthatóság: Ha e megállapodás bármely rendelkezését az illetékes"
+" joghatósággal rendelkező bíróság úgy ítéli meg, hogy az ellentétes a "
+"jogszabályokkal, akkor a bíróság módosítja ezt a rendelkezést, és úgy kell "
+"értelmezni, hogy az eredeti rendelkezés céljainak a lehető legteljesebb "
+"mértékben megvalósuljon. törvény, és e megállapodás többi rendelkezése "
+"teljes hatályban marad."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8. Teljes megállapodás: Az alkalmazandó törvények által megengedett "
+"legnagyobb mértékben ez a megállapodás, az itt hivatkozott dokumentumokkal, "
+"valamint az összes megrendelőlapmal és a feliratkozási folyamattal a felek "
+"közötti teljes megállapodást képezi tárgyának tekintetében, és felváltja az "
+"összes korábbi és időbeli megállapodások, javaslatok vagy nyilatkozatok, "
+"írásbeli vagy szóbeli, a megállapodás tárgyával kapcsolatban. A jelen "
+"Megállapodást megelõzõen a felek közötti tárgyalások során elmondottakból "
+"vagy írtakból semmilyen kijelentés, kötelezettségvállalás vagy ígéret nem "
+"tekintendõ semmiféle kijelentésnek, vagy annak következményének. Egyik fél "
+"sem élhet jogorvoslattal a másik fél téves nyilatkozataival szemben, amelyre"
+" az adott fél hivatkozott e megállapodás megkötésekor (kivéve, ha az ilyen "
+"hamis nyilatkozatot csalárd módon tették meg), és hogy a fél egyetlen hamis "
+"nyilatkozatára a a szerződés megsértése a jelen Megállapodás szerint. Ön "
+"tudomásul veszi és beleegyezik, hogy a jelen szerződésben foglalt "
+"megállapodás nem függ a jelen szerződésben vagy megrendelőlapban nem "
+"meghatározott jövőbeli funkciók vagy szolgáltatások átadásától, illetve függ"
+" attól, hogy a jövőbeni funkciókkal vagy szolgáltatásokkal kapcsolatban "
+"szóbeli vagy írásbeli, nyilvános vagy magánjellegű megjegyzéseket tegyünk "
+"fel. a szolgáltatásokért. A jelen Általános Szolgáltatási Feltételek és az "
+"esetleges Megrendelőlap vagy Kiegészítő Szolgáltatási Feltételek közötti "
+"ellentmondás esetén az ilyen Megrendelőlap vagy a Kiegészítő Szolgáltatási "
+"Feltételek az irányadók, az ellentmondás mértékéig. A megrendelésben vagy a "
+"megrendelés bármely más dokumentációjában megfogalmazott feltételeket nem "
+"lehet beépíteni a jelen Megállapodásba, vagy azok részét képezni, és ezek a "
+"feltételek semmisek."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Export: Mindkét fél beleegyezik abba, hogy betartja az alkalmazandó "
+"amerikai export és import törvényeket és rendeleteket. Nem engedélyezi a "
+"felhasználók számára a Szolgáltatásokhoz való hozzáférést vagy azok "
+"használatát, az Egyesült Államok kiviteli embargójának, tilalmának vagy "
+"korlátozásának megsértésével."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Nyilvánosság: Előfordulhat, hogy az Ön írásos beleegyezése nélkül nem "
+"nevezzük Önnek a Szolgáltatások felhasználóját."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Linkek harmadik fél webhelyeihez: A Szolgáltatások vagy a "
+"weboldalunkon harmadik felek webhelyeire mutató hivatkozások is "
+"szerepelhetnek („Kapcsolódó webhelyek”). A kapcsolt webhelyek nem állnak "
+"ellenőrzésünk alatt, és nem vállalunk felelősséget semmilyen kapcsolt "
+"webhely tartalmáért, ideértve korlátozás nélkül a linkelt webhelyen "
+"található linkeket, valamint a kapcsolt webhelyek vagy a kapcsolt webhelyen "
+"nyújtott szolgáltatások bármilyen változását vagy frissítését. Ezeket a "
+"linkeket csak kényelmi szempontból nyújtjuk Önnek, és bármilyen link "
+"felvétele nem jelenti azt, hogy jóváhagyjuk a webhelyet vagy a webhely által"
+" nyújtott kapcsolódó szolgáltatásokat."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Ön beleegyezik abba, hogy e-maileket, telefonhívásokat és SMS-eket "
+"fogadjon az CaseActive-tól, hogy frissítse megrendelését és / vagy marketing"
+" céljából. Az üzenet gyakorisága az Ön tevékenységétől függ. Kikapcsolhatja "
+"azt, ha törli a fiókja értesítéseinek kijelölését vagy törli a fiókját. "
+"Előfordulhat, hogy az üzenet- és adatátviteli díjak érvényesek."
+
+msgid "An error occurred"
+msgstr "Hiba lépett fel"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Valami elromlott. Mérnökeinket értesítették. Nyomja meg az újratöltés gombot"
+" az újratöltéshez."
+
+msgid "Reload"
+msgstr "Újratöltés"

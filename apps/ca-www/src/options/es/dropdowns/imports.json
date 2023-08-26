@@ -1,0 +1,11 @@
+{
+  "post_user": "Agregar usuarios",
+  "put_user": "Modificar usuarios",
+  "put_user_status": "Modificar el estado de los usuarios",
+  "post_case": "Crear casos",
+  "put_case": "Modificar casos",
+  "post_case_permission": "Asignar usuarios a casos",
+  "put_case_permission": "Modificar usuarios asignados a casos",
+  "post_case_post": "Crear publicaciones de casos",
+  "delete_case_permission": "Eliminar usuarios asignados a casos"
+}

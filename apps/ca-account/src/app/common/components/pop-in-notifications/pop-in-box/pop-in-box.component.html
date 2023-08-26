@@ -1,0 +1,20 @@
+<div class="notifications-box" [style.height.px]="notificationList.length ? notificationList.length * 38 + 10 : 0">
+  <div class="notification-item" *ngFor="let item of notificationList; let index = index">
+    <!-- <div class="icon-colored-box">
+      <div class="loading-icon" *ngIf="!item.status">
+        <div></div>
+        <div></div>
+      </div>
+      <div class="success-icon" *ngIf="item.status === 'success'"></div>
+      <div class="error-icon" *ngIf="item.status === 'error'"></div>
+    </div> -->
+
+    <!-- <div class="text-box"> -->
+    <div class="notitfication-title" translate>{{ item.title }}</div>
+    <!-- <div class="notitfication-text" translate>{{ item.text }}</div> -->
+    <div class="line-0">
+      <a class="error-icon" (click)="removeNotification(index, notificationList)"></a>
+    </div>
+    <!-- </div> -->
+  </div>
+</div>

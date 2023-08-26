@@ -1,0 +1,519 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-01-15T21:57:38.130091\n"
+"PO-Revision-Date: 2018-01-15T21:57:38.771897\n"
+"Language: fi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/repo/src/cases/create-case.html:17
+#: /tmp/repo/src/cases/create-case.html:19
+#: /tmp/repo/src/cases/edit-case.html:21 /tmp/repo/src/cases/edit-case.html:23
+msgid "About"
+msgstr "Noin"
+
+#: /tmp/repo/src/users/create-user.html:70
+msgid "Add"
+msgstr "Lisätä"
+
+#: /tmp/repo/src/users/add-user.controller.js:14
+msgid "Add User"
+msgstr "Lisää käyttäjä"
+
+#: /tmp/repo/src/users/create-user.html:71
+msgid "Adding..."
+msgstr "Lisätään ..."
+
+#: /tmp/repo/src/profile/profile.html:107
+#: /tmp/repo/src/profile/profile.html:119
+#: /tmp/repo/src/profile/profile.html:121
+#: /tmp/repo/src/profile/profile.html:122
+msgid "Address"
+msgstr "Osoite"
+
+#: /tmp/repo/src/profile/profile.html:110
+#: /tmp/repo/src/profile/profile.html:126
+#: /tmp/repo/src/profile/profile.html:128
+#: /tmp/repo/src/profile/profile.html:129
+msgid "Address 2"
+msgstr "Osoite 2"
+
+#: /tmp/repo/src/root/root.html:127
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "Kaikki oikeudet pidätetään"
+
+#: /tmp/repo/src/login/login.html:21
+msgid ""
+"All rights\n"
+"        reserved"
+msgstr "Kaikki oikeudet pidätetään"
+
+#: /tmp/repo/src/cases/assign-user.controller.js:20
+msgid "Assign User"
+msgstr "Määritä käyttäjä"
+
+#: /tmp/repo/src/groups/create-group.html:24
+#: /tmp/repo/src/groups/create-group.html:26
+#: /tmp/repo/src/groups/edit-group.html:24
+#: /tmp/repo/src/groups/edit-group.html:26
+msgid "Audios"
+msgstr "audiona"
+
+#: /tmp/repo/src/profile/profile.html:11
+msgid "Basic"
+msgstr "perustiedot"
+
+#: /tmp/repo/src/cases/assign-case.html:37
+#: /tmp/repo/src/cases/create-case.html:50
+#: /tmp/repo/src/cases/edit-case.html:54
+#: /tmp/repo/src/groups/create-group.html:74
+#: /tmp/repo/src/groups/edit-group.html:78
+#: /tmp/repo/src/profile/profile.html:222 /tmp/repo/src/users/add-user.html:28
+#: /tmp/repo/src/users/create-user.html:73
+#: /tmp/repo/src/users/edit-user.html:45
+msgid "Cancel"
+msgstr "Peruuttaa"
+
+#: /tmp/repo/src/cases/assign-case.html:17
+msgid "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+msgstr "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform.controller.js:27
+msgid "Case Form Fields"
+msgstr "Case Form Fields"
+
+#: /tmp/repo/src/cases/create-case.html:13
+msgid "Case Info"
+msgstr "Case Info"
+
+#: /tmp/repo/src/cases/edit-case.html:17
+msgid "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+msgstr "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:9
+msgid "Case form updated"
+msgstr "Tapausmuoto päivitettiin"
+
+#: /tmp/repo/src/cases/assign-case.html:8 /tmp/repo/src/cases/edit-case.html:8
+msgid "Case not found!"
+msgstr "Tapa ei löydy!"
+
+#: /tmp/repo/src/index.html:5 /tmp/repo/src/login/login.html:21
+#: /tmp/repo/src/root/root.html:127
+msgid "CaseActive"
+msgstr "CaseActive"
+
+#: /tmp/repo/src/cases/cases.controller.js:31 /tmp/repo/src/root/root.html:21
+msgid "Cases"
+msgstr "tapaukset"
+
+#: /tmp/repo/src/profile/profile.html:113
+msgid ""
+"City\n"
+"                    /Locality"
+msgstr "Kaupunki / paikkakunta"
+
+#: /tmp/repo/src/profile/profile.html:133
+#: /tmp/repo/src/profile/profile.html:135
+#: /tmp/repo/src/profile/profile.html:136
+msgid "City/Locality"
+msgstr "Kaupunki / Paikkakunta"
+
+#: /tmp/repo/src/profile/profile.html:82 /tmp/repo/src/profile/profile.html:90
+#: /tmp/repo/src/profile/profile.html:92 /tmp/repo/src/profile/profile.html:93
+msgid "Company Name"
+msgstr "Yrityksen nimi"
+
+#: /tmp/repo/src/profile/profile.html:100
+#: /tmp/repo/src/profile/profile.html:85 /tmp/repo/src/profile/profile.html:97
+#: /tmp/repo/src/profile/profile.html:99
+msgid "Company Title"
+msgstr "Yrityksen nimi"
+
+#: /tmp/repo/src/cases/cases.html:199
+msgid "Confirm Password"
+msgstr "Vahvista salasana"
+
+#: /tmp/repo/src/root/root.html:24
+msgid "Content"
+msgstr "pitoisuus"
+
+#: /tmp/repo/src/users/add-user.html:25
+msgid "Continue"
+msgstr "Jatkaa"
+
+#: /tmp/repo/src/root/root.html:7
+msgid "Cookies are disabled. Please enable it."
+msgstr "Evästeet eivät ole käytössä. Ota se käyttöön."
+
+#: /tmp/repo/src/profile/profile.html:145
+#: /tmp/repo/src/profile/profile.html:160
+#: /tmp/repo/src/profile/profile.html:162
+#: /tmp/repo/src/profile/profile.html:164
+#: /tmp/repo/src/profile/profile.html:166
+msgid "Country"
+msgstr "Maa"
+
+#: /tmp/repo/src/cases/create-case.html:46
+#: /tmp/repo/src/groups/create-group.html:70
+msgid "Create"
+msgstr "Luoda"
+
+#: /tmp/repo/src/cases/create-case.controller.js:16
+msgid "Create Case"
+msgstr "Luo asia"
+
+#: /tmp/repo/src/groups/create-group.controller.js:16
+msgid "Create Group"
+msgstr "Luo ryhmä"
+
+#: /tmp/repo/src/users/create-user.controller.js:16
+msgid "Create User"
+msgstr "Luo käyttäjä"
+
+#: /tmp/repo/src/cases/cases.html:224
+msgid "Create a case for a business"
+msgstr "Luo tapaus yritykselle"
+
+#: /tmp/repo/src/users/users.html:9
+msgid "Create an user"
+msgstr "Luo käyttäjä"
+
+#: /tmp/repo/src/cases/create-case.html:47
+#: /tmp/repo/src/groups/create-group.html:71
+msgid "Creating..."
+msgstr "Luominen ..."
+
+#: /tmp/repo/src/cases/cases.html:167
+msgid "Current Password"
+msgstr "Nykyinen salasana"
+
+#: /tmp/repo/src/dashboard/dashboard.controller.js:25
+#: /tmp/repo/src/root/root.html:19
+msgid "Dashboard"
+msgstr "kojelauta"
+
+#: /tmp/repo/src/cases/create-case.html:29
+#: /tmp/repo/src/cases/create-case.html:31
+#: /tmp/repo/src/cases/edit-case.html:33 /tmp/repo/src/cases/edit-case.html:35
+msgid "Date Opened"
+msgstr "Avattu päivämäärä"
+
+#: /tmp/repo/src/profile/profile.html:44 /tmp/repo/src/profile/profile.html:52
+#: /tmp/repo/src/profile/profile.html:54 /tmp/repo/src/profile/profile.html:55
+msgid "Date of Birth"
+msgstr "Syntymäaika"
+
+#: /tmp/repo/src/settings/design/design.controller.js:33
+msgid "Design"
+msgstr "Design"
+
+#: /tmp/repo/src/groups/create-group.html:29
+#: /tmp/repo/src/groups/create-group.html:31
+#: /tmp/repo/src/groups/edit-group.html:29
+#: /tmp/repo/src/groups/edit-group.html:31
+msgid "Documents"
+msgstr "asiakirjat"
+
+#: /tmp/repo/src/cases/edit-case.controller.js:15
+msgid "Edit Case"
+msgstr "Muokkaa asiaa"
+
+#: /tmp/repo/src/groups/edit-group.controller.js:16
+msgid "Edit Group"
+msgstr "Muokkaa ryhmää"
+
+#: /tmp/repo/src/users/edit-user.controller.js:16
+msgid "Edit User"
+msgstr "Muokkaa käyttäjää"
+
+#: /tmp/repo/src/cases/cases.html:78 /tmp/repo/src/users/add-user.html:15
+#: /tmp/repo/src/users/add-user.html:17
+#: /tmp/repo/src/users/create-user.html:28
+#: /tmp/repo/src/users/create-user.html:30
+msgid "Email"
+msgstr "Sähköposti"
+
+#: /tmp/repo/src/users/create-user.html:16
+#: /tmp/repo/src/users/create-user.html:18
+msgid "Family Name"
+msgstr "Sukunimi"
+
+#: /tmp/repo/src/groups/create-group.html:36
+msgid "Fiels"
+msgstr "Fiels"
+
+#: /tmp/repo/src/groups/create-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:36
+msgid "Files"
+msgstr "Tiedostot"
+
+#: /tmp/repo/src/profile/profile.html:20 /tmp/repo/src/profile/profile.html:28
+#: /tmp/repo/src/profile/profile.html:30 /tmp/repo/src/profile/profile.html:31
+msgid "First Name"
+msgstr "Etunimi"
+
+#: /tmp/repo/src/profile/profile.html:47 /tmp/repo/src/profile/profile.html:63
+#: /tmp/repo/src/profile/profile.html:66 /tmp/repo/src/profile/profile.html:71
+msgid "Gender"
+msgstr "sukupuoli"
+
+#: /tmp/repo/src/users/create-user.html:21
+#: /tmp/repo/src/users/create-user.html:23
+msgid "Given Name"
+msgstr "Annettu nimi"
+
+#: /tmp/repo/src/groups/create-group.html:13
+msgid "Group Info"
+msgstr "Ryhmän tiedot"
+
+#: /tmp/repo/src/groups/edit-group.html:13
+msgid "Group Info <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+msgstr "Ryhmän tiedot <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+
+#: /tmp/repo/src/groups/create-group.html:53
+#: /tmp/repo/src/groups/edit-group.html:55
+msgid "Group Permissions"
+msgstr "Ryhmäoikeudet"
+
+#: /tmp/repo/src/groups/groups.controller.js:27
+#: /tmp/repo/src/root/root.html:23
+msgid "Groups"
+msgstr "ryhmät"
+
+#: /tmp/repo/src/root/root.html:34
+msgid "Hello"
+msgstr "Hei"
+
+#: /tmp/repo/src/groups/create-group.html:42
+#: /tmp/repo/src/groups/create-group.html:44
+#: /tmp/repo/src/groups/edit-group.html:42
+#: /tmp/repo/src/groups/edit-group.html:44
+msgid "Images"
+msgstr "kuvat"
+
+#: /tmp/repo/src/root/root.html:3
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript ei ole käytössä. Ota se käyttöön."
+
+#: /tmp/repo/src/profile/profile.html:185
+#: /tmp/repo/src/profile/profile.html:187
+#: /tmp/repo/src/profile/profile.html:192
+#: /tmp/repo/src/users/create-user.html:35
+#: /tmp/repo/src/users/create-user.html:40
+#: /tmp/repo/src/users/create-user.html:46
+msgid "Language"
+msgstr "Kieli"
+
+#: /tmp/repo/src/profile/profile.html:181
+msgid "Language &amp; Region"
+msgstr "Kieli ja alue"
+
+#: /tmp/repo/src/profile/profile.html:23 /tmp/repo/src/profile/profile.html:35
+#: /tmp/repo/src/profile/profile.html:37 /tmp/repo/src/profile/profile.html:38
+msgid "Last Name"
+msgstr "Sukunimi"
+
+#: /tmp/repo/src/cases/assign-case.html:4 /tmp/repo/src/cases/cases.html:219
+#: /tmp/repo/src/cases/create-case.html:4 /tmp/repo/src/cases/edit-case.html:4
+#: /tmp/repo/src/groups/create-group.html:4
+#: /tmp/repo/src/groups/edit-group.html:4 /tmp/repo/src/groups/groups.html:4
+#: /tmp/repo/src/profile/profile.html:3
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:5
+#: /tmp/repo/src/settings/module/module-settings.html:4
+#: /tmp/repo/src/users/add-user.html:4 /tmp/repo/src/users/create-user.html:4
+#: /tmp/repo/src/users/edit-user.html:4 /tmp/repo/src/users/users.html:4
+msgid "Loading..."
+msgstr "Ladataan..."
+
+#: /tmp/repo/src/profile/profile.html:104
+msgid "Location"
+msgstr "Sijainti"
+
+#: /tmp/repo/src/root/root.html:42
+msgid "Log out"
+msgstr "Kirjautua ulos"
+
+#: /tmp/repo/src/root/root.html:27
+msgid "Logout"
+msgstr "Kirjautua ulos"
+
+#: /tmp/repo/src/login/login.html:20 /tmp/repo/src/root/root.html:126
+msgid "Made with"
+msgstr "Valmistettu"
+
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Module"
+msgstr "Moduuli"
+
+#: /tmp/repo/src/settings/module/module-settings.controller.js:33
+msgid "Modules"
+msgstr "moduulit"
+
+#: /tmp/repo/src/settings/module/module-settings.html:9
+msgid "Modules settings updated"
+msgstr "Moduulien asetukset päivittyvät"
+
+#: /tmp/repo/src/groups/create-group.html:17
+#: /tmp/repo/src/groups/create-group.html:19
+#: /tmp/repo/src/groups/edit-group.html:17
+#: /tmp/repo/src/groups/edit-group.html:19
+msgid "Name"
+msgstr "Nimi"
+
+#: /tmp/repo/src/cases/cases.html:180
+msgid "New Password"
+msgstr "uusi salasana"
+
+#: /tmp/repo/src/cases/cases.html:223
+msgid "No cases found."
+msgstr "Tapauksia ei löytynyt."
+
+#: /tmp/repo/src/groups/groups.html:8
+msgid "No group found."
+msgstr "Ryhmää ei löytynyt."
+
+#: /tmp/repo/src/users/users.html:8
+msgid "No user found."
+msgstr "Käyttäjää ei löytynyt."
+
+#: /tmp/repo/src/profile/profile.html:79
+msgid "Occupation"
+msgstr "ammatti"
+
+#: /tmp/repo/src/groups/create-group.html:55
+#: /tmp/repo/src/groups/edit-group.html:53
+msgid "Permission"
+msgstr "Lupa"
+
+#: /tmp/repo/src/profile/profile.controller.js:30
+msgid "Profile Settings"
+msgstr "Profiilin asetukset"
+
+#: /tmp/repo/src/cases/assign-case.html:33
+#: /tmp/repo/src/cases/edit-case.html:50
+#: /tmp/repo/src/groups/edit-group.html:74
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:60
+#: /tmp/repo/src/settings/module/module-settings.html:23
+#: /tmp/repo/src/users/edit-user.html:42
+msgid "Save"
+msgstr "Tallentaa"
+
+#: /tmp/repo/src/cases/assign-case.html:34
+#: /tmp/repo/src/cases/edit-case.html:51
+#: /tmp/repo/src/groups/edit-group.html:75
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:61
+#: /tmp/repo/src/settings/module/module-settings.html:24
+#: /tmp/repo/src/users/edit-user.html:43
+msgid "Saving..."
+msgstr "Tallentaa..."
+
+#: /tmp/repo/src/root/root.html:25
+msgid "Settings"
+msgstr "asetukset"
+
+#: /tmp/repo/src/login/login.html:10
+msgid "Sign In"
+msgstr "Kirjaudu sisään"
+
+#: /tmp/repo/src/profile/profile.html:142
+#: /tmp/repo/src/profile/profile.html:155
+#: /tmp/repo/src/profile/profile.html:156
+msgid "State/Region"
+msgstr "Osavaltio alue"
+
+#: /tmp/repo/src/cases/create-case.html:34
+#: /tmp/repo/src/cases/create-case.html:40
+#: /tmp/repo/src/cases/edit-case.html:38
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Status"
+msgstr "Status"
+
+#: /tmp/repo/src/cases/edit-case.html:44
+msgid "Status Opened"
+msgstr "Tila avattu"
+
+#: /tmp/repo/src/cases/create-case.html:22
+#: /tmp/repo/src/cases/create-case.html:24
+#: /tmp/repo/src/cases/edit-case.html:26 /tmp/repo/src/cases/edit-case.html:28
+msgid "Tag ID"
+msgstr "Tunnisteen tunnus"
+
+#: /tmp/repo/src/login/login.html:22 /tmp/repo/src/root/root.html:128
+msgid "Terms of Use"
+msgstr "Käyttöehdot"
+
+#: /tmp/repo/src/profile/profile.html:201
+#: /tmp/repo/src/profile/profile.html:203
+#: /tmp/repo/src/profile/profile.html:208
+#: /tmp/repo/src/users/create-user.html:51
+#: /tmp/repo/src/users/create-user.html:56
+#: /tmp/repo/src/users/create-user.html:62
+msgid "Timezone"
+msgstr "Aikavyöhyke"
+
+#: /tmp/repo/src/profile/profile.html:219
+msgid "Update"
+msgstr "Päivittää"
+
+#: /tmp/repo/src/profile/profile.html:220
+msgid "Updating"
+msgstr "päivittäminen"
+
+#: /tmp/repo/src/users/create-user.html:12
+msgid "User Info"
+msgstr "käyttäjätiedot"
+
+#: /tmp/repo/src/users/edit-user.html:16
+msgid "User Info <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+msgstr "Käyttäjätiedot <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+
+#: /tmp/repo/src/users/edit-user.html:29 /tmp/repo/src/users/edit-user.html:35
+msgid "User Status"
+msgstr "Käyttäjän tila"
+
+#: /tmp/repo/src/users/edit-user.html:20 /tmp/repo/src/users/edit-user.html:26
+msgid "User Type"
+msgstr "Käyttäjätyyppi"
+
+#: /tmp/repo/src/users/edit-user.html:8
+msgid "User not found."
+msgstr "Käyttäjää ei löydy."
+
+#: /tmp/repo/src/root/root.html:22 /tmp/repo/src/users/users.controller.js:31
+msgid "Users"
+msgstr "käyttäjät"
+
+#: /tmp/repo/src/groups/create-group.html:47
+#: /tmp/repo/src/groups/create-group.html:49
+#: /tmp/repo/src/groups/edit-group.html:47
+#: /tmp/repo/src/groups/edit-group.html:49
+msgid "Videos"
+msgstr "Videot"
+
+#: /tmp/repo/src/users/add-user.html:26
+msgid "Working..."
+msgstr "Working ..."
+
+#: /tmp/repo/src/profile/profile.html:148
+#: /tmp/repo/src/profile/profile.html:174
+#: /tmp/repo/src/profile/profile.html:175
+#: /tmp/repo/src/profile/profile.html:176
+msgid "Zip/Postal Code"
+msgstr "Postinumero"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "in New York City"
+msgstr "New Yorkissa"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "love"
+msgstr "rakkaus"
+
+#: /tmp/repo/src/cases/assign-case.html:22
+msgid "{{group.name}}"
+msgstr "{{ryhmän nimi}}"

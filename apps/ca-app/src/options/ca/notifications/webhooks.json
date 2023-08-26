@@ -1,0 +1,8 @@
+{
+  "add_post": "es crea la publicaci\u00f3",
+  "modify_post": "publicaci\u00f3 modificada",
+  "delete_post": "la publicaci\u00f3 s'ha suprimit",
+  "add_post_comment": "es crea el comentari de publicaci\u00f3",
+  "modify_post_comment": "el comentari de la publicaci\u00f3 es modifica",
+  "delete_post_comment": "el comentari de la publicaci\u00f3 se suprimeix"
+}

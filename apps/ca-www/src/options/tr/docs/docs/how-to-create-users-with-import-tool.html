@@ -1,0 +1,83 @@
+<h1 id="how-to-create-users-with-import-tool">İçe Aktarma Aracı ile Kullanıcı Oluşturma</h1>
+<p>Bu makale yöneticilere, İçe Aktarma aracıyla nasıl kullanıcı oluşturulacağını gösterir.</p>
+<h2 id="opening-the-import-tool">İçe Aktarma aracını açma</h2>
+<p>
+  Yöneticiler, yeni kullanıcıları toplu yüklemek ve mevcut kullanıcı kayıtlarını değiştirmek için İçe Aktarma aracını
+  kullanabilir.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Yönetici hesabında oturum açın.</li>
+  <li>Uygulamalar sayfasında bir uygulama bulun ve YÖNETİCİ düğmesine tıklayın.</li>
+  <li>Yönetici panelinde, Entegrasyon sekmesine ve ardından alt menüde İTHALATLAR&#39;a tıklayın.</li>
+  <li>YENİ düğmesine tıklayın. İçe Aktarma Ekle iletişim kutusu yeni bir tarayıcı sekmesinde görüntülenir.</li>
+</ol>
+<div class="figure"><img src="/images/import-3.png" alt="img" /></div>
+<h2 id="creating-records">kayıt oluşturma</h2>
+<p>İthalat Ekle iletişim kutusu açıldıktan sonra:</p>
+<ol style="list-style-type: decimal">
+  <li><strong>Tür</strong> alanını tıklayın ve bir seçenek belirleyin (aşağıya bakın). Bir bağlantı görüntülenir.</li>
+  <li><strong>Örneği İndir</strong> bağlantısını tıklayın. Cihazınıza bir CSV dosyası indirilir.</li>
+</ol>
+<p>
+  Ardından, dosyayı açın ve kayıtları ekleyin. Biçim verilerinin CSV dosyasında nasıl kullanılacağını öğrenmek için
+  <a href="docs/how-to-format-csv-data" target="_blank">buraya</a> tıklayın.
+</p>
+<div class="figure"><img src="/images/import-4.png" alt="img" /></div>
+<h2 id="type">Tip</h2>
+<p>Tür alanını tıklattığınızda, bir açılır menü görüntülenir. Toplu içe aktarma için iki seçenekten birini seçin.</p>
+<p>
+  :ünlem: <strong>NOT</strong> Açılır menüde pek çok seçenek vardır, ancak yalnızca ikisi İçe Aktarma aracıyla
+  ilgilidir. Her seçeneğin farklı bir örnek CSV dosyası vardır.
+</p>
+<h3 id="add-users">kullanıcı ekle</h3>
+<ul>
+  <li>Kullanıcı kayıtlarının basit bir toplu yüklemesi için bu seçeneği belirleyin.</li>
+  <li>
+    Kullanıcı ekle İçe aktarma türü için sütun başlıkları içeren bir CSV dosyası açmak için Örneği İndir bağlantısını
+    tıklayın.
+  </li>
+</ul>
+<h3 id="modify-users">Kullanıcıları değiştir</h3>
+<ul>
+  <li>Mevcut kullanıcıların verilerini güncellemek için bu seçeneği belirleyin.</li>
+  <li>
+    Kullanıcıları İçe Aktarma türü için sütun başlıkları içeren bir CSV dosyası açmak için Örneği İndir bağlantısını
+    tıklayın.
+  </li>
+</ul>
+<h2 id="uploading-the-file">dosya yükleniyor</h2>
+<p>
+  Hemen bir dosya yükleyebilir veya daha sonra İçe Aktarma Ekle iletişim kutusuna dönerek bu adımları
+  tamamlayabilirsiniz.
+</p>
+<ol style="list-style-type: decimal">
+  <li>İthalat Ekle iletişim kutusunu açın.</li>
+  <li>CSV dosyası için benzersiz bir ad girin.</li>
+  <li>Dosyayı cihazınızdan yüklemek için artı (+) simgesine tıklayın.</li>
+  <li><strong>Tür</strong> alanını tıklayın ve bir seçenek belirleyin. (yukarıyı görmek)</li>
+  <li>KAYDET&#39;i tıklayın.</li>
+</ol>
+<div class="figure"><img src="/images/import-5.png" alt="img" /></div>
+<h2 id="processing">İşleme</h2>
+<p>
+  Dosyadaki kayıt sayısına ve sistem yüküne bağlı olarak, platformun içe aktarmayı işlemesi birkaç dakika sürebilir.
+</p>
+<div class="figure"><img src="/images/import-6.png" alt="img" /></div>
+<p>
+  İçe aktarma tamamlandığında platform, yöneticinin <strong>Kullanıcılar</strong> panosunda kullanıcı kayıtlarını
+  ayarlar (yani ekler, değiştirir veya devre dışı bırakır).
+</p>
+<h2 id="failure">Arıza</h2>
+<p>
+  İçeri aktarma işlemi başarısız olursa, platform bir Başarısız mesajı döndürür. Çoğu durumda, başarısızlığın nedeni
+  veri biçimlendirmedir.
+</p>
+<div class="figure"><img src="/images/import-7.png" alt="img" /></div>
+<p>Başarısızlığın nedenini görmek için:</p>
+<ol style="list-style-type: decimal">
+  <li>Eylem başlığı altında <strong>Görüntüle&#39;yi</strong> tıklayın.</li>
+  <li>Bir sonraki sayfada, fareyi Başarısız simgesinin üzerine getirin. Araç ipucu hatayı görüntüler.</li>
+  <li>CVS dosyasına gidin ve hatayı düzeltip düzeltin.</li>
+  <li>Dosyayı tekrar yükleyin.</li>
+</ol>
+<div class="figure"><img src="/images/import-8.png" alt="img" /></div>

@@ -1,0 +1,65 @@
+<div class="notify-field">
+  <div class="line-block" *ngIf="defaultShow">
+    <div class="ntf-item">
+      <input type="text" value="Notify Now" disabled />
+    </div>
+    <div class="ntf-item">
+      <input type="number" value="0" disabled />
+    </div>
+    <div class="ntf-item">
+      <input type="text" value="Minutes" disabled />
+    </div>
+    <div class="ntf-item input-remove" *ngIf="enabled">
+      <a (click)="removeDefaultNotification()"></a>
+    </div>
+  </div>
+  <form [formGroup]="notificationsForm">
+    <div
+      class="line-block"
+      formArrayName="notifications"
+      *ngFor="let notificationForm of notificationsControls; let index = index"
+    >
+      <div class="ntf-item-group" [formGroup]="notificationForm">
+        <div class="ntf-item">
+          <ng-select
+            class="notification-type-select"
+            bindLabel="text"
+            bindValue="id"
+            formControlName="type"
+            [items]="notificationTypes"
+          ></ng-select>
+        </div>
+        <div class="ntf-item">
+          <input type="number" formControlName="count" (keyup)="triggerChange()" />
+        </div>
+        <div class="ntf-item">
+          <ng-select
+            bindLabel="period"
+            bindValue="id"
+            formControlName="period"
+            [items]="repeatItems"
+            [searchable]="false"
+            [clearable]="false"
+            (change)="triggerChange()"
+          ></ng-select>
+        </div>
+        <div class="ntf-item input-remove" *ngIf="enabled">
+          <a (click)="removeNotification(index)"></a>
+        </div>
+      </div>
+      <p
+        class="notice-a c"
+        *ngIf="notificationForm.controls?.['period']?.value === 'mins' && notificationForm.controls?.['count']?.value < 1"
+        translate
+      >
+        Value should be greater or equal to 1
+      </p>
+    </div>
+  </form>
+
+  <div class="add-notification" *ngIf="enabled">
+    <p class="link-b" *ngIf="notifications.length < 4">
+      <a (click)="addNotification()"><i class="icon-plus"></i> Add Notification</a>
+    </p>
+  </div>
+</div>

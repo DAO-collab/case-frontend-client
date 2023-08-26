@@ -1,0 +1,39 @@
+input#fcsa {
+  padding-left: 98px;
+}
+
+#phoneNumberInput {
+  display: block;
+  padding-left: 79px;
+}
+
+::ng-deep #phoneNumberInput .flagInput {
+  background-color: #f5f5f5;
+  border: none;
+  border-right: 1px solid #ddd;
+}
+
+::ng-deep #phoneNumberInput .dropbtn {
+  background-color: transparent !important;
+  margin-top: 6px !important;
+}
+
+::ng-deep #phoneNumberInput .dropbtn .arrow-down {
+  border-top-color: #939393;
+  margin-left: 6px;
+  border-width: 5px 4px 0 4px;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.drop-a.dropform .drop {
+  margin-top: 0 !important;
+}

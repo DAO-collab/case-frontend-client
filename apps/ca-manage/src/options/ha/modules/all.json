@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Karanta duk filin shari&#39;ar da aka \u0199ayyade a cikin rawar",
+    "write": "Rubuta duk filin shari&#39;ar da aka \u0199ayyade a cikin rawar"
+  },
+  "convos": {
+    "read_all": "Duba halin yanzu na convos.",
+    "manage_own": "Shiga kuma cire ha\u0257in convo.",
+    "moderate_others": "Fara convo, \u0199are convo, kuma cire \u0257an takara.",
+    "read_all_submissions": "Karanta duk rikodin rikodin."
+  },
+  "events": {
+    "read_all": "Karanta duk abubuwan da suka faru.",
+    "manage_own": "\u0198ir\u0199iri, sabunta kuma share abin da ya faru.",
+    "moderate_others": "Sabunta kuma share taron wani.",
+    "read_all_submissions": "Karanta duk tabbacin taron.",
+    "submit_own": "Tabbatar da bu\u0199atar halartar taron."
+  },
+  "posts": {
+    "read_all": "Karanta duk posts.",
+    "manage_own": "\u0198ir\u0199iri, sabunta kuma share nasu sakon.",
+    "moderate_others": "Sabunta kuma share sakon sauran."
+  },
+  "forms": {
+    "read_all": "Karanta kowane nau&#39;i.",
+    "manage_own": "\u0198ir\u0199iri, sabunta kuma share nau&#39;in kansa.",
+    "moderate_others": "Sabunta kuma share sigar wasu.",
+    "read_all_submissions": "Karanta duk bayanan da aka gabatar.",
+    "submit_own": "\u0198addamar da bu\u0199atar fom."
+  },
+  "invoices": {
+    "read_all": "Karanta duk daftari.",
+    "manage_own": "\u0198ir\u0199iri, sabunta kuma share daftarin ku.",
+    "moderate_others": "Sabunta kuma share daftarin wasu.",
+    "read_all_submissions": "Karanta duk \u0199addamar da daftari.",
+    "submit_own": "\u0198addamar da bu\u0199atar daftari."
+  },
+  "notes": {
+    "read_all": "Karanta duk bayanin kula.",
+    "manage_own": "\u0198ir\u0199iri, sabunta kuma share bayanin kula.",
+    "moderate_others": "Sabunta kuma share bayanan wasu."
+  },
+  "signs": {
+    "read_all": "Karanta duk e-alamu.",
+    "manage_own": "\u0198ir\u0199iri, sabunta kuma share alamar e-signa.",
+    "moderate_others": "Sabunta kuma share alamar e-shirin sauran.",
+    "read_all_submissions": "Karanta duk bayanan e-sign.",
+    "submit_own": "\u0198addamar da bu\u0199atar filin."
+  },
+  "tasks": {
+    "read_all": "Karanta duk ayyuka.",
+    "manage_own": "\u0198ir\u0199iri, sabunta kuma share aikin nasu.",
+    "moderate_others": "Sabunta kuma share ayyukan wasu.",
+    "read_all_submissions": "Karanta duk \u0199addamar da ayyuka.",
+    "submit_own": "\u0198addamar da bu\u0199atar \u0257awainiya."
+  },
+  "team": { "read_all": "Karanta \u0199ungiyar idan akwai" }
+}

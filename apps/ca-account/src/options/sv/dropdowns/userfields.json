@@ -1,0 +1,18 @@
+{
+  "family_name": "Efternamn",
+  "given_name": "F\u00f6rnamn",
+  "locale": "\u00d6nskat spr\u00e5k",
+  "zoneinfo": "Tidszon",
+  "email": "E-postadress",
+  "phone": "Telefonnummer",
+  "address1": "Gatuadress",
+  "address2": "Apt # eller enhet #",
+  "locality": "Stad eller ort",
+  "region": "Stat eller region",
+  "postal_code": "Postnummer eller postnummer",
+  "country": "Land",
+  "birthdate": "F\u00f6delsedatum",
+  "gender": "K\u00f6n",
+  "company": "F\u00f6retag",
+  "title": "Namn titel"
+}

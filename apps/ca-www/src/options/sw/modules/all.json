@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Soma sehemu zote za kesi bainisha katika jukumu",
+    "write": "Andika sehemu zote za kesi bainisha katika jukumu"
+  },
+  "convos": {
+    "read_all": "Tazama hali ya sasa ya mazungumzo.",
+    "manage_own": "Jiunge na uondoe mazungumzo.",
+    "moderate_others": "Anzisha mazungumzo, malizia kongamano, na umwondoe mshiriki.",
+    "read_all_submissions": "Soma mazungumzo yote yaliyorekodiwa."
+  },
+  "events": {
+    "read_all": "Soma matukio yote.",
+    "manage_own": "Unda, sasisha na ufute tukio lako mwenyewe.",
+    "moderate_others": "Sasisha na ufute tukio la wengine.",
+    "read_all_submissions": "Soma uthibitisho wote wa tukio.",
+    "submit_own": "Thibitisha ombi la kuhudhuria tukio."
+  },
+  "posts": {
+    "read_all": "Soma machapisho yote.",
+    "manage_own": "Unda, sasisha na ufute chapisho lako.",
+    "moderate_others": "Sasisha na ufute chapisho la wengine."
+  },
+  "forms": {
+    "read_all": "Soma fomu zote.",
+    "manage_own": "Unda, sasisha na ufute fomu yako mwenyewe.",
+    "moderate_others": "Sasisha na ufute fomu ya wengine.",
+    "read_all_submissions": "Soma mawasilisho yote ya fomu.",
+    "submit_own": "Peana ombi la fomu."
+  },
+  "invoices": {
+    "read_all": "Soma ankara zote.",
+    "manage_own": "Unda, sasisha na ufute ankara yako mwenyewe.",
+    "moderate_others": "Sasisha na ufute ankara ya wengine.",
+    "read_all_submissions": "Soma mawasilisho yote ya ankara.",
+    "submit_own": "Wasilisha ombi la ankara."
+  },
+  "notes": {
+    "read_all": "Soma maelezo yote.",
+    "manage_own": "Unda, sasisha na ufute dokezo lako.",
+    "moderate_others": "Sasisha na ufute dokezo la wengine."
+  },
+  "signs": {
+    "read_all": "Soma alama zote za kielektroniki.",
+    "manage_own": "Unda, sasisha na ufute ishara yako ya kielektroniki.",
+    "moderate_others": "Sasisha na ufute e-sign ya wengine.",
+    "read_all_submissions": "Soma mawasilisho yote ya e-sign.",
+    "submit_own": "Peana ombi la uga."
+  },
+  "tasks": {
+    "read_all": "Soma kazi zote.",
+    "manage_own": "Unda, sasisha na ufute kazi yako mwenyewe.",
+    "moderate_others": "Sasisha na ufute kazi ya wengine.",
+    "read_all_submissions": "Soma mawasilisho yote ya kazi.",
+    "submit_own": "Tuma ombi la kazi."
+  },
+  "team": { "read_all": "Soma timu katika kesi" }
+}

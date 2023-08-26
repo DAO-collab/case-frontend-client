@@ -1,0 +1,141 @@
+<article id="content" class="tabs fullscreen-page" [class.module-d]="!form">
+  <ng-container *ngIf="userService.currentFormsPermissions.indexOf('submit_own') > -1 && !loading">
+    <div style="display: flex; width: 100%">
+      <div class="content-left-panel">
+        <h2 class="left-panel-title" translate>Pages</h2>
+        <div class="content-left-panel-inner">
+          <cdk-virtual-scroll-viewport itemSize="164" minBufferPx="2000" maxBufferPx="2000" style="height: 100%">
+            <div
+              class="doc-page"
+              *cdkVirtualFor="let page of pages; let index = index"
+              (click)="switchDocumentPage(index)"
+            >
+              <div class="page-menu-item">
+                <span class="section" [ngClass]="{ selected: activeDocPage == index + 1 }">Page {{ index + 1 }}</span>
+              </div>
+              <ng-container *ngFor="let field of prepareShowingPage(index)">
+                <span class="section sub">{{ field.title }}</span>
+              </ng-container>
+            </div>
+          </cdk-virtual-scroll-viewport>
+        </div>
+      </div>
+      <div class="content-main-panel">
+        <div class="header-content">
+          <h2 class="header-breadcrumb">
+            <span translate>Forms</span><img src="../../../../images/arrow-right-dark.svg" alt="#" />
+            <span>{{ shorTitleName($any(title), 40) || 'Submit New Form Builder' }}</span>
+          </h2>
+          <div>
+            <button class="primary-outline custom-color-builder-button" (click)="backToForms()" translate>Close</button>
+          </div>
+        </div>
+        <figure>
+          <div class="text-center">
+            <div
+              class="documents-list"
+              style="height: 60vh; width: 100%; overflow-y: auto"
+              [ngClass]="{ centered: !checkObjectKeys(metaData).length }"
+            >
+              <div class="document-image-wrapper">
+                <app-form-preview
+                  [components]="components"
+                  [submission]="saveModel"
+                  [userField]="userField"
+                  [realVariable]="realVariable"
+                  (onChange)="handleSubmission($event)"
+                ></app-form-preview>
+              </div>
+            </div>
+          </div>
+        </figure>
+        <br />
+      </div>
+      <div class="content-right-panel">
+        <h2 class="right-panel-title" translate>Action Required</h2>
+
+        <div *ngIf="pages.length">
+          <div class="properties-section" *ngFor="let page of pages; let index = index">
+            <span class="property-page-title"><span translate>Page</span> {{ index + 1 }}</span>
+            <div *ngFor="let property of prepareShowingPage(index); let i = index" class="property-section">
+              <!--                <ng-container *ngIf="property.require">-->
+              <div class="cursor-pointer" *ngIf="property.title" (click)="switchDocumentPage(index)">
+                <label class="container cg-box">
+                  <input
+                    type="checkbox"
+                    name="defaultsField"
+                    class="form-control"
+                    [checked]="
+                      saveModel[property.key] && saveModel[property.key] !== ' ' && saveModel[property.key].length !== 0
+                    "
+                    disabled
+                  />
+                  <span class="checkmark"></span>
+                </label>
+                <span *ngIf="property.fieldType === 'text-only'; else defaultTitle" [innerHTML]="property.title"></span>
+
+                <ng-template #defaultTitle>
+                  <span>{{ property.title }}</span>
+                </ng-template>
+                <!--                    <img src="../../../../images/element-point.svg" />-->
+              </div>
+              <div *ngIf="property.title">
+                <a class="" (click)="switchDocumentPage(index)">
+                  <img src="../../../../images/element-arrow.svg" />
+                </a>
+              </div>
+              <!--                </ng-container>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="send-from" style="display: flex; width: 100%">
+      <div class="content-left-panel send-form-left"></div>
+      <div class="content-main-panel send-form-main">
+        <p
+          class="double submit"
+          style="margin-top: 0; padding: 15px; border-top: none"
+          *ngIf="!loading && !blockFields"
+        >
+          <span class="notice-a" *ngIf="savingError" translate>{{ savingError }}</span>
+
+          <button type="submit" style="margin: 0px" (click)="$event.preventDefault(); save()">
+            <span translate>Send Form</span>
+          </button>
+
+          <button translate (click)="backToForms()" type="reset">Cancel</button>
+        </p>
+      </div>
+      <div class="content-right-panel send-form-right"></div>
+    </div>
+    <!-- Form Builder -->
+    <div *ngIf="formUpdated && !loading">
+      <p class="notice-a" translate>Form Submited.</p>
+    </div>
+
+    <!--    <p class="double submit" style="margin-top: 0; padding: 20px;" *ngIf="!loading && !blockFields">-->
+    <!--      <span class="notice-a" *ngIf="savingError" translate>{{ savingError }}</span>-->
+
+    <!--      <button type="submit" (click)="$event.preventDefault(); save()">-->
+    <!--        <span translate>Send Form</span>-->
+    <!--      </button>-->
+
+    <!--      <button translate (click)="backToForms()" type="reset">Cancel</button>-->
+    <!--    </p>-->
+  </ng-container>
+
+  <ng-container *ngIf="userService.currentFormsPermissions.indexOf('submit_own') === -1 && !loading">
+    <p class="notice-a" translate>You don't have permissions to submit forms.</p>
+  </ng-container>
+
+  <div class="loading-spinner" *ngIf="loading">
+    <div>
+      <p class="text-center" translate>
+        <span class="loader loader-bubbles">
+          <span></span>
+        </span>
+      </p>
+    </div>
+  </div>
+</article>

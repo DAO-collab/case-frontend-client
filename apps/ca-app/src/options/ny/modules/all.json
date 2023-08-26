@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Werengani nkhani zonse zomwe zafotokozedwa mwatsatanetsatane",
+    "write": "Lembani nkhani zonse zomwe mwasankha"
+  },
+  "convos": {
+    "read_all": "Onani momwe ma convos alipo.",
+    "manage_own": "Lowani ndikuchotsa convo.",
+    "moderate_others": "Yambitsani convo, thetsani zokambirana, ndikuchotsani otenga nawo mbali.",
+    "read_all_submissions": "Werengani zokambirana zonse zojambulidwa."
+  },
+  "events": {
+    "read_all": "Werengani zochitika zonse.",
+    "manage_own": "Pangani, sinthani ndi kufufuta zochitika zanu.",
+    "moderate_others": "Sinthani ndi kufufuta zochitika za ena.",
+    "read_all_submissions": "Werengani zitsimikizo zonse za zochitika.",
+    "submit_own": "Tsimikizirani pempho la kupezeka pazochitika."
+  },
+  "posts": {
+    "read_all": "Werengani zolemba zonse.",
+    "manage_own": "Pangani, sinthani ndi kufufuta zanu.",
+    "moderate_others": "Sinthani ndikuchotsa zolemba za ena."
+  },
+  "forms": {
+    "read_all": "Werengani mafomu onse.",
+    "manage_own": "Pangani, sinthani ndi kufufuta fomu yanu.",
+    "moderate_others": "Sinthani ndi kufufuta ena mawonekedwe.",
+    "read_all_submissions": "Werengani zonse zomwe zaperekedwa.",
+    "submit_own": "Tumizani fomu yofunsira."
+  },
+  "invoices": {
+    "read_all": "Werengani ma invoice onse.",
+    "manage_own": "Pangani, sinthani ndi kufufuta ma invoice anu.",
+    "moderate_others": "Sinthani ndi kufufuta ma invoice ena.",
+    "read_all_submissions": "Werengani zonse zomwe zaperekedwa.",
+    "submit_own": "Tumizani pempho la invoice."
+  },
+  "notes": {
+    "read_all": "Werengani zolemba zonse.",
+    "manage_own": "Pangani, sinthani ndi kufufuta zolemba zanu.",
+    "moderate_others": "Sinthani ndikuchotsa zolemba za ena."
+  },
+  "signs": {
+    "read_all": "Werengani ma e-signs onse.",
+    "manage_own": "Pangani, sinthani ndi kufufuta e-sign yanu.",
+    "moderate_others": "Sinthani ndi kufufuta ena e-sign.",
+    "read_all_submissions": "Werengani zolemba zonse za e-sign.",
+    "submit_own": "Tumizani zomwe mukufuna."
+  },
+  "tasks": {
+    "read_all": "Werengani ntchito zonse.",
+    "manage_own": "Pangani, sinthani ndi kufufuta ntchito yanu.",
+    "moderate_others": "Sinthani ndi kufufuta ntchito za ena.",
+    "read_all_submissions": "Werengani zonse zomwe zaperekedwa.",
+    "submit_own": "Tumizani pempho la ntchito."
+  },
+  "team": { "read_all": "Werengani gulu ngati zingatheke" }
+}

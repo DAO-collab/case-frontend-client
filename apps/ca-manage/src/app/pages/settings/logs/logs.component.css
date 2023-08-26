@@ -1,0 +1,28 @@
+i.icon-refresh {
+  font-size: 17px;
+}
+
+tr.shadowed-item.logs-head {
+  background: #e65100;
+}
+
+tr.shadowed-item.logs-head th {
+  color: #fff;
+  padding: 5px 5px;
+  font-weight: 600;
+}
+
+tr.shadowed-item.logs-items-list {
+  background: #fff8ec;
+}
+
+tr.shadowed-item.logs-items-list th {
+  padding: 5px 5px;
+  font-weight: 600;
+}
+
+@media only screen and (min-width: 62.5em) {
+  #content .form-f p.a {
+    width: 27%;
+  }
+}

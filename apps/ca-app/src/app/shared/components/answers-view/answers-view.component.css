@@ -1,0 +1,22 @@
+ul li a img {
+  margin-right: 5px;
+}
+
+ul li a {
+  color: #4b5153;
+  font-size: 1em;
+  text-transform: none;
+}
+
+.gallery-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin: 3px 0 !important;
+}
+
+.gallery-item button {
+  padding: 5px 20px;
+  margin: 0;
+}

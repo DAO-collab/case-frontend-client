@@ -1,0 +1,519 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-01-15T21:57:38.230641\n"
+"PO-Revision-Date: 2018-01-15T21:57:39.090195\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/repo/src/cases/create-case.html:17
+#: /tmp/repo/src/cases/create-case.html:19
+#: /tmp/repo/src/cases/edit-case.html:21 /tmp/repo/src/cases/edit-case.html:23
+msgid "About"
+msgstr "약"
+
+#: /tmp/repo/src/users/create-user.html:70
+msgid "Add"
+msgstr "더하다"
+
+#: /tmp/repo/src/users/add-user.controller.js:14
+msgid "Add User"
+msgstr "사용자 추가"
+
+#: /tmp/repo/src/users/create-user.html:71
+msgid "Adding..."
+msgstr "첨가..."
+
+#: /tmp/repo/src/profile/profile.html:107
+#: /tmp/repo/src/profile/profile.html:119
+#: /tmp/repo/src/profile/profile.html:121
+#: /tmp/repo/src/profile/profile.html:122
+msgid "Address"
+msgstr "주소"
+
+#: /tmp/repo/src/profile/profile.html:110
+#: /tmp/repo/src/profile/profile.html:126
+#: /tmp/repo/src/profile/profile.html:128
+#: /tmp/repo/src/profile/profile.html:129
+msgid "Address 2"
+msgstr "주소 2"
+
+#: /tmp/repo/src/root/root.html:127
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "판권 소유"
+
+#: /tmp/repo/src/login/login.html:21
+msgid ""
+"All rights\n"
+"        reserved"
+msgstr "판권 소유"
+
+#: /tmp/repo/src/cases/assign-user.controller.js:20
+msgid "Assign User"
+msgstr "사용자 지정"
+
+#: /tmp/repo/src/groups/create-group.html:24
+#: /tmp/repo/src/groups/create-group.html:26
+#: /tmp/repo/src/groups/edit-group.html:24
+#: /tmp/repo/src/groups/edit-group.html:26
+msgid "Audios"
+msgstr "오디오"
+
+#: /tmp/repo/src/profile/profile.html:11
+msgid "Basic"
+msgstr "기본"
+
+#: /tmp/repo/src/cases/assign-case.html:37
+#: /tmp/repo/src/cases/create-case.html:50
+#: /tmp/repo/src/cases/edit-case.html:54
+#: /tmp/repo/src/groups/create-group.html:74
+#: /tmp/repo/src/groups/edit-group.html:78
+#: /tmp/repo/src/profile/profile.html:222 /tmp/repo/src/users/add-user.html:28
+#: /tmp/repo/src/users/create-user.html:73
+#: /tmp/repo/src/users/edit-user.html:45
+msgid "Cancel"
+msgstr "취소"
+
+#: /tmp/repo/src/cases/assign-case.html:17
+msgid "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+msgstr "사례 할당 <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform.controller.js:27
+msgid "Case Form Fields"
+msgstr "사례 양식 필드"
+
+#: /tmp/repo/src/cases/create-case.html:13
+msgid "Case Info"
+msgstr "사례 정보"
+
+#: /tmp/repo/src/cases/edit-case.html:17
+msgid "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+msgstr "사례 정보 <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:9
+msgid "Case form updated"
+msgstr "사례 양식이 업데이트되었습니다."
+
+#: /tmp/repo/src/cases/assign-case.html:8 /tmp/repo/src/cases/edit-case.html:8
+msgid "Case not found!"
+msgstr "사례를 찾을 수 없습니다!"
+
+#: /tmp/repo/src/index.html:5 /tmp/repo/src/login/login.html:21
+#: /tmp/repo/src/root/root.html:127
+msgid "CaseActive"
+msgstr "CaseActive"
+
+#: /tmp/repo/src/cases/cases.controller.js:31 /tmp/repo/src/root/root.html:21
+msgid "Cases"
+msgstr "사례"
+
+#: /tmp/repo/src/profile/profile.html:113
+msgid ""
+"City\n"
+"                    /Locality"
+msgstr "도시 / 지역"
+
+#: /tmp/repo/src/profile/profile.html:133
+#: /tmp/repo/src/profile/profile.html:135
+#: /tmp/repo/src/profile/profile.html:136
+msgid "City/Locality"
+msgstr "도시 / 지역"
+
+#: /tmp/repo/src/profile/profile.html:82 /tmp/repo/src/profile/profile.html:90
+#: /tmp/repo/src/profile/profile.html:92 /tmp/repo/src/profile/profile.html:93
+msgid "Company Name"
+msgstr "회사 이름"
+
+#: /tmp/repo/src/profile/profile.html:100
+#: /tmp/repo/src/profile/profile.html:85 /tmp/repo/src/profile/profile.html:97
+#: /tmp/repo/src/profile/profile.html:99
+msgid "Company Title"
+msgstr "회사 명"
+
+#: /tmp/repo/src/cases/cases.html:199
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+#: /tmp/repo/src/root/root.html:24
+msgid "Content"
+msgstr "함유량"
+
+#: /tmp/repo/src/users/add-user.html:25
+msgid "Continue"
+msgstr "잇다"
+
+#: /tmp/repo/src/root/root.html:7
+msgid "Cookies are disabled. Please enable it."
+msgstr "쿠키는 사용할 수 없습니다. 활성화하십시오."
+
+#: /tmp/repo/src/profile/profile.html:145
+#: /tmp/repo/src/profile/profile.html:160
+#: /tmp/repo/src/profile/profile.html:162
+#: /tmp/repo/src/profile/profile.html:164
+#: /tmp/repo/src/profile/profile.html:166
+msgid "Country"
+msgstr "국가"
+
+#: /tmp/repo/src/cases/create-case.html:46
+#: /tmp/repo/src/groups/create-group.html:70
+msgid "Create"
+msgstr "몹시 떠들어 대다"
+
+#: /tmp/repo/src/cases/create-case.controller.js:16
+msgid "Create Case"
+msgstr "사례 작성"
+
+#: /tmp/repo/src/groups/create-group.controller.js:16
+msgid "Create Group"
+msgstr "그룹 만들기"
+
+#: /tmp/repo/src/users/create-user.controller.js:16
+msgid "Create User"
+msgstr "사용자 만들기"
+
+#: /tmp/repo/src/cases/cases.html:224
+msgid "Create a case for a business"
+msgstr "비즈니스를위한 사례 만들기"
+
+#: /tmp/repo/src/users/users.html:9
+msgid "Create an user"
+msgstr "사용자 만들기"
+
+#: /tmp/repo/src/cases/create-case.html:47
+#: /tmp/repo/src/groups/create-group.html:71
+msgid "Creating..."
+msgstr "생성 중 ..."
+
+#: /tmp/repo/src/cases/cases.html:167
+msgid "Current Password"
+msgstr "현재 비밀번호"
+
+#: /tmp/repo/src/dashboard/dashboard.controller.js:25
+#: /tmp/repo/src/root/root.html:19
+msgid "Dashboard"
+msgstr "계기반"
+
+#: /tmp/repo/src/cases/create-case.html:29
+#: /tmp/repo/src/cases/create-case.html:31
+#: /tmp/repo/src/cases/edit-case.html:33 /tmp/repo/src/cases/edit-case.html:35
+msgid "Date Opened"
+msgstr "열린 날짜"
+
+#: /tmp/repo/src/profile/profile.html:44 /tmp/repo/src/profile/profile.html:52
+#: /tmp/repo/src/profile/profile.html:54 /tmp/repo/src/profile/profile.html:55
+msgid "Date of Birth"
+msgstr "생년월일"
+
+#: /tmp/repo/src/settings/design/design.controller.js:33
+msgid "Design"
+msgstr "디자인"
+
+#: /tmp/repo/src/groups/create-group.html:29
+#: /tmp/repo/src/groups/create-group.html:31
+#: /tmp/repo/src/groups/edit-group.html:29
+#: /tmp/repo/src/groups/edit-group.html:31
+msgid "Documents"
+msgstr "서류"
+
+#: /tmp/repo/src/cases/edit-case.controller.js:15
+msgid "Edit Case"
+msgstr "사례 편집"
+
+#: /tmp/repo/src/groups/edit-group.controller.js:16
+msgid "Edit Group"
+msgstr "그룹 수정"
+
+#: /tmp/repo/src/users/edit-user.controller.js:16
+msgid "Edit User"
+msgstr "사용자 편집"
+
+#: /tmp/repo/src/cases/cases.html:78 /tmp/repo/src/users/add-user.html:15
+#: /tmp/repo/src/users/add-user.html:17
+#: /tmp/repo/src/users/create-user.html:28
+#: /tmp/repo/src/users/create-user.html:30
+msgid "Email"
+msgstr "이메일"
+
+#: /tmp/repo/src/users/create-user.html:16
+#: /tmp/repo/src/users/create-user.html:18
+msgid "Family Name"
+msgstr "성"
+
+#: /tmp/repo/src/groups/create-group.html:36
+msgid "Fiels"
+msgstr "피엘 스"
+
+#: /tmp/repo/src/groups/create-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:36
+msgid "Files"
+msgstr "파일들"
+
+#: /tmp/repo/src/profile/profile.html:20 /tmp/repo/src/profile/profile.html:28
+#: /tmp/repo/src/profile/profile.html:30 /tmp/repo/src/profile/profile.html:31
+msgid "First Name"
+msgstr "이름"
+
+#: /tmp/repo/src/profile/profile.html:47 /tmp/repo/src/profile/profile.html:63
+#: /tmp/repo/src/profile/profile.html:66 /tmp/repo/src/profile/profile.html:71
+msgid "Gender"
+msgstr "성별"
+
+#: /tmp/repo/src/users/create-user.html:21
+#: /tmp/repo/src/users/create-user.html:23
+msgid "Given Name"
+msgstr "주어진 이름"
+
+#: /tmp/repo/src/groups/create-group.html:13
+msgid "Group Info"
+msgstr "그룹 정보"
+
+#: /tmp/repo/src/groups/edit-group.html:13
+msgid "Group Info <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+msgstr "그룹 정보 <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+
+#: /tmp/repo/src/groups/create-group.html:53
+#: /tmp/repo/src/groups/edit-group.html:55
+msgid "Group Permissions"
+msgstr "그룹 사용 권한"
+
+#: /tmp/repo/src/groups/groups.controller.js:27
+#: /tmp/repo/src/root/root.html:23
+msgid "Groups"
+msgstr "여러 떼"
+
+#: /tmp/repo/src/root/root.html:34
+msgid "Hello"
+msgstr "여보세요"
+
+#: /tmp/repo/src/groups/create-group.html:42
+#: /tmp/repo/src/groups/create-group.html:44
+#: /tmp/repo/src/groups/edit-group.html:42
+#: /tmp/repo/src/groups/edit-group.html:44
+msgid "Images"
+msgstr "이미지"
+
+#: /tmp/repo/src/root/root.html:3
+msgid "Javascript are disabled. Please enable it."
+msgstr "자바 스크립트가 사용 중지되었습니다. 활성화하십시오."
+
+#: /tmp/repo/src/profile/profile.html:185
+#: /tmp/repo/src/profile/profile.html:187
+#: /tmp/repo/src/profile/profile.html:192
+#: /tmp/repo/src/users/create-user.html:35
+#: /tmp/repo/src/users/create-user.html:40
+#: /tmp/repo/src/users/create-user.html:46
+msgid "Language"
+msgstr "언어"
+
+#: /tmp/repo/src/profile/profile.html:181
+msgid "Language &amp; Region"
+msgstr "언어 및 지역"
+
+#: /tmp/repo/src/profile/profile.html:23 /tmp/repo/src/profile/profile.html:35
+#: /tmp/repo/src/profile/profile.html:37 /tmp/repo/src/profile/profile.html:38
+msgid "Last Name"
+msgstr "성"
+
+#: /tmp/repo/src/cases/assign-case.html:4 /tmp/repo/src/cases/cases.html:219
+#: /tmp/repo/src/cases/create-case.html:4 /tmp/repo/src/cases/edit-case.html:4
+#: /tmp/repo/src/groups/create-group.html:4
+#: /tmp/repo/src/groups/edit-group.html:4 /tmp/repo/src/groups/groups.html:4
+#: /tmp/repo/src/profile/profile.html:3
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:5
+#: /tmp/repo/src/settings/module/module-settings.html:4
+#: /tmp/repo/src/users/add-user.html:4 /tmp/repo/src/users/create-user.html:4
+#: /tmp/repo/src/users/edit-user.html:4 /tmp/repo/src/users/users.html:4
+msgid "Loading..."
+msgstr "로드 중 ..."
+
+#: /tmp/repo/src/profile/profile.html:104
+msgid "Location"
+msgstr "위치"
+
+#: /tmp/repo/src/root/root.html:42
+msgid "Log out"
+msgstr "로그 아웃"
+
+#: /tmp/repo/src/root/root.html:27
+msgid "Logout"
+msgstr "로그 아웃"
+
+#: /tmp/repo/src/login/login.html:20 /tmp/repo/src/root/root.html:126
+msgid "Made with"
+msgstr "함께 만든"
+
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Module"
+msgstr "기준 치수"
+
+#: /tmp/repo/src/settings/module/module-settings.controller.js:33
+msgid "Modules"
+msgstr "모듈"
+
+#: /tmp/repo/src/settings/module/module-settings.html:9
+msgid "Modules settings updated"
+msgstr "모듈 설정 업데이트 됨"
+
+#: /tmp/repo/src/groups/create-group.html:17
+#: /tmp/repo/src/groups/create-group.html:19
+#: /tmp/repo/src/groups/edit-group.html:17
+#: /tmp/repo/src/groups/edit-group.html:19
+msgid "Name"
+msgstr "이름"
+
+#: /tmp/repo/src/cases/cases.html:180
+msgid "New Password"
+msgstr "새 비밀번호"
+
+#: /tmp/repo/src/cases/cases.html:223
+msgid "No cases found."
+msgstr "발견 된 사례가 없습니다."
+
+#: /tmp/repo/src/groups/groups.html:8
+msgid "No group found."
+msgstr "그룹을 찾을 수 없습니다."
+
+#: /tmp/repo/src/users/users.html:8
+msgid "No user found."
+msgstr "사용자가 없습니다."
+
+#: /tmp/repo/src/profile/profile.html:79
+msgid "Occupation"
+msgstr "직업"
+
+#: /tmp/repo/src/groups/create-group.html:55
+#: /tmp/repo/src/groups/edit-group.html:53
+msgid "Permission"
+msgstr "허가"
+
+#: /tmp/repo/src/profile/profile.controller.js:30
+msgid "Profile Settings"
+msgstr "프로필 설정"
+
+#: /tmp/repo/src/cases/assign-case.html:33
+#: /tmp/repo/src/cases/edit-case.html:50
+#: /tmp/repo/src/groups/edit-group.html:74
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:60
+#: /tmp/repo/src/settings/module/module-settings.html:23
+#: /tmp/repo/src/users/edit-user.html:42
+msgid "Save"
+msgstr "구하다"
+
+#: /tmp/repo/src/cases/assign-case.html:34
+#: /tmp/repo/src/cases/edit-case.html:51
+#: /tmp/repo/src/groups/edit-group.html:75
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:61
+#: /tmp/repo/src/settings/module/module-settings.html:24
+#: /tmp/repo/src/users/edit-user.html:43
+msgid "Saving..."
+msgstr "절약..."
+
+#: /tmp/repo/src/root/root.html:25
+msgid "Settings"
+msgstr "설정"
+
+#: /tmp/repo/src/login/login.html:10
+msgid "Sign In"
+msgstr "로그인"
+
+#: /tmp/repo/src/profile/profile.html:142
+#: /tmp/repo/src/profile/profile.html:155
+#: /tmp/repo/src/profile/profile.html:156
+msgid "State/Region"
+msgstr "주 지역"
+
+#: /tmp/repo/src/cases/create-case.html:34
+#: /tmp/repo/src/cases/create-case.html:40
+#: /tmp/repo/src/cases/edit-case.html:38
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Status"
+msgstr "지위"
+
+#: /tmp/repo/src/cases/edit-case.html:44
+msgid "Status Opened"
+msgstr "상태가 열림"
+
+#: /tmp/repo/src/cases/create-case.html:22
+#: /tmp/repo/src/cases/create-case.html:24
+#: /tmp/repo/src/cases/edit-case.html:26 /tmp/repo/src/cases/edit-case.html:28
+msgid "Tag ID"
+msgstr "태그 ID"
+
+#: /tmp/repo/src/login/login.html:22 /tmp/repo/src/root/root.html:128
+msgid "Terms of Use"
+msgstr "이용 약관"
+
+#: /tmp/repo/src/profile/profile.html:201
+#: /tmp/repo/src/profile/profile.html:203
+#: /tmp/repo/src/profile/profile.html:208
+#: /tmp/repo/src/users/create-user.html:51
+#: /tmp/repo/src/users/create-user.html:56
+#: /tmp/repo/src/users/create-user.html:62
+msgid "Timezone"
+msgstr "시간대"
+
+#: /tmp/repo/src/profile/profile.html:219
+msgid "Update"
+msgstr "최신 정보"
+
+#: /tmp/repo/src/profile/profile.html:220
+msgid "Updating"
+msgstr "업데이트 중"
+
+#: /tmp/repo/src/users/create-user.html:12
+msgid "User Info"
+msgstr "사용자 정보"
+
+#: /tmp/repo/src/users/edit-user.html:16
+msgid "User Info <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+msgstr "사용자 정보 <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+
+#: /tmp/repo/src/users/edit-user.html:29 /tmp/repo/src/users/edit-user.html:35
+msgid "User Status"
+msgstr "사용자 상태"
+
+#: /tmp/repo/src/users/edit-user.html:20 /tmp/repo/src/users/edit-user.html:26
+msgid "User Type"
+msgstr "사용자 유형"
+
+#: /tmp/repo/src/users/edit-user.html:8
+msgid "User not found."
+msgstr "사용자를 찾을 수 없습니다."
+
+#: /tmp/repo/src/root/root.html:22 /tmp/repo/src/users/users.controller.js:31
+msgid "Users"
+msgstr "사용자"
+
+#: /tmp/repo/src/groups/create-group.html:47
+#: /tmp/repo/src/groups/create-group.html:49
+#: /tmp/repo/src/groups/edit-group.html:47
+#: /tmp/repo/src/groups/edit-group.html:49
+msgid "Videos"
+msgstr "비디오"
+
+#: /tmp/repo/src/users/add-user.html:26
+msgid "Working..."
+msgstr "일..."
+
+#: /tmp/repo/src/profile/profile.html:148
+#: /tmp/repo/src/profile/profile.html:174
+#: /tmp/repo/src/profile/profile.html:175
+#: /tmp/repo/src/profile/profile.html:176
+msgid "Zip/Postal Code"
+msgstr "우편 번호"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "in New York City"
+msgstr "뉴욕시"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "love"
+msgstr "애정"
+
+#: /tmp/repo/src/cases/assign-case.html:22
+msgid "{{group.name}}"
+msgstr "{{그룹 이름}}"

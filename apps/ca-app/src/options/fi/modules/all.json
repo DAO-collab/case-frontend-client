@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Lue kaikki tapaukset -kentt\u00e4 m\u00e4\u00e4rit\u00e4 roolissa",
+    "write": "Kirjoita rooliin kaikki tapaukset"
+  },
+  "convos": {
+    "read_all": "Katso konvojen nykyinen tila.",
+    "manage_own": "Liity keskusteluun ja poista se.",
+    "moderate_others": "Aloita keskustelu, lopeta keskustelu ja poista osallistuja.",
+    "read_all_submissions": "Lue kaikki tallennetut keskustelut."
+  },
+  "events": {
+    "read_all": "Lue kaikki tapahtumat.",
+    "manage_own": "Luo, p\u00e4ivit\u00e4 ja poista oma tapahtuma.",
+    "moderate_others": "P\u00e4ivit\u00e4 ja poista muiden tapahtuma.",
+    "read_all_submissions": "Lue kaikki tapahtumavahvistukset.",
+    "submit_own": "Vahvista osallistumispyynt\u00f6 tapahtumaan."
+  },
+  "posts": {
+    "read_all": "Lue kaikki viestit.",
+    "manage_own": "Luo, p\u00e4ivit\u00e4 ja poista oma viesti.",
+    "moderate_others": "P\u00e4ivit\u00e4 ja poista muiden viesti."
+  },
+  "forms": {
+    "read_all": "Lue kaikki lomakkeet.",
+    "manage_own": "Luo, p\u00e4ivit\u00e4 ja poista oma lomake.",
+    "moderate_others": "P\u00e4ivit\u00e4 ja poista muiden lomake.",
+    "read_all_submissions": "Lue kaikki lomakkeen l\u00e4hetykset.",
+    "submit_own": "L\u00e4het\u00e4 lomakepyynt\u00f6."
+  },
+  "invoices": {
+    "read_all": "Lue kaikki laskut.",
+    "manage_own": "Luo, p\u00e4ivit\u00e4 ja poista oma lasku.",
+    "moderate_others": "P\u00e4ivit\u00e4 ja poista toisen lasku.",
+    "read_all_submissions": "Lue kaikki laskut.",
+    "submit_own": "L\u00e4het\u00e4 laskupyynt\u00f6."
+  },
+  "notes": {
+    "read_all": "Lue kaikki muistiinpanot.",
+    "manage_own": "Luo, p\u00e4ivit\u00e4 ja poista oma muistiinpano.",
+    "moderate_others": "P\u00e4ivit\u00e4 ja poista muiden muistiinpanot."
+  },
+  "signs": {
+    "read_all": "Lue kaikki s\u00e4hk\u00f6iset merkit.",
+    "manage_own": "Luo, p\u00e4ivit\u00e4 ja poista oma s\u00e4hk\u00f6inen kyltti.",
+    "moderate_others": "P\u00e4ivit\u00e4 ja poista muiden s\u00e4hk\u00f6posti.",
+    "read_all_submissions": "Lue kaikki s\u00e4hk\u00f6isen allekirjoituksen l\u00e4hetykset.",
+    "submit_own": "L\u00e4het\u00e4 kentt\u00e4pyynt\u00f6."
+  },
+  "tasks": {
+    "read_all": "Lue kaikki teht\u00e4v\u00e4t.",
+    "manage_own": "Luo, p\u00e4ivit\u00e4 ja poista oma teht\u00e4v\u00e4.",
+    "moderate_others": "P\u00e4ivit\u00e4 ja poista toisen teht\u00e4v\u00e4.",
+    "read_all_submissions": "Lue kaikki teht\u00e4v\u00e4l\u00e4hetykset.",
+    "submit_own": "L\u00e4het\u00e4 teht\u00e4v\u00e4pyynt\u00f6."
+  },
+  "team": { "read_all": "Lue joukkue siin\u00e4 tapauksessa" }
+}

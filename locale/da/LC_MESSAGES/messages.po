@@ -1,0 +1,4483 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.339531\n"
+"PO-Revision-Date: 2017-11-15T09:43:35.310784\n"
+"Language: da\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Du skal vælge billedfil."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Upload et dokument, markér det for underskrift, og derefter logger klienten "
+"ind og underskriver det. Alt bliver gjort, uden at klienten behøver at komme"
+" ind i vores bygning. Dette er praktisk med klienter, der ikke er tæt på et "
+"kontor, eller som bor ude af staten."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Direktør for driften af kapitalforsikring"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Vores medarbejdere kan logge på og se grundlæggende oplysninger om, hvordan "
+"deres henviste sag går. Dette har øget vores sagshenvisninger meget ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Partner af Advokatkontoret for Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Vi behøver ikke længere at se klienter på kontoret til møder, og "
+"dokumentunderskrift er alle afsluttet online - strålende !."
+
+msgid "CEO of EL Passion"
+msgstr "CEO for EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Ved hjælp af API automatiserede vi fuldstændigt det, der blev vist i case-"
+"feedet, baseret på specifikke triggere i vores eksisterende system. Temmelig"
+" praktisk .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "IT-manager for Carter Mario Injury Advokater"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Vi har mange flersprogede klienter, der bruger oversættelsesfunktionen. Vi "
+"sender beskeder med tillid til, at de vil blive forstået af alle. Dette "
+"lader os gå fra lokalt til globalt arbejde .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "CEO for Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Kunder elsker det! Det gør deres liv så meget lettere. De kan diskutere "
+"problemer med os online, uploade fotos og dokumenter, og alt gemmes, hvor "
+"både teamet og klienten kan se det .."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Partner af Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Vi elsker sagsfakturering, fordi det giver klienter mulighed for at se "
+"nøjagtigt, hvad de betaler for .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Næstformand for Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Tværbundet kommunikation er som at have alle dine sociale medier og "
+"samarbejdsværktøjer ét sted .."
+
+msgid "Director Of Complaint Management"
+msgstr "Direktør for klageadministration"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Sagsblanketter giver os mulighed for at lytte og lære og hjælpe os med at "
+"øge salget gennem tilbagemeldinger fra kunderne."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Direktør for salg af Kain &amp; Virksomhed"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Brugergrænsefladen ligner meget Facebook. Det er ekstremt nemt at bruge .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Partner af Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "En pin er blevet sendt til"
+
+msgid "Cancel"
+msgstr "Afbestille"
+
+msgid "Send New Pin"
+msgstr "Send ny pinkode"
+
+msgid "Need Help?"
+msgstr "Brug for hjælp?"
+
+msgid "Click here to contact us"
+msgstr "Klik her for at kontakte os"
+
+msgid "Next"
+msgstr "Næste"
+
+msgid "Login or Signup"
+msgstr "Log ind eller tilmeld dig"
+
+msgid "Invalid email entered"
+msgstr "Ugyldig e-mail indtastet"
+
+msgid "Processing..."
+msgstr "Forarbejdning..."
+
+msgid "Made with"
+msgstr "Lavet med"
+
+msgid "love"
+msgstr "elsker"
+
+msgid "in New York City"
+msgstr "I New York City"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Alle rettigheder forbeholdes"
+
+msgid "Terms of Use"
+msgstr "Vilkår for brug"
+
+msgid "Contact Us"
+msgstr "Kontakt os"
+
+msgid "Username"
+msgstr "Brugernavn"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "New Password"
+msgstr "nyt kodeord"
+
+msgid "Confirm Password"
+msgstr "Bekræft kodeord"
+
+msgid "Set Your New Password"
+msgstr "Indstil dit nye kodeord"
+
+msgid "A code has been sent to"
+msgstr "En kode er sendt til"
+
+msgid "Change Password"
+msgstr "Skift kodeord"
+
+msgid "Changing..."
+msgstr "Ændring ..."
+
+msgid "Login"
+msgstr "Log på"
+
+msgid "Forgot password?"
+msgstr "glemt kodeord?"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "Email or Phone"
+msgstr "Email eller telefon"
+
+msgid "Reset Password"
+msgstr "Nulstille kodeord"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Indtast den e-mail-adresse eller telefonnummer, der er knyttet til din "
+"konto, og klik derefter på Send. Vi e-mailer eller sms&#39;er et link til en"
+" side, hvor du nemt kan oprette en ny adgangskode."
+
+msgid "Request Code"
+msgstr "Anmodningskode"
+
+msgid "Requesting..."
+msgstr "Anmoder om ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE KOMMER SNART"
+
+msgid "Create a free account"
+msgstr "Opret en gratis konto"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Vi lægger sidste hånd på det. Vi giver dig besked, når den er klar!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Du er få minutter væk fra et bedre samarbejde."
+
+msgid "First Name"
+msgstr "Fornavn"
+
+msgid "Last Name"
+msgstr "Efternavn"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Company"
+msgstr "Selskab"
+
+msgid "No language selected"
+msgstr "Intet sprog valgt"
+
+msgid "I agree with"
+msgstr "Jeg er enig med"
+
+msgid "Terms of Service"
+msgstr "Servicevilkår"
+
+msgid "Language"
+msgstr "Sprog"
+
+msgid "Have at least one lower case character"
+msgstr "Har mindst en lille bogstav karakter"
+
+msgid "Have at least one capital letter"
+msgstr "Har mindst et stort bogstav"
+
+msgid "Have at least one number"
+msgstr "Har mindst et nummer"
+
+msgid "Have at least 8 characters in length"
+msgstr "Har mindst 8 tegn i længden"
+
+msgid "Type your current password"
+msgstr "Indtast din nuværende adgangskode"
+
+msgid "Passwords must match"
+msgstr "kodeordene skal være ens"
+
+msgid "Domains"
+msgstr "Domæner"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript er deaktiveret. Aktiver venligst det."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookies er deaktiveret. Aktiver venligst det."
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Create A New App"
+msgstr "Opret en ny app"
+
+msgid "Apps"
+msgstr "Apps"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Log ud"
+
+msgid "Hi"
+msgstr "Hej"
+
+msgid "View your account"
+msgstr "Se din konto"
+
+msgid "View page"
+msgstr "Vis side"
+
+msgid "You don’t have any apps"
+msgstr "Du har ingen apps"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Notifications"
+msgstr "Meddelelser"
+
+msgid "No notifications yet."
+msgstr "Ingen meddelelser endnu."
+
+msgid "Today"
+msgstr "I dag"
+
+msgid "Last Week"
+msgstr "Sidste uge"
+
+msgid "No timezone selected"
+msgstr "Ingen tidszone valgt"
+
+msgid "Complete profile to continue"
+msgstr "Komplet profil for at fortsætte"
+
+msgid "Timezone"
+msgstr "Tidszone"
+
+msgid "Update"
+msgstr "Opdatering"
+
+msgid "Website:"
+msgstr "Internet side:"
+
+msgid "Homepage:"
+msgstr "Hjemmeside:"
+
+msgid "Approve Access"
+msgstr "Godkend adgang"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Permissions"
+msgstr "Tilladelser"
+
+msgid "Billing"
+msgstr "Fakturering"
+
+msgid "Payment Plan"
+msgstr "Betalingsplan"
+
+msgid "Edit"
+msgstr "Redigere"
+
+msgid "Save"
+msgstr "Gemme"
+
+msgid "has access to your information below:"
+msgstr "har adgang til dine oplysninger nedenfor:"
+
+msgid "has invited you to their client portal."
+msgstr "har inviteret dig til deres klientportal."
+
+msgid "want access to the following information:"
+msgstr "ønsker adgang til følgende oplysninger:"
+
+msgid "Decline"
+msgstr "Nedgang"
+
+msgid "Remove Access"
+msgstr "Fjern adgang"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Invites"
+msgstr "Inviterer"
+
+msgid "Disabled"
+msgstr "handicappet"
+
+msgid "No apps found"
+msgstr "Ingen apps fundet"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "bruger"
+
+msgid "manager"
+msgstr "Manager"
+
+msgid "active"
+msgstr "aktiv"
+
+msgid "inactive"
+msgstr "inaktiv"
+
+msgid "Company Name"
+msgstr "firmanavn"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Status"
+msgstr "status"
+
+msgid "Invitation"
+msgstr "Invitation"
+
+msgid "About App"
+msgstr "Om App"
+
+msgid "Billing Info"
+msgstr "Faktura information"
+
+msgid "Your Company Name"
+msgstr "Dit firmanavn"
+
+msgid "Your Company Website"
+msgstr "Din virksomheds hjemmeside"
+
+msgid "Saving..."
+msgstr "Gemmer ..."
+
+msgid "Billing Information"
+msgstr "Faktureringsoplysninger"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Tilføj venligst det APP-id, som virksomheden har leveret"
+
+msgid "Select an option"
+msgstr "Vælg en mulighed"
+
+msgid "Join an existing app as a client"
+msgstr "Tilmeld dig en eksisterende app som kunde"
+
+msgid "Create a new app for my business"
+msgstr "Opret en ny app til min virksomhed"
+
+msgid "Create Domain"
+msgstr "Opret domæne"
+
+msgid "Select enterprise app"
+msgstr "Vælg virksomhedsapp"
+
+msgid "No item selected"
+msgstr "Der er ikke valgt noget element"
+
+msgid "Domain name"
+msgstr "Domænenavn"
+
+msgid "Add"
+msgstr "Tilføje"
+
+msgid "No enterprise app found"
+msgstr "Ingen virksomhedsapp fundet"
+
+msgid "Pending"
+msgstr "Verserende"
+
+msgid "No domains found"
+msgstr "Ingen domæner fundet"
+
+msgid "Domain"
+msgstr "Domæne"
+
+msgid "Txt Value"
+msgstr "Tekst-værdi"
+
+msgid "Enterprise Host ID"
+msgstr "Enterprise Host ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "Reset"
+msgstr "Nulstil"
+
+msgid "Allow Manual Sign In"
+msgstr "Tillad manuel login"
+
+msgid "Exclude Emails From SSO"
+msgstr "Ekskluder e-mails fra SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML Identity Provider Metadata"
+
+msgid "Submit"
+msgstr "Indsend"
+
+msgid "Profile photo"
+msgstr "Profilbillede"
+
+msgid "Uploading..."
+msgstr "Uploader ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "er blevet krævet af en anden konto, skal du ændre den eller"
+
+msgid "reclaim"
+msgstr "genvinde"
+
+msgid "it"
+msgstr "det"
+
+msgid "pending verification:"
+msgstr "afventer bekræftelse:"
+
+msgid "verify"
+msgstr "verificere"
+
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+msgid "Current Password"
+msgstr "Nuværende kodeord"
+
+msgid "Change password"
+msgstr "Skift kodeord"
+
+msgid "No gender selected"
+msgstr "Intet køn valgt"
+
+msgid "Company Title"
+msgstr "Firmanavn"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address 2"
+msgstr "Adresse 2"
+
+msgid "City/Locality"
+msgstr "By / lokalitet"
+
+msgid "State/Region"
+msgstr "Stat / Region"
+
+msgid "No country selected"
+msgstr "Intet land valgt"
+
+msgid "Zip/Postal Code"
+msgstr "Postnummer"
+
+msgid "Basic"
+msgstr "Grundlæggende"
+
+msgid "Date of Birth"
+msgstr "Fødselsdato"
+
+msgid "Gender"
+msgstr "Køn"
+
+msgid "Occupation"
+msgstr "Beskæftigelse"
+
+msgid "Location"
+msgstr "Beliggenhed"
+
+msgid "Address is not valid"
+msgstr "Adresse er ikke gyldig"
+
+msgid "City/Locality is not valid"
+msgstr "By / lokalitet er ikke gyldig"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "State/Region is not valid"
+msgstr "Stat / region er ikke gyldig"
+
+msgid "Contact Info"
+msgstr "Kontaktoplysninger"
+
+msgid "Language & Region"
+msgstr "Sprog og region"
+
+msgid "Saving"
+msgstr "Gemmer"
+
+msgid "Verify Your"
+msgstr "Bekræft din"
+
+msgid "Verification Code"
+msgstr "Verifikationskode"
+
+msgid "Resend Code"
+msgstr "Gensend kode"
+
+msgid "Resending"
+msgstr "gensende"
+
+msgid "Verify"
+msgstr "Verificere"
+
+msgid "Verifying..."
+msgstr "Bekræfter ..."
+
+msgid "Later"
+msgstr "Senere"
+
+msgid "We're here to help"
+msgstr "Vi er her for at hjælpe"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Tak fordi du kontaktede os. Din besked er blevet sendt. Vi kontakter dig "
+"meget snart!"
+
+msgid "Message"
+msgstr "Besked"
+
+msgid "characters left"
+msgstr "tegn tilbage"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Sende"
+
+msgid "Sending..."
+msgstr "Sender ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Du vil ikke længere modtage e-mail marketing fra listen."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Hvis du har et øjeblik, så fortæl os, hvorfor du afmeldte abonnementet:"
+
+msgid "Return to our website"
+msgstr "Vend tilbage til vores hjemmeside"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Tak skal du have. Dit svar er blevet indsendt."
+
+msgid "No Cases"
+msgstr "Ingen tilfælde"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Gallery"
+msgstr "Galleri"
+
+msgid "Speaker"
+msgstr "Højttaler"
+
+msgid "This case has been closed"
+msgstr "Denne sag er afsluttet"
+
+msgid "Feed"
+msgstr "Foder"
+
+msgid "Images"
+msgstr "Billeder"
+
+msgid "Docs"
+msgstr "Dokumenter"
+
+msgid "Audios"
+msgstr "audios"
+
+msgid "Videos"
+msgstr "Videoer"
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "Events"
+msgstr "Begivenheder"
+
+msgid "Forms"
+msgstr "Forms"
+
+msgid "E-signs"
+msgstr "E-skilte"
+
+msgid "Invoices"
+msgstr "Fakturaer"
+
+msgid "Notes"
+msgstr "Noter"
+
+msgid "Tasks"
+msgstr "Opgaver"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Godt arbejde!"
+
+msgid "You did all"
+msgstr "Du gjorde alt"
+
+msgid "the tasks"
+msgstr "opgaverne"
+
+msgid "Media"
+msgstr "Medier"
+
+msgid "Skip to navigation (n)"
+msgstr "Spring til navigation (n)"
+
+msgid "Skip to content (c)"
+msgstr "Spring til indhold (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Spring til sidefod (f)"
+
+msgid "Case"
+msgstr "Sag"
+
+msgid "Search"
+msgstr "Søg"
+
+msgid "Using Form Builder"
+msgstr "Brug af Form Builder"
+
+msgid "Using Forms Library"
+msgstr "Brug af formularbibliotek"
+
+msgid "Using E-sign Builder"
+msgstr "Brug af E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Brug af E-signs Library"
+
+msgid "Documents"
+msgstr "Dokumenter"
+
+msgid "Create Note"
+msgstr "Opret note"
+
+msgid "Edit Note"
+msgstr "Rediger note"
+
+msgid "End Convo"
+msgstr "Afslut konvo"
+
+msgid "Create Form"
+msgstr "Opret formular"
+
+msgid "Create Sign"
+msgstr "Opret tegn"
+
+msgid "Event Create"
+msgstr "Begivenhed Opret"
+
+msgid "Convo Videos"
+msgstr "Convo videoer"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Sager"
+
+msgid "Case categories"
+msgstr "Sagskategorier"
+
+msgid "Your team"
+msgstr "Dit hold"
+
+msgid "To do"
+msgstr "At gøre"
+
+msgid "To Do:"
+msgstr "At gøre:"
+
+msgid "Case Categories"
+msgstr "Sagskategorier"
+
+msgid "Your Team"
+msgstr "Dit hold"
+
+msgid "To Do"
+msgstr "At gøre"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Close"
+msgstr "Tæt"
+
+msgid "Publish"
+msgstr "Offentliggøre"
+
+msgid "Visibility"
+msgstr "Sigtbarhed"
+
+msgid "all"
+msgstr "alle"
+
+msgid "sign"
+msgstr "skilt"
+
+msgid "Page"
+msgstr "Side"
+
+msgid "of"
+msgstr "af"
+
+msgid "Processing"
+msgstr "Forarbejdning"
+
+msgid "failed."
+msgstr "mislykkedes."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Værdien skal være større eller lig med 1"
+
+msgid "Repeat end:"
+msgstr "Gentag afslutning:"
+
+msgid "Signature"
+msgstr "Underskrift"
+
+msgid "Draw"
+msgstr "Tegne"
+
+msgid "Write"
+msgstr "Skrive"
+
+msgid "Clear Signature"
+msgstr "Klar signatur"
+
+msgid "Still processing video..."
+msgstr "Behandler stadig video ..."
+
+msgid "You"
+msgstr "Du"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Du er ved at slette feed. Er du sikker?"
+
+msgid "No convo audios yet"
+msgstr "Ingen konvo-lyd endnu"
+
+msgid "No convo videos yet"
+msgstr "Ingen konvo-videoer endnu"
+
+msgid "Start Convo"
+msgstr "Start konvo"
+
+msgid "Notify the Host"
+msgstr "Giv værten besked"
+
+msgid "is in the call"
+msgstr "er i opkaldet"
+
+msgid "and"
+msgstr "og"
+
+msgid "others are in the call"
+msgstr "andre er i opkaldet"
+
+msgid "Audio call is being recorded"
+msgstr "Lydopkald optages"
+
+msgid "Video call is being recorded"
+msgstr "Videoopkald optages"
+
+msgid "Join now"
+msgstr "Deltag nu"
+
+msgid "Dismiss"
+msgstr "Afskedige"
+
+msgid "Can’t find your "
+msgstr "Kan ikke finde din"
+
+msgid "microphone"
+msgstr "mikrofon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Tjek dine systemindstillinger for at sikre det"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"er tilgængelig. Hvis ikke, skal du tilslutte en. Du skal muligvis genstarte "
+"din browser."
+
+msgid "web camera"
+msgstr "web kamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Du vil starte et Convo-opkald. Start med:"
+
+msgid "Video & Audio"
+msgstr "Video og lyd"
+
+msgid "Audio Only"
+msgstr "Kun lyd"
+
+msgid "Record the meeting"
+msgstr "Optag mødet"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Venter på en person med tilladelse til at starte et Convo-opkald"
+
+msgid "Add Ticket"
+msgstr "Tilføj billet"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Open"
+msgstr "Åben"
+
+msgid "Closed"
+msgstr "Lukket"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Du er ved at lukke billet. Er du sikker?"
+
+msgid "Announcements"
+msgstr "Meddelelser"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Opened"
+msgstr "åbnede"
+
+msgid "View"
+msgstr "Udsigt"
+
+msgid "Locations"
+msgstr "Placeringer"
+
+msgid "You currently have no announcements."
+msgstr "Du har i øjeblikket ingen meddelelser."
+
+msgid "You currently have no"
+msgstr "Du har i øjeblikket ingen"
+
+msgid "open cases. Click"
+msgstr "åbne sager. Klik"
+
+msgid "here"
+msgstr "her"
+
+msgid "to contact support."
+msgstr "at kontakte support."
+
+msgid "closed cases."
+msgstr "lukkede sager."
+
+msgid "open tickets."
+msgstr "åbne billetter."
+
+msgid "closed tickets."
+msgstr "lukkede billetter."
+
+msgid "You currently have no locations."
+msgstr "Du har i øjeblikket ingen placeringer."
+
+msgid "Write a comment...."
+msgstr "Skriv en kommentar...."
+
+msgid "Post"
+msgstr "Stolpe"
+
+msgid "Add Location"
+msgstr "Tilføj placering"
+
+msgid "Save Event"
+msgstr "Gem begivenhed"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Start Date"
+msgstr "Start dato"
+
+msgid "Start Time"
+msgstr "Starttidspunkt"
+
+msgid "End Date"
+msgstr "Slutdato"
+
+msgid "End Time"
+msgstr "Sluttid"
+
+msgid "Repeat"
+msgstr "Gentage"
+
+msgid "Attendees"
+msgstr "Deltagere"
+
+msgid "Event Location"
+msgstr "Event Location"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Attending"
+msgstr "deltage"
+
+msgid "Add to calendar"
+msgstr "Tilføj til kalender"
+
+msgid "Details"
+msgstr "detaljer"
+
+msgid "Event by"
+msgstr "Arrangement af"
+
+msgid "Duration:"
+msgstr "Varighed:"
+
+msgid "more"
+msgstr "mere"
+
+msgid "Maybe"
+msgstr "måske"
+
+msgid "Not Attending"
+msgstr "Deltager ikke"
+
+msgid "No"
+msgstr "Ingen"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Video konference"
+
+msgid "Event details"
+msgstr "Begivenhedsoplysninger"
+
+msgid "You don't have permissions to view this page."
+msgstr "Du har ikke tilladelser til at se denne side."
+
+msgid "Your Upcoming Events"
+msgstr "Dine kommende begivenheder"
+
+msgid "Upcoming"
+msgstr "Kommende"
+
+msgid "Your Past Events"
+msgstr "Dine tidligere begivenheder"
+
+msgid "Past"
+msgstr "Forbi"
+
+msgid "Your Events"
+msgstr "Dine begivenheder"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All Events"
+msgstr "Alle begivenheder"
+
+msgid "Directions"
+msgstr "Kørselsvejledning"
+
+msgid "Edit settings"
+msgstr "Rediger indstillinger"
+
+msgid "Delete event"
+msgstr "Slet begivenhed"
+
+msgid "Attending?"
+msgstr "Deltager?"
+
+msgid "No Events"
+msgstr "Ingen begivenheder"
+
+msgid "more comment(s)"
+msgstr "mere kommentar (er)"
+
+msgid "Loading comments"
+msgstr "Indlæser kommentarer"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Du er ved at slette en kommentar. Er du sikker?"
+
+msgid "task"
+msgstr "opgave"
+
+msgid "to do"
+msgstr "at gøre"
+
+msgid "tasks"
+msgstr "opgaver"
+
+msgid "Write something..."
+msgstr "Skriv noget..."
+
+msgid "Attach File"
+msgstr "Vedhæft fil"
+
+msgid "From Template"
+msgstr "Fra skabelon"
+
+msgid "No feeds yet."
+msgstr "Ingen feeds endnu."
+
+msgid "comments"
+msgstr "kommentarer"
+
+msgid "comment"
+msgstr "kommentar"
+
+msgid "Add a comment"
+msgstr "Tilføj en kommentar"
+
+msgid "Template"
+msgstr "Skabelon"
+
+msgid "No templates"
+msgstr "Ingen skabeloner"
+
+msgid "Done"
+msgstr "Færdig"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Vælg de medlemmer, der skal udfylde denne formular"
+
+msgid "Update Form"
+msgstr "Opdater formular"
+
+msgid "Due Date"
+msgstr "Afleveringsdato"
+
+msgid "Due Time"
+msgstr "Forfaldsdato"
+
+msgid "Loading..."
+msgstr "Indlæser..."
+
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+msgid "Save & Close"
+msgstr "Gem og luk"
+
+msgid "Add an element"
+msgstr "Tilføj et element"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Medier konverterer. Vi giver dig besked, når den er klar"
+
+msgid "Add "
+msgstr "Tilføje"
+
+msgid "Field"
+msgstr "Mark"
+
+msgid "Edit "
+msgstr "Redigere"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Sub Text"
+msgstr "Undertekst"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Medier kunne ikke konvertere. Slet venligst og prøv igen eller en anden."
+
+msgid "Pages"
+msgstr "sider"
+
+msgid "Saved"
+msgstr "Gemt"
+
+msgid "Insert"
+msgstr "Indsæt"
+
+msgid "Elements"
+msgstr "Elementer"
+
+msgid "Action Required"
+msgstr "Handling påkrævet"
+
+msgid "Add a new page"
+msgstr "Tilføj en ny side"
+
+msgid "Blank page"
+msgstr "Blank side"
+
+msgid "From PDF"
+msgstr "Fra PDF"
+
+msgid "From image"
+msgstr "Fra billede"
+
+msgid "Add PDF"
+msgstr "Tilføj PDF"
+
+msgid "Add Image"
+msgstr "Tilføj billede"
+
+msgid "Options"
+msgstr "Muligheder"
+
+msgid "Column Names"
+msgstr "Kolonnenavne"
+
+msgid "Option already exists."
+msgstr "Mulighed findes allerede."
+
+msgid "options list is empty"
+msgstr "valgliste er tomt"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Afkrydsningsfelter understøtter kun 5 indstillinger. Du kan ændre felt til "
+"rullemenu for at tilføje flere muligheder"
+
+msgid "columns list is empty"
+msgstr "kolonnelisten er tom"
+
+msgid "Default Value"
+msgstr "Standard værdi"
+
+msgid "Delete row"
+msgstr "Slet række"
+
+msgid "Add a new row"
+msgstr "Tilføj en ny række"
+
+msgid "Download"
+msgstr "Hent"
+
+msgid "Label"
+msgstr "Etiket"
+
+msgid "Question"
+msgstr "Spørgsmål"
+
+msgid "Default answer"
+msgstr "Standardsvar"
+
+msgid "Media is converting"
+msgstr "Medier konverterer"
+
+msgid "Send Form"
+msgstr "Send formular"
+
+msgid "Form Submited."
+msgstr "Formular indgivet."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Du har ikke tilladelse til at indsende formularer."
+
+msgid "You currently have no forms of your own"
+msgstr "Du har i øjeblikket ingen egne formularer"
+
+msgid "Your Uncompleted Forms"
+msgstr "Dine ufuldstændige formularer"
+
+msgid "Uncompleted"
+msgstr "Uafsluttet"
+
+msgid "Your Completed Forms"
+msgstr "Dine udfyldte formularer"
+
+msgid "Completed"
+msgstr "Afsluttet"
+
+msgid "Your Forms"
+msgstr "Dine formularer"
+
+msgid "All Forms"
+msgstr "Alle former"
+
+msgid "Form Title"
+msgstr "Formulartitel"
+
+msgid "Author"
+msgstr "Forfatter"
+
+msgid "Published"
+msgstr "Udgivet"
+
+msgid "Submissions"
+msgstr "Indlæg"
+
+msgid "No Forms"
+msgstr "Ingen formularer"
+
+msgid "Upload Form Document"
+msgstr "Upload formulardokument"
+
+msgid "Forms Library"
+msgstr "Formularbibliotek"
+
+msgid "No Forms In Library"
+msgstr "Ingen formularer i biblioteket"
+
+msgid "Answers"
+msgstr "Svar"
+
+msgid "Close - Status changed"
+msgstr "Luk - Status ændret"
+
+msgid "Change Status"
+msgstr "Skift status"
+
+msgid "Case Number"
+msgstr "Sagsnummer"
+
+msgid "Tag Id"
+msgstr "Tag-id"
+
+msgid "Date Opened"
+msgstr "Dato åbnet"
+
+msgid "Host Id"
+msgstr "Værts-id"
+
+msgid "User Id"
+msgstr "Bruger ID"
+
+msgid "Case Id"
+msgstr "Sags-id"
+
+msgid "Confirm your details"
+msgstr "Bekræft dine oplysninger"
+
+msgid "Form Submitted."
+msgstr "Formular indsendt."
+
+msgid "Invoice"
+msgstr "Faktura"
+
+msgid "PO No:"
+msgstr "PO No:"
+
+msgid "Reference ID:"
+msgstr "Reference-id:"
+
+msgid "Term:"
+msgstr "Semester:"
+
+msgid "Note:"
+msgstr "Bemærk:"
+
+msgid "QTY"
+msgstr "ANTAL"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Add more"
+msgstr "Tilføj mere"
+
+msgid "Subtotal($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount(%)"
+msgstr "Rabat(%)"
+
+msgid "TAX(%)"
+msgstr "SKAT(%)"
+
+msgid "Total($)"
+msgstr "I alt ($)"
+
+msgid "Invoice No"
+msgstr "Faktura nr"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Vælg de medlemmer, der skal se eller betale denne faktura"
+
+msgid "Update Invoice"
+msgstr "Opdater faktura"
+
+msgid "Create Invoice"
+msgstr "Opret faktura"
+
+msgid "PO No."
+msgstr "PO-nr."
+
+msgid "Reference ID"
+msgstr "Reference ID"
+
+msgid "Term"
+msgstr "Semester"
+
+msgid "Note"
+msgstr "Bemærk"
+
+msgid "Quantity"
+msgstr "Antal"
+
+msgid "Price ($)"
+msgstr "Pris ($)"
+
+msgid "Subtotal ($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount (%)"
+msgstr "Rabat (%)"
+
+msgid "Tax (%)"
+msgstr "Skat (%)"
+
+msgid "Total ($)"
+msgstr "I alt ($)"
+
+msgid "Pay Invoice"
+msgstr "Betal faktura"
+
+msgid "Payment method"
+msgstr "Betalingsmetode"
+
+msgid "Add a new payment method"
+msgstr "Tilføj en ny betalingsmetode"
+
+msgid "Summary"
+msgstr "Resumé"
+
+msgid "Payment:"
+msgstr "Betaling:"
+
+msgid "Total charge:"
+msgstr "Samlet afgift:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Dine ubetalte fakturaer"
+
+msgid "Unpaid"
+msgstr "Ubetalt"
+
+msgid "Your Paid Invoices"
+msgstr "Dine betalte fakturaer"
+
+msgid "Paid"
+msgstr "Betalt"
+
+msgid "Your Invoices"
+msgstr "Dine fakturaer"
+
+msgid "All Invoices"
+msgstr "Alle fakturaer"
+
+msgid "Invoice Title"
+msgstr "Faktura titel"
+
+msgid "No Invoices"
+msgstr "Ingen fakturaer"
+
+msgid "No Audios yet."
+msgstr "Ingen lyd endnu."
+
+msgid "Loading failed."
+msgstr "Indlæsning mislykkedes."
+
+msgid "retry"
+msgstr "prøve igen"
+
+msgid "No documents yet."
+msgstr "Ingen dokumenter endnu."
+
+msgid "No Files yet."
+msgstr "Ingen filer endnu."
+
+msgid "No Images yet."
+msgstr "Ingen billeder endnu."
+
+msgid "No Videos yet."
+msgstr "Ingen videoer endnu."
+
+msgid "Page Not Found"
+msgstr "Siden blev ikke fundet"
+
+msgid "Attachments"
+msgstr "Vedhæftede filer"
+
+msgid "Note View"
+msgstr "Bemærk Vis"
+
+msgid "No Notes"
+msgstr "Ingen noter"
+
+msgid "Select the person to answer this field"
+msgstr "Vælg den person, der skal svare på dette felt"
+
+msgid "Create E-sign"
+msgstr "Opret E-skilt"
+
+msgid "Update E-signs"
+msgstr "Opdater E-skilte"
+
+msgid "Signs"
+msgstr "Tegn"
+
+msgid "Add Field"
+msgstr "Tilføj felt"
+
+msgid "Edit Field"
+msgstr "Rediger felt"
+
+msgid "Send E-sign"
+msgstr "Send E-skilt"
+
+msgid "E-sign Submitted."
+msgstr "E-skilt indsendt."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Du har ikke tilladelse til at indsende e-skilte."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Du har i øjeblikket ingen egne E-tegn"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Dine ufuldendte E-tegn"
+
+msgid "Your Completed E-signs"
+msgstr "Dine udfyldte E-skilte"
+
+msgid "Your Signs"
+msgstr "Dine tegn"
+
+msgid "All E-signs"
+msgstr "Alle E-skilte"
+
+msgid "E-sign Title"
+msgstr "E-tegn titel"
+
+msgid "No E-signs"
+msgstr "Ingen E-skilte"
+
+msgid "E-Signs Library"
+msgstr "E-Signs bibliotek"
+
+msgid "No E-signs In Library"
+msgstr "Ingen e-skilte i biblioteket"
+
+msgid "Upload E-sign Document"
+msgstr "Upload E-sign dokument"
+
+msgid "Update Task"
+msgstr "Opdater opgave"
+
+msgid "Create Task"
+msgstr "Opret opgave"
+
+msgid "You currently have no tasks of your own"
+msgstr "Du har i øjeblikket ingen egne opgaver"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Dine ufuldendte opgaver"
+
+msgid "Your Completed Tasks"
+msgstr "Dine udførte opgaver"
+
+msgid "Your Tasks"
+msgstr "Dine opgaver"
+
+msgid "All Tasks"
+msgstr "Alle opgaver"
+
+msgid "Task"
+msgstr "Opgave"
+
+msgid "Deadline"
+msgstr "Deadline"
+
+msgid "Assignees"
+msgstr "Udnævnte"
+
+msgid "In Progress"
+msgstr "I gang"
+
+msgid "Delete task"
+msgstr "Slet opgave"
+
+msgid "No Tasks"
+msgstr "Ingen opgaver"
+
+msgid "wants access"
+msgstr "ønsker adgang"
+
+msgid "No Answers"
+msgstr "Ingen svar"
+
+msgid "Select Field Type"
+msgstr "Vælg feltype"
+
+msgid "Text Only"
+msgstr "Kun tekst"
+
+msgid "Multiple Line Text"
+msgstr "Flere linjetekst"
+
+msgid "Dropdown"
+msgstr "dropdown"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "afkrydsningsfelter"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "Yes/No"
+msgstr "Ja Nej"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "Access Denied"
+msgstr "Adgang nægtet"
+
+msgid "You don't have access to this case."
+msgstr "Du har ikke adgang til denne sag."
+
+msgid "Imports"
+msgstr "Import"
+
+msgid "View import"
+msgstr "Se import"
+
+msgid "Sessions"
+msgstr "Sessioner"
+
+msgid "Home"
+msgstr "Hjem"
+
+msgid "Users"
+msgstr "Brugere"
+
+msgid "Library"
+msgstr "Bibliotek"
+
+msgid "Integration"
+msgstr "Integration"
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Nøgler"
+
+msgid "Feed Templates"
+msgstr "Foderskabeloner"
+
+msgid "Form Templates"
+msgstr "Form skabeloner"
+
+msgid "E-sign Templates"
+msgstr "E-skilt skabeloner"
+
+msgid "Task Templates"
+msgstr "Opgaveskabeloner"
+
+msgid "Dashboard"
+msgstr "instrumentbræt"
+
+msgid "Payments"
+msgstr "Betalinger"
+
+msgid "From"
+msgstr "Fra"
+
+msgid "To"
+msgstr "Til"
+
+msgid "System"
+msgstr "System"
+
+msgid "User Intake"
+msgstr "Brugerindtag"
+
+msgid "Custom Fields"
+msgstr "Brugerdefinerede felter"
+
+msgid "After Actions"
+msgstr "Efter handlinger"
+
+msgid "Advance Settings"
+msgstr "Avancerede indstillinger"
+
+msgid "Label Name"
+msgstr "Etikettnavn"
+
+msgid "Fields"
+msgstr "Felter"
+
+msgid "Tag ID"
+msgstr "Tag-id"
+
+msgid "Have many users?"
+msgstr "Har du mange brugere?"
+
+msgid "Import users"
+msgstr "Importer brugere"
+
+msgid "or"
+msgstr "eller"
+
+msgid "Send them a signup link."
+msgstr "Send dem et tilmeldingslink."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Lad os starte med at indtaste e-mail eller telefonnummer"
+
+msgid "Phone"
+msgstr "telefon"
+
+msgid "Invalid phone number entered"
+msgstr "Ugyldigt indtastet telefonnummer"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Et mærke til let at finde en sag. det kan ikke ændres senere"
+
+msgid "Visibility:"
+msgstr "Sigtbarhed:"
+
+msgid "Who can use this template"
+msgstr "Hvem kan bruge denne skabelon"
+
+msgid "One time"
+msgstr "En gang"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Indtast venligst gyldige betalingsoplysninger, før du fortsætter"
+
+msgid "Add Payment"
+msgstr "Tilføj betaling"
+
+msgid "Repeat every:"
+msgstr "Gentag hver:"
+
+msgid "Let's get started"
+msgstr "Lad os komme igang"
+
+msgid "Take me there"
+msgstr "Tag mig derhen"
+
+msgid "Mark"
+msgstr "Mærke"
+
+msgid "Onboarding"
+msgstr "Onboarding"
+
+msgid "Created on"
+msgstr "Oprettet den"
+
+msgid "Expires on"
+msgstr "Udløber på"
+
+msgid "No announcements yet."
+msgstr "Ingen meddelelser endnu."
+
+msgid "Add Announcement"
+msgstr "Tilføj meddelelse"
+
+msgid "Edit Announcement"
+msgstr "Rediger meddelelse"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Dato og klokkeslæt skal være mindst en time frem"
+
+msgid "Delete Date"
+msgstr "Slet dato"
+
+msgid "Delete Time"
+msgstr "Slet tid"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "No Users Found"
+msgstr "Ingen brugere fundet"
+
+msgid "No role selected"
+msgstr "Ingen rolle valgt"
+
+msgid "No permissions added!"
+msgstr "Ingen tilladelser tilføjet!"
+
+msgid "ASSIGNED USERS"
+msgstr "TILKENDTE BRUGERE"
+
+msgid "CASE PERMISSIONS"
+msgstr "SAGTILLADELSER"
+
+msgid "User ID"
+msgstr "bruger ID"
+
+msgid "Role"
+msgstr "rolle"
+
+msgid "remove"
+msgstr "fjerne"
+
+msgid "Assign User"
+msgstr "Tildel bruger"
+
+msgid "User"
+msgstr "Bruger"
+
+msgid "ADD USER"
+msgstr "TILFØJ BRUGER"
+
+msgid "Email user about case assignment"
+msgstr "E-mail-bruger om tilfældetildeling"
+
+msgid "Keyword"
+msgstr "Søgeord"
+
+msgid "No cases found."
+msgstr "Ingen tilfælde fundet."
+
+msgid "Create a case for a business"
+msgstr "Opret en sag for en virksomhed"
+
+msgid "Case ID"
+msgstr "Sags-ID"
+
+msgid "Created On"
+msgstr "Oprettet på"
+
+msgid "Case Status"
+msgstr "Case Status"
+
+msgid "Case Type"
+msgstr "Sagstype"
+
+msgid "Assign Users"
+msgstr "Tildel brugere"
+
+msgid "No cases found"
+msgstr "Ingen tilfælde fundet"
+
+msgid "Have many cases?"
+msgstr "Har du mange sager?"
+
+msgid "Click here to import cases."
+msgstr "Klik her for at importere sager."
+
+msgid "No status selected"
+msgstr "Ingen status valgt"
+
+msgid "No type selected"
+msgstr "Ingen type valgt"
+
+msgid "Case Info"
+msgstr "Case Info"
+
+msgid "About"
+msgstr "Om"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"En permanent etiket til nemt at finde en sag. (a-z, 0-9, -, /) er tilladt"
+
+msgid "Case Types"
+msgstr "Sagstyper"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "to edit case types"
+msgstr "for at redigere sagstyper"
+
+msgid "No Type selected"
+msgstr "Ingen type valgt"
+
+msgid "Case not found!"
+msgstr "Case ikke fundet!"
+
+msgid "Media Size"
+msgstr "Mediestørrelse"
+
+msgid "All statistics"
+msgstr "Alle statistikker"
+
+msgid "Import not found."
+msgstr "Importen blev ikke fundet."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Behandling af fil mislykkedes. Sørg for, at det er en CSV-filtype og "
+"indeholder de korrekte overskrifter"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "No Imports yet."
+msgstr "Ingen import endnu."
+
+msgid "Source"
+msgstr "Kilde"
+
+msgid "Stats"
+msgstr "Statistik"
+
+msgid "Passed:"
+msgstr "Bestået:"
+
+msgid "Failed:"
+msgstr "Mislykkedes:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Add Imports"
+msgstr "Tilføj import"
+
+msgid "Download Sample"
+msgstr "Download prøve"
+
+msgid "Choose a file"
+msgstr "Vælg en fil"
+
+msgid "Edit Key"
+msgstr "Rediger nøgle"
+
+msgid "Add Key"
+msgstr "Tilføj nøgle"
+
+msgid "No Keys yet."
+msgstr "Ingen nøgler endnu."
+
+msgid "Source CIDR"
+msgstr "Kilde CIDR"
+
+msgid "Remove"
+msgstr "Fjerne"
+
+msgid "is invalid."
+msgstr "er ugyldig."
+
+msgid "Secret Key"
+msgstr "Hemmelig nøgle"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Sørg for at kopiere din nye hemmelige nøgle nu. Du kan ikke se det igen!"
+
+msgid "Edit Webhook"
+msgstr "Rediger Webhook"
+
+msgid "Add Webhook"
+msgstr "Tilføj Webhook"
+
+msgid "No event selected"
+msgstr "Ingen begivenhed valgt"
+
+msgid "No Webhooks yet."
+msgstr "Ingen Webhooks endnu."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Hemmelig Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Sørg for at kopiere din nye hemmelige webhook nu. Du kan ikke se det igen!"
+
+msgid "Sign In"
+msgstr "Log ind"
+
+msgid "Login in account page."
+msgstr "Log på konto side."
+
+msgid "Edit form builder"
+msgstr "Rediger formularbygger"
+
+msgid "Delete form"
+msgstr "Slet formularen"
+
+msgid "No forms yet."
+msgstr "Ingen formularer endnu."
+
+msgid "Intake Forms"
+msgstr "Optagelsesskemaer"
+
+msgid "Upload Intake Form Document"
+msgstr "Upload dokument med indtagsformular"
+
+msgid "Add Intake Form"
+msgstr "Tilføj indtagsformular"
+
+msgid "Edit Intake Form"
+msgstr "Rediger indtagsformular"
+
+msgid "Show Media"
+msgstr "Vis medier"
+
+msgid "Add Post"
+msgstr "Tilføj post"
+
+msgid "Edit Post"
+msgstr "Rediger indlæg"
+
+msgid "Files Amount"
+msgstr "Filer Beløb"
+
+msgid "No Feed Templates yet."
+msgstr "Der er endnu ingen feedskabeloner."
+
+msgid "Post Name"
+msgstr "Postnavn"
+
+msgid "Post Message"
+msgstr "Send besked"
+
+msgid "Processing media ..."
+msgstr "Behandler medier ..."
+
+msgid "Download original file"
+msgstr "Download original fil"
+
+msgid "Could not display media"
+msgstr "Kunne ikke vise medier"
+
+msgid "No locations found."
+msgstr "Ingen steder fundet."
+
+msgid "Main Office"
+msgstr "Hovedkontor"
+
+msgid "Location Name"
+msgstr "Navn på sted"
+
+msgid "Delete e-sign"
+msgstr "Slet e-tegn"
+
+msgid "No e-signs yet."
+msgstr "Ingen e-skilte endnu."
+
+msgid "Subtasks Count"
+msgstr "Delopgaver tæller"
+
+msgid "No tasks yet."
+msgstr "Ingen opgaver endnu."
+
+msgid "Invoice ID"
+msgstr "Faktura ID"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Refund"
+msgstr "Tilbagebetale"
+
+msgid "No invoices yet."
+msgstr "Ingen fakturaer endnu."
+
+msgid "Refund Reason"
+msgstr "Årsag til tilbagebetaling"
+
+msgid "Duplicate charge"
+msgstr "Dublet debitering"
+
+msgid "Fraudulent charge"
+msgstr "Svigagtig sigtelse"
+
+msgid "Requested by customer"
+msgstr "Forespurgt af kunden"
+
+msgid "On Board"
+msgstr "Ombord"
+
+msgid "Stripe"
+msgstr "Stribe"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Rolleinfo"
+
+msgid "It cannot be changed later"
+msgstr "Det kan ikke ændres senere"
+
+msgid "Role Permissions"
+msgstr "Rolle tilladelser"
+
+msgid "e-signs"
+msgstr "e-skilte"
+
+msgid "on"
+msgstr "på"
+
+msgid "Allowed File Sizes"
+msgstr "Tilladte filstørrelser"
+
+msgid "Create"
+msgstr "skab"
+
+msgid "Creating..."
+msgstr "Oprettelse ..."
+
+msgid "Modules"
+msgstr "moduler"
+
+msgid "Roles"
+msgstr "Roller"
+
+msgid "Profile information"
+msgstr "Profiloplysninger"
+
+msgid "No role found."
+msgstr "Ingen rolle fundet."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Når en sag er oprettet, skal du automatisk tildele disse brugere"
+
+msgid "Remove All"
+msgstr "Fjern alt"
+
+msgid "User Name"
+msgstr "Brugernavn"
+
+msgid "Notify"
+msgstr "Underrette"
+
+msgid "Host User"
+msgstr "Værtsbruger"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Når en bruger er tildelt en sag, skal du automatisk tilføje skabeloner"
+
+msgid "No post selected"
+msgstr "Intet indlæg er valgt"
+
+msgid "No form selected"
+msgstr "Ingen formular valgt"
+
+msgid "No e-sign selected"
+msgstr "Intet e-skilt valgt"
+
+msgid "Templates"
+msgstr "Skabeloner"
+
+msgid "Add Templates"
+msgstr "Tilføj skabeloner"
+
+msgid "Idle Cases"
+msgstr "Tomgangskasser"
+
+msgid "When a case is idle, post this message"
+msgstr "Når en sag er inaktiv, skal du sende denne besked"
+
+msgid "No case type selected"
+msgstr "Ingen sagstype valgt"
+
+msgid "Idle Days"
+msgstr "Ledige dage"
+
+msgid "Post Id"
+msgstr "Indlægs-id"
+
+msgid "Set Idle Message"
+msgstr "Indstil ledig besked"
+
+msgid "No task selected"
+msgstr "Ingen opgave valgt"
+
+msgid "No operation order selected"
+msgstr "Ingen handlingsrækkefølge valgt"
+
+msgid "Operation Order"
+msgstr "Operation Order"
+
+msgid "Add Templates to Assign Users"
+msgstr "Tilføj skabeloner for at tildele brugere"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Sagsskema"
+
+msgid "User Form"
+msgstr "Brugerformular"
+
+msgid "Notes Form"
+msgstr "Bemærkningsformular"
+
+msgid "Defaults"
+msgstr "standarder"
+
+msgid "Required"
+msgstr "Nødvendig"
+
+msgid "Public User Signup link:"
+msgstr "Offentlig brugertilmeldingslink:"
+
+msgid "Design Settings"
+msgstr "Designindstillinger"
+
+msgid "Favicon:"
+msgstr "favicon:"
+
+msgid "Change file"
+msgstr "Skift fil"
+
+msgid "Delete Favicon"
+msgstr "Slet Favicon"
+
+msgid "Logo:"
+msgstr "Logo:"
+
+msgid "Delete Logo"
+msgstr "Slet logo"
+
+msgid "Text Color"
+msgstr "Tekstfarve"
+
+msgid "Recommended Colors:"
+msgstr "Anbefalede farver:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "Nulstil"
+
+msgid "Background Color"
+msgstr "Baggrundsfarve"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Virksomhedsoplysninger"
+
+msgid "Website"
+msgstr "Internet side"
+
+msgid "Terms of Use URL"
+msgstr "Vilkår for brug URL"
+
+msgid "User Signup"
+msgstr "Brugertilmelding"
+
+msgid "Allow Signup"
+msgstr "Tillad tilmelding"
+
+msgid "Auto Create Case"
+msgstr "Opret sag automatisk"
+
+msgid "Case User Role"
+msgstr "Case brugerrolle"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Analytics-nøgle"
+
+msgid "delete"
+msgstr "slette"
+
+msgid "Crop Image"
+msgstr "Beskær billede"
+
+msgid "No Filter"
+msgstr "Intet filter"
+
+msgid "No logs requested."
+msgstr "Ingen logfiler anmodet."
+
+msgid "Logs list is empty."
+msgstr "Logfilen er tom."
+
+msgid "Download CSV"
+msgstr "Download CSV"
+
+msgid "Request Logs"
+msgstr "Anmodning Logs"
+
+msgid "Log Type"
+msgstr "Log Type"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Select a case"
+msgstr "Vælg en sag"
+
+msgid "Enter the email address"
+msgstr "Indtast e-mail-adressen"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Header (3 max)"
+msgstr "Overskrift (maks. 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Når en bruger tilmelder sig app, skal du bede brugeren om at dele følgende"
+
+msgid "No user intake found."
+msgstr "Intet brugerindtag fundet."
+
+msgid "User Type"
+msgstr "Bruger Type"
+
+msgid "Intake Form"
+msgstr "Indtagelsesform"
+
+msgid "Complete After"
+msgstr "Fuldfør efter"
+
+msgid "No user type selected"
+msgstr "Ingen brugertype valgt"
+
+msgid "No intake form selected"
+msgstr "Der er ikke valgt nogen optagelsesform"
+
+msgid "Complete After Date"
+msgstr "Komplet efterdato"
+
+msgid "Complete After Time"
+msgstr "Komplet efter tid"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Dato og klokkeslæt skal være mindre eller lig med nu"
+
+msgid "Comment ct"
+msgstr "Kommentar ct"
+
+msgid "View Ticket"
+msgstr "Se billet"
+
+msgid "Ticket"
+msgstr "Billet"
+
+msgid "No tickets yet."
+msgstr "Ingen billetter endnu."
+
+msgid "User not found."
+msgstr "Bruger ikke fundet."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Brugeren kan redigere deres kontooplysninger undtagen sektionen med "
+"værtsbrugerattributter."
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgid "Zip Postal Code"
+msgstr "Postnummer"
+
+msgid "Host User Attributes"
+msgstr "Værtsbrugerattributter"
+
+msgid "User Status"
+msgstr "Bruger Status"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"En permanent etiket til nemt at finde en bruger. (a-z, 0-9, -, /) er tilladt"
+
+msgid "App only User Intake Fields"
+msgstr "Kun app-brugerindtagsfelter"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP KUN TILDELINGSFELT"
+
+msgid "s found."
+msgstr "s fundet."
+
+msgid "Created Date"
+msgstr "Oprettet dato"
+
+msgid "View Cases"
+msgstr "Se sager"
+
+msgid "VIEW CASES"
+msgstr "SE CASES"
+
+msgid "Get Started"
+msgstr "Kom igang"
+
+msgid "Password"
+msgstr "Adgangskode"
+
+msgid "Email is not valid."
+msgstr "Email er ikke gyldigt."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive tillader dig og din klient"
+
+msgid "work together"
+msgstr "arbejde sammen"
+
+msgid "at any time, in any place."
+msgstr "når som helst, hvor som helst."
+
+msgid "Explore"
+msgstr "Udforske"
+
+msgid "Pricing"
+msgstr "Prissætning"
+
+msgid "Support & Docs"
+msgstr "Support & Docs"
+
+msgid "FAQ"
+msgstr "Ofte stillede spørgsmål"
+
+msgid "Failed to validate if you are human"
+msgstr "Kunne ikke validere, hvis du er menneske"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "MELD MIG, NÅR DET ER KLAR!"
+
+msgid "Thank You!"
+msgstr "Tak skal du have!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Vi giver dig besked, når appen er klar"
+
+msgid "Most popular"
+msgstr "Mest populære"
+
+msgid "All languages"
+msgstr "Alle sprog"
+
+msgid "Oops, Something went wrong."
+msgstr "Ups! Noget gik galt."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Ups! Noget gik galt. Vores team er blevet underrettet. Prøv igen senere."
+
+msgid "Support Documentation"
+msgstr "Support dokumentation"
+
+msgid "All Categories"
+msgstr "alle kategorier"
+
+msgid "Contents"
+msgstr "Indhold"
+
+msgid "Related Articles"
+msgstr "relaterede artikler"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Kom i gang: processer, bedste praksis, opsætningsvejledninger og meget mere!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Find alt, hvad du skal bruge for at komme på arbejde i CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "All case kommunikation på ét sted"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Konverter, post opdateringer, besvar spørgsmål, noter, kommenter og få alle "
+"diskussioner mærket med real-time e-mail og SMS-meddelelser."
+
+msgid "Share with confidence"
+msgstr "Del med tillid"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Del dokumenter og fotos mellem klienter og teammedlemmer på alle enheder, så"
+" alle holder sig ajour."
+
+msgid "Take it on the go"
+msgstr "Tag det på farten"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Brug mobile enheder som tablets og smartphones til at samarbejde om "
+"nøgledetaljer, diskutere større problemer, udveksle dokumenter og kortlægge "
+"sagsforløb i realtid."
+
+msgid "Immediate records access"
+msgstr "Umiddelbar registrering adgang"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Autoriserede brugere kan hurtigt få adgang til klientdata og sagsinformation"
+" (herunder aktuelle, tidligere, åbne, lukkede og afventende sager), alt "
+"gennem en portal."
+
+msgid "Automatic timezone conversion"
+msgstr "Automatisk tidszoneomregning"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Uanset om du rejser eller opholder dig på et andet sted, synkroniseres du "
+"med vores samtalehåndteringssystem for tidszone."
+
+msgid "Track Events"
+msgstr "Spor begivenheder"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Planlæg hurtigt møder, overvåge kommende arrangementer, og inviter kunder og"
+" teammedlemmer som deltagere."
+
+msgid "Video Conferencing"
+msgstr "Videokonference"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Opret forbindelse med kunder og teammedlemmer via live videochats for endnu "
+"mere interaktivitet."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatiser opgaver, når en sag oprettes, eller en bruger tildeles en sag."
+
+msgid "Automated Alerts"
+msgstr "Automatiserede advarsler"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Vil du ønske dine kunder lykønskning med fødselsdagen? Konfigurer en "
+"automatisk meddelelse til både tidligere og nuværende klienter til deres "
+"specielle dag!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Opbevarer klientoplysninger up-to-date"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Klienter kan ændre deres profiler med opdaterede data, fotos, adgangskoder "
+"og kontoindstillinger."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Stil spørgsmål, få svar."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Opret tilpassede formularer og send dem til klienter til udfyldelse. "
+"Indsamle vigtige oplysninger, give exit-undersøgelser, og få alle de data, "
+"du har brug for for at gøre dit job godt!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Direktør for salg af Kain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Gør kundefakturering lige så let som muligt med online fakturaer og "
+"betalinger."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Vi elsker sagen fakturering, fordi det lader kunder se præcis, hvad de "
+"betaler for."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Næstformand for Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Nyd den nemme e-signering"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Log af alle dokumenter elektronisk via DocSign ved hjælp af uploadede "
+"dokumenter og anmodninger om digital klientsignatur og bekræftelse."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Upload et dokument, marker det til signatur, og derefter logger klienten på "
+"og e-signerer det. Alt bliver gjort, uden at kunden skal ind i vores "
+"bygning. Dette er praktisk med kunder, der ikke er tæt på et kontor, eller "
+"som bor uden for staten."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Direktør for driften af kapitalforsikring"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Forbedre dit system. Mindre arbejde, flere resultater."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Brug selvbetjeningsfunktionen"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Tag total kontrol over din CaseActive management suite fra selve platformen."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Sammenkobling af dit eksisterende system med CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integrer vores proprietære API til automatisk at oprette sager, tildele "
+"brugere og generere rapporter baseret på dit systeminput."
+
+msgid "Acting as a"
+msgstr "Fungerer som en"
+
+msgid "virtual administrative assistant"
+msgstr "virtuel administrativ assistent"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive giver dig mulighed for strømlinet dokument- og mediehåndtering,"
+" privat"
+
+msgid "client-to-customer communications"
+msgstr "kunde-til-kunde kommunikation"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "arrangement planlægning og trin-for-trin sagsbehandling."
+
+msgid "Self-Serve Administration"
+msgstr "Selvbetjent administration"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"CaseActive fungerer som en virtuel administrativ assistent og giver dig "
+"strømlinet dokument- og mediehåndtering, privat klient til kunde-"
+"kommunikation, begivenhedsplanlægning og trin-for-trin sagsbehandling."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Administrer brugerlogins &amp; oprettelse af sager"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Overvåge direkte oprettelsen af brugerkonti, mens de godkender deres "
+"adgangstilladelser fra sag til sag. Administrer sagsoprettelse, fremskridt "
+"og lukning med fuld rapportering hvert skridt på vejen."
+
+msgid "View Caseactive Analytics"
+msgstr "Se caseaktive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Se nøjagtigt, hvordan en sag skrider frem, antallet af sager er afsluttet, "
+"og se responstider via CaseActives grundige analysemodul. Viden er magt, og "
+"vi har givet dig alt hvad der er at vide om dine egne projekter."
+
+msgid "Monitor User Logs"
+msgstr "Overvåg brugerlogger"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Hold øje med klienter og teammedlemmer logins og platformaktivitet for at "
+"sikre, at alle deres handlinger er autoriseret inden for sagsparametrene, og"
+" at alle medlemmer udfører deres opgaver efter behov."
+
+msgid "Employ Advanced Searches"
+msgstr "Ansøg avancerede søgninger"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Find præcis, hvad du har brug for, når du har brug for det. Søg i sager "
+"efter bruger- og klientnavn, nøgleord, tidslinjer, uploadede dokumenter og "
+"meget mere!"
+
+msgid "Create Custom Fields"
+msgstr "Opret brugerdefinerede felter"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Generer specialiserede case-felter til input fra klient og teammedlem, og "
+"indsamle de data, du har brug for fra alle involverede. Gør saggrænsefladen "
+"unik for din virksomhed og brand!"
+
+msgid "Create Custom Templates"
+msgstr "Opret brugerdefinerede skabeloner"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Udvikle en enorm vifte af tilpassede formularer og skabeloner til "
+"distribution og færdiggørelse både under og efter en sag (som "
+"klientudgangsundersøgelser). Uanset hvilken form du har brug for, kan du "
+"oprette!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Fakturering undervejs"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Vi er her for at hjælpe! Kontakt os, hvis du stadig har spørgsmål, og vi "
+"svarer inden for to arbejdsdage."
+
+msgid "* Email is not valid."
+msgstr "* Email er ikke gyldigt."
+
+msgid "Low"
+msgstr "Lav"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "High"
+msgstr "Høj"
+
+msgid "Critical"
+msgstr "Kritisk"
+
+msgid "Choose Importance"
+msgstr "Vælg vigtighed"
+
+msgid "Department"
+msgstr "Afdeling"
+
+msgid "Sales"
+msgstr "Salg"
+
+msgid "Other"
+msgstr "Andet"
+
+msgid "Choose Department"
+msgstr "Vælg afdelingen"
+
+msgid "Loading"
+msgstr "Indlæser"
+
+msgid "Importance"
+msgstr "Betydning"
+
+msgid "Send A New Message"
+msgstr "Send en ny besked"
+
+msgid "Send message"
+msgstr "Send besked"
+
+msgid "Answers to Questions"
+msgstr "Svar på spørgsmål"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Har du spørgsmål? Læs yderligere vejledning i vores svar på kundernes "
+"forespørgsler og find svarene på dine egne."
+
+msgid "How secure is CaseActive?"
+msgstr "Hvor sikker er CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive bruger militær- og bankkvalitet 128-bit SSL-kryptering til "
+"datatransmission og 256-bit AES-kryptering til hvilende data. Hver "
+"CaseActive-instans har en unik nøgle, der er genereret, hvilket giver et "
+"ekstra lag af sikkerhed til din virksomhed. Vi vil aldrig tillade et andet "
+"firma at få adgang til din database eller dit lagersystem."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Jeg har et eksisterende system på plads. Kan CaseActive arbejde med mit "
+"eksisterende system?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Ja, du kan integrere vores proprietære API eller importmodul for automatisk "
+"at oprette sager, tildele brugere og generere rapporter baseret på dit "
+"systeminput."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Vi har kunder over hele verden. Er CaseActive tilgængelig på andre sprog?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Ja, CaseActive app og kommunikation kan oversættes til over 60 sprog, "
+"herunder mandarin kinesisk, spansk, hindi og russisk samt engelsk."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Kan jeg tilføje et logo eller tilpasse CaseActive på nogen måde?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Absolut! CaseActive er designet med dig i tankerne. På indstillingssiden for"
+" administrationspanelet kan du uploade din egen personlige farve og vælge "
+"dine firmafarver."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr "Er CaseActive kompatibel med enhver enhed (pc, Mac, tablet og mobil)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive er en responsiv webapp. Den kører i enhver webbrowser som "
+"Internet Explorer, Firefox, Safari eller Chrome osv. Det betyder, at den "
+"type enhed (PC, Mac, Tablet og Mobil), du bruger, ikke gør nogen forskel. Du"
+" skal blot åbne webbrowseren, logge ind på din CaseActive-konto, og du er "
+"klar."
+
+msgid "How many clients can I have?"
+msgstr "Hvor mange kunder kan jeg have?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Du faktureres pr. personaleplads pr. måned. Du kan have et ubegrænset antal "
+"klientbrugere."
+
+msgid "Enhance User Experience"
+msgstr "Forbedre brugeroplevelsen"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Der er ingen minimumsgebyrer og ingen forhåndsforpligtelser. Du betaler kun "
+"per personaleplads, per måned."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "om måneden"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Alt hvad du behøver for at komme i gang. 3 sæder medfølger."
+
+msgid "Business"
+msgstr "Forretning"
+
+msgid "Popular"
+msgstr "Populær"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Vores mest populære plan. 4 sæder medfølger."
+
+msgid "Enterprise"
+msgstr "Enterprise"
+
+msgid "Contact sales for pricing"
+msgstr "Kontakt salgsafdelingen for pris"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Brugerdefinerede priser, avancerede funktioner, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Kontakt Salg"
+
+msgid "Overview"
+msgstr "Oversigt"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Kommuniker og del dokumenter med dine kunder"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Planlæg tilbagevendende arrangementer og møder"
+
+msgid "Fully customize your form to generate data"
+msgstr "Fuldt tilpasse din formular til at generere data"
+
+msgid "Keep track of case progression"
+msgstr "Hold styr på sagsforløbet"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Anmod om kompatible e-signaturer fra flere brugere"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Generer en faktura, som din kunde kan se eller betale"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Giver alle mulighed for at vide, hvad der kommer og skal"
+
+msgid "Auto notify the user when something is due"
+msgstr "Giver automatisk brugeren besked, når noget skal betales"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Tilføj tilpassede sagsfelter til alle dine sager"
+
+msgid "Custom Branding"
+msgstr "Brugerdefineret branding"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Gør din app unik med logo og farvestile"
+
+msgid "Access to customer support"
+msgstr "Adgang til kundesupport"
+
+msgid "Storage"
+msgstr "Opbevaring"
+
+msgid "Unlimited"
+msgstr "Ubegrænset"
+
+msgid "Additional Users Seats"
+msgstr "Yderligere brugersæder"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "$83,34"
+
+msgid "Convo with recording"
+msgstr "Samtale med optagelse"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video- eller lydchat med optagelse gemt i sagen"
+
+msgid "API Access"
+msgstr "API-adgang"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatiser opgaver med adgang til API"
+
+msgid "Module Templates"
+msgstr "Modul skabeloner"
+
+msgid "Create a standard template and reuse it"
+msgstr "Opret en standardskabelon og genbrug den"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Kør automatisk en handling, når en sag eller sag, der er tildelt, udløses"
+
+msgid "Newsletter"
+msgstr "Nyhedsbrev"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Send generelle, fødselsdags- eller feriebeskeder til kunder (kommer snart)"
+
+msgid "Encryption at rest"
+msgstr "Kryptering i hvile"
+
+msgid "Protects your data from system compromise"
+msgstr "Beskytter dine data mod systemkompromittering"
+
+msgid "Encryption in transit"
+msgstr "Kryptering i transit"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Beskytter dine data, hvis kommunikation opsnappes"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML-baseret single sign-on (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Reager i realtid på begivenheder"
+
+msgid "Seamless Collaboration"
+msgstr "Sømløst samarbejde"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive strømliner det digitale samarbejde mellem din virksomhed og "
+"kunder - fra rådgivning til løsning, alt på én platform."
+
+msgid "Take a tour"
+msgstr "Tag en tour"
+
+msgid "Stay Connected"
+msgstr "Forbliv forbundet"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Opret øjeblikkelig kontakt med teammedlemmer ved hjælp af CaseActives "
+"brugervenlige interface som dit one-stop hub til klient- og sagsstyring."
+
+msgid "Connect"
+msgstr "Opret forbindelse"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed holder dig opdateret med dine kunder."
+
+msgid "Schedule"
+msgstr "Tidsplan"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Opret begivenheder, inviter deltagere og overvåge din kalender."
+
+msgid "Call"
+msgstr "Opkald"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "Engagere i live videokonferenceopkald til enhver tid, hvor som helst."
+
+msgid "Share"
+msgstr "Del"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Sikker upload upload filer, diskutere dem og del."
+
+msgid "Powerful Case Management"
+msgstr "Kraftfuld sagstyring"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Out-of-the-Box Funktionalitet"
+
+msgid "Easily assign individuals"
+msgstr "Tildel enkelt enkeltpersoner"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "eller teams til en sag og samarbejde med kunder."
+
+msgid "Manage user groups"
+msgstr "Administrer brugergrupper"
+
+msgid "and customize access permissions."
+msgstr "og tilpass adgangstilladelser."
+
+msgid "All data is automatically backed up"
+msgstr "Alle data sikkerhedskopieres automatisk"
+
+msgid "in case a recovery is ever needed."
+msgstr "hvis der er behov for et opsving."
+
+msgid "All information"
+msgstr "Alle oplysninger"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "er sikkert krypteret og sikrer dit absolutte privatliv."
+
+msgid "Customize"
+msgstr "Tilpas"
+
+msgid "with your own colors and logo."
+msgstr "med dine egne farver og logo."
+
+msgid "can be enabled/disabled at any time."
+msgstr "kan til enhver tid aktiveres / deaktiveres."
+
+msgid "Benefits of "
+msgstr "Fordele ved"
+
+msgid "Reduction in time "
+msgstr "Reduktion i tid"
+
+msgid "to intake new clients"
+msgstr "at optage nye kunder"
+
+msgid "Minimize "
+msgstr "Minimer"
+
+msgid "the chance of "
+msgstr "chancen for"
+
+msgid "malpractice"
+msgstr "fejlbehandling"
+
+msgid "Better experience "
+msgstr "Bedre oplevelse"
+
+msgid "for your client"
+msgstr "for din klient"
+
+msgid "Increase in caseload capacity "
+msgstr "Forøgelse af sagsbelastningskapacitet"
+
+msgid "per staff"
+msgstr "per personale"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Kom i gang med vores indbyggede apps"
+
+msgid "All you need in one place."
+msgstr "Alt hvad du behøver på ét sted."
+
+msgid "Case Feed"
+msgstr "Case Feed"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Tildel nemt en klient, personale og associerede virksomheder til en sag og "
+"engagere dig i et sikkert rum, der giver dig mulighed for at lægge "
+"sagsforløb, have realtidschat og videosamtaler samt planlægge begivenheder, "
+"e-signere / uploade / downloade dokumenter og meget mere."
+
+msgid "Case Invoices"
+msgstr "Sagsfakturaer"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Med faktureringsfaktor er klientfakturering blot et klik væk, og lader dig "
+"sende automatisk genererede fondsanmodninger og modtage direkte betalinger "
+"til gengæld."
+
+msgid "Case Events"
+msgstr "Case Begivenheder"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Hold din casekalender til enhver tid organiseret, planlægning af "
+"begivenheder, inviterer deltagere, sender begivenhedspåmindelser og sikrer, "
+"at alt forbliver på banen."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Mød med klienter og teammedlemmer praktisk talt &#39;ansigt til ansigt&#39; "
+"gennem indbygget videokonference, så du kan tale direkte med alle "
+"involverede."
+
+msgid "Case Forms & E-signs"
+msgstr "Sagsskemaer & E-skilte"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Tilpas din sagsform fuldt ud til at generere unikke skabeloner, der tjener "
+"dine specifikke behov. Disse skabeloner kan derefter distribueres til "
+"klienter og teammedlemmer for at udfylde og underskrive"
+
+msgid "Case notes"
+msgstr "Sagsnotater"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Hold noter med tilpassede felter og vedhæftede filer om sagsforløb for "
+"nuværende og fremtidige teammedlemmer"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Upload, del, kommenter og download filer, der vedrører sagen, så alle har en"
+" reference til alle de vigtige detaljer, personer og situationer."
+
+msgid "About Case"
+msgstr "Om Case"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Lad klienter og personale se generelle detaljer for de sager, de er "
+"involveret i. Du kan derefter lukke sagen, når alt er pakket op, eller give "
+"et teammedlem tilladelse til at gøre det."
+
+msgid "Plus Many More Features"
+msgstr "Plus mange flere funktioner"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Brug den selvbetjenende administrative funktion Tag total kontrol over din "
+"CaseActive-administrationssuite fra selve platformen."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Forbind nemt dit eksisterende system med CaseActive Integrer vores "
+"proprietære API for automatisk at oprette sager, tildele brugere og generere"
+" rapporter baseret på dit systeminput."
+
+msgid "Multi-Language Enabled:"
+msgstr "Multi-sprog aktiveret:"
+
+msgid "Interact with clients in"
+msgstr "Interagere med klienter i"
+
+msgid "70+ languages"
+msgstr "70 + sprog"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Uanset om du arbejder lokalt eller globalt, kan du oversætte din klients "
+"modersmål gennem CaseActives"
+
+msgid "language management system"
+msgstr "sprogstyringssystem"
+
+msgid "No more confusion or limits."
+msgstr "Ikke mere forvirring eller grænser."
+
+msgid "Let's see what others are saying"
+msgstr "Lad os se, hvad andre siger"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Oplev, hvordan vores fantastiske kunder - fra små virksomheder til "
+"virksomheder - øgede deres konkurrencefordel ved at blive CaseActive "
+"krigere."
+
+msgid "SUPPORT"
+msgstr "SUPPORT"
+
+msgid "Everything at Your Fingertips."
+msgstr "Alt ved hånden."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Kom i gang med din CaseActive-app ved at følge vores videoguide og tilpasse "
+"den efter dine behov."
+
+msgid "What are you looking for..."
+msgstr "Hvad kigger du efter..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Sidst opdateret: 7. juni 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive forbeholder sig retten til når som helst og efter eget skøn at "
+"opdatere og ændre nogen eller alle disse Servicevilkår. Når CaseActive "
+"ændrer disse servicevilkår, ændrer CaseActive datoen &#39;Sidst "
+"opdateret&#39; ovenfor. Du er ansvarlig for regelmæssigt at gennemgå den "
+"seneste version af tjenesten. Din fortsatte brug af tjenesterne, efter at "
+"sådanne ændringer er foretaget, udgør dit samtykke til at være bundet af "
+"sådanne ændringer. Hvis du gør indsigelse mod ændringer i disse "
+"servicevilkår, skal dit eneste og eksklusive middel være at opsige "
+"tjenesterne i henhold til betingelserne heri."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Disse generelle servicevilkår gælder for tjenesterne generelt. De yderligere"
+" betingelser, der gælder for hver tilbudt tjeneste, er anført i nedenstående"
+" links (&#39;Yderligere servicevilkår&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Tjenester:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Vores proprietære software er en serviceplatform, som vi er vært for vores "
+"kunder for at tilbyde de tjenester, der er beskrevet nedenfor. For at "
+"abonnere på en tjeneste skal du udføre en ordreformular for denne service og"
+" / eller udfylde tilmeldingsstrømmen for den pågældende tjeneste. Du har kun"
+" ret til at bruge de Tjenester, som du har tegnet og betalt for, og din brug"
+" af Tjenesterne er underlagt din overholdelse af alle vilkår og betingelser "
+"i aftalen. Du anerkender og accepterer, at vi forbeholder os ret til at "
+"ændre Tjenesterne (eller dele heraf) fra tid til anden, og at vi ikke er "
+"ansvarlige over for dig eller overfor tredjepart for nogen ændring af "
+"Tjenesterne."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Beskrivelse af CaseActive Service: CaseActive Service er pakken med "
+"hostede softwaretjenester til online klientsamarbejdsstyring, der tilbydes "
+"af CaseActive LLC. Tilmeldingsstrømmen, som du har accepteret, eller den "
+"ordreformular, du har udført, identificerer den CaseActive Service, du har "
+"tilmeldt dig, abonnementsperioden og de gebyrer, du skal betale for "
+"CaseActive Service. De yderligere vilkår og betingelser, der gælder for din "
+"brug af CaseActive Service, fremgår af:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Udvidelse af tjenesterne:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Du kan abonnere på eventuelle yderligere tjenester, herunder nye tjenester, "
+"som fra tid til anden kan stilles til rådighed af CaseActive, eller øge dine"
+" eksisterende tjenester ved at udføre en yderligere ordreformular eller "
+"tilmeldingsstrøm som en del af tjenesterne. Hver nye tilmeldingsstrøm eller "
+"ordreformular vil omfatte pris og faktureringsdato (r) for de tjenester, der"
+" tilføjes på det tidspunkt. Alle nye tjenester er underlagt disse generelle "
+"servicevilkår og eventuelle yderligere vilkår og betingelser, der specifikt "
+"kan gælde for sådanne yderligere tjenester."
+
+msgid "3. Customer Support:"
+msgstr "3. Kundesupport:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Forudsat at du har betalt alle gebyrer, der skal betales af dig for "
+"Tjenesterne, bruger vi kommercielt rimelige anstrengelser for at yde dig "
+"gratis supporttjenester til dig og dine autoriserede brugere, der har "
+"abonneret på Tjenesterne, uden beregning. En kundeservicerepræsentant vil "
+"blive tildelt dine sager. Ubegrænsede sager accepteres fra autoriserede "
+"brugere. Vores standard support er tilgængelig 24/7, ekskl. Større "
+"helligdage, der inkluderer mindedag, uafhængighedsdag, arbejdsdag, "
+"Thanksgiving, jul og nytårsdag. Du kan kontakte kundesupport ved at bruge "
+"vores"
+
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Vores svartid må ikke være større end to arbejdsdage."
+
+msgid "4. Training:"
+msgstr "4. Uddannelse:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Forudsat at du har betalt alle gebyrer, du skal betale for Tjenesterne, skal"
+" vi stille fjern, live eller indspillet træningssessioner til rådighed for "
+"dine udpegede, navngivne og autoriserede brugere samt give tutorials, der er"
+" tilgængelige via Hjælp og træningssektionen på vores websted på uden ekstra"
+" omkostninger. For nogle tjenester leverer vi en del træning på stedet efter"
+" anmodning og mod et ekstra gebyr. Kontakt os ved hjælp af vores"
+
+msgid "for more information about on-site training."
+msgstr "for mere information om træning på stedet."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Dine rettigheder og begrænsninger:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Licens: Med forbehold af aftalevilkårene og ved rettidig betaling af "
+"alle gældende gebyrer, der er anført i ordreformularen eller "
+"tilmeldingsstrømmen, giver vi dig en ikke-eksklusiv, ikke-overførbar, "
+"begrænset ret og licens til at bruge (og tillade dine autoriserede brugere "
+"at bruge) de Tjenester, som du har abonneret på, udelukkende til dine "
+"interne forretningsformål."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Autoriserede brugere: Du (i) er ansvarlig for dine autoriserede brugers "
+"overholdelse af aftalen, og (ii) skal bruge kommercielt rimelige "
+"bestræbelser på at forhindre uautoriseret adgang til eller brug af "
+"Tjenesterne og skal straks underrette os om enhver sådan uautoriseret adgang"
+" eller brug. Det er dit ansvar at fjerne adgang til Tjenesterne, hvis den "
+"autoriserede status for en bruger eller udpeget medarbejder ændres."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Ditt ansvar og begrænsninger: Du er ansvarlig for alle aktiviteter, der "
+"finder sted under dine brugerkonti eller af dine autoriserede brugere. Du "
+"skal: (i) have det eneste ansvar for nøjagtigheden, kvaliteten, "
+"integriteten, lovligheden, pålideligheden og hensigtsmæssigheden af alle "
+"data, du sender til Tjenesterne; (ii) anvende kommercielt rimelige "
+"bestræbelser på at forhindre uautoriseret kontrol eller manipulation eller "
+"anden uautoriseret adgang til eller brug af Tjenesterne og straks underrette"
+" os om uautoriseret brug eller sikkerhedsbrud; (iii) overholde alle gældende"
+" lokale, statslige, føderale og udenlandske love (herunder love om privatliv"
+" og beskyttelse af personlige eller forbrugeroplysninger) ved brug af "
+"tjenesterne; (iv) i det omfang, det er relevant, overholde alle gældende "
+"regler for kreditkortforeninger (herunder American Express, MasterCard og "
+"Visa); og (v) skaffe og vedligeholde al den hardware, software og "
+"kommunikationsudstyr, der er nødvendig for at få adgang til Tjenesterne, og "
+"betale alle adgangsafgifter (f.eks. ISP-gebyrer), som du har afholdt i "
+"forbindelse med din brug af Tjenesterne."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Du må ikke, og du skal sikre, at dine autoriserede brugere ikke, (i) "
+"adskiller, reverserer ingeniør, dekompilerer eller på anden måde forsøger at"
+" dechiffrere nogen kode i forbindelse med Tjenesterne, eller ændre, "
+"tilpasse, oprette afledte værker baseret på eller oversætte tjenester; (ii) "
+"licens, underlicens, salg, leje, tildele, distribuere, timeshare overførsel,"
+" lease, låne, videresælge for fortjeneste, distribuere eller på anden måde "
+"kommercielt udnytte, give rettigheder i eller stille Tjenesterne til "
+"rådighed for enhver tredjepart; (iii) bruge Tjenesterne undtagen som "
+"udtrykkeligt godkendt nedenfor eller i strid med gældende love; (iv) deltage"
+" i ulovlig eller vildledende handelspraksis med hensyn til Tjenesterne; (v) "
+"omgå eller deaktivere nogen sikkerhed eller andre tekniske funktioner eller "
+"målinger af tjenesterne eller ethvert andet aspekt af softwaren eller på "
+"nogen måde forsøge at få eller opnå uautoriseret adgang til tjenesterne "
+"eller de relaterede computersystemer eller netværk; (vi) bruge Tjenesterne "
+"til at transmittere krænkende, injurierende, uanstændigt, truende eller på "
+"anden måde ulovligt, usikkert, ondsindet, voldeligt eller torturisk "
+"materiale, eller til at opbevare eller overføre materiale i strid med "
+"tredjeparts rettigheder til privatliv; (vii) bruger Tjenesten til at gemme "
+"eller transmittere vira, orme, tidsbomber, trojanske heste og anden skadelig"
+" eller ondsindet kode, filer, scripts, agenter eller programmer eller til at"
+" sende spam eller på anden måde duplikative eller uopfordrede meddelelser i "
+"strid med gældende love ; eller (viii) forstyrre eller forstyrre "
+"integriteten eller ydeevnen af tjenesterne eller tredjepartsdata indeholdt "
+"deri."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Forbehold af rettigheder: Ingen andre rettigheder tildeles undtagen som "
+"udtrykkeligt angivet i aftalen. Aftalen er ikke et salg og formidler ikke "
+"nogen rettigheder eller ejerskab i eller til Tjenesterne eller underliggende"
+" software. Vi ejer alle rettigheder, ejendomsret og interesser, herunder "
+"alle immaterielle rettigheder, i og til Tjenesterne og den underliggende "
+"software og enhver og alle opdateringer, opgraderinger, ændringer, "
+"forbedringer, forbedringer eller afledte værker deraf, og til enhver idé, "
+"viden- hvordan og programmer udviklet af os eller vores licensgivere under "
+"udførelsen af Tjenesterne."
+
+msgid "6. Term and Termination:"
+msgstr "6. Term og opsigelse:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Term: Tjenesternes løbetid varierer afhængigt af den Tjeneste, du har "
+"tilmeldt dig, og skal fremgå af ordreformularen eller aftalt i "
+"tilmeldingsstrømmen og fornyes som følger:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive serviceperiode: Dit abonnement på CaseActive Service skal "
+"automatisk fornyes med på hinanden følgende vilkår for en måned eller et år,"
+" jf. Ordreformularen eller tilmeldingsstrømmen, medmindre vi indstiller den "
+"service, du giver os, med varsel om ikke-fornyelse mindst tredive (30) dage "
+"før udløbet af den daværende nuværende periode."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 CaseActive webstedstjenesters periode: Dit abonnement på CaseActive "
+"websteds-tjenester skal automatisk fornyes med på hinanden følgende vilkår "
+"for en måned eller et år, som beskrevet i ordreformularen eller "
+"tilmeldingsstrømmen, medmindre vi indstiller tjenesten eller du leverer os "
+"med varsel om ikke-fornyelse mindst tredive (30) dage før udløbet af den "
+"daværende nuværende periode."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Skriftlig meddelelse om ikke-fornyelse af dig skal indsendes til "
+"CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Opsigelse: Hver af parterne kan opsige aftalen og alle "
+"serviceabonnementer (i), hvis den anden part overtræder nogen af sine "
+"væsentlige forpligtelser i henhold til aftalen, og sådan overtrædelse ikke "
+"helbredes inden for tredive (30) dage efter modtagelse af varsel fra ikke-"
+"overtrædelsen part, eller (ii) hvis den anden part bliver insolvent eller "
+"konkurs, likvideret eller opløses eller ophører i det væsentlige med al sin "
+"virksomhed. Vi kan opsige aftalen øjeblikkeligt i tilfælde af brud på punkt "
+"5.3 ovenfor. Ved opsigelse af aftalen vil du øjeblikkeligt indstille al brug"
+" af tjenesterne, ophøre med at repræsentere i enhver form for at du er en "
+"bruger af tjenesterne og ødelægge alle vores fortrolige oplysninger, du er i"
+" besiddelse af. Ingen af parterne er ansvarlige for skader som følge af "
+"opsigelse af aftalen eller abonnement på Tjenester som omhandlet heri; dog "
+"dog forudsat, at aftalens opsigelse ikke berører noget krav, der opstår "
+"inden en sådan opsigelse."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Håndtering af dine data i tilfælde af opsigelse: Du anerkender og "
+"accepterer, at efter udløb eller opsigelse af nogen af dine abonnementer på "
+"Tjenesterne, kan vi straks deaktivere de berørte Tjenester, og at vi efter "
+"en rimelig periode på mindst 90 (90) ) dage, kan slette din konto og dine "
+"data. I tilfælde af, at Tjenesterne opsiges af os, giver vi dig imidlertid "
+"midlertidig, begrænset adgang til Tjenesterne, ikke over 30 (30) dage, med "
+"det eneste formål at give dig mulighed for at hente dine ejendomsdata, "
+"forudsat at du har fuldt ud betalt ubestridte beløb, der skyldes os. Du "
+"accepterer endvidere, at vi ikke er ansvarlige over for dig eller over for "
+"nogen tredjepart for enhver opsigelse af din adgang til Tjenesterne eller "
+"sletning af dine data, forudsat at vi overholder betingelserne i dette "
+"afsnit 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Gebyrer:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Servicegebyrer: Du betaler de ikke-refunderbare gebyrer for tjenesterne "
+"i det beløb, der er angivet i tilmeldingsstrømmen eller ordreformularen "
+"(&#39;Servicegebyrer&#39;) og i henhold til faktureringsfrekvensen, der er "
+"angivet i tilmeldingsstrømmen eller ordren Form. Servicegebyrer forfalder og"
+" skal betales på fakturadato. Servicegebyrer kan øges baseret på vores "
+"daværende gebyrer. Servicegebyrer refunderes ikke, selvom du opsiger dit "
+"abonnement tidligt."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Yderligere gebyrer: Du kan pådrage dig andre gebyrer eller gebyrer, der "
+"ikke kan refunderes, for din brug af tjenesterne ud over de gebyrer, der er "
+"angivet i ordreformularen og / eller tilmeldingsstrømmen. De ekstra gebyrer "
+"og gebyrer, der ikke kan refunderes, er angivet i de ekstra betingelser for "
+"den relevante tjeneste."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Sidste betalinger: Du anerkender, at din manglende betaling af gebyrer "
+"eller gebyrer, når de forfalder, kan resultere i suspension eller ophør af "
+"dit CaseActive-produktabonnement (er). Hvis du undlader at betale nogen af "
+"de gebyrer eller gebyrer, der skyldes i henhold til dette, forbeholder "
+"CaseActive sig retten til at engagere et inkassobureau til at opkræve "
+"gebyrer og gebyrer, og du skal betale alle omkostninger, der er afholdt af "
+"CaseActive i forbindelse med opkrævningen af sådanne forfaldne beløb, "
+"herunder , uden begrænsning, rimelige gebyrer for advokater og "
+"inkassobureauer plus renter i et beløb svarende til det mindste på 1,0% pr. "
+"måned eller den maksimale sats, der er tilladt i henhold til gældende lov."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Skatter: Du er ansvarlig for al moms, brugsafgift, merværdiafgift, "
+"kildeskat og andre lignende skatter og afgifter af enhver art, der pålægges "
+"af føderale, statslige eller lokale myndigheder på de transaktioner, der er "
+"omfattet af aftalen. Når vi har den lovlige forpligtelse til at betale eller"
+" opkræve skatter, som du er ansvarlig for i henhold til dette afsnit, "
+"faktureres og betales det passende beløb af dig, medmindre du giver os et "
+"gyldigt skattefritagelsescertifikat godkendt af den relevante "
+"skattemyndighed."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Repræsentationer og garantier:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Gensidige repræsentationer og garantier: Hver part repræsenterer og "
+"garanterer hermed over for den anden part, at (i) det har al nødvendig "
+"myndighed til at indgå og udføre sine forpligtelser i henhold til aftalen "
+"uden tilladelse fra tredjepart eller overtrædelse af enhver kontrakt eller "
+"aftale med enhver tredjepart, (ii) alle personer, der udfører forpligtelser "
+"i henhold til dette, har indgået alle nødvendige aftaler for at den skal "
+"overholde vilkårene og betingelserne i aftalen, og (iii) den skal overholde "
+"alle væsentlige overholdelser af alle love, der finder anvendelse på "
+"Tjenesterne."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Yderligere repræsentationer og garantier: Du garanterer, repræsenterer "
+"og pagt for os, at du kun bruger tjenesterne til lovlige formål i "
+"overensstemmelse med aftalen og alle gældende CaseActive politikker og "
+"retningslinjer."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Ansvarsfraskrivelse: Bortset fra de udtrykkelige garantier, der er "
+"anført i denne sektion 8, til det maksimale omfang, der er tilladt ved "
+"anvendelse af loven, påtager vi ingen andre garantier, udtrykkeligt, "
+"impliceret, lovgivningsmæssigt eller andet, i lov eller i en sag AF HANDEL, "
+"SOM TIL ALLE MÅL, INKLUDERER DETTE TIL SALGBARHED, TILFREDSKVALITET, TITEL, "
+"EGNETHED TIL ET SÆRLIGT FORMÅL ELLER IKKE-OVERTRÆDELSE. VI GARANTERER IKKE, "
+"AT SOFTWAREN ELLER TJENESTEYDELSERNE OPFYLDER ALLE DINE KRAV, INKLUDERER "
+"REGNSKABSKRAV, ELLER AT ANVENDELSE AF SOFTWAREN ELLER TJENESTEYDELSERNE IKKE"
+" ER UTROLIGE ELLER FEJLFRI. SOFTWAREN OG TJENESTEYDELSER ER LEVEREDE DIG PÅ "
+"ET &#39;SOM ER&#39; GRUNDLÆGGENDE, OG DIN BRUG AF SOFTWARE OG TJENESTER ER "
+"PÅ DIN EGEN RISIKO, INKLUDERER UDEN BEGRÆNSNING, OVERENSSTEMMELSE MED NOGEN "
+"LOVER. PARTERNE ER UTROLIG ERKENDELSE AF, AT ANSVARSFRASKRIVELSE UDSTÅR EN "
+"VÆSENTLIG DEL I AFTALEN."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"VI ANBEFALER ANERLIGE FREMSTILLINGER ELLER GARANTIER, DER DIN BRUG AF "
+"TJENESTEYDELSERNE VIL tilfredsstille eller sikre overholdelse af juridiske "
+"forpligtelser eller love eller forskrifter. DENNE ANSVARSFRASKRIVELSE "
+"ANVENDER TIL MEN ER IKKE BEGRÆNSET TIL NOGEN FEDERAL- ELLER STATSSTATUTER "
+"ELLER FORORDNINGER, DER KAN ANVENDES FOR DIG. DU ER ANSVARLIG FOR FORSIKRING"
+" AF, AT DIN BRUG AF TJENESTERNE ER I overensstemmelse med gældende lov."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"HVIS DU MANGLES MED TJENESTERNE ELLER DENNE AFTALE, SKAL DIN ENESTE OG "
+"EKSKLUSIVE LØSNING AFSLUTTE BRUG AF TJENESTERNE."
+
+msgid "9. Confidential Information:"
+msgstr "9. Fortrolige oplysninger:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Medmindre andet udtrykkeligt er godkendt af den anden part, må ingen af "
+"parterne videregive til nogen tredjepart oplysninger eller materiale leveret"
+" af den anden part i henhold til aftalen og med rimelighed forstået som "
+"fortrolige (&#39;Fortrolige oplysninger&#39;) eller bruge sådanne fortrolige"
+" oplysninger på anden måde end at udføre sine forpligtelser i henhold til "
+"aftalen. Ovennævnte begrænsninger gælder ikke for oplysninger, der er i det "
+"offentlige rum, eller som allerede er i den modtagende parts besiddelse, "
+"blev kendt af den modtagende part inden datoen for videregivelse eller "
+"bliver kendt for den modtagende part derefter fra en tredjepart, der har en "
+"tilsyneladende bona fide ret til at videregive informationen eller "
+"fortrolige oplysninger, som den modtagende part er forpligtet til at "
+"frembringe i henhold til en ordre fra en kompetent domstol eller en gyldig "
+"administrativ stævning, forudsat at den modtagende part giver den afslørende"
+" part rettidig meddelelse fra en sådan domstol ordre eller stævning. "
+"Derudover vil du sikre, at dine autoriserede brugere opretholder al tillid "
+"til alle adgangskoder og anden adgangsinformation til Tjenesterne. Denne "
+"afdeling 9 overlever opsigelsen eller udløbet af denne aftale."
+
+msgid "10. Indemnification:"
+msgstr "10. Skadesløsholdelse:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Erstatning for krænkelse: Med forbehold af afsnit 10.4, skal vi på "
+"vores bekostning forsvare dig mod ethvert tredjepart, der er anlagt mod dig,"
+" der hævder, at tjenesterne krænker ethvert amerikansk patent udstedt til en"
+" tredjepart fra ikrafttrædelsesdatoen; eller krænker enhver ophavsret, "
+"varemærke eller forretningshemmelighed fra tredjepart (samlet kaldet "
+"&#39;Intellektuel ejendom, der ligger til grund for tjenesterne&#39;). I "
+"tilfælde af at der søges eller opnås et påbud mod brug af det intellektuelle"
+" ejendom, der ligger til grund for tjenesterne, eller efter vores mening "
+"sandsynligvis vil blive søgt eller opnået, skal vi, efter vores valg og "
+"bekostning, enten (i) anskaffe dig og din navngivne autoriserede brugere "
+"retten til at fortsætte med at bruge Tjenesterne, eller (ii) udskifte eller "
+"ændre Tjenesterne for at gøre deres brug ikke krænkende, mens de er i stand "
+"til i det væsentlige at udføre den samme funktion. I tilfælde af at "
+"underafsnit (i) og (ii) ovenfor ikke er kommercielt praktiske, kan vi ophæve"
+" tjenesterne og tilbagebetale forudbetalte, men ubrugte servicegebyrer. Vi "
+"er ikke forpligtet til at forsvare eller være ansvarlige for omkostninger "
+"eller skader i henhold til dette afsnit 10.1, hvis den påståede krænkelse "
+"opstår som følge af eller på nogen måde kan henføres til (i) enhver ændring "
+"af tjenester fra dig (eller en af dine autoriserede eller udpegede brugere) "
+"eller (ii) brug af tjenester i kombination med tjenester og produkter, der "
+"ikke leveres af CaseActive, hvis en sådan overtrædelse ville være blevet "
+"undgået uden sådan ændring eller kombination, eller (iii) overholdelse af "
+"dine design eller instruktioner eller (iv) en påstand om angiver ikke med "
+"specificitet, at Tjenesterne er genstand for kravet (hver et "
+"&quot;ekskluderet krav&quot;). Erstatningsforpligtelserne i dette afsnit "
+"10.1 skal overleve enhver opsigelse eller udløb af denne aftale."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Erstatning for datasikkerhed og privatliv: Med forbehold af afsnit "
+"10.4, og i løbet af dit abonnementsperiode på Tjenesterne, skal vi på vores "
+"bekostning forsvare dig mod ethvert krav fra tredjepart, der er anlagt mod "
+"dig, der hævder vores grove uagtsomhed med at forhindre uautoriseret adgang "
+"til eller vores forsætlige forseelser med videregivelse af personlige "
+"identificerbare oplysninger om dine kunder i vores besiddelse eller kontrol."
+" Denne erstatning gælder ikke i det omfang, at en sådan påstand stammer fra "
+"eller vedrører din uagtsomhed eller forsætlig forseelse eller af dine "
+"agenter eller repræsentanter, eller i det omfang ansvaret fraskrives eller "
+"begrænses af nogen af parterne i henhold til aftalen. "
+"Erstatningsforpligtelserne, der er beskrevet i dette afsnit, er betinget af,"
+" at du beviser, at vores grove uagtsomhed eller forsætlige forseelser "
+"direkte og næsten har resulteret i uautoriseret adgang til eller "
+"videregivelse af personlige identificerbare oplysninger om dine kunder i "
+"vores besiddelse eller kontrol."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Din skadeserstatning: Du accepterer at skadesløsholde, holde uskadelig "
+"og forsvare os og alle vores medarbejdere, officerer, direktører og agenter "
+"for ethvert krav, krav, søgsmål, sagsanlæg, efterforskning, skader, "
+"omkostninger, udgifter, tab og enhver anden forpligtelser (inklusive "
+"rimelige advokatsalærer, retsomkostninger og udgifter), der opstår som følge"
+" af (i) din brug af tjenesterne i strid med aftalen, (ii) et ekskluderet "
+"krav, (iii) enhver faktisk eller påstået overtrædelse af dig for enhver "
+"repræsentation, garanti, pagt eller forpligtelse i henhold til aftalen, "
+"eller (iv) din grove uagtsomhed eller forsætlige forseelser. Dine "
+"erstatningsforpligtelser i henhold til dette afsnit 10.3 skal overleve "
+"enhver opsigelse eller udløb af aftalen."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Meddelelse og samarbejde: Den erstatningsansvarlige forpligtelser over "
+"for den skadesløsholdte part i henhold til dette afsnit 10 ovenfor er "
+"betinget af, at (i) skadesløsholdende part skal underrette "
+"skadesløsholdelsesparten straks skriftligt efter kendskab til ethvert krav, "
+"som det kan være berettiget til skadesløsholdelse i henhold til aftalen ; "
+"(ii) i den udstrækning det er relevant, erstattet part, der ophører med at "
+"anvende de påståede krænkende tjenester efter modtagelse af varsel herom; "
+"(iii) erstattet part, der tillader skadesløsholdelse at have den eneste ret "
+"til at kontrollere forsvaret og bilæggelsen af ethvert sådant krav (forudsat"
+" at den skadesløsholdende part ikke kan afvikle et krav uden den "
+"skadesløsholdte samtykke, medmindre forliget ubetinget frigiver skadesløs "
+"part fra alt ansvar); (iv) skadesløs part, der yder rimelig hjælp til "
+"skadesløsholdelse på erstatning for partens regning til forsvar af en sådan "
+"påstand; (v) skadesløs part, der ikke indgår nogen forligsaftale eller på "
+"anden måde afvikler et sådant krav uden skadesløsholders udtrykkelige "
+"forudgående skriftlige samtykke eller anmodning; og (vi) erstattet part, der"
+" overholder enhver forlig eller retsafgørelse truffet i forbindelse med "
+"kravet (relateret til den fremtidige brug af krænkende materialer). Den "
+"erstattede part kan deltage i forsvaret eller bilæggelsen af et krav med "
+"advokat efter eget valg og for egen regning."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Eksklusiv afhjælpning: Dette afsnit 10 angiver den erstatningspligtes "
+"eneste ansvar over for og den erstatningspligtes eksklusive retsmiddel mod "
+"den anden part for enhver form for krav beskrevet i dette afsnit."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Ansvarsbegrænsning:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"Bortset med hensyn til skader, der opstår i forbindelse med en overtrædelse "
+"af afsnit 5.3 eller 12, til det maksimale omfang, der er tilladt ved lov, må"
+" under ingen omstændigheder enten partens samlede kumulative "
+"erstatningsansvar opstå ud fra eller i tilknytning til aftalen undtaget "
+"summen af amo DU FOR DE TJENESTEYDELSER, DER ER OPSTÅET TIL ANSVAR I ÅRETS "
+"ÅRSPERIODE ØMIDLIGT FORUDGÅR DATOEN Årsagen til handling i fremmøde."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"Bortset med hensyn til skader, der opstår i forbindelse med en overtrædelse "
+"af afsnit 5.3 eller 12, til det maksimale omfang, der er tilladt ved lov, "
+"under ingen omstændigheder, må hverken en part hereto, dens licenser eller "
+"leverandører, har nogen ansvar over for den anden part for enhver skade "
+"OMKOSTNINGER TIL INDKØB AF VARER ELLER TJENESTEYDELSER ELLER TIL ELLER "
+"INDIREKTE, SÆRLIGE, FÆLLES, UDFYLDELIGE ELLER Tilfældige skader, der dog "
+"påføres eller baseres på en hvilken som helst teori om erstatningsansvar "
+"(inkl. Uoverensstemmelser), som foregår på grund af overholdelsen DETS "
+"FORPLIGTELSER HERUNDER, HVAD ELLER IKKE sådan part er blevet tilrådt om "
+"muligheden for sådanne skader."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"Eftersom nogle STATER / JURISDICTIONER IKKE TILLADER UDELUKKELSE ELLER "
+"BEGRÆNSNING AF ANSVAR FOR Konsekvente eller tilfældige skader, kan "
+"ovennævnte begrænsning muligvis ikke gælde for dig, i hvilket tilfælde vores"
+" ansvar skal begrænses til den maksimale begrænsede tilladelse."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Personlige oplysninger og fortrolighedserklæring:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Du overholder alle gældende privatlivets fred og andre love, regler, "
+"forskrifter og retningslinjer vedrørende beskyttelse, indsamling, brug og "
+"distribution af personligt identificerbare oplysninger (som defineret "
+"nedenfor) for enhver person. Du lægger en erklæring om beskyttelse af "
+"personlige oplysninger på den side, hvor du indsamler personligt "
+"identificerbare oplysninger (&#39;Privatlivserklæring&#39;), der overholder "
+"alle gældende love, regler, forskrifter og retningslinjer og som mindst "
+"giver brugerne besked om den indsamlede personlige identificerbare "
+"information, hvordan det vil blive brugt, og hvordan det vil blive sikret, "
+"og som identificerer indsamlingsmetoden (cookies, web beacons eller andre "
+"relevante midler) og brugen af information indsamlet i forbindelse med "
+"Tjenesterne, opnå forudgående informeret samtykke (opt-in), før du bruger "
+"nogen sporingsteknologier i det omfang, der kræves af gældende love og "
+"forskrifter. En sådan erklæring om beskyttelse af personlige oplysninger "
+"skal også omfatte tekniske oplysninger relateret til indsamling, "
+"transmission og opbevaring af de personligt identificerbare oplysninger "
+"leveret af os gennem tjenesterne. Hvis det kræves i henhold til gældende "
+"databeskyttelseslovgivning eller anden lov eller forskrift, vil du informere"
+" tredjepart om, at du leverer deres personligt identificerbare oplysninger "
+"til os til behandling og vil sikre, at eventuelle påkrævede tredjeparter har"
+" givet deres samtykke til sådan videregivelse og behandling. Du accepterer "
+"at overholde beskrivelserne og bestemmelserne i fortrolighedserklæringen. "
+"&#39;Personligt identificerbare oplysninger&#39; betyder enhver information,"
+" der kan knyttes til eller spores til enhver enkeltperson, herunder en "
+"persons navn, adresse, telefonnummer, e-mail-adresse, kreditkortoplysninger,"
+" personnummer eller andre lignende specifikke faktuelle oplysninger, uanset "
+"det medie, som sådan information er lagret på (f.eks. på papir eller "
+"elektronisk)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Diverse:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Uafhængige parter: Du og CaseActive er uafhængige entreprenører. "
+"Aftalen skaber ikke et joint venture, partnerskab, agentur eller "
+"ansættelsesforhold mellem parterne. Du er alene ansvarlig for styring af "
+"dine medarbejdere og for enhver kompensation, skatter, fordele og "
+"forpligtelser over for dine ansatte og enhver af dine andre repræsentanter "
+"eller tjenesteudbydere. Hverken du eller nogen af dine ansatte, "
+"repræsentanter eller tjenesteudbydere skal fremsætte nogen erklæringer, "
+"garantier eller garantier med hensyn til os, aftalen eller tjenesterne, "
+"bortset fra, som det udtrykkeligt er godkendt af os skriftligt."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Tildeling: Hverken Aftalen eller nogen af dine rettigheder eller "
+"forpligtelser i henhold til Aftalen kan tildeles eller overføres ved drift "
+"af loven eller på anden måde uden vores forudgående skriftlige samtykke, "
+"medmindre det er overdraget til en efterfølger i interesse eller i henhold "
+"til en fusion, selskab omorganisering eller salg eller overførsel af alle "
+"eller i det væsentlige alle dine aktiver, som du giver os, varsel mindst "
+"tredive (30) dage inden transaktionens gennemførelse. En opgave fra dig, der"
+" er baseret på andre omstændigheder, kræver vores forudgående samtykke, "
+"hvilket samtykke ikke må urimeligt tilbageholdes. Vi kan frit tildele denne "
+"aftale uden dit samtykke. Med forbehold af det ovenstående bindes denne "
+"aftale og inure til fordel for parterne, deres respektive efterfølgere og "
+"tilladte tildelinger."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force Majeure: Ingen af parterne er ansvarlige for forsinkelser, "
+"afbrydelser eller anden manglende udførelse i henhold til aftalen på grund "
+"af handlinger, der er uden for den ansvarlige parts kontrol, men kun så "
+"længe sådanne betingelser vedvarer. Force majeure-begivenheder inkluderer, "
+"men er ikke begrænset til: naturkatastrofer (f.eks. Lyn, jordskælv, orkaner,"
+" oversvømmelser); krige, optøjer, terroraktiviteter og civile kommotioner; "
+"en lokal udvekslingsselskabs aktiviteter og andre handlinger fra tredjepart;"
+" eksplosioner og brande; embargoer, strejker og arbejdskonflikter; "
+"regeringsdekret; fejl fra telekommunikationsudbydere eller internetudbydere;"
+" fejl fra tredjepartsleverandører, tjenesteudbydere eller leverandører; og "
+"enhver anden årsag uden for en parts rimelige kontrol."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Valg af lov: Aftalen og enhver tvist, der opstår i eller i forbindelse "
+"med aftalen, skal styres af og fortolkes i henhold til lovgivningen i "
+"delstaten Californien uden hensyntagen til principperne om lovkonflikt. Alle"
+" tvister, der opstår i forbindelse med eller er forbundet med aftalen, skal "
+"være underlagt den eksklusive jurisdiktion og mødested for Californiens stat"
+" og føderale domstole for Santa Barbara, Californien, og parterne samtykker "
+"til disse rets personlige og eksklusive jurisdiktion."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-mail og meddelelser: Du accepterer endvidere, at vi kan give enhver "
+"og alle meddelelser, erklæringer og anden meddelelse til dig via enten "
+"e-mail, mail, hurtig leveringstjeneste eller leveret af en anerkendt "
+"kommerciel transportør adresseret til den sidst udpegede adresse om aftalen."
+" Du er ansvarlig for at give os alle opdaterede kontaktoplysninger."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Ingen undtagelse; Kumulative retsmidler: Ingen fiasko eller forsinkelse"
+" fra nogen af parterne i udøvelsen af nogen ret i henhold til denne aftale "
+"udgør et afkald på denne ret. Bortset fra som udtrykkeligt anført her, er de"
+" retsmidler, der er leveret heri, ud over og ikke eksklusivt nogen andre "
+"retsmidler fra en part ved lov eller egenkapital."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Delbarhed: Hvis en bestemmelse i denne aftale holdes af en kompetent "
+"domstol for at være i strid med lovgivningen, skal bestemmelsen ændres af "
+"retten og fortolkes således, at den bedst opfylder målene for den "
+"oprindelige bestemmelse i videst muligt omfang tilladt ved lovgivning, og de"
+" resterende bestemmelser i denne aftale forbliver i fuld kraft og virkning."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Hele aftalen: I det maksimale omfang, der er tilladt i henhold til "
+"gældende lov, udgør denne aftale sammen med de dokumenter, der er nævnt heri"
+" og alle ordreformularer og tilmeldingsstrømme, hele aftalen mellem parterne"
+" med hensyn til dens emne og erstatter alle tidligere og samtidige aftaler, "
+"forslag eller repræsentationer, skriftlige eller mundtlige, vedrørende "
+"genstanden for denne aftale. Ingen repræsentation, tilsagn eller løfte må "
+"antages at være blevet givet eller være underforstået fra noget, der er sagt"
+" eller skrevet i forhandlinger mellem parterne forud for denne aftale, "
+"medmindre det udtrykkeligt er anført i denne aftale. Ingen af parterne skal "
+"have noget retsmiddel med hensyn til en usand erklæring afgivet af den "
+"anden, som den part har påberåbt sig ved indgåelsen af denne aftale "
+"(medmindre en sådan usand erklæring blev fremsat svigagtig), og at en parts "
+"eneste middel mod enhver usand erklæring skal være overtrædelse af "
+"kontrakten som foreskrevet i denne aftale. Du anerkender og accepterer, at "
+"din aftale nedenfor ikke er betinget af levering af fremtidig funktionalitet"
+" eller funktioner, der ikke er specificeret heri eller i en ordreform eller "
+"er afhængige af mundtlige eller skriftlige, offentlige eller private "
+"kommentarer fremsat af os med hensyn til fremtidig funktionalitet eller "
+"funktioner til tjenesterne. I tilfælde af konflikt mellem bestemmelserne i "
+"disse almindelige servicevilkår og enhver ordreform eller supplerende "
+"servicevilkår, vil betingelserne i en sådan ordreform eller yderligere "
+"servicevilkår være gældende i det omfang, denne konflikt er. Ingen vilkår og"
+" betingelser, der er angivet i din indkøbsordre eller i nogen anden af din "
+"ordredokumentation, skal indarbejdes i eller udgøre nogen del af denne "
+"aftale, og alle sådanne vilkår og betingelser er ugyldige."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Eksport: Begge parter er enige om at overholde gældende amerikanske "
+"eksport- og importlove og -forskrifter. Du må ikke tillade dine brugere at "
+"få adgang til eller bruge Tjenesterne i strid med USA&#39;s eksportembargo, "
+"-forbud eller -begrænsning."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Offentliggørelse: Vi må ikke nævne dig som bruger af Tjenesterne uden "
+"dit skriftlige samtykke."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Links til tredjepartswebsteder: Tjenesterne eller vores websted kan "
+"indeholde links til tredjepartswebsteder (&#39;Linksede websteder&#39;). De "
+"tilknyttede websteder er ikke under vores kontrol, og vi er ikke ansvarlige "
+"for indholdet på et linket websted, herunder uden begrænsning et link "
+"indeholdt på et linket websted eller ændringer eller opdateringer til et "
+"linket websted eller de ydelser, der leveres via et linket websted. Vi "
+"leverer kun disse links til dig som en bekvemmelighed, og inkluderingen af "
+"et link indebærer ikke godkendelse fra os af webstedet eller tilknyttede "
+"tjenester leveret af webstedet."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Du giver dit samtykke til at modtage e-mails, telefonopkald og SMS-"
+"beskeder fra CaseActive for at levere opdateringer om din ordre og / eller "
+"til markedsføringsformål. Beskedfrekvensen afhænger af din aktivitet. Du kan"
+" fravælge ved at fjerne markeringen af underretninger fra din konto eller "
+"slette din konto. Besked- og datahastigheder kan være gældende."
+
+msgid "An error occurred"
+msgstr "En fejl opstod"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Noget gik galt. Vores ingeniører er blevet underrettet. Tryk på "
+"genindlæsningsknappen for at genindlæse."
+
+msgid "Reload"
+msgstr "Genindlæs"

@@ -1,0 +1,124 @@
+<script src="../../../common/components/checkbox-select/checkbox-select.module.ts"></script>
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="locations.length == 0 && !loading" class="text-center">
+    <p translate>No locations found.</p>
+  </div>
+
+  <table class="table-b a" *ngIf="!loading && locations.length != 0">
+    <tr>
+      <th translate>Name</th>
+      <th translate>Address</th>
+      <th translate>Main Office</th>
+      <th></th>
+    </tr>
+    <tr *ngFor="let location of locations; let i = index">
+      <td>{{ location.tag_id }}</td>
+      <td>{{ location.address }}</td>
+      <td>{{ location.main_office === true ? location.main_office : '' }}</td>
+      <td class="select-wrapper-cell">
+        <span class="drop-a dropform">
+          <span class="value">--</span>
+          <span class="drop">
+            <a
+              appConfirmationPopUp
+              (yes)="removeLocation(location.asset_id!)"
+              title="Delete Location"
+              [message]="'You are about to delete location. Are you sure?'"
+            >
+              <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+              Delete
+            </a>
+          </span>
+        </span>
+      </td>
+    </tr>
+  </table>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</article>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="!loading && activeLocationPopUp"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="locationForm"
+  (submit)="saveLocation()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Add Location</h2>
+      <p>
+        <label class="required" translate>Location Name</label>
+        <input type="text" #editingLocationF name="editingLocation" formControlName="tag_id" />
+        <app-error
+          [fieldValue]="locationForm.get('tag_id')?.value"
+          [field]="editingLocationF"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p>
+        <label translate>Visibility</label>
+        <app-checkbox-select
+          [outputValue]="locationForm.get('permissions')?.value || []"
+          [items]="roles || []"
+          [hideLable]="true"
+          (valueChange)="setPermissions($event)"
+        ></app-checkbox-select>
+
+        <app-error
+          [fieldValue]="locationForm.get('permissions')?.value?.length"
+          [regularHtmlElementName]="'permissions'"
+        >
+        </app-error>
+      </p>
+
+      <div>
+        <p>
+          <label for="address" class="required" translate>Address</label>
+          <input
+            required
+            ngx-google-places-autocomplete
+            #address1F
+            #placesRef="ngx-places"
+            id="address"
+            name="address"
+            (onAddressChange)="handleAddressChange($event)"
+          />
+          <app-error
+            [fieldValue]="locationForm.get('address')?.value"
+            [field]="address1F"
+            [validation]="{ required: true }"
+          ></app-error>
+        </p>
+        <br />
+        <p style="display: inline-block">
+          <label for="main_office" style="float: right; margin-left: 10px" translate>Main Office</label>
+          <input
+            type="checkbox"
+            class="cursor-pointer"
+            id="main_office"
+            name="main_office"
+            formControlName="main_office"
+          />
+        </p>
+      </div>
+
+      <p class="submit">
+        <button type="submit" class="f-right" [disabled]="saving" translate>Save</button>
+      </p>
+      <a class="close" (click)="refreshModal()">Close</a>
+    </div>
+    <a class="close" (click)="refreshModal()">Close</a>
+  </div>
+</form>

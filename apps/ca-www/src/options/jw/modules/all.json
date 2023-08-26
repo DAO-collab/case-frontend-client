@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Waca kabeh kolom kasus tartamtu ing peran",
+    "write": "Tulis kabeh kolom kasus sing ditemtokake ing peran"
+  },
+  "convos": {
+    "read_all": "Deleng status konvo saiki.",
+    "manage_own": "Gabung lan unjoin convo.",
+    "moderate_others": "Miwiti convo, mungkasi convo, lan mbusak peserta.",
+    "read_all_submissions": "Waca kabeh obrolan sing direkam."
+  },
+  "events": {
+    "read_all": "Maca kabeh acara.",
+    "manage_own": "Nggawe, nganyari lan mbusak acara dhewe.",
+    "moderate_others": "Nganyari lan mbusak acara liyane.",
+    "read_all_submissions": "Waca kabeh konfirmasi acara.",
+    "submit_own": "Konfirmasi panyuwunan rawuh acara."
+  },
+  "posts": {
+    "read_all": "Waca kabeh kiriman.",
+    "manage_own": "Nggawe, nganyari lan mbusak kiriman dhewe.",
+    "moderate_others": "Nganyari lan mbusak kiriman wong liya."
+  },
+  "forms": {
+    "read_all": "Maca kabeh formulir.",
+    "manage_own": "Nggawe, nganyari lan mbusak formulir dhewe.",
+    "moderate_others": "Nganyari lan mbusak formulir liyane.",
+    "read_all_submissions": "Waca kabeh kiriman formulir.",
+    "submit_own": "Kirim panjalukan formulir."
+  },
+  "invoices": {
+    "read_all": "Waca kabeh invoice.",
+    "manage_own": "Nggawe, nganyari lan mbusak invoice dhewe.",
+    "moderate_others": "Nganyari lan mbusak invoice liyane.",
+    "read_all_submissions": "Waca kabeh kiriman invoice.",
+    "submit_own": "Kirim panjalukan invoice."
+  },
+  "notes": {
+    "read_all": "Waca kabeh cathetan.",
+    "manage_own": "Nggawe, nganyari lan mbusak cathetan dhewe.",
+    "moderate_others": "Nganyari lan mbusak cathetan liyane."
+  },
+  "signs": {
+    "read_all": "Waca kabeh tandha elektronik.",
+    "manage_own": "Nggawe, nganyari lan mbusak tandha elektronik dhewe.",
+    "moderate_others": "Nganyari lan mbusak tandha elektronik liyane.",
+    "read_all_submissions": "Waca kabeh kiriman tandha elektronik.",
+    "submit_own": "Kirim panjalukan lapangan."
+  },
+  "tasks": {
+    "read_all": "Waca kabeh tugas.",
+    "manage_own": "Nggawe, nganyari lan mbusak tugas dhewe.",
+    "moderate_others": "Nganyari lan mbusak tugas liyane.",
+    "read_all_submissions": "Waca kabeh kiriman tugas.",
+    "submit_own": "Kirim panjalukan tugas."
+  },
+  "team": { "read_all": "Waca tim ing kasus" }
+}

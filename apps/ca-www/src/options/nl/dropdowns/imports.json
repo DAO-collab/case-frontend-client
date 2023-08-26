@@ -1,0 +1,11 @@
+{
+  "post_user": "Gebruikers toevoegen",
+  "put_user": "Gebruikers wijzigen",
+  "put_user_status": "Gebruikersstatus wijzigen",
+  "post_case": "Cases maken",
+  "put_case": "Aanvragen wijzigen",
+  "post_case_permission": "Gebruikers toewijzen aan cases",
+  "put_case_permission": "Gebruikers wijzigen die aan cases zijn toegewezen",
+  "post_case_post": "Case-posts maken",
+  "delete_case_permission": "Gebruikers die aan cases zijn toegewezen verwijderen"
+}

@@ -1,0 +1,12 @@
+p.submit button[type='submit'] {
+  float: right;
+  margin: 0;
+}
+
+div.close.backdrop {
+  cursor: default !important;
+}
+
+.required {
+  margin: 10px 0;
+}

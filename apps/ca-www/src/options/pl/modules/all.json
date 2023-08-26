@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Przeczytaj wszystkie pole sprawy okre\u015blone w roli",
+    "write": "Wpisz wszystkie pola sprawy okre\u015blone w roli"
+  },
+  "convos": {
+    "read_all": "Zobacz aktualny stan konwoj\u00f3w.",
+    "manage_own": "Do\u0142\u0105cz i od\u0142\u0105cz konw\u00f3j.",
+    "moderate_others": "Rozpocznij konw\u00f3j, zako\u0144cz konw\u00f3j i usu\u0144 uczestnika.",
+    "read_all_submissions": "Przeczytaj wszystkie nagrane konwoje."
+  },
+  "events": {
+    "read_all": "Przeczytaj wszystkie wydarzenia.",
+    "manage_own": "Tw\u00f3rz, aktualizuj i usuwaj w\u0142asne wydarzenia.",
+    "moderate_others": "Zaktualizuj i usu\u0144 wydarzenie innej osoby.",
+    "read_all_submissions": "Przeczytaj wszystkie potwierdzenia wydarze\u0144.",
+    "submit_own": "Potwierd\u017a pro\u015bb\u0119 o udzia\u0142 w wydarzeniu."
+  },
+  "posts": {
+    "read_all": "Przeczytaj wszystkie posty.",
+    "manage_own": "Tw\u00f3rz, aktualizuj i usuwaj w\u0142asne posty.",
+    "moderate_others": "Zaktualizuj i usu\u0144 wpis innych."
+  },
+  "forms": {
+    "read_all": "Przeczytaj wszystkie formularze.",
+    "manage_own": "Tw\u00f3rz, aktualizuj i usuwaj w\u0142asny formularz.",
+    "moderate_others": "Zaktualizuj i usu\u0144 formularz innej osoby.",
+    "read_all_submissions": "Przeczytaj wszystkie przes\u0142ane formularze.",
+    "submit_own": "Prze\u015blij pro\u015bb\u0119 o formularz."
+  },
+  "invoices": {
+    "read_all": "Przeczytaj wszystkie faktury.",
+    "manage_own": "Tw\u00f3rz, aktualizuj i usuwaj w\u0142asn\u0105 faktur\u0119.",
+    "moderate_others": "Zaktualizuj i usu\u0144 faktur\u0119 innej osoby.",
+    "read_all_submissions": "Przeczytaj wszystkie przes\u0142ane faktury.",
+    "submit_own": "Prze\u015blij pro\u015bb\u0119 o faktur\u0119."
+  },
+  "notes": {
+    "read_all": "Przeczytaj wszystkie notatki.",
+    "manage_own": "Tw\u00f3rz, aktualizuj i usuwaj w\u0142asn\u0105 notatk\u0119.",
+    "moderate_others": "Zaktualizuj i usu\u0144 notatk\u0119 innej osoby."
+  },
+  "signs": {
+    "read_all": "Przeczytaj wszystkie e-znaki.",
+    "manage_own": "Tw\u00f3rz, aktualizuj i usuwaj w\u0142asny e-podpis.",
+    "moderate_others": "Zaktualizuj i usu\u0144 e-podpis innych os\u00f3b.",
+    "read_all_submissions": "Przeczytaj wszystkie zg\u0142oszenia podpis\u00f3w elektronicznych.",
+    "submit_own": "Prze\u015blij \u017c\u0105danie terenowe."
+  },
+  "tasks": {
+    "read_all": "Przeczytaj wszystkie zadania.",
+    "manage_own": "Tw\u00f3rz, aktualizuj i usuwaj w\u0142asne zadania.",
+    "moderate_others": "Aktualizuj i usuwaj zadania innych os\u00f3b.",
+    "read_all_submissions": "Przeczytaj wszystkie przes\u0142ane zadania.",
+    "submit_own": "Prze\u015blij zlecenie zadania."
+  },
+  "team": { "read_all": "Przeczytaj zesp\u00f3\u0142 w przypadku" }
+}

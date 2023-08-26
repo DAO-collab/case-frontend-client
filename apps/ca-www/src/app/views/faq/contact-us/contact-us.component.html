@@ -1,0 +1,139 @@
+<div class="form-b text-center" *ngIf="loading">
+  <div class="text-center">
+    <h2 class="">
+      <span translate>Loading</span>
+      <i class="loading-ico"></i>
+    </h2>
+  </div>
+</div>
+
+<form
+  class="form-b"
+  id="contact-us"
+  name="contactUsForm"
+  [hidden]="loading"
+  [formGroup]="contactUsForm"
+  [ngClass]="{ done: successMessage }"
+  (submit)="sendTicket()"
+  novalidate
+>
+  <header class="text-center">
+    <h2 class="header-a" [innerHTML]="'We\'re here to help' | translate"></h2>
+    <p
+      class="size-a mobile-hide"
+      [innerHTML]="
+        'We’re here to help! Get in touch if you still have any questions and we’ll reply within two working days.'
+          | translate
+      "
+    ></p>
+  </header>
+
+  <p>
+    <span>
+      <label for="given_name">
+        <span class="req overlay-a"> *</span>
+      </label>
+      <input
+        appNameField
+        name="given_name"
+        formControlName="given_name"
+        type="text"
+        placeholder="{{ 'First Name' | translate | replaceUnsupportedSymbols }}"
+        maxlength="250"
+      />
+    </span>
+    <span>
+      <label for=" family_name">
+        <span class="req overlay-a"> *</span>
+      </label>
+      <input
+        appNameField
+        name="family_name"
+        formControlName="family_name"
+        type="text"
+        placeholder="{{ 'Last Name' | translate | replaceUnsupportedSymbols }}"
+        maxlength="250"
+      />
+    </span>
+  </p>
+  <p>
+    <label for="email">
+      <span class="req overlay-a"> *</span>
+    </label>
+    <input
+      name="email"
+      formControlName="email"
+      type="text"
+      placeholder="{{ 'Email' | translate | replaceUnsupportedSymbols }}"
+      maxlength="250"
+    />
+  </p>
+  <p
+    id="email-validation-field"
+    class="required"
+    [hidden]="contactUsForm.controls['email'].status === 'VALID' || !contactUsForm.controls['email'].touched"
+    [innerHTML]="'* Email is not valid.' | translate"
+  ></p>
+  <p style="z-index: 9999">
+    <label for="importance" class="hidden" translate>Importance </label>
+    <ng-select
+      name="importance"
+      formControlName="importance"
+      placeholder="{{ 'Choose Importance' | translate | replaceUnsupportedSymbols }}"
+      [clearable]="false"
+      translate
+    >
+      <ng-option [value]="Importance.Low">{{ 'Low' | translate }}</ng-option>
+      <ng-option [value]="Importance.Medium">{{ 'Medium' | translate }}</ng-option>
+      <ng-option [value]="Importance.High">{{ 'High' | translate }}</ng-option>
+      <ng-option [value]="Importance.Critical">{{ 'Critical' | translate }}</ng-option>
+    </ng-select>
+  </p>
+  <p style="z-index: 9998">
+    <label for="topic" class="hidden" [innerHTML]="'Department' | translate"></label>
+    <ng-select
+      name="topic"
+      formControlName="topic"
+      placeholder="{{ 'Choose Department' | translate | replaceUnsupportedSymbols }}"
+      [clearable]="false"
+      translate
+    >
+      <ng-option [value]="Department.Sales">{{ 'Sales' | translate }}</ng-option>
+      <ng-option [value]="Department.Billing">{{ 'Billing' | translate }}</ng-option>
+      <ng-option [value]="Department.Support">{{ 'Support' | translate }}</ng-option>
+      <ng-option [value]="Department.Other">{{ 'Other' | translate }}</ng-option>
+    </ng-select>
+  </p>
+  <p>
+    <label for="message"><span class="req overlay-a"> *</span></label>
+    <textarea
+      name="message"
+      formControlName="message"
+      placeholder="{{ 'Message' | translate | replaceUnsupportedSymbols }}"
+      maxlength="5000"
+    ></textarea>
+    <span class="text-right" *ngIf="5000 - contactUsForm.controls['message'].value?.length < 250">
+      {{ 5000 - contactUsForm.controls.message.value.length }}
+    </span>
+  </p>
+
+  <!-- <div id="captcha-contact">
+    <button (click)="getRecaptcha('ticket').subscribe()">re-Captcha</button>
+    <input formControlName="recaptcha" type="hidden" required />
+  </div> -->
+  <p class="thanks" *ngIf="successMessage">
+    <span translate>Thank You!</span>
+    <span>
+      <a (click)="successMessage = !successMessage" translate>Send A New Message</a>
+    </span>
+  </p>
+  <p *ngIf="!successMessage && isError" class="required" style="display: inline">
+    <span class="failed" translate>Failed to validate if you are human</span>
+  </p>
+  <p>
+    <button id="contact-submit" type="submit" [disabled]="contactUsForm.invalid">
+      <span translate>Send message</span>
+      <i *ngIf="sending" class="loading-ico"></i>
+    </button>
+  </p>
+</form>

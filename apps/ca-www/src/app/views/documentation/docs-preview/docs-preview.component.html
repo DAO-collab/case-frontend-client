@@ -1,0 +1,52 @@
+<section id='content' *ngIf='docHtmlText && currentFile && docsJSONData && categoriesJSONData'>
+  <img class='full-screen-image' [src]='zoomedImageSrc' alt='' *ngIf='zoomedImageSrc'>
+
+  <div class='docs-title'>{{'Support Documentation' | translate}}</div>
+
+  <div class='docs-search-wrapper'>
+    <input class='docs-search' placeholder="{{'Search' | translate}}" type='text' [(ngModel)]='searchValue' />
+
+    <div class='search-elements-wrapper' *ngIf='searchValue?.length > 1'>
+      <div *ngFor='let category of categoriesJSONData | keyvalue'>
+        <ul class='docs-category-ul'>
+          <ng-container *ngFor='let item of category.value.docs'>
+            <li class='docs-category-ul-li' *ngIf='isContainsSearchValue(item)' [routerLink]='["/docs/" + item]'>
+              {{findTitleByObjectKey(item)}}
+            </li>
+          </ng-container>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class='breadcrumbs'>
+    <a class='breadcrumbs-link' routerLink='/docs'>{{'All Categories' | translate}}</a>
+    <img class='breadcrumbs-symbol' src='images/icons/docs-arrow.svg' alt=''>
+    <span class='breadcrumbs-doc-title'>{{'docs_title.' + fileName | translate}}</span>
+  </div>
+
+  <div class='content-wrapper'>
+    <article class='docs-content'>
+      <markdown #markdownComponent [data]='docHtmlText'></markdown>
+    </article>
+
+    <article
+      class='right-side-menu'
+      #rightSideMenu
+      [ngClass]='{"display-none": hideSubcategorySection && !currentFile?.related?.length}'
+    >
+      <div class='subcategory' *ngIf='!hideSubcategorySection'>
+        <h2 class='right-side-menu-title' translate>Contents</h2>
+      </div>
+
+      <div class='related-articles' *ngIf='currentFile?.related?.length'>
+        <h2 class='right-side-menu-title' translate>Related Articles</h2>
+        <a *ngFor='let item of currentFile.related' class="related-article" target="_blank" [routerLink]='["/docs/" + item]'>{{"docs_title." + item | translate}}</a>
+      </div>
+    </article>
+  </div>
+
+  <div class='contact-us-wrapper'>
+    <app-contact-us></app-contact-us>
+  </div>
+</section>

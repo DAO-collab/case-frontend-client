@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "P\u0159e\u010dt\u011bte si v\u0161echna pole p\u0159\u00edpadu specifikovan\u00e1 v roli",
+    "write": "Napi\u0161te v\u0161echna pole p\u0159\u00edpadu specifikovan\u00e1 v roli"
+  },
+  "convos": {
+    "read_all": "Pod\u00edvejte se na aktu\u00e1ln\u00ed stav konvoj\u016f.",
+    "manage_own": "P\u0159ipojte se a odpojte se.",
+    "moderate_others": "Zah\u00e1jit konverzaci, ukon\u010dit konverzaci a odebrat \u00fa\u010dastn\u00edka.",
+    "read_all_submissions": "P\u0159e\u010dt\u011bte si v\u0161echna zaznamenan\u00e1 konverzace."
+  },
+  "events": {
+    "read_all": "P\u0159e\u010dt\u011bte si v\u0161echny ud\u00e1losti.",
+    "manage_own": "Vytvo\u0159it, aktualizovat a odstranit vlastn\u00ed ud\u00e1lost.",
+    "moderate_others": "Aktualizujte a sma\u017ete ud\u00e1lost ostatn\u00edch.",
+    "read_all_submissions": "P\u0159e\u010dt\u011bte si v\u0161echna potvrzen\u00ed ud\u00e1lost\u00ed.",
+    "submit_own": "Potvr\u010fte \u017e\u00e1dost o \u00fa\u010dast na akci."
+  },
+  "posts": {
+    "read_all": "P\u0159e\u010dt\u011bte si v\u0161echny p\u0159\u00edsp\u011bvky.",
+    "manage_own": "Vytvo\u0159it, aktualizovat a smazat vlastn\u00ed p\u0159\u00edsp\u011bvek.",
+    "moderate_others": "Aktualizujte a sma\u017ete p\u0159\u00edsp\u011bvek ostatn\u00edch."
+  },
+  "forms": {
+    "read_all": "P\u0159e\u010dt\u011bte si v\u0161echny formul\u00e1\u0159e.",
+    "manage_own": "Vytvo\u0159it, aktualizovat a odstranit vlastn\u00ed formul\u00e1\u0159.",
+    "moderate_others": "Aktualizujte a odstra\u0148te formul\u00e1\u0159 jin\u00e9ho u\u017eivatele.",
+    "read_all_submissions": "P\u0159e\u010dt\u011bte si v\u0161echny odeslan\u00e9 formul\u00e1\u0159e.",
+    "submit_own": "Odeslat \u017e\u00e1dost o formul\u00e1\u0159."
+  },
+  "invoices": {
+    "read_all": "P\u0159e\u010dt\u011bte si v\u0161echny faktury.",
+    "manage_own": "Vytvo\u0159it, aktualizovat a smazat vlastn\u00ed fakturu.",
+    "moderate_others": "Aktualizujte a odstra\u0148te ciz\u00ed fakturu.",
+    "read_all_submissions": "P\u0159e\u010dt\u011bte si v\u0161echna p\u0159edlo\u017een\u00e1 faktura.",
+    "submit_own": "Odeslat \u017e\u00e1dost o fakturu."
+  },
+  "notes": {
+    "read_all": "P\u0159e\u010dt\u011bte si v\u0161echny pozn\u00e1mky.",
+    "manage_own": "Vytvo\u0159it, aktualizovat a odstranit vlastn\u00ed pozn\u00e1mku.",
+    "moderate_others": "Aktualizujte a odstra\u0148te pozn\u00e1mku ostatn\u00edch."
+  },
+  "signs": {
+    "read_all": "P\u0159e\u010dt\u011bte si v\u0161echny elektronick\u00e9 zna\u010dky.",
+    "manage_own": "Vytvo\u0159te, aktualizujte a odstra\u0148te vlastn\u00ed e-sign.",
+    "moderate_others": "Aktualizujte a odstra\u0148te elektronick\u00e9 ozna\u010den\u00ed ostatn\u00edch.",
+    "read_all_submissions": "P\u0159e\u010dt\u011bte si v\u0161echna zaslan\u00e1 elektronick\u00e1 znamen\u00ed.",
+    "submit_own": "Odeslat \u017e\u00e1dost o pole."
+  },
+  "tasks": {
+    "read_all": "P\u0159e\u010dt\u011bte si v\u0161echny \u00fakoly.",
+    "manage_own": "Vytvo\u0159it, aktualizovat a odstranit vlastn\u00ed \u00fakol.",
+    "moderate_others": "Aktualizujte a odstra\u0148te \u00fakol ostatn\u00edch.",
+    "read_all_submissions": "P\u0159e\u010dt\u011bte si v\u0161echny odevzdan\u00e9 \u00fakoly.",
+    "submit_own": "Odeslat po\u017eadavek na \u00fakol."
+  },
+  "team": { "read_all": "P\u0159e\u010dt\u011bte si t\u00fdm pro p\u0159\u00edpad" }
+}

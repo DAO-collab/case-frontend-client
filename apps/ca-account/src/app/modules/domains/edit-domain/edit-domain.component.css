@@ -1,0 +1,36 @@
+.enterprise-host-id-error {
+  margin-top: 20px;
+}
+
+div.tabs {
+  border: 0;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+div.tabs ul {
+  border: 0;
+  margin-bottom: 5px;
+  background-color: transparent;
+}
+
+.tabs > ul > li > a {
+  cursor: auto;
+}
+
+.edit-sso-tab {
+  margin-right: 5px !important;
+}
+
+.remove-sso-tab > a {
+  cursor: pointer !important;
+}
+
+.form-h {
+  margin-bottom: 0;
+}
+
+.exclude-field,
+.field-label {
+  font-size: 14px;
+}

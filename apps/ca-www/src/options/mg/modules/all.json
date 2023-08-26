@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Vakio ny saha rehetra voalaza ao amin&#39;ny anjara",
+    "write": "Soraty amin&#39;ny anjara toerana ny saha rehetra"
+  },
+  "convos": {
+    "read_all": "Jereo ny satan&#39;ny convo amin&#39;izao fotoana izao.",
+    "manage_own": "Ampidiro ary esory ny convo.",
+    "moderate_others": "Atombohy ny fifampiresahana, farano ny fifampiresahana ary esory ny mpandray anjara.",
+    "read_all_submissions": "Vakio ny fifampiresahana voarakitra rehetra."
+  },
+  "events": {
+    "read_all": "Vakio ny hetsika rehetra.",
+    "manage_own": "Mamorona, manavao ary mamafa hetsika manokana.",
+    "moderate_others": "Fanavaozana sy fafao ny hetsika ataon&#39;ny hafa.",
+    "read_all_submissions": "Vakio ny fanamafisana ny hetsika rehetra.",
+    "submit_own": "Hamafiso ny fangatahana fanatrehana hetsika."
+  },
+  "posts": {
+    "read_all": "Vakio ny lahatsoratra rehetra.",
+    "manage_own": "Mamorona, manavao ary mamafa lahatsoratra manokana.",
+    "moderate_others": "Fanavaozana sy fafao ny lahatsoratry ny hafa."
+  },
+  "forms": {
+    "read_all": "Vakio ny endrika rehetra.",
+    "manage_own": "Mamorona, manavao ary mamafa ny endrika manokana.",
+    "moderate_others": "Fanavaozana sy fafao ny endriky ny hafa.",
+    "read_all_submissions": "Vakio ny fandefasana taratasy rehetra.",
+    "submit_own": "Alefaso ny fangatahana fangatahana."
+  },
+  "invoices": {
+    "read_all": "Vakio ny faktiora rehetra.",
+    "manage_own": "Mamorona, manavao ary mamafa ny faktiora manokana.",
+    "moderate_others": "Fanavaozana sy fafao ny faktioran&#39;ny hafa.",
+    "read_all_submissions": "Vakio ny fandefasana faktiora rehetra.",
+    "submit_own": "Alefaso ny fangatahana faktiora."
+  },
+  "notes": {
+    "read_all": "Vakio ny fanamarihana rehetra.",
+    "manage_own": "Mamorona, manavao ary mamafa naoty manokana.",
+    "moderate_others": "Fanavaozana sy fafao ny naotin&#39;ny hafa."
+  },
+  "signs": {
+    "read_all": "Vakio ny e-signe rehetra.",
+    "manage_own": "Mamorona, manavao ary mamafa ny e-signe manokana.",
+    "moderate_others": "Fanavaozana sy fafao ny e-famantarana hafa.",
+    "read_all_submissions": "Vakio ny fandefasana e-sonia rehetra.",
+    "submit_own": "Alefaso ny fangatahana an-tsaha."
+  },
+  "tasks": {
+    "read_all": "Vakio ny asa rehetra.",
+    "manage_own": "Mamorona, manavao ary mamafa ny asanao manokana.",
+    "moderate_others": "Fanavaozana sy fafao ny asan&#39;ny hafa.",
+    "read_all_submissions": "Vakio ny fandefasana asa rehetra.",
+    "submit_own": "Alefaso ny fangatahana asa."
+  },
+  "team": { "read_all": "Vakio ny ekipa raha sendra" }
+}

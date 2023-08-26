@@ -1,0 +1,4474 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.348842\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.779328\n"
+"Language: is\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Þú ættir að velja myndaskrá."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Hladdu upp skjali, merktu það til undirskriftar og síðan skráir "
+"viðskiptavinurinn sig inn og undirritar það. Allt verður gert án þess að "
+"viðskiptavinurinn þurfi að koma inn í bygginguna okkar. Þetta er vel fyrir "
+"viðskiptavini sem eru ekki nálægt skrifstofu eða búa utan ríkis."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Forstöðumaður rekstrar fjármagnstrygginga"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Félagar okkar geta skráð sig inn og séð grunnupplýsingar um hvernig mál "
+"þeirra er vísað til. Þetta hefur aukið tilvísanir okkar til muna ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Samstarfsaðili lögfræðiskrifstofu Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Við þurfum ekki lengur að sjá viðskiptavini á skrifstofunni fyrir fundi og "
+"undirritun skjala er öllum lokið á netinu - snilld!"
+
+msgid "CEO of EL Passion"
+msgstr "Forstjóri EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Með því að nota API, sjálfvirkum við alveg það sem birtist í málflutningi, "
+"byggð á sérstökum kveikjum í núverandi kerfi okkar. Frekar þægilegt .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Tæknistjóri Carter Mario Injury lögmenn"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Við erum með marga fjöltyngda viðskiptavini sem nota þýðingaraðgerðina. Við "
+"sendum skilaboð með það fullviss að þau verði skilin af öllum. Þetta gerir "
+"okkur kleift að fara frá staðbundnu yfir í alþjóðlegt starf .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Forstjóri Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Viðskiptavinir elska það! Það gerir líf þeirra svo miklu auðveldara. Þeir "
+"geta rætt mál við okkur á netinu, hlaðið inn myndum og skjölum og allt er "
+"geymt þar sem bæði teymið og viðskiptavinurinn geta skoðað það .."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Samstarfsaðili Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Við elskum málflutning vegna þess að það gerir viðskiptavinum kleift að sjá "
+"nákvæmlega fyrir það sem þeir borga fyrir .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Varaforseti Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Þvertengd samskipti eru eins og að hafa öll samfélagsmiðlar og samverkatæki "
+"á einum stað .."
+
+msgid "Director Of Complaint Management"
+msgstr "Forstöðumaður kærunefndar"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Case eyðublöð leyfa okkur að hlusta og læra, hjálpa okkur að auka sölu með "
+"endurgjöf viðskiptavina."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Sölustjóri Kain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Notendaviðmótið er mjög svipað og Facebook. Það er mjög auðvelt í notkun .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Samstarfsaðili Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Pinna hefur verið sendur til"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Send New Pin"
+msgstr "Sendu nýjan pinna"
+
+msgid "Need Help?"
+msgstr "Þurfa hjálp?"
+
+msgid "Click here to contact us"
+msgstr "Smelltu hér til að hafa samband við okkur"
+
+msgid "Next"
+msgstr "Næst"
+
+msgid "Login or Signup"
+msgstr "Innskráning eða skráning"
+
+msgid "Invalid email entered"
+msgstr "Ógilt netfang slegið inn"
+
+msgid "Processing..."
+msgstr "Vinnsla ..."
+
+msgid "Made with"
+msgstr "Made með"
+
+msgid "love"
+msgstr "Ást"
+
+msgid "in New York City"
+msgstr "Í New York City"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Allur réttur áskilinn"
+
+msgid "Terms of Use"
+msgstr "Notenda Skilmálar"
+
+msgid "Contact Us"
+msgstr "Hafðu samband við okkur"
+
+msgid "Username"
+msgstr "Notandanafn"
+
+msgid "Code"
+msgstr "Kóði"
+
+msgid "New Password"
+msgstr "nýtt lykilorð"
+
+msgid "Confirm Password"
+msgstr "Staðfesta lykilorð"
+
+msgid "Set Your New Password"
+msgstr "Stilltu nýja lykilorðið þitt"
+
+msgid "A code has been sent to"
+msgstr "Kóði hefur verið sent til"
+
+msgid "Change Password"
+msgstr "Breyta lykilorði"
+
+msgid "Changing..."
+msgstr "Breytast..."
+
+msgid "Login"
+msgstr "Skrá inn"
+
+msgid "Forgot password?"
+msgstr "Gleymt lykilorð?"
+
+msgid "Help"
+msgstr "Hjálp"
+
+msgid "Email or Phone"
+msgstr "Email eða Sími"
+
+msgid "Reset Password"
+msgstr "Endur stilla lykilorð"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Sláðu inn netfangið eða símanúmerið sem tengist reikningnum þínum og smelltu"
+" síðan á Senda. Við sendum tölvupósti eða sendu þér hlekk á síðu þar sem þú "
+"getur auðveldlega búið til nýtt lykilorð."
+
+msgid "Request Code"
+msgstr "Beiðniskóði"
+
+msgid "Requesting..."
+msgstr "Óskar eftir ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "Tilfelli er að koma fljótt"
+
+msgid "Create a free account"
+msgstr "Búðu til ókeypis reikning"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Við erum að leggja lokahönd á það. Við munum láta þig vita þegar það er "
+"tilbúið!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Þú ert nokkrar mínútur frá betra samstarfi."
+
+msgid "First Name"
+msgstr "Fyrsta nafn"
+
+msgid "Last Name"
+msgstr "Eftirnafn"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Company"
+msgstr "Fyrirtæki"
+
+msgid "No language selected"
+msgstr "Ekkert tungumál valið"
+
+msgid "I agree with"
+msgstr "ég er sammála"
+
+msgid "Terms of Service"
+msgstr "Skilmálar þjónustu"
+
+msgid "Language"
+msgstr "Tungumál"
+
+msgid "Have at least one lower case character"
+msgstr "Hafa að minnsta kosti eitt lágstöfum staf"
+
+msgid "Have at least one capital letter"
+msgstr "Hafa að minnsta kosti einn höfuðstaf"
+
+msgid "Have at least one number"
+msgstr "Hafa að minnsta kosti eitt númer"
+
+msgid "Have at least 8 characters in length"
+msgstr "Hafa að minnsta kosti 8 stafir að lengd"
+
+msgid "Type your current password"
+msgstr "Sláðu inn núverandi aðgangsorðið þitt"
+
+msgid "Passwords must match"
+msgstr "Lykilorð þurfa að vera eins"
+
+msgid "Domains"
+msgstr "Lén"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript er óvirkt. Vinsamlegast virkjaðu það."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Kökur eru óvirk. Vinsamlegast virkjaðu það."
+
+msgid "New"
+msgstr "Nýtt"
+
+msgid "Create A New App"
+msgstr "Búðu til nýtt forrit"
+
+msgid "Apps"
+msgstr "Forrit"
+
+msgid "Profile"
+msgstr "Prófíll"
+
+msgid "Logout"
+msgstr "Að skrá þig út"
+
+msgid "Hi"
+msgstr "Hæ"
+
+msgid "View your account"
+msgstr "Skoðaðu reikninginn þinn"
+
+msgid "View page"
+msgstr "Skoða síðu"
+
+msgid "You don’t have any apps"
+msgstr "Þú ert ekki með nein forrit"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Notifications"
+msgstr "Tilkynningar"
+
+msgid "No notifications yet."
+msgstr "Engar tilkynningar ennþá."
+
+msgid "Today"
+msgstr "Í dag"
+
+msgid "Last Week"
+msgstr "Síðustu viku"
+
+msgid "No timezone selected"
+msgstr "Engin tímabelti valin"
+
+msgid "Complete profile to continue"
+msgstr "Heill prófíl til að halda áfram"
+
+msgid "Timezone"
+msgstr "Tímabelti"
+
+msgid "Update"
+msgstr "Uppfæra"
+
+msgid "Website:"
+msgstr "Vefsíða:"
+
+msgid "Homepage:"
+msgstr "Heimasíða:"
+
+msgid "Approve Access"
+msgstr "Samþykkja aðgang"
+
+msgid "Info"
+msgstr "Upplýsingar"
+
+msgid "Permissions"
+msgstr "Heimildir"
+
+msgid "Billing"
+msgstr "Innheimta"
+
+msgid "Payment Plan"
+msgstr "Greiðsluáætlun"
+
+msgid "Edit"
+msgstr "Breyta"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "has access to your information below:"
+msgstr "hefur aðgang að upplýsingum þínum hér að neðan:"
+
+msgid "has invited you to their client portal."
+msgstr "hefur boðið þér á viðskiptavinasíðuna sína."
+
+msgid "want access to the following information:"
+msgstr "vil fá aðgang að eftirfarandi upplýsingum:"
+
+msgid "Decline"
+msgstr "Hafna"
+
+msgid "Remove Access"
+msgstr "Fjarlægðu aðgang"
+
+msgid "Active"
+msgstr "Virkur"
+
+msgid "Invites"
+msgstr "Boð"
+
+msgid "Disabled"
+msgstr "Öryrkjar"
+
+msgid "No apps found"
+msgstr "Engin forrit fundust"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "notandi"
+
+msgid "manager"
+msgstr "framkvæmdastjóri"
+
+msgid "active"
+msgstr "virkur"
+
+msgid "inactive"
+msgstr "Óvirkt"
+
+msgid "Company Name"
+msgstr "nafn fyrirtækis"
+
+msgid "Type"
+msgstr "Gerð"
+
+msgid "Status"
+msgstr "Staða"
+
+msgid "Invitation"
+msgstr "Boð"
+
+msgid "About App"
+msgstr "Um App"
+
+msgid "Billing Info"
+msgstr "Innheimtuupplýsingar"
+
+msgid "Your Company Name"
+msgstr "Nafn fyrirtækis þíns"
+
+msgid "Your Company Website"
+msgstr "Vefsíða fyrirtækisins þíns"
+
+msgid "Saving..."
+msgstr "Vistar ..."
+
+msgid "Billing Information"
+msgstr "greiðsluupplýsingar"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Vinsamlegast bættu við APP auðkenninu sem fyrirtækið gefur upp"
+
+msgid "Select an option"
+msgstr "Veldu valkost"
+
+msgid "Join an existing app as a client"
+msgstr "Skráðu þig í núverandi forrit sem viðskiptavinur"
+
+msgid "Create a new app for my business"
+msgstr "Búðu til nýtt app fyrir fyrirtækið mitt"
+
+msgid "Create Domain"
+msgstr "Búðu til lén"
+
+msgid "Select enterprise app"
+msgstr "Veldu fyrirtækisforrit"
+
+msgid "No item selected"
+msgstr "Enginn hlutur valinn"
+
+msgid "Domain name"
+msgstr "Lén"
+
+msgid "Add"
+msgstr "Bæta við"
+
+msgid "No enterprise app found"
+msgstr "Ekkert fyrirtækisforrit fannst"
+
+msgid "Pending"
+msgstr "Í bið"
+
+msgid "No domains found"
+msgstr "Engin lén fundust"
+
+msgid "Domain"
+msgstr "Lén"
+
+msgid "Txt Value"
+msgstr "Txt gildi"
+
+msgid "Enterprise Host ID"
+msgstr "Enterprise Host ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Aðgerð"
+
+msgid "Delete"
+msgstr "Eyða"
+
+msgid "Reset"
+msgstr "Endurstilla"
+
+msgid "Allow Manual Sign In"
+msgstr "Leyfa handvirka innskráningu"
+
+msgid "Exclude Emails From SSO"
+msgstr "Útiloka tölvupóst frá SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Lýsigögn SAML auðkennisveitu"
+
+msgid "Submit"
+msgstr "Sendu inn"
+
+msgid "Profile photo"
+msgstr "Prófíl mynd"
+
+msgid "Uploading..."
+msgstr "Hleður inn ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr ""
+"hefur verið krafist af öðrum reikningi, vinsamlegast breyttu honum eða"
+
+msgid "reclaim"
+msgstr "endurheimta"
+
+msgid "it"
+msgstr "það"
+
+msgid "pending verification:"
+msgstr "bið staðfesting:"
+
+msgid "verify"
+msgstr "staðfesta"
+
+msgid "Phone Number"
+msgstr "Símanúmer"
+
+msgid "Current Password"
+msgstr "Núverandi lykilorð"
+
+msgid "Change password"
+msgstr "Breyta lykilorði"
+
+msgid "No gender selected"
+msgstr "Ekkert kyn valið"
+
+msgid "Company Title"
+msgstr "Nafn fyrirtækis"
+
+msgid "Address"
+msgstr "Heimilisfang"
+
+msgid "Address 2"
+msgstr "Heimilisfang 2"
+
+msgid "City/Locality"
+msgstr "Borg / Dvalarstað"
+
+msgid "State/Region"
+msgstr "Ríki / svæði"
+
+msgid "No country selected"
+msgstr "Ekkert land valið"
+
+msgid "Zip/Postal Code"
+msgstr "Póstnúmer / Póstnúmer"
+
+msgid "Basic"
+msgstr "Basic"
+
+msgid "Date of Birth"
+msgstr "Fæðingardagur"
+
+msgid "Gender"
+msgstr "Kyn"
+
+msgid "Occupation"
+msgstr "Starf"
+
+msgid "Location"
+msgstr "Staðsetning"
+
+msgid "Address is not valid"
+msgstr "Heimilisfang er ekki gilt"
+
+msgid "City/Locality is not valid"
+msgstr "Borg / staður er ekki gildur"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "State/Region is not valid"
+msgstr "Ríki / svæði er ekki í gildi"
+
+msgid "Contact Info"
+msgstr "Upplýsingar um tengilið"
+
+msgid "Language & Region"
+msgstr "Tungumál og svæði"
+
+msgid "Saving"
+msgstr "Sparnaður"
+
+msgid "Verify Your"
+msgstr "Staðfestu þinn"
+
+msgid "Verification Code"
+msgstr "Staðfestingarkóði"
+
+msgid "Resend Code"
+msgstr "Senda kóða aftur"
+
+msgid "Resending"
+msgstr "Endursending"
+
+msgid "Verify"
+msgstr "Staðfestu"
+
+msgid "Verifying..."
+msgstr "Staðfestir ..."
+
+msgid "Later"
+msgstr "Seinna"
+
+msgid "We're here to help"
+msgstr "Við erum hér til að hjálpa"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Þakka þér fyrir að hafa samband við okkur. Skilaboðin þín hafa verið send. "
+"Við munum hafa samband við þig mjög fljótlega!"
+
+msgid "Message"
+msgstr "Skilaboð"
+
+msgid "characters left"
+msgstr "stafir eftir"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Senda"
+
+msgid "Sending..."
+msgstr "Sendir ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Þú munt ekki lengur fá markaðssetningu í tölvupósti af listanum."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Ef þú hefur smá stund, vinsamlegast láttu okkur vita hvers vegna þú hættir "
+"áskrift:"
+
+msgid "Return to our website"
+msgstr "Farðu aftur á heimasíðuna okkar"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Þakka þér fyrir. Svar þitt hefur verið sent."
+
+msgid "No Cases"
+msgstr "Engin mál"
+
+msgid "Layout"
+msgstr "Skipulag"
+
+msgid "Gallery"
+msgstr "Gallerí"
+
+msgid "Speaker"
+msgstr "Ræðumaður"
+
+msgid "This case has been closed"
+msgstr "Þessu máli hefur verið lokið"
+
+msgid "Feed"
+msgstr "Feed"
+
+msgid "Images"
+msgstr "Myndir"
+
+msgid "Docs"
+msgstr "Skjöl"
+
+msgid "Audios"
+msgstr "Hljóðfæra"
+
+msgid "Videos"
+msgstr "Myndbönd"
+
+msgid "Files"
+msgstr "Skrár"
+
+msgid "Events"
+msgstr "Viðburðir"
+
+msgid "Forms"
+msgstr "Eyðublöð"
+
+msgid "E-signs"
+msgstr "Rafræn merki"
+
+msgid "Invoices"
+msgstr "Reikningar"
+
+msgid "Notes"
+msgstr "Skýringar"
+
+msgid "Tasks"
+msgstr "Verkefni"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Frábært starf!"
+
+msgid "You did all"
+msgstr "Þú gerðir allt"
+
+msgid "the tasks"
+msgstr "verkefni"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Skip to navigation (n)"
+msgstr "Fara í flakk (n)"
+
+msgid "Skip to content (c)"
+msgstr "Fara í efnið (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Fara í fótinn (f)"
+
+msgid "Case"
+msgstr "Málið"
+
+msgid "Search"
+msgstr "Leita"
+
+msgid "Using Form Builder"
+msgstr "Nota Form Builder"
+
+msgid "Using Forms Library"
+msgstr "Notkun Eyðublaðasafns"
+
+msgid "Using E-sign Builder"
+msgstr "Notkun E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Notkun E-merkjasafnsins"
+
+msgid "Documents"
+msgstr "Skjöl"
+
+msgid "Create Note"
+msgstr "Búðu til athugasemd"
+
+msgid "Edit Note"
+msgstr "Breyta athugasemd"
+
+msgid "End Convo"
+msgstr "Loka samkomu"
+
+msgid "Create Form"
+msgstr "Búðu til eyðublöð"
+
+msgid "Create Sign"
+msgstr "Búðu til tákn"
+
+msgid "Event Create"
+msgstr "Atburður Búa til"
+
+msgid "Convo Videos"
+msgstr "Convo myndbönd"
+
+msgid "Convo Audios"
+msgstr "Convo hljóð"
+
+msgid "Cases"
+msgstr "Mál"
+
+msgid "Case categories"
+msgstr "Málaflokkar"
+
+msgid "Your team"
+msgstr "Liðið þitt"
+
+msgid "To do"
+msgstr "Að gera"
+
+msgid "To Do:"
+msgstr "Að gera:"
+
+msgid "Case Categories"
+msgstr "Málaflokkar"
+
+msgid "Your Team"
+msgstr "Liðið þitt"
+
+msgid "To Do"
+msgstr "Að gera"
+
+msgid "Yes"
+msgstr "Já"
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "Publish"
+msgstr "Birta"
+
+msgid "Visibility"
+msgstr "Skyggni"
+
+msgid "all"
+msgstr "allt"
+
+msgid "sign"
+msgstr "merki"
+
+msgid "Page"
+msgstr "Síða"
+
+msgid "of"
+msgstr "af"
+
+msgid "Processing"
+msgstr "Vinnsla"
+
+msgid "failed."
+msgstr "mistókst."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Gildi ætti að vera stærra eða jafnt og 1"
+
+msgid "Repeat end:"
+msgstr "Endurtaktu lok:"
+
+msgid "Signature"
+msgstr "Undirskrift"
+
+msgid "Draw"
+msgstr "Jafntefli"
+
+msgid "Write"
+msgstr "Skrifaðu"
+
+msgid "Clear Signature"
+msgstr "Hreinsa undirskrift"
+
+msgid "Still processing video..."
+msgstr "Enn í vinnslu á myndbandi ..."
+
+msgid "You"
+msgstr "Þú"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Þú ert að fara að eyða straumi. Ertu viss?"
+
+msgid "No convo audios yet"
+msgstr "Engin samtalshljóð ennþá"
+
+msgid "No convo videos yet"
+msgstr "Engin samtalsmyndbönd ennþá"
+
+msgid "Start Convo"
+msgstr "Byrjaðu Convo"
+
+msgid "Notify the Host"
+msgstr "Láttu gestgjafann vita"
+
+msgid "is in the call"
+msgstr "er í símtalinu"
+
+msgid "and"
+msgstr "og"
+
+msgid "others are in the call"
+msgstr "aðrir eru í símtalinu"
+
+msgid "Audio call is being recorded"
+msgstr "Verið er að taka upp hljóðsímtal"
+
+msgid "Video call is being recorded"
+msgstr "Verið er að taka upp myndsímtal"
+
+msgid "Join now"
+msgstr "Taktu þátt núna"
+
+msgid "Dismiss"
+msgstr "Segja frá"
+
+msgid "Can’t find your "
+msgstr "Finn ekki þitt"
+
+msgid "microphone"
+msgstr "hljóðnema"
+
+msgid "Check your system settings to make sure that "
+msgstr "Athugaðu kerfisstillingarnar þínar til að ganga úr skugga um það"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"er laus. Ef ekki, stingdu einum í samband. Þú gætir þurft að endurræsa "
+"vafrann þinn."
+
+msgid "web camera"
+msgstr "vefmyndavél"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Þú ætlar að hefja Convo símtal. Byrja með:"
+
+msgid "Video & Audio"
+msgstr "Myndband og hljóð"
+
+msgid "Audio Only"
+msgstr "Aðeins hljóð"
+
+msgid "Record the meeting"
+msgstr "Taktu upp fundinn"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Bíður eftir einhverjum með leyfi til að hefja Convo símtal"
+
+msgid "Add Ticket"
+msgstr "Bæta við miða"
+
+msgid "Title"
+msgstr "Titill"
+
+msgid "Open"
+msgstr "Opið"
+
+msgid "Closed"
+msgstr "Lokað"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Þú ert að fara að loka miða. Ertu viss?"
+
+msgid "Announcements"
+msgstr "Tilkynningar"
+
+msgid "Support"
+msgstr "Stuðningur"
+
+msgid "Opened"
+msgstr "Opnað"
+
+msgid "View"
+msgstr "Útsýni"
+
+msgid "Locations"
+msgstr "Staðsetningar"
+
+msgid "You currently have no announcements."
+msgstr "Þú hefur engar tilkynningar eins og er."
+
+msgid "You currently have no"
+msgstr "Þú hefur nr"
+
+msgid "open cases. Click"
+msgstr "opin mál. Smellur"
+
+msgid "here"
+msgstr "hér"
+
+msgid "to contact support."
+msgstr "til að hafa samband við þjónustudeild."
+
+msgid "closed cases."
+msgstr "lokuðum málum."
+
+msgid "open tickets."
+msgstr "opna miða."
+
+msgid "closed tickets."
+msgstr "lokaðir miðar."
+
+msgid "You currently have no locations."
+msgstr "Þú hefur engar staðsetningar eins og er."
+
+msgid "Write a comment...."
+msgstr "Skrifaðu athugasemd ...."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Bæta við staðsetningu"
+
+msgid "Save Event"
+msgstr "Vista viðburð"
+
+msgid "Name"
+msgstr "Nafn"
+
+msgid "Start Date"
+msgstr "Upphafsdagur"
+
+msgid "Start Time"
+msgstr "Byrjunartími"
+
+msgid "End Date"
+msgstr "Loka dagsetning"
+
+msgid "End Time"
+msgstr "Lokatími"
+
+msgid "Repeat"
+msgstr "Endurtaktu"
+
+msgid "Attendees"
+msgstr "Fundarmenn"
+
+msgid "Event Location"
+msgstr "Staðsetning viðburðar"
+
+msgid "Link"
+msgstr "Tengill"
+
+msgid "Description"
+msgstr "Lýsing"
+
+msgid "Attending"
+msgstr "Mæta"
+
+msgid "Add to calendar"
+msgstr "Bæta við dagatal"
+
+msgid "Details"
+msgstr "Upplýsingar"
+
+msgid "Event by"
+msgstr "Viðburður eftir"
+
+msgid "Duration:"
+msgstr "Lengd:"
+
+msgid "more"
+msgstr "meira"
+
+msgid "Maybe"
+msgstr "Kannski"
+
+msgid "Not Attending"
+msgstr "Ekki mæta"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Myndbands fundur"
+
+msgid "Event details"
+msgstr "Upplýsingar um viðburð"
+
+msgid "You don't have permissions to view this page."
+msgstr "Þú hefur ekki leyfi til að skoða þessa síðu."
+
+msgid "Your Upcoming Events"
+msgstr "Næstu viðburðir þínir"
+
+msgid "Upcoming"
+msgstr "Væntanlegt"
+
+msgid "Your Past Events"
+msgstr "Fyrri atburðir þínir"
+
+msgid "Past"
+msgstr "Fortíð"
+
+msgid "Your Events"
+msgstr "Atburðir þínir"
+
+msgid "All"
+msgstr "Allt"
+
+msgid "All Events"
+msgstr "Allir viðburðir"
+
+msgid "Directions"
+msgstr "Leiðbeiningar"
+
+msgid "Edit settings"
+msgstr "Breyta stillingum"
+
+msgid "Delete event"
+msgstr "Eyða viðburði"
+
+msgid "Attending?"
+msgstr "Mætir?"
+
+msgid "No Events"
+msgstr "Engir viðburðir"
+
+msgid "more comment(s)"
+msgstr "fleiri athugasemdir (s)"
+
+msgid "Loading comments"
+msgstr "Hleður athugasemdum"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Þú ert að fara að eyða ummælum. Ertu viss?"
+
+msgid "task"
+msgstr "verkefni"
+
+msgid "to do"
+msgstr "að gera"
+
+msgid "tasks"
+msgstr "verkefni"
+
+msgid "Write something..."
+msgstr "Skrifaðu eitthvað..."
+
+msgid "Attach File"
+msgstr "Hengja skrá"
+
+msgid "From Template"
+msgstr "Frá Sniðmát"
+
+msgid "No feeds yet."
+msgstr "Engar straumar ennþá."
+
+msgid "comments"
+msgstr "athugasemdir"
+
+msgid "comment"
+msgstr "athugasemd"
+
+msgid "Add a comment"
+msgstr "Bættu við athugasemd"
+
+msgid "Template"
+msgstr "Sniðmát"
+
+msgid "No templates"
+msgstr "Engin sniðmát"
+
+msgid "Done"
+msgstr "Gjört"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Veldu þá félaga sem þurfa að fylla út þetta eyðublað"
+
+msgid "Update Form"
+msgstr "Uppfærðu eyðublað"
+
+msgid "Due Date"
+msgstr "Gjalddagi"
+
+msgid "Due Time"
+msgstr "Fyrirframgreiðsla"
+
+msgid "Loading..."
+msgstr "Hleð inn ..."
+
+msgid "Preview"
+msgstr "Forskoðun"
+
+msgid "Save & Close"
+msgstr "Vista og loka"
+
+msgid "Add an element"
+msgstr "Bættu við frumefni"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr ""
+"Fjölmiðlar eru að breytast. Við munum láta þig vita þegar það er tilbúið"
+
+msgid "Add "
+msgstr "Bæta við"
+
+msgid "Field"
+msgstr "Field"
+
+msgid "Edit "
+msgstr "Breyta"
+
+msgid "Text"
+msgstr "Texti"
+
+msgid "Sub Text"
+msgstr "Undirtexti"
+
+msgid "Format"
+msgstr "Snið"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Mistókst að breyta miðli. Vinsamlegast eyddu og reyndu aftur eða annað."
+
+msgid "Pages"
+msgstr "Síður"
+
+msgid "Saved"
+msgstr "Vistað"
+
+msgid "Insert"
+msgstr "Settu inn"
+
+msgid "Elements"
+msgstr "Frumefni"
+
+msgid "Action Required"
+msgstr "Aðgerða krafist"
+
+msgid "Add a new page"
+msgstr "Bættu við nýrri síðu"
+
+msgid "Blank page"
+msgstr "Auð síða"
+
+msgid "From PDF"
+msgstr "Frá PDF"
+
+msgid "From image"
+msgstr "Úr mynd"
+
+msgid "Add PDF"
+msgstr "Bæta við PDF"
+
+msgid "Add Image"
+msgstr "Bæta við mynd"
+
+msgid "Options"
+msgstr "Valkostir"
+
+msgid "Column Names"
+msgstr "Dálknöfn"
+
+msgid "Option already exists."
+msgstr "Valkostur er þegar til."
+
+msgid "options list is empty"
+msgstr "valkostalisti er tómt"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Gátreitur reitur styður aðeins 5 valkosti. Þú getur breytt reit í fellilista"
+" til að bæta við fleiri valkostum"
+
+msgid "columns list is empty"
+msgstr "dálkalistinn er tómur"
+
+msgid "Default Value"
+msgstr "Sjálfgefið gildi"
+
+msgid "Delete row"
+msgstr "Eyða línu"
+
+msgid "Add a new row"
+msgstr "Bættu við nýrri röð"
+
+msgid "Download"
+msgstr "Sækja"
+
+msgid "Label"
+msgstr "Merki"
+
+msgid "Question"
+msgstr "Spurning"
+
+msgid "Default answer"
+msgstr "Sjálfgefið svar"
+
+msgid "Media is converting"
+msgstr "Fjölmiðlar eru að breytast"
+
+msgid "Send Form"
+msgstr "Senda form"
+
+msgid "Form Submited."
+msgstr "Form send."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Þú hefur ekki heimild til að senda inn eyðublöð."
+
+msgid "You currently have no forms of your own"
+msgstr "Þú hefur engin eigin form eins og er"
+
+msgid "Your Uncompleted Forms"
+msgstr "Óútfylltu eyðublöðin þín"
+
+msgid "Uncompleted"
+msgstr "Óklárað"
+
+msgid "Your Completed Forms"
+msgstr "Útfylltu eyðublöðin þín"
+
+msgid "Completed"
+msgstr "Lokið"
+
+msgid "Your Forms"
+msgstr "Eyðublöðin þín"
+
+msgid "All Forms"
+msgstr "Allar eyðublöð"
+
+msgid "Form Title"
+msgstr "Form titill"
+
+msgid "Author"
+msgstr "Höfundur"
+
+msgid "Published"
+msgstr "Birt"
+
+msgid "Submissions"
+msgstr "Skil"
+
+msgid "No Forms"
+msgstr "Engar eyðublöð"
+
+msgid "Upload Form Document"
+msgstr "Hladdu upp eyðublaði"
+
+msgid "Forms Library"
+msgstr "Eyðublöðasafn"
+
+msgid "No Forms In Library"
+msgstr "Engar eyðublöð í bókasafni"
+
+msgid "Answers"
+msgstr "Svör"
+
+msgid "Close - Status changed"
+msgstr "Loka - Staða breytt"
+
+msgid "Change Status"
+msgstr "Breyta stöðu"
+
+msgid "Case Number"
+msgstr "Case Number"
+
+msgid "Tag Id"
+msgstr "Merkjanúmer"
+
+msgid "Date Opened"
+msgstr "Dagsetning opnuð"
+
+msgid "Host Id"
+msgstr "Auðkenni gestgjafa"
+
+msgid "User Id"
+msgstr "Notandanafn"
+
+msgid "Case Id"
+msgstr "Málsauðkenni"
+
+msgid "Confirm your details"
+msgstr "Staðfestu upplýsingar þínar"
+
+msgid "Form Submitted."
+msgstr "Eyðublað sent."
+
+msgid "Invoice"
+msgstr "Reikningur"
+
+msgid "PO No:"
+msgstr "PO No:"
+
+msgid "Reference ID:"
+msgstr "Tilvísunarauðkenni:"
+
+msgid "Term:"
+msgstr "Hugtakið:"
+
+msgid "Note:"
+msgstr "Athugið:"
+
+msgid "QTY"
+msgstr "Magn"
+
+msgid "Price"
+msgstr "Verð"
+
+msgid "Add more"
+msgstr "Bæta meiru við"
+
+msgid "Subtotal($)"
+msgstr "Samtala ($)"
+
+msgid "Discount(%)"
+msgstr "Afsláttur (%)"
+
+msgid "TAX(%)"
+msgstr "SKATT(%)"
+
+msgid "Total($)"
+msgstr "Samtals($)"
+
+msgid "Invoice No"
+msgstr "Reikningur nr"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Veldu þá félaga sem þurfa að skoða eða greiða þennan reikning"
+
+msgid "Update Invoice"
+msgstr "Uppfærðu reikning"
+
+msgid "Create Invoice"
+msgstr "Búðu til reikning"
+
+msgid "PO No."
+msgstr "PO nr."
+
+msgid "Reference ID"
+msgstr "Tilvísunarauðkenni"
+
+msgid "Term"
+msgstr "Kjörtímabil"
+
+msgid "Note"
+msgstr "Athugið"
+
+msgid "Quantity"
+msgstr "Magn"
+
+msgid "Price ($)"
+msgstr "Verð ($)"
+
+msgid "Subtotal ($)"
+msgstr "Samtala ($)"
+
+msgid "Discount (%)"
+msgstr "Afsláttur (%)"
+
+msgid "Tax (%)"
+msgstr "Skattur (%)"
+
+msgid "Total ($)"
+msgstr "Samtals ($)"
+
+msgid "Pay Invoice"
+msgstr "Borga reikning"
+
+msgid "Payment method"
+msgstr "Greiðslumáti"
+
+msgid "Add a new payment method"
+msgstr "Bættu við nýjum greiðslumáta"
+
+msgid "Summary"
+msgstr "Samantekt"
+
+msgid "Payment:"
+msgstr "Greiðsla:"
+
+msgid "Total charge:"
+msgstr "Heildargjald:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Ógreiddir reikningar þínir"
+
+msgid "Unpaid"
+msgstr "Ógreitt"
+
+msgid "Your Paid Invoices"
+msgstr "Greiddir reikningar þínir"
+
+msgid "Paid"
+msgstr "Greitt"
+
+msgid "Your Invoices"
+msgstr "Reikningar þínir"
+
+msgid "All Invoices"
+msgstr "Allir reikningar"
+
+msgid "Invoice Title"
+msgstr "Heiti reiknings"
+
+msgid "No Invoices"
+msgstr "Engir reikningar"
+
+msgid "No Audios yet."
+msgstr "Ekkert hljóð ennþá."
+
+msgid "Loading failed."
+msgstr "Hleðsla mistókst."
+
+msgid "retry"
+msgstr "reyndu aftur"
+
+msgid "No documents yet."
+msgstr "Engin skjöl ennþá."
+
+msgid "No Files yet."
+msgstr "Engar skrár ennþá."
+
+msgid "No Images yet."
+msgstr "Engar myndir ennþá."
+
+msgid "No Videos yet."
+msgstr "Engin myndbönd ennþá."
+
+msgid "Page Not Found"
+msgstr "Síða ekki fundin"
+
+msgid "Attachments"
+msgstr "Viðhengi"
+
+msgid "Note View"
+msgstr "Athugið Skoða"
+
+msgid "No Notes"
+msgstr "Engar athugasemdir"
+
+msgid "Select the person to answer this field"
+msgstr "Veldu viðkomandi til að svara þessu sviði"
+
+msgid "Create E-sign"
+msgstr "Búðu til E-merki"
+
+msgid "Update E-signs"
+msgstr "Uppfærðu rafræn skilti"
+
+msgid "Signs"
+msgstr "Merki"
+
+msgid "Add Field"
+msgstr "Bæta við reit"
+
+msgid "Edit Field"
+msgstr "Breyta reit"
+
+msgid "Send E-sign"
+msgstr "Sendu rafrænt skilti"
+
+msgid "E-sign Submitted."
+msgstr "Rafræn skilti Lagt fram."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Þú hefur ekki heimildir til að senda inn rafræn skilti."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Þú hefur engin eigin E-merki eins og er"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Ófullgerð E-merki þín"
+
+msgid "Your Completed E-signs"
+msgstr "Útfyllt E-merki þín"
+
+msgid "Your Signs"
+msgstr "Merkin þín"
+
+msgid "All E-signs"
+msgstr "Öll E-merki"
+
+msgid "E-sign Title"
+msgstr "Titill rafræns merkis"
+
+msgid "No E-signs"
+msgstr "Engin rafræn merki"
+
+msgid "E-Signs Library"
+msgstr "Bókasafn rafrænna merkja"
+
+msgid "No E-signs In Library"
+msgstr "Engin rafræn skilti á bókasafni"
+
+msgid "Upload E-sign Document"
+msgstr "Hladdu upp E-sign Document"
+
+msgid "Update Task"
+msgstr "Uppfæra verkefni"
+
+msgid "Create Task"
+msgstr "Búa til verkefni"
+
+msgid "You currently have no tasks of your own"
+msgstr "Þú hefur engin eigin verkefni eins og er"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Ólokið verkefni þín"
+
+msgid "Your Completed Tasks"
+msgstr "Verkefnum sem þú hefur lokið"
+
+msgid "Your Tasks"
+msgstr "Verkefnin þín"
+
+msgid "All Tasks"
+msgstr "Öll verkefni"
+
+msgid "Task"
+msgstr "Verkefni"
+
+msgid "Deadline"
+msgstr "Frestur"
+
+msgid "Assignees"
+msgstr "Viðtakendur"
+
+msgid "In Progress"
+msgstr "Í vinnslu"
+
+msgid "Delete task"
+msgstr "Eyða verkefni"
+
+msgid "No Tasks"
+msgstr "Engin verkefni"
+
+msgid "wants access"
+msgstr "vill fá aðgang"
+
+msgid "No Answers"
+msgstr "Engar svör"
+
+msgid "Select Field Type"
+msgstr "Veldu Field Type"
+
+msgid "Text Only"
+msgstr "Aðeins texti"
+
+msgid "Multiple Line Text"
+msgstr "Margfeldi lína texti"
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Kassar"
+
+msgid "Radio"
+msgstr "Útvarp"
+
+msgid "Date"
+msgstr "Dagsetning"
+
+msgid "Time"
+msgstr "Tími"
+
+msgid "Yes/No"
+msgstr "Já Nei"
+
+msgid "Number"
+msgstr "Númer"
+
+msgid "Access Denied"
+msgstr "Aðgangi hafnað"
+
+msgid "You don't have access to this case."
+msgstr "Þú hefur ekki aðgang að þessu máli."
+
+msgid "Imports"
+msgstr "Innflutningur"
+
+msgid "View import"
+msgstr "Skoða innflutning"
+
+msgid "Sessions"
+msgstr "Fundir"
+
+msgid "Home"
+msgstr "Heim"
+
+msgid "Users"
+msgstr "Notendur"
+
+msgid "Library"
+msgstr "Bókasafn"
+
+msgid "Integration"
+msgstr "Samþætting"
+
+msgid "Settings"
+msgstr "Stillingar"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Lyklar"
+
+msgid "Feed Templates"
+msgstr "Feed Sniðmát"
+
+msgid "Form Templates"
+msgstr "Form Sniðmát"
+
+msgid "E-sign Templates"
+msgstr "Sniðmát fyrir rafræn skilti"
+
+msgid "Task Templates"
+msgstr "Verkefnasniðmát"
+
+msgid "Dashboard"
+msgstr "Mælaborð"
+
+msgid "Payments"
+msgstr "Greiðslur"
+
+msgid "From"
+msgstr "Frá"
+
+msgid "To"
+msgstr "Til"
+
+msgid "System"
+msgstr "Kerfi"
+
+msgid "User Intake"
+msgstr "Notendainntaka"
+
+msgid "Custom Fields"
+msgstr "Sérsniðnir reitir"
+
+msgid "After Actions"
+msgstr "Eftir aðgerðir"
+
+msgid "Advance Settings"
+msgstr "Fyrirfram stillingar"
+
+msgid "Label Name"
+msgstr "Merkimiðill"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Tag ID"
+msgstr "Tag ID"
+
+msgid "Have many users?"
+msgstr "Ertu með marga notendur?"
+
+msgid "Import users"
+msgstr "Flytja inn notendur"
+
+msgid "or"
+msgstr "eða"
+
+msgid "Send them a signup link."
+msgstr "Sendu þeim skráningartengil."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Byrjum á því að slá inn tölvupóstinn eða símanúmerið"
+
+msgid "Phone"
+msgstr "Sími"
+
+msgid "Invalid phone number entered"
+msgstr "Ógilt símanúmer slegið inn"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Merki til að finna mál auðveldlega. það er ekki hægt að breyta seinna"
+
+msgid "Visibility:"
+msgstr "Skyggni:"
+
+msgid "Who can use this template"
+msgstr "Hver getur notað þetta sniðmát"
+
+msgid "One time"
+msgstr "Einu sinni"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr ""
+"Vinsamlega sláðu inn gildar greiðsluupplýsingar áður en þú heldur áfram"
+
+msgid "Add Payment"
+msgstr "Bæta við greiðslu"
+
+msgid "Repeat every:"
+msgstr "Endurtaktu hvert:"
+
+msgid "Let's get started"
+msgstr "Byrjum"
+
+msgid "Take me there"
+msgstr "Farðu með mig þangað"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Onboarding"
+msgstr "Um borð"
+
+msgid "Created on"
+msgstr "Búið til á"
+
+msgid "Expires on"
+msgstr "Rennur út þann"
+
+msgid "No announcements yet."
+msgstr "Engar tilkynningar ennþá."
+
+msgid "Add Announcement"
+msgstr "Bæta við tilkynningu"
+
+msgid "Edit Announcement"
+msgstr "Breyta tilkynningu"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr ""
+"Dagsetning og tími ættu að vera að minnsta kosti einni klukkustund á undan"
+
+msgid "Delete Date"
+msgstr "Eyða dagsetningu"
+
+msgid "Delete Time"
+msgstr "Eyða tíma"
+
+msgid "Back"
+msgstr "Til baka"
+
+msgid "No Users Found"
+msgstr "Engir notendur fundust"
+
+msgid "No role selected"
+msgstr "Ekkert hlutverk valið"
+
+msgid "No permissions added!"
+msgstr "Engar heimildir bættar!"
+
+msgid "ASSIGNED USERS"
+msgstr "VIÐSKIPTIR NOTENDUR"
+
+msgid "CASE PERMISSIONS"
+msgstr "TILBOÐFRÉTTIR"
+
+msgid "User ID"
+msgstr "notandanafn"
+
+msgid "Role"
+msgstr "Hlutverk"
+
+msgid "remove"
+msgstr "fjarlægja"
+
+msgid "Assign User"
+msgstr "Úthluta notanda"
+
+msgid "User"
+msgstr "Notandi"
+
+msgid "ADD USER"
+msgstr "BÆTA VIÐ NOTANDA"
+
+msgid "Email user about case assignment"
+msgstr "Email notandi um verkefni verkefni"
+
+msgid "Keyword"
+msgstr "Leitarorð"
+
+msgid "No cases found."
+msgstr "Engar tilfelli fundust."
+
+msgid "Create a case for a business"
+msgstr "Búðu til mál fyrir fyrirtæki"
+
+msgid "Case ID"
+msgstr "Málsskjöl"
+
+msgid "Created On"
+msgstr "Búið til á"
+
+msgid "Case Status"
+msgstr "Case Status"
+
+msgid "Case Type"
+msgstr "Tegund máls"
+
+msgid "Assign Users"
+msgstr "Úthluta notendum"
+
+msgid "No cases found"
+msgstr "Engar tilfelli fundust"
+
+msgid "Have many cases?"
+msgstr "Hafa mörg mál?"
+
+msgid "Click here to import cases."
+msgstr "Smelltu hér til að flytja inn mál."
+
+msgid "No status selected"
+msgstr "Engin staða valin"
+
+msgid "No type selected"
+msgstr "Engin tegund valin"
+
+msgid "Case Info"
+msgstr "Case Info"
+
+msgid "About"
+msgstr "Um"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Varanlegt merki til að finna mál auðveldlega. (a-z, 0-9, -, /) eru leyfðar"
+
+msgid "Case Types"
+msgstr "Tegundir mála"
+
+msgid "Click"
+msgstr "Smellur"
+
+msgid "to edit case types"
+msgstr "til að breyta gerðum mála"
+
+msgid "No Type selected"
+msgstr "Engin gerð valin"
+
+msgid "Case not found!"
+msgstr "Mál fannst ekki!"
+
+msgid "Media Size"
+msgstr "Media Size"
+
+msgid "All statistics"
+msgstr "Öll tölfræði"
+
+msgid "Import not found."
+msgstr "Innflutningur fannst ekki."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Vinnsla á skrá mistókst. Gakktu úr skugga um að það sé CSV skráartegund og "
+"innihaldi rétta hausa"
+
+msgid "Data"
+msgstr "Gögn"
+
+msgid "No Imports yet."
+msgstr "Enginn innflutningur ennþá."
+
+msgid "Source"
+msgstr "Heimild"
+
+msgid "Stats"
+msgstr "Tölfræði"
+
+msgid "Passed:"
+msgstr "Samþykkt:"
+
+msgid "Failed:"
+msgstr "Mistókst:"
+
+msgid "Total:"
+msgstr "Samtals:"
+
+msgid "Add Imports"
+msgstr "Bæta við innflutningi"
+
+msgid "Download Sample"
+msgstr "Sæktu sýnishorn"
+
+msgid "Choose a file"
+msgstr "Veldu skrá"
+
+msgid "Edit Key"
+msgstr "Breyta lykli"
+
+msgid "Add Key"
+msgstr "Bæta við lykli"
+
+msgid "No Keys yet."
+msgstr "Engir takkar ennþá."
+
+msgid "Source CIDR"
+msgstr "Heimild CIDR"
+
+msgid "Remove"
+msgstr "Fjarlægðu"
+
+msgid "is invalid."
+msgstr "er ógilt."
+
+msgid "Secret Key"
+msgstr "Leynilykill"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Gakktu úr skugga um að afrita nýja leynilykilinn þinn núna. Þú munt ekki "
+"geta séð það aftur!"
+
+msgid "Edit Webhook"
+msgstr "Breyttu Webhook"
+
+msgid "Add Webhook"
+msgstr "Bættu við Webhook"
+
+msgid "No event selected"
+msgstr "Enginn viðburður valinn"
+
+msgid "No Webhooks yet."
+msgstr "Engin Webhooks ennþá."
+
+msgid "URL"
+msgstr "Slóð"
+
+msgid "Secret Webhook"
+msgstr "Leyndarmál Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Gakktu úr skugga um að afrita nýja leyndarmálið þitt. Þú munt ekki geta séð "
+"það aftur!"
+
+msgid "Sign In"
+msgstr "Skráðu þig inn"
+
+msgid "Login in account page."
+msgstr "Skráðu þig inn á reikningsíðu."
+
+msgid "Edit form builder"
+msgstr "Breyta eyðublaði"
+
+msgid "Delete form"
+msgstr "Eyða eyðublaði"
+
+msgid "No forms yet."
+msgstr "Engar eyðublöð ennþá."
+
+msgid "Intake Forms"
+msgstr "Inntökueyðublöð"
+
+msgid "Upload Intake Form Document"
+msgstr "Hladdu upp inntökueyðublaði"
+
+msgid "Add Intake Form"
+msgstr "Bæta við inntökueyðublaði"
+
+msgid "Edit Intake Form"
+msgstr "Breyta inntökueyðublaði"
+
+msgid "Show Media"
+msgstr "Sýna fjölmiðla"
+
+msgid "Add Post"
+msgstr "Bæta við færslu"
+
+msgid "Edit Post"
+msgstr "Breyta færslu"
+
+msgid "Files Amount"
+msgstr "Skráarfjárhæð"
+
+msgid "No Feed Templates yet."
+msgstr "Engin straum sniðmát enn."
+
+msgid "Post Name"
+msgstr "Eftirnafn"
+
+msgid "Post Message"
+msgstr "Senda skilaboð"
+
+msgid "Processing media ..."
+msgstr "Vinnur frá miðöldum ..."
+
+msgid "Download original file"
+msgstr "Hladdu niður upprunalegri skrá"
+
+msgid "Could not display media"
+msgstr "Ekki var hægt að birta miðla"
+
+msgid "No locations found."
+msgstr "Engar stöður fundust."
+
+msgid "Main Office"
+msgstr "Aðalskrifstofa"
+
+msgid "Location Name"
+msgstr "Staðsetningarheiti"
+
+msgid "Delete e-sign"
+msgstr "Eyða rafrænu merki"
+
+msgid "No e-signs yet."
+msgstr "Engin rafræn skilti ennþá."
+
+msgid "Subtasks Count"
+msgstr "Talning undirverkefna"
+
+msgid "No tasks yet."
+msgstr "Engin verkefni ennþá."
+
+msgid "Invoice ID"
+msgstr "Auðkenni reiknings"
+
+msgid "Total"
+msgstr "Samtals"
+
+msgid "Refund"
+msgstr "Endurgreiðsla"
+
+msgid "No invoices yet."
+msgstr "Engir reikningar ennþá."
+
+msgid "Refund Reason"
+msgstr "Ástæða endurgreiðslu"
+
+msgid "Duplicate charge"
+msgstr "Tvítekið gjald"
+
+msgid "Fraudulent charge"
+msgstr "Sviksákæra"
+
+msgid "Requested by customer"
+msgstr "Óskað eftir viðskiptavinum"
+
+msgid "On Board"
+msgstr "Um borð"
+
+msgid "Stripe"
+msgstr "Rönd"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Upplýsingar um hlutverk"
+
+msgid "It cannot be changed later"
+msgstr "Ekki er hægt að breyta því síðar"
+
+msgid "Role Permissions"
+msgstr "Hlutverk Leyfisveitingar"
+
+msgid "e-signs"
+msgstr "rafræn merki"
+
+msgid "on"
+msgstr "á"
+
+msgid "Allowed File Sizes"
+msgstr "Leyfileg skráarstærð"
+
+msgid "Create"
+msgstr "Búa til"
+
+msgid "Creating..."
+msgstr "Búa til..."
+
+msgid "Modules"
+msgstr "Einingar"
+
+msgid "Roles"
+msgstr "Hlutverk"
+
+msgid "Profile information"
+msgstr "Upplýsingar um prófíl"
+
+msgid "No role found."
+msgstr "Ekkert hlutverk fannst."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Þegar mál er búið til skaltu úthluta þessum notendum sjálfkrafa"
+
+msgid "Remove All"
+msgstr "Fjarlægja allt"
+
+msgid "User Name"
+msgstr "Notandanafn"
+
+msgid "Notify"
+msgstr "Tilkynna"
+
+msgid "Host User"
+msgstr "Host notandi"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Þegar notandi er úthlutað til máls skaltu bæta við sniðmátum sjálfkrafa"
+
+msgid "No post selected"
+msgstr "Engin færsla valin"
+
+msgid "No form selected"
+msgstr "Ekkert form valið"
+
+msgid "No e-sign selected"
+msgstr "Ekkert rafrænt merki valið"
+
+msgid "Templates"
+msgstr "Sniðmát"
+
+msgid "Add Templates"
+msgstr "Bæta við sniðmátum"
+
+msgid "Idle Cases"
+msgstr "Idle Cases"
+
+msgid "When a case is idle, post this message"
+msgstr "Þegar mál er aðgerðalaust skaltu senda þessi skilaboð"
+
+msgid "No case type selected"
+msgstr "Engin málstegund valin"
+
+msgid "Idle Days"
+msgstr "Aðgerðarlausir dagar"
+
+msgid "Post Id"
+msgstr "Auðkenni færslu"
+
+msgid "Set Idle Message"
+msgstr "Stilla Idle Message"
+
+msgid "No task selected"
+msgstr "Ekkert verkefni valið"
+
+msgid "No operation order selected"
+msgstr "Engin aðgerðarpöntun valin"
+
+msgid "Operation Order"
+msgstr "Aðgerðarskipan"
+
+msgid "Add Templates to Assign Users"
+msgstr "Bættu við sniðmátum til að úthluta notendum"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Málsform"
+
+msgid "User Form"
+msgstr "Notendaeyðublað"
+
+msgid "Notes Form"
+msgstr "Skýringareyðublað"
+
+msgid "Defaults"
+msgstr "Sjálfgefið"
+
+msgid "Required"
+msgstr "Nauðsynlegt"
+
+msgid "Public User Signup link:"
+msgstr "Opinber notendaskráning tengill:"
+
+msgid "Design Settings"
+msgstr "Hönnunarstillingar"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Breyta skrá"
+
+msgid "Delete Favicon"
+msgstr "Eyða Favicon"
+
+msgid "Logo:"
+msgstr "Merki:"
+
+msgid "Delete Logo"
+msgstr "Eyða merki"
+
+msgid "Text Color"
+msgstr "Textalitur"
+
+msgid "Recommended Colors:"
+msgstr "Mæltir litir:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "endurstilla"
+
+msgid "Background Color"
+msgstr "Bakgrunns litur"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Fyrirtækjaupplýsingar"
+
+msgid "Website"
+msgstr "Vefsíða"
+
+msgid "Terms of Use URL"
+msgstr "Notkunarskilmálar URL"
+
+msgid "User Signup"
+msgstr "Notendaskráning"
+
+msgid "Allow Signup"
+msgstr "Leyfa skráningu"
+
+msgid "Auto Create Case"
+msgstr "Búa til mál sjálfkrafa"
+
+msgid "Case User Role"
+msgstr "Hlutverk notanda máls"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Analytics lykill"
+
+msgid "delete"
+msgstr "eyða"
+
+msgid "Crop Image"
+msgstr "Skera mynd"
+
+msgid "No Filter"
+msgstr "Engin sía"
+
+msgid "No logs requested."
+msgstr "Engar logs óskað."
+
+msgid "Logs list is empty."
+msgstr "Logs listanum er tómt."
+
+msgid "Download CSV"
+msgstr "Sækja CSV"
+
+msgid "Request Logs"
+msgstr "Beiðni Logs"
+
+msgid "Log Type"
+msgstr "Log Tegund"
+
+msgid "Filter"
+msgstr "Sía"
+
+msgid "Select a case"
+msgstr "Veldu mál"
+
+msgid "Enter the email address"
+msgstr "Sláðu inn netfangið"
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Header (3 max)"
+msgstr "Haus (hámark 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Þegar notandi gengur í app skaltu biðja notandann um að deila eftirfarandi"
+
+msgid "No user intake found."
+msgstr "Engin notendainntaka fannst."
+
+msgid "User Type"
+msgstr "User Type"
+
+msgid "Intake Form"
+msgstr "Inntökueyðublað"
+
+msgid "Complete After"
+msgstr "Ljúka Eftir"
+
+msgid "No user type selected"
+msgstr "Engin notendategund valin"
+
+msgid "No intake form selected"
+msgstr "Ekkert inntökuform valið"
+
+msgid "Complete After Date"
+msgstr "Heill eftir dagsetningu"
+
+msgid "Complete After Time"
+msgstr "Heill eftir tíma"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Dagsetning og tími ættu að vera minni eða jöfn núna"
+
+msgid "Comment ct"
+msgstr "Athugasemd ct"
+
+msgid "View Ticket"
+msgstr "Skoða miða"
+
+msgid "Ticket"
+msgstr "Miði"
+
+msgid "No tickets yet."
+msgstr "Engir miðar ennþá."
+
+msgid "User not found."
+msgstr "Notandi finnst ekki."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Notandi getur breytt reikningsupplýsingum sínum nema hlutanum um eiginleika "
+"hýsilnotanda."
+
+msgid "Contact"
+msgstr "Hafa samband"
+
+msgid "Phone number"
+msgstr "Símanúmer"
+
+msgid "Zip Postal Code"
+msgstr "Póstnúmer"
+
+msgid "Host User Attributes"
+msgstr "Eiginleikar hýsingarnotanda"
+
+msgid "User Status"
+msgstr "Notendastaða"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Varanlegt merki til að finna notanda auðveldlega. (a-z, 0-9, -, /) eru "
+"leyfðar"
+
+msgid "App only User Intake Fields"
+msgstr "Notendainntaksreitir eingöngu fyrir forrit"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP AÐEINS CUSTOM FIELDS"
+
+msgid "s found."
+msgstr "s fundust."
+
+msgid "Created Date"
+msgstr "Búið til dagsetningu"
+
+msgid "View Cases"
+msgstr "Skoða mál"
+
+msgid "VIEW CASES"
+msgstr "SKOÐA MÁL"
+
+msgid "Get Started"
+msgstr "Byrja"
+
+msgid "Password"
+msgstr "Lykilorð"
+
+msgid "Email is not valid."
+msgstr "Netfangið er ekki í gildi."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive leyfir þér og viðskiptavininum þínum"
+
+msgid "work together"
+msgstr "vinna saman"
+
+msgid "at any time, in any place."
+msgstr "hvenær sem er, hvar sem er."
+
+msgid "Explore"
+msgstr "Kanna"
+
+msgid "Pricing"
+msgstr "Verðlag"
+
+msgid "Support & Docs"
+msgstr "Stuðningur og skjöl"
+
+msgid "FAQ"
+msgstr "Algengar spurningar"
+
+msgid "Failed to validate if you are human"
+msgstr "Mistókst að staðfesta hvort þú ert mannlegur"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "Tilkynna mér þegar það er tilbúið!"
+
+msgid "Thank You!"
+msgstr "Þakka þér fyrir!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Við munum láta þig vita þegar appið er tilbúið"
+
+msgid "Most popular"
+msgstr "Vinsælast"
+
+msgid "All languages"
+msgstr "Öll tungumál"
+
+msgid "Oops, Something went wrong."
+msgstr "Úps! Eitthvað fór úrskeiðis."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Úps! Eitthvað fór úrskeiðis. Okkar lið hefur fengið tilkynningu. "
+"Vinsamlegast reyndu aftur síðar."
+
+msgid "Support Documentation"
+msgstr "Stuðningsskjöl"
+
+msgid "All Categories"
+msgstr "Allir flokkar"
+
+msgid "Contents"
+msgstr "Innihald"
+
+msgid "Related Articles"
+msgstr "tengdar greinar"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Byrjaðu: ferlar, bestu starfsvenjur, uppsetningarleiðbeiningar og fleira!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Finndu allt sem þú þarft til að komast í vinnuna í CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Öll mál samskipti á einum stað"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Styddu við, sendu uppfærslur, svöruðu spurningum, taktu athugasemdir, "
+"skrifaðu athugasemdir og láttu allar umræður merktar með tölvupósti og SMS "
+"tilkynningum í rauntíma."
+
+msgid "Share with confidence"
+msgstr "Deila með trausti"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Deildu skjölum og myndum milli viðskiptavina og liðsmanna í öllum tækjum svo"
+" allir haldi sig uppfærðir."
+
+msgid "Take it on the go"
+msgstr "Taktu það á ferðinni"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Notaðu farsíma eins og spjaldtölvur og snjallsíma til að vinna saman að "
+"lykilupplýsingum, ræða meiriháttar mál, skiptast á skjölum og kortleggja "
+"framvindu mála í rauntíma."
+
+msgid "Immediate records access"
+msgstr "Skjótur skrár aðgang"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Viðurkenndir notendur geta fljótt nálgast upplýsingar um viðskiptavini og "
+"upplýsingar um mál (þ.mt núverandi, fyrri, opin, lokuð og í bið), allt í "
+"gegnum eina vefgátt."
+
+msgid "Automatic timezone conversion"
+msgstr "Sjálfvirk tímabeltisreikningur"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Hvort sem þú ferð eða gistir á öðrum stað muntu vera samstilltur við "
+"samtalsstjórnunarkerfi okkar á tímabeltinu."
+
+msgid "Track Events"
+msgstr "Track Events"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Fljótlega skipuleggja fundi, fylgjast með væntanlegum atburðum og bjóða "
+"viðskiptavinum og teymum þátttakendum sem þátttakendur."
+
+msgid "Video Conferencing"
+msgstr "Vídeó fundur"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Tengstu viðskiptavinum og meðlimum með lifandi vídeóspjallum til að fá meiri"
+" gagnvirkni."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Gerðu sjálfvirk verkefni þegar mál er búið til eða notandi er úthlutað til "
+"máls."
+
+msgid "Automated Alerts"
+msgstr "Sjálfvirk tilkynningar"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Viltu óska viðskiptavinum þínum til hamingju með afmælið? Settu upp "
+"sjálfvirk skilaboð fyrir bæði fyrri og núverandi viðskiptavini fyrir sinn "
+"sérstaka dag!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Halda viðskiptavinarupplýsingum uppfærðar"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Viðskiptavinir geta breytt sniðum sínum með uppfærðum gögnum, myndum, "
+"lykilorðum og reikningsstillingum."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Spyrðu spurninga, fáðu svör."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Búðu til sérsniðin eyðublöð og sendu þeim til viðskiptavina til að ljúka "
+"þeim. Safnaðu nauðsynlegum upplýsingum, gefðu útgöngukannanir og fengu öll "
+"gögn sem þú þarft til að vinna starf þitt vel!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Forstöðumaður sölu Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Gerðu viðskiptavinarreikninga eins einfalt og mögulegt er með reikningum á "
+"netinu og greiðslum."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Við elskum málið vegna þess að það leyfir viðskiptavinum að sjá nákvæmlega "
+"hvað þeir eru að borga fyrir."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Varaformaður Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Njóttu vellíðan af e-undirritun"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Skráðu öll skjöl rafrænt af í gegnum DocSign með því að nota skjöl sem "
+"hlaðið er upp og beiðnir um staðfestingu stafrænna viðskiptavina og "
+"staðfestingar."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Hladdu upp skjali, merktu það fyrir undirskrift og síðan skráir "
+"viðskiptavinurinn sig inn og undirritar það rafrænt. Allt er gert án þess að"
+" viðskiptavinurinn þurfi að koma inn í bygginguna okkar. Þetta er hentugt "
+"fyrir viðskiptavini sem eru ekki nálægt skrifstofu eða sem búa utan ríkis."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Framkvæmdastjóri rekstrar fjármagns trygginga"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Auka kerfið þitt. Minni vinnu, fleiri niðurstöður."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Notaðu sjálfstætt starfandi eiginleiki"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Taktu fulla stjórn á CaseActive stjórnunarpakka þínum frá pallinum sjálfum."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Tengdu áreynslulaust núverandi kerfi með CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Sameina sér API okkar til að búa til mál sjálfkrafa, úthluta notendum og búa"
+" til skýrslur byggðar á kerfisinntaki þínu."
+
+msgid "Acting as a"
+msgstr "Starfa sem"
+
+msgid "virtual administrative assistant"
+msgstr "raunverulegur stjórnandi aðstoðarmaður"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive styrkir þér með straumlínulagaðri skjal og fjölmiðla "
+"meðhöndlun, einkaaðila"
+
+msgid "client-to-customer communications"
+msgstr "samskipti viðskiptavinar til viðskiptavina"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "atburður tímasetningu og skref fyrir skref tilfelli vinnslu."
+
+msgid "Self-Serve Administration"
+msgstr "Stjórnun sjálfstjórnar"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Starfandi sem raunverulegur stjórnandi aðstoðarmaður, CaseActive gerir þér "
+"kleift að straumlínulagað skjal og fjölmiðla meðhöndlun, einkaskilaboð "
+"viðskiptavina til viðskiptavina, tímasetningu atburða og skref-fyrir-skref "
+"málsmeðferð."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Hafa umsjón með notendaskráningum og sköpun mála"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Umsjón með stofnun notendareikninga með beinu leyfi fyrir aðgangsheimildum "
+"sínum frá hverju tilviki fyrir sig. Hafa umsjón með sköpun mála, framvindu "
+"og lokun, með fullri skýrslugerð hvert skref."
+
+msgid "View Caseactive Analytics"
+msgstr "Skoða Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Sjáðu nákvæmlega hvernig málum er háttað, fjölda mála lokað og sjá "
+"svörunartíma í gegnum ítarlega greiningaraðferð CaseActive. Þekking er "
+"máttur og við höfum gefið þér allt sem er að vita um eigin verkefni."
+
+msgid "Monitor User Logs"
+msgstr "Skoðaðu notendaskrár"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Fylgstu með innskráningum viðskiptavina og liðsmanna og virkni vettvangs til"
+" að tryggja að allar aðgerðir þeirra séu leyfðar innan málsbreytanna og að "
+"allir meðlimir framfylgi skyldum sínum eins og krafist er."
+
+msgid "Employ Advanced Searches"
+msgstr "Starfðu Ítarleg leit"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Finndu nákvæmlega það sem þú þarft þegar þú þarft það. Leitaðu að málum "
+"eftir nöfnum notenda og viðskiptavina, lykilorðum, tímalínum, skjölum sem "
+"hlaðið var upp og margt fleira!"
+
+msgid "Create Custom Fields"
+msgstr "Búðu til sérsniðnar reiti"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Búðu til sérhæfða málatilbúnað fyrir inntak viðskiptavinar og liðsmanna og "
+"safnaðu gögnum sem þú þarft frá öllum sem taka þátt. Gerðu málviðmótið "
+"einstakt fyrir fyrirtæki þitt og vörumerki!"
+
+msgid "Create Custom Templates"
+msgstr "Búðu til sérsniðna sniðmát"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Þróa gríðarlegt úrval af sérsniðnum eyðublöðum og sniðmátum til dreifingar "
+"og frágangs bæði á meðan og eftir mál (eins og útgöngukannanir "
+"viðskiptavina). Hvaða mynd sem þú þarft, þú getur búið til!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Reikningar eins og þú ferð"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Við erum hér til að hjálpa! Hafðu samband ef þú hefur einhverjar spurningar "
+"og við svarum innan tveggja virkra daga."
+
+msgid "* Email is not valid."
+msgstr "* Netfangið er ekki í gildi."
+
+msgid "Low"
+msgstr "Lágt"
+
+msgid "Medium"
+msgstr "Miðlungs"
+
+msgid "High"
+msgstr "Hár"
+
+msgid "Critical"
+msgstr "Gagnrýnin"
+
+msgid "Choose Importance"
+msgstr "Veldu mikilvægi"
+
+msgid "Department"
+msgstr "Deild"
+
+msgid "Sales"
+msgstr "Sala"
+
+msgid "Other"
+msgstr "Annað"
+
+msgid "Choose Department"
+msgstr "Veldu deild"
+
+msgid "Loading"
+msgstr "Hleðsla"
+
+msgid "Importance"
+msgstr "Mikilvægi"
+
+msgid "Send A New Message"
+msgstr "Sendu ný skilaboð"
+
+msgid "Send message"
+msgstr "Senda skilaboð"
+
+msgid "Answers to Questions"
+msgstr "Svör við spurningum"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Hafa einhverjar spurningar? Lestu frekari leiðbeiningar í svörum okkar við "
+"spurningum viðskiptavina og finndu svörin þín eigin."
+
+msgid "How secure is CaseActive?"
+msgstr "Hversu öruggt er CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive notar hernaðar- og bankagráðu 128 bita SSL dulkóðun fyrir "
+"gagnaflutning og 256 bita AES dulkóðun fyrir gögn í hvíld. Sérhvert "
+"CaseActive tilvik hefur einstakan lykil sem myndaður er, sem veitir "
+"fyrirtækinu þínu aukið öryggislag. Við munum aldrei leyfa öðru fyrirtæki að "
+"fá aðgang að gagnagrunninum þínum eða geymslukerfinu."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Ég er með núverandi kerfi til staðar, getur CaseActive unnið með núverandi "
+"kerfi?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Já, þú getur samþætt sér API okkar eða innflutningseiningu til að búa til "
+"mál sjálfkrafa, úthluta notendum og búa til skýrslur byggðar á inntakinu "
+"þínu."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Við höfum viðskiptavini um allan heim. Er CaseActive fáanlegt á öðrum "
+"tungumálum?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Já, CaseActive app og samskipti er hægt að þýða á yfir 60 tungumál, þar á "
+"meðal Mandarin kínversku, spænsku, hindí og rússnesku auk ensku."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Get ég bætt við lógói eða sérsniðið CaseActive á einhvern hátt?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Algjörlega! CaseActive var hannað með þig í huga. Á stillingasíðu "
+"stjórnborðsins geturðu hlaðið upp þínum eigin persónulega lit og valið "
+"fyrirtækislitina þína."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Er CaseActive samhæft við hvaða tæki sem er (PC, Mac, spjaldtölva og "
+"farsíma)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive er móttækilegt vefforrit. Það keyrir í hvaða vafra sem er eins og"
+" Internet Explorer, Firefox, Safari eða Chrome osfrv. Þetta þýðir að tegund "
+"tækisins (PC, Mac, spjaldtölva og farsíma) sem þú notar skiptir engu máli. "
+"Opnaðu einfaldlega vafrann, skráðu þig inn á CaseActive reikninginn þinn og "
+"þú ert tilbúinn."
+
+msgid "How many clients can I have?"
+msgstr "Hversu marga viðskiptavini get ég haft?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Þú ert rukkaður fyrir hvert starfsmannasæti, á mánuði. Þú getur haft "
+"ótakmarkaða notendur viðskiptavina."
+
+msgid "Enhance User Experience"
+msgstr "Bættu notendaupplifun"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Það eru engin lágmarksgjöld og engar fyrirframskuldbindingar. Þú greiðir "
+"aðeins fyrir hvert starfsmannasæti, á mánuði."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "á mánuði"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Allt sem þú þarft til að byrja. 3 sæti fylgja."
+
+msgid "Business"
+msgstr "Viðskipti"
+
+msgid "Popular"
+msgstr "Vinsælt"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Vinsælasta áætlunin okkar. 4 sæti fylgja."
+
+msgid "Enterprise"
+msgstr "Fyrirtæki"
+
+msgid "Contact sales for pricing"
+msgstr "Hafðu samband við sölu til að fá verð"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Sérsniðin verðlagning, háþróaðir eiginleikar, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Hafðu samband við sölu"
+
+msgid "Overview"
+msgstr "Yfirlit"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Hafðu samband og deildu skjölum með viðskiptavinum þínum"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Skipuleggðu endurtekna viðburði og fundi"
+
+msgid "Fully customize your form to generate data"
+msgstr "Sérsníddu eyðublaðið þitt að fullu til að búa til gögn"
+
+msgid "Keep track of case progression"
+msgstr "Fylgstu með framvindu mála"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Biddu um rafrænar undirskriftir frá mörgum notendum"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Búðu til reikning sem viðskiptavinur þinn getur skoðað eða borgað"
+
+msgid "ToDos"
+msgstr "Verkefni"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Leyfir öllum að vita hvað er í vændum og á eftir"
+
+msgid "Auto notify the user when something is due"
+msgstr "Láta notanda sjálfkrafa vita þegar eitthvað á að gera"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Bættu við sérsniðnum málsreitum fyrir öll mál þín"
+
+msgid "Custom Branding"
+msgstr "Sérsniðin vörumerki"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Gerðu appið þitt einstakt með lógó og litastílum"
+
+msgid "Access to customer support"
+msgstr "Aðgangur að þjónustuveri"
+
+msgid "Storage"
+msgstr "Geymsla"
+
+msgid "Unlimited"
+msgstr "Ótakmarkað"
+
+msgid "Additional Users Seats"
+msgstr "Auka sæti notenda"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "$83,34"
+
+msgid "Convo with recording"
+msgstr "Convo með upptöku"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Mynd- eða hljóðspjall með upptöku vistað í málinu"
+
+msgid "API Access"
+msgstr "API aðgangur"
+
+msgid "Automate tasks with access to API"
+msgstr "Sjálfvirk verkefni með aðgangi að API"
+
+msgid "Module Templates"
+msgstr "Sniðmát fyrir einingar"
+
+msgid "Create a standard template and reuse it"
+msgstr "Búðu til staðlað sniðmát og endurnotaðu það"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Keyra aðgerð sjálfkrafa þegar mál eða tilfelli sem úthlutað er er ræst"
+
+msgid "Newsletter"
+msgstr "Fréttabréf"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Sendu almenn, afmælis- eða frískilaboð til viðskiptavina (kemur bráðum)"
+
+msgid "Encryption at rest"
+msgstr "Dulkóðun í hvíld"
+
+msgid "Protects your data from system compromise"
+msgstr "Ver gögnin þín gegn kerfislækkun"
+
+msgid "Encryption in transit"
+msgstr "Dulkóðun í flutningi"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Ver gögnin þín ef fjarskipti eru hleruð"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML-undirstaða stak innskráning (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Svaraðu viðburðum í rauntíma"
+
+msgid "Seamless Collaboration"
+msgstr "Óaðfinnanleg samvinna"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive hagræðir stafrænu samstarfi milli fyrirtækis þíns og "
+"viðskiptavina - frá ráðgjöf til úrlausnar, allt á einum vettvangi."
+
+msgid "Take a tour"
+msgstr "Taka ferð"
+
+msgid "Stay Connected"
+msgstr "Vertu tengdur"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Haltu snertingu við liðsmenn með því að nota notendavænt viðmót CaseActive "
+"sem miðstöð fyrir viðskiptavin og málum."
+
+msgid "Connect"
+msgstr "Tengdu"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed heldur þér uppi með viðskiptavinum þínum."
+
+msgid "Schedule"
+msgstr "Dagskrá"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Búðu til viðburði, bjóða þátttakendum og fylgjast með dagatalinu þínu."
+
+msgid "Call"
+msgstr "Hringdu"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "Taktu þátt í lifandi myndsímtali hvenær sem er, hvar sem er."
+
+msgid "Share"
+msgstr "Deila"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Skráðu öryggisskrár með öruggum hætti, ræða þau og deila."
+
+msgid "Powerful Case Management"
+msgstr "Öflugur Case Management"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Utan-the-kassi virkni"
+
+msgid "Easily assign individuals"
+msgstr "Einfaldlega úthluta einstaklingum"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "eða lið til máls og vinna með viðskiptavinum."
+
+msgid "Manage user groups"
+msgstr "Stjórna notendahópum"
+
+msgid "and customize access permissions."
+msgstr "og aðlaga aðgangsheimildir."
+
+msgid "All data is automatically backed up"
+msgstr "Öll gögn eru sjálfkrafa afrituð"
+
+msgid "in case a recovery is ever needed."
+msgstr "ef þörf er á bata."
+
+msgid "All information"
+msgstr "Allar upplýsingar"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "er örugglega dulkóðuð og tryggir algera persónuvernd þína."
+
+msgid "Customize"
+msgstr "Sérsníða"
+
+msgid "with your own colors and logo."
+msgstr "með eigin litum og lógó."
+
+msgid "can be enabled/disabled at any time."
+msgstr "Hægt er að gera það virkt / óvirkt hvenær sem er."
+
+msgid "Benefits of "
+msgstr "Hagur af"
+
+msgid "Reduction in time "
+msgstr "Fækkun í tíma"
+
+msgid "to intake new clients"
+msgstr "að taka inn nýja viðskiptavini"
+
+msgid "Minimize "
+msgstr "Lágmarka"
+
+msgid "the chance of "
+msgstr "möguleika á"
+
+msgid "malpractice"
+msgstr "misferli"
+
+msgid "Better experience "
+msgstr "Betri reynsla"
+
+msgid "for your client"
+msgstr "fyrir viðskiptavin þinn"
+
+msgid "Increase in caseload capacity "
+msgstr "Auka álagsgetu"
+
+msgid "per staff"
+msgstr "á hvern starfsmann"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Byrjaðu með innbyggðum forritum okkar"
+
+msgid "All you need in one place."
+msgstr "Allt sem þú þarft á einum stað."
+
+msgid "Case Feed"
+msgstr "Case Feed"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Úthlutaðu viðskiptavini, starfsfólki og félögum á einfaldan hátt mál og taka"
+" þátt í öruggu rými sem gerir þér kleift að setja fram gang mála, eiga "
+"spjall og myndbandssamtal í rauntíma, svo og skipuleggja atburði, "
+"tölvupóstskeyti / senda / hlaða niður skjölum og miklu meira."
+
+msgid "Case Invoices"
+msgstr "Málsreikningar"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Með reikningi þegar þú ert að fara er innheimtu viðskiptavina með aðeins "
+"einum smelli í burtu og gerir þér kleift að senda sjálfkrafa myndaðar "
+"sjóðbeiðnir og fá beinar greiðslur í staðinn."
+
+msgid "Case Events"
+msgstr "Málsatburðir"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Haltu skipulagðri dagatali þínu á öllum tímum, skipuleggðu viðburði, býður "
+"þátttakendum, sendir áminningar um viðburði og tryggir að allt sé á réttri "
+"braut."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Hittu viðskiptavini og meðlimi liðsins nánast &#39;augliti til auglitis&#39;"
+" í gegnum innbyggðar myndráðstefnur svo þú getir talað beint við alla sem "
+"taka þátt."
+
+msgid "Case Forms & E-signs"
+msgstr "Málaeyðublöð og rafræn skilti"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Sérsniðu málformið þitt að fullu til að búa til einstök sniðmát sem þjóna "
+"þínum þörfum. Þessum sniðmátum er síðan hægt að dreifa til viðskiptavina og "
+"liðsmanna til að fylla og skrifa undir"
+
+msgid "Case notes"
+msgstr "Málaskýringar"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Geymdu minnispunkta með sérsniðnum reitum og viðhengjum um framvindu máls "
+"fyrir núverandi og framtíðarliðsmeðlimi"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Hladdu upp, deildu, skrifaðu athugasemdir við og halaðu niður skrám sem "
+"tengjast málinu svo allir hafi tilvísun í allar mikilvægar upplýsingar, fólk"
+" og aðstæður."
+
+msgid "About Case"
+msgstr "Um Case"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Leyfðu viðskiptavinum og starfsfólki að skoða almennar upplýsingar um málin "
+"sem þeir taka þátt í. Þú getur síðan lokað málinu þegar öllu er pakkað upp, "
+"eða veitt liðsmanni heimild til þess."
+
+msgid "Plus Many More Features"
+msgstr "Plús margir fleiri aðgerðir"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Notaðu sjálfskipaða stjórnunaraðgerð Taktu fulla stjórn á CaseActive "
+"stjórnunarvítunni þinni frá pallinum sjálfum."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Tengdu núverandi kerfi þitt áreynslulaust við CaseActive Sameina sér API "
+"okkar til að búa til mál sjálfkrafa, úthluta notendum og búa til skýrslur "
+"byggðar á inntak kerfisins."
+
+msgid "Multi-Language Enabled:"
+msgstr "Multi-Tungumál Virkja:"
+
+msgid "Interact with clients in"
+msgstr "Samskipti við viðskiptavini í"
+
+msgid "70+ languages"
+msgstr "70+ tungumál"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Hvort sem þú vinnur á staðnum eða á heimsvísu getur þú þýtt móðurmál "
+"viðskiptavinarins með CaseActive"
+
+msgid "language management system"
+msgstr "tungumálastjórnunarkerfi"
+
+msgid "No more confusion or limits."
+msgstr "Ekkert meira rugl eða takmörk."
+
+msgid "Let's see what others are saying"
+msgstr "Við skulum sjá hvað aðrir segja"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Uppgötvaðu hvernig ógnvekjandi viðskiptavinir okkar - frá litlum fyrirtækjum"
+" til fyrirtækja - efldu samkeppnisforskot sitt með því að gerast CaseActive "
+"stríðsmenn."
+
+msgid "SUPPORT"
+msgstr "Stuðningur"
+
+msgid "Everything at Your Fingertips."
+msgstr "Allt við seilingar þínar."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Byrjaðu með CaseActive appinu þínu með því að fylgja vídeóleiðarvísinum "
+"okkar og aðlaga það að þörfum þínum."
+
+msgid "What are you looking for..."
+msgstr "Að hverju ertu að leita..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Síðast uppfært: 7. júní 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive áskilur sér rétt til, hvenær sem er og að eigin vild, að uppfæra "
+"og breyta þessum þjónustuskilmálum eða öllum. Þegar CaseActive breytir "
+"þessum þjónustuskilmálum mun CaseActive breyta dagsetningunni „Síðast "
+"uppfærð“ hér að ofan. Þú berð ábyrgð á því að fara reglulega yfir nýjustu "
+"útgáfuna af þjónustunni. Áframhaldandi notkun þín á þjónustunum eftir að "
+"slíkar breytingar hafa verið gerðar skal vera samþykki þitt til að vera "
+"bundinn af slíkum breytingum. Ef þú mótmælir einhverjum breytingum á þessum "
+"þjónustuskilmálum, skal eina og einkaréttarúrræðið þitt vera að segja upp "
+"þjónustunni samkvæmt skilmálunum hér."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Þessir almennu þjónustuskilmálar eiga við um þjónusturnar almennt. "
+"Viðbótarskilmálarnir sem eiga við um hverja þjónustu sem boðið er upp á eru "
+"settir fram í krækjunum hér að neðan („Viðbótarskilmálar þjónustunnar“)."
+
+msgid "1. Services:"
+msgstr "1. Þjónusta:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Sérhugbúnaðurinn okkar er þjónustuvettvangur sem við hýsum fyrir "
+"viðskiptavini okkar til að bjóða upp á þá þjónustu sem lýst er hér að neðan."
+" Til að gerast áskrifandi að þjónustu verður þú að framkvæma pöntunarform "
+"fyrir þá þjónustu og / eða fylla út skráningarflæði fyrir þá þjónustu. Þú "
+"hefur aðeins rétt til að nota þjónusturnar sem þú hefur gerst áskrifandi að "
+"og borgað fyrir og notkun þín á þjónustunum er háð því að þú uppfyllir alla "
+"skilmála og skilmála samningsins. Þú viðurkennir og samþykkir að við "
+"áskiljum okkur rétt til að breyta þjónustunni (eða einhverjum hluta hennar) "
+"af og til og að við berum ekki ábyrgð á þér eða þriðja aðila vegna breytinga"
+" á þjónustunni."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Lýsing á CaseActive Service: CaseActive Service er föruneyti "
+"hugbúnaðarþjónustunnar fyrir stjórnun á samvinnustjórnendum á netinu sem "
+"CaseActive LLC býður upp á. Skráningarflæðið sem þú hefur samþykkt eða "
+"pöntunarformið sem þú hefur framkvæmt, auðkennir CaseActive þjónustuna sem "
+"þú hefur gerst áskrifandi að, áskriftartímabilinu og gjaldunum sem þú "
+"greiðir fyrir CaseActive þjónustuna. Viðbótarskilmálar og skilyrði sem eiga "
+"við um notkun þína á CaseActive Service eru sett fram á:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Útvíkka þjónusturnar:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Þú getur gerst áskrifandi að öllum viðbótarþjónustum, þar á meðal nýrri "
+"þjónustu sem hægt er að gera aðgengileg af og til af CaseActive, eða auka "
+"núverandi þjónustu þína með því að framkvæma viðbótar pöntunarform eða "
+"skráningarflæði, sem hluti af þjónustunni. Hvert nýtt skráningarflæði eða "
+"pöntunarform mun innihalda verð og innheimtudegi (-) dagsetningar "
+"þjónustunnar sem bætt er við á þeim tíma. Öll ný þjónusta er háð þessum "
+"almennu þjónustuskilmálum og öllum viðbótarskilmálum sem kunna að eiga "
+"sérstaklega við um slíka viðbótarþjónustu."
+
+msgid "3. Customer Support:"
+msgstr "3. Viðskiptavinur:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Að því tilskildu að þú hafir greitt öll gjöld sem þú greiðir fyrir "
+"þjónustuna, munum við beita okkur fyrir viðskiptalegri sanngirni til að "
+"veita þér, án endurgjalds, tækniþjónustu fyrir þig og viðurkennda notendur "
+"þína sem gerast áskrifendur að þjónustunni. Fulltrúi viðskiptavina verður "
+"úthlutað í málum þínum. Tekið er við ótakmörkuðum málum frá viðurkenndum "
+"notendum. Hefðbundinn stuðningur okkar er í boði allan sólarhringinn, að "
+"stórum hátíðum undanskildum, þar á meðal eru minningardagur, "
+"sjálfstæðisdagur, vinnudagur, þakkargjörð, jól og nýársdag. Þú getur haft "
+"samband við þjónustuver með því að nota okkar"
+
+msgid "Contact Form"
+msgstr "Tengiliður"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Viðbragðstími okkar skal ekki vera meiri en tveir virka dagar."
+
+msgid "4. Training:"
+msgstr "4. Þjálfun:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Að því tilskildu að þú hafir greitt öll gjöld sem þú greiðir fyrir "
+"þjónustuna, þá munum við bjóða upp á ytri, lifandi eða skráðar æfingar fyrir"
+" tilnefnda, nafngreinda og viðurkennda notendur okkar og leggja fram "
+"námskeið sem eru aðgengileg í hjálp og þjálfunarhluta vefsíðu okkar á ekkert"
+" aukagjald. Fyrir suma þjónustu bjóðum við upp á þjálfun á staðnum eftir "
+"beiðni og gegn aukagjaldi. Vinsamlegast hafðu samband við okkur með því að "
+"nota okkar"
+
+msgid "for more information about on-site training."
+msgstr "til að fá frekari upplýsingar um þjálfun á staðnum."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Réttindi þín og takmarkanir:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Leyfi: Með fyrirvara um skilmála og skilmála samningsins og við "
+"tímanlega greiðslu allra viðeigandi gjalda sem sett eru fram á pöntunarformi"
+" eða skráningarflæði, gefum við þér hér með óeinkennilegan, "
+"óframseljanlegan, takmarkaðan rétt og leyfi til að nota (og leyfa "
+"viðurkenndum notendum þínum að nota) þjónustuna sem þú hefur gerst "
+"áskrifandi að, eingöngu í þínum innri viðskiptalegum tilgangi."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Viðurkenndir notendur: Þú (i) ert ábyrgur fyrir því að viðurkenndir "
+"notendur þínir uppfylli samninginn og (ii) skulir beita viðskiptalegum "
+"skynsemi til að koma í veg fyrir óheimilan aðgang að eða notkun á "
+"þjónustunni og tilkynna okkur strax um slíkan óheimilan aðgang eða nota. Það"
+" er á þína ábyrgð að fjarlægja aðgang að þjónustunum ef heimild stöðu "
+"notanda eða tilnefnds starfsmanns breytist."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Ábyrgð þín og takmarkanir: Þú berð ábyrgð á allri starfsemi sem fer fram"
+" undir notendareikningum þínum eða af viðurkenndum notendum þínum. Þú skal: "
+"(i) bera eina ábyrgð á nákvæmni, gæðum, heiðarleika, lögmæti, áreiðanleika "
+"og viðeigandi öllum gögnum sem þú sendir til þjónustunnar; (ii) beittu "
+"viðskiptalegu skynsamlegu átaki til að koma í veg fyrir óleyfilegt eftirlit "
+"eða átt við friðhelgi eða annan óheimilan aðgang að eða notkun á þjónustunni"
+" og tilkynna okkur tafarlaust um óleyfilega notkun eða öryggisbrot; (iii) "
+"fylgja öllum gildandi lögum, ríkjum, sambandsríkjum og erlendum lögum (þ.mt "
+"lögum um friðhelgi einkalífs og neytenda) við notkun þjónustunnar; (iv) "
+"farið eftir öllum viðeigandi reglum kreditkortafélaga (þar á meðal American "
+"Express, MasterCard og Visa) að því marki sem við á; og (v) afla og viðhalda"
+" öllum tölvuvélbúnaði, hugbúnaði og fjarskiptabúnaði sem þarf til að fá "
+"aðgang að þjónustunni og greiða öll aðgangsgjöld (td ISP gjöld) sem stofnað "
+"er til í tengslum við notkun þína á þjónustunni."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Þú mátt ekki, og þú munt tryggja að viðurkenndir notendur þínir, (i) taka í "
+"sundur, snúa verkfræðing, brjóta saman eða reyna á annan hátt að hallmæla "
+"kóða í tengslum við þjónustuna, eða breyta, laga, búa til afleidd verk byggð"
+" á eða þýða Þjónusta; (ii) leyfi, framleyfi til leyfis, selja, leigja, "
+"framselja, dreifa, skiptast á tímum, leigja, lána, endurselja í "
+"hagnaðarskyni, dreifa eða á annan hátt nota í viðskiptalegum tilgangi, veita"
+" réttindi í eða gera þjónustuna aðgengileg þriðja aðila; (iii) nota "
+"þjónustuna nema með sérstökum heimild hér á eftir eða brjóta í bága við "
+"gildandi lög; (iv) stunda hvers konar ólöglega eða villandi viðskipti með "
+"tilliti til þjónustunnar; (v) sniðganga eða slökkva á öryggi eða öðrum "
+"tæknilegum eiginleikum eða ráðstöfunum á þjónustunni eða öðrum þáttum "
+"hugbúnaðarins eða á nokkurn hátt reyna að fá eða fá óleyfilegan aðgang að "
+"þjónustunni eða tölvukerfi eða net tengdum; (vi) nota þjónustuna til að "
+"senda brot, meiðyrðalegt, ruddalegt, ógnandi eða á annan hátt ólögmætt, "
+"óöruggt, illgjarn, móðgandi eða skaðlegt efni, eða til að geyma eða senda "
+"efni sem brýtur í bága við persónuverndarrétt þriðja aðila; (vii) nota "
+"þjónustuna til að geyma eða senda vírusa, orma, tímasprengjur, trójuhesta og"
+" annan skaðlegan eða skaðlegan kóða, skrár, forskriftir, umboðsmenn eða "
+"forrit eða til að senda ruslpóst eða á annan hátt afrit eða óumbeðin "
+"skilaboð í bága við gildandi lög ; eða (viii) trufla eða trufla heiðarleika "
+"eða frammistöðu þjónustunnar eða gagna frá þriðja aðila sem er að finna í "
+"henni."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Varúðarréttur: Engin önnur réttindi eru veitt nema eins og sérstaklega "
+"er sett fram í samningnum. Samningurinn er ekki til sölu og flytur hvorki "
+"réttindi né eignarhald á eða þjónustu, eða undirliggjandi hugbúnað. Við "
+"eigum öll réttindi, heiti og áhuga, þar með talið öll hugverkaréttindi, í og"
+" á þjónustuna og undirliggjandi hugbúnað og allar og allar uppfærslur, "
+"uppfærslur, breytingar, endurbætur, endurbætur eða afleidd verk þess, og "
+"hvaða hugmynd sem er, þekkingu- hvernig og forrit þróuð af okkur eða "
+"leyfisveitendum okkar meðan á þjónustu stendur."
+
+msgid "6. Term and Termination:"
+msgstr "6. Tímabil og uppsögn:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Skilmálar: Gildistími þjónustanna er breytilegur eftir þjónustunni sem "
+"þú hefur gerst áskrifandi að og skal sett fram á pöntunarforminu eða "
+"samþykkt um það í skráningarflæðinu og endurnýjast á eftirfarandi hátt:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Þjónustutími CaseActive: Áskrift þín að CaseActive Service skal "
+"sjálfkrafa endurnýja með samfelldum eins mánaðar eða eins árs skilmálum, "
+"eins og sett er fram á pöntunarformi eða skráningarflæði, nema við hættum "
+"þjónustunni sem þú veitir okkur með tilkynningu um ekki endurnýjun að "
+"minnsta kosti þrjátíu (30) dögum fyrir lok gildandi kjörtímabils."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Hugsanleg þjónusta á vefsvæði CaseActive: Áskrift þín að vefsetri "
+"þjónustu CaseActive skal sjálfkrafa endurnýjast í röð eins mánaðar eða eins "
+"árs skilmála, eins og sett er fram á pöntunarformi eða skráningarflæði, nema"
+" við hættum þjónustunni eða þú gefur okkur með tilkynningu um endurnýjun að "
+"minnsta kosti þrjátíu (30) dögum fyrir lok gildandi kjörtímabils."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Skila skriflegri tilkynningu um endurnýjun frá þér til CaseActive, "
+"LLC, 1107 W. 6 Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Uppsögn: Hvor aðili sem er getur sagt upp samningnum og öllum "
+"þjónustuáskriftum (i) ef gagnaðili brýtur í bága við efnislegar skyldur "
+"sínar samkvæmt samningnum og slíkt brot er ekki læknað innan þrjátíu (30) "
+"daga frá því að tilkynning barst frá brotinu aðila, eða (ii) ef gagnaðili "
+"verður gjaldþrota eða gjaldþrota, slitið eða er slitið eða hættir að "
+"verulegu leyti öllu starfi sínu. Við kunnum að segja upp samningnum strax ef"
+" brot á kafla 5.3 hér að ofan. Þegar uppsögn samningsins lýkur, hættir þú "
+"strax allri notkun þjónustunnar, hættir að koma fram á hvaða formi sem þú "
+"ert notandi þjónustunnar og eyða öllum trúnaðarupplýsingum okkar sem þú átt."
+" Hvorugur aðilans er ábyrgur fyrir tjóni sem stafar af uppsögn samningsins "
+"eða áskrift að þjónustu eins og kveðið er á um hér; að því tilskildu að "
+"uppsögn samningsins hafi ekki áhrif á neina kröfu sem stafar af fyrir slíka "
+"uppsögn."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Meðhöndlun gagna þinna í lok uppsagnar: Þú viðurkennir og samþykkir að "
+"eftir lok eða uppsögn einhverrar áskriftar þinna á þjónustunni getum við "
+"strax gert þjónustuna sem hefur áhrif á það gert óvirkt og að eftir "
+"hæfilegan tíma sem er ekki minna en níutíu (90) ) daga, getur eytt reikningi"
+" þínum og gögnum. Hins vegar, ef þjónustunni er slitið af okkur, munum við "
+"veita þér tímabundinn, takmarkaðan aðgang að þjónustunum, ekki lengra en "
+"þrjátíu (30) daga, í þeim tilgangi einum að leyfa þér að sækja sér "
+"upplýsingar um þig, að því tilskildu að þú hefur greitt að fullu allar "
+"óádeildu upphæðir sem okkur eru skuldaðar. Þú samþykkir ennfremur að við "
+"berum ekki ábyrgð á þér eða þriðja aðila vegna lokunar á aðgangi þínum að "
+"þjónustunum eða eyðingu gagna þinna, að því tilskildu að við erum í samræmi "
+"við skilmála þessa kafla 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Gjöld:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Þjónustugjöld: Þú greiðir gjald sem ekki er endurgreitt fyrir þjónustuna"
+" að fjárhæð sem tilgreind er í skráningarflæði eða pöntunarformi "
+"(„þjónustugjöld“) og í samræmi við innheimtutíðni sem tilgreind er í "
+"skráningarflæði eða pöntun Form. Þjónustugjöld skulu koma til greiðslu á "
+"reikningsdegi. Þjónustugjöld geta verið hækkuð miðað við þáverandi gjöld "
+"okkar. Þjónustugjöld eru ekki endurgreidd, jafnvel þó að þú ljúki áskrift "
+"þinni snemma."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Viðbótargjöld: Þú gætir lagt í önnur gjöld eða gjöld sem ekki er "
+"endurgreitt fyrir notkun þína á þjónustunni til viðbótar þeim gjöldum sem "
+"sett eru fram á pöntunarformi og / eða skráningarflæði. Viðbótargjöld og "
+"gjöld sem ekki eru endurgreidd eru sett fram í viðbótarkjörum fyrir "
+"viðeigandi þjónustu."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Seint greiðslur: Þú viðurkennir að vanræksla þín á því að greiða gjöld "
+"eða gjöld þegar gjaldfallinn getur leitt til stöðvunar eða uppsagnar á "
+"CaseActive vöruáskrift þinni. Ef þú lendir ekki í að greiða eitthvað af þeim"
+" gjöldum eða gjöldum sem fylgja samkvæmt þessum, áskilur CaseActive sér rétt"
+" til að ráðast í innheimtustofnun til að innheimta gjöld og gjöld og þú "
+"greiðir allan kostnað sem CaseActive hefur stofnað til vegna innheimtu "
+"slíkra gjaldfallinna fjárhæða, þ.m.t. , án takmarkana, þóknanleg gjöld "
+"lögmanna og innheimtustofnana auk vaxta að fjárhæð sem er lægri en 1,0% á "
+"mánuði eða hámarkshlutfall samkvæmt gildandi lögum."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Skattar: Þú verður að vera ábyrgur fyrir öllum söluskatti, "
+"notkunarskatti, virðisaukaskatti, staðgreiðslu skatta og hvers kyns öðrum "
+"sambærilegum sköttum og gjöldum af einhverju tagi sem lögð eru af alríkis-, "
+"ríkis- eða sveitarstjórnaraðilum vegna viðskipta sem um getur í samningnum. "
+"Þegar við berum lagalega skyldu til að greiða eða innheimta skatta sem þú "
+"ber ábyrgð á samkvæmt þessum kafla, skal viðeigandi fjárhæð innheimt af þér "
+"og greidd af henni nema þú veiti okkur gilt skattafrelsisvottorð sem "
+"heimilað er af viðeigandi skattyfirvaldi."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Fulltrúar og ábyrgðir:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Gagnkvæmar fulltrúar og ábyrgðir: Hver aðili fulltrúar hér með og "
+"ábyrgist gagnaðila að (i) hann hafi alla nauðsynlega heimild til að ganga "
+"til og framkvæma skyldur sínar samkvæmt samningnum án samþykkis þriðja aðila"
+" eða brota á samningi eða samningi við þriðja aðila, (ii) allir "
+"einstaklingar sem framkvæma allar skyldur hér á eftir hafa gert alla "
+"nauðsynlega samninga til að hann uppfylli skilmála og skilyrði samningsins, "
+"og (iii) hann skal fara að öllu efnislegu tilliti með öllum lögum sem eiga "
+"við þjónusturnar."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Viðbótarupplýsingar og ábyrgðir: Þú ábyrgist, fulltrúi og sáttmála við "
+"okkur um að þú munir nota þjónustuna eingöngu í löglegum tilgangi í samræmi "
+"við samninginn og allar viðeigandi CaseActive stefnur og leiðbeiningar."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Fyrirvari um ábyrgðir: Nema fyrir þá ábyrgð sem gefin er fram í þessum "
+"kafla 8, að hámarki sem um getur í gildandi lögum, við gerum enga aðra "
+"ábyrgð, tjá, vísbendingu, lögboðnar eða á annan hátt, í lögum eða samkvæmt "
+"heimildum VIÐSKIPTAVERSLUN, TIL EINHVERJU MÁLA, INNIHALD ÞEMU TIL SÖLUHÆTTI,"
+" ÁKVÆÐI GÆÐI, TITLE, HÆFNI TIL AÐ SÉRSTÖKT TILGANG, EÐA ÓTRYGGT. VIÐ "
+"ábyrgjumst ekki að hugbúnaðurinn eða þjónusturnar uppfylli allar kröfur "
+"þínar, þar með talið reikningsskilaskyldu, eða að notkun hugbúnaðarins eða "
+"þjónustanna verði óhindruð eða villulaus. HUGBÚNAÐURINN og þjónusta er veitt"
+" þér á grundvelli „eins og er“ og notkun þín á hugbúnaði og þjónustu er á "
+"eigin áhættu þinni, þ.mt, án takmarkana, samræmi við nokkur lög. "
+"SAMEIGINLEGGU ÞAÐ ER VIÐURKENNT AÐ ÞVÍ AÐ FYRIRVARA ÁBYRGÐSTOFNA STAÐA UM "
+"Nauðsynlegur hluti samkomulagsins."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"VIÐ LÁTUM ALLAR TILKYNNINGAR EÐA ÁBYRGÐ TIL AÐ NOTA ÞJÓNUSTU ÞJÓNUSTU ÞÉR "
+"ÁÆTLA EÐA GJÖRÐU ÁÐUR VIÐ LÖGREGLUM SKYLDUM EÐA LÖGREGLUM eða reglugerðum. "
+"Þessi fyrirvari sem gildir um en er ekki takmarkaður við neinar bandalags- "
+"eða ríkjasamþykktir eða reglugerðir sem geta átt við um þig. Þú ert ábyrgur "
+"fyrir því að tryggja að notkun þín á þjónustunum sé í samræmi við gildandi "
+"lög."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"EF ÞÚ ERT AÐ TILBREYTTA ÞJÓNUSTU EÐA ÞESSA SAMNINGI, EINU EINNI OG EINNI "
+"LÖGUN ER AÐ hætta við að nota þjónusturnar."
+
+msgid "9. Confidential Information:"
+msgstr "9. Trúnaðarupplýsingar:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Enginn aðili skal afhenda þriðja aðila neinar upplýsingar eða efni sem annar"
+" aðilinn veitir samkvæmt samkomulaginu, nema með skýrum hætti sé heimilt af "
+"honum, og með sanngjörnu skilningi trúnaðarmál („trúnaðarupplýsingar“), eða "
+"nota slíkar trúnaðarupplýsingar á annan hátt en að standa við skuldbindingar"
+" sínar samkvæmt samningnum. Framangreindar takmarkanir eiga ekki við um "
+"neinar upplýsingar sem eru á almennum vettvangi eða þegar í eigu "
+"móttökufyrirtækisins, þekktust móttakanda fyrir dagsetningu upplýsingagjafar"
+" eða verður þekktur fyrir móttakanda að því loknu frá þriðja aðila sem hefur"
+" greinilegt fulltrúi réttur til að afhjúpa upplýsingarnar, eða "
+"trúnaðarupplýsingar sem móttakanda er skylt að framleiða samkvæmt fyrirmælum"
+" dómstóls með lögsögu eða gildar stjórnsýslufundir, enda veitir móttakandi "
+"aðilinn upplýsingagjafanum tímanlega tilkynningu um slíkan dómstól röð eða "
+"stefna. Ennfremur muntu tryggja að viðurkenndir notendur þínir haldi fullri "
+"trú á öllum lykilorðum og öðrum aðgangsupplýsingum að þjónustunum. Þessi "
+"hluti 9 skal lifa af uppsögn eða lokun þessa samnings."
+
+msgid "10. Indemnification:"
+msgstr "10. Bætur:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Bætur vegna brots: Með fyrirvara um kafla 10.4 verðum við á kostnað "
+"okkar að verja þig gegn kröfum þriðja aðila sem höfðað er gegn þér sem "
+"fullyrðir að þjónustan brjóti í bága við einkaleyfi í Bandaríkjunum sem "
+"gefið er út til þriðja aðila frá og með gildistökudeginum; eða brjóta í bága"
+" við höfundarrétt, vörumerki eða viðskiptaleynd þriðja aðila (sameiginlega "
+"vísað til sem „hugverkaréttur undirliggjandi þjónustu“). Komi til þess að "
+"lögbann sé leitað eða fengin gegn notkun hugverkar sem liggur til "
+"grundvallar þjónustunni eða að okkar mati er líklegt að leitað verði eða "
+"fengist, þá munum við, að okkar vali og kostnað, annað hvort (i) útvega "
+"fyrir þig og þinn nafngreinda heimiluðum notendum rétt til að halda áfram að"
+" nota þjónusturnar, eða (ii) skipta um eða breyta þjónustunum til að gera "
+"notkun þeirra ekki brotleg meðan þau geta framkvæmt sömu aðgerðir í reynd. "
+"Ef undirtektir (i) og (ii) hér að ofan eru ekki mögulegar í viðskiptalegum "
+"tilgangi, getum við sagt upp þjónustunni og endurgreitt fyrirframgreidda en "
+"ónotaða þjónustugjöld. Okkur verður ekki skylt að verja eða bera ábyrgð á "
+"kostnaði eða tjóni samkvæmt þessum kafla 10.1 ef meint brot koma til vegna "
+"eða á nokkurn hátt má rekja til (i) breytinga á þjónustu þinni (eða "
+"einhverri heimild eða tilnefndir notendur) eða (ii) notkun á þjónustu ásamt "
+"þjónustu og vörum sem ekki eru veitt af CaseActive ef forðast hefði slíkt "
+"brot án slíkra breytinga eða samsetningar, eða (iii) að farið sé að hönnun "
+"þinni eða leiðbeiningum eða (iv) kröfu um að tekur ekki fram með sérstökum "
+"hætti að þjónustan sé háð kröfunni (hver um sig „útilokuð krafa“). "
+"Skaðabótaskyldan sem er að finna í þessum kafla 10.1 skal lifa við allar "
+"uppsagnir eða fyrningu þessa samnings."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Bætur vegna gagnaöryggis og friðhelgi einkalífs: Með fyrirvara um kafla"
+" 10.4, og á meðan áskrift þín stendur að þjónustunum, verðum við á kostnað "
+"okkar að verja þig gegn kröfum frá þriðja aðila sem höfðað er gegn þér sem "
+"fullyrðir að okkar verulegu vanrækslu við að koma í veg fyrir óheimilan "
+"aðgang til eða vísvitandi misferlis okkar við birtingu, persónugreinanlegra "
+"upplýsinga um viðskiptavini þína sem eru í fórum okkar eða stjórn. Þessi "
+"skaðabótaskylda á ekki við að því marki sem slík krafa stafar af eða tengist"
+" gáleysi þínu eða vísvitandi hegðun eða umboðsmönnum þínum eða fulltrúum, "
+"eða að því leyti sem ábyrgð er hafnað eða takmörkuð af báðum aðilum samkvæmt"
+" samningnum. Skaðabótaskyldurnar, sem settar eru fram í þessum kafla, eru "
+"háðar því að þú sannar stórfellt gáleysi okkar eða vísvitandi hegðun hefur "
+"beinlínis og nánast leitt til þess að óheimill aðgangur að eða "
+"upplýsingagjöf um persónugreinanlegar upplýsingar viðskiptavina þinna í "
+"fórum okkar eða yfirráðum."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Skaðabótaskylda þín: Þú samþykkir að bæta, halda skaðlausu og verja "
+"okkur og alla starfsmenn okkar, yfirmenn, stjórnendur og umboðsmenn frá "
+"öllum kröfum, kröfum, málum, málum, rannsóknum, tjóni, kostnaði, útgjöldum, "
+"tapi og hvers konar öðrum skuldir (þ.mt hæfileg lögfræðikostnaður, "
+"málskostnaður og kostnaður) sem stafar af eða tengjast (i) notkun þinni á "
+"þjónustunni í bága við samninginn, (ii) útilokaða kröfu, (iii) raunverulegt "
+"eða meint brot frá þér um framsetningu, ábyrgð, sáttmála eða skyldu samkvæmt"
+" samningnum, eða (iv) verulegu gáleysi þínu eða vísvitandi hegðun. "
+"Skaðabótaábyrgð þín samkvæmt þessum kafla 10.3 skal lifa við allar uppsagnir"
+" eða fyrning samningsins."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Tilkynning og samvinna: Skyldur skaðabótaaðila gagnvart "
+"skaðabótaskyldum aðila samkvæmt þessum kafla 10 hér að framan er háð því að "
+"(i) skaðabótaskyldur aðili tilkynni skaðabótaraðila þegar í stað skriflega, "
+"eftir vitneskju um kröfur, sem hann kann að eiga rétt á skaðabótaskyldu "
+"samkvæmt samningnum. ; (ii) að svo miklu leyti sem við á, bótaskyldur aðili "
+"sem hættir notkun hinna kærðu brotaþjónustu við móttöku tilkynningar um "
+"slíka; (iii) bótaskyldur aðili, sem heimilar skaðabótarétti að hafa einan "
+"rétt til að stjórna vörn og uppgjöri slíkrar kröfu (að því tilskildu að "
+"skaðabótaskyldur aðili megi ekki gera upp kröfu án samþykkis bótaskyldra "
+"aðila nema að sáttin leysi skaðlausa aðila skilyrðislaust undan allri "
+"ábyrgð); (iv) bótaskyldur aðili sem veitir skaðabótaraðilanum hæfilega "
+"aðstoð, á kostnað skaðabótaaðila, til varnar slíkri kröfu; (v) bótaskyldur "
+"aðili sem ekki gerir neinn uppgjörssamning eða gerir á annan hátt upp slíka "
+"kröfu án skaðlegs skriflegs samþykkis eða beiðni um skaðabætur; og (vi) "
+"bótaskyldur aðili sem uppfyllir allar sáttir eða dómsúrskurðir sem gerðar "
+"hafa verið í tengslum við kröfuna (sem tengjast framtíðarnotkun hvers kyns "
+"brotlegra efna). Bótaskyldi aðilinn getur tekið þátt í vörn eða uppgjöri "
+"kröfu með ráðgjöf að eigin vali og á eigin kostnað."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Einkaréttarúrræði: Í þessum kafla 10 er eini skaðabótaskyldur aðilinn "
+"ábyrgur gagnvart hinum aðilanum gagnvart hinum aðilanum vegna hvers konar "
+"kröfu sem lýst er í þessum kafla."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Takmarkanir á ábyrgð:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"Nema með tilliti til skaðabóta, sem myndast í tengslum við brot á kafla 5.3 "
+"eða 12, að hámarki sem ríkið er heimilt með lögum, í engu tilviki mun sams "
+"konar ábyrgðaraðili aðila samningsins koma fram eða tengdur samkomulaginu, "
+"sem er undanskilið SUM af AMO ÞÚ FYRIR ÞJÓNUSTU SEM ÁHÆTTA Á ÁBYRGÐINU TIL "
+"AÐGERÐA AÐ ÁRTÍÐUM TILREIÐSLU UPPLÝSINGAR DAGSKRÁ ÞJÁRÁTTUR TIL AÐGERÐAR "
+"AROSE."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"Nema með tilliti til skaðabóta sem koma upp í tengslum við brot á kafla 5.3 "
+"eða 12, að því marki sem mest er heimilt með lögum, í engu tilviki mun hvor "
+"annar aðili herheto, þessir leyfishafar eða framboðsmenn, hafa neina ábyrgð "
+"gagnvart hinum aðilanum fyrir skemmdir KOSTNAÐUR við innkaup á vöru og "
+"þjónustu á grundvelli vöru eða fyrir hvers kyns óbeina, sérhæfða, "
+"afleiðinga, skaða eða tilviljunarkennda skaða, samt sem áður saknað og "
+"grundvallaður á nokkru samkomulagi um samkomulagið, SKILYRÐI HÉR, HVERNIG "
+"EÐA NÁNLEGUR aðili hefur verið ráðlagður um möguleika á slíkum skaða."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"Vegna þess að sumar ríki / dómnefndir leyfa ekki útilokun eða takmörkun "
+"ábyrgðar vegna skaðlegra eða tilviljanakenndra skaða, getur ofangreind "
+"takmörkun ekki átt við þig, þar sem ábyrgð okkar verður takmörkuð við "
+"hámarks gildandi leyfi."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Persónuupplýsingar og Persónuupplýsingar:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Þú verður að fara eftir öllum viðeigandi persónuverndarlögum og öðrum lögum,"
+" reglum, reglugerðum og leiðbeiningum sem varða vernd, söfnun, notkun og "
+"dreifingu persónugreinanlegra upplýsinga (eins og skilgreint er hér að "
+"neðan) hvers og eins. Þú birtir persónuverndaryfirlýsingu á síðunni þar sem "
+"þú safnar persónugreinanlegum upplýsingum "
+"(&#39;Persónuverndaryfirlýsing&#39;) sem er í samræmi við öll viðeigandi "
+"lög, reglur, reglugerðir og leiðbeiningar og tilkynnir notendum að minnsta "
+"kosti persónugreinanlegar upplýsingar sem safnað er, hvernig þær verður "
+"notað og hvernig það verður tryggt, og sem auðkennir söfnunaraðferðina "
+"(smákökur, vefsvæði eða aðrar viðeigandi leiðir) og notkun upplýsinga sem "
+"safnað er í tengslum við þjónustuna, aflað fyrirfram upplýsts samþykkis "
+"(opt-in) áður en notaðar eru mælingar tækni, að því marki sem krafist er í "
+"viðeigandi lögum og reglugerðum. Slík persónuverndaryfirlýsing skal einnig "
+"innihalda tæknilegar upplýsingar sem tengjast söfnun, sendingu og geymslu "
+"persónugreinanlegra upplýsinga sem okkur er veitt í gegnum þjónustuna. Ef "
+"þess er krafist í viðeigandi gagnaverndarlöggjöf eða öðrum lögum eða "
+"reglugerðum, muntu upplýsa þriðja aðila um að þú veiti persónugreinanlegum "
+"upplýsingum okkar til okkar til vinnslu og tryggir að allir nauðsynlegir "
+"þriðju aðilar hafi gefið samþykki sitt fyrir slíkri birtingu og vinnslu. Þú "
+"samþykkir að fara eftir lýsingum og ákvæðum persónuverndaryfirlýsingarinnar."
+" „Persónugreinanlegar upplýsingar“ merkir allar upplýsingar sem hægt er að "
+"tengja við eða rekja til hvers og eins, þar með talið nafn, heimilisfang, "
+"símanúmer, tölvupóstfang, kreditkortaupplýsingar, kennitölu eða aðrar "
+"svipaðar staðreyndir, óháð miðlinum sem slíkar upplýsingar eru geymdar á (td"
+" á pappír eða rafrænt)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Ýmislegt:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Óháðir aðilar: Þú og CaseActive eru sjálfstæðir verktakar. Samningurinn"
+" skapar ekki sameiginlegt verkefni, samstarf, umboðsskrifstofu eða "
+"ráðningarsamband milli aðila. Þú berð ábyrgð á stjórnun starfsmanna þinna og"
+" öllum bótum, sköttum, ávinningi og skuldum gagnvart starfsmönnum þínum og "
+"öðrum fulltrúum þínum eða þjónustuaðilum. Hvorki þú né neinn af starfsmönnum"
+" þínum, fulltrúum eða þjónustuaðilum skal leggja fram neinar yfirlýsingar, "
+"ábyrgðir eða ábyrgðir gagnvart okkur, samningnum eða þjónustunni að öðru "
+"leyti en því sem okkur er skriflega heimilað skriflega."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Framsal: Hvorki samningnum né réttindum þínum eða skyldum samkvæmt "
+"samningnum má framselja eða flytja, með lögum eða á annan hátt, án skriflegs"
+" samþykkis okkar, nema það sé úthlutað til eftirmanns sem er í hag eða "
+"samkvæmt samruna, fyrirtækis endurskipulagningu eða sölu eða yfirfærslu á "
+"öllum eða að verulegu leyti öllum eignum þínum sem þú veitir okkur "
+"tilkynningu að minnsta kosti þrjátíu (30) dögum fyrir að viðskiptin eru að "
+"upphafi. Verkefni frá þér, byggð á öðrum kringumstæðum, krefst fyrirfram "
+"samþykkis okkar, en það samþykki skal ekki óeðlilega haldið aftur af. Við "
+"megum framselja þennan samning frjálslega án þíns samþykkis. Með fyrirvara "
+"um framangreint, skal þessi samningur bindast og koma þeim til hagsbóta "
+"fyrir aðila, eftirmenn þeirra og leyfðar úthlutanir."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force Majeure: Hvorugur aðilans mun bera ábyrgð á töf, truflunum eða "
+"öðrum vanefndum samkvæmt samkomulaginu vegna athafna sem eru undir stjórn "
+"ábyrgs aðila, en aðeins svo lengi sem slík skilyrði eru viðvarandi. Atburðir"
+" í óviðráðanlegu ástandi fela í sér en eru ekki takmarkaðir við: "
+"náttúruhamfarir (td eldingar, jarðskjálftar, fellibylur, flóð); stríð, "
+"óeirðir, hryðjuverkastarfsemi og borgaraleg málflutning; starfsemi "
+"staðbundinna skiptibifreiða og annarra athafna þriðja aðila; sprengingar og "
+"eldar; embargo, verkföll og vinnudeilur; stjórnskipunarúrskurðir; bilun "
+"fjarskiptafyrirtækja eða netþjónustuaðila; bilanir birgja, þjónustuaðila eða"
+" framleiðenda þriðja aðila; og hver önnur ástæða sem er umfram skynsamleg "
+"stjórn aðila."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Val á lögum: Samningurinn og ágreiningur sem stafar af eða í tengslum "
+"við samninginn skal stjórnað af og túlkaður samkvæmt lögum Kaliforníuríkis, "
+"án tillits til meginreglna um lagaskil. Allur ágreiningur sem stafar af eða "
+"tengist samningnum skal falla undir einkarétt lögsögu og varnarþing "
+"Kaliforníu og sambands dómstóla fyrir Santa Barbara, Kaliforníu, og aðilar "
+"samþykkja persónulega og einkarétt lögsögu þessara dómstóla."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 Tölvupóstur og tilkynningar: Þú samþykkir ennfremur að við kunnum að "
+"veita öllum og öllum tilkynningum, yfirlýsingum og öðrum samskiptum til þín "
+"í annað hvort tölvupósti, pósti, hraðsendingarþjónustu eða afhentum af "
+"viðurkenndum atvinnufyrirtæki á netfangið sem síðast var tilgreint um "
+"samninginn. Þú berð ábyrgð á því að veita okkur allar uppfærðar "
+"samskiptaupplýsingar."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Engin afsal; Uppsöfnuð úrræði: Enginn bilun eða tafir af hvorum aðila "
+"við að nýta neinn rétt samkvæmt þessum samningi skal fela í sér afsal á þeim"
+" rétti. Að öðru leyti en því sem sérstaklega er tekið fram hér, eru þau "
+"úrræði, sem gefin eru hér, auk, og ekki eingöngu, önnur úrræði aðila að "
+"lögum eða í eigin fé."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Líkanleiki: Ef eitthvert ákvæði þessa samnings er haldið af lögbærum "
+"dómstóli sem stríðir gegn lögum, skal ákvæðinu breytt af dómstólnum og "
+"túlkað þannig að best nái markmið upphaflega ákvæðisins að því marki sem "
+"leyfilegt er með lögum og eftirstöðvar ákvæða þessa samnings skulu vera í "
+"fullu gildi og gildi."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Samningur í heild sinni: Að því marki sem leyfilegt er samkvæmt "
+"gildandi lögum, samningur þessi, ásamt skjölunum sem vísað er til hér og öll"
+" pöntunarform og skráningarflæði, mynda allan samning milli aðila varðandi "
+"efni hans og koma í stað allra fyrri og samtímis samningum, tillögum eða "
+"framsetningum, skriflegum eða munnlegum, varðandi efni samnings þessa. Ekki "
+"skal líta svo á að neinu framsali, skuldbinding eða loforði hafi verið gefið"
+" eða gefið í skyn af neinu sem sagt er eða skrifað í samningaviðræðum aðila "
+"fyrir þessum samningi nema eins og sérstaklega er tekið fram í þessum "
+"samningi. Hvorugur aðilans skal hafa nein úrræði gagnvart einhverri "
+"ósannlegri yfirlýsingu frá hinum sem sá aðili treysti til að ganga til þessa"
+" samnings (nema slík ósönn yfirlýsing hafi verið gefin með sviksamlegum "
+"hætti) og að eina úrræði aðila hvað varðar ósannaða yfirlýsingu skal vera "
+"fyrir brot á samningi eins og kveðið er á um í þessum samningi. Þú "
+"viðurkennir og samþykkir að samningur þinn hér á eftir sé ekki háður "
+"afhendingu framtíðarvirkni eða aðgerða sem ekki eru tilgreindar hér eða á "
+"pöntunarformi eða háð munnlegum eða skriflegum, opinberum eða persónulegum "
+"athugasemdum sem gerðar eru af okkur varðandi framtíðarvirkni eða eiginleika"
+" fyrir þjónustuna. Komi upp ágreiningur milli ákvæða í þessum almennu "
+"þjónustuskilmálum og hvers konar pöntunarformi eða "
+"viðbótarþjónustuskilmálum, munu skilmálar þessarar pöntunarforms eða "
+"viðbótarskilmálar gilda að svo miklu leyti sem slíkur átök eru. Engir "
+"skilmálar og skilyrði, sem tilgreind eru í innkaupapöntun þinni eða í neinum"
+" öðrum af pöntunargögnum þínum, skulu vera felld inn í eða mynda neinn hluta"
+" þessa samnings og allir slíkir skilmálar eða skilyrði skulu vera ógildir."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Útflutningur: Báðir aðilar eru sammála um að fara að gildandi "
+"bandarískum útflutnings- og innflutningslögum og reglugerðum. Þú mátt ekki "
+"leyfa notendum þínum aðgang að eða nota þjónusturnar í bága við bandarískt "
+"útflutningsfylki, bann eða takmarkanir."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Auglýsing: Við megum ekki nefna þig sem notanda þjónustunnar án "
+"skriflegs samþykkis."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Hlekkir á vefsvæði þriðja aðila: Þjónustan eða vefsíðan okkar geta "
+"innihaldið hlekki á vefsíður þriðja aðila (&#39;tengd vefsvæði&#39;). Tengd "
+"vefsvæði eru ekki undir okkar stjórn og við erum ekki ábyrg fyrir innihaldi "
+"tengdra síðna, þar með talið án takmarkana hvaða tengil sem er á tengdum vef"
+" eða breytingum eða uppfærslum á tengdri síðu eða þjónustunni sem veitt er á"
+" tengdri síðu. Við erum að veita þessum krækjum eingöngu til þæginda og að "
+"skráning á tengilinn felur ekki í sér áritun frá okkur á síðunni eða tengda "
+"þjónustu sem vefurinn veitir."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Þú samþykkir að fá tölvupóst, símhringingar og SMS skilaboð frá "
+"CaseActive til að veita uppfærslur á pöntun þinni og / eða í markaðsskyni. "
+"Tíðni skilaboða fer eftir virkni þinni. Þú getur afþakkað með því að taka "
+"hakið úr tilkynningum af reikningnum þínum eða eyða reikningnum þínum. "
+"Skilaboð og gagnaverð geta átt við."
+
+msgid "An error occurred"
+msgstr "Villa kom upp"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Eitthvað fór úrskeiðis. Verkfræðingum okkar hefur verið tilkynnt. Ýttu á "
+"endurhlaða hnappinn til að endurhlaða."
+
+msgid "Reload"
+msgstr "Endurhlaða"

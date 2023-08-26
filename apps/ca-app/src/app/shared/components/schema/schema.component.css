@@ -1,0 +1,36 @@
+label {
+  text-align: left;
+}
+
+.custom-fields-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.custom-fields-group > div {
+  width: 100%;
+  overflow-wrap: break-word;
+}
+
+.custom-fields-group > span {
+  width: 100%;
+  overflow-wrap: break-word;
+}
+
+.style-bold {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+:host ::ng-deep .ng-select .ng-select-container .ng-value-container .ng-input > input {
+  box-sizing: border-box !important;
+}
+
+:host ::ng-deep .schema-multidropdown-select .ng-select-container .ng-value-container .ng-input > input {
+  visibility: hidden;
+}
+
+.info-label {
+  border-bottom: none !important;
+}

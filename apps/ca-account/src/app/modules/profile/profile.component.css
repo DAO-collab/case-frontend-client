@@ -1,0 +1,156 @@
+.profile-page form {
+  margin-bottom: 20px;
+}
+.profile-page h3.off-margin-top {
+  margin-top: 0 !important;
+}
+.profile-page form p.notice-a {
+  margin-bottom: 20px;
+}
+.profile-page form .mobile-hide.triple {
+  margin-bottom: 0;
+}
+
+p.submit {
+  text-align: right;
+}
+
+@media only screen and (max-width: 47.5em) {
+  p.submit {
+    text-align: center;
+  }
+}
+
+p.submit button {
+  float: none;
+  display: inline;
+  margin: 0 25px 0 0;
+}
+
+.acc-field {
+  width: 32% !important;
+}
+
+.ml-3 {
+  margin-left: 30px !important;
+}
+.ml-2 {
+  margin-left: 20px !important;
+}
+.mb-0 {
+  margin-bottom: 0px !important;
+}
+
+.p-width {
+  max-width: none !important;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-58 {
+  width: 58%;
+}
+.info-section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  position: inherit;
+}
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-top: -10px;
+  cursor: pointer;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid #ccc;
+  height: 22px;
+  width: 22px;
+  border-radius: 3px;
+  background-color: whitesmoke;
+  margin-top: 5px;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: whitesmoke;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 8px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid #ccc;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+@media only screen and (max-width: 576px) {
+  .info-section {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+  .user-detail {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .notification {
+    padding-top: 10px;
+    float: none !important;
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .notification {
+    padding-top: 10px !important;
+    float: left !important;
+    width: 100% !important;
+    margin-top: 0px;
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Leghjite tuttu u campu di casu specific\u00e0 in u rolu",
+    "write": "Scrivite tutti i campi di casu specifichi in u rolu"
+  },
+  "convos": {
+    "read_all": "Vede u statutu attuale di i convos.",
+    "manage_own": "Uniscite \u00e8 unjoin cunvo.",
+    "moderate_others": "Cuminciate a conversazione, finisce a cunversazione \u00e8 cacci\u00e0 u participante.",
+    "read_all_submissions": "Leghjite tutti i cunvoglii arregistrati."
+  },
+  "events": {
+    "read_all": "Leghjite tutti l&#39;avvenimenti.",
+    "manage_own": "Crea, aghjurn\u00e0 \u00e8 sguass\u00e0 u propiu avvenimentu.",
+    "moderate_others": "Aghjurnate \u00e8 sguassate l&#39;avvenimentu di l&#39;altru.",
+    "read_all_submissions": "Leghjite tutte e cunferma di l&#39;avvenimenti.",
+    "submit_own": "Cunfirm\u00e0 a dumanda di assistenza \u00e0 l&#39;avvenimentu."
+  },
+  "posts": {
+    "read_all": "Leghjite tutti i posti.",
+    "manage_own": "Crea, aghjurn\u00e0 \u00e8 sguassate u vostru postu.",
+    "moderate_others": "Aghjurnate \u00e8 sguassate u postu di l&#39;altru."
+  },
+  "forms": {
+    "read_all": "Leghjite tutte e forme.",
+    "manage_own": "Crea, aghjurn\u00e0 \u00e8 sguassate a propria forma.",
+    "moderate_others": "Aghjurn\u00e0 \u00e8 sguassate a forma di l&#39;altru.",
+    "read_all_submissions": "Leghjite tutte e sottumissioni di i moduli.",
+    "submit_own": "Invia a dumanda di furmulariu."
+  },
+  "invoices": {
+    "read_all": "Leghjite tutte e fatture.",
+    "manage_own": "Crea, aghjurn\u00e0 \u00e8 sguass\u00e0 a propria fattura.",
+    "moderate_others": "Aghjurn\u00e0 \u00e8 sguassate a fattura di l&#39;altru.",
+    "read_all_submissions": "Leghjite tutte e sottumissioni di fattura.",
+    "submit_own": "Invia a dumanda di fattura."
+  },
+  "notes": {
+    "read_all": "Leghjite tutte e note.",
+    "manage_own": "Crea, aghjurn\u00e0 \u00e8 sguass\u00e0 a propria nota.",
+    "moderate_others": "Aghjurn\u00e0 \u00e8 sguassate a nota di l&#39;altru."
+  },
+  "signs": {
+    "read_all": "Leghjite tutti i segni elettronichi.",
+    "manage_own": "Crea, aghjurn\u00e0 \u00e8 sguassate u propiu segnu elettronicu.",
+    "moderate_others": "Aghjurnate \u00e8 sguassate u segnu elettronicu di l&#39;altru.",
+    "read_all_submissions": "Leghjite tutte e sottumissioni di e-sign.",
+    "submit_own": "Invia a dumanda di campu."
+  },
+  "tasks": {
+    "read_all": "Leghjite tutti i travaglii.",
+    "manage_own": "Crea, aghjurn\u00e0 \u00e8 sguass\u00e0 a propria attivit\u00e0.",
+    "moderate_others": "Aghjurn\u00e0 \u00e8 sguassate u compitu di l&#39;altru.",
+    "read_all_submissions": "Leghjite tutte e sottumissioni di compiti.",
+    "submit_own": "Invia a dumanda di compitu."
+  },
+  "team": { "read_all": "Leghjite a squadra in casu" }
+}

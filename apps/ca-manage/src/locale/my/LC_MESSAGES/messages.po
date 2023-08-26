@@ -1,0 +1,522 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-01-15T21:57:38.295102\n"
+"PO-Revision-Date: 2018-01-15T21:57:38.812327\n"
+"Language: my\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/repo/src/cases/create-case.html:17
+#: /tmp/repo/src/cases/create-case.html:19
+#: /tmp/repo/src/cases/edit-case.html:21 /tmp/repo/src/cases/edit-case.html:23
+msgid "About"
+msgstr "အကွောငျး"
+
+#: /tmp/repo/src/users/create-user.html:70
+msgid "Add"
+msgstr "ပေါင်း"
+
+#: /tmp/repo/src/users/add-user.controller.js:14
+msgid "Add User"
+msgstr "အသုံးပြုသူ Add"
+
+#: /tmp/repo/src/users/create-user.html:71
+msgid "Adding..."
+msgstr "ပေါင်းထည့်နေသည် ..."
+
+#: /tmp/repo/src/profile/profile.html:107
+#: /tmp/repo/src/profile/profile.html:119
+#: /tmp/repo/src/profile/profile.html:121
+#: /tmp/repo/src/profile/profile.html:122
+msgid "Address"
+msgstr "လိပ်စာ"
+
+#: /tmp/repo/src/profile/profile.html:110
+#: /tmp/repo/src/profile/profile.html:126
+#: /tmp/repo/src/profile/profile.html:128
+#: /tmp/repo/src/profile/profile.html:129
+msgid "Address 2"
+msgstr "လိပ်စာ 2"
+
+#: /tmp/repo/src/root/root.html:127
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "မူပိုင်ခွင့်များရယူပြီး"
+
+#: /tmp/repo/src/login/login.html:21
+msgid ""
+"All rights\n"
+"        reserved"
+msgstr "မူပိုင်ခွင့်များရယူပြီး"
+
+#: /tmp/repo/src/cases/assign-user.controller.js:20
+msgid "Assign User"
+msgstr "အသုံးပြုသူ assign"
+
+#: /tmp/repo/src/groups/create-group.html:24
+#: /tmp/repo/src/groups/create-group.html:26
+#: /tmp/repo/src/groups/edit-group.html:24
+#: /tmp/repo/src/groups/edit-group.html:26
+msgid "Audios"
+msgstr "Audio"
+
+#: /tmp/repo/src/profile/profile.html:11
+msgid "Basic"
+msgstr "အခြေခံပညာ"
+
+#: /tmp/repo/src/cases/assign-case.html:37
+#: /tmp/repo/src/cases/create-case.html:50
+#: /tmp/repo/src/cases/edit-case.html:54
+#: /tmp/repo/src/groups/create-group.html:74
+#: /tmp/repo/src/groups/edit-group.html:78
+#: /tmp/repo/src/profile/profile.html:222 /tmp/repo/src/users/add-user.html:28
+#: /tmp/repo/src/users/create-user.html:73
+#: /tmp/repo/src/users/edit-user.html:45
+msgid "Cancel"
+msgstr "Cancel"
+
+#: /tmp/repo/src/cases/assign-case.html:17
+msgid "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+msgstr "ဖြစ်ရပ်မှန် Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform.controller.js:27
+msgid "Case Form Fields"
+msgstr "ဖြစ်ရပ်မှန် Form ကို Fields"
+
+#: /tmp/repo/src/cases/create-case.html:13
+msgid "Case Info"
+msgstr "ဖြစ်ရပ်မှန်အင်ဖို"
+
+#: /tmp/repo/src/cases/edit-case.html:17
+msgid "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+msgstr ""
+"ဖြစ်ရပ်မှန်အင်ဖို <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:9
+msgid "Case form updated"
+msgstr "ဖြစ်ရပ်မှန်ပုံစံ updated"
+
+#: /tmp/repo/src/cases/assign-case.html:8 /tmp/repo/src/cases/edit-case.html:8
+msgid "Case not found!"
+msgstr "ဖြစ်ရပ်မှန်မတွေ့ပါ!"
+
+#: /tmp/repo/src/index.html:5 /tmp/repo/src/login/login.html:21
+#: /tmp/repo/src/root/root.html:127
+msgid "CaseActive"
+msgstr "CaseActive"
+
+#: /tmp/repo/src/cases/cases.controller.js:31 /tmp/repo/src/root/root.html:21
+msgid "Cases"
+msgstr "အမှုပေါင်း"
+
+#: /tmp/repo/src/profile/profile.html:113
+msgid ""
+"City\n"
+"                    /Locality"
+msgstr "စီးတီး / local"
+
+#: /tmp/repo/src/profile/profile.html:133
+#: /tmp/repo/src/profile/profile.html:135
+#: /tmp/repo/src/profile/profile.html:136
+msgid "City/Locality"
+msgstr "စီးတီး / local"
+
+#: /tmp/repo/src/profile/profile.html:82 /tmp/repo/src/profile/profile.html:90
+#: /tmp/repo/src/profile/profile.html:92 /tmp/repo/src/profile/profile.html:93
+msgid "Company Name"
+msgstr "ကုမ္ပဏီအမည်"
+
+#: /tmp/repo/src/profile/profile.html:100
+#: /tmp/repo/src/profile/profile.html:85 /tmp/repo/src/profile/profile.html:97
+#: /tmp/repo/src/profile/profile.html:99
+msgid "Company Title"
+msgstr "ကုမ္ပဏီခေါင်းစဉ်"
+
+#: /tmp/repo/src/cases/cases.html:199
+msgid "Confirm Password"
+msgstr "စကားဝှက်ကိုအတည်ပြုပါ"
+
+#: /tmp/repo/src/root/root.html:24
+msgid "Content"
+msgstr "အကြောင်းအရာ"
+
+#: /tmp/repo/src/users/add-user.html:25
+msgid "Continue"
+msgstr "ဆက်လက်"
+
+#: /tmp/repo/src/root/root.html:7
+msgid "Cookies are disabled. Please enable it."
+msgstr "ကွတ်ကီးမသန်စွမ်းဖြစ်ကြသည်။ က enable ပေးပါ။"
+
+#: /tmp/repo/src/profile/profile.html:145
+#: /tmp/repo/src/profile/profile.html:160
+#: /tmp/repo/src/profile/profile.html:162
+#: /tmp/repo/src/profile/profile.html:164
+#: /tmp/repo/src/profile/profile.html:166
+msgid "Country"
+msgstr "ပြည်"
+
+#: /tmp/repo/src/cases/create-case.html:46
+#: /tmp/repo/src/groups/create-group.html:70
+msgid "Create"
+msgstr "ဖန်တီး"
+
+#: /tmp/repo/src/cases/create-case.controller.js:16
+msgid "Create Case"
+msgstr "ဖြစ်ရပ်မှန် Create"
+
+#: /tmp/repo/src/groups/create-group.controller.js:16
+msgid "Create Group"
+msgstr "Group မှ Create"
+
+#: /tmp/repo/src/users/create-user.controller.js:16
+msgid "Create User"
+msgstr "အသုံးပြုသူကိုဖန်တီး"
+
+#: /tmp/repo/src/cases/cases.html:224
+msgid "Create a case for a business"
+msgstr "စီးပွားရေးလုပ်ငန်းတစ်ခုအဘို့အကာအမှု Create"
+
+#: /tmp/repo/src/users/users.html:9
+msgid "Create an user"
+msgstr "တစ်ခုအသုံးပြုသူ Create"
+
+#: /tmp/repo/src/cases/create-case.html:47
+#: /tmp/repo/src/groups/create-group.html:71
+msgid "Creating..."
+msgstr "Creating ..."
+
+#: /tmp/repo/src/cases/cases.html:167
+msgid "Current Password"
+msgstr "လက်ရှိစကားဝှက်"
+
+#: /tmp/repo/src/dashboard/dashboard.controller.js:25
+#: /tmp/repo/src/root/root.html:19
+msgid "Dashboard"
+msgstr "dashboard ကို"
+
+#: /tmp/repo/src/cases/create-case.html:29
+#: /tmp/repo/src/cases/create-case.html:31
+#: /tmp/repo/src/cases/edit-case.html:33 /tmp/repo/src/cases/edit-case.html:35
+msgid "Date Opened"
+msgstr "နေ့စွဲဖွင့်လှစ်"
+
+#: /tmp/repo/src/profile/profile.html:44 /tmp/repo/src/profile/profile.html:52
+#: /tmp/repo/src/profile/profile.html:54 /tmp/repo/src/profile/profile.html:55
+msgid "Date of Birth"
+msgstr "မွေးရက်"
+
+#: /tmp/repo/src/settings/design/design.controller.js:33
+msgid "Design"
+msgstr "ပုံစံ"
+
+#: /tmp/repo/src/groups/create-group.html:29
+#: /tmp/repo/src/groups/create-group.html:31
+#: /tmp/repo/src/groups/edit-group.html:29
+#: /tmp/repo/src/groups/edit-group.html:31
+msgid "Documents"
+msgstr "စာရွက်စာတမ်းများ"
+
+#: /tmp/repo/src/cases/edit-case.controller.js:15
+msgid "Edit Case"
+msgstr "Edit ကိုဖြစ်ရပ်မှန်"
+
+#: /tmp/repo/src/groups/edit-group.controller.js:16
+msgid "Edit Group"
+msgstr "Edit ကိုအုပ်စု"
+
+#: /tmp/repo/src/users/edit-user.controller.js:16
+msgid "Edit User"
+msgstr "Edit ကိုအသုံးပြုသူ"
+
+#: /tmp/repo/src/cases/cases.html:78 /tmp/repo/src/users/add-user.html:15
+#: /tmp/repo/src/users/add-user.html:17
+#: /tmp/repo/src/users/create-user.html:28
+#: /tmp/repo/src/users/create-user.html:30
+msgid "Email"
+msgstr "အီးမေးလ်ပို့ရန်"
+
+#: /tmp/repo/src/users/create-user.html:16
+#: /tmp/repo/src/users/create-user.html:18
+msgid "Family Name"
+msgstr "မိသားစုနာမည်"
+
+#: /tmp/repo/src/groups/create-group.html:36
+msgid "Fiels"
+msgstr "Fiels"
+
+#: /tmp/repo/src/groups/create-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:36
+msgid "Files"
+msgstr "files"
+
+#: /tmp/repo/src/profile/profile.html:20 /tmp/repo/src/profile/profile.html:28
+#: /tmp/repo/src/profile/profile.html:30 /tmp/repo/src/profile/profile.html:31
+msgid "First Name"
+msgstr "နာမည်"
+
+#: /tmp/repo/src/profile/profile.html:47 /tmp/repo/src/profile/profile.html:63
+#: /tmp/repo/src/profile/profile.html:66 /tmp/repo/src/profile/profile.html:71
+msgid "Gender"
+msgstr "ကျား, မ"
+
+#: /tmp/repo/src/users/create-user.html:21
+#: /tmp/repo/src/users/create-user.html:23
+msgid "Given Name"
+msgstr "ပထမအမည်"
+
+#: /tmp/repo/src/groups/create-group.html:13
+msgid "Group Info"
+msgstr "Group မှအင်ဖို"
+
+#: /tmp/repo/src/groups/edit-group.html:13
+msgid "Group Info <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+msgstr ""
+"Group မှအင်ဖို <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+
+#: /tmp/repo/src/groups/create-group.html:53
+#: /tmp/repo/src/groups/edit-group.html:55
+msgid "Group Permissions"
+msgstr "Group မှခွင့်ပြုချက်များ"
+
+#: /tmp/repo/src/groups/groups.controller.js:27
+#: /tmp/repo/src/root/root.html:23
+msgid "Groups"
+msgstr "အဖွဲ့များ"
+
+#: /tmp/repo/src/root/root.html:34
+msgid "Hello"
+msgstr "ဟယ်လို"
+
+#: /tmp/repo/src/groups/create-group.html:42
+#: /tmp/repo/src/groups/create-group.html:44
+#: /tmp/repo/src/groups/edit-group.html:42
+#: /tmp/repo/src/groups/edit-group.html:44
+msgid "Images"
+msgstr "ပုံရိပ်တွေ"
+
+#: /tmp/repo/src/root/root.html:3
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript ကိုမသန်စွမ်းဖြစ်ကြသည်။ က enable ပေးပါ။"
+
+#: /tmp/repo/src/profile/profile.html:185
+#: /tmp/repo/src/profile/profile.html:187
+#: /tmp/repo/src/profile/profile.html:192
+#: /tmp/repo/src/users/create-user.html:35
+#: /tmp/repo/src/users/create-user.html:40
+#: /tmp/repo/src/users/create-user.html:46
+msgid "Language"
+msgstr "ဘာသာစကား"
+
+#: /tmp/repo/src/profile/profile.html:181
+msgid "Language &amp; Region"
+msgstr "ဘာသာစကား &amp; ဒေသကြီး"
+
+#: /tmp/repo/src/profile/profile.html:23 /tmp/repo/src/profile/profile.html:35
+#: /tmp/repo/src/profile/profile.html:37 /tmp/repo/src/profile/profile.html:38
+msgid "Last Name"
+msgstr "မျိုးနွယ်အမည်"
+
+#: /tmp/repo/src/cases/assign-case.html:4 /tmp/repo/src/cases/cases.html:219
+#: /tmp/repo/src/cases/create-case.html:4 /tmp/repo/src/cases/edit-case.html:4
+#: /tmp/repo/src/groups/create-group.html:4
+#: /tmp/repo/src/groups/edit-group.html:4 /tmp/repo/src/groups/groups.html:4
+#: /tmp/repo/src/profile/profile.html:3
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:5
+#: /tmp/repo/src/settings/module/module-settings.html:4
+#: /tmp/repo/src/users/add-user.html:4 /tmp/repo/src/users/create-user.html:4
+#: /tmp/repo/src/users/edit-user.html:4 /tmp/repo/src/users/users.html:4
+msgid "Loading..."
+msgstr "Loading ..."
+
+#: /tmp/repo/src/profile/profile.html:104
+msgid "Location"
+msgstr "တည်နေရာ"
+
+#: /tmp/repo/src/root/root.html:42
+msgid "Log out"
+msgstr "နေ log out"
+
+#: /tmp/repo/src/root/root.html:27
+msgid "Logout"
+msgstr "logout"
+
+#: /tmp/repo/src/login/login.html:20 /tmp/repo/src/root/root.html:126
+msgid "Made with"
+msgstr "နှင့်ဖွဲ့"
+
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Module"
+msgstr "module"
+
+#: /tmp/repo/src/settings/module/module-settings.controller.js:33
+msgid "Modules"
+msgstr "modules"
+
+#: /tmp/repo/src/settings/module/module-settings.html:9
+msgid "Modules settings updated"
+msgstr "modules settings ကို updated"
+
+#: /tmp/repo/src/groups/create-group.html:17
+#: /tmp/repo/src/groups/create-group.html:19
+#: /tmp/repo/src/groups/edit-group.html:17
+#: /tmp/repo/src/groups/edit-group.html:19
+msgid "Name"
+msgstr "အမည်"
+
+#: /tmp/repo/src/cases/cases.html:180
+msgid "New Password"
+msgstr "စကားဝှကိအသစ်"
+
+#: /tmp/repo/src/cases/cases.html:223
+msgid "No cases found."
+msgstr "အဘယ်သူမျှမဖြစ်ပွားမှုတွေ့ရှိခဲ့ပါတယ်။"
+
+#: /tmp/repo/src/groups/groups.html:8
+msgid "No group found."
+msgstr "အဘယ်သူမျှမအုပ်စုတစ်စုတွေ့ရှိခဲ့ပါတယ်။"
+
+#: /tmp/repo/src/users/users.html:8
+msgid "No user found."
+msgstr "အသုံးပြုသူမတွေ့ပါ။"
+
+#: /tmp/repo/src/profile/profile.html:79
+msgid "Occupation"
+msgstr "အလုပ်အကိုင်"
+
+#: /tmp/repo/src/groups/create-group.html:55
+#: /tmp/repo/src/groups/edit-group.html:53
+msgid "Permission"
+msgstr "အခွင့်"
+
+#: /tmp/repo/src/profile/profile.controller.js:30
+msgid "Profile Settings"
+msgstr "ပရိုဖိုင်းကိုချိန်ညှိမှုများ"
+
+#: /tmp/repo/src/cases/assign-case.html:33
+#: /tmp/repo/src/cases/edit-case.html:50
+#: /tmp/repo/src/groups/edit-group.html:74
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:60
+#: /tmp/repo/src/settings/module/module-settings.html:23
+#: /tmp/repo/src/users/edit-user.html:42
+msgid "Save"
+msgstr "ကြော်ငြာကို Save လုပ်ရန်"
+
+#: /tmp/repo/src/cases/assign-case.html:34
+#: /tmp/repo/src/cases/edit-case.html:51
+#: /tmp/repo/src/groups/edit-group.html:75
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:61
+#: /tmp/repo/src/settings/module/module-settings.html:24
+#: /tmp/repo/src/users/edit-user.html:43
+msgid "Saving..."
+msgstr "သိမ်းဆည်းခြင်း ..."
+
+#: /tmp/repo/src/root/root.html:25
+msgid "Settings"
+msgstr "Settings များ"
+
+#: /tmp/repo/src/login/login.html:10
+msgid "Sign In"
+msgstr "ဆိုင်းအင်လုပ်ခြင်း"
+
+#: /tmp/repo/src/profile/profile.html:142
+#: /tmp/repo/src/profile/profile.html:155
+#: /tmp/repo/src/profile/profile.html:156
+msgid "State/Region"
+msgstr "ပြည်နယ် / တိုင်းဒေသကြီး"
+
+#: /tmp/repo/src/cases/create-case.html:34
+#: /tmp/repo/src/cases/create-case.html:40
+#: /tmp/repo/src/cases/edit-case.html:38
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Status"
+msgstr "status"
+
+#: /tmp/repo/src/cases/edit-case.html:44
+msgid "Status Opened"
+msgstr "အဆင့်အတန်းဖွင့်လှစ်"
+
+#: /tmp/repo/src/cases/create-case.html:22
+#: /tmp/repo/src/cases/create-case.html:24
+#: /tmp/repo/src/cases/edit-case.html:26 /tmp/repo/src/cases/edit-case.html:28
+msgid "Tag ID"
+msgstr "tag ID ကို"
+
+#: /tmp/repo/src/login/login.html:22 /tmp/repo/src/root/root.html:128
+msgid "Terms of Use"
+msgstr "သတ်မှတ်ချက်များ"
+
+#: /tmp/repo/src/profile/profile.html:201
+#: /tmp/repo/src/profile/profile.html:203
+#: /tmp/repo/src/profile/profile.html:208
+#: /tmp/repo/src/users/create-user.html:51
+#: /tmp/repo/src/users/create-user.html:56
+#: /tmp/repo/src/users/create-user.html:62
+msgid "Timezone"
+msgstr "စံတော်ချိန်"
+
+#: /tmp/repo/src/profile/profile.html:219
+msgid "Update"
+msgstr "Update ကို"
+
+#: /tmp/repo/src/profile/profile.html:220
+msgid "Updating"
+msgstr "မွမ်းမံနေ"
+
+#: /tmp/repo/src/users/create-user.html:12
+msgid "User Info"
+msgstr "အသုံးပြုသူအင်ဖို"
+
+#: /tmp/repo/src/users/edit-user.html:16
+msgid "User Info <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+msgstr ""
+"အသုံးပြုသူအင်ဖို <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+
+#: /tmp/repo/src/users/edit-user.html:29 /tmp/repo/src/users/edit-user.html:35
+msgid "User Status"
+msgstr "အသုံးပြုသူအဆင့်အတန်း"
+
+#: /tmp/repo/src/users/edit-user.html:20 /tmp/repo/src/users/edit-user.html:26
+msgid "User Type"
+msgstr "အသုံးပြုသူအမျိုးအစား"
+
+#: /tmp/repo/src/users/edit-user.html:8
+msgid "User not found."
+msgstr "အသုံးပြုသူကိုမတွေ့။"
+
+#: /tmp/repo/src/root/root.html:22 /tmp/repo/src/users/users.controller.js:31
+msgid "Users"
+msgstr "အသုံးပြုသူများသည်"
+
+#: /tmp/repo/src/groups/create-group.html:47
+#: /tmp/repo/src/groups/create-group.html:49
+#: /tmp/repo/src/groups/edit-group.html:47
+#: /tmp/repo/src/groups/edit-group.html:49
+msgid "Videos"
+msgstr "Videos မ"
+
+#: /tmp/repo/src/users/add-user.html:26
+msgid "Working..."
+msgstr "အလုပ်အဖွဲ့ ..."
+
+#: /tmp/repo/src/profile/profile.html:148
+#: /tmp/repo/src/profile/profile.html:174
+#: /tmp/repo/src/profile/profile.html:175
+#: /tmp/repo/src/profile/profile.html:176
+msgid "Zip/Postal Code"
+msgstr "zip / စာတိုက် Code ကို"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "in New York City"
+msgstr "နယူးယောက်စီးတီးရှိ"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "love"
+msgstr "ချစ်ခြင်းမေတ္တာ"
+
+#: /tmp/repo/src/cases/assign-case.html:22
+msgid "{{group.name}}"
+msgstr "{{အဖွဲ့နာမည်}}"

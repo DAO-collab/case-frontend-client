@@ -1,0 +1,56 @@
+@media only screen and (max-width: 47.5em) {
+  .table-wrapper {
+    overflow-x: auto;
+  }
+
+  .table-wrapper table {
+    min-width: 400px;
+  }
+}
+
+.drop-a:hover > .drop {
+  top: 27px;
+}
+
+.notes-wrap {
+  margin: 0 auto;
+  max-width: 850px;
+}
+
+.note-width {
+  width: 150px;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.drop-item-option-img {
+  margin-right: 2px;
+}
+
+.drop-a > .drop {
+  width: 100%;
+  margin-top: 7px;
+  left: 0;
+  border: 1px solid rgb(22, 176, 197);
+  box-shadow: 0 0 5px 0 rgb(22, 176, 197);
+  border-radius: 5px;
+}
+
+.drop-a > .drop::after {
+  content: '';
+  position: absolute;
+  top: -6px;
+  width: 100%;
+  height: 6px;
+  background: transparent;
+}
+
+.drop-a > .drop:before {
+  display: none;
+}
+
+.drop-a > .drop a i {
+  left: 0;
+}

@@ -1,0 +1,17 @@
+p.required span {
+  width: 100%;
+}
+
+.notify-success {
+  height: 350px;
+}
+
+.notify-success h2 {
+  text-align: center;
+  padding-top: 125px;
+}
+
+.notify-success span {
+  width: 100%;
+  text-align: center;
+}

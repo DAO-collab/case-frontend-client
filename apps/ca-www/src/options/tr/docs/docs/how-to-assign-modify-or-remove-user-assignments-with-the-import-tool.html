@@ -1,0 +1,88 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  İçe Aktarma Aracı ile Kullanıcı Atamalarını Atama, Değiştirme veya Kaldırma
+</h1>
+<p>Bu makale, yöneticilere servis talebi kullanıcılarını İçe Aktarma aracıyla nasıl yöneteceklerini gösterir.</p>
+<p>Yöneticiler şunları yapabilir:</p>
+<ul>
+  <li>kullanıcıları bir servis talebine atama</li>
+  <li>zaten bir servis talebine atanmış kullanıcıları değiştir</li>
+  <li>bir vakaya atanan kullanıcıları kaldır</li>
+</ul>
+<h2 id="opening-the-import-tool">İçe Aktarma aracını açma</h2>
+<ol style="list-style-type: decimal">
+  <li>Yönetici hesabında oturum açın.</li>
+  <li>Uygulamalar sayfasında bir uygulama bulun ve YÖNETİCİ düğmesine tıklayın.</li>
+  <li>Entegrasyon sekmesine ve ardından alt menüde İÇE AKTARMALAR&#39;a tıklayın.</li>
+  <li>YENİ düğmesine tıklayın. İthalat Ekle iletişim kutusu görüntülenir.</li>
+</ol>
+<h2 id="creating-records">kayıt oluşturma</h2>
+<p>
+  Bir veya daha fazla CSV dosyası indirin. Vaka kullanıcıları eklemek, değiştirmek veya kaldırmak için bu dosyaları
+  kullanın. İthalat Ekle iletişim kutusu açıldıktan sonra:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Tür alanını tıklayın.</li>
+  <li>Açılır menüde ilerleyin ve bir seçenek belirleyin (aşağıya bakın). Bir bağlantı görüntülenir.</li>
+  <li>Örneği İndir bağlantısını tıklayın. Cihazınıza bir CSV dosyası indirilir.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>
+  Dosyayı açın ve kayıtları ekleyin. Biçim verilerinin CSV dosyasında nasıl kullanılacağını öğrenmek için buraya
+  tıklayın.
+</p>
+<h3 id="file-options">Dosya seçenekleri</h3>
+<p>
+  <strong>Kullanıcıları servis taleplerine atayın</strong> * Bir servis talebine kullanıcı eklemek için bu seçeneği
+  seçin. * case_role_order hücresini boş bırakın. * Kullanıcılar sayfasına gidin ve bu kişi için Etiket Kimliğini
+  kopyalayın. Etiket Kimliği alanı boşsa benzersiz bir kimlik girin, Kaydet&#39;e tıklayın ve ardından kimliği CSV
+  dosyasına kopyalayın.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Servis taleplerine atanan kullanıcıları değiştir</strong> * Bir servis talebine atanan mevcut kullanıcıların
+  verilerini güncellemek için bu seçeneği seçin. * case_ID sütunu için Case Tag ID&#39;yi kullanın.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Servis taleplerine atanan kullanıcıları kaldır</strong> * Bir servis talebine atanan kullanıcıları kaldırmak
+  için bu seçeneği seçin.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="uploading-the-file">dosya yükleniyor</h2>
+<p>
+  Hemen bir dosya yükleyebilir veya daha sonra İçe Aktarma Ekle iletişim kutusuna dönerek bu adımları
+  tamamlayabilirsiniz.
+</p>
+<ol style="list-style-type: decimal">
+  <li>İthalat Ekle iletişim kutusunu açın.</li>
+  <li>CSV dosyası için benzersiz bir ad girin.</li>
+  <li>Dosyayı cihazınızdan yüklemek için artı (+) simgesine tıklayın.</li>
+  <li>Tür alanını tıklayın ve bir seçenek belirleyin. (yukarıyı görmek)</li>
+  <li>KAYDET&#39;i tıklayın.</li>
+</ol>
+<h2 id="processing">İşleme</h2>
+<p>
+  Dosyadaki kayıt sayısına ve sistem yüküne bağlı olarak, platformun içe aktarmayı işlemesi birkaç dakika sürebilir.
+</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>
+  İçe aktarma tamamlandığında platform, Servis Talepleri sayfasında kullanıcı kayıtlarını ayarlar (yani ekler,
+  değiştirir veya kaldırır).
+</p>
+<h2 id="failure">Arıza</h2>
+<p>
+  İçeri aktarma işlemi başarısız olursa, platform bir Başarısız mesajı döndürür. Çoğu durumda, başarısızlığın nedeni
+  veri biçimlendirmedir.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Başarısızlığın nedenini görmek için:</p>
+<ol style="list-style-type: decimal">
+  <li>Eylem başlığı altında Görüntüle&#39;yi tıklayın.</li>
+  <li>Bir sonraki sayfada, fareyi Başarısız simgesinin üzerine getirin. Araç ipucu hatayı görüntüler.</li>
+  <li>CVS dosyasına gidin ve hatayı düzeltip düzeltin.</li>
+  <li>Dosyayı tekrar yükleyin.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

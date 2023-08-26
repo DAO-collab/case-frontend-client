@@ -1,0 +1,84 @@
+<form [formGroup]="notifyForm" (ngSubmit)="sendNotification()">
+  <div *ngIf="!isSuccess">
+    <header class="text-center" id="header">
+      <h3 id="modal-title" translate>CASEACTIVE IS COMING SOON</h3>
+      <p id="modal-describe" translate>We are putting final touches to it. We will notify you when it's ready!</p>
+    </header>
+    <p>
+      <span>
+        <label for="given_name">
+          <span class="req overlay-a"> *</span>
+        </label>
+        <input
+          formControlName="given_name"
+          id="givenName"
+          type="text"
+          placeholder="{{ 'First Name' | translate }}"
+          maxlength="250"
+          required
+        />
+      </span>
+      <span>
+        <label for="family_name">
+          <span class="req overlay-a"> *</span>
+        </label>
+        <input
+          formControlName="family_name"
+          id="familyName"
+          type="text"
+          placeholder="{{ 'Last Name' | translate }}"
+          maxlength="250"
+          required
+        />
+      </span>
+    </p>
+    <p>
+      <label for="email">
+        <span class="req overlay-a"> *</span>
+      </label>
+      <input
+        formControlName="email"
+        id="email"
+        type="text"
+        placeholder="{{ 'Email' | translate }}"
+        maxlength="250"
+        required
+      />
+    </p>
+    <p>
+      <label for="company">
+        <span class="req overlay-a"> *</span>
+      </label>
+      <input
+        formControlName="company_name"
+        id="company"
+        type="text"
+        placeholder="{{ 'Company' | translate }}"
+        maxlength="250"
+        required
+      />
+    </p>
+
+    <!-- <div id="captcha-contact">
+      <button (click)="getRecaptcha('prospect').subscribe()" data-badge="inline">re-Captcha</button>
+      <input formControlName="recaptcha" type="hidden" required />
+    </div> -->
+
+    <p class="required" style="display: inline" *ngIf="touchForm && isError">
+      <span class="failed" translate> Failed to validate if you are human </span>
+    </p>
+
+    <p>
+      <button type="submit">
+        <span translate>NOTIFY ME WHEN IT'S READY!</span>
+      </button>
+      <a class="close" (click)="refreshModal(true, true)" translate>Cancel</a>
+    </p>
+  </div>
+  <div *ngIf="isSuccess" class="notify-success">
+    <h2 translate>Thank You!</h2>
+    <p>
+      <span translate>We will notify you when the app is ready</span>
+    </p>
+  </div>
+</form>

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Faitau uma mata&#39;itusi vaega fa&#39;amaoti ile matafaioi",
+    "write": "Tusi uma mata&#39;itusi ma&#39;oti fanua fa&#39;apitoa ile matafaioi"
+  },
+  "convos": {
+    "read_all": "Va&#39;ai le tulaga o lo&#39;o iai nei.",
+    "manage_own": "Auai ma tatala le talanoaga.",
+    "moderate_others": "Amata fa&#39;atasi, fa&#39;ai&#39;u fa&#39;atasi, ma aveese le sui auai.",
+    "read_all_submissions": "Faitau fa&#39;atasi uma ua pu&#39;eina."
+  },
+  "events": {
+    "read_all": "Faitau mea uma na tutupu.",
+    "manage_own": "Fausia, fa&#39;afou ma tape oe lava mea na tupu.",
+    "moderate_others": "Fa&#39;afou ma tape le mea na tupu a isi.",
+    "read_all_submissions": "Faitau fa&#39;amaoniga uma na tupu.",
+    "submit_own": "Fa&#39;amaonia talosaga mo le auai."
+  },
+  "posts": {
+    "read_all": "Faitau uma pou.",
+    "manage_own": "Fausia, fa&#39;afou ma tape oe lava pou.",
+    "moderate_others": "Fa&#39;afou ma tape le pou a isi."
+  },
+  "forms": {
+    "read_all": "Faitau uma fomu.",
+    "manage_own": "Fausia, fa&#39;afou ma tape oe lava fomu.",
+    "moderate_others": "Fa&#39;afou ma tape le fomu a isi.",
+    "read_all_submissions": "Faitau uma fomu lafo.",
+    "submit_own": "Tu&#39;u mai le pepa talosaga."
+  },
+  "invoices": {
+    "read_all": "Faitau uma pili.",
+    "manage_own": "Fausia, fa&#39;afou ma tape oe lava pili.",
+    "moderate_others": "Fa&#39;afou ma tape le pili a isi.",
+    "read_all_submissions": "Faitau uma tusi lafo.",
+    "submit_own": "Tuuina atu le talosaga pili."
+  },
+  "notes": {
+    "read_all": "Faitau uma fa&#39;amatalaga.",
+    "manage_own": "Fausia, fa&#39;afou ma tape oe lava fa&#39;amatalaga.",
+    "moderate_others": "Fa&#39;afou ma tape le fa&#39;amatalaga a isi."
+  },
+  "signs": {
+    "read_all": "Faitau uma e-faailoga.",
+    "manage_own": "Fausia, fa&#39;afou ma tape oe lava e-faailoga.",
+    "moderate_others": "Fa&#39;afou ma tape le fa&#39;ailoga fa&#39;a-eletise a isi.",
+    "read_all_submissions": "Faitau uma talosaga e-sign.",
+    "submit_own": "Tuuina atu talosaga fanua."
+  },
+  "tasks": {
+    "read_all": "Faitau galuega uma.",
+    "manage_own": "Fausia, fa&#39;afou ma tape oe lava galuega.",
+    "moderate_others": "Fa&#39;afou ma tape le galuega a isi.",
+    "read_all_submissions": "Faitau uma galuega lafo.",
+    "submit_own": "Tuuina atu le talosaga mo galuega."
+  },
+  "team": { "read_all": "Faitau au i le tulaga" }
+}

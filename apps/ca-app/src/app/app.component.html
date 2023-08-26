@@ -1,0 +1,1077 @@
+<div id="root" [class.fullscreen-mode]="isFullscreenMode" #rootDiv>
+  <header id="top">
+    <div [class.intake-page-header]="isIntakeExist || router.url === '/'">
+      <div class="logo-icon">
+        <a [routerLink]="isIntakeExist ? '/intake-forms' : '/'" (click)="expandedMedias = !expandedMedias">
+          <img [src]="logoSrc" />
+        </a>
+      </div>
+      <nav id="skip">
+        <ul>
+          <li>
+            <a href="#user" accesskey="n" translate>Skip to navigation (n)</a>
+          </li>
+          <li>
+            <a href="#content" accesskey="c" translate>Skip to content (c)</a>
+          </li>
+          <li>
+            <a href="#footer" accesskey="f" translate>Skip to footer (f)</a>
+          </li>
+        </ul>
+      </nav>
+      <nav id="user">
+        <ul>
+          <li class="a case-search-box" [ngClass]="{ 'visibility-hidden': currentRoute === '' }" *ngIf="!isIntakeExist">
+            <form #caseForm action="./" method="post" id="formSa">
+              <p>
+                <label for="sa" class="case-search-box-label hidden" translate>Case</label>
+                <input disabled type="text" id="sa" name="choosedCaseName" *ngIf="!noCases" [value]="choosedCaseName" />
+                <input disabled type="text" value="{{ 'No Cases' | translate }}" *ngIf="noCases" />
+              </p>
+              <div *ngIf="!noCases">
+                <p>
+                  <label for="sb" class="hidden" translate>Search</label>
+                  <input required type="text" id="sb" name="caseSearch" [(ngModel)]="caseSearch" />
+                  <button type="submit" translate>Search</button>
+                </p>
+                <ul *ngFor="let case of casesList | FilterPipe : caseSearch : 'name'">
+                  <li>
+                    <a (click)="switchCaseId(case, caseForm)">{{ case.name }}</a>
+                  </li>
+                </ul>
+              </div>
+            </form>
+          </li>
+          <li
+            #notificationMenu
+            class="notification-menu-dropdown-icon"
+            title="{{ !(todayNotifications.length + lastWeekNotifications.length) ? 'No notifications found' : '' }}"
+          >
+            <img class="notification-icon" width="20" height="20" src="../../../images/notification.png" />
+          </li>
+          <li #userMenu class="user-menu-item">
+            <img class="avatar-icon" width="40" height="40" [src]="userAvatarSrc" />
+            <span>
+              <strong translate>Hi</strong><strong>{{ userData.given_name ? ', ' : '' }}</strong
+              >{{ userData.given_name ? userData.given_name : '' }}</span
+            >
+            <div class="arrow-dropdown"></div>
+          </li>
+          <div #userMenuDropdown class="user-menu-dropdown" *ngIf="showUserMenu">
+            <div class="user-menu-dropdown-user">
+              <img class="avatar-icon" width="50" height="50" [src]="userAvatarSrc" />
+              <div>
+                <strong class="truncate"
+                  >{{ userData.given_name ? userData.given_name : '' }}&nbsp;{{
+                    userData.family_name ? userData.family_name : ''
+                  }}</strong
+                >
+                <a class="account-link" [href]="environment.ACCOUNT_CLIENT_URL + '/account'" translate
+                  >View your account</a
+                >
+              </div>
+            </div>
+            <div class="user-menu-dropdown-apps">
+              <strong style="margin-left: 8px" translate>Apps</strong>&nbsp;
+              <a class="account-link" [href]="environment.ACCOUNT_CLIENT_URL" translate>View page</a>
+              <div *ngIf="!apps.length" translate style="text-align: center">You don’t have any apps</div>
+              <div *ngIf="apps.length">
+                <div style="width: 100%; display: flex" *ngFor="let app of apps; let elementIndex = index">
+                  <div #userMenuApp class="user-menu-dropdown-app" (click)="openAppActions(app, $event, elementIndex)">
+                    <!--              (click)="openApp(app, 'app'); showUserMenu = false"-->
+                    <div class="user-menu-dropdown-app-info">
+                      <div class="user-menu-dropdown-app-logo">
+                        <img [src]="app.favicon" />
+                      </div>
+                      <div class="user-menu-dropdown-app-details">
+                        <strong class="truncate">{{ app.name }}</strong>
+                        <span class="account-link">{{ app.host_user_type | translate }}</span>
+                      </div>
+                    </div>
+                    <div>
+                      <!--                    <img-->
+                      <!--                      class="user-menu-dropdown-img user-menu-dropdown-admin-icon"-->
+                      <!--                      src="images/apps-app.svg"-->
+                      <!--                      alt=""-->
+                      <!--                      (click)="openAppActions(app, $event, elementIndex)"-->
+                      <!--                    />-->
+
+                      <img
+                        [ngClass]="{ 'opacity-0': showAnimationIndex === elementIndex }"
+                        *ngIf="app.host_granted_status === 1"
+                        class="user-menu-dropdown-img"
+                        src="images/apps-settings-dots.svg"
+                        alt=""
+                        (click)="showAppInvitationModal(app); showUserMenu = false"
+                      />
+                    </div>
+                  </div>
+
+                  <div
+                    class="user-menu-dropdown-buttons"
+                    *ngIf="app.host_granted_status === 1"
+                    [ngClass]="{ 'buttons-animation': showAnimationIndex === elementIndex }"
+                  >
+                    <button
+                      class="apps-button apps-app-button"
+                      (click)="openApp(app, 'app'); showUserMenu = false"
+                      translate
+                    >
+                      App
+                    </button>
+                    <button
+                      class="apps-button"
+                      style="margin-right: 42px"
+                      (click)="openApp(app, 'admin'); showUserMenu = false"
+                      translate
+                    >
+                      Admin
+                    </button>
+
+                    <img
+                      *ngIf="app.host_granted_status === 1"
+                      style="margin-left: auto; margin-right: 8px"
+                      class="user-menu-dropdown-img"
+                      src="images/apps-settings-dots.svg"
+                      alt=""
+                      (click)="showAppInvitationModal(app); showUserMenu = false"
+                    />
+                  </div>
+                </div>
+              </div>
+              <!--            <a class="user-menu-dropdown-link" [href]="environment.ACCOUNT_CLIENT_URL + '/apps/create'">-->
+              <!--              <div class="user-menu-dropdown-app" [class.no-apps]="!apps.length">-->
+              <!--                <div class="user-menu-dropdown-app-info">-->
+              <!--                  <div class="user-menu-dropdown-app-logo user-menu-dropdown-create-app-logo"></div>-->
+              <!--                  <div class="user-menu-dropdown-app-details">-->
+              <!--                    <strong translate>Create an app</strong>-->
+              <!--                  </div>-->
+              <!--                </div>-->
+              <!--              </div>-->
+              <!--            </a>-->
+            </div>
+            <div class="user-menu-dropdown-logout">
+              <a class="user-menu-dropdown-link" [href]="environment.ACCOUNT_CLIENT_URL + '/apps/logout'">
+                <strong translate>Logout</strong>
+              </a>
+            </div>
+          </div>
+        </ul>
+        <div #notificationMenuDropdown class="notification-menu-dropdown" *ngIf="showNotificationMenu">
+          <strong translate style="margin-left: 14px">Notifications</strong>&nbsp;
+          <div *ngIf="allNotifications && todayNotifications.length + lastWeekNotifications.length === 0">
+            <div class="notification-menu-dropdown-apps">
+              <p class="text-center notification-label" translate>No notifications yet.</p>
+            </div>
+          </div>
+          <div
+            class="notifications-wrapper"
+            *ngIf="allNotifications && todayNotifications.length + lastWeekNotifications.length > 0"
+          >
+            <div class="notification-menu-dropdown-apps" *ngIf="todayNotifications.length">
+              <strong translate style="margin-left: 8px">Today</strong>&nbsp;
+              <div *ngFor="let notification of todayNotifications" (click)="utilsService.redirectTo(notification)">
+                <div class="notification-menu-dropdown-app">
+                  <div class="notification-menu-dropdown-app-info">
+                    <div class="notification-menu-dropdown-app-logo">
+                      <img [src]="utilsService.userAvatarUrl(notification.user_id, 60)" />
+                      <img [src]="'../images/module_icons/' + notification.module_name + '-active.png'" />
+                    </div>
+                    <div class="notification-menu-dropdown-app-details" title="{{ notification.subject }}">
+                      <span class="truncate-2 notify-text">{{ notification.subject }}</span>
+                      <span class="notify-date">{{ notification.created_on | timeAgo }}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="notification-menu-dropdown-apps" *ngIf="lastWeekNotifications.length">
+              <strong translate style="margin-left: 8px">Last Week</strong>&nbsp;
+
+              <ng-container *ngFor="let notification of lastWeekNotifications">
+                <div (click)="utilsService.redirectTo(notification)">
+                  <div class="notification-menu-dropdown-app">
+                    <div class="notification-menu-dropdown-app-info">
+                      <div class="notification-menu-dropdown-app-logo">
+                        <img [src]="utilsService.userAvatarUrl(notification.user_id, 60)" />
+                        <img [src]="'../images/module_icons/' + notification.module_name + '-active.png'" />
+                      </div>
+                      <div class="notification-menu-dropdown-app-details" title="{{ notification.subject }}">
+                        <span class="truncate-2 notify-text">{{ notification.subject }}</span>
+                        <span class="notify-date">{{ notification.created_on | timeAgo }}</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </ng-container>
+            </div>
+          </div>
+          <div *ngIf="!allNotifications">
+            <div class="notification-menu-dropdown-apps">
+              <strong translate style="margin-left: 8px">Today</strong>&nbsp;
+              <div>
+                <div class="notification-menu-dropdown-app" *ngFor="let app of apps">
+                  <div class="notification-menu-dropdown-app-info" *ngIf="app.host_granted_status === 0">
+                    <div class="notification-menu-dropdown-app-logo">
+                      <img [src]="avatarUrl" />
+                    </div>
+                    <div class="notification-menu-dropdown-app-details">
+                      <span translate class="truncate">{{ app.name }} has invited you</span>
+                    </div>
+                  </div>
+                  <span class="btn rmv-avatar-btn" name="avatar" translate *ngIf="app.host_granted_status === 0">
+                    <i class="icon-x-circle avatar-icon"></i>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <div class="menu-f">
+      <div></div>
+    </div>
+  </header>
+
+  <section id="content">
+    <header class="heading-b" *ngIf="currentRoute == 'feed' && !noCases && !noPermissions">
+      <h2 translate>Feed</h2>
+    </header>
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'events' && !noCases && !noPermissions">
+      <h2 translate>Events</h2>
+      <ng-container *ngIf="permissions && permissions.events && permissions.events.indexOf('manage_own') > -1">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [fontWeight]="700" [isIcon]="true" (btnClick)="activateCreateEventModal()" [isDisabled]="!(currentCaseStatus$ | async)"></ca-button>
+      </ng-container>
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'invoices' && !noCases && !noPermissions">
+      <h2 translate>Invoices</h2>
+      <ng-container *ngIf="permissions && permissions.invoices && permissions.invoices.indexOf('manage_own') > -1">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [fontWeight]="700" [isIcon]="true" (btnClick)="activateCreateInvoiceModal()" [isDisabled]="!(currentCaseStatus$ | async)"></ca-button>
+      </ng-container>
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'tasks' && !noCases && !noPermissions">
+      <h2 translate>Tasks</h2>
+      <ng-container *ngIf="permissions && permissions.tasks && permissions.tasks.indexOf('manage_own') > -1">
+        <ca-button [text]="'New' | translate" [isFilled]="true" [fontWeight]="700" [isIcon]="true" (btnClick)="activateCreateTaskModal()" [isDisabled]="!(currentCaseStatus$ | async)"></ca-button>
+      </ng-container>
+      
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'forms' && !noCases && !noPermissions">
+      <h2 translate>Forms</h2>
+      <p
+        [class.disabled]="!(currentCaseStatus$ | async)"
+        class="drop-a fit-content-dropdown"
+        *ngIf="permissions && permissions.forms && permissions.forms.indexOf('manage_own') > -1"
+      >
+        <span class="value"><i class="icon-plus"></i>New</span>
+
+        <span class="drop">
+          <!-- TODO: remove in the future -->
+          <!-- <a (click)="createForm('builder')" translate>Using Form Builder</a> -->
+          <a (click)="createForm('document')" translate>Using Form Builder</a>
+          <a (click)="createForm('FL')" translate>Using Forms Library</a>
+        </span>
+      </p>
+
+      <span class="header-publish-section" *ngIf="publishCheckBoxState > -1">
+        <label class="checkbox-container left-checkbox">
+          <input
+            #publishedCheckbox
+            type="checkbox"
+            id="publish"
+            [checked]="publishCheckBoxState == 1"
+            [disabled]="publishingFlag"
+            (click)="togglePublished($event, publishedCheckbox)"
+          />
+          <span class="checkmark"></span>
+        </label>
+        <label class="left-label" for="publish">Publish</label>
+        <span class="tooltip-icon" title="Publish or Remove Publish from the Sign."
+          ><img src="./images/icons/help-circle.svg" width="15" height="15"
+        /></span>
+      </span>
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'e-signs' && !noCases && !noPermissions">
+      <h2 translate>E-signs</h2>
+      <p
+        [class.disabled]="!(currentCaseStatus$ | async)"
+        class="drop-a fit-content-dropdown"
+        *ngIf="permissions && permissions.signs && permissions.signs.indexOf('manage_own') > -1"
+      >
+        <span class="value"><i class="icon-plus"></i>{{ 'New' | translate }}</span>
+
+        <span class="drop">
+          <!-- TODO: remove in the future -->
+          <!-- <a (click)="createSign('builder')" translate>Using E-sign Builder</a> -->
+          <a (click)="createSign('document')" translate>Using E-sign Builder</a>
+          <a (click)="createSign('SL')" translate>Using E-signs Library</a>
+        </span>
+      </p>
+
+      <span class="header-publish-section" *ngIf="publishCheckBoxState > -1">
+        <label class="checkbox-container left-checkbox">
+          <input
+            #publishedFormCheckbox
+            type="checkbox"
+            id="publishForm"
+            (click)="togglePublished($event, publishedFormCheckbox)"
+            [checked]="publishCheckBoxState == 1"
+            [disabled]="publishingFlag"
+          />
+          <span class="checkmark"></span>
+        </label>
+        <label class="left-label" for="publishForm">Publish</label>
+        <span class="tooltip-icon" title="Publish or Remove Publish from the Sign."
+          ><img src="./images/icons/help-circle.svg" width="15" height="15"
+        /></span>
+      </span>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'images' && !noCases && !noPermissions">
+      <h2 translate>Images</h2>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'docs' && !noCases && !noPermissions">
+      <h2 translate>Documents</h2>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'audios' && !noCases && !noPermissions">
+      <h2 translate>Audios</h2>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'videos' && !noCases && !noPermissions">
+      <h2 translate>Videos</h2>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'files' && !noCases && !noPermissions">
+      <h2 translate>Files</h2>
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'notes' && !noCases && !noPermissions">
+      <h2 translate>Notes</h2>
+      <p
+        [class.disabled]="!(currentCaseStatus$ | async)"
+        class="link-a a"
+        routerLink="/notes/create"
+        *ngIf="permissions && permissions.notes && permissions.notes.indexOf('manage_own') > -1"
+      >
+        <span class="value"><i class="icon-plus"></i>{{ 'New' | translate }}</span>
+      </p>
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'notes/create' && !noCases && !noPermissions">
+      <h2 translate>Create Note</h2>
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'notes/edit' && !noCases && !noPermissions">
+      <h2 translate>Edit Note</h2>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'info' && !noCases && !noPermissions">
+      <h2 translate>Info</h2>
+    </header>
+
+    <header
+      *ngIf="currentRoute == 'convos' && !noCases && !noPermissions"
+      class="heading-b has-link-a convo-header"
+      [ngClass]="{ 'remove-header-image': convoService.convoOptions.status }"
+    >
+      <div class="convo-content-wrapper">
+        <h2 translate>Convo</h2>
+
+        <div class="toggle-convo-button-wrapper" *ngIf="convoService.convoOptions.status">
+          <button
+            *ngIf="!convoService.convoOptions.isAudioOnly"
+            class="primary-outline custom-color-builder-button toggle-convo-button"
+            (mouseover)="isConvoLayoutDropdownShow = true"
+            (mouseleave)="isConvoLayoutDropdownShow = false"
+            translate
+          >
+            {{ 'Layout' | translate }}
+          </button>
+
+          <div
+            class="dropdown-values"
+            [ngClass]="{ 'display-none': !isConvoLayoutDropdownShow }"
+            (mouseover)="isConvoLayoutDropdownShow = true"
+            (mouseleave)="isConvoLayoutDropdownShow = false"
+          >
+            <div (click)="toggleConvoLayout('galleryView')">{{ 'Gallery' | translate }}</div>
+            <div (click)="toggleConvoLayout('speakerView')">{{ 'Speaker' | translate }}</div>
+          </div>
+
+          <button
+            *ngIf="permissions?.convos && permissions.convos.indexOf('moderate_others') > -1"
+            class="primary-outline custom-color-builder-button end-convo-button"
+            (yes)="endConvo()"
+            title="End Convo"
+            [message]="'You are about to end convo. Are you sure?'"
+            appConfirmationPopUp
+            translate
+          >
+            End Convo
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <header
+      class="heading-b has-link-a"
+      *ngIf="currentRoute == 'forms/simple-form-builder' && !noCases && !noPermissions"
+    >
+      <h2 translate>Create Form</h2>
+
+      <span class="header-publish-section" *ngIf="publishCheckBoxState > -1">
+        <label class="checkbox-container left-checkbox">
+          <input
+            #publishedCheckbox
+            type="checkbox"
+            id="create_form_publish"
+            [checked]="publishCheckBoxState == 1"
+            [disabled]="publishingFlag"
+            (click)="togglePublished($event, publishedCheckbox)"
+          />
+          <span class="checkmark"></span>
+        </label>
+        <label class="left-label" for="create_form_publish">Publish</label>
+        <span class="tooltip-icon" title="Publish or Remove Publish from the Sign."
+          ><img src="./images/icons/help-circle.svg" width="15" height="15"
+        /></span>
+      </span>
+    </header>
+
+    <header
+      class="heading-b has-link-a hidden"
+      *ngIf="currentRoute == 'e-signs/e-sign-builder' && !noCases && !noPermissions"
+    >
+      <h2 translate>Create Sign</h2>
+
+      <span class="header-publish-section" *ngIf="publishCheckBoxState > -1">
+        <label class="checkbox-container left-checkbox">
+          <input
+            #publishedCheckbox
+            type="checkbox"
+            id="create_sign_publish"
+            [checked]="publishCheckBoxState == 1"
+            [disabled]="publishingFlag"
+            (click)="togglePublished($event, publishedCheckbox)"
+          />
+          <span class="checkmark"></span>
+        </label>
+        <label class="left-label" for="create_sign_publish">Publish</label>
+        <span class="tooltip-icon" title="Publish or Remove Publish from the Sign."
+          ><img src="./images/icons/help-circle.svg" width="15" height="15"
+        /></span>
+      </span>
+    </header>
+
+    <header class="heading-b has-link-a" *ngIf="currentRoute == 'events/create' && !noCases && !noPermissions">
+      <h2 translate>Event Create</h2>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'convos/recording-video'">
+      <h2 translate>Convo Videos</h2>
+    </header>
+
+    <header class="heading-b" *ngIf="currentRoute == 'convos/recording-audio'">
+      <h2 translate>Convo Audios</h2>
+    </header>
+    <p class="notice-a case" *ngIf="!(currentCaseStatus$ | async) && isCaseBannerOpened">
+      <span>{{ 'This case has been closed' | translate }}</span>
+      <a class="close" (click)="closeCaseBanner()">Close</a>
+    </p>
+    <!--    <article *ngIf="noCases && !noPermissions && !isIntakeExist">-->
+    <!--      <div class="module-d">-->
+    <!--        <div class="text-center empty-search">-->
+    <!--          <img class="no-case-background" width="350" height="150" src="../../../images/illustrations/desktop.svg" />-->
+    <!--          <p translate>You have not been assigned cases yet</p>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </article>-->
+
+    <nav class="nav-a" *ngIf="!noCases && !noPermissions && !isFullscreenMode">
+      <div class="list-header hidden">
+        <h2 translate>
+          Cases
+          <app-svg-icon icon="feed-triangle-1" [width]="10" [height]="10"> </app-svg-icon>
+        </h2>
+        <button *ngIf="!showCaseSearchBar" #caseSearchIcon class="search-button" translate>
+          <img [src]="'../images/icons/search.svg'" />
+        </button>
+        <input
+          [ngClass]="{ expanded: showCaseSearchBar }"
+          #caseSearchInput
+          required
+          type="text"
+          placeholder="Search cases"
+          [(ngModel)]="caseSearch"
+        />
+      </div>
+      <ul *ngIf="!noCases" class="expandable-cases-menu hidden" [ngClass]="{ 'expanded-menu': showCaseSearchBar }">
+        <li
+          *ngFor="let case of casesList | FilterPipe : caseSearch : 'name'"
+          [ngClass]="{
+            active: case.name === choosedCaseName && showCaseSearchBar,
+            hidden: case.name !== choosedCaseName && !showCaseSearchBar
+          }"
+        >
+          <a class="truncate" (click)="switchCaseId(case, caseForm)">{{ case.name }}</a>
+        </li>
+      </ul>
+      <h2 class="category-header" translate>Case categories</h2>
+      <ul *ngIf="modules">
+        <li
+          *ngIf="modules.indexOf('posts') > -1 && permissions.posts && permissions.posts.indexOf('read_all') > -1"
+          [ngClass]="{ active: currentRoute == 'feed' || currentRoute == '' }"
+        >
+          <a routerLink="feed" (click)="expandedMedias = !expandedMedias">
+            <span>
+              <app-svg-icon icon="feed-image-active-1" [isActive]="currentRoute === '' || currentRoute === 'feed'">
+              </app-svg-icon>
+            </span>
+            {{ 'Feed' | translate }}
+            <app-svg-icon
+              icon="feed-triangle-1"
+              [isActive]="currentRoute == '' || currentRoute == 'feed'"
+              [height]="7"
+              [width]="12"
+            >
+            </app-svg-icon>
+          </a>
+        </li>
+        <ul class="expandable-menu" [ngClass]="{ 'expanded-menu': expandedMedias }">
+          <li [ngClass]="{ active: currentRoute == 'media/images' }">
+            <a routerLink="/media/images">
+              <span>
+                <app-svg-icon icon="images-image-active-1" [isActive]="currentRoute == 'media/images'"> </app-svg-icon>
+              </span>
+              {{ 'Images' | translate }}
+            </a>
+          </li>
+          <li [ngClass]="{ active: currentRoute == 'media/docs' }">
+            <a routerLink="/media/docs">
+              <span>
+                <app-svg-icon icon="docs-image-active-1" [isActive]="currentRoute == 'media/docs'"> </app-svg-icon>
+              </span>
+              {{ 'Docs' | translate }}
+            </a>
+          </li>
+          <li [ngClass]="{ active: currentRoute == 'media/audios' }">
+            <a routerLink="/media/audios">
+              <span>
+                <app-svg-icon icon="audios-image-active-1" [isActive]="currentRoute == 'media/audios'"> </app-svg-icon>
+              </span>
+              {{ 'Audios' | translate }}
+            </a>
+          </li>
+          <li [ngClass]="{ active: currentRoute == 'media/videos' }">
+            <a routerLink="/media/videos">
+              <span>
+                <app-svg-icon icon="videos-image-active-1" [isActive]="currentRoute == 'media/videos'"> </app-svg-icon>
+              </span>
+              {{ 'Videos' | translate }}
+            </a>
+          </li>
+          <li [ngClass]="{ active: currentRoute == 'media/files' }">
+            <a routerLink="/media/files">
+              <span>
+                <app-svg-icon icon="files-image-active-1" [isActive]="currentRoute == 'media/files'" [height]="22">
+                </app-svg-icon>
+              </span>
+              {{ 'Files' | translate }}
+            </a>
+          </li>
+        </ul>
+        <li
+          *ngIf="modules.indexOf('events') > -1 && permissions.events && permissions.events.indexOf('read_all') > -1"
+          [ngClass]="{ active: currentRoute == 'events' }"
+        >
+          <a routerLink="events" (click)="expandedMedias = false">
+            <app-svg-icon icon="events-image-active-1" [isActive]="currentRoute === 'events'"> </app-svg-icon>
+            {{ 'Events' | translate }}
+          </a>
+        </li>
+        <li
+          *ngIf="modules.indexOf('forms') > -1 && permissions.forms && permissions.forms.indexOf('read_all') > -1"
+          [ngClass]="{ active: currentRoute == 'forms' }"
+        >
+          <a routerLink="/forms" (click)="expandedMedias = false">
+            <app-svg-icon icon="forms-image-active-1" [isActive]="currentRoute === 'forms'"> </app-svg-icon>
+            {{ 'Forms' | translate }}
+          </a>
+        </li>
+        <li
+          *ngIf="modules.indexOf('signs') > -1 && permissions.signs && permissions.signs.indexOf('read_all') > -1"
+          [ngClass]="{ active: currentRoute == 'e-signs' }"
+        >
+          <a routerLink="/e-signs" (click)="expandedMedias = false">
+            <app-svg-icon icon="signs-image-active-1" [isActive]="currentRoute === 'e-signs'"> </app-svg-icon>
+            {{ 'E-signs' | translate }}
+          </a>
+        </li>
+        <li
+          *ngIf="
+            modules.indexOf('invoices') > -1 && permissions.invoices && permissions.invoices.indexOf('read_all') > -1
+          "
+          [ngClass]="{ active: currentRoute == 'invoices' }"
+        >
+          <a routerLink="/invoices" (click)="expandedMedias = false">
+            <app-svg-icon icon="invoices-image-active-1" [isActive]="currentRoute === 'invoices'"> </app-svg-icon>
+            {{ 'Invoices' | translate }}
+          </a>
+        </li>
+        <li
+          *ngIf="modules.indexOf('notes') > -1 && permissions.notes && permissions.notes.indexOf('read_all') > -1"
+          [ngClass]="{ active: currentRoute == 'notes' }"
+        >
+          <a routerLink="/notes" (click)="expandedMedias = false">
+            <app-svg-icon icon="notes-image-active-1" [isActive]="currentRoute === 'notes'"> </app-svg-icon>
+            {{ 'Notes' | translate }}
+          </a>
+        </li>
+        <li
+          *ngIf="modules.indexOf('notes') > -1 && permissions.tasks && permissions.tasks.indexOf('read_all') > -1"
+          [ngClass]="{ active: currentRoute == 'tasks' }"
+        >
+          <a routerLink="/tasks" (click)="expandedMedias = false">
+            <app-svg-icon icon="tasks-icon" [width]="18" [height]="18" [isActive]="currentRoute === 'tasks'">
+            </app-svg-icon>
+            {{ 'Tasks' | translate }}
+          </a>
+        </li>
+        <li
+          *ngIf="modules.indexOf('convos') > -1 && permissions.convos && permissions.convos.indexOf('read_all') > -1"
+          [ngClass]="{ active: currentRoute == 'convos' }"
+        >
+          <a routerLink="convos" (click)="expandedConvo = !expandedConvo">
+            <span>
+              <app-svg-icon icon="convo-image-active-1" [isActive]="currentRoute === 'convos'"> </app-svg-icon>
+            </span>
+            {{ 'Convo' | translate }}
+          </a>
+        </li>
+        <li
+          *ngIf="modules.indexOf('case') > -1 && permissions.case && permissions.case.indexOf('read') > -1"
+          [ngClass]="{ active: currentRoute == 'info' }"
+        >
+          <a routerLink="/info" (click)="expandedMedias = false">
+            <app-svg-icon icon="info-image-active-1" [isActive]="currentRoute === 'info'"> </app-svg-icon>
+            {{ 'Info' | translate }}
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <article>
+      <router-outlet *ngIf="!serverError || isIntakeExist"></router-outlet>
+
+      <p class="notice-a c" *ngIf="serverError">{{ serverError }}</p>
+      <footer class="right-side-menu" *ngIf="!noCases && !noPermissions && !isFullscreenMode">
+        <div class="case-participants">
+          <div class="list-header">
+            <h3 translate>Your team</h3>
+            <button *ngIf="!showTeamSearchBar" #teamSearchIcon class="search-button" translate>
+              <img [src]="'../images/icons/search.svg'" />
+            </button>
+            <input
+              [ngClass]="{ expanded: showTeamSearchBar }"
+              #teamSearchInput
+              required
+              type="text"
+              placeholder="Search team members"
+              [(ngModel)]="teamSearch"
+            />
+          </div>
+          <ul class="list-h" *ngIf="!teamLoading">
+            <li *ngFor="let member of team | FilterPipe : teamSearch : 'full_name'">
+              <img width="50" height="50" [src]="utilsService.userAvatarUrl(member.user_id, 50, member.uuid)" />
+              <span>{{ member.full_name }}</span>
+              <span>{{ roleNamesById[member.case_role_id ? member.case_role_id : member.role_id] }}</span>
+            </li>
+          </ul>
+        </div>
+        <p class="text-center" *ngIf="teamLoading && !noCases">
+          <span class="loader loader-bubbles">
+            <span></span>
+          </span>
+        </p>
+        <p class="scheme-d" *ngIf="!todos?.data?.items?.length">
+          <span class="hidden" translate>To do</span>
+          <img src="images/illustrations/g.svg" width="120" />
+          <span>{{ 'Great job!' | translate }}</span>
+          {{ 'You did all' | translate }} <br />
+          {{ 'the tasks' | translate }}.
+        </p>
+        <div class="scheme-d apps-todo" *ngIf="todos?.data?.items?.length">
+          <span class="app-todo-label" translate>To Do:</span>
+          <div class="app-todo" *ngFor="let todo of todos.data.items; let i = index">
+            <div class="app-todo-title">{{ todo.name }}</div>
+            <div class="app-todo-date">{{ convertToLocalDate(todo.due_date) }}</div>
+            <div class="app-todo-creator-name">by {{ getToDosUserName(todo.user_id) }}</div>
+            <ca-button [text]="setButtonText(todo.todo_id)" [fontWeight]="600" [isHovered]="true" margin="0 0 20px" (btnClick)="redirectToSelectedToDo(todo.todo_id)"></ca-button>
+            <hr class="app-todo-bottom-line" *ngIf="i !== todos.data.items.length - 1" />
+          </div>
+        </div>
+      </footer>
+    </article>
+  </section>
+
+  <nav id="nav-f">
+    <form #caseForm action="./" method="post">
+      <div class="case-wrapper">
+        <label for="sa2" class="hidden" translate>Search</label>
+        <input disabled type="text" id="sa2" name="choosedCaseName" *ngIf="!noCases" [value]="choosedCaseName" />
+        <input disabled type="text" value="{{ 'No Cases' | translate }}" *ngIf="noCases" />
+      </div>
+      <div class="case-wrapper-select-case" *ngIf="!noCases">
+        <p>
+          <label for="sb2" class="hidden" translate>Search</label>
+          <input required type="text" id="sb2" name="caseSearch" [(ngModel)]="caseSearch" />
+          <button type="submit" translate>Search</button>
+        </p>
+        <ul *ngFor="let case of casesList | FilterPipe : caseSearch : 'name'">
+          <li>
+            <a (click)="switchCaseId(case, caseForm)">{{ case.name }}</a>
+          </li>
+        </ul>
+      </div>
+    </form>
+    <div class="tabs">
+      <ul class="category-ul">
+        <li translate (click)="mobileTabCounter(0)">Case Categories</li>
+        <li translate (click)="mobileTabCounter(1)">Your Team</li>
+        <li translate (click)="mobileTabCounter(2)">To Do</li>
+      </ul>
+      <div>
+        <nav class="nav-a scrolled high">
+          <div class="inner case-categories-div" *ngIf="mobileMenuTabIndex === 0">
+            <h2 translate>Case categories</h2>
+            <ul *ngIf="modules">
+              <li
+                *ngIf="modules.indexOf('posts') > -1 && permissions.posts && permissions.posts.indexOf('read_all') > -1"
+                [ngClass]="{ active: currentRoute == '' }"
+              >
+                <a class="mobile-feed-a" routerLink="feed" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon icon="feed-image-active-1" [isActive]="currentRoute === '' || currentRoute === 'feed'">
+                  </app-svg-icon>
+                  {{ 'Feed' | translate }}
+                </a>
+              </li>
+              <li
+                [ngClass]="{
+                  active:
+                    !expandedMedias &&
+                    (currentRoute == 'audios' ||
+                      currentRoute == 'images' ||
+                      currentRoute == 'videos' ||
+                      currentRoute == 'docs' ||
+                      currentRoute == 'files')
+                }"
+              >
+                <a class="mobile-feed-a" (click)="expandedMedias = !expandedMedias">
+                  <app-svg-icon [width]="20" [height]="17" icon="docs-image-active-1"> </app-svg-icon>
+                  {{ 'Media' | translate }}
+                </a>
+              </li>
+              <ul class="expandable-menu" [ngClass]="{ 'expanded-menu': expandedMedias }">
+                <li [ngClass]="{ active: currentRoute == 'images' }">
+                  <a
+                    class="mobile-feed-a"
+                    routerLink="/media/images"
+                    (click)="rootDiv.classList.remove('show-f')"
+                    [ngClass]="{ 'custom-text-color': currentRoute == 'media/images' }"
+                  >
+                    <app-svg-icon
+                      [width]="17"
+                      [height]="17"
+                      icon="images-image-active-1"
+                      [isActive]="currentRoute == 'media/images'"
+                    >
+                    </app-svg-icon>
+                    {{ 'Images' | translate }}
+                  </a>
+                </li>
+                <li [ngClass]="{ active: currentRoute == 'docs' }">
+                  <a
+                    class="mobile-feed-a"
+                    routerLink="/media/docs"
+                    (click)="rootDiv.classList.remove('show-f')"
+                    [ngClass]="{ 'custom-text-color': currentRoute == 'media/docs' }"
+                  >
+                    <app-svg-icon
+                      [width]="20"
+                      [height]="17"
+                      icon="docs-image-active-1"
+                      [isActive]="currentRoute == 'media/docs'"
+                    >
+                    </app-svg-icon>
+                    {{ 'Docs' | translate }}
+                  </a>
+                </li>
+                <li [ngClass]="{ active: currentRoute == 'audios' }">
+                  <a
+                    class="mobile-feed-a"
+                    routerLink="/media/audios"
+                    (click)="rootDiv.classList.remove('show-f')"
+                    [ngClass]="{ 'custom-text-color': currentRoute == 'media/audios' }"
+                  >
+                    <app-svg-icon icon="audios-image-active-1" [isActive]="currentRoute == 'media/audios'">
+                    </app-svg-icon>
+                    {{ 'Audios' | translate }}
+                  </a>
+                </li>
+                <li [ngClass]="{ active: currentRoute == 'videos' }">
+                  <a
+                    class="mobile-feed-a"
+                    routerLink="/media/videos"
+                    (click)="rootDiv.classList.remove('show-f')"
+                    [ngClass]="{ 'custom-text-color': currentRoute == 'media/videos' }"
+                  >
+                    <app-svg-icon icon="videos-image-active-1" [isActive]="currentRoute == 'media/videos'">
+                    </app-svg-icon>
+                    {{ 'Videos' | translate }}
+                  </a>
+                </li>
+                <li [ngClass]="{ active: currentRoute == 'files' }">
+                  <a
+                    class="mobile-feed-a"
+                    routerLink="/media/files"
+                    (click)="rootDiv.classList.remove('show-f')"
+                    [ngClass]="{ 'custom-text-color': currentRoute == 'media/files' }"
+                  >
+                    <app-svg-icon icon="files-image-active-1" [height]="26" [isActive]="currentRoute == 'media/files'">
+                    </app-svg-icon>
+                    {{ 'Files' | translate }}
+                  </a>
+                </li>
+              </ul>
+              <li
+                *ngIf="
+                  modules.indexOf('events') > -1 && permissions.events && permissions.events.indexOf('read_all') > -1
+                "
+                [ngClass]="{
+                  active: currentRoute == 'events' || currentRoute == 'events/create'
+                }"
+              >
+                <a class="mobile-feed-a" routerLink="events" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon icon="events-image-active-1" [isActive]="currentRoute === 'events'"> </app-svg-icon>
+                  {{ 'Events' | translate }}
+                </a>
+              </li>
+              <li
+                *ngIf="modules.indexOf('forms') > -1 && permissions.forms && permissions.forms.indexOf('read_all') > -1"
+                [ngClass]="{ active: currentRoute == 'forms' }"
+              >
+                <a class="mobile-feed-a" routerLink="/forms" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon icon="forms-image-active-1" [isActive]="currentRoute === 'forms'"> </app-svg-icon>
+                  {{ 'Forms' | translate }}
+                </a>
+              </li>
+              <li
+                *ngIf="modules.indexOf('signs') > -1 && permissions.signs && permissions.signs.indexOf('read_all') > -1"
+                [ngClass]="{ active: currentRoute == 'e-signs' }"
+              >
+                <a class="mobile-feed-a" routerLink="/e-signs" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon icon="signs-image-active-1" [isActive]="currentRoute === 'e-signs'"> </app-svg-icon>
+                  {{ 'E-signs' | translate }}
+                </a>
+              </li>
+              <li
+                *ngIf="
+                  modules.indexOf('invoices') > -1 &&
+                  permissions.invoices &&
+                  permissions.invoices.indexOf('read_all') > -1
+                "
+                [ngClass]="{ active: currentRoute == 'invoices' }"
+              >
+                <a class="mobile-feed-a" routerLink="/invoices" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon icon="invoices-image-active-1" [isActive]="currentRoute === 'invoices'"> </app-svg-icon>
+                  {{ 'Invoices' | translate }}
+                </a>
+              </li>
+              <li
+                *ngIf="modules.indexOf('notes') > -1 && permissions.notes && permissions.notes.indexOf('read_all') > -1"
+                [ngClass]="{
+                  active: currentRoute == 'notes' || currentRoute == 'notes/create'
+                }"
+              >
+                <a class="mobile-feed-a" routerLink="notes" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon
+                    icon="notes-image-active-1"
+                    [isActive]="currentRoute == 'notes' || currentRoute == 'notes/create'"
+                  >
+                  </app-svg-icon>
+                  {{ 'Notes' | translate }}
+                </a>
+              </li>
+              <li
+                *ngIf="modules.indexOf('tasks') > -1 && permissions.tasks && permissions.tasks.indexOf('read_all') > -1"
+                [ngClass]="{
+                  active: currentRoute == 'tasks' || currentRoute == 'tasks/create'
+                }"
+              >
+                <a class="mobile-feed-a" routerLink="tasks" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon
+                    icon="tasks-icon"
+                    [isActive]="currentRoute == 'tasks' || currentRoute == 'tasks/create'"
+                  >
+                  </app-svg-icon>
+                  {{ 'Tasks' | translate }}
+                </a>
+              </li>
+              <li
+                *ngIf="
+                  modules.indexOf('convos') > -1 && permissions.convos && permissions.convos.indexOf('read_all') > -1
+                "
+                [ngClass]="{ active: currentRoute == 'convos' }"
+              >
+                <a
+                  class="mobile-feed-a"
+                  routerLink="convos"
+                  (click)="expandedConvo = !expandedConvo; rootDiv.classList.remove('show-f')"
+                >
+                  <app-svg-icon icon="convo-image-active-1" [isActive]="currentRoute == 'convos'"> </app-svg-icon>
+                  {{ 'Convo' | translate }}
+                </a>
+              </li>
+              <li *ngIf="modules.indexOf('case') > -1" [ngClass]="{ active: currentRoute == 'info' }">
+                <a class="mobile-feed-a" routerLink="/info" (click)="rootDiv.classList.remove('show-f')">
+                  <app-svg-icon [width]="18" [height]="20" icon="info-image-active-1" [isActive]="currentRoute == 'info'">
+                  </app-svg-icon>
+                  {{ 'Info' | translate }}
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="case-participants" *ngIf="mobileMenuTabIndex === 1">
+            <div class="list-header">
+              <h3 translate>Your team</h3>
+              <button *ngIf="!showMobileTeamSearchBar" #mobileTeamSearchIcon class="search-button" translate>
+                <img [src]="'../images/icons/search.svg'" />
+              </button>
+              <input
+                [ngClass]="{ expanded: showMobileTeamSearchBar }"
+                #mobileTeamSearchInput
+                required
+                type="text"
+                placeholder="Search team members"
+                [(ngModel)]="teamSearch"
+              />
+            </div>
+            <ul class="list-h" *ngIf="!teamLoading">
+              <li *ngFor="let member of team | FilterPipe : teamSearch : 'full_name'">
+                <img width="50" height="50" [src]="utilsService.userAvatarUrl(member.user_id, 50, member.uuid)" />
+                <span class="mobile-title-text">{{ member.full_name }}</span>
+                <span class="mobile-subtitle-text">{{
+                  roleNamesById[member.case_role_id ? member.case_role_id : member.role_id]
+                }}</span>
+              </li>
+            </ul>
+          </div>
+
+          <p class="scheme-d" *ngIf="!todos?.data?.items?.length && mobileMenuTabIndex === 2">
+            <span class="hidden" translate>To do</span>
+            <img src="images/illustrations/g.svg" width="120" />
+            <span>{{ 'Great job!' | translate }}</span>
+            {{ 'You did all' | translate }} <br />
+            {{ 'the tasks' | translate }}.
+          </p>
+
+          <div class="scheme-d apps-todo" *ngIf="todos?.data?.items?.length && mobileMenuTabIndex === 2">
+            <h3 class="app-todo-label" translate>To Do:</h3>
+            <div *ngFor="let todo of todos.data.items; let i = index">
+              <div class="app-todo centered-todos-div">
+                <div>
+                  <div class="app-todo-title mobile-title-text">
+                    <span>{{ todo.name }}</span>
+                  </div>
+                  <div class="app-todo-date">
+                    <span>{{ convertToLocalDate(todo.due_date) }}</span>
+                  </div>
+                  <div class="app-todo-creator-name">
+                    <span>by {{ getToDosUserName(todo.user_id) }}</span>
+                  </div>
+                </div>
+                <div>
+                  <ca-button [text]="setButtonText(todo.todo_id)" [fontWeight]="600" [isHovered]="true" margin="0 0 20px" (btnClick)="redirectToSelectedToDo(todo.todo_id)"></ca-button>
+                </div>
+              </div>
+              <hr class="app-todo-bottom-line" *ngIf="i !== todos.data.items.length - 1" />
+            </div>
+          </div>
+        </nav>
+        <ul class="list-h">
+          <li *ngFor="let member of team">
+            <a href="">
+              <img [src]="userService.getAvatarUrl(50, member.picture)" width="50" height="50" />
+              <span>{{ member.given_name }} {{ member.family_name }}</span>
+              <span>{{ roleNamesById[member.role_id] }}</span>
+            </a>
+          </li>
+        </ul>
+        <p class="scheme-d">
+          <span class="hidden" translate>To do</span>
+          <img src="images/illustrations/g.svg" width="120" />
+          <span>{{ 'Great job!' | translate }}</span>
+          {{ 'You did all' | translate }} <br />
+          {{ 'the tasks' | translate }}.
+        </p>
+      </div>
+    </div>
+  </nav>
+
+  <form method="post" class="popup-a a form-d shown" *ngIf="shownConfirmationForm" (submit)="confirmRecordDelete()">
+    <div class="box-outer">
+      <div class="box-inner">
+        <h2 translate>{{ deleteConfirmationTitle }}</h2>
+
+        <p>{{ deleteConfirationMessage! | translate }}</p>
+        <p class="submit">
+          <button type="submit" translate>Yes</button>
+          <a (click)="dismissModal()" translate>Cancel</a>
+        </p>
+        <a class="close" (click)="dismissModal()" translate>Close</a>
+      </div>
+      <a class="close" (click)="dismissModal()" translate>Close</a>
+    </div>
+  </form>
+  <form method="post" class="popup-a a form-d shown" *ngIf="shownPushishConfirmationForm" (submit)="confirmPublish()">
+    <div class="box-outer">
+      <div class="box-inner">
+        <h2 translate>{{ title }}</h2>
+        <p>{{ confirmationMessage! | translate }}</p>
+        <p class="submit">
+          <button type="submit" translate>Publish</button>
+          <a (click)="confirmLater()" translate>Later</a>
+        </p>
+        <a class="close" (click)="dismissPublishModal()" translate>Close</a>
+      </div>
+      <a class="close" (click)="dismissPublishModal()" translate>Close</a>
+    </div>
+  </form>
+</div>
+
+<app-pop-in-box></app-pop-in-box>
+<app-server-error-modal *ngIf="showServerErrorModal === true"></app-server-error-modal>
+<app-accept-invitation-modal *ngIf="appsService.showModal" [app]="selectedApp!"></app-accept-invitation-modal>
+<app-main-page-loader *ngIf="!alwaysAuthGuard.authorized"></app-main-page-loader>
+<app-no-permission-to-case-modal
+  *ngIf="noPermissions"
+  (closeModal)="closeNoPermissionToCaseModal()"
+></app-no-permission-to-case-modal>
+
+<div class="popup-a a form-d shown" *ngIf="globalModalService.isChunkErrorModalShowed">
+  <div class="box-outer">
+    <div class="box-inner">
+      <ca-chunk-loading-error-modal (closeModal)="globalModalService.isChunkErrorModalShowed = false"></ca-chunk-loading-error-modal> 
+    </div>
+    
+    <a class="close" (click)="globalModalService.isChunkErrorModalShowed = false">Close</a>
+  </div>
+</div>

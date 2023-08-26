@@ -1,0 +1,84 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Kako dodeliti, spremeniti ali odstraniti uporabniške dodelitve z orodjem za uvoz
+</h1>
+<p>Ta članek prikazuje skrbnikom, kako upravljati uporabnike primerov z orodjem za uvoz.</p>
+<p>Skrbniki lahko:</p>
+<ul>
+  <li>dodelite uporabnike primeru</li>
+  <li>spremenite uporabnike, ki so že dodeljeni primeru</li>
+  <li>odstranite uporabnike, dodeljene primeru</li>
+</ul>
+<h2 id="opening-the-import-tool">Odpiranje orodja za uvoz</h2>
+<ol style="list-style-type: decimal">
+  <li>Prijavite se v skrbniški račun.</li>
+  <li>Poiščite aplikacijo na strani z aplikacijami in kliknite gumb SKRBNIK.</li>
+  <li>Kliknite zavihek Integracija in nato UVOZI v podmeniju.</li>
+  <li>Kliknite gumb NOVO. Prikaže se pogovorno okno Add Imports.</li>
+</ol>
+<h2 id="creating-records">Ustvarjanje zapisov</h2>
+<p>
+  Prenesite eno ali več datotek CSV. Uporabite te datoteke za dodajanje, spreminjanje ali odstranjevanje uporabnikov
+  primerov. Ko se odpre pogovorno okno Dodajanje uvozov:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite polje Vrsta.</li>
+  <li>Pomaknite se po spustnem meniju in izberite možnost (glejte spodaj). Prikaže se povezava.</li>
+  <li>Kliknite povezavo Prenesi vzorec. Datoteka CSV se prenese v vašo napravo.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>
+  Odprite datoteko in dodajte zapise. Kliknite tukaj, če želite izvedeti, kako uporabiti podatke o formatu v datoteki
+  CSV.
+</p>
+<h3 id="file-options">Možnosti datoteke</h3>
+<p>
+  <strong>Dodeli uporabnike primerom</strong> * Izberite to možnost, če želite dodati uporabnike primeru. * Pustite
+  celico case_role_order prazno. * Pojdite na stran Uporabniki in kopirajte ID oznake za to osebo. Če je polje ID oznake
+  prazno, vnesite enolični ID, kliknite Shrani in kopirajte ID v datoteko CSV.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Spremeni uporabnike, dodeljene primerom</strong> * Izberite to možnost za posodobitev podatkov za trenutne
+  uporabnike, dodeljene primeru. * Uporabite ID oznake primera za stolpec case_ID.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Odstrani uporabnike, dodeljene primerom</strong> * Izberite to možnost, če želite odstraniti uporabnike,
+  dodeljene primeru.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="uploading-the-file">Nalaganje datoteke</h2>
+<p>Datoteko lahko naložite takoj ali pa se pozneje vrnete v pogovorno okno Dodajanje uvozov in dokončate te korake.</p>
+<ol style="list-style-type: decimal">
+  <li>Odprite pogovorno okno Dodajanje uvozov.</li>
+  <li>Vnesite edinstveno ime za datoteko CSV.</li>
+  <li>Kliknite ikono plus (+), da naložite datoteko iz svoje naprave.</li>
+  <li>Kliknite polje Vrsta in izberite možnost. (glej zgoraj)</li>
+  <li>Kliknite SHRANI.</li>
+</ol>
+<h2 id="processing">Obravnavati</h2>
+<p>
+  Odvisno od števila zapisov v datoteki in obremenitve sistema lahko platforma za obdelavo uvoza potrebuje nekaj minut.
+</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>Ko je uvoz končan, platforma prilagodi uporabniške zapise (tj. doda, spremeni ali odstrani) na strani Primeri.</p>
+<h2 id="failure">Neuspeh</h2>
+<p>
+  Če operacija uvoza ne uspe, platforma vrne sporočilo Neuspešno. V večini primerov je vzrok napake formatiranje
+  podatkov.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Če želite videti vzrok napake:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite Pogled pod naslovom Dejanje.</li>
+  <li>Na naslednji strani se z miško pomaknite na ikono Neuspelo. Opis orodja prikaže napako.</li>
+  <li>Pojdite na datoteko CVS ter prilagodite in popravite napako.</li>
+  <li>Ponovno naložite datoteko.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>

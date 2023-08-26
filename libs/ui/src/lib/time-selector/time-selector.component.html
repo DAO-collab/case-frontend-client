@@ -1,0 +1,27 @@
+<div class="time-selector-wrapper" #wrapper tabindex="0" (click)="$event.stopPropagation()">
+  <input
+    #timeField
+    type="time"
+    [value]="selectedTime"
+    [ngClass]="{ valid: times!.indexOf(activeTime) > -1 }"
+    [disabled]="!enabled"
+    (change)="updateTime(timeField.value, $event)"
+    (focus)="openDropdown()"
+    (blur)="resetTimeAction()"
+  />
+  <ul
+    class="time-selector-dropdown custom-time-selector-color"
+    [hidden]="!showTimesList"
+    #dropField
+    (mousedown)="dropField.focus()"
+  >
+    <li
+      class="time-selector-option"
+      *ngFor="let time of times"
+      [ngClass]="{ 'time-selector-option-active': time === activeTime }"
+      (click)="updateTime(time, $event); wrapper.blur()"
+    >
+      {{ time }}
+    </li>
+  </ul>
+</div>

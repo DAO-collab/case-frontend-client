@@ -1,0 +1,112 @@
+<form method="post" title="upload-document" class="popup-a a form-d shown" [formGroup]="intakeModalForm!">
+  <div class="box-outer">
+    <div class="box-inner form-height">
+      <app-loader [active]="isLoading"></app-loader>
+
+      <ng-container *ngIf="!isLoading">
+        <h2 translate *ngIf="modeType === modalType.Create">Add Intake Form</h2>
+        <h2 translate *ngIf="modeType === modalType.Edit">Edit Intake Form</h2>
+
+        <div class="form">
+          <div class="form-container">
+            <div class="form-block right-margin bottom-split">
+              <p class="full-width no-float">
+                <span class="full-width no-float">
+                  <label class="required" name="user-type" translate>User Type</label>
+                  <ng-select
+                    name="user-type"
+                    id="userType"
+                    bindLabel="value"
+                    bindValue="id"
+                    placeholder="{{ 'No user type selected' | translate }}"
+                    formControlName="user_type"
+                    [items]="userDropdownFields"
+                  ></ng-select>
+                </span>
+              </p>
+
+              <p class="full-width no-float">
+                <span class="full-width no-float">
+                  <label class="required" name="intake-form" translate>Intake Form</label>
+                  <ng-select
+                    name="intake-form"
+                    id="intakeForm"
+                    bindLabel="value"
+                    bindValue="id"
+                    placeholder="{{ 'No intake form selected' | translate }}"
+                    formControlName="intake_id"
+                    [items]="intakeFormsId"
+                  ></ng-select>
+                </span>
+              </p>
+
+              <p class="full-width no-float select-date-time mb-0">
+                <span class="full-width no-float select-date">
+                  <label class="required" name="complete-after" [class.mb-0]="isDateMoreThenNow()" translate>
+                    Complete After Date
+                  </label>
+                </span>
+
+                <span class="full-width no-float">
+                  <label class="required" name="complete-after" [class.mb-0]="isDateMoreThenNow()" translate>
+                    Complete After Time
+                  </label>
+                </span>
+              </p>
+
+              <p class="full-width no-float select-date-time error-label mb-0" *ngIf="isDateMoreThenNow()" translate>
+                Date and time should be less or equal to now
+              </p>
+
+              <p class="full-width no-float select-date-time">
+                <span class="full-width no-float select-date">
+                  <input
+                    mwlFlatpickr
+                    dateFormat="m/d/Y"
+                    type="text"
+                    name="dueDate"
+                    id="dueDate"
+                    class="form-control"
+                    formControlName="due_date"
+                  />
+                </span>
+
+                <span class="full-width no-float">
+                  <input
+                    mwlFlatpickr
+                    [altInput]="true"
+                    altFormat="G:i:S K"
+                    dateFormat="G:i:S K"
+                    type="text"
+                    id="dueTime"
+                    class="form-control"
+                    formControlName="due_time"
+                    [noCalendar]="true"
+                    [enableSeconds]="true"
+                    [enableTime]="true"
+                    [convertModelValue]="true"
+                  />
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+
+      <p class="submit">
+        <button
+          type="submit"
+          class="f-right"
+          [disabled]="intakeModalForm?.invalid || isDateMoreThenNow()"
+          (click)="create()"
+          translate
+        >
+          Save
+        </button>
+      </p>
+
+      <a class="close" (click)="closeModal()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeModal()" translate>Close</a>
+  </div>
+</form>

@@ -1,0 +1,18 @@
+<footer id="footer">
+  <p>
+    <span [innerHTML]="'Made with' | translate"></span>
+    <span> </span>
+    <i class="icon-heart overlay-a"></i>
+    <span> </span>
+    <span class="hidden">love</span>
+    <span> </span>
+    <span [innerHTML]="'in New York City' | translate"></span>
+    <br />
+    &copy; CaseActive
+    <span class="date">{{ currentYear }}</span>
+    &nbsp;
+    <span [innerHTML]="'All rights reserved' | translate"></span>
+    <span> | </span>
+    <a routerLink="term-of-service" [innerHTML]="'Terms of Service' | translate" (click)="scrollPageToTop()"></a>
+  </p>
+</footer>

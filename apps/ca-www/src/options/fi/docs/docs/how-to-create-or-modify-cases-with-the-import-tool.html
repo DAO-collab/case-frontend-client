@@ -1,0 +1,104 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">Tapausten luominen tai muokkaaminen tuontityökalulla</h1>
+<p>
+  Tässä artikkelissa järjestelmänvalvojille kerrotaan, kuinka olemassa olevia tapauksia luodaan tai muokataan
+  tuontityökalulla.
+</p>
+<h2 id="opening-the-import-tool">Avaa tuontityökalu</h2>
+<ol style="list-style-type: decimal">
+  <li>Kirjaudu sisään järjestelmänvalvojan tilille.</li>
+  <li>Etsi sovellus Sovellukset-sivulta ja napsauta JÄRJESTELMÄNVALVOJA-painiketta.</li>
+  <li>Napsauta hallintapaneelin Integrointi-välilehteä ja sitten alivalikosta TUONTI.</li>
+  <li>Napsauta UUSI-painiketta. Lisää tuontia -valintaikkuna tulee näkyviin uuteen selaimen välilehteen.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Tapausten luominen</h2>
+<p>Kun Lisää tuonti -valintaikkuna avautuu:</p>
+<ol style="list-style-type: decimal">
+  <li>Napsauta Tyyppi-kenttää ja valitse vaihtoehto (katso alla). Näkyviin tulee linkki.</li>
+  <li>Napsauta Lataa näyte -linkkiä. CSV-tiedosto latautuu laitteellesi.</li>
+</ol>
+<p>Avaa seuraavaksi tiedosto ja lisää tapauksia.</p>
+<h2 id="type">Tyyppi</h2>
+<p>
+  Kun napsautat <strong>Tyyppi</strong> -kenttää, avattava valikko tulee näkyviin. Valitse yksi kahdesta vaihtoehdosta
+  joukkotuontiin.
+</p>
+<ul>
+  <li>
+    <strong>Huomautus</strong> Pudotusvalikossa on monia vaihtoehtoja, mutta vain kaksi liittyy tapauksen hallintaan.
+    Jokaisella vaihtoehdolla on erilainen CSV-mallitiedosto.
+  </li>
+</ul>
+<h3 id="add-cases">Lisää tapauksia</h3>
+<ul>
+  <li>Valitse tämä vaihtoehto tapausten yksinkertaiseen joukkolataukseen.</li>
+  <li>
+    Napsauta Lataa näyte -linkkiä avataksesi CSV-tiedoston, jossa on sarakeotsikot Luo tapaukset -tuontityyppiä varten.
+  </li>
+</ul>
+<h3 id="modify-cases">Muokkaa tapauksia</h3>
+<ul>
+  <li>Valitse tämä vaihtoehto päivittääksesi nykyiset tapaukset.</li>
+  <li>
+    Napsauta Lataa näyte -linkkiä avataksesi CSV-tiedoston, jossa on Muokkaa tapauksia -tuontityypin sarakeotsikot.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Tiedostoa ladataan</h2>
+<p>Voit ladata tiedoston heti tai palata Lisää tuonti -valintaikkunaan myöhemmin ja suorittaa nämä vaiheet.</p>
+<ol style="list-style-type: decimal">
+  <li>Avaa Lisää tuonti -valintaikkuna.</li>
+  <li>Anna CSV-tiedostolle yksilöllinen nimi.</li>
+  <li>Napsauta plus (+) -kuvaketta ladataksesi tiedoston laitteestasi.</li>
+  <li>Napsauta Tyyppi-kenttää ja valitse vaihtoehto. (Katso edellä)</li>
+  <li>Napsauta TALLENNA.</li>
+</ol>
+<div class="figure"><img src="/images/import-case-2.png" alt="img" /></div>
+<h2 id="formatting">Muotoilu</h2>
+<p>
+  Nämä ovat pakolliset kentät ja ensimmäiset vaatimukset. Napsauta
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">tästä</a> nähdäksesi
+  muotoilun tiedot.
+</p>
+<p>
+  <strong>tag_id (tai case_ID)</strong> yksilöllinen tunniste (käytä aakkosnumeerisia merkkejä, väliviivat hyväksytään)
+</p>
+<p><strong>case_status</strong> 0 = suljettu 1 = aktiivinen</p>
+<p><strong>päivämäärä_avaaminen</strong> kuukausi/päivä/vuosi kk/pp/vvvv</p>
+<p>tapauksen yksilöllisestä kuvauksesta (käytä aakkosnumeerisia merkkejä <strong>,</strong> väliviivat hyväksytään)</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Käsittely</h2>
+<p>
+  Riippuen tiedoston tietueiden määrästä ja järjestelmän kuormituksesta, alustan tuonnin käsittely voi kestää useita
+  minuutteja.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Kun tuonti on valmis, alusta säätää tapaustietueita (eli lisää tai muokkaa) järjestelmänvalvojan tapausten
+  hallintapaneelissa.
+</p>
+<h2 id="failure">Epäonnistuminen</h2>
+<p>
+  Jos tuontitoiminto epäonnistuu, alusta palauttaa Failed-sanoman. Useimmissa tapauksissa epäonnistumisen syy on
+  tietojen muotoilu.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Nähdäksesi vian syyn:</p>
+<ol style="list-style-type: decimal">
+  <li>Napsauta Näytä TOIMINTA-otsikon alla.</li>
+  <li>Vie hiiren osoitin seuraavalla sivulla epäonnistuneen kuvakkeen päälle. Työkaluvihje näyttää virheen.</li>
+  <li>Siirry CVS-tiedostoon ja säädä ja korjaa virhe.</li>
+  <li>Lataa tiedosto uudelleen.</li>
+</ol>
+<div class="figure"><img src="/images/create-case-11.png" alt="img" /></div>

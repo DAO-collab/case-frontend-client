@@ -1,0 +1,13 @@
+{
+  "AppSignup": "App was created successfully.",
+  "AvatarDeleted": "Avatar was deleted successfully.",
+  "AvatarUpdated": "Avatar was uploaded successfully.",
+  "CodeSent": "A confirmation code has been sent to your device.",
+  "DeviceVerified": "Device has been verified.",
+  "GlobalLogout": "Log out on all devices. See you soon.",
+  "LocalLogout": "Log out on this device. See you soon.",
+  "PasswordUpdated": "Password updated successfully.",
+  "ProfileUpdated": "Profile was updated successfully.",
+  "SignupPassword": "Account was created successfully.",
+  "TicketSent": "An email has been sent to the support team."
+}

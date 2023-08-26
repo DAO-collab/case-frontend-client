@@ -1,0 +1,18 @@
+{
+  "family_name": "Familiya",
+  "given_name": "Ism",
+  "locale": "Afzal ko&#39;rgan til",
+  "zoneinfo": "Vaqt zonasi",
+  "email": "Elektron pochta manzili",
+  "phone": "Telefon raqami",
+  "address1": "Ko&#39;cha manzili",
+  "address2": "Kv / # yoki birlik #",
+  "locality": "Shahar yoki mintaqa",
+  "region": "Davlat yoki mintaqa",
+  "postal_code": "Pochta yoki pochta indeksi",
+  "country": "Mamlakat",
+  "birthdate": "Tug&#39;ilgan sana",
+  "gender": "Jins",
+  "company": "Kompaniya",
+  "title": "Ismning nomi"
+}

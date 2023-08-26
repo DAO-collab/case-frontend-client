@@ -1,0 +1,55 @@
+<div class="popup-a a form-d shown form-pass position-fixed">
+  <div class="box-outer modal-bg">
+    <div class="box-inner">
+      <div class="modal-header">
+        <h2 class="unsubscribe-flex">
+          <span class="company-name">{{ getCompanyName() }}</span>
+          <a routerLink="/apps">
+            <img
+              class="unsubscribe-img"
+              alt=""
+              src="https://develop-cdn-public.caseactive.net/hosts/ca-main/logo/images/logo.png"
+            />
+          </a>
+        </h2>
+      </div>
+      <div *ngIf="pageIndex === pageIndexes.SelectOption; else thankYouPage">
+        <div class="introductory-text">
+          <div>{{ 'You will no longer receive email marketing from the list.' | translate }}</div>
+          <div>{{ 'If you have a moment, please let us know why you unsubscribed:' | translate }}</div>
+        </div>
+        <div class="reasons-content" *ngIf="unsubscribeReasons.length">
+          <div class="reason-body" *ngFor="let reason of unsubscribeReasons">
+            <input
+              type="radio"
+              class="unsubscribe-radio"
+              name="reason-radio"
+              [value]="reason.type"
+              (change)="onSelectRadio($any($event.target))"
+            />
+            <span class="unsubscribe-reason-text">{{ reason.message | translate }}</span>
+          </div>
+        </div>
+      </div>
+      <p class="submit unsubscribe-submit">
+        <a routerLink="/">{{ 'Return to our website' | translate }}</a>
+        <button
+          *ngIf="pageIndex !== pageIndexes.ThankYouPage"
+          type="submit"
+          [disabled]="!checkedRadioValue"
+          (click)="onSubmit()"
+        >
+          <span>{{ 'Submit' | translate }}</span>
+        </button>
+      </p>
+    </div>
+  </div>
+</div>
+
+<ng-template #thankYouPage>
+  <div class="thank-you-page-wrapper">
+    <div class="introductory-text">
+      <span translate>Thank you. Your response has been submitted.</span>
+    </div>
+  </div>
+</ng-template>

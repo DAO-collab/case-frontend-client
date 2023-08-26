@@ -1,0 +1,57 @@
+<article id="content" class="module-d">
+  <div class="table-wrapper">
+    <table class="table-a" *ngIf="tasks.length && !loading">
+      <tr>
+        <th translate>Tag ID</th>
+        <th translate>Subtasks Count</th>
+        <th translate>Created On</th>
+        <th translate>Media</th>
+        <th translate>Permissions</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let task of tasks; let index = index">
+        <td>{{ task.tag_id }}</td>
+        <td>{{ task.tasks_ct }}</td>
+        <td>{{ task.created_on | date : 'longDate' }}</td>
+        <td>{{ task.media_ct }}</td>
+        <td>{{ normalizeRolesList(task?.permissions!) }}</td>
+        <td>
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="editTask(task)">
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit settings
+              </a>
+              <a
+                appConfirmationPopUp
+                [message]="'You are about to delete e-sign. Are you sure?'"
+                title="Delete E-sign"
+                (yes)="deleteTask(tasks, index)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Delete task
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <app-loader [active]="loading"></app-loader>
+
+  <p *ngIf="tasks.length === 0 && !loading" class="text-center" translate>No tasks yet.</p>
+</article>
+
+<app-form-modal
+  *ngIf="shownPopUp$ | async"
+  [form]="taskForm!"
+  [mode]="formModalMode"
+  [docType]="$any(createFormType)"
+  [roles]="roles"
+  (submitForm)="saveOrEditTask($event)"
+  (closeModal)="cancelAddingTask()"
+></app-form-modal>
+
+<ng-container *ngIf="getRoles$ | async"></ng-container>

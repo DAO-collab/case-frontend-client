@@ -1,0 +1,154 @@
+span.actions-on-field {
+  /* width: 100%; */
+  display: block;
+  text-align: right;
+  padding: 0 5px;
+  background: rgba(27, 27, 27, 0);
+  position: absolute;
+  top: 0;
+  bottom: -26px;
+  height: 0px;
+  transition: 0.2s ease-in-out;
+  z-index: -2;
+  max-height: 20px;
+  right: 0;
+  top: 0;
+  z-index: 999;
+}
+
+span label {
+  text-align: left;
+  padding: 3px 5px 0;
+}
+
+.top-left {
+  top: -5px;
+  left: -5px;
+}
+
+.top-right {
+  top: -5px;
+  right: -5px;
+}
+
+.bottom-left {
+  bottom: -5px;
+  left: -5px;
+}
+
+.bottom-right {
+  bottom: -5px;
+  right: -5px;
+}
+
+.d-field-wrapper {
+  display: flex;
+  padding: 4px;
+  flex-direction: column;
+}
+
+.d-field-wrapper span .form-control {
+  height: 100% !important;
+}
+
+.checklist-d label span {
+  display: inline-block;
+  clear: both;
+  width: 61px;
+  position: relative;
+  z-index: 9;
+  margin-left: 28px;
+}
+
+.checklist-d label .input {
+  left: 5px;
+}
+
+.checklist-d .radio input[type='radio'] {
+  height: 25px;
+  display: block;
+  opacity: 0;
+  width: 23px;
+  margin-left: 0px;
+}
+
+span.boolen-field > label {
+  vertical-align: top;
+  float: left;
+}
+
+.field-body {
+  flex-grow: 1;
+  height: 100% !important;
+}
+
+span.boolen-field label.container {
+  width: 24px;
+  clear: none;
+  margin: 5px 0px 0px 5px;
+  padding: 0;
+}
+
+span.boolen-field {
+  min-width: 266px;
+  position: relative;
+}
+
+.d-field-wrapper textarea {
+  min-height: 10px;
+  max-width: calc(100% - 10px);
+  max-height: calc(100% - 40px);
+  height: 100%;
+  margin: 0 auto;
+}
+
+.d-field-wrapper > span {
+  display: block;
+  clear: both;
+  height: 100%;
+  top: 2px;
+}
+
+.d-field-wrapper {
+  height: 100%;
+}
+
+.title-hide {
+  opacity: 0;
+}
+
+.title-show {
+  opacity: 1;
+}
+
+::ng-deep app-doc-intake-preview {
+  margin: 5px;
+  z-index: 20;
+  background: transparent;
+}
+::ng-deep app-doc-intake-preview > div > span {
+  height: unset !important;
+}
+
+::ng-deep app-doc-intake-preview:focus {
+  outline: unset !important;
+}
+
+:host ::ng-deep .date-input,
+:host ::ng-deep .time-input {
+  height: 100% !important;
+}
+
+ng-select {
+  height: 100% !important;
+}
+
+ng-select ::ng-deep .ng-input,
+ng-select ::ng-deep .ng-select-container {
+  height: 100% !important;
+}
+
+ng-select ::ng-deep .ng-value {
+  display: flex;
+  align-items: center;
+}

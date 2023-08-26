@@ -1,0 +1,13 @@
+{
+  "AppSignup": "L&#39;aplicaci\u00f3 s&#39;ha creat correctament.",
+  "AvatarDeleted": "Avatar s&#39;ha eliminat correctament.",
+  "AvatarUpdated": "Avatar s&#39;ha pujat amb \u00e8xit.",
+  "CodeSent": "S&#39;ha enviat un codi de confirmaci\u00f3 al vostre dispositiu.",
+  "DeviceVerified": "S&#39;ha verificat el dispositiu.",
+  "GlobalLogout": "Tanqueu tots els dispositius. Fins aviat.",
+  "LocalLogout": "Tanqueu aquest dispositiu. Fins aviat.",
+  "PasswordUpdated": "S&#39;ha actualitzat la contrasenya amb \u00e8xit.",
+  "ProfileUpdated": "El perfil s&#39;ha actualitzat correctament.",
+  "SignupPassword": "S&#39;ha creat el compte amb \u00e8xit.",
+  "TicketSent": "S&#39;ha enviat un correu electr\u00f2nic a l&#39;equip de suport."
+}

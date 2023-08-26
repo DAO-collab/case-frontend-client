@@ -1,0 +1,18 @@
+{
+  "family_name": "Pavard\u0117",
+  "given_name": "Pirmas vardas",
+  "locale": "Pageidautina kalba",
+  "zoneinfo": "Laiko zona",
+  "email": "Elektroninio pa\u0161to adresas",
+  "phone": "Telefono numeris",
+  "address1": "Gatv\u0117s adresas",
+  "address2": "Apt Nr.",
+  "locality": "Miestas ar vietov\u0117",
+  "region": "Valstyb\u0117 ar regionas",
+  "postal_code": "Pa\u0161to ar pa\u0161to kodas",
+  "country": "\u0160alis",
+  "birthdate": "Gimimo data",
+  "gender": "Lytis",
+  "company": "\u012emon\u0117",
+  "title": "Vardas Pavadinimas"
+}

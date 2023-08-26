@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Matagumpay na nalikha ang app.",
+  "AvatarDeleted": "Matagumpay na tinanggal ang Avatar.",
+  "AvatarUpdated": "Matagumpay na na-upload ang Avatar.",
+  "CodeSent": "Naipadala na ang isang code ng kumpirmasyon sa iyong device.",
+  "DeviceVerified": "Na-verify ang device.",
+  "GlobalLogout": "Mag-log out sa lahat ng mga device. Hanggang sa muli.",
+  "LocalLogout": "Mag-log out sa device na ito. Hanggang sa muli.",
+  "PasswordUpdated": "Matagumpay na na-update ang password.",
+  "ProfileUpdated": "Matagumpay na na-update ang profile.",
+  "SignupPassword": "Matagumpay na nilikha ang account.",
+  "TicketSent": "Ang isang email ay ipinadala sa koponan ng suporta."
+}

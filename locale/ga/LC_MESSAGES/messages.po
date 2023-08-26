@@ -1,0 +1,4521 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.350098\n"
+"PO-Revision-Date: 2019-03-13T10:04:21.669203\n"
+"Language: ga\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Ba cheart duit comhad íomhá a roghnú."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Uaslódáil doiciméad, marcáil é le síniú, agus ansin logálann an cliant "
+"isteach é agus síníonn sé é. Déantar gach rud gan an cliant a bheith ag "
+"teacht isteach inár bhfoirgneamh. Tá sé seo áisiúil le cliaint nach bhfuil "
+"gar d’oifig nó a bhfuil cónaí orthu lasmuigh den stát."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Stiúrthóir Oibríochtaí Árachais Chaipitil"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Is féidir lenár gcomhpháirtithe logáil isteach agus faisnéis bhunúsach a "
+"fheiceáil faoin gcaoi a bhfuil a gcás atreoraithe ag dul. Mhéadaigh sé seo "
+"go mór ár n-atreoruithe cáis ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Comhpháirtí in Oifig Dlí Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Ní gá dúinn cliaint a fheiceáil san oifig le haghaidh cruinnithe a "
+"thuilleadh, agus tá síniú doiciméad críochnaithe ar líne - thar cionn!"
+
+msgid "CEO of EL Passion"
+msgstr "POF EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Agus an API á úsáid againn, rinneamar uathoibriú iomlán ar an méid a bhí ar "
+"taispeáint sa bheatha cás, bunaithe ar spreagthóirí ar leith inár gcóras atá"
+" ann cheana. Go leor áisiúil .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Bainisteoir TF ar Dhlíodóirí Díobhála Carter Mario"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Tá a lán cliant ilteangach againn a bhaineann úsáid as gné an aistriúcháin. "
+"Déanaimid teachtaireachtaí a phostáil le muinín go dtuigfidh gach duine iad."
+" Ligeann sé seo dúinn bogadh ó obair áitiúil go hobair dhomhanda."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "POF Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Is breá le cliaint é! Déanann sé a saol i bhfad níos éasca. Is féidir leo "
+"saincheisteanna a phlé linn ar líne, grianghraif agus cáipéisí a uaslódáil, "
+"agus stóráiltear gach rud inar féidir leis an bhfoireann agus an cliant "
+"féachaint air."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Comhpháirtí le Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Is breá linn an sonrascadh cás toisc go ligeann sé do chliaint a fheiceáil "
+"go díreach cad atá siad ag íoc as."
+
+msgid "Vice President of Sky Digital"
+msgstr "Leas-Uachtarán Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Tá cumarsáid thrasnasctha cosúil le do chuid uirlisí meán sóisialta agus "
+"comhoibrithe go léir a bheith agat in aon áit amháin."
+
+msgid "Director Of Complaint Management"
+msgstr "Stiúrthóir Bainistíochta Gearán"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Cuireann foirmeacha cásanna ar ár gcumas éisteacht agus foghlaim, ag cuidiú "
+"linn díolacháin a mhéadú trí aiseolas ó chustaiméirí."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Stiúrthóir Díolachán Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Tá an comhéadan úsáideora an-chosúil le Facebook. Tá sé thar a bheith éasca "
+"le húsáid .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Comhpháirtí le Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Tá biorán seolta chuig"
+
+msgid "Cancel"
+msgstr "Cealaigh"
+
+msgid "Send New Pin"
+msgstr "Seol Bioráin Nua"
+
+msgid "Need Help?"
+msgstr "Teastaionn Cabhair?"
+
+msgid "Click here to contact us"
+msgstr "Cliceáil anseo chun teagmháil a dhéanamh linn"
+
+msgid "Next"
+msgstr "Ar aghaidh"
+
+msgid "Login or Signup"
+msgstr "Logáil isteach nó Cláraigh"
+
+msgid "Invalid email entered"
+msgstr "Seoladh ríomhphoist neamhbhailí isteach"
+
+msgid "Processing..."
+msgstr "Próiseáil ..."
+
+msgid "Made with"
+msgstr "Déanta le"
+
+msgid "love"
+msgstr "grá"
+
+msgid "in New York City"
+msgstr "i Nua-Eabhrac"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Gach ceart ar cosaint"
+
+msgid "Terms of Use"
+msgstr "Téarmaí Úsáide"
+
+msgid "Contact Us"
+msgstr "Glaoigh orainn"
+
+msgid "Username"
+msgstr "Ainm úsáideora"
+
+msgid "Code"
+msgstr "cód"
+
+msgid "New Password"
+msgstr "Focal Faire Nua"
+
+msgid "Confirm Password"
+msgstr "Deimhnigh Pasfhocal"
+
+msgid "Set Your New Password"
+msgstr "Socraigh Do Pasfhocal Nua"
+
+msgid "A code has been sent to"
+msgstr "Cuireadh cód chuig"
+
+msgid "Change Password"
+msgstr "Athraigh do phasfhocal"
+
+msgid "Changing..."
+msgstr "Athrú ..."
+
+msgid "Login"
+msgstr "Logáil isteach"
+
+msgid "Forgot password?"
+msgstr "Dearmad ar pasfhocal?"
+
+msgid "Help"
+msgstr "Cabhrú"
+
+msgid "Email or Phone"
+msgstr "R-phost nó Fón"
+
+msgid "Reset Password"
+msgstr "Focal Faire Athshocraigh"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Cuir isteach an seoladh r-phoist nó an uimhir theileafóin a bhaineann le do "
+"chuntas, ansin cliceáil Cuir isteach. Seolfaimid nasc chuig leathanach nó "
+"seol téacs chugat le leathanach inar féidir leat pasfhocal nua a chruthú go "
+"héasca."
+
+msgid "Request Code"
+msgstr "Cód Iarratas"
+
+msgid "Requesting..."
+msgstr "Ag iarraidh ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "Tá CASEACTIVE ag teacht go luath"
+
+msgid "Create a free account"
+msgstr "Cruthaigh cuntas saor in aisce"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Táimid ag baint deiridh leis. Tabharfaimid fógra duit nuair a bheidh sé "
+"réidh!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Tá tú nóiméad ó chomhoibriú níos fearr."
+
+msgid "First Name"
+msgstr "Ainm"
+
+msgid "Last Name"
+msgstr "Sloinne"
+
+msgid "Email"
+msgstr "Ríomhphost"
+
+msgid "Company"
+msgstr "Cuideachta"
+
+msgid "No language selected"
+msgstr "Níl aon teanga roghnaithe"
+
+msgid "I agree with"
+msgstr "Aontaím leis"
+
+msgid "Terms of Service"
+msgstr "Tearmaí Seirbhís"
+
+msgid "Language"
+msgstr "Teanga"
+
+msgid "Have at least one lower case character"
+msgstr "Tá carachtar amháin ar a laghad acu"
+
+msgid "Have at least one capital letter"
+msgstr "Bíodh litir chaipitil amháin ar a laghad agat"
+
+msgid "Have at least one number"
+msgstr "Bíodh uimhir amháin ar a laghad agat"
+
+msgid "Have at least 8 characters in length"
+msgstr "Bíodh 8 gcarachtar ar a laghad acu"
+
+msgid "Type your current password"
+msgstr "Clóscríobh do phasfhocal reatha"
+
+msgid "Passwords must match"
+msgstr "Caithfidh pasfhocail teacht le chéile"
+
+msgid "Domains"
+msgstr "Fearainn"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Tá Javascript faoi mhíchumas. Cumasaigh é."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "dhéantar fianáin a dhíchumasú. Cumasaigh é."
+
+msgid "New"
+msgstr "Nua"
+
+msgid "Create A New App"
+msgstr "Cruthaigh Aip Nua"
+
+msgid "Apps"
+msgstr "Apps"
+
+msgid "Profile"
+msgstr "Próifíl"
+
+msgid "Logout"
+msgstr "Logáil Amach"
+
+msgid "Hi"
+msgstr "Haigh"
+
+msgid "View your account"
+msgstr "Féach ar do chuntas"
+
+msgid "View page"
+msgstr "Féach ar an leathanach"
+
+msgid "You don’t have any apps"
+msgstr "Níl aon aipeanna agat"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "Riarachán"
+
+msgid "Notifications"
+msgstr "Fógraí"
+
+msgid "No notifications yet."
+msgstr "Níl aon fhógraí fós."
+
+msgid "Today"
+msgstr "Inniu"
+
+msgid "Last Week"
+msgstr "An tseachtain seo caite"
+
+msgid "No timezone selected"
+msgstr "Ní roghnaíodh aon limistéar ama"
+
+msgid "Complete profile to continue"
+msgstr "Próifíl iomlán le leanúint ar aghaidh"
+
+msgid "Timezone"
+msgstr "crios ama"
+
+msgid "Update"
+msgstr "Nuashonraigh"
+
+msgid "Website:"
+msgstr "Suíomh Gréasáin:"
+
+msgid "Homepage:"
+msgstr "Leathanach baile:"
+
+msgid "Approve Access"
+msgstr "Rochtain a Fhormheas"
+
+msgid "Info"
+msgstr "Eolas"
+
+msgid "Permissions"
+msgstr "Ceadanna"
+
+msgid "Billing"
+msgstr "Billeáil"
+
+msgid "Payment Plan"
+msgstr "Plean Íocaíochta"
+
+msgid "Edit"
+msgstr "Cuir in eagar"
+
+msgid "Save"
+msgstr "Sábháil"
+
+msgid "has access to your information below:"
+msgstr "tá rochtain aige ar do chuid faisnéise thíos:"
+
+msgid "has invited you to their client portal."
+msgstr "Thug mé cuireadh duit chuig tairseach a gcliant."
+
+msgid "want access to the following information:"
+msgstr "ag iarraidh rochtain ar an bhfaisnéis seo a leanas:"
+
+msgid "Decline"
+msgstr "Meath"
+
+msgid "Remove Access"
+msgstr "Bain Rochtain"
+
+msgid "Active"
+msgstr "Gníomhach"
+
+msgid "Invites"
+msgstr "cuireadh"
+
+msgid "Disabled"
+msgstr "Faoi mhíchumas"
+
+msgid "No apps found"
+msgstr "Níor aimsíodh aipeanna"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "úsáideoir"
+
+msgid "manager"
+msgstr "bainisteoir"
+
+msgid "active"
+msgstr "gníomhach"
+
+msgid "inactive"
+msgstr "neamhghníomhach"
+
+msgid "Company Name"
+msgstr "Ainm na Cuideachta"
+
+msgid "Type"
+msgstr "cineál"
+
+msgid "Status"
+msgstr "stádas"
+
+msgid "Invitation"
+msgstr "Cuireadh"
+
+msgid "About App"
+msgstr "Maidir le App"
+
+msgid "Billing Info"
+msgstr "Eolas Billeála"
+
+msgid "Your Company Name"
+msgstr "D&#39;ainm Cuideachta"
+
+msgid "Your Company Website"
+msgstr "Do Chuideachta láithreán"
+
+msgid "Saving..."
+msgstr "Shábháil..."
+
+msgid "Billing Information"
+msgstr "Eolas Billeála"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Cuir isteach ID an APP a chuir an chuideachta ar fáil"
+
+msgid "Select an option"
+msgstr "Roghnaigh rogha"
+
+msgid "Join an existing app as a client"
+msgstr "Glac páirt in aip reatha mar chliant"
+
+msgid "Create a new app for my business"
+msgstr "Cruthaigh app nua do mo ghnó"
+
+msgid "Create Domain"
+msgstr "Cruthaigh Fearann"
+
+msgid "Select enterprise app"
+msgstr "Roghnaigh app fiontraíochta"
+
+msgid "No item selected"
+msgstr "Níor roghnaíodh aon mhír"
+
+msgid "Domain name"
+msgstr "Ainm fearainn"
+
+msgid "Add"
+msgstr "Cuir"
+
+msgid "No enterprise app found"
+msgstr "Níor aimsíodh aon aip fiontraíochta"
+
+msgid "Pending"
+msgstr "Ar feitheamh"
+
+msgid "No domains found"
+msgstr "Níor aimsíodh aon fhearainn"
+
+msgid "Domain"
+msgstr "Fearann"
+
+msgid "Txt Value"
+msgstr "Luach txt"
+
+msgid "Enterprise Host ID"
+msgstr "ID Óstach Fiontair"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Gníomh"
+
+msgid "Delete"
+msgstr "Scrios"
+
+msgid "Reset"
+msgstr "Athshocraigh"
+
+msgid "Allow Manual Sign In"
+msgstr "Ceadaigh síniú isteach de láimh"
+
+msgid "Exclude Emails From SSO"
+msgstr "Eisigh Ríomhphoist ó SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Meiteashonraí Soláthraí Aitheantais SAML"
+
+msgid "Submit"
+msgstr "Cuir isteach"
+
+msgid "Profile photo"
+msgstr "Próifíl grianghraf"
+
+msgid "Uploading..."
+msgstr "Uaslódáil ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "a d’éiligh cuntas eile, le do thoil, athraigh é nó"
+
+msgid "reclaim"
+msgstr "aisghabháil"
+
+msgid "it"
+msgstr "sé"
+
+msgid "pending verification:"
+msgstr "ar feitheamh fíorú:"
+
+msgid "verify"
+msgstr "fhíorú"
+
+msgid "Phone Number"
+msgstr "Uimhir teileafón"
+
+msgid "Current Password"
+msgstr "Pasfhocal reatha"
+
+msgid "Change password"
+msgstr "Athraigh do phasfhocal"
+
+msgid "No gender selected"
+msgstr "Gan aon inscne a roghnaíodh"
+
+msgid "Company Title"
+msgstr "Title Company"
+
+msgid "Address"
+msgstr "seoladh"
+
+msgid "Address 2"
+msgstr "Seoladh 2"
+
+msgid "City/Locality"
+msgstr "Cathair / Ceantar"
+
+msgid "State/Region"
+msgstr "Stáit / Réigiún"
+
+msgid "No country selected"
+msgstr "Níl aon tír roghnaithe"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / Postal Code"
+
+msgid "Basic"
+msgstr "Bunúsach"
+
+msgid "Date of Birth"
+msgstr "Dáta breithe"
+
+msgid "Gender"
+msgstr "Inscne"
+
+msgid "Occupation"
+msgstr "Cineál oibre"
+
+msgid "Location"
+msgstr "suíomh"
+
+msgid "Address is not valid"
+msgstr "Níl an seoladh bailí"
+
+msgid "City/Locality is not valid"
+msgstr "Níl Cathair / Ceantar bailí"
+
+msgid "Country"
+msgstr "Tír"
+
+msgid "State/Region is not valid"
+msgstr "Níl an Stát / Réigiún bailí"
+
+msgid "Contact Info"
+msgstr "Eolas teagmhála"
+
+msgid "Language & Region"
+msgstr "Teanga &amp; Réigiún"
+
+msgid "Saving"
+msgstr "Shábháil"
+
+msgid "Verify Your"
+msgstr "Fíoraigh Do"
+
+msgid "Verification Code"
+msgstr "Cód fíorúcháin"
+
+msgid "Resend Code"
+msgstr "Cóip ar ais"
+
+msgid "Resending"
+msgstr "Ag fágáil"
+
+msgid "Verify"
+msgstr "Fíoraigh"
+
+msgid "Verifying..."
+msgstr "Ag fíorú ..."
+
+msgid "Later"
+msgstr "Níos déanaí"
+
+msgid "We're here to help"
+msgstr "Tá muid anseo le cuidiú"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Go raibh maith agat as teagmháil a dhéanamh linn. Tá do theachtaireacht "
+"seolta go rathúil. Rachaimid i dteagmháil leat go han-luath!"
+
+msgid "Message"
+msgstr "Teachtaireacht"
+
+msgid "characters left"
+msgstr "carachtair fágtha"
+
+msgid "Recaptcha"
+msgstr "recaptcha"
+
+msgid "Send"
+msgstr "Seol"
+
+msgid "Sending..."
+msgstr "Seoladh ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Ní bhfaighidh tú margaíocht ríomhphoist ón liosta a thuilleadh."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Má tá nóiméad agat, cuir in iúl dúinn cén fáth ar dhíliostáil tú:"
+
+msgid "Return to our website"
+msgstr "Fill ar ár suíomh Gréasáin"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Go raibh maith agat. Tá do fhreagra curtha isteach."
+
+msgid "No Cases"
+msgstr "Uimh Cásanna"
+
+msgid "Layout"
+msgstr "Leagan Amach"
+
+msgid "Gallery"
+msgstr "Gailearaí"
+
+msgid "Speaker"
+msgstr "Cainteoir"
+
+msgid "This case has been closed"
+msgstr "Tá an cás seo dúnta"
+
+msgid "Feed"
+msgstr "Feed"
+
+msgid "Images"
+msgstr "Íomhánna"
+
+msgid "Docs"
+msgstr "Doiciméid"
+
+msgid "Audios"
+msgstr "Audios"
+
+msgid "Videos"
+msgstr "Físeáin"
+
+msgid "Files"
+msgstr "Comhaid"
+
+msgid "Events"
+msgstr "Imeachtaí"
+
+msgid "Forms"
+msgstr "Foirmeacha"
+
+msgid "E-signs"
+msgstr "E-comharthaí"
+
+msgid "Invoices"
+msgstr "Sonraisc"
+
+msgid "Notes"
+msgstr "Nótaí"
+
+msgid "Tasks"
+msgstr "Tascanna"
+
+msgid "Convo"
+msgstr "Cóbh"
+
+msgid "Great job!"
+msgstr "Post iontach!"
+
+msgid "You did all"
+msgstr "Rinne tú go léir"
+
+msgid "the tasks"
+msgstr "na tascanna"
+
+msgid "Media"
+msgstr "Meáin"
+
+msgid "Skip to navigation (n)"
+msgstr "Skip to navigation (n)"
+
+msgid "Skip to content (c)"
+msgstr "Scipeáil chuig ábhar (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Téigh go dtí an buntásc (f)"
+
+msgid "Case"
+msgstr "Cás"
+
+msgid "Search"
+msgstr "Cuardaigh"
+
+msgid "Using Form Builder"
+msgstr "Ag baint úsáide as Foirm Tógálaí"
+
+msgid "Using Forms Library"
+msgstr "Leabharlann Foirmeacha a Úsáid"
+
+msgid "Using E-sign Builder"
+msgstr "Ag baint úsáide as Tógálaí Ríomhchomhartha"
+
+msgid "Using E-signs Library"
+msgstr "Ag baint úsáide as Leabharlann Ríomhchomharthaí"
+
+msgid "Documents"
+msgstr "Doiciméid"
+
+msgid "Create Note"
+msgstr "Cruthaigh Nóta"
+
+msgid "Edit Note"
+msgstr "Nóta Athraithe"
+
+msgid "End Convo"
+msgstr "Cuir deireadh le Convo"
+
+msgid "Create Form"
+msgstr "Cruthaigh Foirm"
+
+msgid "Create Sign"
+msgstr "Cruthaigh Cláraigh"
+
+msgid "Event Create"
+msgstr "Imeacht Cruthaigh"
+
+msgid "Convo Videos"
+msgstr "Físeáin Convo"
+
+msgid "Convo Audios"
+msgstr "Fuaimeanna Convo"
+
+msgid "Cases"
+msgstr "Cásanna"
+
+msgid "Case categories"
+msgstr "Catagóirí cásanna"
+
+msgid "Your team"
+msgstr "Do fhoireann"
+
+msgid "To do"
+msgstr "A dhéanamh"
+
+msgid "To Do:"
+msgstr "A dhéanamh:"
+
+msgid "Case Categories"
+msgstr "Catagóirí Cásanna"
+
+msgid "Your Team"
+msgstr "Do Fhoireann"
+
+msgid "To Do"
+msgstr "A dhéanamh"
+
+msgid "Yes"
+msgstr "Sea"
+
+msgid "Close"
+msgstr "Dún"
+
+msgid "Publish"
+msgstr "Fhoilsiú"
+
+msgid "Visibility"
+msgstr "Léargas"
+
+msgid "all"
+msgstr "go léir"
+
+msgid "sign"
+msgstr "comhartha"
+
+msgid "Page"
+msgstr "Leathanach"
+
+msgid "of"
+msgstr "de"
+
+msgid "Processing"
+msgstr "Próiseáil"
+
+msgid "failed."
+msgstr "theip."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Ba cheart go mbeadh luach níos mó nó cothrom le 1"
+
+msgid "Repeat end:"
+msgstr "Deireadh arís:"
+
+msgid "Signature"
+msgstr "Síniú"
+
+msgid "Draw"
+msgstr "Tarraing"
+
+msgid "Write"
+msgstr "Scríobh"
+
+msgid "Clear Signature"
+msgstr "Síniú Glan"
+
+msgid "Still processing video..."
+msgstr "Físeán á phróiseáil fós ..."
+
+msgid "You"
+msgstr "tu"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Tá tú ar tí fotha a scriosadh. An bhfuil tú cinnte?"
+
+msgid "No convo audios yet"
+msgstr "Níl aon fhuaimeanna convo fós"
+
+msgid "No convo videos yet"
+msgstr "Níl aon fhíseáin convo fós"
+
+msgid "Start Convo"
+msgstr "Tosaigh Convo"
+
+msgid "Notify the Host"
+msgstr "Fógra a thabhairt don Óstach"
+
+msgid "is in the call"
+msgstr "atá sa ghlao"
+
+msgid "and"
+msgstr "agus"
+
+msgid "others are in the call"
+msgstr "tá daoine eile sa ghlao"
+
+msgid "Audio call is being recorded"
+msgstr "Tá glao fuaime á thaifeadadh"
+
+msgid "Video call is being recorded"
+msgstr "Tá físghlao á thaifeadadh"
+
+msgid "Join now"
+msgstr "Glac páirt anois"
+
+msgid "Dismiss"
+msgstr "Díbhe"
+
+msgid "Can’t find your "
+msgstr "Ní féidir do chuid a aimsiú"
+
+msgid "microphone"
+msgstr "micreafón"
+
+msgid "Check your system settings to make sure that "
+msgstr "Seiceáil do shocruithe córais lena chinntiú go bhfuil"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"ar fáil. Mura bhfuil, plugáil isteach é. Seans go mbeidh ort do bhrabhsálaí "
+"a atosú."
+
+msgid "web camera"
+msgstr "ceamara gréasáin"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Tá tú chun glaoch Convo a thosú. Tosaigh le:"
+
+msgid "Video & Audio"
+msgstr "Fís & Fuaim"
+
+msgid "Audio Only"
+msgstr "Fuaime Amháin"
+
+msgid "Record the meeting"
+msgstr "Taifead an cruinniú"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Ag fanacht le duine a bhfuil cead aige glaoch Convo a thosú"
+
+msgid "Add Ticket"
+msgstr "Cuir Ticéad leis"
+
+msgid "Title"
+msgstr "Teideal"
+
+msgid "Open"
+msgstr "Oscail"
+
+msgid "Closed"
+msgstr "Dúnta"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Tá tú ar tí ticéad a dhúnadh. An bhfuil tú cinnte?"
+
+msgid "Announcements"
+msgstr "Fógraí"
+
+msgid "Support"
+msgstr "Tacaíocht"
+
+msgid "Opened"
+msgstr "Oscailte"
+
+msgid "View"
+msgstr "Amharc"
+
+msgid "Locations"
+msgstr "Suímh"
+
+msgid "You currently have no announcements."
+msgstr "Níl aon fhógraí agat faoi láthair."
+
+msgid "You currently have no"
+msgstr "Níl aon"
+
+msgid "open cases. Click"
+msgstr "cásanna oscailte. Cliceáil"
+
+msgid "here"
+msgstr "anseo"
+
+msgid "to contact support."
+msgstr "chun teagmháil a dhéanamh le tacaíocht."
+
+msgid "closed cases."
+msgstr "cásanna dúnta."
+
+msgid "open tickets."
+msgstr "ticéid oscailte."
+
+msgid "closed tickets."
+msgstr "ticéid dúnta."
+
+msgid "You currently have no locations."
+msgstr "Níl aon suíomh agat faoi láthair."
+
+msgid "Write a comment...."
+msgstr "Scríobh trácht ...."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Cuir Suíomh"
+
+msgid "Save Event"
+msgstr "Imeacht Sábháil"
+
+msgid "Name"
+msgstr "Ainm"
+
+msgid "Start Date"
+msgstr "Dáta tosaigh"
+
+msgid "Start Time"
+msgstr "Am Tosaigh"
+
+msgid "End Date"
+msgstr "Dáta deiridh"
+
+msgid "End Time"
+msgstr "Am Deireadh"
+
+msgid "Repeat"
+msgstr "Déan arís"
+
+msgid "Attendees"
+msgstr "Freastalaithe"
+
+msgid "Event Location"
+msgstr "Suíomh an Imeachta"
+
+msgid "Link"
+msgstr "Nasc"
+
+msgid "Description"
+msgstr "Cur síos"
+
+msgid "Attending"
+msgstr "Ag freastal"
+
+msgid "Add to calendar"
+msgstr "Cuir leis an bhféilire"
+
+msgid "Details"
+msgstr "Sonraí"
+
+msgid "Event by"
+msgstr "Imeacht le"
+
+msgid "Duration:"
+msgstr "Fad:"
+
+msgid "more"
+msgstr "níos mó"
+
+msgid "Maybe"
+msgstr "B&#39;fhéidir"
+
+msgid "Not Attending"
+msgstr "Gan Freastal"
+
+msgid "No"
+msgstr "Níl"
+
+msgid "CaseActive Convo"
+msgstr "Convo CaseActive"
+
+msgid "Video Conference"
+msgstr "Comhdháil Físe"
+
+msgid "Event details"
+msgstr "Sonraí an imeachta"
+
+msgid "You don't have permissions to view this page."
+msgstr "Níl cead agat chun an leathanach seo a fheiceáil."
+
+msgid "Your Upcoming Events"
+msgstr "Do Imeachtaí Le Teacht"
+
+msgid "Upcoming"
+msgstr "Le teacht"
+
+msgid "Your Past Events"
+msgstr "Do Imeachtaí Roimhe Seo"
+
+msgid "Past"
+msgstr "Caite"
+
+msgid "Your Events"
+msgstr "Do Imeachtaí"
+
+msgid "All"
+msgstr "Gach"
+
+msgid "All Events"
+msgstr "Gach Imeachtaí"
+
+msgid "Directions"
+msgstr "Treoracha"
+
+msgid "Edit settings"
+msgstr "Cuir socruithe in eagar"
+
+msgid "Delete event"
+msgstr "Scrios imeacht"
+
+msgid "Attending?"
+msgstr "Ag freastal?"
+
+msgid "No Events"
+msgstr "Gan Imeachtaí"
+
+msgid "more comment(s)"
+msgstr "níos mó tráchta (í)"
+
+msgid "Loading comments"
+msgstr "Tráchtanna á lódáil"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Tá tú ar tí trácht a scriosadh. An bhfuil tú cinnte?"
+
+msgid "task"
+msgstr "tasc"
+
+msgid "to do"
+msgstr "a dhéanamh"
+
+msgid "tasks"
+msgstr "tascanna"
+
+msgid "Write something..."
+msgstr "Rud éigin a scríobh..."
+
+msgid "Attach File"
+msgstr "Ceangail Comhad"
+
+msgid "From Template"
+msgstr "Ó Teimpléad"
+
+msgid "No feeds yet."
+msgstr "Gan aon fhothaí fós."
+
+msgid "comments"
+msgstr "tuairimí"
+
+msgid "comment"
+msgstr "trácht"
+
+msgid "Add a comment"
+msgstr "Cuir nóta tráchta leis"
+
+msgid "Template"
+msgstr "Teimpléad"
+
+msgid "No templates"
+msgstr "Uimh teimpléid"
+
+msgid "Done"
+msgstr "Arna dhéanamh"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Roghnaigh na baill ar gá dóibh an fhoirm seo a líonadh"
+
+msgid "Update Form"
+msgstr "Foirm Nuashonraithe"
+
+msgid "Due Date"
+msgstr "Dáta dlite"
+
+msgid "Due Time"
+msgstr "Am Dlite"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Preview"
+msgstr "Réamhamharc"
+
+msgid "Save & Close"
+msgstr "Sábháil & Dún"
+
+msgid "Add an element"
+msgstr "Cuir eilimint leis"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Tá na meáin ag athrú. Cuirfimid in iúl duit nuair a bheidh sé réidh"
+
+msgid "Add "
+msgstr "Cuir"
+
+msgid "Field"
+msgstr "Gort"
+
+msgid "Edit "
+msgstr "Cuir in eagar"
+
+msgid "Text"
+msgstr "Téacs"
+
+msgid "Sub Text"
+msgstr "Fo-théacs"
+
+msgid "Format"
+msgstr "Formáid"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Theip ar na meáin chumarsáide a thiontú. Scrios agus bain triail eile as."
+
+msgid "Pages"
+msgstr "Leathanaigh"
+
+msgid "Saved"
+msgstr "Shábháil"
+
+msgid "Insert"
+msgstr "Ionsáigh"
+
+msgid "Elements"
+msgstr "Eilimintí"
+
+msgid "Action Required"
+msgstr "Gníomh de dhíth"
+
+msgid "Add a new page"
+msgstr "Cuir leathanach nua leis"
+
+msgid "Blank page"
+msgstr "Leathanach bán"
+
+msgid "From PDF"
+msgstr "Ó PDF"
+
+msgid "From image"
+msgstr "Ó íomhá"
+
+msgid "Add PDF"
+msgstr "Cuir PDF"
+
+msgid "Add Image"
+msgstr "Cuir Íomhá leis"
+
+msgid "Options"
+msgstr "Roghanna"
+
+msgid "Column Names"
+msgstr "Ainmneacha Colún"
+
+msgid "Option already exists."
+msgstr "Tá rogha ann cheana féin."
+
+msgid "options list is empty"
+msgstr "Tá liosta roghanna folamh"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Ní thacaíonn réimse na mboscaí seiceála ach 5 rogha. Is féidir leat an "
+"réimse a athrú go dtí an titim anuas chun níos mó roghanna a chur leis"
+
+msgid "columns list is empty"
+msgstr "Tá liosta na gcolún folamh"
+
+msgid "Default Value"
+msgstr "Luach Réamhshocraithe"
+
+msgid "Delete row"
+msgstr "Scrios ró"
+
+msgid "Add a new row"
+msgstr "Cuir líne nua leis"
+
+msgid "Download"
+msgstr "Íosluchtaigh"
+
+msgid "Label"
+msgstr "Lipéad"
+
+msgid "Question"
+msgstr "Ceist"
+
+msgid "Default answer"
+msgstr "Freagra réamhshocraithe"
+
+msgid "Media is converting"
+msgstr "Tá na meáin ag athrú"
+
+msgid "Send Form"
+msgstr "Seol Foirm"
+
+msgid "Form Submited."
+msgstr "Foirm Athsholáthar."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Níl cead agat foirmeacha a chur isteach."
+
+msgid "You currently have no forms of your own"
+msgstr "Níl aon fhoirmeacha de do chuid féin agat faoi láthair"
+
+msgid "Your Uncompleted Forms"
+msgstr "Do Fhoirmeacha Neamhchríochnaithe"
+
+msgid "Uncompleted"
+msgstr "Neamhchríochnaithe"
+
+msgid "Your Completed Forms"
+msgstr "Do Fhoirmeacha Comhlánaithe"
+
+msgid "Completed"
+msgstr "Críochnaithe"
+
+msgid "Your Forms"
+msgstr "Do Fhoirmeacha"
+
+msgid "All Forms"
+msgstr "Gach Foirmeacha"
+
+msgid "Form Title"
+msgstr "Teideal na Foirme"
+
+msgid "Author"
+msgstr "Údar"
+
+msgid "Published"
+msgstr "Foilsithe"
+
+msgid "Submissions"
+msgstr "Aighneachtaí"
+
+msgid "No Forms"
+msgstr "Uimh Foirmeacha"
+
+msgid "Upload Form Document"
+msgstr "Íoslódáil an doiciméad foirm"
+
+msgid "Forms Library"
+msgstr "Leabharlann Foirmeacha"
+
+msgid "No Forms In Library"
+msgstr "Uimh Foirmeacha I Leabharlann"
+
+msgid "Answers"
+msgstr "Freagraí"
+
+msgid "Close - Status changed"
+msgstr "Dún - Athraíodh an stádas"
+
+msgid "Change Status"
+msgstr "Stádas Athraithe"
+
+msgid "Case Number"
+msgstr "Uimhir Cás"
+
+msgid "Tag Id"
+msgstr "Tag Id"
+
+msgid "Date Opened"
+msgstr "Dáta oscailte"
+
+msgid "Host Id"
+msgstr "Aitheantas Óstach"
+
+msgid "User Id"
+msgstr "ID Úsáideora"
+
+msgid "Case Id"
+msgstr "Cás Aitheantas"
+
+msgid "Confirm your details"
+msgstr "Deimhnigh do shonraí"
+
+msgid "Form Submitted."
+msgstr "Foirm curtha isteach."
+
+msgid "Invoice"
+msgstr "Sonrasc"
+
+msgid "PO No:"
+msgstr "Uimh. PO:"
+
+msgid "Reference ID:"
+msgstr "Aitheantas Tagartha:"
+
+msgid "Term:"
+msgstr "Téarma:"
+
+msgid "Note:"
+msgstr "Nóta:"
+
+msgid "QTY"
+msgstr "QTY"
+
+msgid "Price"
+msgstr "Praghas"
+
+msgid "Add more"
+msgstr "Cuir tuilleadh leis"
+
+msgid "Subtotal($)"
+msgstr "Fo-iomlán($)"
+
+msgid "Discount(%)"
+msgstr "Lascaine(%)"
+
+msgid "TAX(%)"
+msgstr "CÁIN(%)"
+
+msgid "Total($)"
+msgstr "Iomlán($)"
+
+msgid "Invoice No"
+msgstr "Sonrasc Uimh"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Roghnaigh na baill ar gá dóibh an sonrasc seo a fheiceáil nó a íoc"
+
+msgid "Update Invoice"
+msgstr "Sonrasc Nuashonraithe"
+
+msgid "Create Invoice"
+msgstr "Cruthaigh Sonrasc"
+
+msgid "PO No."
+msgstr "PO Uimh."
+
+msgid "Reference ID"
+msgstr "Aitheantas tagartha"
+
+msgid "Term"
+msgstr "Téarma"
+
+msgid "Note"
+msgstr "Nóta"
+
+msgid "Quantity"
+msgstr "Cainníocht"
+
+msgid "Price ($)"
+msgstr "Praghas ($)"
+
+msgid "Subtotal ($)"
+msgstr "Fo-iomlán ($)"
+
+msgid "Discount (%)"
+msgstr "Lascaine (%)"
+
+msgid "Tax (%)"
+msgstr "Cáin (%)"
+
+msgid "Total ($)"
+msgstr "Iomlán ($)"
+
+msgid "Pay Invoice"
+msgstr "Sonrasc Íoctha"
+
+msgid "Payment method"
+msgstr "Modh íocaíochta"
+
+msgid "Add a new payment method"
+msgstr "Cuir modh íocaíochta nua leis"
+
+msgid "Summary"
+msgstr "Achoimre"
+
+msgid "Payment:"
+msgstr "Íocaíocht:"
+
+msgid "Total charge:"
+msgstr "Muirear iomlán:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Do Sonraisc Neamhíoctha"
+
+msgid "Unpaid"
+msgstr "Gan íoc"
+
+msgid "Your Paid Invoices"
+msgstr "Do Sonraisc Íoctha"
+
+msgid "Paid"
+msgstr "Íoctha"
+
+msgid "Your Invoices"
+msgstr "Do Sonraisc"
+
+msgid "All Invoices"
+msgstr "Gach Sonraisc"
+
+msgid "Invoice Title"
+msgstr "Teideal an tSonraisc"
+
+msgid "No Invoices"
+msgstr "Gan Sonraisc"
+
+msgid "No Audios yet."
+msgstr "Níl Fuaimeanna ar bith fós."
+
+msgid "Loading failed."
+msgstr "Theip ar an luchtú."
+
+msgid "retry"
+msgstr "athsheiceáil"
+
+msgid "No documents yet."
+msgstr "Gan doiciméid fós."
+
+msgid "No Files yet."
+msgstr "Níl Comhaid ar bith fós."
+
+msgid "No Images yet."
+msgstr "Níl Íomhánna ar bith fós."
+
+msgid "No Videos yet."
+msgstr "Níl Físeáin ar bith fós."
+
+msgid "Page Not Found"
+msgstr "Ní bhfuarthas an leathanach"
+
+msgid "Attachments"
+msgstr "Ceangaltáin"
+
+msgid "Note View"
+msgstr "Nóta Amharc"
+
+msgid "No Notes"
+msgstr "Níl Nótaí"
+
+msgid "Select the person to answer this field"
+msgstr "Roghnaigh an duine chun an réimse seo a fhreagairt"
+
+msgid "Create E-sign"
+msgstr "Cruthaigh E-comhartha"
+
+msgid "Update E-signs"
+msgstr "Nuashonraigh E-comharthaí"
+
+msgid "Signs"
+msgstr "Comharthaí"
+
+msgid "Add Field"
+msgstr "Cuir Réimse"
+
+msgid "Edit Field"
+msgstr "Edit Field"
+
+msgid "Send E-sign"
+msgstr "Seol E-comhartha"
+
+msgid "E-sign Submitted."
+msgstr "E-comhartha curtha isteach."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Níl cead agat ríomhchomharthaí a chur isteach."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Níl aon E-comharthaí de do chuid féin agat faoi láthair"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Do Ríomhchomharthaí Neamhchríochnaithe"
+
+msgid "Your Completed E-signs"
+msgstr "Do Ríomhchomharthaí Críochnaithe"
+
+msgid "Your Signs"
+msgstr "Do Chomharthaí"
+
+msgid "All E-signs"
+msgstr "Gach E-comharthaí"
+
+msgid "E-sign Title"
+msgstr "Teideal Ríomhshínithe"
+
+msgid "No E-signs"
+msgstr "Gan E-comharthaí"
+
+msgid "E-Signs Library"
+msgstr "Leabharlann Ríomhchomharthaí"
+
+msgid "No E-signs In Library"
+msgstr "Gan E-chomharthaí sa Leabharlann"
+
+msgid "Upload E-sign Document"
+msgstr "Íoslódáil an doiciméad leictreonach síniú"
+
+msgid "Update Task"
+msgstr "Nuashonraigh Tasc"
+
+msgid "Create Task"
+msgstr "Cruthaigh Tasc"
+
+msgid "You currently have no tasks of your own"
+msgstr "Níl aon tascanna de do chuid féin agat faoi láthair"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Do Thascanna Neamhchríochnaithe"
+
+msgid "Your Completed Tasks"
+msgstr "Do Thascanna Críochnaithe"
+
+msgid "Your Tasks"
+msgstr "Do Thascanna"
+
+msgid "All Tasks"
+msgstr "Gach Tascanna"
+
+msgid "Task"
+msgstr "Tasc"
+
+msgid "Deadline"
+msgstr "Spriocdháta"
+
+msgid "Assignees"
+msgstr "sannaithe"
+
+msgid "In Progress"
+msgstr "Ar Siúl"
+
+msgid "Delete task"
+msgstr "Scrios tasc"
+
+msgid "No Tasks"
+msgstr "Gan Tascanna"
+
+msgid "wants access"
+msgstr "ag iarraidh rochtana"
+
+msgid "No Answers"
+msgstr "Gan Freagraí"
+
+msgid "Select Field Type"
+msgstr "Roghnaigh Cineál Réimse"
+
+msgid "Text Only"
+msgstr "Téacs Amháin"
+
+msgid "Multiple Line Text"
+msgstr "Téacs Illíne"
+
+msgid "Dropdown"
+msgstr "Titim síos"
+
+msgid "Multi Dropdown"
+msgstr "Il-Dropdown"
+
+msgid "Checkboxes"
+msgstr "Boscaí Seiceála"
+
+msgid "Radio"
+msgstr "Raidió"
+
+msgid "Date"
+msgstr "Dáta"
+
+msgid "Time"
+msgstr "Am"
+
+msgid "Yes/No"
+msgstr "Tá Níl"
+
+msgid "Number"
+msgstr "Uimhir"
+
+msgid "Access Denied"
+msgstr "Rochtain Diúltaithe"
+
+msgid "You don't have access to this case."
+msgstr "Níl rochtain agat ar an gcás seo."
+
+msgid "Imports"
+msgstr "Allmhairí"
+
+msgid "View import"
+msgstr "Féach ar allmhairiú"
+
+msgid "Sessions"
+msgstr "Seisiúin"
+
+msgid "Home"
+msgstr "Baile"
+
+msgid "Users"
+msgstr "Úsáideoirí"
+
+msgid "Library"
+msgstr "Leabharlann"
+
+msgid "Integration"
+msgstr "Comhtháthú"
+
+msgid "Settings"
+msgstr "Socruithe"
+
+msgid "Webhooks"
+msgstr "Leabhair Ghréasáin"
+
+msgid "Keys"
+msgstr "Eochracha"
+
+msgid "Feed Templates"
+msgstr "Feed Teimpléid"
+
+msgid "Form Templates"
+msgstr "Teimpléid Foirm"
+
+msgid "E-sign Templates"
+msgstr "Teimpléid Ríomhchomharthaí"
+
+msgid "Task Templates"
+msgstr "Teimpléid Tasc"
+
+msgid "Dashboard"
+msgstr "Painéal"
+
+msgid "Payments"
+msgstr "Íocaíochtaí"
+
+msgid "From"
+msgstr "Ón"
+
+msgid "To"
+msgstr "Chun"
+
+msgid "System"
+msgstr "Córas"
+
+msgid "User Intake"
+msgstr "Iontógáil Úsáideoir"
+
+msgid "Custom Fields"
+msgstr "Réimsí an Chustaim"
+
+msgid "After Actions"
+msgstr "Tar éis Gníomhartha"
+
+msgid "Advance Settings"
+msgstr "Réamhshocruithe"
+
+msgid "Label Name"
+msgstr "Ainm Lipéad"
+
+msgid "Fields"
+msgstr "Páirceanna"
+
+msgid "Tag ID"
+msgstr "ID clib"
+
+msgid "Have many users?"
+msgstr "An bhfuil go leor úsáideoirí?"
+
+msgid "Import users"
+msgstr "Úsáideoirí a allmhairiú"
+
+msgid "or"
+msgstr "nó"
+
+msgid "Send them a signup link."
+msgstr "Seol nasc clárúcháin chucu."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Tosaímid tríd an ríomhphost nó an uimhir theileafóin a iontráil"
+
+msgid "Phone"
+msgstr "Fón"
+
+msgid "Invalid phone number entered"
+msgstr "Uimhir theileafóin neamhbhailí iontráilte"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Lipéad chun cás a fháil go héasca. ní féidir é a athrú níos déanaí"
+
+msgid "Visibility:"
+msgstr "Léargas:"
+
+msgid "Who can use this template"
+msgstr "Cé atá in ann an teimpléad seo a úsáid"
+
+msgid "One time"
+msgstr "Uair amháin"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Cuir isteach faisnéis íocaíochta bhailí roimh leanúint ar aghaidh"
+
+msgid "Add Payment"
+msgstr "Cuir Íocaíocht leis"
+
+msgid "Repeat every:"
+msgstr "Déan arís gach:"
+
+msgid "Let's get started"
+msgstr "Ar aghaidh linn"
+
+msgid "Take me there"
+msgstr "Tóg mé ann"
+
+msgid "Mark"
+msgstr "Marcáil"
+
+msgid "Onboarding"
+msgstr "Ar bordáil"
+
+msgid "Created on"
+msgstr "Cruthaithe ar"
+
+msgid "Expires on"
+msgstr "In éag ar"
+
+msgid "No announcements yet."
+msgstr "Níl aon fhógraí fós."
+
+msgid "Add Announcement"
+msgstr "Cuir Fógra leis"
+
+msgid "Edit Announcement"
+msgstr "Cuir Fógra in Eagar"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr ""
+"Ba chóir go mbeadh an dáta agus an t-am uair an chloig ar a laghad roimh ré"
+
+msgid "Delete Date"
+msgstr "Scrios Dáta"
+
+msgid "Delete Time"
+msgstr "Scrios Am"
+
+msgid "Back"
+msgstr "Ar ais"
+
+msgid "No Users Found"
+msgstr "Níor aimsíodh aon úsáideoirí"
+
+msgid "No role selected"
+msgstr "Níor roghnaíodh aon ról"
+
+msgid "No permissions added!"
+msgstr "Níor chuir aon cead isteach!"
+
+msgid "ASSIGNED USERS"
+msgstr "ÚSÁIDEOIRÍ SONRACHA"
+
+msgid "CASE PERMISSIONS"
+msgstr "CEISTEANNA CÁS"
+
+msgid "User ID"
+msgstr "ID Úsáideora"
+
+msgid "Role"
+msgstr "Ról"
+
+msgid "remove"
+msgstr "bain"
+
+msgid "Assign User"
+msgstr "Sann an t-úsáideoir"
+
+msgid "User"
+msgstr "Úsáideoir"
+
+msgid "ADD USER"
+msgstr "ADD ÚSÁIDEOIR"
+
+msgid "Email user about case assignment"
+msgstr "Úsáideoir ríomhphoist faoi shannadh cáis"
+
+msgid "Keyword"
+msgstr "Eochairfhocal"
+
+msgid "No cases found."
+msgstr "Níor aimsíodh aon chás."
+
+msgid "Create a case for a business"
+msgstr "Cruthaigh cás le haghaidh gnó"
+
+msgid "Case ID"
+msgstr "Aitheantas cáis"
+
+msgid "Created On"
+msgstr "Arna Cruthaithe"
+
+msgid "Case Status"
+msgstr "Stádas Cásanna"
+
+msgid "Case Type"
+msgstr "Cineál Cás"
+
+msgid "Assign Users"
+msgstr "Úsáideoirí a shannadh"
+
+msgid "No cases found"
+msgstr "Níor aimsíodh aon chás"
+
+msgid "Have many cases?"
+msgstr "An bhfuil go leor cásanna?"
+
+msgid "Click here to import cases."
+msgstr "Cliceáil anseo chun cásanna a allmhairiú."
+
+msgid "No status selected"
+msgstr "Níl aon stádas roghnaithe"
+
+msgid "No type selected"
+msgstr "Níor roghnaíodh aon chineál"
+
+msgid "Case Info"
+msgstr "Eolas Cás"
+
+msgid "About"
+msgstr "Faoi"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr "Lipéad buan chun cás a aimsiú go héasca. (a-z, 0-9, -, /) ceadaithe"
+
+msgid "Case Types"
+msgstr "Cineálacha Cásanna"
+
+msgid "Click"
+msgstr "Cliceáil"
+
+msgid "to edit case types"
+msgstr "chun cineálacha cásanna a chur in eagar"
+
+msgid "No Type selected"
+msgstr "Níor roghnaíodh aon chineál"
+
+msgid "Case not found!"
+msgstr "Cás nach bhfuarthas!"
+
+msgid "Media Size"
+msgstr "Méid na Meáin"
+
+msgid "All statistics"
+msgstr "Gach staitistic"
+
+msgid "Import not found."
+msgstr "Níor aimsíodh iompórtáil."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Theip ar phróiseáil an chomhaid. Cinntigh gur cineál comhaid CSV é agus go "
+"bhfuil na ceanntásca cearta ann"
+
+msgid "Data"
+msgstr "Sonraí"
+
+msgid "No Imports yet."
+msgstr "Níl Allmhairí fós."
+
+msgid "Source"
+msgstr "Foinse"
+
+msgid "Stats"
+msgstr "Státaí"
+
+msgid "Passed:"
+msgstr "Ritheadh:"
+
+msgid "Failed:"
+msgstr "Theip ar:"
+
+msgid "Total:"
+msgstr "Iomlán:"
+
+msgid "Add Imports"
+msgstr "Cuir Allmhairí leis"
+
+msgid "Download Sample"
+msgstr "Íoslódáil Sampla"
+
+msgid "Choose a file"
+msgstr "Roghnaigh comhad"
+
+msgid "Edit Key"
+msgstr "Cuir Eochair in Eagar"
+
+msgid "Add Key"
+msgstr "Cuir Eochair leis"
+
+msgid "No Keys yet."
+msgstr "Níl Eochracha fós."
+
+msgid "Source CIDR"
+msgstr "Foinse CIDR"
+
+msgid "Remove"
+msgstr "Bain"
+
+msgid "is invalid."
+msgstr "neamhbhailí."
+
+msgid "Secret Key"
+msgstr "Eochair Rúnda"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Déan cinnte d’eochair rúnda nua a chóipeáil anois. Ní bheidh tú in ann é a "
+"fheiceáil arís!"
+
+msgid "Edit Webhook"
+msgstr "Cuir Webhook in eagar"
+
+msgid "Add Webhook"
+msgstr "Cuir Webhook leis"
+
+msgid "No event selected"
+msgstr "Níor roghnaíodh aon imeacht"
+
+msgid "No Webhooks yet."
+msgstr "Uimh Webhooks fós."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Rúnda Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Déan cinnte do leabhar gréasáin rúnda nua a chóipeáil anois. Ní bheidh tú in"
+" ann é a fheiceáil arís!"
+
+msgid "Sign In"
+msgstr "Sínigh isteach"
+
+msgid "Login in account page."
+msgstr "Logáil isteach sa leathanach chuntais."
+
+msgid "Edit form builder"
+msgstr "Cuir cruthaitheoir foirmeacha in eagar"
+
+msgid "Delete form"
+msgstr "Scrios foirm"
+
+msgid "No forms yet."
+msgstr "Níl foirmeacha fós ann."
+
+msgid "Intake Forms"
+msgstr "Foirmeacha Iontrála"
+
+msgid "Upload Intake Form Document"
+msgstr "Íoslódáil an fhoirm deimhniú glactha"
+
+msgid "Add Intake Form"
+msgstr "Cuir Foirm Iontrála leis"
+
+msgid "Edit Intake Form"
+msgstr "Cuir an Fhoirm Iontógáil in Eagar"
+
+msgid "Show Media"
+msgstr "Taispeáin na Meáin"
+
+msgid "Add Post"
+msgstr "Cuir Post"
+
+msgid "Edit Post"
+msgstr "Cuir an Post in Eagar"
+
+msgid "Files Amount"
+msgstr "Méid Comhaid"
+
+msgid "No Feed Templates yet."
+msgstr "Níl Teimpléid Beatha fós."
+
+msgid "Post Name"
+msgstr "Ainm an Phoist"
+
+msgid "Post Message"
+msgstr "Teachtaireacht an Phoist"
+
+msgid "Processing media ..."
+msgstr "Meáin phróiseála ..."
+
+msgid "Download original file"
+msgstr "Íoslódáil an comhad bunaidh"
+
+msgid "Could not display media"
+msgstr "Níorbh fhéidir na meáin a thaispeáint"
+
+msgid "No locations found."
+msgstr "Níor aimsíodh aon áit."
+
+msgid "Main Office"
+msgstr "Príomh-Oifig"
+
+msgid "Location Name"
+msgstr "Ainm Suíomh"
+
+msgid "Delete e-sign"
+msgstr "Scrios ríomhchomhartha"
+
+msgid "No e-signs yet."
+msgstr "Níl aon ríomhchomharthaí fós."
+
+msgid "Subtasks Count"
+msgstr "Comhaireamh Fotascanna"
+
+msgid "No tasks yet."
+msgstr "Níl aon tascanna fós."
+
+msgid "Invoice ID"
+msgstr "Aitheantas an tSonraisc"
+
+msgid "Total"
+msgstr "Iomlán"
+
+msgid "Refund"
+msgstr "Aisíocaíocht"
+
+msgid "No invoices yet."
+msgstr "Níl aon sonraisc fós."
+
+msgid "Refund Reason"
+msgstr "Cúis Aisíocaíochta"
+
+msgid "Duplicate charge"
+msgstr "Muirear dúblach"
+
+msgid "Fraudulent charge"
+msgstr "Muirear calaoiseach"
+
+msgid "Requested by customer"
+msgstr "Arna iarraidh ag custaiméir"
+
+msgid "On Board"
+msgstr "Ar mbord"
+
+msgid "Stripe"
+msgstr "Stráice"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Eolas Róil"
+
+msgid "It cannot be changed later"
+msgstr "Ní féidir é a athrú níos déanaí"
+
+msgid "Role Permissions"
+msgstr "Ceadanna Róil"
+
+msgid "e-signs"
+msgstr "ríomhchomharthaí"
+
+msgid "on"
+msgstr "ar"
+
+msgid "Allowed File Sizes"
+msgstr "Méideanna Comhad Ceadaithe"
+
+msgid "Create"
+msgstr "Cruthaigh"
+
+msgid "Creating..."
+msgstr "Ag cruthú ..."
+
+msgid "Modules"
+msgstr "Modúil"
+
+msgid "Roles"
+msgstr "Rólanna"
+
+msgid "Profile information"
+msgstr "Eolas próifíle"
+
+msgid "No role found."
+msgstr "Níor aimsíodh aon ról."
+
+msgid "When a case is created, auto assign these users"
+msgstr ""
+"Nuair a chruthaítear cás, sannfaidh na húsáideoirí seo go huathoibríoch"
+
+msgid "Remove All"
+msgstr "Bain Uile"
+
+msgid "User Name"
+msgstr "Ainm Úsáideora"
+
+msgid "Notify"
+msgstr "Fógra a thabhairt"
+
+msgid "Host User"
+msgstr "Úsáideoir Óstach"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Nuair a shanntar úsáideoir do chás, cuir teimpléid leis go huathoibríoch"
+
+msgid "No post selected"
+msgstr "Níl aon phostáil roghnaithe"
+
+msgid "No form selected"
+msgstr "Níor roghnaíodh aon fhoirm"
+
+msgid "No e-sign selected"
+msgstr "Níl aon ríomhchomhartha roghnaithe"
+
+msgid "Templates"
+msgstr "Teimpléid"
+
+msgid "Add Templates"
+msgstr "Cuir Teimpléid leis"
+
+msgid "Idle Cases"
+msgstr "Cásanna Díomhaoin"
+
+msgid "When a case is idle, post this message"
+msgstr "Nuair a bhíonn cás díomhaoin, cuir an teachtaireacht seo sa phost"
+
+msgid "No case type selected"
+msgstr "Níor roghnaíodh aon chineál cáis"
+
+msgid "Idle Days"
+msgstr "Laethanta Díomhaoin"
+
+msgid "Post Id"
+msgstr "Aitheantas an Phoist"
+
+msgid "Set Idle Message"
+msgstr "Socraigh Teachtaireacht Díomhaoin"
+
+msgid "No task selected"
+msgstr "Níor roghnaíodh aon tasc"
+
+msgid "No operation order selected"
+msgstr "Níor roghnaíodh aon ordú oibríochta"
+
+msgid "Operation Order"
+msgstr "Ordú Oibriúcháin"
+
+msgid "Add Templates to Assign Users"
+msgstr "Cuir Teimpléid le hÚsáideoirí a Shannadh"
+
+msgid "CaseType"
+msgstr "Cineál an Cháis"
+
+msgid "Case Form"
+msgstr "Foirm Cháis"
+
+msgid "User Form"
+msgstr "Foirm Úsáideora"
+
+msgid "Notes Form"
+msgstr "Foirm Nótaí"
+
+msgid "Defaults"
+msgstr "Mainneachtainí"
+
+msgid "Required"
+msgstr "Riachtanach"
+
+msgid "Public User Signup link:"
+msgstr "Nasc Cláraithe Úsáideoir Poiblí:"
+
+msgid "Design Settings"
+msgstr "Socruithe Dearaidh"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Athraigh comhad"
+
+msgid "Delete Favicon"
+msgstr "Scrios Favicon"
+
+msgid "Logo:"
+msgstr "Lógó:"
+
+msgid "Delete Logo"
+msgstr "Scrios Lógó"
+
+msgid "Text Color"
+msgstr "Dath an Téacs"
+
+msgid "Recommended Colors:"
+msgstr "Dathanna Molta:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "athshocrú"
+
+msgid "Background Color"
+msgstr "Dath Cúlra"
+
+msgid "Hex:"
+msgstr "Heics:"
+
+msgid "Company Info"
+msgstr "Eolas Cuideachta"
+
+msgid "Website"
+msgstr "Suíomh Gréasáin"
+
+msgid "Terms of Use URL"
+msgstr "URL Téarmaí Úsáide"
+
+msgid "User Signup"
+msgstr "Clárú Úsáideoir"
+
+msgid "Allow Signup"
+msgstr "Ceadaigh Cláraigh"
+
+msgid "Auto Create Case"
+msgstr "Uathchruthaigh Cás"
+
+msgid "Case User Role"
+msgstr "Ról Úsáideora Cásanna"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Eochair Analytics"
+
+msgid "delete"
+msgstr "scriosadh"
+
+msgid "Crop Image"
+msgstr "Íomhá na mBarr"
+
+msgid "No Filter"
+msgstr "Gan Scagaire"
+
+msgid "No logs requested."
+msgstr "Níor iarrtar logaí ar bith."
+
+msgid "Logs list is empty."
+msgstr "Tá liosta logála folamh."
+
+msgid "Download CSV"
+msgstr "Íoslódáil CSV"
+
+msgid "Request Logs"
+msgstr "Logáil Iarratais"
+
+msgid "Log Type"
+msgstr "Cineál Logála"
+
+msgid "Filter"
+msgstr "Scagaire"
+
+msgid "Select a case"
+msgstr "Roghnaigh cás"
+
+msgid "Enter the email address"
+msgstr "Cuir isteach an seoladh ríomhphoist"
+
+msgid "Module"
+msgstr "Modúl"
+
+msgid "Header (3 max)"
+msgstr "Ceanntásc (3 uas)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Nuair a cheanglaíonn úsáideoir aip, iarr ar an úsáideoir na rudaí seo a "
+"leanas a roinnt"
+
+msgid "No user intake found."
+msgstr "Níor aimsíodh aon iontógáil úsáideora."
+
+msgid "User Type"
+msgstr "Cineál Úsáideora"
+
+msgid "Intake Form"
+msgstr "Foirm Iontrála"
+
+msgid "Complete After"
+msgstr "Críochnaigh Tar éis"
+
+msgid "No user type selected"
+msgstr "Níor roghnaíodh aon chineál úsáideora"
+
+msgid "No intake form selected"
+msgstr "Níor roghnaíodh aon fhoirm ionghabhála"
+
+msgid "Complete After Date"
+msgstr "Críochnaigh Tar éis Dáta"
+
+msgid "Complete After Time"
+msgstr "Críochnaigh Tar éis Ama"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Ba chóir go mbeadh an dáta agus an t-am níos lú nó cothrom le anois"
+
+msgid "Comment ct"
+msgstr "Trácht ct"
+
+msgid "View Ticket"
+msgstr "Ticéad Amharc"
+
+msgid "Ticket"
+msgstr "Ticéad"
+
+msgid "No tickets yet."
+msgstr "Gan ticéid fós."
+
+msgid "User not found."
+msgstr "Níor aimsíodh an t-úsáideoir."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Is féidir leis an úsáideoir a bhfaisnéis chuntais a chur in eagar ach amháin"
+" i gcás an rannáin tréithe úsáideora óstaigh."
+
+msgid "Contact"
+msgstr "Teagmháil"
+
+msgid "Phone number"
+msgstr "Uimhir teileafón"
+
+msgid "Zip Postal Code"
+msgstr "Cód Poist Zip"
+
+msgid "Host User Attributes"
+msgstr "Tréithe Úsáideora Óstach"
+
+msgid "User Status"
+msgstr "Stádas Úsáideora"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Lipéad buan chun úsáideoir a aimsiú go héasca. (a-z, 0-9, -, /) ceadaithe"
+
+msgid "App only User Intake Fields"
+msgstr "Réimsí Iontógáil Úsáideora amháin aipe"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP AMHÁIN RÉIMSÍ CUSTAIM"
+
+msgid "s found."
+msgstr "s le fáil."
+
+msgid "Created Date"
+msgstr "Dáta Cruthaithe"
+
+msgid "View Cases"
+msgstr "Cásanna Amharc"
+
+msgid "VIEW CASES"
+msgstr "FÉACH CÁSANNA"
+
+msgid "Get Started"
+msgstr "Tosaigh"
+
+msgid "Password"
+msgstr "Pasfhocal"
+
+msgid "Email is not valid."
+msgstr "Níl an ríomhphost bailí."
+
+msgid "CaseActive lets you and your client"
+msgstr "Ligeann CaseActive duit féin agus do do chliant"
+
+msgid "work together"
+msgstr "oibriú le chéile"
+
+msgid "at any time, in any place."
+msgstr "ag aon am, in aon áit."
+
+msgid "Explore"
+msgstr "Déan iniúchadh"
+
+msgid "Pricing"
+msgstr "Praghsáil"
+
+msgid "Support & Docs"
+msgstr "Tacaíocht & Docs"
+
+msgid "FAQ"
+msgstr "CC"
+
+msgid "Failed to validate if you are human"
+msgstr "Theip ar bhailíochtú más duine thú"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "FÓGRAÍONN MÉ CÉN FÁTH A BHFUIL LÉIGH!"
+
+msgid "Thank You!"
+msgstr "Go raibh maith agat!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Tabharfaimid fógra duit nuair a bheidh an aip réidh"
+
+msgid "Most popular"
+msgstr "Is cáiliúla"
+
+msgid "All languages"
+msgstr "Gach teanga"
+
+msgid "Oops, Something went wrong."
+msgstr "Úps, Chuaigh rud éigin mícheart."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Úps, Chuaigh rud éigin mícheart. Cuireadh in iúl dár bhfoireann. Bain triail"
+" eile as níos déanaí."
+
+msgid "Support Documentation"
+msgstr "Doiciméadúchán Tacaíochta"
+
+msgid "All Categories"
+msgstr "Gach Catagóir"
+
+msgid "Contents"
+msgstr "Clár ábhair"
+
+msgid "Related Articles"
+msgstr "Airteagail Ghaolmhara"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Cuir tús leis: próisis, cleachtais is fearr, treoracha socraithe, agus go "
+"leor eile!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Faigh aon rud a theastaíonn uait le dul ag obair i CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Gach cumarsáid cásanna in aon láthair amháin"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Déan comhrá, nuashonruithe a phostáil, ceisteanna a fhreagairt, nótaí a "
+"thógáil, trácht a dhéanamh, agus clibeáil gach plé le fógraí ríomhphoist "
+"agus SMS fíor-ama."
+
+msgid "Share with confidence"
+msgstr "Comhroinn go muiníneach"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Déan cáipéisí agus grianghraif a roinnt idir cliaint agus baill foirne ar "
+"aon ghaireas agus gach feiste, ionas go mbeidh gach duine cothrom le dáta."
+
+msgid "Take it on the go"
+msgstr "Tóg é ag dul"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Úsáid gléasanna soghluaiste mar tháibléid agus fhóin chliste chun comhoibriú"
+" ar phríomhshonraí, saincheisteanna móra a phlé, doiciméid a mhalartú, agus "
+"dul chun cinn cásanna a chairt i bhfíor-am."
+
+msgid "Immediate records access"
+msgstr "Rochtain láithreach ar thaifid"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Is féidir le húsáideoirí údaraithe rochtain a fháil go tapa ar shonraí "
+"cliaint agus ar fhaisnéis cáis (lena n-áirítear cásanna reatha, roimhe seo, "
+"oscailte, dúnta agus ar feitheamh), iad uile trí thairseach amháin."
+
+msgid "Automatic timezone conversion"
+msgstr "Comhshó an chrios ama uathoibríoch"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Cibé an bhfuil tú ag taisteal nó ag fanacht in áit eile, beidh tú ar aon dul"
+" lenár gcóras bainistíochta comhrá crios ama."
+
+msgid "Track Events"
+msgstr "Imeachtaí a rianú"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Déan cruinnithe a sceidealú go tapa, monatóireacht a dhéanamh ar imeachtaí "
+"atá le teacht, agus cuireadh a thabhairt do chliaint agus do chomhaltaí "
+"foirne freastal orthu."
+
+msgid "Video Conferencing"
+msgstr "Físchomhdháil"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Ceangail le cliaint agus le baill foirne trí chomhrá físe beo le haghaidh "
+"níos mó idirghníomhaíochta."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Uathoibriú tascanna nuair a chruthaítear cás nó nuair a shanntar úsáideoir "
+"do chás."
+
+msgid "Automated Alerts"
+msgstr "Foláirimh Uathoibrithe"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Ar mhaith leat Breithlá Sona a ghuí ar do chliaint? Cuir teachtaireacht "
+"uathoibríoch ar bun do chliaint a bhí ann agus a bhí ann cheana féin dá lá "
+"speisialta!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Sonraí an Chliaint a choinneáil cothrom le dáta"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Is féidir le cliaint a bpróifílí a mhodhnú le sonraí nuashonraithe, "
+"grianghraif, pasfhocail agus suímh chuntais."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Cuir Ceisteanna, Faigh Freagraí."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Cruthaigh foirmeacha saincheaptha agus seol chuig cliaint iad le comhlánú. "
+"Cruinnigh faisnéis riachtanach, cuir suirbhéanna imeachta ar fáil, agus "
+"faigh na sonraí go léir a theastaíonn uait chun do phost a dhéanamh go "
+"maith!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Stiúrthóir Díolachán Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Déan billeáil cliant chomh simplí agus is féidir le sonraisc agus "
+"íocaíochtaí ar líne."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Is breá linn sonrasc an cháis mar go ligeann sé do chliaint a bhfuil ag íoc "
+"as a fheiceáil."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Leas-Uachtarán Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Bain sult as éascaíocht ríomhshínithe"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Déan gach doiciméad a shíniú go leictreonach trí DocSign, ag baint úsáide as"
+" cáipéisí uaslódáilte agus iarratais agus deimhniú sínithe cliant digiteach."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Uaslódáil doiciméad, marcáil é lena shíniú, agus ansin logáileann an cliant "
+"isteach agus ríomhshíníonn é. Déantar gach rud gan a bheith ar an gcliant "
+"teacht isteach inár bhfoirgneamh. Tá sé seo áisiúil le cliaint nach bhfuil "
+"in aice le hoifig nó a bhfuil cónaí orthu lasmuigh den stát."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Stiúrthóir Oibríochtaí Árachais Chaipitil"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Feabhas a chur ar do Chóras. Níos lú oibre, níos mó torthaí."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Úsáid an Gné Riaracháin Féinfhreastail"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Tóg smacht iomlán ar do shraith bhainistíochta CaseActive ón ardán féin."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Do chóras atá ann cheana a nascadh go dícheallach le CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Comhtháthaigh ár API dílseánaigh chun cásanna a chruthú go huathoibríoch, "
+"úsáideoirí a shannadh, agus tuarascálacha a ghiniúint bunaithe ar d’ionchur "
+"córais."
+
+msgid "Acting as a"
+msgstr "Ag feidhmiú mar"
+
+msgid "virtual administrative assistant"
+msgstr "cúntóir riaracháin fíorúil"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", Cuireann CaseActive ar do chumas déileáil le cáipéisí agus le meáin chuí, "
+"go príobháideach"
+
+msgid "client-to-customer communications"
+msgstr "cumarsáid idir cliaint agus custaiméir"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "sceidealú imeachtaí, agus próiseáil cásanna céim ar chéim."
+
+msgid "Self-Serve Administration"
+msgstr "Riarachán Féinfhreastal"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Ag gníomhú dó mar chúntóir riaracháin fíorúil, tugann CaseActive cumhacht "
+"duit láimhseáil doiciméad agus meán sruthlínithe, cumarsáid phríobháideach "
+"cliant-le-custaiméir, sceidealú imeachtaí, agus próiseáil cásanna céim ar "
+"chéim."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Bainistigh Logáil isteach Úsáideoirí &amp; Cruthú Cásanna"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Maoirseacht dhíreach a dhéanamh ar chruthú cuntas úsáideora agus iad ag "
+"údarú a gceadanna rochtana ar bhonn cás ar chás. Bainistigh cruthú cásanna, "
+"dul chun cinn agus dúnadh, agus tuairisciú iomlán gach céim den bhealach."
+
+msgid "View Caseactive Analytics"
+msgstr "Féach ar an Anailísíocht Imoibríoch"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Féach go díreach conas atá cás ag dul chun cinn, líon na gcásanna a dúnadh "
+"go rathúil, agus féach na hamanna freagartha trí mhodúl anailíse críochnúil "
+"CaseActive. Is cumhacht an t-eolas, agus thugamar gach rud atá ar eolas duit"
+" faoi do thionscadail féin."
+
+msgid "Monitor User Logs"
+msgstr "Monatóireacht a dhéanamh ar Logchomhaid Úsáideora"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Coinnigh súil ar logáil isteach cliant agus ball foirne agus gníomhaíocht "
+"ardáin lena chinntiú go n-údaraítear a gcuid gníomhartha go léir laistigh de"
+" pharaiméadair an cháis agus go bhfuil gach ball ag comhlíonadh a ndualgas "
+"de réir mar is gá."
+
+msgid "Employ Advanced Searches"
+msgstr "Cuardach Casta a Fhostú"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Faigh go díreach na rudaí a theastaíonn uait nuair a theastaíonn sé uait. "
+"Cuardaigh cásanna de réir ainmneacha úsáideora agus cliant, eochairfhocail, "
+"amlínte, cáipéisí uaslódáilte, agus go leor eile!"
+
+msgid "Create Custom Fields"
+msgstr "Cruthaigh Réimsí Chustaim"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Cruthaigh réimsí cás speisialaithe le haghaidh ionchur cliant agus ball "
+"foirne, agus bailigh na sonraí a theastaíonn uait ó gach duine atá bainteach"
+" leis. Déan comhéadan an cháis uathúil do do ghnó agus do bhranda!"
+
+msgid "Create Custom Templates"
+msgstr "Cruthaigh Teimpléid Chustaim"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Forbair raon ollmhór foirmeacha agus teimpléid saincheaptha le dáileadh agus"
+" le comhlánú le linn agus tar éis cáis (cosúil le suirbhéanna ar scoir "
+"cliant). Cibé foirm atá uait, is féidir leat a chruthú!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Sonraisciú As-Tú"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Táimid anseo le cuidiú! Déan teagmháil má tá aon cheist agat fós agus "
+"freagróimid laistigh de dhá lá oibre."
+
+msgid "* Email is not valid."
+msgstr "* Níl an ríomhphost bailí."
+
+msgid "Low"
+msgstr "Íseal"
+
+msgid "Medium"
+msgstr "Mheán"
+
+msgid "High"
+msgstr "Ard"
+
+msgid "Critical"
+msgstr "Criticiúil"
+
+msgid "Choose Importance"
+msgstr "Roghnaigh Tábhacht"
+
+msgid "Department"
+msgstr "Roinn"
+
+msgid "Sales"
+msgstr "Díolacháin"
+
+msgid "Other"
+msgstr "Eile"
+
+msgid "Choose Department"
+msgstr "Roghnaigh an Roinn"
+
+msgid "Loading"
+msgstr "Loading"
+
+msgid "Importance"
+msgstr "Tábhacht"
+
+msgid "Send A New Message"
+msgstr "Seol Teachtaireacht Nua"
+
+msgid "Send message"
+msgstr "Seol teachtaireacht"
+
+msgid "Answers to Questions"
+msgstr "Freagraí ar Cheisteanna"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Bíodh aon cheisteanna agat? Léigh tuilleadh treorach inár bhfreagraí ar "
+"cheisteanna custaiméirí agus faigh na freagraí ar do chuid féin."
+
+msgid "How secure is CaseActive?"
+msgstr "Cé chomh slán atá CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"Úsáideann CaseActive criptiúchán SSL 128-giotán míleata agus bainc le "
+"haghaidh tarchur sonraí agus criptiú AES 256-giotán le haghaidh sonraí ar "
+"fos. Tá eochair uathúil ginte ag gach cás CaseActive, a sholáthraíonn sraith"
+" bhreise slándála do do ghnó. Ní ligfimid do chuideachta eile rochtain a "
+"fháil ar do bhunachar sonraí nó ar do chóras stórála."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Tá córas reatha i bhfeidhm agam, An féidir le CaseActive oibriú le mo chóras"
+" reatha?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Sea, is féidir leat ár n-API dílseánaigh nó modúl allmhairithe a chomhtháthú"
+" chun cásanna a chruthú go huathoibríoch, úsáideoirí a shannadh, agus "
+"tuarascálacha a ghiniúint bunaithe ar ionchur do chórais."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Tá cliaint againn ar fud an domhain. An bhfuil CaseActive ar fáil i "
+"dteangacha eile?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Sea, is féidir aip agus cumarsáid CaseActive a aistriú go breis is 60 "
+"teanga, lena n-áirítear Sínis Mandairínis, Spáinnis, Hiondúis agus Rúisis "
+"chomh maith le Béarla."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"An féidir liom lógó a chur leis nó CaseActive a shaincheapadh ar bhealach ar"
+" bith?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Cinnte! Dearadh CaseActive leatsa. Ar leathanach socruithe an phainéil "
+"riaracháin, is féidir leat do dhath pearsanta féin a uaslódáil agus dathanna"
+" do chuideachta a roghnú."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"An bhfuil CaseActive comhoiriúnach le haon fheiste (PC, Mac, Tablet agus "
+"Soghluaiste)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"Is feidhmchlár gréasáin sofhreagrach é CaseActive. Ritheann sé in aon "
+"bhrabhsálaí gréasáin cosúil le Internet Explorer, Firefox, Safari nó Chrome,"
+" etc. Ciallaíonn sé seo nach ndéanann an cineál feiste (PC, Mac, Tablet agus"
+" Soghluaiste) atá in úsáid agat aon difríocht. Níl ort ach an brabhsálaí "
+"gréasáin a oscailt, logáil isteach i do chuntas CaseActive, agus tá tú "
+"socraithe go léir."
+
+msgid "How many clients can I have?"
+msgstr "Cé mhéad cliant is féidir a bheith agam?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Gearrtar ort in aghaidh suíochán foirne, in aghaidh na míosa. Is féidir leat"
+" úsáideoirí cliant gan teorainn a bheith agat."
+
+msgid "Enhance User Experience"
+msgstr "Feabhas a chur ar Eispéireas Úsáideora"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Níl aon táillí íosta agus aon ghealltanais roimh ré. Ní íocann tú ach in "
+"aghaidh suíochán foirne, in aghaidh na míosa."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "in aghaidh na míosa"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Gach rud atá uait chun tús a chur leis. Tá 3 shuíochán san áireamh."
+
+msgid "Business"
+msgstr "Gnó"
+
+msgid "Popular"
+msgstr "Coitianta"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "An plean is coitianta atá againn. Tá 4 shuíochán san áireamh."
+
+msgid "Enterprise"
+msgstr "Fiontar"
+
+msgid "Contact sales for pricing"
+msgstr "Déan teagmháil le díolacháin le haghaidh praghsanna"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Praghsáil Chustaim, Ardghnéithe, SSO, Webbhooks."
+
+msgid "Contact Sales"
+msgstr "Déan Teagmháil Díolacháin"
+
+msgid "Overview"
+msgstr "Forbhreathnú"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Déan doiciméid a chur in iúl agus a roinnt le do chliaint"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Sceideal imeachtaí athfhillteacha agus cruinnithe"
+
+msgid "Fully customize your form to generate data"
+msgstr "Saincheap go hiomlán d'fhoirm chun sonraí a ghiniúint"
+
+msgid "Keep track of case progression"
+msgstr "Súil a choinneáil ar dhul chun cinn cáis"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Iarr ríomhshínithe comhlíontach ó úsáideoirí iolracha"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Gin sonrasc le gur féidir le do chliant féachaint air nó a íoc"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr ""
+"Ligeann sé do gach duine a fhios a bheith acu cad atá le teacht agus atá "
+"dlite"
+
+msgid "Auto notify the user when something is due"
+msgstr ""
+"Cuir an t-úsáideoir ar an eolas go huathoibríoch nuair a bhíonn rud éigin "
+"dlite"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Cuir réimsí cáis saincheaptha leis do do chásanna go léir"
+
+msgid "Custom Branding"
+msgstr "Brandáil Chustaim"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Déan d'aip uathúil le lógó agus stíleanna datha"
+
+msgid "Access to customer support"
+msgstr "Rochtain ar thacaíocht do chustaiméirí"
+
+msgid "Storage"
+msgstr "Stóráil"
+
+msgid "Unlimited"
+msgstr "Gan teorainn"
+
+msgid "Additional Users Seats"
+msgstr "Suíocháin Úsáideoirí Breise"
+
+msgid "N/A"
+msgstr "N / A"
+
+msgid "$83.34"
+msgstr "$83.34"
+
+msgid "Convo with recording"
+msgstr "Convo le taifeadadh"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Físeán nó comhrá fuaime le taifeadadh a shábháil ar an gcás"
+
+msgid "API Access"
+msgstr "Rochtain API"
+
+msgid "Automate tasks with access to API"
+msgstr "Uathoibriú tascanna le rochtain ar API"
+
+msgid "Module Templates"
+msgstr "Teimpléid Modúil"
+
+msgid "Create a standard template and reuse it"
+msgstr "Cruthaigh teimpléad caighdeánach agus athúsáid é"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr "Gníomh a rith go huathoibríoch nuair a spreagtar cás nó cás sannta"
+
+msgid "Newsletter"
+msgstr "Nuachtlitir"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Seol teachtaireachtaí ginearálta, lá breithe nó saoire chuig cliaint (Ag "
+"teacht go luath)"
+
+msgid "Encryption at rest"
+msgstr "Criptiú ar fos"
+
+msgid "Protects your data from system compromise"
+msgstr "Cosnaíonn do shonraí ó chomhréiteach córais"
+
+msgid "Encryption in transit"
+msgstr "Criptiú faoi bhealach"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Cosnaíonn sé do shonraí má dhéantar cumarsáid a idircheapadh"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Síniú aonair bunaithe ar SAML (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Freagair fíor-ama ar imeachtaí"
+
+msgid "Seamless Collaboration"
+msgstr "Comhoibriú gan uaim"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"Déanann CaseActive comhar digiteach idir do chuideachta agus do chliaint a "
+"shruthlíniú - ó chomhairliúchán go réiteach, ar fad ar ardán amháin."
+
+msgid "Take a tour"
+msgstr "Tóg turas"
+
+msgid "Stay Connected"
+msgstr "Fanacht Nasctha"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Déan teagmháil láithreach le baill foirne agus comhéadan so-úsáidte "
+"CaseActive á úsáid agat mar mhol aon stad do bhainistíocht cliant agus cás."
+
+msgid "Connect"
+msgstr "Ceangal"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Coinníonn Case Feed tú suas chun dáta le do chliaint."
+
+msgid "Schedule"
+msgstr "Sceideal"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Imeachtaí a chruthú, cuireadh a thabhairt do lucht freastail agus "
+"monatóireacht a dhéanamh ar do fhéilire."
+
+msgid "Call"
+msgstr "Glaoigh"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "Dul i mbun glaonna físchomhdhála beo aon uair, in áit ar bith."
+
+msgid "Share"
+msgstr "Comhroinn"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Comhaid a uaslódáil go daingean, iad a phlé agus a roinnt."
+
+msgid "Powerful Case Management"
+msgstr "Bainistiú Cásanna cumhachtacha"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Feidhmiúlacht Lasmuigh den Bhosca"
+
+msgid "Easily assign individuals"
+msgstr "Daoine a shannadh go héasca"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "nó foirne le cás agus comhoibriú le cliaint."
+
+msgid "Manage user groups"
+msgstr "Bainistigh grúpaí úsáideoirí"
+
+msgid "and customize access permissions."
+msgstr "agus ceadanna rochtana a shaincheapadh."
+
+msgid "All data is automatically backed up"
+msgstr "Tacaítear go huathoibríoch leis na sonraí go léir"
+
+msgid "in case a recovery is ever needed."
+msgstr "i gcás go bhfuil gá le téarnamh riamh."
+
+msgid "All information"
+msgstr "Gach eolas"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr ""
+"Déantar é a chriptiú go daingean, ag cinntiú do phríobháideacht iomlán."
+
+msgid "Customize"
+msgstr "Saincheap"
+
+msgid "with your own colors and logo."
+msgstr "le do chuid dathanna agus lógó féin."
+
+msgid "can be enabled/disabled at any time."
+msgstr "is féidir a chumasú / a chur faoi mhíchumas ag am ar bith."
+
+msgid "Benefits of "
+msgstr "Buntáistí a bhaineann le"
+
+msgid "Reduction in time "
+msgstr "Laghdú ar an am"
+
+msgid "to intake new clients"
+msgstr "chun cliaint nua a ghlacadh"
+
+msgid "Minimize "
+msgstr "Íoslaghdaigh"
+
+msgid "the chance of "
+msgstr "an seans"
+
+msgid "malpractice"
+msgstr "míchleachtas"
+
+msgid "Better experience "
+msgstr "Taithí níos fearr"
+
+msgid "for your client"
+msgstr "do do chliant"
+
+msgid "Increase in caseload capacity "
+msgstr "Méadú ar acmhainn ualaigh cásanna"
+
+msgid "per staff"
+msgstr "in aghaidh na foirne"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Faigh Tús le ár nAipeanna Tógtha"
+
+msgid "All you need in one place."
+msgstr "Gach a theastaíonn uait in aon áit amháin."
+
+msgid "Case Feed"
+msgstr "Fotha Cáis"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Cliant, foireann agus comhlaigh a shannadh go héasca do chás agus dul i mbun"
+" spáis shlán a ligeann duit dul chun cinn cáis a phostáil, comhrá comhrá "
+"agus físe fíor-ama a bheith agat, chomh maith le himeachtaí a sceidealú, "
+"doiciméid a ríomh-shíniú / a uaslódáil / a íoslódáil, agus i bhfad níos mó."
+
+msgid "Case Invoices"
+msgstr "Sonraisc Cháis"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Le sonrascadh de réir mar a théann tú, níl i mbilleáil cliant ach cliceáil "
+"ar shiúl, agus ligeann duit iarratais ar chistí a ghintear go huathoibríoch "
+"a sheoladh agus íocaíochtaí díreacha a fháil ar ais."
+
+msgid "Case Events"
+msgstr "Imeachtaí Cás"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Coinnigh d’fhéilire cáis eagraithe i gcónaí, imeachtaí a sceidealú, cuireadh"
+" a thabhairt do lucht freastail, meabhrúcháin imeachta a sheoladh, agus a "
+"chinntiú go bhfanann gach rud ar an mbóthar."
+
+msgid "Case Convo"
+msgstr "Cás Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Buail leis na cliaint agus le baill na foirne beagnach ‘duine le duine’ trí "
+"fhíschomhdháil ionsuite ionas gur féidir leat labhairt go díreach le gach "
+"duine atá bainteach leis."
+
+msgid "Case Forms & E-signs"
+msgstr "Foirmeacha Cásanna & Ríomhchomharthaí"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Déan d’fhoirm cáis a shaincheapadh go hiomlán chun teimpléid uathúla a "
+"ghiniúint a fhreastalóidh ar do riachtanais shonracha. Is féidir na "
+"teimpléid seo a dháileadh ansin ar chliaint agus ar bhaill foirne le líonadh"
+" agus le síniú"
+
+msgid "Case notes"
+msgstr "Nótaí cáis"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Coinnigh nótaí le réimsí saincheaptha agus ceangaltáin ar dhul chun cinn "
+"cáis do bhaill foirne reatha agus sa todhchaí"
+
+msgid "Case Media"
+msgstr "Meáin Cháis"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Comhaid a bhaineann leis an gcás a uaslódáil, a roinnt, trácht orthu agus a "
+"íoslódáil ionas go mbeidh tagairt ag gach duine ar na sonraí, na daoine agus"
+" na cásanna tábhachtacha go léir."
+
+msgid "About Case"
+msgstr "Maidir le Cás"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Lig do chliaint agus don fhoireann sonraí ginearálta a fheiceáil maidir leis"
+" na cásanna a bhfuil baint acu leo. Is féidir leat an cás a dhúnadh ansin "
+"nuair a bhíonn gach rud fillte, nó údarú a thabhairt do bhall foirne déanamh"
+" amhlaidh."
+
+msgid "Plus Many More Features"
+msgstr "Móide go leor Gnéithe Níos Mó"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Úsáid an Ghné Riaracháin Féinfhreastail Glac smacht iomlán ar do shraith "
+"bainistíochta CaseActive ón ardán féin."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Nasc go dícheallach an córas atá agat cheana le CaseActive Comhtháthaigh ár "
+"API dílseánaigh chun cásanna a chruthú go huathoibríoch, úsáideoirí a "
+"shannadh, agus tuarascálacha a ghiniúint bunaithe ar d’ionchur córais."
+
+msgid "Multi-Language Enabled:"
+msgstr "Cumasaithe Il-Teanga:"
+
+msgid "Interact with clients in"
+msgstr "Idirghníomhú le cliaint isteach"
+
+msgid "70+ languages"
+msgstr "70+ teanga"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Cibé acu atá tú ag obair go háitiúil nó go domhanda, is féidir leat teanga "
+"dhúchais do chliaint a aistriú trí CaseActive"
+
+msgid "language management system"
+msgstr "córas bainistíochta teanga"
+
+msgid "No more confusion or limits."
+msgstr "Níl níos mó mearbhaill ná teorainneacha ann."
+
+msgid "Let's see what others are saying"
+msgstr "A ligean ar a fheiceáil cad atá á rá ag daoine eile"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Faigh amach cé mar a threisigh ár gcustaiméirí uamhnach - ó ghnólachtaí "
+"beaga go fiontair chorparáideacha - a mbuntáiste iomaíoch trí bheith ina "
+"laochra CaseActive."
+
+msgid "SUPPORT"
+msgstr "TACAÍOCHT"
+
+msgid "Everything at Your Fingertips."
+msgstr "Gach rud ar do mhéar."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Cuir tús le do app CaseActive trí ár dtreoirleabhar físeáin a leanúint, agus"
+" é a oiriúnú do do chuid riachtanas."
+
+msgid "What are you looking for..."
+msgstr "Cad atá tú ag féachaint faoi..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Nuashonraithe Deiridh: 7 Meitheamh, 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"Forchoimeádann CaseActive an ceart, tráth ar bith agus dá lánrogha féin, aon"
+" cheann nó gach ceann de na Téarmaí Seirbhíse seo a nuashonrú agus a athrú. "
+"Nuair a athraíonn CaseActive na Téarmaí Seirbhíse seo, modhnóidh CaseActive "
+"an dáta ‘Last Updated’ thuas. Tá tú freagrach as athbhreithniú rialta a "
+"dhéanamh ar an leagan is reatha den tSeirbhís. Is éard a bheidh i d’úsáid "
+"leanúnach na Seirbhísí tar éis aon athruithe den sórt sin a dhéanamh ná do "
+"thoiliú a bheith faoi cheangal ag athruithe den sórt sin. Má chuireann tú i "
+"gcoinne aon athruithe ar na Téarmaí Seirbhíse seo, is é an t-aon leigheas "
+"eisiach a bheidh agat ná na Seirbhísí a fhoirceannadh de réir na dtéarmaí "
+"anseo."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Baineann na Téarmaí Ginearálta Seirbhíse seo leis na Seirbhísí i gcoitinne. "
+"Tá na téarmaí breise is infheidhme maidir le gach Seirbhís a thairgtear "
+"leagtha amach sna naisc thíos (na &#39;Téarmaí Seirbhíse Breise&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Seirbhísí:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Is ardán seirbhíse é ár mbogearraí dílseánaigh a óstáilimid dár gcustaiméirí"
+" d’fhonn na seirbhísí atá mionsonraithe thíos a thairiscint. Chun liostáil "
+"le haghaidh Seirbhíse, ní mór duit Foirm Ordaithe a fhorghníomhú don "
+"tSeirbhís sin agus / nó an sreabhadh sínithe don tSeirbhís sin a chomhlánú. "
+"Níl tú i dteideal ach na Seirbhísí a ndearna tú suibscríobh agus íoc astu a "
+"úsáid, agus tá d’úsáid de na Seirbhísí faoi réir do chomhlíonadh le téarmaí "
+"agus coinníollacha uile an Chomhaontaithe. Admhaíonn tú agus aontaíonn tú go"
+" gcoinnímid an ceart na Seirbhísí (nó aon chuid díobh) a mhodhnú ó am go ham"
+" agus nach mbeimid faoi dhliteanas duit ná d&#39;aon tríú páirtí as aon "
+"mhodhnú ar na Seirbhísí."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Cur síos ar an tSeirbhís CaseActive: Is é atá i Seirbhís CaseActive an "
+"tsraith seirbhísí bogearraí óstáilte do bhainistíocht comhoibrithe cliant ar"
+" líne a thairgeann CaseActive LLC. Aithníonn an sreabhadh sínithe a "
+"d’aontaigh tú leis, nó an Fhoirm Ordaithe a rinne tú, an tSeirbhís "
+"CaseActive a ndearna tú suibscríobh di, an téarma síntiúis agus na táillí is"
+" iníoctha agat as an tSeirbhís CaseActive. Tá na téarmaí agus coinníollacha "
+"breise is infheidhme maidir le d’úsáid as an tSeirbhís CaseActive leagtha "
+"amach ag:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Na Seirbhísí a Leathnú:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Féadfaidh tú liostáil le haon Seirbhísí breise, lena n-áirítear Seirbhísí "
+"nua a chuirfidh CaseActive ar fáil ó am go ham, nó do Sheirbhísí atá ann "
+"cheana a mhéadú trí Fhoirm Ordaithe nó sreabhadh sínithe breise a "
+"fhorghníomhú, mar chuid de na Seirbhísí. Cuimseoidh gach sreabhadh sínithe "
+"nó Foirm Ordaithe nua praghas agus dáta (í) billeála na Seirbhísí a "
+"chuirfear leis ag an am sin. Tá gach Seirbhís nua faoi réir na dTéarmaí "
+"Seirbhíse Ginearálta seo agus aon téarmaí agus coinníollacha breise a "
+"d’fhéadfadh a bheith i bhfeidhm go sonrach maidir le Seirbhísí breise den "
+"sórt sin."
+
+msgid "3. Customer Support:"
+msgstr "3. Tacaíocht do Chustaiméirí:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Ar choinníoll gur íoc tú na táillí go léir atá iníoctha agat as na "
+"Seirbhísí, úsáidfimid iarrachtaí réasúnta tráchtála chun seirbhísí "
+"tacaíochta teicniúla a sholáthar duit féin agus d’úsáideoirí údaraithe a "
+"shuibscríobh leis na Seirbhísí, gan aon táille ort. Sannfar ionadaí "
+"seirbhísí cliant do do chásanna. Glactar le cásanna neamhtheoranta ó "
+"úsáideoirí údaraithe. Tá ár dtacaíocht chaighdeánach ar fáil 24/7, gan "
+"laethanta saoire móra a áireamh, lena n-áirítear Lá Cuimhneacháin, Lá na "
+"Saoirse, Lá an Lucht Oibre, Lá an Bhuíochais, na Nollag agus Lá Caille. "
+"Féadfaidh tú teagmháil a dhéanamh le tacaíocht do chustaiméirí trí úsáid a "
+"bhaint as ár"
+
+msgid "Contact Form"
+msgstr "Foirm Teagmhála"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Ní bheidh ár gcuid ama freagartha níos mó ná dhá lá gnó."
+
+msgid "4. Training:"
+msgstr "4. Oiliúint:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Ar choinníoll gur íoc tú na táillí go léir atá iníoctha agat as na "
+"Seirbhísí, cuirfimid seisiúin oiliúna iargúlta, beo nó taifeadta ar fáil "
+"d’úsáideoirí ainmnithe, ainmnithe agus údaraithe chomh maith le ranganna "
+"teagaisc a sholáthar atá inrochtana tríd an gcuid Cabhair agus Oiliúna ar ár"
+" suíomh Gréasáin ag aon mhuirear breise. Cuirimid roinnt oiliúna ar an "
+"láthair ar fáil do roinnt Seirbhísí arna iarraidh sin agus le haghaidh "
+"muirear breise. Téigh i dteagmháil linn trí úsáid a bhaint as ár"
+
+msgid "for more information about on-site training."
+msgstr "chun tuilleadh faisnéise a fháil faoi oiliúint ar an láthair."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Do Chearta agus do Shrianta:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Ceadúnas: Faoi réir théarmaí agus choinníollacha an Chomhaontaithe, agus"
+" ar íocaíocht thráthúil na dtáillí infheidhme go léir atá leagtha amach san "
+"Fhoirm Ordaithe nó sa sreabhadh sínithe, deonaímid leis seo ceart neamh-"
+"eisiatach, neamh-inaistrithe, teoranta agus ceadúnas chun na Seirbhísí a "
+"ndearna tú suibscríobh leo a úsáid (agus cead a thabhairt d’úsáideoirí "
+"údaraithe iad a úsáid) chun críocha do ghnó inmheánaigh amháin."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Úsáideoirí Údaraithe: Tá tú (i) freagrach as comhlíonadh d’úsáideoirí "
+"údaraithe leis an gComhaontú, agus (ii) úsáidfidh tú iarrachtaí atá réasúnta"
+" tráchtála chun rochtain neamhúdaraithe ar na Seirbhísí nó úsáid "
+"neamhúdaraithe a chosc agus tabharfaidh tú fógra láithreach dúinn faoi aon "
+"rochtain neamhúdaraithe den sórt sin nó úsáid. Is ortsa atá an fhreagracht "
+"rochtain ar na Seirbhísí a bhaint má athraíonn stádas údaraithe úsáideora nó"
+" fostaí ainmnithe."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Do Fhreagrachtaí agus do Shrianta: Tá tú freagrach as gach gníomhaíocht "
+"a tharlaíonn faoi do chuntais úsáideora nó ag d’úsáideoirí údaraithe. Is iad"
+" seo a leanas: (i) beidh an t-aon fhreagracht ort as cruinneas, cáilíocht, "
+"ionracas, dlíthiúlacht, iontaofacht agus oiriúnacht na sonraí go léir a "
+"chuireann tú faoi bhráid na Seirbhísí; (ii) iarrachtaí réasúnta tráchtála a "
+"úsáid chun rialú nó cur isteach neamhúdaraithe nó aon rochtain "
+"neamhúdaraithe eile ar na Seirbhísí a chosc agus a chur in iúl dúinn go pras"
+" faoi aon úsáid neamhúdaraithe nó sárú slándála; (iii) cloí leis na dlíthe "
+"áitiúla, stáit, cónaidhme agus eachtrannacha go léir is infheidhme (lena "
+"n-áirítear dlíthe maidir le príobháideacht agus cosaint faisnéise pearsanta "
+"nó tomhaltóra) agus na Seirbhísí á n-úsáid; (iv) a mhéid is infheidhme, cloí"
+" le rialacha infheidhme uile na gcomhlachas cárta creidmheasa (lena "
+"n-áirítear American Express, MasterCard agus Visa); agus (v) na crua-earraí "
+"ríomhaireachta, na bogearraí agus an trealamh cumarsáide go léir a "
+"theastaíonn chun rochtain a fháil ar na Seirbhísí a fháil agus a "
+"chothabháil, agus gach muirear rochtana (m.sh. táillí ISP) a thabhaíonn tú i"
+" dtaca le d’úsáid na Seirbhísí a íoc."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Ní fhéadfaidh tú, agus cinnteoidh tú nach ndéanfaidh d’úsáideoirí údaraithe,"
+" (i) aon chód a bhaineann leis na Seirbhísí a dhíchumadh, a aisiompú, a dhí-"
+"chomhbhrú nó iarracht a dhéanamh ar bhealach eile chun aon chód a bhaineann "
+"leis na Seirbhísí a dhíspreagadh, nó saothair dhíorthacha a mhodhnú, a "
+"oiriúnú, a chruthú bunaithe ar, nó a aistriú Seirbhísí; (ii) ceadúnas, fo-"
+"cheadúnú, díol, cíos, sannadh, dáileadh, aistriú sciar ama, léasú, iasacht, "
+"athdhíol le haghaidh brabúis, dáileadh nó saothrú ar bhealach tráchtála, "
+"cearta a dheonú nó a chur ar fáil d&#39;aon tríú páirtí; (iii) na Seirbhísí "
+"a úsáid ach amháin mar a údaraítear go sainráite faoi seo nó de shárú ar aon"
+" dlíthe is infheidhme; (iv) dul i mbun aon chleachtas trádála mídhleathach "
+"nó mealltach maidir leis na Seirbhísí; (v) aon urrús nó aon ghnéithe nó "
+"bearta teicniúla eile de chuid na Seirbhísí nó aon ghné eile den Bhogearra a"
+" shárú nó a dhíchumasú nó, ar bhealach ar bith, iarracht a dhéanamh rochtain"
+" neamhúdaraithe a fháil nó a bhaint amach ar na Seirbhísí nó ar na córais nó"
+" na líonraí ríomhaireachta gaolmhara; (vi) na Seirbhísí a úsáid chun ábhar "
+"sáraitheach, leabhal, graosta, bagrach nó neamhdhleathach, neamhshábháilte, "
+"mailíseach, maslach nó céasta a tharchur, nó chun ábhar a stóráil nó a "
+"tharchur de shárú ar chearta príobháideachta tríú páirtí; (vii) an tSeirbhís"
+" a úsáid chun aon víris, péisteanna, buamaí ama, capaill Traí agus cód, "
+"comhaid, scripteanna, gníomhairí nó cláir dhochracha nó mhailíseacha eile a "
+"stóráil nó a tharchur, nó chun spam nó teachtaireachtaí dúblacha nó gan "
+"iarraidh a sheoladh ar shlí eile de shárú ar na dlíthe is infheidhme. ; nó "
+"(viii) cur isteach nó cur isteach ar shláine nó ar fheidhmíocht na Seirbhísí"
+" nó sonraí tríú páirtí atá iontu."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Forchoimeádas Cearta: Ní dheonaítear aon chearta eile ach amháin mar atá"
+" leagtha amach go sainráite sa Chomhaontú. Ní díolachán é an Comhaontú agus "
+"ní thugann sé aon chearta ná úinéireacht sna Seirbhísí nó in aon bhogearra "
+"bunúsach. Is leis na cearta, an teideal agus an leas go léir atá againn, "
+"lena n-áirítear na cearta maoine intleachtúla go léir, sna Seirbhísí agus "
+"sna bogearraí bunúsacha agus ina leith, agus aon nuashonruithe, uasghrádú, "
+"modhnuithe, feabhsúcháin, feabhsúcháin nó oibreacha díorthacha uile, agus in"
+" aon smaoineamh, eolas conas, agus cláir a d’fhorbair muidne nó ár "
+"gceadúnaithe le linn chomhlíonadh na Seirbhísí."
+
+msgid "6. Term and Termination:"
+msgstr "6. Téarma agus Foirceannadh:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Téarma: Athraíonn téarma na Seirbhísí ag brath ar an tSeirbhís a ndearna"
+" tú suibscríobh léi agus leagfar amach í ar an bhFoirm Ordaithe nó ar "
+"aontaigh tú léi sa sreabhadh sínithe agus déanfaidh sí athnuachan mar seo a "
+"leanas:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Téarma Seirbhíse Cás-Ghníomhach: Déanfaidh do Síntiús le Seirbhís "
+"CaseActive athnuachan go huathoibríoch ar feadh téarmaí comhleanúnacha míosa"
+" nó bliana, mar atá leagtha amach ar an bhFoirm Ordaithe nó ar an sreabhadh "
+"sínithe, mura scoirimid den tSeirbhís a sholáthraíonn tú fógra dúinn neamh-"
+"athnuachan tríocha (30) lá ar a laghad sula rachaidh an téarma reatha in "
+"éag."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Téarma Seirbhísí Láithreán Gréasáin CaseActive: Déanfaidh do shíntiús "
+"le seirbhísí láithreán gréasáin CaseActive athnuachan go huathoibríoch ar "
+"feadh téarmaí comhleanúnacha míosa nó bliana, mar atá leagtha amach ar an "
+"bhFoirm Ordaithe nó ar an sreabhadh sínithe, mura scoirimid den tSeirbhís nó"
+" má sholáthraíonn tú sinn le fógra neamh-athnuachana tríocha (30) lá ar a "
+"laghad sula rachaidh an téarma reatha in éag."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Ní mór duit fógra i scríbhinn maidir le neamh-athnuachan a chur faoi "
+"bhráid CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Foirceannadh: Féadfaidh ceachtar páirtí an Comhaontú agus gach síntiús "
+"Seirbhíse a fhoirceannadh (i) má sháraíonn an páirtí eile aon cheann dá "
+"oibleagáidí ábhartha faoin gComhaontú agus mura ndéantar an sárú sin a "
+"leigheas laistigh de thríocha (30) lá tar éis fógra a fháil ón neamh-shárú. "
+"páirtí, nó (ii) má éiríonn an páirtí eile dócmhainneach nó féimheach, "
+"leachtaithe nó díscaoilte, nó má scoireann sé dá ghnó go mór. Féadfaimid an "
+"Comhaontú a fhoirceannadh láithreach má sháraítear Roinn 5.3 thuas. Ar "
+"fhoirceannadh an Chomhaontaithe, scoirfidh tú láithreach de úsáid na "
+"Seirbhísí, scoirfidh tú d’ionadaíocht a dhéanamh i bhfoirm ar bith gur "
+"úsáideoir na Seirbhísí tú, agus scriosfaidh tú ár gcuid faisnéise rúnda go "
+"léir atá i do sheilbh. Ní bheidh ceachtar páirtí faoi dhliteanas as aon "
+"damáistí a thiocfaidh as foirceannadh an Chomhaontaithe nó as aon síntiúis "
+"le Seirbhísí mar a fhoráiltear dó anseo; ar choinníoll, áfach, nach "
+"ndéanfaidh foirceannadh an Chomhaontaithe difear d&#39;aon éileamh a "
+"éireoidh roimh an bhfoirceannadh sin."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Láimhseáil do Shonraí i gcás Foirceanta: Admhaíonn tú agus aontaíonn tú "
+"go bhféadfaimis na Seirbhísí lena mbaineann a dhíghníomhachtú láithreach tar"
+" éis dul in éag nó foirceannadh aon cheann de do shíntiúis leis na Seirbhísí"
+" agus, tar éis tréimhse réasúnta nach lú ná nócha (90 ) lá, féadfaidh sé do "
+"chuntas agus do shonraí a scriosadh. Mar sin féin, i gcás go gcuirfimid "
+"deireadh leis na Seirbhísí, deonóimid rochtain shealadach theoranta duit ar "
+"na Seirbhísí, gan dul thar tríocha (30) lá, chun ligean duit do shonraí "
+"dílseánaigh a aisghabháil, ar choinníoll, go d&#39;íoc tú go hiomlán gach "
+"suim chonspóideach de mheon macánta atá dlite dúinn. Aontaíonn tú freisin "
+"nach mbeimid faoi dhliteanas duit ná d&#39;aon tríú páirtí as aon "
+"fhoirceannadh ar do rochtain ar na Seirbhísí nó ar scriosadh do chuid "
+"sonraí, ar an gcoinníoll go bhfuilimid ag comhlíonadh théarmaí Roinn 6.3 "
+"seo."
+
+msgid "7. Fees:"
+msgstr "7. Táillí:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Táillí Seirbhíse: Íocfaidh tú na táillí neamh-inaisíoctha as na "
+"Seirbhísí sa mhéid atá leagtha amach sa sreabhadh sínithe nó san Fhoirm "
+"Ordaithe (&#39;Táillí Seirbhíse&#39;) agus de réir na minicíochta billeála a"
+" luaitear sa sreabhadh sínithe nó san Ordú Foirm. Beidh Táillí Seirbhíse "
+"dlite agus iníoctha ar dháta an tsonraisc. Féadfar Táillí Seirbhíse a mhéadú"
+" bunaithe ar ár dtáillí reatha. Níl Táillí Seirbhíse inaisíoctha fiú má "
+"chuireann tú deireadh le do shíntiús go luath."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Táillí Breise: D’fhéadfá táillí nó muirir neamh-inaisíoctha eile a "
+"thabhú as d’úsáid na Seirbhísí i dteannta na dtáillí sin atá leagtha amach "
+"san Fhoirm Ordaithe agus / nó sa sreabhadh sínithe. Tá na táillí agus na "
+"muirir neamh-inaisíoctha breise leagtha amach sna téarmaí breise don "
+"tSeirbhís is infheidhme."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Íocaíochtaí Déanacha: Admhaíonn tú go bhféadfadh do shíntiús (í) táirge "
+"CaseActive a bheith curtha ar fionraí nó a fhoirceannadh mar thoradh ar do "
+"mhainneachtain aon táillí nó muirir a íoc. Má theipeann ort aon cheann de na"
+" táillí nó na muirir atá dlite faoi seo a íoc, forchoimeádann CaseActive an "
+"ceart gníomhaireacht bailiúcháin a fhostú chun na táillí agus na muirir a "
+"bhailiú agus íocfaidh tú na costais go léir a thabhaigh CaseActive i ndáil "
+"le bailiú na méideanna dlite roimhe seo, lena n-áirítear , gan teorainn, "
+"táillí aturnaetha réasúnacha agus gníomhaireachtaí bailiúcháin móide ús i "
+"méid atá comhionann leis an gceann is lú de 1.0% in aghaidh na míosa nó an "
+"ráta uasta a cheadaítear leis an dlí is infheidhme."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Cánacha: Beidh tú freagrach as gach cáin díolacháin, cáin úsáide, "
+"cánacha breisluacha, cánacha iarchoimeádta agus aon chánacha agus muirir "
+"eile dá samhail a fhorchuireann aonáin rialtais cónaidhme, stáit nó áitiúla "
+"ar na hidirbhearta atá beartaithe ag an gComhaontú. Nuair a bhíonn "
+"oibleagáid dhlíthiúil orainn cánacha a bhfuil tú freagrach astu a íoc nó a "
+"bhailiú, de bhun na Roinne seo, sonraiscfidh tú agus íocfaidh tú an méid "
+"iomchuí mura soláthraíonn tú deimhniú bailí díolúine cánach atá údaraithe ag"
+" an údarás cánach iomchuí."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Ionadaíochtaí agus Barántais:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Ionadaíochtaí agus Barántais Frithpháirteach: Déanann gach páirtí leis "
+"seo ionadaíocht agus barántas don pháirtí eile (i) go bhfuil an t-údarás "
+"riachtanach aige go léir chun a oibleagáidí faoin gComhaontú a dhéanamh agus"
+" a chomhlíonadh gan toiliú aon tríú páirtí nó sárú ar aon chonradh nó "
+"comhaontú leis aon tríú páirtí, (ii) go ndearna gach duine a chomhlíonann "
+"aon oibleagáidí faoi seo gach comhaontú riachtanach chun go gcomhlíonfaidh "
+"sé téarmaí agus coinníollacha an Chomhaontaithe, agus (iii) go "
+"gcomhlíonfaidh sé gach dlí is infheidhme maidir leis na dlíthe go léir is "
+"infheidhme maidir le na Seirbhísí."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Ionadaíochtaí agus Barántais Bhreise: Tugann tú barántas, ionadaíocht "
+"agus cúnant dúinn nach n-úsáidfidh tú na Seirbhísí ach chun críocha "
+"dleathacha de réir an Chomhaontaithe agus gach beartas agus treoirlínte "
+"CaseActive is infheidhme."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8 DE TRÁDÁIL, MAIDIR LE hAON AON ÁBHAR, LENA N-ÁIRÍTEAR SIN SIN "
+"INNEALTÓIREACHT, CÁILÍOCHT SÁRTHAÍOCHTA, TEIDEAL, FEASACHT CHUN CRÍOCH "
+"SONRACH, NÓ NEAMH-INFHEISTÍOCHTA. NÍ BHFUIL BARÁNTAS GO BHFUIL AN BOGEARRA "
+"NÓ NA SEIRBHÍSÍ GACH CEANN DE DO CEANGLAIS, LENA N-ÁIRÍTEAR CEANGLAIS "
+"CUNTASAÍOCHTA, NÓ GO BHFUIL ÚSÁID AN BOGEARRA NÓ NA SEIRBHÍSÍ IN AON "
+"PHRÍOMH-NÓ SEIRBHÍS SAOR IN AISCE. TÁ AN BOGEARRAÍ AGUS NA SEIRBHÍSÍ A "
+"SHOLÁTHAR TÚ AR BHUNAS &#39;MAR IS&#39; AGUS IS FÉIDIR LE DO ÚSÁID BOGEARRAÍ"
+" AGUS SEIRBHÍSÍ A ÚSÁID AG DO RIOSCA FÉIN, LENA N-ÁIRÍTEAR LEIS TEORANTA, "
+"COMHLÍONADH LE hAON DLÍ. CUIREANN NA PÁIRTITHE I bhFEIDHM GO BHFUIL SÉANADH "
+"BARÁNTA CUID EACHTRACH den CHOMHAONTÚ."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"TÁ SÍ I bhFAD AON IONADAITHE NÓ BARÁNTAÍ GO BHFUIL DO ÚSÁID NA SEIRBHÍSÍ "
+"COMHLÍONADH NÓ AON DLÍ DLÍ NÓ DLÍ NÓ RIALACHÁIN. NÍ GHLACFAR LEIS AN SÉANADH"
+" SEO A CHUR ISTEACH LE hAON STÁIT NÓ RIALACHÁIN CHÓNAITHE NÓ STÁIT A BHFUIL "
+"SÉ INFHEIDHME AGAT. TÁ TÚ FREAGRACH IN AISCE CHUN A CHUR ISTEACH GO BHFUIL "
+"DO ÚSÁID NA SEIRBHÍSÍ I dTACA LE DLÍ INFHEIDHME."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"MÁ THOILÍONN TÚ LEIS NA SEIRBHÍSÍ NÓ AN COMHAONTÚ SEO, IS DÍOL SÁSAIMH DI DO"
+" DHÍOLÚINTÍ DÍOLÚINE A ÚSÁID NA SEIRBHÍSÍ."
+
+msgid "9. Confidential Information:"
+msgstr "9. Eolas rúnda:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Mura n-údaraíonn an páirtí eile go sainráite, ní nochtfaidh ceachtar páirtí "
+"d&#39;aon tríú páirtí aon fhaisnéis nó ábhair a sholáthraíonn an páirtí eile"
+" faoin gComhaontú agus a thuigtear le réasún go bhfuil siad faoi rún "
+"(&#39;Faisnéis Rúnda&#39;), nó an fhaisnéis rúnda sin a úsáid ar bhealach ar"
+" bith eile ná a oibleagáidí faoin gComhaontú a chomhlíonadh. Ní bhaineann na"
+" srianta sin roimhe seo le haon fhaisnéis atá i mbéal an phobail nó atá i "
+"seilbh an pháirtí ghlactha cheana féin, a bhí ar eolas ag an bpáirtí glactha"
+" roimh dháta an nochtaithe nó a thagann an páirtí glactha ar an eolas ina "
+"dhiaidh sin ó thríú páirtí a bhfuil dealraitheach ann bona fide ceart an "
+"fhaisnéis, nó an fhaisnéis rúnda a bhfuil oibleagáid ar an bpáirtí glactha í"
+" a thabhairt ar aird de bhun ordú ó chúirt dlínse inniúla nó subpoena "
+"riaracháin bailí, ar choinníoll go soláthraíonn an páirtí glactha fógra "
+"tráthúil do chúirt den sórt sin ordú nó subpoena. Ina theannta sin, "
+"cinnteoidh tú go gcoinneoidh d’úsáideoirí údaraithe faoi rún daingean gach "
+"focal faire agus faisnéis rochtana eile ar na Seirbhísí. Mairfidh an Alt 9 "
+"seo ó fhoirceannadh nó dul in éag an Chomhaontaithe seo."
+
+msgid "10. Indemnification:"
+msgstr "10. Slánú:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Slánaíocht mar gheall ar Shárú: Faoi réir Alt 10.4, déanfaimid, ar ár "
+"gcostas féin, tú a chosaint ar aon éileamh tríú páirtí a thionscnófar ina "
+"choinne a líomhnaíonn go sáraíonn na Seirbhísí aon phaitinn de chuid na SA a"
+" eisítear chuig tríú páirtí amhail ar an Dáta Éifeachtach; nó sárú a "
+"dhéanamh ar aon chóipcheart, trádmharc nó rún trádála aon tríú páirtí (dá "
+"ngairtear le chéile an &#39;Maoin Intleachtúil atá mar Bhun leis na "
+"Seirbhísí&#39;). Sa chás go ndéantar urghaire a lorg nó a fháil i gcoinne "
+"úsáid na Maoine Intleachtúla atá mar bhunús leis na Seirbhísí nó inár "
+"dtuairim gur dóigh go n-iarrfar nó go bhfaighfear í, déanfaimid, ar ár rogha"
+" agus ar ár gcostas, (i) soláthar duit féin agus do do dhuine ainmnithe an "
+"ceart ag úsáideoirí údaraithe leanúint ar aghaidh ag úsáid na Seirbhísí, nó "
+"(ii) na Seirbhísí a athsholáthar nó a mhodhnú chun a n-úsáid a dhéanamh "
+"neamh-sáraitheach agus iad in ann an fheidhm chéanna a chomhlíonadh go "
+"substaintiúil. Sa chás nach bhfuil fo-ailt (i) agus (ii) thuas indéanta go "
+"tráchtála, féadfaimid na Seirbhísí a fhoirceannadh agus aon Táillí Seirbhíse"
+" réamhíoctha ach neamhúsáidte a aisíoc. Ní bheidh oibleagáid orainn aon "
+"chostais nó damáistí faoin Alt 10.1 seo a chosaint nó a bheith faoi "
+"dhliteanas má éiríonn an sárú líomhnaithe as (i) aon mhodhnú ar aon "
+"Sheirbhísí (nó aon cheann de do chuid údaraithe nó aon cheann de do chuid "
+"seirbhísí) úsáideoirí ainmnithe) nó (ii) Seirbhísí a úsáid i gcomhcheangal "
+"le seirbhísí agus táirgí nach soláthraíonn CaseActive dá ndéanfaí an sárú "
+"sin a sheachaint gan an modhnú nó an teaglaim sin, nó (iii) comhlíonadh do "
+"dhearaí nó threoracha nó (iv) éileamh go ní luaitear le sainiúlacht gurb iad"
+" na Seirbhísí is ábhar don éileamh (gach ceann acu &#39;Éileamh "
+"Eisiata&#39;). Mairfidh na hoibleagáidí slánaíochta atá in Alt 10.1 seo ó "
+"fhoirceannadh nó dul in éag an Chomhaontaithe seo."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Slánaíocht maidir le Slándáil Sonraí agus Príobháideacht: Faoi réir Alt"
+" 10.4, agus le linn théarma do shíntiúis leis na Seirbhísí, déanfaimid, ar "
+"ár gcostas, tú a chosaint ar aon éileamh tríú páirtí a thabharfar ina "
+"choinne a líomhnaíonn ár mórfhaillí maidir le rochtain neamhúdaraithe a "
+"chosc. chuig, nó ár mí-iompar toiliúil maidir le Faisnéis inaitheanta "
+"Phearsanta ar do chustaiméirí atá inár seilbh nó inár rialú a nochtadh. Ní "
+"bheidh feidhm ag an slánaíocht seo a mhéid a eascróidh nó a bhaineann an "
+"t-éileamh sin le d’fhaillí nó mí-iompar toiliúil nó le do ghníomhairí nó "
+"d’ionadaithe, nó a mhéid a dhiúltaíonn nó a theorannaíonn dliteanas ceachtar"
+" páirtí faoin gComhaontú. Tá na hoibleagáidí slánaíochta atá leagtha amach "
+"san alt seo ag brath ort má chruthaíonn tú go bhfuil ár n-ollfhaillí nó ár "
+"mí-iompar toiliúil tar éis rochtain dhíreach nó cóngarach a dhéanamh ar "
+"fhaisnéis inaitheanta phearsanta do chustaiméirí atá inár seilbh nó inár "
+"rialú."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Do Shlánaithe: Aontaíonn tú sinn a shlánú, a shealbhú go "
+"neamhdhíobhálach, agus sinn féin agus ár bhfostaithe, oifigigh, stiúrthóirí "
+"agus gníomhairí uile a chosaint ar aon éilimh, éilimh, oireann, imeachtaí, "
+"imscrúduithe, damáistí, costais, costais, agus aon rud eile. dliteanais "
+"(lena n-áirítear táillí aturnae réasúnacha, costais chúirte agus "
+"caiteachais) a éiríonn as (i) d’úsáid na Seirbhísí de shárú ar an "
+"gComhaontú, (ii) Éileamh Eisiata, (iii) aon sárú iarbhír nó líomhnaithe agat"
+" ar aon uiríoll, baránta, cúnant nó oibleagáid faoin gComhaontú, nó (iv) "
+"d’fhaillí mór nó mí-iompar toiliúil. Mairfidh d’oibleagáidí slánaíochta "
+"faoin Alt 10.3 seo ó fhoirceannadh nó dul in éag an Chomhaontaithe."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Fógra agus Comhoibriú: Tá oibleagáidí an pháirtí slánaíochta i leith an"
+" pháirtí slánaíochta faoin Alt 10 thuas coinníollaithe ar (i) páirtí "
+"slánaíochta ag tabhairt fógra go pras do pháirtí slánaíochta i scríbhinn, ar"
+" eolas faoi aon éileamh, a bhféadfadh sé a bheith i dteideal slánaíochta "
+"faoin gComhaontú ina leith. ; (ii) a mhéid is infheidhme, páirtí slánaíochta"
+" ag scor de úsáid na Seirbhísí sáraithe éilithe ar fhógra a fháil; (iii) "
+"páirtí slánaíochta lena gceadaítear do pháirtí slánaíochta an t-aon cheart a"
+" bheith aige cosaint agus socrú aon éilimh den sórt sin a rialú (ar "
+"choinníoll nach bhféadfaidh an páirtí slánaíochta aon éileamh a réiteach gan"
+" toiliú an pháirtí slánaíochta mura scaoilfidh an tsocraíocht páirtí "
+"slánaíochta go neamhchoinníollach ó gach dliteanas); (iv) páirtí slánaíochta"
+" a sholáthraíonn cúnamh réasúnach do pháirtí slánaíochta, ar chostas páirtí "
+"slánaíochta, chun an t-éileamh sin a chosaint; (v) páirtí slánaíochta nach "
+"ndéanann aon chomhaontú socraíochta nó a shocraíonn ar shlí eile aon éileamh"
+" den sórt sin gan toiliú nó iarraidh i scríbhinn roimh ré ón bpáirtí a "
+"shlánú; agus (vi) páirtí slánaíochta a chomhlíonann aon socrú nó ordú cúirte"
+" a dhéantar i ndáil leis an éileamh (a bhaineann le húsáid aon ábhar "
+"sáraithe sa todhchaí). Féadfaidh an páirtí slánaíochta páirt a ghlacadh i "
+"gcosaint nó i réiteach éilimh le habhcóide dá rogha féin agus ar a chostas "
+"féin."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Leigheas Eisiatach: Luann an tAlt 10 seo dliteanas aonair an pháirtí "
+"slánaíochta don pháirtí eile, agus leigheas eisiach an pháirtí slánaíochta "
+"ina choinne, as aon chineál éilimh a thuairiscítear san Alt seo."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Teorainn le Dliteanas:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"EISCEACHT LE BREITHIÚNAS DO DAMÁISTE A BHAINEANN LE Ceangal le BREACHT ROINN"
+" 5.3 NÓ 12, DON MHIC LÉINN A BHEARTAÍTEAR AG AN DLÍ, NÍL DÍOL DÍOL "
+"SÁBHÁILTEACHTA IOMLÁN PÁIRT NÍOS MAIDIR LEIS AN gCOMHAONTÚ MAIDIR LEIS AN "
+"gCOMHAIRLE PAITHE TÚ CHUN NA SEIRBHÍSÍ A THABHAIRT DON DLITEANAS A BHAINEANN"
+" LEIS AN TRÉIMHSE BLIAIN AMHÁIN GO BHFUIL SÉ DÁTA DÉANAMH AN CHÚRSA "
+"GNÍOMHAÍOCHTA."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"EISCEACHT LE BREITHIÚNAS DO DAMÁISTE A BHAINEANN LE Ceangal le BREACH ROINN "
+"5.3 NÓ 12, DON MHIC LÉINN A BHEARTAÍTEAR AG AN DLÍ, NÍL CEADÚNAS NÍOS PÁIRT "
+"HERETO, NÍL CEADÚNAS NÓ SOLÁTHRAITHE CHUN AON PHRÍOMH. COSTAS SOLÁTHAIR "
+"EARRAÍ NÓ SEIRBHÍSÍ SUBSTITIÚID NÓ CHUN AON DAMÁISTEANNA TIONSCAIL, "
+"SPEISIALTA, IARMHARTACHA, EISCEACHTACHA nó INIÚCHTA, A BHFUIL SÉ DÍOL "
+"SÁSAITHE AGUS BUNAITHE AR AON Teoiric DLITEANAS (LENA N-AON PHRÍOMH-PHRÍOMH-"
+"EOLAÍOCHT ÓN NUAIR. TÁ A OIBLEAGÁIDÍ ANSEO, NÍ MÓR NÓ NÍ MÓR PÁIRT SIN FAOI "
+"PHRÍOSÚNAS DAMÁISTÍ SIN."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"DE BHRÍ GO BHFUIL ROINNT STÁIT / DLÍNSEANNA CEADÚNAITHE NÓ TEORANTA "
+"DLITEANAS DO DAMÁISTEANNA IARMHARTACHA nó INIÚCHTA, NÍ FÉIDIR LEIS AN "
+"TEORAINNEACHA FAOI IARRATAS A CHUR ISTEACH LEIS AN MÍ-ÚSÁID A BHEARTAÍTEAR "
+"LEIS AN UIMH."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Faisnéis Phearsanta agus Ráiteas Príobháideachais:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Comhlíonfaidh tú na dlíthe, rialacha, rialacháin agus treoirlínte uile is "
+"infheidhme maidir le cosaint, bailiú, úsáid agus dáileadh Faisnéise "
+"inaitheanta Pearsanta (mar a shainmhínítear thíos) aon duine. Cuirfidh tú "
+"ráiteas príobháideachta sa phost ar an leathanach ina mbailíonn tú Faisnéis "
+"inaitheanta Phearsanta (‘Ráiteas Príobháideachais’) a chomhlíonann na "
+"dlíthe, na rialacha, na rialacháin agus na treoirlínte go léir is infheidhme"
+" agus, ar a laghad, a chuireann in iúl d’úsáideoirí an Fhaisnéis inaitheanta"
+" Phearsanta a bhailítear, conas a dhéanann sí úsáidfear é agus an chaoi a "
+"n-áiritheofar é, agus a shainaithníonn an modh bailiúcháin (fianáin, "
+"rabhcháin gréasáin nó modhanna infheidhmithe eile) agus úsáid faisnéise a "
+"bhaileofar i dtaca leis na Seirbhísí, chun toiliú feasach a fháil roimh ré "
+"(rogha an diúltaithe) sula n-úsáidtear aon cheann teicneolaíochtaí "
+"rianaithe, a mhéid a éilíonn na dlíthe agus na rialacháin is infheidhme. "
+"Áireofar i Ráiteas Príobháideachais den sórt sin faisnéis theicniúil a "
+"bhaineann le bailiú, tarchur agus stóráil na Faisnéise inaitheanta Pearsanta"
+" a sholáthraíonn muid trí na Seirbhísí. Má éilíonn an reachtaíocht um "
+"chosaint sonraí is infheidhme nó dlí nó rialachán eile é, cuirfidh tú tríú "
+"páirtithe ar an eolas go bhfuil tú ag soláthar a gcuid Faisnéise inaitheanta"
+" Pearsanta dúinn le haghaidh próiseála agus cinnteoidh tú go bhfuil a "
+"dtoiliú tugtha ag aon tríú páirtithe riachtanacha don nochtadh agus don "
+"phróiseáil sin. Aontaíonn tú cloí le tuairiscí agus forálacha an Ráitis "
+"Príobháideachta. Ciallaíonn ‘Faisnéis inaitheanta Phearsanta’ aon fhaisnéis "
+"is féidir a cheangal le haon duine nó a rianú, lena n-áirítear ainm, "
+"seoladh, uimhir theileafóin, seoladh r-phoist, faisnéis maidir le cárta "
+"creidmheasa, uimhir slándála sóisialta nó faisnéis fhíorasach shonrach eile "
+"dá samhail, beag beann ar na meáin ar a stóráiltear faisnéis den sórt sin "
+"(m.sh. ar pháipéar nó go leictreonach)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Ilghnéitheach:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Páirtithe Neamhspleácha: Is conraitheoirí neamhspleácha tú féin agus "
+"CaseActive. Ní chruthaíonn an Comhaontú aon ghaol comhfhiontair, "
+"comhpháirtíochta, gníomhaireachta nó fostaíochta idir na páirtithe. Is tusa "
+"amháin a bheidh freagrach as d’fhostaithe a bhainistiú agus as aon "
+"chúiteamh, cánacha, sochair agus dliteanais uile d’fhostaithe agus aon "
+"cheann de d’ionadaithe nó soláthraithe seirbhíse eile. Ní dhéanfaidh tú féin"
+" ná aon cheann d’fhostaithe, d’ionadaithe, ná do sholáthraithe seirbhíse aon"
+" uiríll, barántais nó ráthaíochtaí maidir linn, leis an gComhaontú ná leis "
+"na Seirbhísí seachas mar a údaraítear go sainráite dúinn i scríbhinn."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Sannadh: Ní féidir an Comhaontú ná aon cheann de do chearta nó "
+"oibleagáidí faoin gComhaontú a shannadh nó a aistriú, trí oibriú dlí nó "
+"eile, gan ár dtoiliú i scríbhinn roimh ré, mura sannfar é do chomharba "
+"leasa, nó de bhun cumasc, corparáideach atheagrú, nó díol nó aistriú do "
+"chuid sócmhainní go léir, nó cuid mhór díobh, a dtugann tú fógra dúinn "
+"tríocha (30) lá ar a laghad roimh an idirbheart a ídiú. Éilíonn sannadh "
+"uait, bunaithe ar chúinsí ar bith eile, ár dtoiliú roimh ré, nach "
+"gcoinneofar siar an toiliú go míréasúnach. Féadfaimid an Comhaontú seo a "
+"shannadh faoi shaoirse gan do thoiliú. Faoi réir an mhéid sin roimhe seo, "
+"ceangailfidh an Comhaontú seo agus leasóidh sé chun leasa na bpáirtithe, a "
+"gcomharbaí faoi seach agus a sannaí ceadaithe."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force Majeure: Ní bheidh ceachtar páirtí freagrach as aon mhoill, cur "
+"isteach nó mainneachtain eile feidhmiú faoin gComhaontú mar gheall ar "
+"ghníomhartha nach bhfuil faoi smacht an pháirtí fhreagraigh, ach a fhad agus"
+" a mhaireann na coinníollacha sin. I measc imeachtaí force majeure tá, ach "
+"níl siad teoranta dóibh: tubaistí nádúrtha (m.sh. tintreach, creathanna "
+"talún, hairicíní, tuilte); cogaí, círéibeacha, gníomhaíochtaí "
+"sceimhlitheoireachta, agus comórtais shibhialta; gníomhaíochtaí iompróra "
+"malairte áitiúla, agus gníomhartha eile tríú páirtithe; pléascanna agus "
+"tinte; lánchosc, stailceanna agus díospóidí saothair; foraitheanta rialtais;"
+" teipeanna soláthraithe teileachumarsáide nó soláthraithe seirbhíse idirlín;"
+" teipeanna soláthraithe, soláthraithe seirbhíse nó díoltóirí tríú páirtí; "
+"agus aon chúis eile nach bhfuil smacht réasúnach páirtí air."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Rogha Dlí: Beidh an Comhaontú agus aon díospóid a eascróidh as an "
+"gComhaontú nó i dtaca leis faoi rialú agus forléiriú dhlíthe Stát "
+"California, gan aird a thabhairt ar phrionsabail na coimhlinte dlíthe. Beidh"
+" gach díospóid a eascróidh as an gComhaontú nó a bhaineann leis faoi réir "
+"dhlínse eisiach agus ionad chúirteanna stáit agus cónaidhme California do "
+"Santa Barbara, California, agus toilíonn na páirtithe le dlínse pearsanta "
+"agus eisiach na gcúirteanna seo."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 R-phost agus Fógraí: Aontaíonn tú freisin go bhféadfaimis aon fhógra, "
+"ráiteas agus cumarsáid eile agus gach fógra a sholáthar duit trí r-phost, "
+"post, seirbhís seachadta sainráite, nó arna seachadadh ag iompróir tráchtála"
+" aitheanta atá dírithe chuig an seoladh a ainmníodh go deireanach ar an "
+"gComhaontú. Tá tú freagrach as aon fhaisnéis teagmhála nuashonraithe a "
+"sholáthar dúinn."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Gan Tarscaoileadh; Leigheasanna Carnacha: Ní tharscaoilfidh an ceart "
+"sin aon mhainneachtain nó moill ó cheachtar páirtí i bhfeidhmiú aon chirt "
+"faoin gComhaontú seo. Seachas mar a deirtear go sainráite anseo, tá na "
+"leigheasanna a chuirtear ar fáil anseo sa bhreis ar aon leigheasanna eile de"
+" chuid páirtí dlí nó cothromais, agus gan iad a áireamh."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Inbhuanaitheacht: Má mheasann cúirt dlínse inniúla go bhfuil aon "
+"fhoráil den Chomhaontú seo contrártha leis an dlí, déanfaidh an chúirt an "
+"fhoráil a mhodhnú agus a léirmhíniú ionas go gcomhlíonfaidh sí cuspóirí na "
+"forála bunaidh a mhéid is féidir a cheadaítear le dlí, agus fanfaidh na "
+"forálacha eile den Chomhaontú seo i bhfeidhm agus i bhfeidhm go hiomlán."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Comhaontú Iomlán: A mhéid a cheadaítear leis an dlí is infheidhme, is é"
+" an Comhaontú seo, mar aon leis na doiciméid dá dtagraítear anseo agus gach "
+"Foirm Ordaithe agus sreafaí sínithe, an comhaontú iomlán idir na páirtithe "
+"maidir lena ábhar, agus glacann sé ionad gach ceann roimhe seo agus "
+"comhaontuithe comhaimseartha, tograí nó uiríll, i scríbhinn nó ó bhéal, "
+"maidir le hábhar an Chomhaontaithe seo. Ní ghlacfar le haon uiríoll, "
+"gealltanas nó gealltanas a bheith tugtha nó intuigthe ó aon ní a deirtear nó"
+" a scríobhadh in idirbheartaíochtaí idir na páirtithe roimh an gComhaontú "
+"seo ach amháin mar a deirtear go sainráite sa Chomhaontú seo. Ní bheidh aon "
+"leigheas ag ceachtar páirtí maidir le haon ráiteas bréagach a rinne an "
+"páirtí eile a raibh an páirtí sin ag brath air an Comhaontú seo a dhéanamh "
+"(mura ndearnadh an ráiteas bréagach sin go calaoiseach) agus gurb é an t-aon"
+" leigheas a bheidh ag páirtí maidir le haon ráiteas bréagach sárú conartha "
+"mar a fhoráiltear sa Chomhaontú seo. Admhaíonn tú agus aontaíonn tú nach "
+"bhfuil do chomhaontú faoi seo ag brath ar aon fheidhmiúlacht nó gnéithe sa "
+"todhchaí nach sonraítear anseo nó i bhFoirm Ordaithe a sheachadadh nó ag "
+"brath ar aon trácht ó bhéal nó i scríbhinn, poiblí nó príobháideach a "
+"dhéanfaimid maidir le feidhmiúlacht nó gnéithe sa todhchaí do na Seirbhísí. "
+"I gcás aon choimhlinte idir na forálacha sna Téarmaí Seirbhíse Ginearálta "
+"seo agus in aon Fhoirm Ordaithe nó Téarmaí Seirbhíse Breise, beidh téarmaí "
+"an Fhoirm Ordaithe sin nó na dTéarmaí Seirbhíse Breise i réim, a mhéid a "
+"bheidh an choimhlint sin ann. Ní dhéanfar aon téarmaí nó coinníollacha a "
+"luaitear i d’ordú ceannaigh nó in aon cheann eile de do dhoiciméadú ordaithe"
+" a ionchorprú in aon chuid den Chomhaontú seo ná aon fhoirm a bheith ann, "
+"agus beidh na téarmaí nó coinníollacha sin go léir ar neamhní."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Easpórtáil: Aontaíonn an dá pháirtí cloí le dlíthe agus rialacháin "
+"infheidhmithe onnmhairiúcháin agus allmhairithe na SA. Ní cheadóidh tú "
+"d’úsáideoirí rochtain a fháil ar na Seirbhísí nó iad a úsáid de shárú ar aon"
+" lánchosc, toirmeasc nó srian ar onnmhairiú na SA."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Poiblíocht: Ní féidir linn tú a ainmniú mar úsáideoir na Seirbhísí gan"
+" do thoiliú i scríbhinn."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Naisc le Láithreáin Tríú Páirtí: D’fhéadfadh go mbeadh naisc chuig "
+"láithreáin tríú páirtí (‘Láithreáin Nasctha’) san áireamh sna Seirbhísí nó "
+"ar ár suíomh Gréasáin. Níl na Láithreáin Nasctha faoi ár smacht agus nílimid"
+" freagrach as ábhar aon Láithreáin Nasctha, lena n-áirítear gan teorainn aon"
+" nasc atá i Suíomh Nasctha, nó as aon athruithe nó nuashonruithe ar "
+"Láithreán Nasctha nó na Seirbhísí a chuirtear ar fáil trí Suíomh Nasctha. "
+"Nílimid ag soláthar na naisc seo duit ach mar áis, agus ní chiallaíonn sé go"
+" bhfuil aon fhormhuiniú againn ón suíomh nó ó aon seirbhísí gaolmhara a "
+"sholáthraíonn an láithreán má chuirtear aon nasc san áireamh."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Toilíonn tú le ríomhphoist, glaonna teileafóin agus teachtaireachtaí "
+"SMS a fháil ó CaseActive chun nuashonruithe a sholáthar ar d’ordú agus / nó "
+"chun críocha margaíochta. Braitheann minicíocht teachtaireachta ar do "
+"ghníomhaíocht. Féadfaidh tú rogha an diúltaithe a dhéanamh trí fhógraí ó do "
+"chuntas a sheiceáil nó do chuntas a scriosadh. Féadfaidh rátaí "
+"teachtaireachta agus sonraí a bheith i bhfeidhm."
+
+msgid "An error occurred"
+msgstr "Tharla earráid"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Chuaigh rud eigin mícheart. Cuireadh ár n-innealtóirí ar an eolas. Brúigh an"
+" cnaipe athlódála chun athlódáil."
+
+msgid "Reload"
+msgstr "Athlódáil"

@@ -1,0 +1,71 @@
+<h1 id="how-to-create-users-with-import-tool">Jak vytvořit uživatele pomocí nástroje pro import</h1>
+<p>Tento článek ukazuje správcům, jak vytvořit uživatele pomocí nástroje Import.</p>
+<h2 id="opening-the-import-tool">Otevření nástroje Import</h2>
+<p>Správci mohou pomocí nástroje Import hromadně nahrávat nové uživatele a upravovat stávající záznamy uživatelů.</p>
+<ol style="list-style-type: decimal">
+  <li>Přihlaste se k účtu správce.</li>
+  <li>Vyhledejte aplikaci na stránce Aplikace a klikněte na tlačítko SPRÁVCE.</li>
+  <li>Na panelu Správce klikněte na kartu Integrace a poté v podnabídce IMPORTY.</li>
+  <li>Klikněte na tlačítko NOVÝ. Dialogové okno Přidat importy se zobrazí na nové kartě prohlížeče.</li>
+</ol>
+<div class="figure"><img src="/images/import-3.png" alt="img" /></div>
+<h2 id="creating-records">Vytváření záznamů</h2>
+<p>Po otevření dialogového okna Přidat importy:</p>
+<ol style="list-style-type: decimal">
+  <li>Klikněte na pole <strong>Typ</strong> a vyberte možnost (viz níže). Zobrazí se odkaz.</li>
+  <li>Klikněte na odkaz <strong>Stáhnout ukázku</strong> . Soubor CSV se stáhne do vašeho zařízení.</li>
+</ol>
+<p>
+  Dále otevřete soubor a přidejte záznamy. Kliknutím <a href="docs/how-to-format-csv-data" target="_blank">sem</a> se
+  dozvíte, jak používat data formátu v souboru CSV.
+</p>
+<div class="figure"><img src="/images/import-4.png" alt="img" /></div>
+<h2 id="type">Typ</h2>
+<p>Když kliknete na pole Typ, zobrazí se rozevírací nabídka. Vyberte jednu ze dvou možností pro hromadné importy.</p>
+<p>
+  :exclamation: <strong>POZNÁMKA</strong> Rozbalovací nabídka má mnoho možností, ale pouze dvě se týkají nástroje
+  Import. Každá možnost má jiný vzorový soubor CSV.
+</p>
+<h3 id="add-users">Přidat uživatele</h3>
+<ul>
+  <li>Tuto možnost zvolte pro jednoduché hromadné nahrání uživatelských záznamů.</li>
+  <li>Kliknutím na odkaz Stáhnout ukázku otevřete soubor CSV se záhlavími sloupců pro typ importu Přidat uživatele.</li>
+</ul>
+<h3 id="modify-users">Upravit uživatele</h3>
+<ul>
+  <li>Tuto možnost vyberte, chcete-li aktualizovat data pro aktuální uživatele.</li>
+  <li>
+    Kliknutím na odkaz Stáhnout ukázku otevřete soubor CSV se záhlavími sloupců pro typ importu Upravit uživatele.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Nahrávání souboru</h2>
+<p>Soubor můžete nahrát ihned nebo se později vrátit do dialogového okna Přidat importy a provést tyto kroky.</p>
+<ol style="list-style-type: decimal">
+  <li>Otevřete dialogové okno Přidat importy.</li>
+  <li>Zadejte jedinečný název souboru CSV.</li>
+  <li>Kliknutím na ikonu plus (+) nahrajete soubor ze svého zařízení.</li>
+  <li>Klepněte na pole <strong>Typ</strong> a vyberte možnost. (viz výše)</li>
+  <li>Klikněte na ULOŽIT.</li>
+</ol>
+<div class="figure"><img src="/images/import-5.png" alt="img" /></div>
+<h2 id="processing">zpracovává se</h2>
+<p>V závislosti na počtu záznamů v souboru a zatížení systému může platformě zpracování importu trvat několik minut.</p>
+<div class="figure"><img src="/images/import-6.png" alt="img" /></div>
+<p>
+  Po dokončení importu platforma upraví uživatelské záznamy (tj. přidá, upraví nebo zakáže) na administrátorském panelu
+  <strong>Uživatelé</strong> .
+</p>
+<h2 id="failure">Selhání</h2>
+<p>
+  Pokud se operace importu nezdaří, platforma vrátí zprávu Failed. Ve většině případů je příčinou selhání formátování
+  dat.
+</p>
+<div class="figure"><img src="/images/import-7.png" alt="img" /></div>
+<p>Chcete-li zjistit příčinu selhání:</p>
+<ol style="list-style-type: decimal">
+  <li>Klikněte na <strong>Zobrazit</strong> pod nadpisem Akce.</li>
+  <li>Na další stránce najeďte myší na ikonu Selhalo. Popisek zobrazuje chybu.</li>
+  <li>Přejděte do souboru CVS a upravte a opravte chybu.</li>
+  <li>Nahrajte soubor znovu.</li>
+</ol>
+<div class="figure"><img src="/images/import-8.png" alt="img" /></div>

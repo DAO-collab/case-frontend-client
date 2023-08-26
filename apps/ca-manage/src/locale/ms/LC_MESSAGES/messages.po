@@ -1,0 +1,522 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-01-15T21:57:38.270369\n"
+"PO-Revision-Date: 2018-01-15T21:57:38.611806\n"
+"Language: ms\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/repo/src/cases/create-case.html:17
+#: /tmp/repo/src/cases/create-case.html:19
+#: /tmp/repo/src/cases/edit-case.html:21 /tmp/repo/src/cases/edit-case.html:23
+msgid "About"
+msgstr "Mengenai"
+
+#: /tmp/repo/src/users/create-user.html:70
+msgid "Add"
+msgstr "Tambah"
+
+#: /tmp/repo/src/users/add-user.controller.js:14
+msgid "Add User"
+msgstr "Tambah Pengguna"
+
+#: /tmp/repo/src/users/create-user.html:71
+msgid "Adding..."
+msgstr "Menambah ..."
+
+#: /tmp/repo/src/profile/profile.html:107
+#: /tmp/repo/src/profile/profile.html:119
+#: /tmp/repo/src/profile/profile.html:121
+#: /tmp/repo/src/profile/profile.html:122
+msgid "Address"
+msgstr "Alamat"
+
+#: /tmp/repo/src/profile/profile.html:110
+#: /tmp/repo/src/profile/profile.html:126
+#: /tmp/repo/src/profile/profile.html:128
+#: /tmp/repo/src/profile/profile.html:129
+msgid "Address 2"
+msgstr "Alamat 2"
+
+#: /tmp/repo/src/root/root.html:127
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "Hak cipta terpelihara"
+
+#: /tmp/repo/src/login/login.html:21
+msgid ""
+"All rights\n"
+"        reserved"
+msgstr "Hak cipta terpelihara"
+
+#: /tmp/repo/src/cases/assign-user.controller.js:20
+msgid "Assign User"
+msgstr "Berikan Pengguna"
+
+#: /tmp/repo/src/groups/create-group.html:24
+#: /tmp/repo/src/groups/create-group.html:26
+#: /tmp/repo/src/groups/edit-group.html:24
+#: /tmp/repo/src/groups/edit-group.html:26
+msgid "Audios"
+msgstr "Audio"
+
+#: /tmp/repo/src/profile/profile.html:11
+msgid "Basic"
+msgstr "Asas"
+
+#: /tmp/repo/src/cases/assign-case.html:37
+#: /tmp/repo/src/cases/create-case.html:50
+#: /tmp/repo/src/cases/edit-case.html:54
+#: /tmp/repo/src/groups/create-group.html:74
+#: /tmp/repo/src/groups/edit-group.html:78
+#: /tmp/repo/src/profile/profile.html:222 /tmp/repo/src/users/add-user.html:28
+#: /tmp/repo/src/users/create-user.html:73
+#: /tmp/repo/src/users/edit-user.html:45
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: /tmp/repo/src/cases/assign-case.html:17
+msgid "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+msgstr "Peruntukan <span class=\"float-right\">Ass {{vm.actionCaseId}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform.controller.js:27
+msgid "Case Form Fields"
+msgstr "Bidang Bidang Kes"
+
+#: /tmp/repo/src/cases/create-case.html:13
+msgid "Case Info"
+msgstr "Maklumat Kes"
+
+#: /tmp/repo/src/cases/edit-case.html:17
+msgid "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+msgstr "Maklumat Kes <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:9
+msgid "Case form updated"
+msgstr "Borang kes dikemas kini"
+
+#: /tmp/repo/src/cases/assign-case.html:8 /tmp/repo/src/cases/edit-case.html:8
+msgid "Case not found!"
+msgstr "Kes tidak dijumpai!"
+
+#: /tmp/repo/src/index.html:5 /tmp/repo/src/login/login.html:21
+#: /tmp/repo/src/root/root.html:127
+msgid "CaseActive"
+msgstr "CaseActive"
+
+#: /tmp/repo/src/cases/cases.controller.js:31 /tmp/repo/src/root/root.html:21
+msgid "Cases"
+msgstr "Kes"
+
+#: /tmp/repo/src/profile/profile.html:113
+msgid ""
+"City\n"
+"                    /Locality"
+msgstr "Bandar / Kampung"
+
+#: /tmp/repo/src/profile/profile.html:133
+#: /tmp/repo/src/profile/profile.html:135
+#: /tmp/repo/src/profile/profile.html:136
+msgid "City/Locality"
+msgstr "Bandar / Kampung"
+
+#: /tmp/repo/src/profile/profile.html:82 /tmp/repo/src/profile/profile.html:90
+#: /tmp/repo/src/profile/profile.html:92 /tmp/repo/src/profile/profile.html:93
+msgid "Company Name"
+msgstr "nama syarikat"
+
+#: /tmp/repo/src/profile/profile.html:100
+#: /tmp/repo/src/profile/profile.html:85 /tmp/repo/src/profile/profile.html:97
+#: /tmp/repo/src/profile/profile.html:99
+msgid "Company Title"
+msgstr "Tajuk Syarikat"
+
+#: /tmp/repo/src/cases/cases.html:199
+msgid "Confirm Password"
+msgstr "Sahkan Kata Laluan"
+
+#: /tmp/repo/src/root/root.html:24
+msgid "Content"
+msgstr "Kandungan"
+
+#: /tmp/repo/src/users/add-user.html:25
+msgid "Continue"
+msgstr "Teruskan"
+
+#: /tmp/repo/src/root/root.html:7
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookies dinyahdayakan. Sila aktifkannya."
+
+#: /tmp/repo/src/profile/profile.html:145
+#: /tmp/repo/src/profile/profile.html:160
+#: /tmp/repo/src/profile/profile.html:162
+#: /tmp/repo/src/profile/profile.html:164
+#: /tmp/repo/src/profile/profile.html:166
+msgid "Country"
+msgstr "Negara"
+
+#: /tmp/repo/src/cases/create-case.html:46
+#: /tmp/repo/src/groups/create-group.html:70
+msgid "Create"
+msgstr "Buat"
+
+#: /tmp/repo/src/cases/create-case.controller.js:16
+msgid "Create Case"
+msgstr "Buat Kes"
+
+#: /tmp/repo/src/groups/create-group.controller.js:16
+msgid "Create Group"
+msgstr "Buat Kumpulan"
+
+#: /tmp/repo/src/users/create-user.controller.js:16
+msgid "Create User"
+msgstr "Buat Pengguna"
+
+#: /tmp/repo/src/cases/cases.html:224
+msgid "Create a case for a business"
+msgstr "Buat kes untuk perniagaan"
+
+#: /tmp/repo/src/users/users.html:9
+msgid "Create an user"
+msgstr "Buat pengguna"
+
+#: /tmp/repo/src/cases/create-case.html:47
+#: /tmp/repo/src/groups/create-group.html:71
+msgid "Creating..."
+msgstr "Mencipta ..."
+
+#: /tmp/repo/src/cases/cases.html:167
+msgid "Current Password"
+msgstr "Kata Laluan Semasa"
+
+#: /tmp/repo/src/dashboard/dashboard.controller.js:25
+#: /tmp/repo/src/root/root.html:19
+msgid "Dashboard"
+msgstr "Papan Pemuka"
+
+#: /tmp/repo/src/cases/create-case.html:29
+#: /tmp/repo/src/cases/create-case.html:31
+#: /tmp/repo/src/cases/edit-case.html:33 /tmp/repo/src/cases/edit-case.html:35
+msgid "Date Opened"
+msgstr "Tarikh Dibuka"
+
+#: /tmp/repo/src/profile/profile.html:44 /tmp/repo/src/profile/profile.html:52
+#: /tmp/repo/src/profile/profile.html:54 /tmp/repo/src/profile/profile.html:55
+msgid "Date of Birth"
+msgstr "Tarikh lahir"
+
+#: /tmp/repo/src/settings/design/design.controller.js:33
+msgid "Design"
+msgstr "Reka bentuk"
+
+#: /tmp/repo/src/groups/create-group.html:29
+#: /tmp/repo/src/groups/create-group.html:31
+#: /tmp/repo/src/groups/edit-group.html:29
+#: /tmp/repo/src/groups/edit-group.html:31
+msgid "Documents"
+msgstr "Dokumen"
+
+#: /tmp/repo/src/cases/edit-case.controller.js:15
+msgid "Edit Case"
+msgstr "Edit Kes"
+
+#: /tmp/repo/src/groups/edit-group.controller.js:16
+msgid "Edit Group"
+msgstr "Edit Kumpulan"
+
+#: /tmp/repo/src/users/edit-user.controller.js:16
+msgid "Edit User"
+msgstr "Edit Pengguna"
+
+#: /tmp/repo/src/cases/cases.html:78 /tmp/repo/src/users/add-user.html:15
+#: /tmp/repo/src/users/add-user.html:17
+#: /tmp/repo/src/users/create-user.html:28
+#: /tmp/repo/src/users/create-user.html:30
+msgid "Email"
+msgstr "E-mel"
+
+#: /tmp/repo/src/users/create-user.html:16
+#: /tmp/repo/src/users/create-user.html:18
+msgid "Family Name"
+msgstr "Nama keluarga"
+
+#: /tmp/repo/src/groups/create-group.html:36
+msgid "Fiels"
+msgstr "Fiel"
+
+#: /tmp/repo/src/groups/create-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:36
+msgid "Files"
+msgstr "Fail"
+
+#: /tmp/repo/src/profile/profile.html:20 /tmp/repo/src/profile/profile.html:28
+#: /tmp/repo/src/profile/profile.html:30 /tmp/repo/src/profile/profile.html:31
+msgid "First Name"
+msgstr "Nama pertama"
+
+#: /tmp/repo/src/profile/profile.html:47 /tmp/repo/src/profile/profile.html:63
+#: /tmp/repo/src/profile/profile.html:66 /tmp/repo/src/profile/profile.html:71
+msgid "Gender"
+msgstr "Jantina"
+
+#: /tmp/repo/src/users/create-user.html:21
+#: /tmp/repo/src/users/create-user.html:23
+msgid "Given Name"
+msgstr "Nama diberi"
+
+#: /tmp/repo/src/groups/create-group.html:13
+msgid "Group Info"
+msgstr "Maklumat Kumpulan"
+
+#: /tmp/repo/src/groups/edit-group.html:13
+msgid "Group Info <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+msgstr ""
+"Maklumat Kumpulan <span class=\"float-"
+"right\">{{vm.editData.group_id}}</span>"
+
+#: /tmp/repo/src/groups/create-group.html:53
+#: /tmp/repo/src/groups/edit-group.html:55
+msgid "Group Permissions"
+msgstr "Kebenaran Kumpulan"
+
+#: /tmp/repo/src/groups/groups.controller.js:27
+#: /tmp/repo/src/root/root.html:23
+msgid "Groups"
+msgstr "Kumpulan"
+
+#: /tmp/repo/src/root/root.html:34
+msgid "Hello"
+msgstr "Hello"
+
+#: /tmp/repo/src/groups/create-group.html:42
+#: /tmp/repo/src/groups/create-group.html:44
+#: /tmp/repo/src/groups/edit-group.html:42
+#: /tmp/repo/src/groups/edit-group.html:44
+msgid "Images"
+msgstr "Imej"
+
+#: /tmp/repo/src/root/root.html:3
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript dilumpuhkan. Sila aktifkannya."
+
+#: /tmp/repo/src/profile/profile.html:185
+#: /tmp/repo/src/profile/profile.html:187
+#: /tmp/repo/src/profile/profile.html:192
+#: /tmp/repo/src/users/create-user.html:35
+#: /tmp/repo/src/users/create-user.html:40
+#: /tmp/repo/src/users/create-user.html:46
+msgid "Language"
+msgstr "Bahasa"
+
+#: /tmp/repo/src/profile/profile.html:181
+msgid "Language &amp; Region"
+msgstr "Bahasa &amp; Wilayah"
+
+#: /tmp/repo/src/profile/profile.html:23 /tmp/repo/src/profile/profile.html:35
+#: /tmp/repo/src/profile/profile.html:37 /tmp/repo/src/profile/profile.html:38
+msgid "Last Name"
+msgstr "Nama terakhir"
+
+#: /tmp/repo/src/cases/assign-case.html:4 /tmp/repo/src/cases/cases.html:219
+#: /tmp/repo/src/cases/create-case.html:4 /tmp/repo/src/cases/edit-case.html:4
+#: /tmp/repo/src/groups/create-group.html:4
+#: /tmp/repo/src/groups/edit-group.html:4 /tmp/repo/src/groups/groups.html:4
+#: /tmp/repo/src/profile/profile.html:3
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:5
+#: /tmp/repo/src/settings/module/module-settings.html:4
+#: /tmp/repo/src/users/add-user.html:4 /tmp/repo/src/users/create-user.html:4
+#: /tmp/repo/src/users/edit-user.html:4 /tmp/repo/src/users/users.html:4
+msgid "Loading..."
+msgstr "Memuatkan ..."
+
+#: /tmp/repo/src/profile/profile.html:104
+msgid "Location"
+msgstr "Lokasi"
+
+#: /tmp/repo/src/root/root.html:42
+msgid "Log out"
+msgstr "Log keluar"
+
+#: /tmp/repo/src/root/root.html:27
+msgid "Logout"
+msgstr "Log keluar"
+
+#: /tmp/repo/src/login/login.html:20 /tmp/repo/src/root/root.html:126
+msgid "Made with"
+msgstr "Dibuat dengan"
+
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Module"
+msgstr "Modul"
+
+#: /tmp/repo/src/settings/module/module-settings.controller.js:33
+msgid "Modules"
+msgstr "Modul"
+
+#: /tmp/repo/src/settings/module/module-settings.html:9
+msgid "Modules settings updated"
+msgstr "Tetapan modul dikemas kini"
+
+#: /tmp/repo/src/groups/create-group.html:17
+#: /tmp/repo/src/groups/create-group.html:19
+#: /tmp/repo/src/groups/edit-group.html:17
+#: /tmp/repo/src/groups/edit-group.html:19
+msgid "Name"
+msgstr "Nama"
+
+#: /tmp/repo/src/cases/cases.html:180
+msgid "New Password"
+msgstr "Kata laluan baharu"
+
+#: /tmp/repo/src/cases/cases.html:223
+msgid "No cases found."
+msgstr "Tiada kes yang dijumpai."
+
+#: /tmp/repo/src/groups/groups.html:8
+msgid "No group found."
+msgstr "Tiada kumpulan dijumpai."
+
+#: /tmp/repo/src/users/users.html:8
+msgid "No user found."
+msgstr "Tiada pengguna dijumpai."
+
+#: /tmp/repo/src/profile/profile.html:79
+msgid "Occupation"
+msgstr "Pendudukan"
+
+#: /tmp/repo/src/groups/create-group.html:55
+#: /tmp/repo/src/groups/edit-group.html:53
+msgid "Permission"
+msgstr "Kebenaran"
+
+#: /tmp/repo/src/profile/profile.controller.js:30
+msgid "Profile Settings"
+msgstr "Tetapan Profil"
+
+#: /tmp/repo/src/cases/assign-case.html:33
+#: /tmp/repo/src/cases/edit-case.html:50
+#: /tmp/repo/src/groups/edit-group.html:74
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:60
+#: /tmp/repo/src/settings/module/module-settings.html:23
+#: /tmp/repo/src/users/edit-user.html:42
+msgid "Save"
+msgstr "Simpan"
+
+#: /tmp/repo/src/cases/assign-case.html:34
+#: /tmp/repo/src/cases/edit-case.html:51
+#: /tmp/repo/src/groups/edit-group.html:75
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:61
+#: /tmp/repo/src/settings/module/module-settings.html:24
+#: /tmp/repo/src/users/edit-user.html:43
+msgid "Saving..."
+msgstr "Menyimpan ..."
+
+#: /tmp/repo/src/root/root.html:25
+msgid "Settings"
+msgstr "Tetapan"
+
+#: /tmp/repo/src/login/login.html:10
+msgid "Sign In"
+msgstr "Masuk"
+
+#: /tmp/repo/src/profile/profile.html:142
+#: /tmp/repo/src/profile/profile.html:155
+#: /tmp/repo/src/profile/profile.html:156
+msgid "State/Region"
+msgstr "Negeri / Wilayah"
+
+#: /tmp/repo/src/cases/create-case.html:34
+#: /tmp/repo/src/cases/create-case.html:40
+#: /tmp/repo/src/cases/edit-case.html:38
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Status"
+msgstr "Status"
+
+#: /tmp/repo/src/cases/edit-case.html:44
+msgid "Status Opened"
+msgstr "Status Dibuka"
+
+#: /tmp/repo/src/cases/create-case.html:22
+#: /tmp/repo/src/cases/create-case.html:24
+#: /tmp/repo/src/cases/edit-case.html:26 /tmp/repo/src/cases/edit-case.html:28
+msgid "Tag ID"
+msgstr "ID tag"
+
+#: /tmp/repo/src/login/login.html:22 /tmp/repo/src/root/root.html:128
+msgid "Terms of Use"
+msgstr "Syarat Penggunaan"
+
+#: /tmp/repo/src/profile/profile.html:201
+#: /tmp/repo/src/profile/profile.html:203
+#: /tmp/repo/src/profile/profile.html:208
+#: /tmp/repo/src/users/create-user.html:51
+#: /tmp/repo/src/users/create-user.html:56
+#: /tmp/repo/src/users/create-user.html:62
+msgid "Timezone"
+msgstr "Zon masa"
+
+#: /tmp/repo/src/profile/profile.html:219
+msgid "Update"
+msgstr "Kemas kini"
+
+#: /tmp/repo/src/profile/profile.html:220
+msgid "Updating"
+msgstr "Mengemas kini"
+
+#: /tmp/repo/src/users/create-user.html:12
+msgid "User Info"
+msgstr "Maklumat Pengguna"
+
+#: /tmp/repo/src/users/edit-user.html:16
+msgid "User Info <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+msgstr ""
+"Maklumat Pengguna <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+
+#: /tmp/repo/src/users/edit-user.html:29 /tmp/repo/src/users/edit-user.html:35
+msgid "User Status"
+msgstr "Status Pengguna"
+
+#: /tmp/repo/src/users/edit-user.html:20 /tmp/repo/src/users/edit-user.html:26
+msgid "User Type"
+msgstr "Jenis pengguna"
+
+#: /tmp/repo/src/users/edit-user.html:8
+msgid "User not found."
+msgstr "Pengguna tidak dijumpai."
+
+#: /tmp/repo/src/root/root.html:22 /tmp/repo/src/users/users.controller.js:31
+msgid "Users"
+msgstr "Pengguna"
+
+#: /tmp/repo/src/groups/create-group.html:47
+#: /tmp/repo/src/groups/create-group.html:49
+#: /tmp/repo/src/groups/edit-group.html:47
+#: /tmp/repo/src/groups/edit-group.html:49
+msgid "Videos"
+msgstr "Video"
+
+#: /tmp/repo/src/users/add-user.html:26
+msgid "Working..."
+msgstr "Bekerja ..."
+
+#: /tmp/repo/src/profile/profile.html:148
+#: /tmp/repo/src/profile/profile.html:174
+#: /tmp/repo/src/profile/profile.html:175
+#: /tmp/repo/src/profile/profile.html:176
+msgid "Zip/Postal Code"
+msgstr "Poskod"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "in New York City"
+msgstr "di New York City"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "love"
+msgstr "cinta"
+
+#: /tmp/repo/src/cases/assign-case.html:22
+msgid "{{group.name}}"
+msgstr "{{nama kumpulan}}"

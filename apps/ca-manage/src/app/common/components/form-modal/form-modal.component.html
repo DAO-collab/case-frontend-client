@@ -1,0 +1,137 @@
+<form
+  method="post"
+  title="upload-document"
+  class="popup-a a form-d shown"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="formTemplateForm"
+  (submit)="$event.preventDefault(); formTemplateForm.invalid ? (formTouched = true) : saveNewForm()"
+>
+  <div class="box-outer">
+    <div class="box-inner form-height">
+      <h2 translate *ngIf="mode === FormModalMode.Create">
+        {{ router.url === '/library/forms' ? 'Add Form' : router.url === '/library/tasks' ? 'Add Task' : 'Add E-sign' }}
+      </h2>
+      <h2 translate *ngIf="mode === FormModalMode.Edit">
+        {{
+          router.url === '/library/forms' ? 'Edit Form' : router.url === '/library/tasks' ? 'Edit Task' : 'Edit E-sign'
+        }}
+        <span> > {{ getItemIdForTitle() }}</span>
+      </h2>
+
+      <div class="form">
+        <div class="form-container">
+          <div class="form-block right-margin bottom-split">
+            <h3>About</h3>
+            <div>
+              <p class="full-width no-float">
+                <span class="full-width no-float">
+                  <label class="required" name="title" translate>Title</label>
+                  <input #titleF type="text" name="title" formControlName="tag_id" />
+                  <app-error
+                    [fieldValue]="formTemplateForm.controls['tag_id'].value"
+                    [field]="titleF"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+              </p>
+
+              <p class="full-width no-float">
+                <span class="half-width no-float">
+                  <label class="left-label" translate>One time</label>
+                  <label class="checkbox-container centered-checkbox">
+                    <input type="checkbox" name="recurring" [checked]="!recurring" (change)="changeRecurring()" />
+                    <span class="checkmark"></span>
+                  </label>
+                </span>
+
+                <span class="half-width no-float">
+                  <label class="left-label" translate>Repeat</label>
+                  <label class="checkbox-container centered-checkbox">
+                    <input type="checkbox" name="repeat" [checked]="recurring" (change)="changeRecurring()" />
+                    <span class="checkmark"></span>
+                  </label>
+                </span>
+                <br />
+                <app-rrule
+                  name="rrule"
+                  *ngIf="recurring"
+                  [startDate]="rruleStartDate"
+                  [endTime]="'11:59 PM'"
+                  [rrule]="formTemplateForm.controls['rrule'].value"
+                  (rruleChange)="setRrule($event)"
+                ></app-rrule>
+              </p>
+            </div>
+          </div>
+          <div class="form-block left-margin bottom-split">
+            <h3>Visibility</h3>
+            <label class="required permissions-field">{{ 'Who can use this template' | translate }}</label>
+            <p>
+              <app-checkbox-select
+                [outputValue]="formTemplateForm.get('permissions')?.value"
+                [items]="roles || []"
+                [hideLable]="true"
+                (valueChange)="setPermissions($event)"
+              ></app-checkbox-select>
+
+              <app-error
+                [fieldValue]="formTemplateForm.get('permissions')?.value?.length"
+                [regularHtmlElementName]="'permissions'"
+                [validation]="{ required: true }"
+              ></app-error>
+            </p>
+          </div>
+        </div>
+
+        <div class="form-container">
+          <div class="form-block right-margin mobile-bottom-split">
+            <h3>Details</h3>
+            <div>
+              <p class="full-width">
+                <label>{{ 'Description' | translate }}</label>
+                <textarea type="text" name="description" formControlName="description"></textarea>
+              </p>
+            </div>
+          </div>
+          <div class="form-block left-margin participants-list">
+            <h3>Notifications</h3>
+            <app-notification-field
+              [defaultNotifications]="formTemplateForm.controls['notifications'].value"
+              (changed)="setNotifications($event)"
+            ></app-notification-field>
+          </div>
+        </div>
+
+        <div class="form-container time">
+          <div class="form-block mobile-bottom-split">
+            <h3 class="time-label">Duration to complete</h3>
+            <div>
+              <p class="full-width time">
+                <input type="number" class="form-control" formControlName="due_mins" />
+                <ng-select
+                  class="cursor-pointer select-padding-left"
+                  name="repeat-items"
+                  bindLabel="text"
+                  bindValue="id"
+                  [searchable]="true"
+                  [clearable]="false"
+                  [items]="dateItems"
+                  [readonly]="true"
+                  formControlName="hours"
+                ></ng-select>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p class="submit">
+        <button type="submit" class="f-right" [disabled]="isInvalid()" translate>Save</button>
+      </p>
+
+      <a class="close" (click)="cancelModal()" translate>Close</a>
+    </div>
+    <a class="close" (click)="cancelModal()" translate>Close</a>
+  </div>
+</form>

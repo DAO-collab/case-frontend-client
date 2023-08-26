@@ -1,0 +1,18 @@
+{
+  "family_name": "Abizena",
+  "given_name": "Izena",
+  "locale": "Nahiago duen hizkuntza",
+  "zoneinfo": "Ordu eremu",
+  "email": "Posta elektroniko helbidea",
+  "phone": "Telefono zenbakia",
+  "address1": "Helbidea",
+  "address2": "Apt # edo Unitatea #",
+  "locality": "Hiria edo herria",
+  "region": "Estatua edo eskualdea",
+  "postal_code": "Posta edo posta kodea",
+  "country": "Herria",
+  "birthdate": "Urtebetetze data",
+  "gender": "Generoa",
+  "company": "Enpresa",
+  "title": "Izena Izenburua"
+}

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Preberite vsa polja primera, dolo\u010dena v vlogi",
+    "write": "V vlogi napi\u0161ite vsa polja primera"
+  },
+  "convos": {
+    "read_all": "Oglejte si trenutno stanje pogovorov.",
+    "manage_own": "Pridru\u017eite se in izklju\u010dite iz pogovora.",
+    "moderate_others": "Za\u010dni pogovor, kon\u010daj pogovor in odstrani udele\u017eenca.",
+    "read_all_submissions": "Preberite vse posnete pogovore."
+  },
+  "events": {
+    "read_all": "Preberite vse dogodke.",
+    "manage_own": "Ustvarite, posodobite in izbri\u0161ite svoj dogodek.",
+    "moderate_others": "Posodobite in izbri\u0161ite dogodek drugih.",
+    "read_all_submissions": "Preberite vse potrditve dogodkov.",
+    "submit_own": "Potrdite zahtevo za udele\u017ebo na dogodku."
+  },
+  "posts": {
+    "read_all": "Preberite vse objave.",
+    "manage_own": "Ustvarite, posodobite in izbri\u0161ite lastno objavo.",
+    "moderate_others": "Posodobite in izbri\u0161ite objavo drugih."
+  },
+  "forms": {
+    "read_all": "Preberite vse obrazce.",
+    "manage_own": "Ustvarite, posodobite in izbri\u0161ite svoj obrazec.",
+    "moderate_others": "Posodobite in izbri\u0161ite obrazec drugih.",
+    "read_all_submissions": "Preberite vse oddane obrazce.",
+    "submit_own": "Po\u0161ljite zahtevo za obrazec."
+  },
+  "invoices": {
+    "read_all": "Preberite vse ra\u010dune.",
+    "manage_own": "Ustvarite, posodobite in izbri\u0161ite lasten ra\u010dun.",
+    "moderate_others": "Posodobite in izbri\u0161ite ra\u010dun drugih.",
+    "read_all_submissions": "Preberite vse predlo\u017eene ra\u010dune.",
+    "submit_own": "Po\u0161lji zahtevo za ra\u010dun."
+  },
+  "notes": {
+    "read_all": "Preberite vse opombe.",
+    "manage_own": "Ustvarite, posodobite in izbri\u0161ite lastno bele\u017eko.",
+    "moderate_others": "Posodobite in izbri\u0161ite opombo drugih."
+  },
+  "signs": {
+    "read_all": "Preberite vse e-znake.",
+    "manage_own": "Ustvarite, posodobite in izbri\u0161ite lasten e-znak.",
+    "moderate_others": "Posodobite in izbri\u0161ite e-podpis drugega.",
+    "read_all_submissions": "Preberite vse oddaje e-podpisov.",
+    "submit_own": "Po\u0161lji zahtevo za polje."
+  },
+  "tasks": {
+    "read_all": "Preberi vse naloge.",
+    "manage_own": "Ustvarite, posodobite in izbri\u0161ite lastno nalogo.",
+    "moderate_others": "Posodobite in izbri\u0161ite nalogo drugega.",
+    "read_all_submissions": "Preberite vse predlo\u017eene naloge.",
+    "submit_own": "Oddajte zahtevo za nalogo."
+  },
+  "team": { "read_all": "Preberite ekipo v primeru" }
+}

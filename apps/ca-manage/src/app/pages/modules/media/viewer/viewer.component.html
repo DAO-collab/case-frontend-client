@@ -1,0 +1,204 @@
+<div class="viewer-wrapper" [ngClass]="{ fullView: fullView }">
+  <div class="close-gallery-view" (click)="viewerClosed()"></div>
+  <div class="viwer-holder" #holder [style.marginTop]="autoMargin(holder)">
+    <figure class="slider-a" #viewportBlock>
+      <!-- Viewer View-box -->
+      <div class="bx-wrapper">
+        <div class="bx-viewport">
+          <!-- Functionality to navigate between document pages -->
+          <span
+            *ngIf="
+              viewingItems[activeItem].type === 'docs' && viewingItems[activeItem].status === MediaStatus.Succeeded
+            "
+            class="pages-navigation"
+          >
+            <a class="nav-button" (click)="prevDoc()"> <</a> <span translate>Page </span>
+            <input
+              type="text"
+              type="number"
+              [value]="activeDocPage"
+              (keyup)="switchDocumentPage($any($event.target).value && +$any($event.target).value - 1)"
+            />
+            <span> of </span>
+            <span>{{ viewingItems[activeItem].url.path.length }}</span>
+            <a class="nav-button" (click)="nextDoc()">></a>
+          </span>
+
+          <!-- Right Side Navigation Buttons -->
+          <div class="viewer-tools">
+            <!-- ZOOM-in -->
+            <i
+              class="zoom-in-tool icon-zoom-in"
+              *ngIf="viewingItems[activeItem].type === 'images' || viewingItems[activeItem].type === 'docs'"
+              (click)="zoomPlus()"
+            ></i>
+            <!-- ZOOM-out -->
+            <i
+              class="zoom-in-tool icon-zoom-out"
+              *ngIf="viewingItems[activeItem].type === 'images' || viewingItems[activeItem].type === 'docs'"
+              (click)="zoomMinus()"
+            ></i>
+            <!-- FULL WIDTH On -->
+            <i class="icon-resize full-size-view" *ngIf="!fullView" (click)="runFullSize()"></i>
+            <!-- FULL WIDTH Off -->
+            <i class="icon-resize2 full-size-view" *ngIf="fullView" (click)="fullView = false"></i>
+            <!-- DOWNLOAD non-processed file -->
+            <i class="icon-download download-doc" (click)="downloadDoc(viewingItems[activeItem])"></i>
+            <!-- CLOSE Popup -->
+            <span class="close-viewer" (click)="viewerClosed()"></span>
+          </div>
+
+          <div
+            class="items-wrapper"
+            #galleryViewBlock
+            [attr.zoomDistance]="zoomClassByStep[zoomStep]"
+            [ngClass]="{ zoomOn: zoomStep > 0 }"
+            [style.maxWidth.px]="viewportBlock.offsetWidth - 10"
+          >
+            <div
+              class="inner"
+              [style.width.px]="viewingItems.length * viewportBlock.offsetWidth"
+              [style.left.px]="countInnerItemsWidth(viewportBlock)"
+            >
+              <!-- Gallery Items -->
+              <div
+                *ngFor="let item of viewingItems; let i = index"
+                class="item"
+                [ngClass]="{ 'active-image-item': activeItem === i }"
+                [style.width.px]="viewportBlock.offsetWidth - 10"
+              >
+                <span class="view-item img" #imgItem [ngClass]="{ docView: item.type === 'docs' }">
+                  <!-- IMAGE Ready view -->
+                  <img
+                    #imgTrg
+                    *ngIf="item.type === 'images' && item.url.path && item.status === MediaStatus.Succeeded"
+                    [src]="item.url.path"
+                    (dragstart)="$event.preventDefault()"
+                    (mousemove)="zoomDragActive ? coordinatesCount($event) : false"
+                    (mousedown)="
+                      zoomStep ? imageZoomLeft($event, imgTrg, imgItem.offsetWidth, imgItem.offsetHeight) : false
+                    "
+                    alt="Placeholder"
+                  />
+
+                  <!-- DOCUMENT Ready View -->
+                  <span *ngIf="item.type === 'docs' && item.status === MediaStatus.Succeeded">
+                    <span *ngFor="let path of item.url.path; let indx = index">
+                      <img
+                        #imgTrg
+                        [src]="path"
+                        *ngIf="(activeDocPage || 1) === indx + 1 && activeItem === i"
+                        (dragstart)="$event.preventDefault()"
+                        (mousemove)="zoomDragActive ? coordinatesCount($event) : false"
+                        (mousedown)="
+                          zoomStep ? imageZoomLeft($event, imgTrg, imgItem.offsetWidth, imgItem.offsetHeight) : false
+                        "
+                        alt="Placeholder"
+                        [style.display]="'none'"
+                        (load)="$any($event.target).style.display = ''"
+                      />
+                    </span>
+                  </span>
+
+                  <!-- VIDEO Ready View -->
+                  <app-videojs
+                    *ngIf="item.type === 'videos' && activeItem === i && item.status === MediaStatus.Succeeded"
+                    [idx]="$any(i)"
+                    [url]="item.src"
+                  ></app-videojs>
+
+                  <!-- AUDIO Ready View -->
+                  <div
+                    *ngIf="item.type === 'audios' && activeItem === i && item.status === MediaStatus.Succeeded"
+                    class="just-item w-300"
+                  >
+                    <p class="audio-title" *ngIf="item.stream">{{ item ? item.name : '' }}</p>
+
+                    <app-audiojs
+                      class="vjs-has-started"
+                      *ngIf="item.stream"
+                      [idx]="$any(i)"
+                      [duration]="item.duration"
+                      [url]="item.stream"
+                    ></app-audiojs>
+
+                    <p *ngIf="!item.stream" class="notice-a a">{{ item ? item.name : '' }}</p>
+                  </div>
+
+                  <!-- Media not ready view -->
+                  <div *ngIf="item.status === MediaStatus.Running" class="just-item">
+                    <span translate>Processing media ...</span>
+                    <br />
+                    <span class="download-link" (click)="downloadDoc(viewingItems[activeItem])" translate
+                      >Download original file</span
+                    >
+                  </div>
+
+                  <!-- Media failed view -->
+                  <div *ngIf="item.status === MediaStatus.Failed" class="just-item">
+                    <i class="icon-document-delete"></i>
+                    <br />
+                    <span translate>Could not display media</span>
+                    <br />
+                    <span class="download-link" (click)="downloadDoc(viewingItems[activeItem])" translate
+                      >Download original file</span
+                    >
+                  </div>
+                </span>
+              </div>
+              <!-- Gallery Items End -->
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Viewer Pager -->
+      <div class="slider-holder" #sliderHolder>
+        <ul
+          class="viewer-slider"
+          [style.width.px]="viewingItems.length * sliderItemsWidth"
+          [style.left.px]="countInnerSliderLeft(sliderHolder)"
+        >
+          <li *ngFor="let item of viewingItems; let i = index" [ngClass]="{ activeItem: activeItem === i }">
+            <a
+              (click)="
+                activeItem = i;
+                dragDataToDefault();
+                documentPagePositionById[activeItem] = documentPagePositionById[activeItem] || [];
+                documentPagePositionById[activeItem][0] = true
+              "
+              class="slider-icons"
+            >
+              <!-- <img *ngIf="item.type === 'images'" [src]="item.thumbnail" alt="Placeholder"> -->
+              <img *ngIf="item.type === 'images' && item.status === MediaStatus.Succeeded" [src]="item.thumbnail" />
+
+              <div *ngIf="item.type === 'images' && item.status !== MediaStatus.Succeeded">
+                <i class="icon-image"></i>
+              </div>
+
+              <img *ngIf="item.type === 'docs' && item.status === MediaStatus.Succeeded" [src]="item.thumbnail" />
+
+              <div *ngIf="item.type === 'docs' && item.status !== MediaStatus.Succeeded">
+                <i class="icon-document"></i>
+              </div>
+              <div *ngIf="item.type === 'videos'">
+                <i class="icon-video"></i>
+              </div>
+              <div *ngIf="item.type === 'audios'">
+                <i class="icon-notes"></i>
+              </div>
+            </a>
+            <span class="v-cjeck-mark">
+              {{ i + 1 }}
+            </span>
+          </li>
+        </ul>
+      </div>
+      <!-- LEFT/RIGHT controlls -->
+      <div class="slider-contoll" *ngIf="checkIfShowControlls(sliderHolder)">
+        <a class="bx-prev" (click)="prevItem(sliderHolder)"></a>
+        <a class="bx-next" (click)="nextItem(sliderHolder)"></a>
+      </div>
+    </figure>
+  </div>
+</div>

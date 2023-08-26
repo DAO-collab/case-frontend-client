@@ -1,0 +1,169 @@
+<!--<app-viewer-->
+<!--  *ngIf="showViwer"-->
+<!--  [activeItem]="viewerIndx"-->
+<!--  [viewiengItems]="viewerItems"-->
+<!--  [caseId]="caseId"-->
+<!--  (onviewerclose)="showViwer = false"-->
+<!--&gt;</app-viewer>-->
+
+<header class="heading-b has-link-a note-header" *ngIf="!loading && disableEdit">
+  <h2 class="note-header-title" translate>
+    <span class="note-wording" translate>Note View</span>
+  </h2>
+  <div class="note-buttons">
+    <ca-button [text]="'Close'| translate" [isHovered]="true" (btnClick)="gotoNote()" [fontWeight]="600"></ca-button>
+  </div>
+</header>
+<div class="module-d note-block" *ngIf="!loading && disableEdit">
+  <div class="mt-item">
+    <app-schema
+      *ngIf="noteSchema"
+      name="note_custom"
+      [schema]="noteSchema"
+      [uiSchema]="noteUiSchema"
+      [disabled]="disableEdit"
+      [value]="noteModel.notes && noteModel.notes.length ? noteModel.notes[0] : null"
+      (valueChange)="updateNoteModel($event)"
+    ></app-schema>
+  </div>
+  <div>
+    <label class="style-bold disable-margin" *ngIf="loadedAttachments?.length">{{ 'Attachments' | translate }}</label>
+    <div class="waiting-attachments">
+      <ul class="gallery-b">
+        <div class="attchments-holder">
+          <!-- Waiting to attach media -->
+          <p
+            class="notice-a media-file"
+            *ngFor="let attachment of waitingAttachments; let index = index"
+            [ngClass]="{
+              a: uploadProgress[index] == '0%',
+              b: uploadProgress[index] != '0%'
+            }"
+          >
+            <span class="file-title-box">{{ shortFileName(attachment.tag_id, 12) }}</span>
+            <img width="80" height="80" *ngIf="attachment.src" [src]="attachment.src" />
+            <span class="progress-bar" [style.width]="uploadProgress[index]"></span>
+          </p>
+          <!-- Attachments from Library -->
+          <p
+            class="notice-a a media-file custom-color-notes-img"
+            *ngFor="let attachment of loadedAttachments; let index = index"
+            (click)="viewAttachments(noteModel, index)"
+          >
+            <span class="file-title-box">{{ shortFileName(attachment?.tag_id!, 12) }}</span>
+            <img *ngIf="attachment.thumbnail" [src]="attachment.thumbnail" width="80" height="80" />
+          </p>
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>
+<article *ngIf="!loading && notesService.manageOwn && !disableEdit" class="module-d" id="content">
+  <p>
+    <a class="close" (click)="gotoNote()">Close</a>
+  </p>
+  <div class="create-note-wrapper">
+    <app-schema
+      *ngIf="noteSchema"
+      name="note_custom"
+      [schema]="noteSchema"
+      [uiSchema]="noteUiSchema"
+      [value]="noteModel.notes && noteModel.notes.length ? noteModel.notes[0] : null"
+      (valueChange)="updateNoteModel($event)"
+    ></app-schema>
+
+    <p class="full-width no-float">
+      <span class="permissions-field">
+        <label class="required style-bold" translate>Visibility</label>
+        <app-checkbox-select
+          #permissionsField
+          [outputValue]="noteModel.permissions"
+          [items]="permissions"
+          [enabled]="true"
+          (valueChange)="setPermissions($event)"
+        ></app-checkbox-select>
+        <app-error
+          regularHtmlElementName="permissions"
+          [field]="permissionsField"
+          [fieldValue]="'' + noteModel.permissions.length"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+    </p>
+
+    <div>
+      <p class="media double submit">
+        <label class="style-bold disable-margin">{{ 'Attachments' | translate }}</label>
+      </p>
+      <div class="waiting-attachments">
+        <ul class="gallery-b">
+          <div class="attchments-holder">
+            <ul class="list-m">
+              <li class="custom-color-add-img">
+                <a> <i class="icon-plus"></i> Add</a>
+                <input
+                  type="file"
+                  id="file"
+                  multiple
+                  (change)="handleFileUpload($any($event.target))"
+                  [disabled]="!supportedExtensions || blockAddingNote"
+                />
+              </li>
+            </ul>
+            <!-- Waiting to attach media -->
+            <p
+              class="notice-a media-file"
+              *ngFor="let attachment of waitingAttachments; let index = index"
+              [ngClass]="{
+                a: uploadProgress[index] == '0%',
+                b: uploadProgress[index] != '0%'
+              }"
+            >
+              <i class="icon-x-circle remove-att" (click)="removeAttachment(index)"></i>
+              <span class="file-title-box">{{ shortFileName(attachment.tag_id, 12) }}</span>
+              <img width="80" height="80" *ngIf="attachment.src" [src]="attachment.src" />
+              <span class="progress-bar" [style.width]="uploadProgress[index]"></span>
+            </p>
+            <!-- Attachments from Library -->
+            <p
+              class="notice-a a media-file custom-color-notes-img"
+              *ngFor="let attachment of loadedAttachments; let index = index"
+              (click)="viewAttachments(noteModel, index)"
+            >
+              <i
+                class="icon-x-circle remove-att"
+                (click)="removeAttchments.push(loadedAttachments.splice(index, 1)[0])"
+              ></i>
+              <span class="file-title-box">{{ shortFileName(attachment?.tag_id!, 12) }}</span>
+              <img *ngIf="attachment.thumbnail" [src]="attachment.thumbnail" width="80" height="80" />
+            </p>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="double submit">
+    <div class="btn-wrap">
+      <button
+        type="submit"
+        style="float: right; margin-right: 0"
+        [disabled]="blockAddingNote || validationErrors.length"
+        (click)="createNote()"
+      >
+        <span translate>Save </span>
+      </button>
+    </div>
+  </div>
+</article>
+
+<article class="module-d" *ngIf="loading">
+  <div>
+    <p class="text-center" translate>Loading...</p>
+  </div>
+</article>
+
+<div *ngIf="!loading && !notesService.manageOwn">
+  <p class="notice-a" translate>You don't have permissions to view this page.</p>
+</div>

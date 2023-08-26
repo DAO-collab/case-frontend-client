@@ -1,0 +1,7 @@
+<div class="load-more" (click)="loadMore()">
+  <ca-page-loader *ngIf="isLoading; else loadingFinished"></ca-page-loader>
+
+  <ng-template #loadingFinished>
+    <a class="load-more__text">Load More</a>
+  </ng-template>
+</div>

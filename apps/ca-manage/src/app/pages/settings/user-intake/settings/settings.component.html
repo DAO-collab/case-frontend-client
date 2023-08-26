@@ -1,0 +1,63 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/intake-forms']">{{ 'Forms' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['../../settings/user-intake-settings']">{{ 'Settings' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <app-loader [active]="isLoading"></app-loader>
+
+  <div *ngIf="isObjectEmpty(userHostSettings?.host_userintake) && !isLoading" class="text-center empty-search">
+    <p translate>No user intake found.</p>
+  </div>
+
+  <div class="table-wrapper" *ngIf="!isLoading && !isObjectEmpty(userHostSettings?.host_userintake) && intakesForm">
+    <table class="table-b a">
+      <tr>
+        <th translate>User Type</th>
+        <th translate>Intake Form</th>
+        <th translate>Complete After</th>
+        <th translate>Active</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let intakeData of userHostSettings.host_userintake | keyvalue">
+        <td class="capitalize">{{ intakeData.key }}</td>
+        <td>{{ showIntakeFormTagId($any(intakeData.value).intake_id) }}</td>
+        <td>
+          {{ showUserTimeZoneDate($any(intakeData.value).complete_after) | date : 'MM-dd-yyyy' }}
+          {{ showUserTimeZoneDate($any(intakeData.value).complete_after) | date : 'HH:mm:ss' }}
+        </td>
+        <td>
+          <!-- <material-slide-toggle
+            class="material-switch-with-checkmark"
+            [name]="'slideToggle'"
+            [checked]="intakeData.value?.active"
+            [aria-label]="'Toggle On/Off'"
+            [aria-labelledby]="'Some Other Text'"
+            (change)="toggleActive(intakeData, $event)"
+          ></material-slide-toggle> -->
+          <ca-toggle
+            [name]="'slideToggle'"
+            [checked]="$any(intakeData.value)?.active"
+            (toggle)="toggleActive(intakeData, $event)"
+          ></ca-toggle>
+        </td>
+        <td width="120">
+          <a (click)="openUserIntakeModal(intakeData)" translate>Edit</a>
+          <a (click)="deleteIntake(intakeData.key)" translate>Delete</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</article>
+
+<app-user-intake-modal
+  *ngIf="intakeFormsService.activateUserIntakeModal | async"
+  [modeType]="modalType"
+  [hostUserIntake]="userHostSettings.host_userintake"
+></app-user-intake-modal>

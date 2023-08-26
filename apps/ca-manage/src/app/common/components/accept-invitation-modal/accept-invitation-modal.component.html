@@ -1,0 +1,55 @@
+<form class="popup-a a form-d shown">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 style="padding-right: 20px">
+        <span>{{ app?.name }} </span>
+        <span *ngIf="app?.host_granted_status === 0" [innerHTML]="'wants access' | translate"></span>
+      </h2>
+
+      <article id="accept-invitation-content">
+        <div>
+          <div class="custom-fields-group a">
+            <p *ngIf="app?.host_granted_status === 1" translate>
+              <span>{{ app?.name }}</span
+              ><span translate> has access to your information below:</span>
+            </p>
+
+            <p *ngIf="app?.host_granted_status === 0">
+              <span>{{ app?.name }}</span>
+              <span translate> has invited you to their client portal. </span>
+              <span>{{ app?.name }}</span
+              ><span translate> want access to the following information:</span>
+            </p>
+
+            <ul class="manage-list-group">
+              <li class="manage-list-group-item" *ngFor="let item of userFields">
+                {{ item | translate }}
+              </li>
+            </ul>
+            <p>
+              <span [innerHTML]="'Homepage:' | translate"></span
+              ><a target="_blank" [href]="app?.website"> {{ app?.website }}</a>
+            </p>
+          </div>
+        </div>
+
+        <p class="submit">
+          <button *ngIf="app?.host_granted_status === 1" type="reset" (click)="closeModal()" translate>Cancel</button>
+          <button *ngIf="app?.host_granted_status === 0" type="reset" (click)="revokeAppInvitation()" translate>
+            Decline
+          </button>
+
+          <button type="submit" *ngIf="app?.host_granted_status === 0">
+            <span (click)="acceptAppInvitation()" [innerHTML]="'Approve Access' | translate"></span>
+          </button>
+          <button type="submit" *ngIf="app?.host_granted_status === 1">
+            <span (click)="revokeAppInvitation()" translate>Remove Access</span>
+          </button>
+        </p>
+      </article>
+      <a class="close" (click)="closeModal()" translate>Close</a>
+    </div>
+
+    <a class="close" (click)="closeModal()" translate>Close</a>
+  </div>
+</form>

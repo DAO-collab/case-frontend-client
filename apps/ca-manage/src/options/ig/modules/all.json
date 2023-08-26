@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "G\u1ee5\u1ecd mpaghara ikpe niile ak\u1ecdwap\u1ee5tara n&#39;\u1ecdr\u1ee5",
+    "write": "Dee mpaghara ikpe niile ak\u1ecdwap\u1ee5tara na \u1ecdr\u1ee5"
+  },
+  "convos": {
+    "read_all": "Lelee \u1ecdkwa convos d\u1ecb ugbu a.",
+    "manage_own": "Jik\u1ecd\u1ecd wee kewaa convo.",
+    "moderate_others": "Malite convo, kw\u1ee5s\u1ecb convo, ma wep\u1ee5 onye so na ya.",
+    "read_all_submissions": "G\u1ee5\u1ecd convos niile edek\u1ecdr\u1ecd."
+  },
+  "events": {
+    "read_all": "G\u1ee5\u1ecd mmemme niile.",
+    "manage_own": "Mep\u1ee5ta, melite ma hichap\u1ee5 mmemme nke g\u1ecb.",
+    "moderate_others": "Melite ma hichap\u1ee5 mmemme nd\u1ecb \u1ecdz\u1ecd.",
+    "read_all_submissions": "G\u1ee5\u1ecd nkwenye mmemme niile.",
+    "submit_own": "Kwenye ar\u1ecbr\u1ecb\u1ecd \u1ecdb\u1ecbb\u1ecba mmemme."
+  },
+  "posts": {
+    "read_all": "G\u1ee5\u1ecd ozi niile.",
+    "manage_own": "Mep\u1ee5ta, melite ma hichap\u1ee5 post nke g\u1ecb.",
+    "moderate_others": "Melite ma hichap\u1ee5 biputere nd\u1ecb \u1ecdz\u1ecd."
+  },
+  "forms": {
+    "read_all": "G\u1ee5\u1ecd \u1ee5d\u1ecb niile.",
+    "manage_own": "Mep\u1ee5ta, melite ma hichap\u1ee5 \u1ee5d\u1ecb nke g\u1ecb.",
+    "moderate_others": "Melite ma hichap\u1ee5 \u1ee5d\u1ecb nd\u1ecb \u1ecdz\u1ecd.",
+    "read_all_submissions": "G\u1ee5\u1ecd ntinye akw\u1ee5kw\u1ecd niile.",
+    "submit_own": "Nyefee ar\u1ecbr\u1ecb\u1ecd mpempe akw\u1ee5kw\u1ecd."
+  },
+  "invoices": {
+    "read_all": "G\u1ee5\u1ecd akw\u1ee5kw\u1ecd \u1ecdn\u1ee5ah\u1ecba niile.",
+    "manage_own": "Mep\u1ee5ta, melite ma hichap\u1ee5 akw\u1ee5kw\u1ecd \u1ecdn\u1ee5ah\u1ecba nke g\u1ecb.",
+    "moderate_others": "Melite ma hichap\u1ee5 akw\u1ee5kw\u1ecd \u1ecdn\u1ee5ah\u1ecba nd\u1ecb \u1ecdz\u1ecd.",
+    "read_all_submissions": "G\u1ee5\u1ecd akw\u1ee5kw\u1ecd \u1ecdn\u1ee5ah\u1ecba niile.",
+    "submit_own": "Nyefee ar\u1ecbr\u1ecb\u1ecd akw\u1ee5kw\u1ecd \u1ecdn\u1ee5ah\u1ecba."
+  },
+  "notes": {
+    "read_all": "G\u1ee5\u1ecd ndetu niile.",
+    "manage_own": "Mep\u1ee5ta, melite ma hichap\u1ee5 ndetu nke g\u1ecb.",
+    "moderate_others": "Melite ma hichap\u1ee5 ndetu nd\u1ecb \u1ecdz\u1ecd."
+  },
+  "signs": {
+    "read_all": "G\u1ee5\u1ecd akara e-mail niile.",
+    "manage_own": "Mep\u1ee5ta, melite ma hichap\u1ee5 akara e-mail nke g\u1ecb.",
+    "moderate_others": "Melite ma hichap\u1ee5 akara e-mail nke \u1ecdz\u1ecd.",
+    "read_all_submissions": "G\u1ee5\u1ecd akw\u1ee5kw\u1ecd e-sign niile.",
+    "submit_own": "Nyefee ar\u1ecbr\u1ecb\u1ecd ubi."
+  },
+  "tasks": {
+    "read_all": "G\u1ee5\u1ecd \u1ecdr\u1ee5 niile.",
+    "manage_own": "Mep\u1ee5ta, melite ma hichap\u1ee5 \u1ecdr\u1ee5 nke g\u1ecb.",
+    "moderate_others": "Melite ma hichap\u1ee5 \u1ecdr\u1ee5 nd\u1ecb \u1ecdz\u1ecd.",
+    "read_all_submissions": "G\u1ee5\u1ecd nk\u1ecdwap\u1ee5ta \u1ecdr\u1ee5 niile.",
+    "submit_own": "Nyefee ar\u1ecbr\u1ecb\u1ecd \u1ecdr\u1ee5."
+  },
+  "team": { "read_all": "G\u1ee5\u1ecd otu ma \u1ecd b\u1ee5r\u1ee5" }
+}

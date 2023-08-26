@@ -1,0 +1,5 @@
+.no-media,
+:host ::ng-deep app-media-view .feeds-wall {
+  max-width: 850px;
+  margin: 0 auto;
+}

@@ -1,0 +1,89 @@
+<h1 id="how-to-create-or-modify-users-with-the-import-tool">
+  Kako stvoriti ili izmijeniti korisnike pomoću alata za uvoz
+</h1>
+<p>Ovaj članak pokazuje administratorima kako stvoriti korisnike pomoću alata za uvoz.</p>
+<h2 id="opening-the-import-tool">Otvaranje alata za uvoz</h2>
+<p>
+  Administratori mogu koristiti alat za uvoz za skupni prijenos novih korisnika i izmjenu postojećih korisničkih zapisa.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Prijavite se na administratorski račun.</li>
+  <li>Pronađite aplikaciju na stranici s aplikacijama i kliknite gumb ADMIN.</li>
+  <li>Na administratorskoj ploči kliknite karticu Integracija, a zatim UVOZI u podizborniku.</li>
+  <li>Pritisnite gumb NOVO. Dijaloški okvir Add Imports prikazuje se u novoj kartici preglednika.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-records">Stvaranje zapisa</h2>
+<p>Nakon što se otvori dijaloški okvir Add Imports:</p>
+<ol style="list-style-type: decimal">
+  <li>Pritisnite polje <strong>Vrsta</strong> i odaberite opciju (pogledajte dolje). Prikazuje se poveznica.</li>
+  <li>Kliknite vezu <strong>Preuzmi uzorak</strong> . CSV datoteka preuzima se na vaš uređaj.</li>
+</ol>
+<p>
+  Zatim otvorite datoteku i dodajte zapise. Kliknite <a href="docs/how-to-format-csv-data" target="_blank">ovdje</a> da
+  biste saznali kako koristiti podatke o formatu u CSV datoteci.
+</p>
+<div class="figure">
+  <img src="/images/import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="type">Tip</h2>
+<p>Kada kliknete polje Vrsta, prikazuje se padajući izbornik. Odaberite jednu od dvije opcije za skupni uvoz.</p>
+<p>
+  :exclamation: <strong>NAPOMENA</strong> Padajući izbornik ima mnogo opcija, ali samo dvije se odnose na alat za uvoz.
+  Svaka opcija ima drugačiji uzorak CSV datoteke.
+</p>
+<h3 id="add-users">Dodajte korisnike</h3>
+<ul>
+  <li>Odaberite ovu opciju za jednostavan skupni prijenos korisničkih zapisa.</li>
+  <li>
+    Kliknite vezu Preuzmi uzorak da biste otvorili CSV datoteku sa naslovima stupaca za vrstu uvoza Dodaj korisnike.
+  </li>
+</ul>
+<h3 id="modify-users">Izmjena korisnika</h3>
+<ul>
+  <li>Odaberite ovu opciju za ažuriranje podataka za trenutne korisnike.</li>
+  <li>
+    Kliknite vezu Preuzmi uzorak da biste otvorili CSV datoteku sa zaglavljima stupaca za vrstu Uvoz izmjene korisnika.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Prijenos datoteke</h2>
+<p>Možete odmah učitati datoteku ili se kasnije vratiti u dijaloški okvir Dodaj uvoze i izvršiti ove korake.</p>
+<ol style="list-style-type: decimal">
+  <li>Otvorite dijaloški okvir Dodaj uvoze.</li>
+  <li>Unesite jedinstveni naziv za CSV datoteku.</li>
+  <li>Pritisnite ikonu plus (+) za prijenos datoteke sa svog uređaja.</li>
+  <li>Pritisnite polje <strong>Vrsta</strong> i odaberite opciju. (vidi gore)</li>
+  <li>Pritisnite SPREMI.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Obrada</h2>
+<p>Ovisno o broju zapisa u datoteci i opterećenju sustava, platformi može trebati nekoliko minuta da obradi uvoz.</p>
+<div class="figure"><img src="/images/import-6.png" alt="img" /></div>
+<p>
+  Kada uvoz završi, platforma prilagođava korisničke zapise (tj. dodaje, modificira ili onemogućuje) na
+  administratorskoj nadzornoj ploči <strong>korisnika</strong> .
+</p>
+<h2 id="failure">Neuspjeh</h2>
+<p>
+  Ako operacija uvoza ne uspije, platforma vraća poruku Neuspjelo. U većini slučajeva uzrok kvara je formatiranje
+  podataka.
+</p>
+<div class="figure">
+  <img src="/images/import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Da biste vidjeli uzrok kvara:</p>
+<ol style="list-style-type: decimal">
+  <li>Pritisnite <strong>Pogled</strong> pod naslovom Akcija.</li>
+  <li>Na sljedećoj stranici zadržite pokazivač miša na ikoni Neuspjelo. Opis alata prikazuje pogrešku.</li>
+  <li>Idite na CVS datoteku i prilagodite i popravite grešku.</li>
+  <li>Ponovno prenesite datoteku.</li>
+</ol>
+<div class="figure"><img src="/images/import-8.png" alt="img" /></div>

@@ -1,0 +1,296 @@
+<article *ngIf="permissions && !loading && !convo_status && !isViewChanged && permissions['moderate_others']">
+  <div class="convo-view">
+    <div class="convo-view-container">
+      <p class="text-center" translate>You are going to start a Convo call. Start with:</p>
+      <div class="convo-option">
+        <div class="convo-video-or-audio-option">
+          <div
+            class="convo-option-centered
+                     {{
+              convo_option.audio_only
+                ? 'convo-item custom-color-builder-button'
+                : 'convo-item-active attending-custom-color'
+            }}"
+            (click)="selectVideo()"
+          >
+            <div class="video convo-type">
+              <app-svg-icon icon="convo-camera" [height]="22" [width]="30"></app-svg-icon>
+              <p class="text-center" translate>Video & Audio</p>
+            </div>
+          </div>
+          <div
+            class="convo-option-centered
+                      {{
+              convo_option.audio_only
+                ? 'convo-item-active attending-custom-color'
+                : 'convo-item custom-color-builder-button'
+            }}"
+            (click)="selectAudio()"
+          >
+            <div class="audio convo-type">
+              <app-svg-icon icon="convo-audio" [height]="30" [width]="20"></app-svg-icon>
+              <p class="text-center" translate>Audio Only</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="convo-recording-toggle">
+          <!-- <material-slide-toggle
+            [name]="'slideToggle'"
+            [checked]="convo_option.recorded"
+            [disabled]="false"
+            [aria-label]="'Toggle On/Off'"
+            [aria-labelledby]="'Some Other Text'"
+            (change)="selectRecording($event)"
+          ></material-slide-toggle> -->
+          <ca-toggle
+            [checked]="convo_option.recorded"
+            [disabled]="false"
+            (toggle)="selectRecording($event)"
+          ></ca-toggle>
+          <p class="text-center" translate>Record the meeting</p>
+        </div>
+        <div class="convo-recording-permissions" [class.not-recorded]="!convo_option.recorded">
+          <app-checkbox-select
+            #permissionsField
+            [outputValue]="newPermissions"
+            [items]="rolesList"
+            [enabled]="permissions['manage_own']"
+            (valueChange)="newPermissions = $event"
+            [permissionsInitialListStr]="'Recording view permissions'"
+          >
+          </app-checkbox-select>
+          <app-error
+            regularHtmlElementName="permissionsField"
+            [field]="permissionsField"
+            [fieldValue]="'' + newPermissions.length"
+            [validationErrors]="validationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+        </div>
+      </div>
+      <div class="convo-start">
+        <ca-button [text]="'Start Convo' | translate" [isDisabled]="!(this.currentCaseStatus$ | async)" [isFilled]="true" (btnClick)="createConvo()" [fontWeight]="700" margin="0 auto 10px"></ca-button>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article *ngIf="permissions && !convo_status && !loading && permissions['read_all'] && !permissions['moderate_others']">
+  <div class="convo-view convo-notify-host">
+    <div class="convo-view-container">
+      <p class="text-center" translate>Waiting for someone with permission to start a Convo call</p>
+      <div class="convo-notify-wrapper">
+        <p class="link-a a" (click)="expandNotifyTheHostDropdown()">
+          <a>
+            {{ 'Notify the Host' | translate }}
+            <app-svg-icon icon="feed-triangle-1" [width]="10" [height]="10"> </app-svg-icon>
+          </a>
+        </p>
+        <ul class="sub-menu-popup convo-notify-host-container" *ngIf="people && isNotifyTheHostMenuExpanded">
+          <li class="convo-notify-host-container-user" *ngFor="let user of people">
+            <span
+              class="mobile-title-text"
+              *ngIf="user.user_id !== this.userService.userData?.user_id && user.case_role_id !== botsRole"
+              (click)="notifyTheHost(user)"
+            >
+              {{ user.full_name }}
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article *ngIf="permissions && (convo_status || isViewChanged) && !loading && permissions['manage_own'] && !isUserJoin">
+  <div class="convo-view">
+    <div class="convo-view-container convo-preview-container">
+      <div id="preview" #preview *ngIf="convo_status || isViewChanged">
+        <div class="convo-buttons" *ngIf="!isInitializing && !errorTypeWhenDeviceMissing.length">
+          <div
+            class="convo-button"
+            [ngClass]="{
+              'convo-button-enabled-background': !selectedMediaOptions.isAudioMuted,
+              'margin-right-0': convo_option.audio_only
+            }"
+            (click)="muteAudio()"
+          >
+            <img
+              class="convo-icon-audio"
+              *ngIf="!selectedMediaOptions.isAudioMuted"
+              src="/images/convo-audio-enabled.svg"
+              alt=""
+            />
+            <img
+              class="convo-icon-audio"
+              *ngIf="selectedMediaOptions.isAudioMuted"
+              src="/images/convo-audio-disabled.svg"
+              alt=""
+            />
+          </div>
+
+          <div
+            class="convo-button"
+            *ngIf="!convo_option.audio_only"
+            [ngClass]="{
+              'convo-button-enabled-background': !selectedMediaOptions.isVideoMuted,
+              'convo-last-button': convo_option.audio_only || !isSupportBlur()
+            }"
+            (click)="muteVideo()"
+          >
+            <img
+              class="convo-icon-video"
+              *ngIf="!selectedMediaOptions.isVideoMuted"
+              src="/images/convo-video-enabled.svg"
+              alt=""
+            />
+            <img
+              class="convo-icon-video"
+              *ngIf="selectedMediaOptions.isVideoMuted"
+              src="/images/convo-video-disabled.svg"
+              alt=""
+            />
+          </div>
+          <div
+            class="convo-button convo-last-button"
+            *ngIf="!convo_option.audio_only && isSupportBlur()"
+            [ngClass]="{ 'convo-button-enabled-background': selectedMediaOptions.isBlur }"
+            (click)="enableBlur()"
+          >
+            <img
+              class="convo-icon-video"
+              *ngIf="selectedMediaOptions.isBlur"
+              src="/images/convo-blur-enabled.svg"
+              alt=""
+            />
+            <img
+              class="convo-icon-video"
+              *ngIf="!selectedMediaOptions.isBlur"
+              src="/images/convo-blur-disabled.svg"
+              alt=""
+            />
+          </div>
+        </div>
+
+        <div class="convo-preview-video-wrapper" [ngClass]="{ 'border-none': errorTypeWhenDeviceMissing.length }"></div>
+
+        <div
+          class="preview-video preview-video-hide preview-audio-convo"
+          *ngIf="convo_option.audio_only && !errorTypeWhenDeviceMissing.length"
+        >
+          <img class="convo-avatar-icon convo-audio-only-icon" [src]="userAvatarSrc" alt="" />
+        </div>
+
+        <div class="preview-audio-convo devise-issue-modal" *ngIf="errorTypeWhenDeviceMissing.length">
+          <ng-container *ngTemplateOutlet="deviceIssueModal"></ng-container>
+        </div>
+
+        <div
+          class="preview-video"
+          *ngIf="!convo_option.audio_only"
+          [ngClass]="{ 'preview-video-video-convo': this.selectedMediaOptions.isVideoMuted }"
+          [ngStyle]="{ height: videoViewHeight + 'px' }"
+        >
+          <img class="convo-avatar-icon" [src]="userAvatarSrc" alt="" />
+        </div>
+      </div>
+
+      <div class="convo-users-and-button">
+        <div class="convo-ready-to-join-title">Ready to join?</div>
+        <div class="convo-users-wrapper" *ngIf="convo_status && participantsCount > 0">
+          <div class="avatar">
+            <img
+              class="avatar-icon"
+              width="40"
+              height="40"
+              alt=""
+              *ngFor="let participant of convoList.participants | keyvalue; let index = index"
+              [src]="getConvoUserAvatar(index)"
+            />
+          </div>
+
+          <p class="text-center participants-info" *ngIf="participantsCount === 1">
+            {{ getConvoUserInfo(0)?.given_name + ' ' + getConvoUserInfo(0)?.family_name }}
+            {{ 'is in the call' | translate }}
+          </p>
+
+          <p class="text-center participants-info" *ngIf="participantsCount > 1">
+            {{ getConvoUserInfo(0)?.given_name + ' ' + getConvoUserInfo(0)?.family_name }}
+            {{ 'and' | translate }}
+            {{ participantsCount - 1 }}
+            {{ 'others are in the call' | translate }}
+          </p>
+        </div>
+
+        <div class="recording-label" *ngIf="convoList.recorded && convoList.status === 'in-progress'">
+          <div class="red-circle"></div>
+          <ng-container *ngIf="convo_option.audio_only">{{ 'Audio call is being recorded' | translate }}</ng-container>
+          <ng-container *ngIf="!convo_option.audio_only">{{ 'Video call is being recorded' | translate }}</ng-container>
+        </div>
+
+          <ng-container *ngIf="!errorTypeWhenDeviceMissing.length">
+            <ca-button [text]="'Join now' | translate" [isFilled]="true" (btnClick)="connect()" [fontWeight]="700"></ca-button>
+          </ng-container>
+          <ng-container *ngIf="errorTypeWhenDeviceMissing.length">
+            <ca-button [text]="'Dismiss' | translate" [isFilled]="true" (btnClick)="dismissPressed()" [fontWeight]="700"></ca-button>
+          </ng-container>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article *ngIf="permissions && convo_status && !loading && permissions['manage_own'] && isUserJoin && !isConvoEnded">
+  <div class="convo-video" *ngIf="!convo_option.audio_only">
+    <app-convo-camera
+      [permissions]="permissions"
+      [convoList]="convoList"
+      [people]="people"
+      [selectedMediaOptions]="selectedMediaOptions"
+      (endConvoEvent)="endConvo()"
+      (leaveConvoEvent)="leaveConvo($event)"
+      (updateInfoEvent)="loadConvoInfo()"
+      (kickUserFromConferenceEvent)="kickUserFromConference()"
+    ></app-convo-camera>
+  </div>
+
+  <div class="convo-audio" *ngIf="convo_option.audio_only">
+    <app-convo-audio
+      [permissions]="permissions"
+      [convoList]="convoList"
+      [people]="people"
+      [selectedAudioOption]="selectedMediaOptions.isAudioMuted!"
+      (endConvoEvent)="endConvo()"
+      (leaveConvoEvent)="leaveConvo($event)"
+      (updateInfoEvent)="loadConvoInfo()"
+      (kickUserFromConferenceEvent)="kickUserFromConference()"
+    ></app-convo-audio>
+  </div>
+</article>
+
+<ng-template #deviceIssueModal>
+  <div class="convo-device-issue">
+    <h2>
+      {{ 'Can’t find your ' | translate }}
+
+      <ng-container *ngIf="errorTypeWhenDeviceMissing.indexOf('audio') > -1; else issueWithVideo">
+        {{ 'microphone' | translate }}
+      </ng-container>
+    </h2>
+
+    <article class="convo-device-issue-content">
+      <p>
+        {{ 'Check your system settings to make sure that ' | translate }}
+
+        <ng-container *ngIf="errorTypeWhenDeviceMissing.indexOf('audio') > -1; else issueWithVideo">
+          {{ 'microphone' | translate }}
+        </ng-container>
+
+        {{ 'is available. If not, plug one in. You might need to restart your browser.' | translate }}
+      </p>
+    </article>
+  </div>
+</ng-template>
+
+<ng-template #issueWithVideo>{{ 'web camera' | translate }}</ng-template>
+<ng-container *ngIf="getRoles$ | async"></ng-container>

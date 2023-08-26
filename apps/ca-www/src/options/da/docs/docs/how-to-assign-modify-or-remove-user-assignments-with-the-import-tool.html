@@ -1,0 +1,85 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Sådan tildeler, ændrer eller fjerner brugertildelinger med importværktøjet
+</h1>
+<p>Denne artikel viser administratorer, hvordan man administrerer sagsbrugere med importværktøjet.</p>
+<p>Administratorer kan:</p>
+<ul>
+  <li>tildele brugere til en sag</li>
+  <li>ændre brugere, der allerede er tildelt en sag</li>
+  <li>fjerne brugere, der er tilknyttet en sag</li>
+</ul>
+<h2 id="opening-the-import-tool">Åbning af importværktøjet</h2>
+<ol style="list-style-type: decimal">
+  <li>Log ind på administratorkontoen.</li>
+  <li>Find en app på Apps-siden, og klik på ADMIN-knappen.</li>
+  <li>Klik på fanen Integration og derefter IMPORTER i undermenuen.</li>
+  <li>Klik på knappen NY. Dialogboksen Tilføj importer vises.</li>
+</ol>
+<h2 id="creating-records">Oprettelse af poster</h2>
+<p>
+  Download en eller flere CSV-filer. Brug disse filer til at tilføje, ændre eller fjerne sagsbrugere. Når dialogboksen
+  Tilføj importer åbnes:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Klik på feltet Type.</li>
+  <li>Rul gennem rullemenuen og vælg en mulighed (se nedenfor). Et link vises.</li>
+  <li>Klik på linket Download prøve. En CSV-fil downloades til din enhed.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>Åbn filen og tilføj poster. Klik her for at lære, hvordan du bruger formatdata i CSV-filen.</p>
+<h3 id="file-options">Filindstillinger</h3>
+<p>
+  <strong>Tildel brugere til sager</strong> * Vælg denne mulighed for at tilføje brugere til en sag. * Lad cellen
+  case_role_order være tom. * Gå til brugersiden og kopier tag-id&#39;et for denne person. Hvis feltet Tag ID er tomt,
+  skal du indtaste et unikt ID, klikke på Gem og derefter kopiere ID&#39;et til CSV-filen.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Rediger brugere, der er tildelt sager</strong> * Vælg denne mulighed for at opdatere data for aktuelle
+  brugere, der er tildelt en sag. * Brug sagstag-id&#39;et til kolonnen sags-ID.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  <strong>Fjern brugere, der er tildelt sager</strong> * Vælg denne mulighed for at fjerne brugere, der er tildelt en
+  sag.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Uploader filen</h2>
+<p>
+  Du kan uploade en fil med det samme eller vende tilbage til dialogboksen Tilføj import på et senere tidspunkt og
+  fuldføre disse trin.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Åbn dialogboksen Tilføj importer.</li>
+  <li>Indtast et unikt navn til CSV-filen.</li>
+  <li>Klik på plus-ikonet (+) for at uploade filen fra din enhed.</li>
+  <li>Klik på feltet Type, og vælg en mulighed. (se ovenfor)</li>
+  <li>Klik på GEM.</li>
+</ol>
+<h2 id="processing">Forarbejdning</h2>
+<p>
+  Afhængigt af antallet af poster i filen og systembelastningen, kan platformen tage flere minutter at behandle
+  importen.
+</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>
+  Når importen er fuldført, justerer platformen brugerregistreringer (dvs. tilføjer, ændrer eller fjerner) på siden
+  Sager.
+</p>
+<h2 id="failure">Fiasko</h2>
+<p>
+  Hvis importhandlingen mislykkes, returnerer platformen en Mislykket-meddelelse. I de fleste tilfælde er årsagen til
+  fejlen dataformatering.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>For at se årsagen til fejlen:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik på Vis under overskriften Handling.</li>
+  <li>På næste side skal du holde musen over ikonet Mislykket. Værktøjstippet viser fejlen.</li>
+  <li>Gå til CVS-filen og juster og ret fejlen.</li>
+  <li>Upload filen igen.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

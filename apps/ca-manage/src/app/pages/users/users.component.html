@@ -1,0 +1,165 @@
+<article id="content" class="module-d">
+  <form
+    class="form-f form-casesearch"
+    *ngIf="users?.length && !loading"
+    [formGroup]="userSearchForm!"
+    (submit)="searchUsers()"
+  >
+    <p class="full-width-input">
+      <span #searchMenuToggle class="searchKey" (click)="showSearchFilter = !showSearchFilter">{{
+        searchKeyText | translate
+      }}</span>
+      <input
+        type="text"
+        id="fcsa"
+        name="searchVal"
+        formControlName="searchVal"
+        autocomplete="off"
+        placeholder="{{ searchKey === UserSearchAttribute.UserType ? 'user  or manage or  admin or  bots' : '' }}"
+        *ngIf="searchKey !== UserSearchAttribute.Phone"
+      />
+      <!-- <international-phone-number
+        id="phoneNumberInput"
+        class="full-width"
+        formControlName="searchVal"
+        *ngIf="searchKey === UserSearchAttribute.Phone"
+        (keydown)="onKeyDown($event)"
+        [defaultCountry]="defaultCountry"
+      ></international-phone-number> -->
+      <ngx-intl-tel-input
+        id="phoneNumberInput"
+        [cssClass]="'full-width'"
+        formControlName="searchVal"
+        [preferredCountries]="preferredCountries"
+        *ngIf="searchKey === UserSearchAttribute.Phone"
+        [maxLength]="15"
+        [enableAutoCountrySelect]="false"
+        [enablePlaceholder]="true"
+        [searchCountryFlag]="true"
+        [searchCountryField]="[
+          SearchCountryField.Iso2,
+          SearchCountryField.Name
+        ]"
+        [selectFirstCountry]="false"
+        [phoneValidation]="true"
+        [separateDialCode]="true"
+        [numberFormat]="PhoneNumberFormat.International"
+        name="phoneNumberInput"
+      ></ngx-intl-tel-input>
+    </p>
+
+    <!-- Set the listType here as well, or we lose the GET variables due to a page reload -->
+    <input type="hidden" name="type" value="user" />
+    <p class="submit">
+      <button type="submit">Search</button>
+    </p>
+
+    <div #searchMenu class="search-sub-filters" [ngClass]="{ on: showSearchFilter }" *ngIf="!loading">
+      <div class="filter-item" (click)="setSearchKey(UserSearchAttribute.Email)" translate>Email</div>
+      <div class="filter-item" (click)="setSearchKey(UserSearchAttribute.Phone)" translate>Phone</div>
+      <div class="filter-item" (click)="setSearchKey(UserSearchAttribute.TagId)" translate>Tag ID</div>
+      <div class="filter-item" (click)="setSearchKey(UserSearchAttribute.UserType)" translate>User Type</div>
+      <div class="filter-item" (click)="setSearchKey(UserSearchAttribute.FirstName)" translate>First Name</div>
+      <div class="filter-item" (click)="setSearchKey(UserSearchAttribute.LastName)" translate>Last Name</div>
+    </div>
+  </form>
+
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="!users?.length && !loading" class="text-center empty-search">
+    <p>
+      <span translate>No </span>
+      {{ userType }}
+      <span translate>s found.</span>
+    </p>
+  </div>
+
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="users.length != 0 && !loading && users?.length">
+      <tr>
+        <th style="width: 50px"></th>
+        <th translate>Name</th>
+        <th translate>Username</th>
+        <th translate>Created Date</th>
+        <th translate>Status</th>
+        <th translate>Type</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let user of filteredUsers">
+        <td>
+          <img
+            #userPicture
+            width="30px"
+            class="user-pic-td"
+            [src]="user.avatar"
+            (error)="userPicture.style.display = 'none'"
+            (load)="userPicture.style.display = ''"
+          />
+        </td>
+        <td>{{ user.given_name }} {{ user.family_name }}</td>
+        <td>{{ user.email || user.phone }}</td>
+        <td>{{ user.created_on | date : 'MM/dd/yyyy' }}</td>
+        <td>{{ userStatuses[user.host_user_status!] | translate }}</td>
+        <td>{{ user.host_user_type }}</td>
+        <td class="action-cell">
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a *ngIf="userType === UserType.Admin" [routerLink]="['/users/view/' + user.user_id]" translate>
+                <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                View
+              </a>
+              <a
+                *ngIf="currentLoggedUserData?.user_id !== user.user_id"
+                [routerLink]="['/users/edit/' + user.user_id]"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit
+              </a>
+              <a *ngIf="userType !== UserType.Admin" (click)="changeUserStatus(user)" translate>
+                <ng-container *ngIf="user.host_user_status === 1; else enableUser">
+                  <img class="drop-item-option-img" src="images/item-close-element.svg" alt="" />
+                  Disable User
+                </ng-container>
+
+                <ng-template #enableUser>
+                  <img class="drop-item-option-img" src="images/item-open-element.svg" alt="" />
+                  Enable User
+                </ng-template>
+              </a>
+              <a *ngIf="userType !== UserType.Admin" [routerLink]="['/users/cases/' + user.user_id]" translate>
+                <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                View Cases
+              </a>
+            </span>
+          </span>
+
+          <!--          <a-->
+          <!--            appConfirmationPopUp-->
+          <!--            *ngIf="currentLoggedUserData.user_id !== user.user_id"-->
+          <!--            [message]="'You are about to delete ' + userType + '. Are you sure?'"-->
+          <!--            (yes)="removeUser(user.user_id)"-->
+          <!--            translate-->
+          <!--            >Remove</a>-->
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</article>
+
+<app-add-user-modal
+  [type]="'email'"
+  [showTagId]="false"
+  *ngIf="!loading && shownAddUserModal"
+  (close)="onAddUserModalClose()"
+></app-add-user-modal>

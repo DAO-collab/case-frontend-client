@@ -1,0 +1,365 @@
+ng-select.location-input {
+  display: inline-block;
+  width: calc(100% - 50px);
+  vertical-align: top;
+}
+
+label.location-icon {
+  display: inline-block;
+  width: 46px;
+  text-align: center;
+  font-size: 26px;
+  height: 35px;
+  line-height: 45px;
+  vertical-align: top;
+}
+
+.fix-field-margins {
+  margin-top: 15px;
+  display: block;
+  margin-bottom: 15px;
+}
+
+ng-select.repeat-every {
+  display: inline-block;
+  width: 145px;
+  position: relative;
+  vertical-align: top;
+}
+
+label.checkbox-container.centered-checkbox {
+  width: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+label.left-label {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.recurring-block {
+  display: block;
+  float: none;
+  margin-top: 10px;
+}
+
+label.checkbox-container.centered-checkbox .checkmark {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+article.rrule-holder input.flatpickr-input {
+  min-width: 125px;
+  text-align: center;
+}
+
+span.drop-a.drop-status {
+  padding: 0;
+}
+
+.drop-a > .drop a {
+  text-align: left;
+}
+
+.drop label.checkbox-container.centered-checkbox {
+  float: right;
+  top: -6px;
+  left: 18px;
+}
+
+.news-d article {
+  padding: 0;
+}
+
+@media only screen and (max-width: 47.5em) {
+  .news-d article table td {
+    padding: 10px;
+  }
+
+  .lib-close-btn {
+    width: 100% !important;
+  }
+
+  .box-inner {
+    bottom: 0 !important;
+  }
+}
+
+article {
+  border: 0;
+}
+
+span.no-drop-list.drop-a > .value:after,
+span.no-drop-list.drop-a > .value:before {
+  content: '';
+  display: none;
+}
+
+.table-b .drop-a {
+  max-width: 100%;
+}
+
+.drop-a:hover > .drop {
+  top: 27px;
+}
+
+.signs-wrap {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.drop-item-option-img {
+  margin-right: 2px;
+}
+
+.drop-item-option-img.edit {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 2px;
+  opacity: 0;
+  display: flex;
+  align-items: center;
+}
+
+.drop-item-option-img.edit:hover {
+  background: #dbdbdb;
+}
+
+.tabs-ul {
+  display: flex;
+}
+
+.popup-a.a .box-inner {
+  border: none;
+}
+
+.box-inner.large-box {
+  padding: 20px 29px 0;
+}
+
+.popup-a.a h1,
+.popup-a.a h2 {
+  margin-bottom: 10px;
+}
+
+.task-cnt {
+  background: #4b5153;
+  border-radius: 50%;
+  height: 16px;
+  width: 16px;
+  color: #f7f9fb;
+  text-align: center;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #4b5153;
+  font-size: 10px;
+  line-height: 1rem;
+}
+
+.new-subtask-label {
+  cursor: pointer;
+  color: #16b0c5;
+  font-weight: bold;
+}
+
+.cdk-drag-preview {
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+  display: flex;
+  justify-content: space-between;
+}
+
+.cdk-drag-preview .cdk-handle {
+  opacity: 1;
+}
+
+.cdk-drag-animating {
+  transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.cdk-handle {
+  top: 10px;
+  right: 10px;
+  color: #ccc;
+  cursor: move;
+  width: 12px;
+  height: 20px;
+  opacity: 0;
+}
+
+.table-row-wrapper:last-child {
+  border: none;
+}
+
+.table-row.cdk-drop-list-dragging .table-row-wrapper:not(.cdk-drag-placeholder) {
+  transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.table-row {
+  background: white;
+}
+
+.drag-row:hover {
+  /* cursor: all-scroll; */
+}
+
+.task-name {
+  font-weight: bold;
+}
+
+.task-user-avatar {
+  margin-left: -10px;
+  background: white;
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.task-user-avatar:first-child {
+  margin-left: 0;
+}
+
+/* span.task-user-avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  width: 24px;
+  height: 24px;
+  background: #4b5153;
+  color: #f7f9fb;
+} */
+
+.drop-a > .drop {
+  width: 100%;
+  margin-top: 7px;
+  left: 0;
+  border: 1px solid rgb(22, 176, 197);
+  box-shadow: 0 0 5px 0 rgb(22, 176, 197);
+  border-radius: 5px;
+}
+
+.drop-a > .drop::after {
+  content: '';
+  position: absolute;
+  top: -6px;
+  width: 100%;
+  height: 6px;
+  background: transparent;
+}
+
+.drop-a > .drop:before {
+  display: none;
+}
+
+.subtask-row .drop-a {
+  opacity: 0;
+}
+
+.subtask-row:hover .drop-a,
+.subtask-row:hover .cdk-handle,
+.subtask-row:hover .edit {
+  opacity: 1;
+}
+
+.subtask-row td[editable='true'] + td + td + .subtask-actions .drop-a {
+  opacity: 1;
+}
+table-b a tr td, table-b a th td {
+  vertical-align: middle !important;
+}
+.subtask-row td:nth-child(2) {
+  width: 25%;
+}
+.subtask-row td:nth-child(2) input {
+  width: 90%;
+}
+.subtask-row td:nth-child(3) {
+  width: 30%;
+}
+.subtask-row td:nth-child(3) input {
+  width: 85%;
+}
+.participants {
+  position: relative;
+}
+
+.table-b td {
+  vertical-align: middle;
+}
+
+.close-subtask {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+app-checkbox-select {
+  position: absolute;
+  left: -202px;
+  top: -100%;
+}
+
+app-checkbox-select ::ng-deep li {
+  padding: 8px 0;
+  cursor: pointer;
+}
+
+app-checkbox-select ::ng-deep li:before {
+  content: '';
+  width: 2px;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-color: #0052cc;
+  position: absolute;
+  opacity: 0;
+}
+
+app-checkbox-select ::ng-deep li:hover {
+  background-color: #e3e4e6;
+}
+
+app-checkbox-select ::ng-deep li:hover::before {
+  opacity: 1;
+}
+
+app-checkbox-select ::ng-deep li label.checkbox-container.centered-checkbox {
+  height: 19px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.td-status {
+  font-weight: bold;
+}
+
+.color-gray {
+  color: #9ba1a3;
+}
+
+.color-light-blue {
+  color: #15afc5;
+}
+
+.color-green {
+  color: #2e7d32;
+}
+
+.drop-a > .drop a i {
+  left: 0;
+}
+
+@media only screen and (max-width: 761px) {
+  .mobile-show-last-tab {
+    border-left: 1px solid #dbdbdb;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Xa isithuba songezwa kwi-Feed",
+  "app_confirmation_events": "Isiganeko rsvp siceliwe kum",
+  "app_submission_events": "Isiganeko sam se-rsvp siphendulwe",
+  "app_requested_forms": "Ukungenisa ifom kucelwa kum",
+  "app_submission_forms": "Ifomu yam ifakwe ngumntu",
+  "app_requested_signs": "Ukungeniswa komsayino kucelwe kum",
+  "app_submission_signs": "Uxwebhu lwam lutyikitywe ngumntu",
+  "app_requested_tasks": "Umsebenzi ucelwa kum",
+  "app_submission_tasks": "Umsebenzi wam ugqitywa ngumntu",
+  "app_requested_invoices": "Ukungeniswa kwe-invoyisi kucelwa kum",
+  "app_submission_invoices": "I-invoyisi yam ihlawulwa ngumntu"
+}

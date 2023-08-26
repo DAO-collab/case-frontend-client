@@ -1,0 +1,11 @@
+{
+  "post_user": "Voeg gebruikers by",
+  "put_user": "Verander gebruikers",
+  "put_user_status": "Verander gebruikersstatus",
+  "post_case": "Skep sake",
+  "put_case": "Verander gevalle",
+  "post_case_permission": "Wys gebruikers aan sake toe",
+  "put_case_permission": "Verander gebruikers wat aan sake toegewys is",
+  "post_case_post": "Skep saakplasings",
+  "delete_case_permission": "Verwyder gebruikers wat aan sake toegewys is"
+}

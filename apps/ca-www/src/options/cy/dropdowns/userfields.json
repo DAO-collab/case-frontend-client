@@ -1,0 +1,18 @@
+{
+  "family_name": "Enw olaf",
+  "given_name": "Enw cyntaf",
+  "locale": "Yr iaith a ffefrir",
+  "zoneinfo": "Ardal Amser",
+  "email": "Cyfeiriad ebost",
+  "phone": "Rhif ff\u00f4n",
+  "address1": "Cyfeiriad stryd",
+  "address2": "Apt # neu Uned #",
+  "locality": "Dinas neu Ardal",
+  "region": "Gwladwriaeth neu Ranbarth",
+  "postal_code": "Cod Post neu Zip",
+  "country": "Gwlad",
+  "birthdate": "Dyddiad Geni",
+  "gender": "Rhyw",
+  "company": "Cwmni",
+  "title": "Enw Teitl"
+}

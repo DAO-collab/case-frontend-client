@@ -1,0 +1,110 @@
+<form [formGroup]="contactForm">
+  <p class="triple a">
+    <span>
+      <span
+        class=""
+        [ngClass]="{ 'invalid-field': contactForm.controls['email'].invalid && contactForm.controls['email'].touched }"
+      >
+        <span>
+          <span app-ca-error [errors]="savingError" [location]="'email'"><span translate>Email</span> </span>
+          <label for="email"><span translate>Email</span> </label>
+          <input
+            id="email"
+            class="no-float"
+            name="email"
+            placeholder="{{ 'Email' | translate }}"
+            type="text"
+            formControlName="email"
+            maxlength="250"
+            autocomplete="email"
+          />
+        </span>
+      </span>
+      <p app-ca-translate class="required mb-0 no-margin" message="FieldEmailTypeException" *ngIf="showEmailError"></p>
+
+      <p *ngIf="user?.private?.email_reset || user?.email_verified === 0">
+        <label class="small-text">
+          <span *ngIf="user?.email_verified === 0 && !user?.private?.email_reset">
+            <span>{{ user?.email }}</span>
+            <span translate>&nbsp;has been claimed by another account, please, change it or&nbsp;</span>
+            <a translate (click)="onReclaim('email')">reclaim</a>
+            <span translate>&nbsp;it</span>
+          </span>
+
+          <span *ngIf="user?.private?.email_reset">
+            <span>
+              <span class="close" (click)="onCancelVerify('email')"></span>&nbsp;{{ user?.private?.email_reset?.alias }}
+            </span>
+            <span translate> pending verification: </span>
+            <span>
+              <a (click)="onOpenVerifyModal(['email'])" translate> verify </a>
+            </span>
+          </span>
+        </label>
+      </p>
+    </span>
+    <span>
+      <span
+        class=""
+        [ngClass]="{ 'invalid-field': contactForm.controls['phone'].invalid && contactForm.controls['phone'].touched }"
+      >
+        <span>
+          <span app-ca-error [errors]="savingError" [location]="'phone'"
+            ><span translate>Phone Number</span>
+          </span>
+          <label for="tel"><span translate>Phone Number</span> </label>
+          <!-- <international-phone-number
+            #internationalPhoneNumber
+            id="tel"
+            autocomplete="tel"
+            formControlName="phone"
+            [defaultCountry]="defaultCountry"
+            (keydown)="preventDeleteCountryCode($event)"
+          ></international-phone-number> -->
+          <ngx-intl-tel-input
+            id="tel"
+            #internationalPhoneNumber
+            formControlName="phone"
+            [maxlength]="15"
+            [preferredCountries]="preferredCountries"
+            [enableAutoCountrySelect]="false"
+            [enablePlaceholder]="true"
+            [searchCountryFlag]="true"
+            [searchCountryField]="[
+              SearchCountryField.Iso2,
+              SearchCountryField.Name
+            ]"
+            [selectedCountryISO]="defaultCountry || CountryISO.UnitedStates"
+            [selectFirstCountry]="false"
+            [phoneValidation]="false"
+            [separateDialCode]="true"
+            [numberFormat]="PhoneNumberFormat.International"
+            name="phoneNumberInput"
+          ></ngx-intl-tel-input>
+        </span>
+      </span>
+      <p app-ca-translate class="required mb-0 no-margin" message="FieldPhoneTypeException" *ngIf="showPhoneError"></p>
+
+      <p class="ml-3 mb-0" *ngIf="user?.private?.phone_reset || user?.phone_verified === 0">
+        <label class="small-text">
+          <span *ngIf="user?.phone_verified === 0 && !user?.private?.phone_reset">
+            <span>{{ user?.phone }}</span>
+            <span translate>has been claimed by another account, please, change it or</span>
+            <a translate (click)="onReclaim('phone')">reclaim</a>
+            <span translate>it</span>
+          </span>
+
+          <span *ngIf="user?.private?.phone_reset">
+            <span>
+              <span class="close" (click)="onCancelVerify('phone')"></span>&nbsp;{{ user?.private?.phone_reset?.alias }}
+            </span>
+            <span translate> pending verification: </span>
+            <span>
+              <a (click)="onOpenVerifyModal(['phone'])" translate> verify </a>
+            </span>
+          </span>
+        </label>
+      </p>
+    </span>
+  </p>
+</form>

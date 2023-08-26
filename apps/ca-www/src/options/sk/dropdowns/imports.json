@@ -1,0 +1,11 @@
+{
+  "post_user": "Pridajte pou\u017e\u00edvate\u013eov",
+  "put_user": "Upravte pou\u017e\u00edvate\u013eov",
+  "put_user_status": "Upravte stav pou\u017e\u00edvate\u013eov",
+  "post_case": "Vytvorte pr\u00edpady",
+  "put_case": "Upravte pr\u00edpady",
+  "post_case_permission": "Prira\u010fte pou\u017e\u00edvate\u013eov k pr\u00edpadom",
+  "put_case_permission": "Upravte pou\u017e\u00edvate\u013eov priraden\u00fdch k pr\u00edpadom",
+  "post_case_post": "Vytvorte pr\u00edspevky t\u00fdkaj\u00face sa pr\u00edpadov",
+  "delete_case_permission": "Odstr\u00e1\u0148te pou\u017e\u00edvate\u013eov priraden\u00fdch k pr\u00edpadom"
+}

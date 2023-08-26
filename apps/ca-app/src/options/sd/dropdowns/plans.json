@@ -1,0 +1,15 @@
+{
+  "pro": { "name": "\u067e\u0631\u0648", "base_price": "125.00", "seat_included": "3" },
+  "business": {
+    "name": "\u068c\u0646\u068c\u0648",
+    "base_price": "416.67",
+    "seat_included": "4",
+    "seat_price": "83.34"
+  },
+  "enterprise": {
+    "name": "\u0627\u0646\u067d\u0631\u067e\u0631\u0627\u0626\u0632",
+    "base_price": "500.00",
+    "seat_included": "4",
+    "seat_price": "100.00"
+  }
+}

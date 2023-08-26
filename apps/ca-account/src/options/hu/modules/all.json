@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Olvassa el a szerepk\u00f6rben megadott \u00f6sszes esetet",
+    "write": "\u00cdrja be az \u00f6sszes eset mez\u0151 megad\u00e1s\u00e1t a szerepk\u00f6rbe"
+  },
+  "convos": {
+    "read_all": "A convos aktu\u00e1lis \u00e1llapot\u00e1nak megtekint\u00e9se.",
+    "manage_own": "Csatlakoz\u00e1s \u00e9s kil\u00e9p\u00e9s a besz\u00e9lget\u00e9sb\u0151l.",
+    "moderate_others": "T\u00e1rgyal\u00e1s ind\u00edt\u00e1sa, besz\u00e9lget\u00e9s befejez\u00e9se \u00e9s r\u00e9sztvev\u0151 elt\u00e1vol\u00edt\u00e1sa.",
+    "read_all_submissions": "Olvassa el az \u00f6sszes r\u00f6gz\u00edtett besz\u00e9lget\u00e9st."
+  },
+  "events": {
+    "read_all": "Olvassa el az \u00f6sszes esem\u00e9nyt.",
+    "manage_own": "Saj\u00e1t esem\u00e9ny l\u00e9trehoz\u00e1sa, friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "moderate_others": "M\u00e1sok esem\u00e9ny\u00e9nek friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "read_all_submissions": "Olvassa el az \u00f6sszes esem\u00e9ny meger\u0151s\u00edt\u00e9s\u00e9t.",
+    "submit_own": "Er\u0151s\u00edtse meg az esem\u00e9ny r\u00e9szv\u00e9teli k\u00e9relm\u00e9t."
+  },
+  "posts": {
+    "read_all": "Olvassa el az \u00f6sszes bejegyz\u00e9st.",
+    "manage_own": "Saj\u00e1t bejegyz\u00e9s l\u00e9trehoz\u00e1sa, friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "moderate_others": "Friss\u00edtse \u00e9s t\u00f6r\u00f6lje m\u00e1sok bejegyz\u00e9s\u00e9t."
+  },
+  "forms": {
+    "read_all": "Olvassa el az \u00f6sszes \u0171rlapot.",
+    "manage_own": "Saj\u00e1t \u0171rlap l\u00e9trehoz\u00e1sa, friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "moderate_others": "M\u00e1sok \u0171rlapj\u00e1nak friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "read_all_submissions": "Olvassa el az \u00f6sszes \u0171rlapot.",
+    "submit_own": "\u0170rlapk\u00e9relem beny\u00fajt\u00e1sa."
+  },
+  "invoices": {
+    "read_all": "Olvassa el az \u00f6sszes sz\u00e1ml\u00e1t.",
+    "manage_own": "Saj\u00e1t sz\u00e1mla l\u00e9trehoz\u00e1sa, friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "moderate_others": "M\u00e1sok sz\u00e1ml\u00e1j\u00e1nak friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "read_all_submissions": "Olvassa el az \u00f6sszes beny\u00fajtott sz\u00e1ml\u00e1t.",
+    "submit_own": "Sz\u00e1mlak\u00e9relem beny\u00fajt\u00e1sa."
+  },
+  "notes": {
+    "read_all": "Olvassa el az \u00f6sszes megjegyz\u00e9st.",
+    "manage_own": "Saj\u00e1t jegyzet l\u00e9trehoz\u00e1sa, friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "moderate_others": "Friss\u00edtse \u00e9s t\u00f6r\u00f6lje m\u00e1sok jegyzet\u00e9t."
+  },
+  "signs": {
+    "read_all": "Olvassa el az \u00f6sszes e-t\u00e1bl\u00e1t.",
+    "manage_own": "Saj\u00e1t e-jel l\u00e9trehoz\u00e1sa, friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "moderate_others": "Friss\u00edtse \u00e9s t\u00f6r\u00f6lje m\u00e1sok elektronikus jel\u00e9t.",
+    "read_all_submissions": "Olvassa el az \u00f6sszes elektronikus al\u00e1\u00edr\u00e1s beny\u00fajt\u00e1s\u00e1t.",
+    "submit_own": "K\u00fcldje el a mez\u0151k\u00e9r\u00e9st."
+  },
+  "tasks": {
+    "read_all": "Olvassa el az \u00f6sszes feladatot.",
+    "manage_own": "Saj\u00e1t feladat l\u00e9trehoz\u00e1sa, friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "moderate_others": "M\u00e1sik feladat\u00e1nak friss\u00edt\u00e9se \u00e9s t\u00f6rl\u00e9se.",
+    "read_all_submissions": "Olvassa el az \u00f6sszes bek\u00fcld\u00f6tt feladatot.",
+    "submit_own": "Feladatk\u00e9relem bek\u00fcld\u00e9se."
+  },
+  "team": { "read_all": "Olvassa el a csapatot abban az esetben" }
+}

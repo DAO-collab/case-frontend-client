@@ -1,0 +1,118 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Unsaon Paghimo o Pag-usab sa mga Kaso gamit ang Import Tool
+</h1>
+<p>
+  Gipakita sa kini nga artikulo ang mga admin kung giunsa paghimo o pagbag-o ang mga naa na nga kaso gamit ang tool sa
+  Import.
+</p>
+<h2 id="opening-the-import-tool">Pag-abli sa Import nga himan</h2>
+<ol style="list-style-type: decimal">
+  <li>Log in sa admin account.</li>
+  <li>Pangita ug app sa Apps page ug i-klik ang ADMIN button.</li>
+  <li>Sa Admin panel, i-klik ang Integration tab ug dayon IMPORTS sa submenu.</li>
+  <li>I-klik ang BAG-O nga buton. Ang Add Imports dialog box nagpakita sa bag-ong tab sa browser.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Paghimo og mga kaso</h2>
+<p>Human maablihan ang Add Imports dialog box:</p>
+<ol style="list-style-type: decimal">
+  <li>I-klik ang Type field ug pilia ang opsyon (tan-awa sa ubos). Nagpakita ang usa ka link.</li>
+  <li>I-klik ang Download Sample nga link. Usa ka CSV file ang ma-download sa imong device.</li>
+</ol>
+<p>Sunod, ablihi ang file ug idugang ang mga kaso.</p>
+<h2 id="type">Matang</h2>
+<p>
+  Kung imong i-klik ang <strong>Type</strong> field, usa ka drop-down menu ang makita. Pagpili og usa sa duha ka mga
+  opsyon alang sa mga import sa bulk case.
+</p>
+<ul>
+  <li>
+    <strong>Mubo</strong> nga sulat Ang drop-down menu adunay daghang mga kapilian, apan duha ra ang may kalabutan sa
+    pagdumala sa kaso. Ang matag kapilian adunay lahi nga sample nga CSV file.
+  </li>
+</ul>
+<h3 id="add-cases">Idugang ang mga kaso</h3>
+<ul>
+  <li>Pilia kini nga kapilian alang sa usa ka yano nga daghang pag-upload sa mga kaso.</li>
+  <li>
+    I-klik ang link sa Pag-download sa Sample aron maablihan ang usa ka CSV file nga adunay mga ulohan sa kolum para sa
+    tipo sa pag-import sa Paghimo og mga kaso.
+  </li>
+</ul>
+<h3 id="modify-cases">Usba ang mga kaso</h3>
+<ul>
+  <li>Pilia kini nga kapilian aron ma-update ang mga karon nga kaso.</li>
+  <li>
+    I-klik ang link sa Pag-download sa Sample aron maablihan ang CSV file nga adunay mga ulohan sa kolum para sa tipo sa
+    pag-import sa Modify cases.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Pag-upload sa file</h2>
+<p>
+  Mahimo kang mag-upload dayon og file o mobalik sa Add Imports dialog box sa ulahi nga petsa ug kompletoha kini nga mga
+  lakang.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Ablihi ang Add Imports dialog box.</li>
+  <li>Pagsulod ug talagsaong ngalan alang sa CSV file.</li>
+  <li>I-klik ang plus (+) icon aron ma-upload ang file gikan sa imong device.</li>
+  <li>I-klik ang Type field ug pagpili og opsyon. (tan-awa sa ibabaw)</li>
+  <li>I-klik ang SAVE.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Pag-format</h2>
+<p>
+  Kini ang gikinahanglan nga mga natad ug unang mga kinahanglanon. Pag-klik
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">dinhi</a> aron masusi ang
+  mga detalye sa pag-format.
+</p>
+<p>
+  <strong>tag_id (o case_ID)</strong> usa ka talagsaon nga identifier (gamit ang alphanumeric nga mga karakter, gidawat
+  ang mga hyphen)
+</p>
+<p><strong>case_status</strong> 0 = sirado 1 = aktibo</p>
+<p><strong>date_open</strong> bulan/adlaw/tuig mm/dd/yyyy</p>
+<p>
+  <strong>bahin sa</strong> usa ka talagsaon nga paghulagway sa kaso (gamit ang alphanumeric nga mga karakter, gidawat
+  ang mga hyphen)
+</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Pagproseso</h2>
+<p>
+  Depende sa gidaghanon sa mga rekord sa file ug system load, ang plataporma mahimong molungtad ug pipila ka minuto aron
+  maproseso ang import.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Kung makompleto ang import, ang plataporma mag-adjust sa mga rekord sa kaso (pananglitan, pagdugang o pag-usab) sa
+  dashboard sa Mga Kaso sa admin.
+</p>
+<h2 id="failure">Kapakyasan</h2>
+<p>
+  Kung mapakyas ang operasyon sa pag-import, ang plataporma magbalik sa usa ka Napakyas nga mensahe. Sa kadaghanan nga
+  mga kaso, ang hinungdan sa pagkapakyas mao ang pag-format sa datos.
+</p>
+<div class="figure"><img src="/images/create-case-10.png" alt="img" /></div>
+<p>Aron makita ang hinungdan sa kapakyasan:</p>
+<ol style="list-style-type: decimal">
+  <li>I-klik ang View ubos sa ACTION nga ulohan.</li>
+  <li>Sa sunod nga panid, i-hover ang mouse sa Failed icon. Gipakita sa tooltip ang sayup.</li>
+  <li>Adto sa CVS file ug i-adjust ug ayoha ang sayop.</li>
+  <li>I-upload pag-usab ang file.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

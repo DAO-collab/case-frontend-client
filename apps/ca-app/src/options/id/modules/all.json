@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Baca semua bidang kasus yang ditentukan dalam peran",
+    "write": "Tulis semua bidang kasus yang ditentukan dalam peran"
+  },
+  "convos": {
+    "read_all": "Lihat status obrolan saat ini.",
+    "manage_own": "Bergabung dan keluar dari obrolan.",
+    "moderate_others": "Mulai obrolan, akhiri obrolan, dan hapus peserta.",
+    "read_all_submissions": "Baca semua percakapan yang direkam."
+  },
+  "events": {
+    "read_all": "Baca semua acara.",
+    "manage_own": "Buat, perbarui, dan hapus acara sendiri.",
+    "moderate_others": "Perbarui dan hapus acara orang lain.",
+    "read_all_submissions": "Baca semua konfirmasi acara.",
+    "submit_own": "Konfirmasi permintaan kehadiran acara."
+  },
+  "posts": {
+    "read_all": "Baca semua posting.",
+    "manage_own": "Buat, perbarui, dan hapus postingan sendiri.",
+    "moderate_others": "Perbarui dan hapus kiriman orang lain."
+  },
+  "forms": {
+    "read_all": "Baca semua formulir.",
+    "manage_own": "Buat, perbarui, dan hapus formulir sendiri.",
+    "moderate_others": "Perbarui dan hapus formulir orang lain.",
+    "read_all_submissions": "Baca semua pengiriman formulir.",
+    "submit_own": "Kirim permintaan formulir."
+  },
+  "invoices": {
+    "read_all": "Baca semua faktur.",
+    "manage_own": "Buat, perbarui, dan hapus faktur sendiri.",
+    "moderate_others": "Perbarui dan hapus faktur orang lain.",
+    "read_all_submissions": "Baca semua pengiriman faktur.",
+    "submit_own": "Kirim permintaan faktur."
+  },
+  "notes": {
+    "read_all": "Baca semua catatan.",
+    "manage_own": "Buat, perbarui, dan hapus catatan Anda sendiri.",
+    "moderate_others": "Perbarui dan hapus catatan orang lain."
+  },
+  "signs": {
+    "read_all": "Baca semua tanda elektronik.",
+    "manage_own": "Buat, perbarui, dan hapus tanda elektronik sendiri.",
+    "moderate_others": "Perbarui dan hapus tanda elektronik orang lain.",
+    "read_all_submissions": "Baca semua pengiriman tanda elektronik.",
+    "submit_own": "Kirim permintaan lapangan."
+  },
+  "tasks": {
+    "read_all": "Baca semua tugas.",
+    "manage_own": "Buat, perbarui, dan hapus tugas sendiri.",
+    "moderate_others": "Perbarui dan hapus tugas orang lain.",
+    "read_all_submissions": "Baca semua kiriman tugas.",
+    "submit_own": "Kirim permintaan tugas."
+  },
+  "team": { "read_all": "Baca tim untuk berjaga-jaga" }
+}

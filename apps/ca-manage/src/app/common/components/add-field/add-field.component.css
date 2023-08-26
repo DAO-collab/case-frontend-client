@@ -1,0 +1,23 @@
+.select-wrap {
+  width: calc(100% - 280px);
+  clear: left;
+  float: left;
+  margin-right: 10px;
+  margin-top: 3px;
+  position: relative;
+}
+
+@media screen and (max-width: 760px) {
+  .select-wrap {
+    width: calc(100% - 0px);
+  }
+}
+
+.disabled-link {
+  color: #808080a8;
+  cursor: not-allowed;
+}
+
+.add-field-button:hover {
+  color: white;
+}

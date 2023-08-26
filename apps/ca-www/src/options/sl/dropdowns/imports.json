@@ -1,0 +1,11 @@
+{
+  "post_user": "Dodajte uporabnike",
+  "put_user": "Spremeni uporabnike",
+  "put_user_status": "Spremenite status uporabnikov",
+  "post_case": "Ustvarite primere",
+  "put_case": "Spremenite primere",
+  "post_case_permission": "Dodeli uporabnike primerom",
+  "put_case_permission": "Spremenite uporabnike, dodeljene primerih",
+  "post_case_post": "Ustvarite objave primerov",
+  "delete_case_permission": "Odstranite uporabnike, dodeljene zadevam"
+}

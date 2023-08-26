@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Uygulama ba\u015far\u0131yla olu\u015fturuldu.",
+  "AvatarDeleted": "Avatar ba\u015far\u0131yla silindi.",
+  "AvatarUpdated": "Avatar ba\u015far\u0131yla y\u00fcklendi.",
+  "CodeSent": "Cihaz\u0131n\u0131za bir onay kodu g\u00f6nderildi.",
+  "DeviceVerified": "Cihaz do\u011fruland\u0131.",
+  "GlobalLogout": "T\u00fcm cihazlarda oturumu kapat\u0131n. Yak\u0131nda g\u00f6r\u00fc\u015f\u00fcr\u00fcz.",
+  "LocalLogout": "Bu cihazdan \u00e7\u0131k\u0131\u015f yap\u0131n. Yak\u0131nda g\u00f6r\u00fc\u015f\u00fcr\u00fcz.",
+  "PasswordUpdated": "\u015eifre ba\u015far\u0131yla g\u00fcncellendi.",
+  "ProfileUpdated": "Profil ba\u015far\u0131yla g\u00fcncellendi.",
+  "SignupPassword": "Hesap ba\u015far\u0131yla olu\u015fturuldu.",
+  "TicketSent": "Destek ekibine bir e-posta g\u00f6nderildi."
+}

@@ -1,0 +1,82 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Kif Tassenja, Immodifika jew Neħħi Assenji tal-Utenti bl-Għodda tal-Importazzjoni
+</h1>
+<p>Dan l-artikolu juri lill-amministraturi kif jimmaniġġjaw l-utenti tal-każ bl-għodda tal-Importazzjoni.</p>
+<p>L-amministraturi jistgħu:</p>
+<ul>
+  <li>tassenja utenti għal każ</li>
+  <li>timmodifika utenti diġà assenjati għal każ</li>
+  <li>neħħi utenti assenjati għal każ</li>
+</ul>
+<h2 id="opening-the-import-tool">Ftuħ l-għodda ta &#39;importazzjoni</h2>
+<ol style="list-style-type: decimal">
+  <li>Idħol fil-kont tal-amministratur.</li>
+  <li>Sib app fuq il-paġna Apps u kklikkja l-buttuna ADMIN.</li>
+  <li>Ikklikkja t-tab Integrazzjoni u mbagħad IMPORTAZZJONIJIET fuq is-submenu.</li>
+  <li>Ikklikkja l-buttuna ĠDIDA. Il-kaxxa tad-djalogu Żid Importazzjonijiet tidher.</li>
+</ol>
+<h2 id="creating-records">Ħolqien ta&#39; rekords</h2>
+<p>
+  Niżżel fajl CSV wieħed jew aktar. Uża dawn il-fajls biex iżżid, timmodifika jew tneħħi utenti tal-każ. Wara li tiftaħ
+  il-kaxxa tad-djalogu Żid Importazzjonijiet:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Ikklikkja l-qasam Tip.</li>
+  <li>Skrollja fil-menu drop-down u agħżel għażla (ara hawn taħt). Wirjiet link.</li>
+  <li>Ikklikkja l-link Niżżel il-Kampjun. Fajl CSV jitniżżel fuq it-tagħmir tiegħek.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>Iftaħ il-fajl u żid ir-rekords. Ikklikkja hawn biex titgħallem kif tuża data tal-format fil-fajl CSV.</p>
+<h3 id="file-options">Għażliet tal-fajl</h3>
+<p>
+  <strong>Assenja utenti għal każi</strong> * Agħżel din l-għażla biex iżżid utenti f&#39;każ. * Ħalli ċ-ċellula
+  case_role_order vojta. * Mur fil-paġna Utenti u kkopja l-ID tat-Tag għal din il-persuna. Jekk il-qasam Tag ID huwa
+  vojt, daħħal ID unika, ikklikkja Save, u mbagħad ikkopja l-ID fil-fajl CSV.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Immodifika l-utenti assenjati għal każijiet</strong> * Agħżel din l-għażla biex taġġorna d-dejta għall-utenti
+  attwali assenjati għal każ. * Uża l-ID tat-Tag tal-Każ għall-kolonna case_ID.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p><strong>Neħħi utenti assenjati għal każi</strong> * Agħżel din l-għażla biex tneħħi utenti assenjati għal każ.</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="uploading-the-file">Tlugħ tal-fajl</h2>
+<p>
+  Tista &#39;ttella&#39; fajl mill-ewwel jew terġa &#39;lura fil-kaxxa ta&#39; dialog Żid Importazzjonijiet f&#39;data
+  aktar tard u tlesti dawn il-passi.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Iftaħ il-kaxxa ta &#39;dialog Żid Importazzjonijiet.</li>
+  <li>Daħħal isem uniku għall-fajl CSV.</li>
+  <li>Ikklikkja l-ikona plus (+) biex ittella&#39; l-fajl mit-tagħmir tiegħek.</li>
+  <li>Ikklikkja l-qasam Tip u agħżel għażla. (ara hawn fuq)</li>
+  <li>Ikklikkja SAVE.</li>
+</ol>
+<h2 id="processing">Ipproċessar</h2>
+<p>
+  Skont in-numru ta &#39;rekords fil-fajl u t-tagħbija tas-sistema, il-pjattaforma tista&#39; tieħu diversi minuti biex
+  tipproċessa l-importazzjoni.
+</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>
+  Meta l-importazzjoni titlesta, il-pjattaforma taġġusta r-rekords tal-utent (jiġifieri żżid, timmodifika, jew tneħħi)
+  fuq il-paġna Każijiet.
+</p>
+<h2 id="failure">Nuqqas</h2>
+<p>
+  Jekk l-operazzjoni ta&#39; importazzjoni tfalli, il-pjattaforma tirritorna messaġġ Faled. Fil-biċċa l-kbira
+  tal-każijiet, il-kawża tal-falliment hija l-ifformattjar tad-dejta.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Biex tara l-kawża tan-nuqqas:</p>
+<ol style="list-style-type: decimal">
+  <li>Ikklikkja Ara taħt l-intestatura Azzjoni.</li>
+  <li>Fil-paġna li jmiss, poġġi l-maws fuq l-ikona Falliet. It-tooltip juri l-iżball.</li>
+  <li>Mur fil-fajl CVS u aġġusta u rranġa l-iżball.</li>
+  <li>Erġa&#39; ttella&#39; l-fajl.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

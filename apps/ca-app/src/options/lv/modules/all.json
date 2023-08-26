@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Las\u012bt visu gad\u012bjumu lauk\u0101 nor\u0101diet lomu",
+    "write": "Ierakstiet visu gad\u012bjuma lauk\u0101 nor\u0101d\u012bto lomu"
+  },
+  "convos": {
+    "read_all": "Skat\u012bt pa\u0161reiz\u0113jo sarunu statusu.",
+    "manage_own": "Pievienojieties sarunai un atceliet to.",
+    "moderate_others": "S\u0101kt sarunu, beigt sarunu un no\u0146emt dal\u012bbnieku.",
+    "read_all_submissions": "Las\u012bt visas ierakst\u012bt\u0101s sarunas."
+  },
+  "events": {
+    "read_all": "Las\u012bt visus notikumus.",
+    "manage_own": "Izveidojiet, atjauniniet un dz\u0113siet savu notikumu.",
+    "moderate_others": "Atjauniniet un dz\u0113siet citu notikumu.",
+    "read_all_submissions": "Izlasiet visus notikumu apstiprin\u0101jumus.",
+    "submit_own": "Apstipriniet pas\u0101kuma apmekl\u0113juma piepras\u012bjumu."
+  },
+  "posts": {
+    "read_all": "Izlasiet visas zi\u0146as.",
+    "manage_own": "Izveidojiet, atjauniniet un dz\u0113siet savu zi\u0146u.",
+    "moderate_others": "Atjauniniet un dz\u0113siet citu zi\u0146u."
+  },
+  "forms": {
+    "read_all": "Izlasiet visas veidlapas.",
+    "manage_own": "Izveidojiet, atjauniniet un dz\u0113siet savu veidlapu.",
+    "moderate_others": "Atjauniniet un dz\u0113siet citu veidlapu.",
+    "read_all_submissions": "Izlasiet visus veidlapu iesniegumus.",
+    "submit_own": "Iesniedziet veidlapas piepras\u012bjumu."
+  },
+  "invoices": {
+    "read_all": "Izlasiet visus r\u0113\u0137inus.",
+    "manage_own": "Izveidojiet, atjauniniet un dz\u0113siet savu r\u0113\u0137inu.",
+    "moderate_others": "Atjauniniet un dz\u0113siet citas personas r\u0113\u0137inu.",
+    "read_all_submissions": "Izlasiet visus iesniegtos r\u0113\u0137inus.",
+    "submit_own": "Iesniedziet r\u0113\u0137ina piepras\u012bjumu."
+  },
+  "notes": {
+    "read_all": "Izlasiet visas piez\u012bmes.",
+    "manage_own": "Izveidojiet, atjauniniet un dz\u0113siet savu piez\u012bmi.",
+    "moderate_others": "Atjauniniet un dz\u0113siet citas personas piez\u012bmi."
+  },
+  "signs": {
+    "read_all": "Izlasi visas e-z\u012bmes.",
+    "manage_own": "Izveidojiet, atjauniniet un dz\u0113siet savu e-z\u012bmi.",
+    "moderate_others": "Atjauniniet un dz\u0113siet citu e-z\u012bmi.",
+    "read_all_submissions": "Izlasiet visus e-parakstu iesniegumus.",
+    "submit_own": "Iesniedziet lauka piepras\u012bjumu."
+  },
+  "tasks": {
+    "read_all": "Izlasiet visus uzdevumus.",
+    "manage_own": "Izveidojiet, atjauniniet un dz\u0113siet savu uzdevumu.",
+    "moderate_others": "Atjauniniet un dz\u0113siet citu uzdevumu.",
+    "read_all_submissions": "Izlasiet visus uzdevumu iesniegumus.",
+    "submit_own": "Iesniedziet uzdevuma piepras\u012bjumu."
+  },
+  "team": { "read_all": "Gad\u012bjum\u0101 izlasiet komandu" }
+}

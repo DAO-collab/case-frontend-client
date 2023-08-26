@@ -1,0 +1,190 @@
+.link-a > * {
+  border: 2px solid rgb(backgroundColor);
+  background: rgb(backgroundColor);
+}
+
+.module-d.tabs > ul li.active a:before {
+  background: rgb(backgroundColor);
+}
+
+.nav-a li.active a,
+a,
+#sub > ul li.active a,
+#sub > ul li a:hover,
+.overlay-a,
+#root.logged-in #nav > ul > li.active > a,
+#root.logged-in #nav > ul > li > a:hover {
+  color: rgb(textColor);
+}
+
+#root.logged-in #nav > ul > li.active > a {
+  border-color: rgb(textColor);
+}
+
+.drop-a > .value {
+  background: rgb(backgroundColor);
+}
+
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'],
+a.btn {
+  border: 1px solid rgb(backgroundColor);
+  background: rgb(backgroundColor);
+}
+
+span.file-title-box {
+  background: rgb(backgroundColor);
+}
+
+.notice-a.a {
+  background: rgb(backgroundColor);
+}
+
+.notice-a.a:before,
+.notice-a.b:before {
+  color: rgb(textColor);
+}
+
+.link-a > .e:before {
+  background: rgb(backgroundColor);
+}
+
+.form-d .submit .drop > button:before,
+.form-d .submit .drop > .btn:before,
+.form-d .submit .drop > button:after,
+.form-d .submit .drop > .btn:after {
+  background: rgb(backgroundColor);
+}
+
+.link-a > *:hover,
+.link-a > .e:hover:before {
+  border-color: rgb(backgroundColor);
+  background: rgb(backgroundColor);
+}
+
+button:hover,
+input[type='button']:hover,
+input[type='reset']:hover,
+input[type='submit']:hover,
+a.btn:hover,
+.color-picker .input a:hover {
+  border-color: rgb(backgroundColor);
+  background: rgb(backgroundColor);
+}
+
+.form-b button:hover,
+.form-b .submit:hover button {
+  border-color: rgb(backgroundColor);
+  background: rgb(backgroundColor);
+}
+
+#nav > ul > li.a > a:hover,
+#top.a #nav > ul > li.a > a:hover {
+  background: rgb(backgroundColor);
+}
+
+.link-a > *:hover,
+.link-a > .e:hover:before {
+  border-color: rgb(backgroundColor);
+  background: rgb(backgroundColor);
+}
+
+.checklist-d label.radio input:checked .input:before {
+  background: rgb(backgroundColor);
+}
+
+ul.ui-select-choices.dropdown-menu {
+  border: 1px solid rgb(backgroundColor);
+  box-shadow: 0 0 5px rgba(backgroundColor, 0.9);
+  margin-top: 2px;
+}
+
+.steps-slider .step.doneLine:not(:first-child):before {
+  background: rgb(backgroundColor);
+}
+
+.steps-slider .step.doneLine {
+  background: rgb(backgroundColor);
+}
+
+.ui-select-choices-row.active > a {
+  background-color: rgb(backgroundColor) !important;
+}
+
+ul.ui-select-choices.dropdown-menu {
+  border: 1px solid rgb(backgroundColor);
+  box-shadow: 0 0 5px rgba(backgroundColor, 0.9);
+}
+
+.flatpickr-day.selected {
+  background: rgb(backgroundColor);
+}
+
+.loader-bubbles:before,
+.loader-bubbles:after,
+.loader-bubbles span {
+  background-color: rgb(backgroundColor);
+  border: 0px solid rgb(backgroundColor);
+}
+
+.container .checkmark:after,
+.checkbox-container .checkmark:after {
+  color: rgb(textColor);
+}
+
+.ca-popup input:focus {
+  box-shadow: 0 0 5px rgba(backgroundColor, 0.9);
+  border-color: rgb(backgroundColor);
+}
+
+.ca-popup .btn {
+  border: 1px solid rgb(backgroundColor);
+  background: rgb(backgroundColor);
+}
+
+.container .checkmark:after,
+.checkbox-container .checkmark:after {
+  color: rgb(textColor);
+}
+
+.ui-select-choices-row.active > a {
+  background-color: rgb(backgroundColor) !important;
+}
+
+ul.ui-select-choices.dropdown-menu {
+  border: 1px solid rgb(backgroundColor);
+  box-shadow: 0 0 5px rgba(backgroundColor, 0.9);
+}
+
+span.toggl-to-dropdown {
+  color: rgb(textColor);
+}
+
+.file-a .btn {
+  border: 1px solid rgb(backgroundColor);
+  color: rgb(textColor);
+}
+
+.file-a .btn:hover {
+  background: rgb(backgroundColor);
+}
+
+#root input:focus,
+#root select:focus,
+#root textarea:focus,
+#root .semantic-select.active .input,
+.semantic-select ul,
+#root .form-c p > span input:focus,
+#root .form-c p > span select:focus,
+.color-picker.active,
+.form-i.focus {
+  box-shadow: 0 0 5px rgba(backgroundColor, 0.9);
+  border-color: rgb(backgroundColor);
+}
+
+.drop-a > .value:before,
+.drop-a > .value:after {
+  background: rgb(backgroundColor);
+}

@@ -1,0 +1,126 @@
+<ng-container *ngIf="!loading; else isLoading">
+  <header class="heading-b has-link-a invoice-header">
+    <div class="invoice-header-content">
+      <h2 class="invoice-header-title" translate>
+        <span class="invoice-wording" translate>Pay Invoice</span>
+        <img src="../../../../images/arrow-right-dark.svg" alt="" />
+        <span>{{ shorTitleName(invoiceModel.name, 80) }}</span>
+      </h2>
+      <div class="invoice-buttons">
+        <ca-button [text]="'Download'| translate" [isHovered]="true" (btnClick)="downloadPDF()" [fontWeight]="600" margin="3px 5px 0 0"></ca-button>
+        <ca-button [text]="'Cancel'| translate" [isHovered]="true" (btnClick)="goToInvoice()" [fontWeight]="600" margin="3px 0 0"></ca-button>
+      </div>
+    </div>
+  </header>
+
+  <ng-container *ngIf="(whoami$ | async)?.data?.host as whoami">
+    <div
+      class="invoice-content-wrapper"
+      [ngClass]="{ 'no-payment-section': !whoami.stripe_connect_active || !whoami.stripe_onboard_completed }"
+    >
+      <div class="module-d invoice-block">
+        <app-invoice-preview [invoice]="invoiceModel"></app-invoice-preview>
+      </div>
+
+      <div
+        class="module-d payment-form-wrapper"
+        *ngIf="whoami.stripe_connect_active && whoami.stripe_onboard_completed"
+      >
+        <ng-container *ngIf="(stripe$ | async)?.items as stripe">
+          <div class="payment-section">
+            <h1 class="payment-section-header" translate>Payment method</h1>
+
+            <span class="payment-section-header payment-error" *ngIf="paymentError">{{ paymentError }}</span>
+
+            <ng-container *ngIf="stripe?.length && !hidePayments; else addPayment">
+              <div
+                class="payment-method-wrapper"
+                *ngFor="let stripeElement of $any(stripe)"
+                [ngClass]="{
+                  'payment-selected-by-user custom-design-border-color': stripeElement.card_id === selectedPaymentId
+                }"
+              >
+                <div class="payment-method-wrapper-left">
+                  <input
+                    type="radio"
+                    class="payment-radio refund-radio"
+                    name="reason-radio"
+                    [value]="stripeElement.card_id"
+                    (change)="onSelectRadio($event.target)"
+                  />
+
+                  <img class="payment-logo" src="images/visa-payment-logo.png" alt="" />
+
+                  <div class="payment-label-wrapper">
+                    <span class="payment-label-top">VISA **** {{ stripeElement.last_4 }}</span>
+                    <span class="payment-label-bottom" translate>
+                      Expires on {{ stripeElement.exp_month }}/{{ stripeElement.exp_year }}
+                    </span>
+                  </div>
+                </div>
+
+                <img
+                  class="cursor-pointer"
+                  src="images/delete-payment-icon.svg"
+                  alt=""
+                  (click)="deleteStripe(stripeElement.card_id)"
+                />
+              </div>
+            </ng-container>
+          </div>
+
+          <ng-container *ngIf="stripe?.length && !hidePayments">
+            <div class="add-new-payment custom-text-color cursor-pointer">
+              <span class="icon-plus"></span>
+              <span class="add-new-payment-text" (click)="createNewPayment()" translate>
+                Add a new payment method
+              </span>
+            </div>
+          </ng-container>
+
+          <div class="payment-section">
+            <h1 class="payment-section-header" translate>Summary</h1>
+
+            <div class="two-items-split payment-item-bottom-line">
+              <span class="payment-item-label" translate>Payment:</span>
+              <span class="payment-pre-summary">{{ calculateTotal() }}</span>
+            </div>
+
+            <div class="two-items-split">
+              <span class="payment-item-label" translate>Total charge:</span>
+              <span class="payment-summary custom-text-color">{{ calculateTotal() }}</span>
+            </div>
+          </div>
+
+          <button
+            class="custom-background-color pay-now-button"
+            (click)="chooseSubmitRequest(!!(stripe?.length && !hidePayments))"
+          >
+            <ng-container *ngIf="stripe?.length && !hidePayments; else createPayment">
+              Pay now {{ calculateTotal() }}
+            </ng-container>
+
+            <ng-template #createPayment>Add Payment</ng-template>
+          </button>
+
+          <ng-template #addPayment>
+            <form id="payment-form">
+              <div id="payment-element"></div>
+              <div id="error-message"></div>
+            </form>
+          </ng-template>
+        </ng-container>
+      </div>
+    </div>
+  </ng-container>
+</ng-container>
+
+<ng-template #isLoading>
+  <div>
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</ng-template>

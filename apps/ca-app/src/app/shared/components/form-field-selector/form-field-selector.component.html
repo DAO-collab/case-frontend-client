@@ -1,0 +1,29 @@
+<div class="input-a">
+  <label for="mdc">Field Type</label>
+  <div class="select-wrap">
+    <select id="mdc" class="cform-types" name="fieldType" [(ngModel)]="fieldType" placeholer="Select Field Type">
+      <option value="" selected disabled translate>Select Field Type</option>
+      <option value="text-only" translate>Text Only</option>
+      <option value="text" translate>Text</option>
+      <option value="textarea" translate>Multiple Line Text</option>
+      <option value="dropdown" translate>Dropdown</option>
+      <option value="multidropdown" translate>Multi Dropdown</option>
+      <option value="checkboxes" translate>Checkboxes</option>
+      <option value="options" translate>Radio</option>
+      <option value="date" translate>Date</option>
+      <option value="time" translate>Time</option>
+      <option value="boolean" translate>Yes/No</option>
+      <option value="number" translate>Number</option>
+    </select>
+  </div>
+
+  <a
+    class="btn"
+    [ngClass]="{ 'cform-type-add-inactive': !fieldType, 'cform-type-add': fieldType }"
+    (click)="addField()"
+    translate
+    >Add Field</a
+  >
+
+  <img src="/images/illustrations/create_custom_fields.svg" alt="Placeholder" width="160" height="102" />
+</div>

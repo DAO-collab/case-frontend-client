@@ -1,0 +1,81 @@
+.table-c {
+  table-layout: fixed;
+}
+
+.table-c th {
+  text-align: left;
+}
+
+.rel {
+  position: relative;
+}
+
+span.mb-size:after {
+  content: attr(data-lbl);
+  display: block;
+  background: #f8fafb;
+  width: 30px;
+  text-align: center;
+  right: 3px;
+  top: 50px;
+  z-index: 9;
+  float: right;
+  margin-top: -25px;
+  position: absolute;
+}
+
+span.mb-size input {
+  padding-right: 34px;
+  max-width: 100px;
+  float: right;
+}
+
+span.mb-size > * {
+  float: left;
+}
+
+.table-c app-error.notice-a.show {
+  position: relative;
+  top: 10px;
+}
+
+.module-d .submit {
+  border-top: 0px;
+}
+
+.permissions-table-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.permissions-table-body > tr {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.case-permissions-table-body {
+  display: flex;
+}
+
+.case-permissions-table-body tbody {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.case-permissions-table-body tbody tr {
+  display: flex;
+}
+
+.case-permissions-table-body tbody tr > td:first-child {
+  padding-left: 30px;
+}
+.permissions-table-row {
+  flex-grow: 1;
+}
+
+@media only screen and (min-width: 1200px) {
+  .checkbox-align {
+    padding: 16px 7px 13px;
+  }
+}

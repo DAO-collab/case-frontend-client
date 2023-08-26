@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Verenga nyaya dzese ndima tsanangura mune basa",
+    "write": "Nyora nyaya yese ndima tsanangura mune basa"
+  },
+  "convos": {
+    "read_all": "Ona mamiriro ezvino convos.",
+    "manage_own": "Join uye ujoin convo.",
+    "moderate_others": "Tanga convo, gumisa convo, uye bvisa ari kutora chikamu.",
+    "read_all_submissions": "Verenga zvese zvakarekodhwa convos."
+  },
+  "events": {
+    "read_all": "Verenga zviitiko zvese.",
+    "manage_own": "Gadzira, gadziridza uye bvisa chako chiitiko.",
+    "moderate_others": "Gadzirisa uye dzima chiitiko chevamwe.",
+    "read_all_submissions": "Verenga zvese zvinosimbisa chiitiko.",
+    "submit_own": "Simbisa chikumbiro chekuuya kwechiitiko."
+  },
+  "posts": {
+    "read_all": "Verenga zvese zvakatumirwa.",
+    "manage_own": "Gadzira, gadziridza uye bvisa chako chinyorwa.",
+    "moderate_others": "Gadzirisa uye udzime zvakatumirwa nevamwe."
+  },
+  "forms": {
+    "read_all": "Verenga mafomu ose.",
+    "manage_own": "Gadzira, gadziridza uye bvisa yako fomu.",
+    "moderate_others": "Gadzirisa uye dzima fomu revamwe.",
+    "read_all_submissions": "Verenga zvese zvakatumirwa fomu.",
+    "submit_own": "Tumira chikumbiro chefomu."
+  },
+  "invoices": {
+    "read_all": "Verenga ma invoice ese.",
+    "manage_own": "Gadzira, gadziridza uye dzima invoice yako.",
+    "moderate_others": "Gadzirisa uye dzima invoice yevamwe.",
+    "read_all_submissions": "Verenga zvese zvakatumirwa invoice.",
+    "submit_own": "Tumira chikumbiro cheinvoice."
+  },
+  "notes": {
+    "read_all": "Verenga zvinyorwa zvose.",
+    "manage_own": "Gadzira, gadziridza uye dzima chinyorwa chako.",
+    "moderate_others": "Gadzirisa uye dzima chinyorwa chevamwe."
+  },
+  "signs": {
+    "read_all": "Verenga mae-signs ese.",
+    "manage_own": "Gadzira, gadziridza uye dzima yako e-sign.",
+    "moderate_others": "Gadziridza uye dzima e-sign yevamwe.",
+    "read_all_submissions": "Verenga zvese zvakatumirwa e-sign.",
+    "submit_own": "Tumira chikumbiro chemunda."
+  },
+  "tasks": {
+    "read_all": "Verenga mabasa ese.",
+    "manage_own": "Gadzira, gadziridza uye dzima rako basa.",
+    "moderate_others": "Gadzirisa uye udzime rimwe basa.",
+    "read_all_submissions": "Verenga zvese zvakatumirwa.",
+    "submit_own": "Tumira chikumbiro chebasa."
+  },
+  "team": { "read_all": "Verenga timu kuitira" }
+}

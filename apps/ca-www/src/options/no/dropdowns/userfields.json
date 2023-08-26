@@ -1,0 +1,18 @@
+{
+  "family_name": "Etternavn",
+  "given_name": "Fornavn",
+  "locale": "Foretrukket Spr\u00e5k",
+  "zoneinfo": "Tidssone",
+  "email": "Epostadresse",
+  "phone": "Telefonnummer",
+  "address1": "Gateadresse",
+  "address2": "Apt # eller Enhet #",
+  "locality": "By eller lokalitet",
+  "region": "Stat eller region",
+  "postal_code": "Postnummer eller postnummer",
+  "country": "Land",
+  "birthdate": "Bursdag",
+  "gender": "Kj\u00f8nn",
+  "company": "Selskap",
+  "title": "Navn Tittel"
+}

@@ -1,0 +1,223 @@
+<nav id="sub">
+  <div class="items-button">
+    <p class="{{ appStatus === 'active' ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn' }}">
+      <a (click)="loadApps('active')">{{ 'Active' | translate }} </a>
+    </p>
+    <p class="{{ appStatus === 'invites' ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn' }}">
+      <a (click)="loadApps('invites')"
+        >{{ 'Invites' | translate }}
+        <span class="{{ appStatus === 'invites' ? 'badge active-badge' : 'badge disabled-badge' }}">{{
+          invite_cnt
+        }}</span>
+      </a>
+    </p>
+    <p class="{{ appStatus === 'disabled' ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn' }}">
+      <a (click)="loadApps('disabled')">{{ 'Disabled' | translate }} </a>
+    </p>
+  </div>
+</nav>
+<article id="content" class="module-d">
+  <app-loader [active]="loading && !apps.length"></app-loader>
+
+  <div *ngIf="emptyApps && !loading" class="text-center">
+    <p translate>No apps found</p>
+  </div>
+
+  <p class="notice-a success" app-ca-translate [message]="message" *ngIf="message && !loading"></p>
+
+  <div class="table-wrapper" *ngIf="apps && !loading && !emptyApps">
+    <table class="wrapper">
+      <tr class="table-head">
+        <td class="icon"></td>
+        <td class="company-name">Company Name</td>
+        <td class="type">Type</td>
+        <td class="status">Status</td>
+        <td class="actions"></td>
+        <td class="mobile-table-buttons"></td>
+      </tr>
+      <tr #appTableRow *ngFor="let app of apps; let elementIndex = index">
+        <td class="icon">
+          <div>
+            <img [src]="app.favicon" style="height: 20px !important" alt="Icon" />
+          </div>
+        </td>
+
+        <td class="company-name" style="min-width: 100px; width: 40%; overflow: hidden; text-overflow: ellipsis">
+          {{ app.name }}
+        </td>
+        <td class="type" [ngSwitch]="app.host_user_type">
+          <div translate *ngSwitchCase="HostUserType.Admin">admin</div>
+          <div translate *ngSwitchCase="HostUserType.User">user</div>
+          <div translate *ngSwitchCase="HostUserType.Manage">manager</div>
+        </td>
+        <td class="status" [ngSwitch]="app.host_user_status">
+          <div translate *ngSwitchCase="1">active</div>
+          <div translate *ngSwitchCase="0">inactive</div>
+        </td>
+
+        <td class="actions">
+          <div class="float-div" [ngClass]="{ 'float-left': showAnimationIndex === elementIndex }">
+            <img
+              class="apps-table-button-img apps-table-mobile-img apps-table-app"
+              src="images/apps-app.svg"
+              alt=""
+              (click)="openAppActions(app, $event, elementIndex)"
+            />
+
+            <img
+              *ngIf="app.host_granted_status === 1"
+              class="apps-table-button-img apps-table-mobile-img apps-table-settings-dots position-absolute"
+              src="images/apps-settings-dots.svg"
+              alt=""
+              (click)="appsService.showAppInvitationModal(app)"
+            />
+          </div>
+        </td>
+
+        <td class="mobile-table-buttons" style="display: flex; align-items: center">
+          <div
+            class="mobile-table-buttons-div"
+            style="width: 300px; display: flex"
+            [ngClass]="{ 'buttons-animation': showAnimationIndex === elementIndex }"
+          >
+            <ca-button 
+              *ngIf="app.host_granted_status === 1"
+              [text]="'App' | translate" 
+              margin="0 5px 0 0"
+              [fontWeight]="600" 
+              (btnClick)="appsService.openApp(app, 'c')">
+            </ca-button>
+            <ca-button 
+              *ngIf="app.host_granted_status === 1"
+              [text]="'Admin' | translate" 
+              [fontWeight]="600" 
+              (btnClick)="appsService.openApp(app, 'a')">
+            </ca-button>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <table class="table-a" *ngIf="apps && !loading && !emptyApps" style="table-layout: fixed">
+    <tr>
+      <th></th>
+      <th style="min-width: 100px; width: 40%" translate>Company Name</th>
+      <th translate>Type</th>
+      <th translate>Status</th>
+      <th></th>
+    </tr>
+
+    <tr *ngFor="let app of apps; let i = index">
+      <td>
+        <img [src]="app.favicon" style="height: 20px !important" alt="Icon" />
+      </td>
+
+      <td style="min-width: 100px; width: 40%; overflow: hidden; text-overflow: ellipsis">{{ app.name }}</td>
+      <td [ngSwitch]="app.host_user_type">
+        <span translate *ngSwitchCase="HostUserType.Admin">admin</span>
+        <span translate *ngSwitchCase="HostUserType.User">user</span>
+        <span translate *ngSwitchCase="HostUserType.Manage">manager</span>
+      </td>
+      <td [ngSwitch]="app.host_user_status">
+        <span translate *ngSwitchCase="1">active</span>
+        <span translate *ngSwitchCase="0">inactive</span>
+      </td>
+
+      <td class="apps-table-td">
+        <div class="float-div" style="float: right">
+          <a
+            *ngIf="app.host_granted_status === 0"
+            class="btn btn-go apps-table-button apps-table-app apps-button invitation-button"
+            (click)="appsService.openApp(app, 'c')"
+            translate
+          >
+            Invitation
+          </a>
+          <ca-button 
+            *ngIf="app.host_granted_status === 1 && i !== appIndexRowTour"
+            [text]="'App' | translate" 
+            margin="0 5px 5px 0"
+            [fontWeight]="600" 
+            (btnClick)="appsService.openApp(app, 'c')">
+          </ca-button>
+          <ca-button 
+            *ngIf="app.host_granted_status === 1 && i === appIndexRowTour"
+            [text]="'App' | translate" 
+            margin="0 5px 5px 0"
+            [fontWeight]="600" 
+            (btnClick)="appsService.openApp(app, 'c')"
+            joyrideStep="step1"
+            title="Access app as a client "
+            text="Click here to access the app as a client and utilize various features such as communication, document filling, video chat, and more. Engage in case-related activities and make the most of your client experience."
+            [nextTemplate]="nextButton">
+          </ca-button>
+          <img
+            *ngIf="app.host_user_type !== HostUserType.Admin"
+            class="apps-table-button-img apps-table-mobile-img apps-table-app"
+            src="images/apps-app.svg"
+            alt=""
+            (click)="appsService.openApp(app, 'c')"
+          />
+          <ca-button 
+            *ngIf="app.host_granted_status === 1 && app.host_user_type !== HostUserType.User && i !== appIndexRowTour"
+            [text]="'Admin' | translate" 
+            margin="0 5px 5px 0"
+            [fontWeight]="600" 
+            (btnClick)="appsService.openApp(app, 'a')">
+          </ca-button>
+          <ca-button 
+            *ngIf="app.host_granted_status === 1 && app.host_user_type !== HostUserType.User && i === appIndexRowTour"
+            [text]="'Admin' | translate" 
+            margin="0 5px 5px 0"
+            [fontWeight]="600" 
+            (btnClick)="appsService.openApp(app, 'a')"
+            joyrideStep="step2"
+            title="Manage app as an admin"
+            text="Click here to enter admin mode and manage users, cases, integrations, and more. This button will only be visible to managers or admins, granting them control over administrative tasks and settings within the app.">
+          </ca-button>
+          <img
+            *ngIf="app.host_granted_status === 1 && app.host_user_type !== HostUserType.User"
+            class="apps-table-button-img apps-table-mobile-img"
+            src="images/apps-admin.svg"
+            alt=""
+            (click)="appsService.openApp(app, 'a')"
+          />
+          <img
+            *ngIf="app.host_granted_status === 1 && i !== appIndexRowTour"
+            class="apps-table-button-img apps-table-settings-dots apps-table-desktop-img desktop-dots"
+            src="images/apps-settings-dots.svg"
+            alt=""
+            (click)="appsService.showAppInvitationModal(app)"
+          />
+          <img
+            *ngIf="app.host_granted_status === 1 && i === appIndexRowTour"
+            class="apps-table-button-img apps-table-settings-dots apps-table-desktop-img desktop-dots"
+            src="images/apps-settings-dots.svg"
+            alt=""
+            (click)="appsService.showAppInvitationModal(app)"
+            joyrideStep="step3"
+            title="App info, notifications & billing"
+            text="Click here to view app information, manage notifications, and handle billing if you have admin privileges. Access essential details about the app, customize notification preferences and handle billing-related matters, all from one convenient location."
+          />
+          <img
+            *ngIf="app.host_granted_status === 1"
+            class="apps-table-button-img apps-table-mobile-img apps-table-settings-dots"
+            src="images/apps-settings-dots.svg"
+            alt=""
+            (click)="appsService.showAppInvitationModal(app)"
+          />
+        </div>
+      </td>
+    </tr>
+  </table>
+</article>
+
+<app-create-app-modal *ngIf="showCreateAppModal" (closeModal)="closeModal()"></app-create-app-modal>
+
+<ng-template #nextButton>
+  <joyride-button *ngIf="!isLastStep"
+    ><button (click)="skipTour($event)" class="joyride-button skip">Skip the tour</button></joyride-button
+  >
+  <joyride-button><button class="joyride-button">Next</button></joyride-button>
+</ng-template>

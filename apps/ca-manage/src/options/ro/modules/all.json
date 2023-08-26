@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Citi\u021bi tot c\u00e2mpul de caz specifica\u021bi \u00een rol",
+    "write": "Scrie\u021bi toate c\u00e2mpurile de caz specificate \u00een rol"
+  },
+  "convos": {
+    "read_all": "Vede\u021bi starea actual\u0103 a convos.",
+    "manage_own": "Al\u0103tura\u021bi-v\u0103 \u0219i anula\u021bi convoa\u021bia.",
+    "moderate_others": "\u00cencepe\u021bi conversa\u021bia, \u00eencheia\u021bi conversa\u021bia \u0219i elimina\u021bi participantul.",
+    "read_all_submissions": "Citi\u021bi toate convociunile \u00eenregistrate."
+  },
+  "events": {
+    "read_all": "Citi\u021bi toate evenimentele.",
+    "manage_own": "Crea\u021bi, actualiza\u021bi \u0219i \u0219terge\u021bi propriul eveniment.",
+    "moderate_others": "Actualiza\u021bi \u0219i \u0219terge\u021bi evenimentul altora.",
+    "read_all_submissions": "Citi\u021bi toate confirm\u0103rile evenimentului.",
+    "submit_own": "Confirma\u021bi cererea de participare la eveniment."
+  },
+  "posts": {
+    "read_all": "Citi\u021bi toate post\u0103rile.",
+    "manage_own": "Crea\u021bi, actualiza\u021bi \u0219i \u0219terge\u021bi propria postare.",
+    "moderate_others": "Actualiza\u021bi \u0219i \u0219terge\u021bi postarea altora."
+  },
+  "forms": {
+    "read_all": "Citi\u021bi toate formularele.",
+    "manage_own": "Crea\u021bi, actualiza\u021bi \u0219i \u0219terge\u021bi propriul formular.",
+    "moderate_others": "Actualiza\u021bi \u0219i \u0219terge\u021bi formularul altora.",
+    "read_all_submissions": "Citi\u021bi toate formularele trimise.",
+    "submit_own": "Trimite\u021bi cererea de formular."
+  },
+  "invoices": {
+    "read_all": "Citi\u021bi toate facturile.",
+    "manage_own": "Crea\u021bi, actualiza\u021bi \u0219i \u0219terge\u021bi propria factur\u0103.",
+    "moderate_others": "Actualiza\u021bi \u0219i \u0219terge\u021bi factura celuilalt.",
+    "read_all_submissions": "Citi\u021bi toate depunerea facturilor.",
+    "submit_own": "Trimite\u021bi cererea de factur\u0103."
+  },
+  "notes": {
+    "read_all": "Citi\u021bi toate notele.",
+    "manage_own": "Crea\u021bi, actualiza\u021bi \u0219i \u0219terge\u021bi propria not\u0103.",
+    "moderate_others": "Actualiza\u021bi \u0219i \u0219terge\u021bi nota celuilalt."
+  },
+  "signs": {
+    "read_all": "Citi\u021bi toate semnele electronice.",
+    "manage_own": "Crea\u021bi, actualiza\u021bi \u0219i \u0219terge\u021bi propriul semn electronic.",
+    "moderate_others": "Actualiza\u021bi \u0219i \u0219terge\u021bi semnul electronic al altora.",
+    "read_all_submissions": "Citi\u021bi toate trimiterile de semne electronice.",
+    "submit_own": "Trimite\u021bi cererea de c\u00e2mp."
+  },
+  "tasks": {
+    "read_all": "Citi\u021bi toate sarcinile.",
+    "manage_own": "Crea\u021bi, actualiza\u021bi \u0219i \u0219terge\u021bi propria sarcin\u0103.",
+    "moderate_others": "Actualiza\u021bi \u0219i \u0219terge\u021bi sarcina altora.",
+    "read_all_submissions": "Citi\u021bi toate sarcinile trimise.",
+    "submit_own": "Trimite\u021bi cererea de sarcin\u0103."
+  },
+  "team": { "read_all": "Citi\u021bi echipa \u00een caz" }
+}

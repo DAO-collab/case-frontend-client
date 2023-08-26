@@ -1,0 +1,112 @@
+<h1 id="how-to-create-users-with-import-tool">Cómo crear usuarios con la herramienta de importación</h1>
+<p>Este artículo muestra a los administradores cómo crear usuarios con la herramienta Importar.</p>
+<h2 id="opening-the-import-tool">Apertura de la herramienta Importar</h2>
+<p>
+  Los administradores pueden usar la herramienta Importar para cargar nuevos usuarios de forma masiva y modificar los
+  registros de usuarios existentes.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Inicie sesión en la cuenta de administrador.</li>
+  <li>Busque una aplicación en la página Aplicaciones y haga clic en el botón ADMINISTRAR.</li>
+  <li>En el panel de administración, haga clic en la pestaña Integración y luego en IMPORTACIONES en el submenú.</li>
+  <li>
+    Haga clic en el botón NUEVO. El cuadro de diálogo Agregar importaciones se muestra en una nueva pestaña del
+    navegador.
+  </li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="imagen" />
+  <p class="caption">imagen</p>
+</div>
+<h2 id="creating-records">Crear registros</h2>
+<p>Después de que se abra el cuadro de diálogo Agregar importaciones:</p>
+<ol style="list-style-type: decimal">
+  <li>Haga clic en el campo <strong>Tipo</strong> y seleccione una opción (ver más abajo). Aparece un enlace.</li>
+  <li>Haga clic en el enlace <strong>Descargar muestra</strong> . Se descarga un archivo CSV en su dispositivo.</li>
+</ol>
+<p>
+  A continuación, abra el archivo y agregue registros. Haga clic
+  <a href="docs/how-to-format-csv-data" target="_blank">aquí</a> para aprender a usar datos de formato en el archivo
+  CSV.
+</p>
+<div class="figure">
+  <img src="/images/import-4.png" alt="imagen" />
+  <p class="caption">imagen</p>
+</div>
+<h2 id="type">Escribe</h2>
+<p>
+  Cuando hace clic en el campo Tipo, aparece un menú desplegable. Elija una de las dos opciones para las importaciones
+  masivas.
+</p>
+<p>
+  :exclamación: <strong>NOTA</strong> El menú desplegable tiene muchas opciones, pero solo dos están relacionadas con la
+  herramienta Importar. Cada opción tiene un archivo CSV de muestra diferente.
+</p>
+<h3 id="add-users">Agregar usuarios</h3>
+<ul>
+  <li>Elija esta opción para una carga masiva simple de registros de usuarios.</li>
+  <li>
+    Haga clic en el vínculo Descargar muestra para abrir un archivo CSV con encabezados de columna para el tipo de
+    importación Agregar usuarios.
+  </li>
+</ul>
+<h3 id="modify-users">Modificar usuarios</h3>
+<ul>
+  <li>Elija esta opción para actualizar los datos de los usuarios actuales.</li>
+  <li>
+    Haga clic en el vínculo Descargar muestra para abrir un archivo CSV con encabezados de columna para el tipo de
+    importación Modificar usuarios.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Subiendo el archivo</h2>
+<p>
+  Puede cargar un archivo de inmediato o volver al cuadro de diálogo Agregar importaciones en una fecha posterior y
+  completar estos pasos.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Abra el cuadro de diálogo Agregar importaciones.</li>
+  <li>Ingrese un nombre único para el archivo CSV.</li>
+  <li>Haga clic en el icono más (+) para cargar el archivo desde su dispositivo.</li>
+  <li>Haga clic en el campo <strong>Tipo</strong> y seleccione una opción. (véase más arriba)</li>
+  <li>Clic en Guardar.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-5.png" alt="imagen" />
+  <p class="caption">imagen</p>
+</div>
+<h2 id="processing">Procesando</h2>
+<p>
+  Según la cantidad de registros en el archivo y la carga del sistema, la plataforma puede tardar varios minutos en
+  procesar la importación.
+</p>
+<div class="figure">
+  <img src="/images/import-6.png" alt="imagen" />
+  <p class="caption">imagen</p>
+</div>
+<p>
+  Cuando se completa la importación, la plataforma ajusta los registros de usuario (es decir, agrega, modifica o
+  deshabilita) en el panel de <strong>usuarios</strong> del administrador.
+</p>
+<h2 id="failure">Falla</h2>
+<p>
+  Si la operación de importación falla, la plataforma devuelve un mensaje de error. En la mayoría de los casos, la causa
+  de la falla es el formateo de datos.
+</p>
+<div class="figure">
+  <img src="/images/import-7.png" alt="imagen" />
+  <p class="caption">imagen</p>
+</div>
+<p>Para ver la causa de la falla:</p>
+<ol style="list-style-type: decimal">
+  <li>Haga clic en <strong>Ver</strong> debajo del encabezado Acción.</li>
+  <li>
+    En la página siguiente, desplace el mouse sobre el icono Fallido. La información sobre herramientas muestra el
+    error.
+  </li>
+  <li>Vaya al archivo CVS y ajuste y corrija el error.</li>
+  <li>Sube el archivo de nuevo.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-8.png" alt="imagen" />
+  <p class="caption">imagen</p>
+</div>

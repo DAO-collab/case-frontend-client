@@ -1,0 +1,121 @@
+<article class="module-f" id="content">
+  <figure>
+    <img alt="Placeholder" width="108" height="120" src="images/illustrations/d.svg" />
+  </figure>
+  <h2 translate>We're here to help</h2>
+  <header></header>
+
+  <form autocomplete="off" class="form-e form-support" [formGroup]="supportForm" (ngSubmit)="submit()">
+    <p class="notice-a success" app-ca-translate [message]="message" *ngIf="message"></p>
+    <p app-ca-error [errors]="$any(supportError)" [location]="'!'"></p>
+    <p style="z-index: 6">
+      <label for="given_name" translate>First Name</label>
+      <input
+        id="given_name"
+        name="given_name"
+        placeholder="{{ 'First Name' | translate }}"
+        type="text"
+        formControlName="given_name"
+        maxlength="250"
+      />
+      <span app-ca-error [errors]="$any(supportError)" [location]="'given_name'"><span translate>First Name</span> </span>
+    </p>
+    <p
+      app-ca-translate
+      class="required"
+      message="FieldRequiredException"
+      *ngIf="control('given_name').invalid && (control('given_name').dirty || control('given_name').touched)"
+    ></p>
+
+    <p style="z-index: 6">
+      <label for="family_name" translate>Last Name</label>
+      <input
+        id="family_name"
+        name="family_name"
+        placeholder="{{ 'Last Name' | translate }}"
+        type="text"
+        formControlName="family_name"
+        maxlength="250"
+      />
+      <span app-ca-error [errors]="$any(supportError)" [location]="'family_name'"><span translate>Last Name</span> </span>
+    </p>
+    <p
+      app-ca-translate
+      class="required"
+      message="FieldRequiredException"
+      *ngIf="control('family_name').invalid && (control('family_name').dirty || control('family_name').touched)"
+    ></p>
+
+    <p style="z-index: 5">
+      <label for="email" translate>Email</label>
+      <input id="email" name="email" placeholder="{{ 'Email' | translate }}" type="text" formControlName="email" />
+      <span app-ca-error [errors]="$any(supportError)" [location]="'email'"><span translate>Email</span> </span>
+    </p>
+    <p
+      app-ca-translate
+      class="required"
+      message="FieldEmailTypeException"
+      *ngIf="control('email').invalid && (control('email').dirty || control('email').touched)"
+    ></p>
+
+    <p style="z-index: 3">
+      <label for="message" translate>Message</label>
+      <textarea
+        id="message"
+        name="message"
+        placeholder="{{ 'Message' | translate }}"
+        formControlName="message"
+        maxlength="5000"
+      ></textarea>
+      <span class="text-right" *ngIf="5000 - control('message').value.length < 250">
+        {{ 5000 - control('message').value.length }} <span translate>characters left</span>
+      </span>
+      <span app-ca-error [errors]="$any(supportError)" [location]="'message'"><span translate>Message</span> </span>
+    </p>
+    <p
+      app-ca-translate
+      class="required"
+      message="FieldRequiredException"
+      *ngIf="control('message').invalid && (control('message').dirty || control('message').touched)"
+    ></p>
+
+    <p>
+      <input formControlName="recaptcha" type="hidden" required name="recaptcha" />
+      <span app-ca-error [errors]="$any(supportError)" [location]="'recaptcha'"><span translate>Recaptcha</span> </span>
+    </p>
+    <!-- <p>
+      <span app-ca-error [errors]="supportError" [location]="'recaptcha'"><span translate>Recaptcha</span> </span>
+      <re-captcha (resolved)="onCaptchaCreate($event)" siteKey="{{RECAPTCHA_KEY}}"></re-captcha>
+    </p> -->
+
+    <p style="z-index: 2">
+      <button type="submit" [disabled]="supportForm.invalid">
+        <span *ngIf="!loading" translate>Send</span>
+        <span *ngIf="loading" translate>Sending...</span>
+      </button>
+    </p>
+  </form>
+
+  <!--  <ul class="list-e">-->
+  <!--    <li>-->
+  <!--      <a routerLink="/login" translate>Login</a>-->
+  <!--    </li>-->
+  <!--    <li>-->
+  <!--      <a [routerLink]="['/signup']" [queryParams]="{ coming_soon: signUpSuffix }" translate>Signup</a>-->
+  <!--    </li>-->
+  <!--    <li>-->
+  <!--      <a routerLink="/reset-password" translate>Forgot password?</a>-->
+  <!--    </li>-->
+  <!--  </ul>-->
+  <footer>
+    <!--    <h3 translate>First time user or Forgot password?</h3>-->
+    <!--    <p><a routerLink="/reset-password" translate>Click here to retrieve your password</a></p>-->
+  </footer>
+</article>
+
+<!-- <article *ngIf="isSuccess" class="module-f notify-success" >
+  <h2>Thank You!</h2>
+  <p>
+    <span>We will notify you when the app is ready</span>
+  </p>
+</article> -->

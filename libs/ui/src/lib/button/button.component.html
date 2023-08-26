@@ -1,0 +1,14 @@
+<button 
+  (click)="onBtnClick()" 
+  [disabled]="isDisabled" 
+  [class.uppercase]="isUpperCase" 
+  [class.filled]="isFilled" 
+  [class.hovered]="isHovered"
+  [class.with-icon]="isIcon"
+  [type]="buttonType"
+>
+  <ng-container *ngIf="isIcon">
+    <i [class]="iconName"></i>
+  </ng-container>
+  {{ text }}
+</button>

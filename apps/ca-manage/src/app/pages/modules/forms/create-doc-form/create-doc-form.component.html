@@ -1,0 +1,920 @@
+<article
+  id="content"
+  class="module-d tabs form-builder"
+  *ngIf="!loading"
+  (window:resize)="updateDocumentViewSizeDueToWindowWidth()"
+>
+  <div class="transparent" *ngIf="!is_loading"></div>
+  <div>
+    <div style="width: 100%">
+      <div style="display: flex">
+        <div class="content-left-panel">
+          <h2 class="left-panel-title" translate>Pages</h2>
+          <div class="content-left-panel-inner">
+            <div 
+              class="sub-menu-popup"
+              [ngStyle]="{
+                top: selectedPopupMenu > -1 ? subMenuPopupStyle.top - subMenuPopupStyle.scroll + 'px' : '-10000px', 
+                left: selectedPopupMenu > -1 ? subMenuPopupStyle.left + 'px' : '-10000px'
+              }"
+            >
+              <p (click)="deletePage(this.selectedPopupMenu); this.selectedPopupMenu = -1">Delete</p>
+              <p (click)="duplicatePage(this.selectedPopupMenu); this.selectedPopupMenu = -1">Duplicate</p>
+              <p (click)="moveUpPage(this.selectedPopupMenu); this.selectedPopupMenu = -1">Move Up</p>
+              <p (click)="moveDownPage(this.selectedPopupMenu); this.selectedPopupMenu = -1">Move Down</p>
+            </div>
+            
+            <cdk-virtual-scroll-viewport 
+              class="create-doc" 
+              itemSize="164" 
+              minBufferPx="2000" 
+              maxBufferPx="2000" 
+              style="height: 100%"
+              (scroll)="pageMenuItemOnScroll($event)"
+            >
+              <div
+                class="doc-page"
+                *cdkVirtualFor="let thumbnailSrc of docThumbnails; let index = index"
+                (click)="switchDocumentPage(index + 1)"
+              >
+                <div class="page-menu-item">
+                  <img alt="" [src]="thumbnailSrc" class="remove-box-shadow" />
+                  <span class="sub-menu" (click)="showPopupMenu(index, $event)"
+                    ><img style="box-shadow: none; height: auto !important" [src]="'../images/icons/icons-dots.svg'"
+                  /></span>
+                  <!-- <div *ngIf="selectedPopupMenu === index" class="sub-menu-popup">
+                    <p (click)="deletePage(index)">Delete</p>
+                    <p (click)="duplicatePage(index)">Duplicate</p>
+                    <p (click)="moveUpPage(index)">Move Up</p>
+                    <p (click)="moveDownPage(index)">Move Down</p>
+                  </div> -->
+                </div>
+                <span>{{ index + 1 }}</span>
+              </div>
+            </cdk-virtual-scroll-viewport>
+          </div>
+        </div>
+        <!-- Form Builder -->
+        <div class="content-main-panel">
+          <div class="header-content">
+            <h2 class="header-breadcrumb">
+              <span translate>Forms</span><img src="../../../../images/arrow-right-dark.svg" alt="#" />
+              <span>{{ formModel?.tag_id ? shorTitleName(formModel?.tag_id!, 40) : 'Create New Doc Form Builder' }}</span>
+
+              <div class="saving-notification" *ngIf="isSaving" translate>
+                <img class="forms-loading-icon" src="/images/forms-loading-icon.svg" alt="" />
+                Saving...
+              </div>
+
+              <div class="saving-notification" *ngIf="!isSaving" translate>Saved</div>
+            </h2>
+
+            <div>
+              <ca-button [text]="isPreview ? ('Edit' | translate) : ('Preview'| translate)" [isHovered]="true" (btnClick)="previewForm()" [fontWeight]="600" margin="0 5px 0 0"></ca-button>
+              <ca-button [text]="('Close' | translate)" [isHovered]="true" [fontWeight]="600" (btnClick)="backToForms()"></ca-button>
+            </div>
+          </div>
+          <figure class="page-content-with-toolbar" #pageContentWithToolbar>
+            <div class="doc-toolbar">
+              <!-- Functionality to navigate between document pages -->
+              <div class="pages-navigation">
+                <a class="nav-button" (mouseup)="previousDoc()">
+                  <img src="../../../../images/arrow-right-dark.svg" />
+                </a>
+                <span translate>Page</span>
+                &nbsp;
+                <input
+                  type="number"
+                  id="activePageNumber"
+                  [max]="displayCount"
+                  [(ngModel)]="activeDocPage"
+                  (change)="switchDocumentPage($any($event.target).value)"
+                />
+                &nbsp;
+                <span translate>of</span>
+                &nbsp;
+                <span>{{ displayCount }}</span>
+                <a class="nav-button" (mouseup)="nextDoc()">
+                  <img src="../../../../images/arrow-right-dark.svg" />
+                </a>
+              </div>
+              <!-- Zoom functionality -->
+              <div class="zoom-section">
+                <a class="zoom-button" (click)="toggleZoom(true)">
+                  <img src="../../../../images/zoom-in.svg" />
+                </a>
+                <a class="zoom-button" (click)="toggleZoom()">
+                  <img src="../../../../images/zoom-out.svg" />
+                </a>
+              </div>
+              <!-- Field type functionality -->
+              <div class="field-type-section" *ngIf="!isPreview">
+                <button class="cursor-icon" (click)="handleTextOnlyAdd()">
+                  <img src="../../../../images/i-cursor.svg" />
+                </button>
+                <ng-select
+                  class="field-type-select"
+                  bindLabel="text"
+                  bindValue="id"
+                  [searchable]="false"
+                  [clearable]="false"
+                  [placeholder]="'Add an element' | translate"
+                  [items]="fieldsList!"
+                  [(ngModel)]="insertFieldType"
+                  (change)="onFieldTypeSelectChange($event)"
+                >
+                </ng-select>
+                <button
+                  class="field-type-button"
+                  [disabled]="!newFieldType || isCurrentNewFieldTypeCorrect"
+                  (click)="addField()"
+                  translate
+                >
+                  Insert
+                </button>
+              </div>
+            </div>
+            <div class="text-center form-builder-text-centered">
+              <div
+                class="documents-list"
+                style="height: 100vh; width: 100%; overflow-y: auto"
+                [ngClass]="{ centered: !checkObjectKeys(metaData).length }"
+              >
+                <div class="document-image-wrapper" [class.cursor-text]="isPreprareField && prepareFieldValue.fieldType === 'text-only'">
+                  <div class="pinch-zoom-wrapper" #pinchZoomWrapper>
+                    <pinch-zoom
+                      id="myPinch"
+                      #myPinch="pinchZoom"
+                      *ngIf="documentLink"
+                      [properties]="{ wheel: false, backgroundColor: '#ffffff', disableZoomControl: 'disable' }"
+                      (mousemove)="handlePinchMouseMoveEvent($event)"
+                      (mousedown)="handlePinchMouseDownEvent($event)"
+                    >
+                      <div [ngClass]="{ hidden: !bgImgLoaded }">
+                        <ng-container *ngIf="activeDocPage === displayCount && convertingCount">
+                          <img
+                            class="no-case-background"
+                            style="margin-top: 30px"
+                            width="700"
+                            height="150"
+                            src="../../../images/illustrations/desktop.svg"
+                          />
+                          <app-spinner></app-spinner>
+                          <p style="padding: 10px" translate>
+                            {{ 'Media is converting. We will notify you when it is ready' | translate }}
+                          </p>
+                        </ng-container>
+                        <img
+                          #backgroundImage
+                          [ngClass]="{ 'hidden': activeDocPage === displayCount && convertingCount }"
+                          (load)="onBgImgLoad()"
+                          [src]="documentLink"
+                          alt=""
+                        />
+                      </div>
+
+                      <app-loader [active]="!bgImgLoaded"></app-loader>
+
+                      <ng-container *ngIf="!isPreview && bgImgLoaded">
+                        <ca-draggable-field
+                          #fld
+                          *ngFor="let fl of schemaList; let i = index"
+                          [ngClass]="{
+                            'cdn-item unset-background unset-boxshadow unset-color bold-border': fl.key === selectedItem
+                          }"
+                          (changePosition)="changePosition($event, fl)"
+                          (runFieldEditing)="runFieldEditing($event, i); editEditor()"
+                          (runFieldCopy)="runFieldCopy($event)"
+                          (runFieldDelete)="runFieldDelete(activeDocPage - 1, $event)"
+                          (resizeStart)="handleResizing($event)"
+                          (resizeEnd)="preSave($event); handleResizing($event)"
+                          [disableDragging]="false"
+                          [disableEditing]="false"
+                          [left]="fl.left || '300px'"
+                          [width]="fl.width || fieldDefaultWidth"
+                          [height]="
+                            fl.height ||
+                            (fl?.displayText
+                              ? fl?.subText
+                                ? fieldDefaultBigHeight + 'px'
+                                : fieldDefaultMiddleHeight + 'px'
+                              : fieldDefaultSmallHeight + 'px')
+                          "
+                          [top]="fl.top || '100px'"
+                          [fieldKey]="fl.key"
+                          [fieldData]="fl"
+                          [scaleNumber]="scale!"
+                          [fontSize]="fieldDefaultFontSize"
+                          [pageMargin]="pageMargin"
+                          [tableCellHeight]="fieldDefaultTableCellHeight"
+                          [backgroundWidth]="fieldBackgroundWidth"
+                          [radioButtonSize]="radioButtonSize"
+                          [showResizeHandlers]="
+                            fl?.positions
+                              ? fl.key === selectedItem && fl.childIndex === selectedItemButtonIndex
+                              : fl.key === selectedItem
+                          "
+                          (mouseup)="preSave($event)"
+                          (mousedown)="selectItem(fl); handleFieldMouseDown(fl)"
+                        ></ca-draggable-field>
+                      </ng-container>
+                      <ng-container *ngIf="draggingField !== null && !isResizing">
+                        <div id="curXLine" class="xLine"></div>
+                        <div id="curYLine" class="yLine"></div>
+                      </ng-container>
+                      <ng-container *ngIf="isPreprareField">
+                        <div *ngIf="prepareFieldValue.fieldType !== 'text-only'" id="xLine" class="xLine"></div>
+                        <div *ngIf="prepareFieldValue.fieldType !== 'text-only'" id="yLine" class="yLine"></div>
+                        <ca-draggable-field
+                          [ngClass]="{'cursor-text display-none': prepareFieldValue.fieldType === 'text-only'}"
+                          [left]="prepareFieldValue.left || '300px'"
+                          [width]="fieldDefaultWidth"
+                          [height]="fieldDefaultSmallHeight + 'px'"
+                          [top]="prepareFieldValue.top || 70  + 'px'"
+                          [fieldKey]="prepareFieldValue.key"
+                          [fieldData]="prepareFieldValue"
+                          [scaleNumber]="scale!"
+                          [isPreparing]="true"
+                        ></ca-draggable-field>
+                      </ng-container>
+                      <ng-container *ngIf="isPreview && bgImgLoaded">
+                        <app-doc-form-preview
+                          #fld
+                          *ngFor="let fl of schemaList; let i = index"
+                          [saveModel]="saveModel"
+                          [scaleNumber]="scale!"
+                          [left]="fl.left || '300px'"
+                          [width]="fl.width || '300px'"
+                          [height]="fl.height || '40px'"
+                          [top]="fl.top || 70 + i * 50 + 'px'"
+                          [fieldKey]="fl.key"
+                          [fieldData]="fl"
+                          [components]="components"
+                          [fontSize]="fieldDefaultFontSize"
+                          [creatorPreview]="true"
+                          [tableCellHeight]="fieldDefaultTableCellHeight"
+                          [ngClass]="{
+                            'cdn-item unset-background unset-boxshadow unset-color bold-border': fl.key === selectedItem
+                          }"
+                          [backgroundWidth]="fieldBackgroundWidth"
+                          [backgroundSize]="fieldBackgroundSize"
+                          [radioButtonSize]="radioButtonSize"
+                          (mouseover)="changeStyle($event, fl)"
+                          (mouseout)="changeStyle($event, fl)"
+                          (onChange)="previewFormChange($event)"
+                          [userField]="userField"
+                          [realVariable]="realVariable"
+                        >
+                        </app-doc-form-preview>
+                      </ng-container>
+                    </pinch-zoom>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </figure>
+          <br />
+        </div>
+
+        <div class="content-right-panel">
+          <ng-container *ngIf="!isPreview">
+            <h2 class="right-panel-title" translate>Elements</h2>
+          </ng-container>
+          <ng-container *ngIf="isPreview">
+            <h2 class="right-panel-title" translate>Action Required</h2>
+          </ng-container>
+          <div *ngIf="checkObjectKeys(pageData).length">
+            <div class="properties-section" *ngFor="let page of checkObjectValues(pageData); let index = index">
+              <span class="property-page-title"><span translate>Page</span> {{ index + 1 }}</span>
+              <div *ngFor="let property of getElementListFromUiList(index + 1); let i = index" class="property-section">
+                <div
+                  class="cursor-pointer"
+                  *ngIf="property.title"
+                  (click)="switchDocumentPage(index + 1)"
+                  (mouseover)="changeStyle($event, property)"
+                  (mouseout)="changeStyle($event, property)"
+                >
+                  <img src="../../../../images/element-point.svg" />
+                  <span
+                    class="right-panel-property-title"
+                    [ngClass]="{ 'text-bold': property.key === selectedItem }"
+                    *ngIf="property.fieldType === 'text-only'; else defaultTitle"
+                    [innerHTML]="shorTitleName(property.title, 30)"
+                  ></span>
+
+                  <ng-template #defaultTitle>
+                    <span class="right-panel-property-title" [ngClass]="{ 'text-bold': property.key === selectedItem }">
+                      {{ shorTitleName(property.title, 30) }}
+                    </span>
+                  </ng-template>
+                </div>
+                <div *ngIf="property.title" style="display: flex; align-items: center; position: relative">
+                  <span class="sub-menu cursor-pointer" (click)="showElementPopupMenu(index, i)"
+                    ><img [src]="'../images/icons/icons-dots.svg'"
+                  /></span>
+                  <div
+                    *ngIf="selectedElementPopupMenu === i && selectedElementPageMenu === index"
+                    class="sub-menu-popup element"
+                  >
+                    <p
+                      class="cursor-pointer"
+                      style="padding: 5px"
+                      (click)="selectedElementPopupMenu = -1; runFieldEditing(property, index); editEditor()"
+                    >
+                      <i
+                        class="icon-edit cursor-pointer"
+                        style="font-size: 22px; color: #cdd0d1; padding: 0px 10px 0px 5px"
+                      ></i>
+                      Edit Settings
+                    </p>
+                    <p
+                      class="cursor-pointer"
+                      style="padding: 5px"
+                      (click)="selectedElementPopupMenu = -1; runFieldCopy(property)"
+                    >
+                      <i
+                        class="icon-document cursor-pointer"
+                        style="font-size: 22px; color: #cdd0d1; padding: 0px 10px 0px 5px"
+                      ></i>
+                      Duplicate
+                    </p>
+                    <p
+                      class="cursor-pointer"
+                      style="padding: 5px"
+                      (click)="
+                        selectedElementPopupMenu = -1;
+                        runFieldDelete(index, checkObjectKeys(page?.schema?.properties || {})[i])
+                      "
+                    >
+                      <span><img src="../../../../images/trash.svg" /></span> Delete button
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+<app-loader [active]="loading"></app-loader>
+
+<form method="post" class="popup-a a form-d shown" *ngIf="shownPageOptionModal" [ngClass]="{ touchedSubmit: true }">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 style="padding-right: 20px">
+        <span translate>Add a new page</span>
+      </h2>
+
+      <article class="options-wrapper">
+        <div class="option" (click)="addNewDocumentPage()">
+          <span class="option-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M18.6645 20L6.66663 20L6.6621 4H11.6666V10C11.6666 10.5523 12.1143 11 12.6666 11H18.6667L18.6645 20ZM13.6666 4V9H18.6666L13.6666 4ZM6.6621 2H13.9694C14.2453 2 14.6284 2.15949 14.82 2.3511L20.3157 7.84885C20.5095 8.04276 20.6666 8.42796 20.6666 8.69925V20.0007C20.6666 21.1049 19.7721 22 18.6645 22H6.66875C5.56301 22 4.66663 21.1018 4.66663 20V4.00001C4.66663 2.89544 5.56251 2 6.6621 2Z"
+                fill="#15AFC5"
+              />
+            </svg>
+          </span>
+          <span class="option-label" translate>Blank page</span>
+        </div>
+
+        <div class="option" (click)="newFieldType = 'docs'; addField()">
+          <input
+            type="file"
+            class="file"
+            [accept]="editingField?.fieldType === 'docs' ? '.pdf, .doc, .docx' : '.jpg, .jpeg, .png'"
+            [disabled]="blockFields || uploadingGoes || !supportedExtensions"
+            (change)="handleFileUpload($any($event.target), true)"
+          />
+          <span class="option-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M17.9979 20L6 20L5.99547 4H11V10C11 10.5523 11.4477 11 12 11H18.0001L17.9979 20ZM13 4V9H18L13 4ZM5.99547 2H13.3028C13.5787 2 13.9618 2.15949 14.1533 2.3511L19.649 7.84885C19.8429 8.04276 20 8.42796 20 8.69925V20.0007C20 21.1049 19.1055 22 17.9979 22H6.00213C4.89638 22 4 21.1018 4 20V4.00001C4 2.89544 4.89588 2 5.99547 2Z"
+                fill="#15AFC5"
+              />
+              <path
+                d="M8.932 17.823C9.8 17.823 10.43 17.172 10.43 16.045C10.43 14.918 9.8 14.274 8.932 14.274C8.519 14.274 8.148 14.456 7.889 14.785V14.358H7V19.027H7.889V17.305C8.169 17.655 8.533 17.823 8.932 17.823ZM8.652 17.032C8.365 17.032 8.036 16.857 7.889 16.64V15.45C8.043 15.226 8.365 15.065 8.652 15.065C9.163 15.065 9.513 15.464 9.513 16.045C9.513 16.633 9.163 17.032 8.652 17.032Z"
+                fill="#16B0C5"
+              />
+              <path
+                d="M14.3511 17.739V13.07H13.4551V14.792C13.1891 14.442 12.8111 14.274 12.4121 14.274C11.5511 14.274 10.9141 14.946 10.9141 16.045C10.9141 17.179 11.5651 17.823 12.4121 17.823C12.8251 17.823 13.1891 17.641 13.4551 17.305V17.739H14.3511ZM12.6921 17.032C12.1811 17.032 11.8311 16.633 11.8311 16.045C11.8311 15.464 12.1811 15.065 12.6921 15.065C12.9861 15.065 13.3081 15.226 13.4551 15.45V16.647C13.3081 16.871 12.9861 17.032 12.6921 17.032Z"
+                fill="#16B0C5"
+              />
+              <path
+                d="M16.3746 17.739V15.135H17.0606V14.358H16.3746V14.218C16.3746 13.889 16.5426 13.728 16.7946 13.728C16.9556 13.728 17.0746 13.777 17.1656 13.861L17.5016 13.322C17.2986 13.091 16.9486 13 16.6196 13C15.9406 13 15.4856 13.455 15.4856 14.218V14.358H14.9256V15.135H15.4856V17.739H16.3746Z"
+                fill="#16B0C5"
+              />
+            </svg>
+          </span>
+          <span class="option-label" translate>From PDF</span>
+        </div>
+
+        <div class="option" (click)="newFieldType = 'images'; addField()">
+          <input
+            type="file"
+            class="file"
+            [accept]="editingField?.fieldType === 'docs' ? '.pdf, .doc, .docx' : '.jpg, .jpeg, .png'"
+            [disabled]="blockFields || uploadingGoes || !supportedExtensions"
+            (change)="handleFileUpload($any($event.target), true)"
+          />
+          <span class="option-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M11.3333 4H6.32878L6.33331 20L18.3312 20C18.3312 20 18.3334 14.1717 18.3334 11H12.3333C11.781 11 11.3333 10.5523 11.3333 10V4ZM13.3333 9H18.3333L13.3333 4V9ZM6.32878 2H13.6361C13.912 2 14.2951 2.15949 14.4867 2.3511L19.9823 7.84885C20.1762 8.04276 20.3333 8.42796 20.3333 8.69925V20.0007C20.3333 21.1049 19.4388 22 18.3312 22H6.33544C5.2297 22 4.33331 21.1018 4.33331 20V4.00001C4.33331 2.89544 5.22919 2 6.32878 2ZM15.8146 15C14.9862 15 14.3146 14.3284 14.3146 13.5C14.3146 12.6716 14.9862 12 15.8146 12C16.643 12 17.3146 12.6716 17.3146 13.5C17.3146 14.3284 16.643 15 15.8146 15ZM9.27892 13.9724C9.50636 13.4668 9.96568 13.412 10.3017 13.8459L11.7427 15.7072C12.0801 16.143 12.7117 16.2351 13.161 15.9073L13.45 15.6964C13.8959 15.3711 14.4967 15.4877 14.7889 15.9521L16.1756 18.1554C16.4692 18.6218 16.2592 19 15.7067 19H8.01809C7.46556 19 7.20137 18.5915 7.42945 18.0844L9.27892 13.9724Z"
+                fill="#15AFC5"
+              />
+            </svg>
+          </span>
+          <span class="option-label" translate>From image</span>
+        </div>
+      </article>
+
+      <a class="close" (click)="closeOptionModal()">Close</a>
+    </div>
+  </div>
+</form>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="shownDefaultsModal"
+  [ngClass]="{ touchedSubmit: addFieldFormTouched }"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <ng-container *ngIf="editingField.fieldType !== 'docs' && editingField.fieldType !== 'images'">
+        <h2 style="z-index: 53">
+          <ng-container *ngIf="ifNewField; else editField">{{ 'Add ' | translate }}</ng-container>
+
+          <ng-container *ngIf="editingField.fieldType !== 'text-only'; else textOnlyHeader">
+            <span class="capitalize-text">
+              {{ formsService.formatTitle(fieldsList, editingField.fieldType) | translate }}
+            </span>
+            {{ 'Field' | translate }}
+          </ng-container>
+
+          <ng-template #editField>{{ 'Edit ' | translate }}</ng-template>
+          <ng-template #textOnlyHeader>{{ 'Text' | translate }}</ng-template>
+        </h2>
+      </ng-container>
+
+      <ng-container *ngIf="editingField.fieldType === 'docs'">
+        <h2 style="z-index: 53" translate>Add PDF</h2>
+      </ng-container>
+      <ng-container *ngIf="editingField.fieldType === 'images'">
+        <h2 style="z-index: 53" translate>Add Image</h2>
+      </ng-container>
+
+      <p *ngIf="editingField.fieldType !== 'docs' && editingField.fieldType !== 'images' && editingField?.fieldType !== 'text-only'">
+        <label for="">{{ 'Title' | translate }}</label>
+        <input
+          [disabled]="blockFields"
+          type="text"
+          name="editingField.title"
+          [(ngModel)]="editingField.title"
+          #questionF
+        />
+        <app-error [fieldValue]="editingField.title" [field]="questionF" [validation]="{ required: true }"> </app-error>
+      </p>
+
+      <p
+        *ngIf="
+          editingField?.fieldType !== 'docs' &&
+          editingField?.fieldType !== 'images' &&
+          editingField?.fieldType !== 'text-only'
+        "
+      >
+        <label for="">{{ 'Sub Text' | translate }}</label>
+        <input
+          [disabled]="blockFields"
+          type="text"
+          name="editingField.subText"
+          [(ngModel)]="editingField!.subText"
+          #questionF
+        />
+        <app-error [fieldValue]="editingField?.subText" [field]="questionF" [validation]="{ required: true }">
+        </app-error>
+      </p>
+
+      <div *ngIf="optionsSupport[editingField.fieldType]">
+        <div class="options-form-wrapper">
+          <p style="z-index: 52" class="half-width options-field">
+            <label *ngIf="editingField.fieldType !== 'table'; else tableFieldLabel" translate>Options</label>
+            <ng-template #tableFieldLabel>
+              <label translate>Column Names</label>
+            </ng-template>
+            <input
+              [disabled]="blockFields"
+              type="text"
+              #fieldValueF
+              name="fieldValue"
+              [(ngModel)]="fieldValue"
+            />
+            <button
+              [disabled]="fieldValue.trim() === ''"
+              (click)="!editOptionAction ? addOption($event) : updateOption($event)"
+            >
+              {{ editOptionAction ? 'Update' : ('Add' | translate) }}
+            </button>
+          </p>
+
+          <p class="notice-a show" *ngIf="optionExistsError" translate>Option already exists.</p>
+          <div
+            class="options-list pd-2"
+            *ngIf="editingField.fieldType === 'multidropdown' ||
+            editingField?.fieldType === 'checkboxes' || editingField.fieldType === 'checkbox-options'"
+          >
+            <table *ngIf="editingField.items.enum.length !== 0">
+              <tr *ngFor="let opt of editingField.items.enum; let ind = index">
+                <td width="350px">
+                  {{ opt }}
+                </td>
+                <td class="edit-and-delete">
+                  <a translate (click)="editPropertyOption(ind)">Edit</a>
+                  <a translate (click)="deletePropertyOption(ind)">Delete</a>
+                </td>
+              </tr>
+            </table>
+            <p *ngIf="editingField.items.enum.length === 0" class="centered-text no-options">
+              (
+              <span translate>options list is empty</span> )
+            </p>
+
+            <p class="notice-a show" *ngIf="optionsLimitError" translate>
+              Checkboxes field supports only 5 options. You can change field to dropdown to add more options
+            </p>
+          </div>
+          <div
+            class="options-list pd-2"
+            *ngIf="editingField.fieldType !== 'multidropdown' &&
+            editingField?.fieldType !== 'checkboxes' && editingField.fieldType !== 'checkbox-options'"
+          >
+            <ng-container *ngIf="editingField.fieldType !== 'table'; else tableTable">
+              <table *ngIf="editingField?.enum.length !== 0">
+                <tr *ngFor="let opt of editingField.enum; let ind = index">
+                  <td width="350px">
+                    {{ opt }}
+                  </td>
+                  <td class="edit-and-delete">
+                    <a translate (click)="editPropertyOption(ind)">Edit</a>
+                    <a translate (click)="deletePropertyOption(ind)">Delete</a>
+                  </td>
+                </tr>
+              </table>
+              <p *ngIf="editingField.enum.length === 0" class="centered-text no-options">
+                (
+                <span translate>options list is empty</span> )
+              </p>
+            </ng-container>
+            <ng-template #tableTable>
+              <table cdkDropList (cdkDropListDropped)="sortTableColumns($event)">
+                <tr class="drag-item" cdkDrag *ngFor="let row of editingField.cols; let ind = index">
+                  <td width="350px">
+                    {{ row }}
+                  </td>
+                  <td class="edit-and-delete">
+                    <a translate (click)="editPropertyOption(ind)">Edit</a>
+                    <a translate (click)="deletePropertyOption(ind)">Delete</a>
+                  </td>
+                </tr>
+              </table>
+              <p *ngIf="editingField?.cols?.length === 0" class="centered-text no-options">
+                ( <span translate>columns list is empty</span> )
+              </p>
+            </ng-template>
+
+            <p class="notice-a show" *ngIf="optionsLimitError" translate>
+              Checkboxes field supports only 5 options. You can change field to dropdown to add more options
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <p
+        *ngIf="
+          editingField.fieldType === 'dropdown' ||
+          editingField.fieldType === 'options' ||
+          editingField.fieldType === 'list'
+        "
+      >
+        <label>{{ 'Layout' | translate }}</label>
+        <ng-select
+          [items]="dropDownLayoutList"
+          bindLabel="name"
+          bindValue="id"
+          name="dropdown-layout-type"
+          [(ngModel)]="defaultDropDownLayout"
+          (change)="dropDownLayoutChanged($event)"
+          [clearable]="false"
+        ></ng-select>
+      </p>
+
+      <p
+        *ngIf="
+          editingField.fieldType === 'multidropdown' ||
+          editingField.fieldType === 'checkboxes' ||
+          editingField.fieldType === 'checkbox-options'
+        "
+      >
+        <label>{{ 'Layout' | translate }}</label>
+        <ng-select
+          [items]="layoutList"
+          bindLabel="name"
+          bindValue="id"
+          name="dropdown-layout-type"
+          [(ngModel)]="defaultLayout"
+          (change)="checkboxLayoutChanged($event)"
+          [clearable]="false"
+        ></ng-select>
+      </p>
+      
+      <p *ngIf="editingField?.fieldType === 'text' || editingField?.fieldType === 'multi-text'">
+        <label translate>{{ 'Format' | translate }}</label>
+        <input type="text" name="formatField" class="form-control" [(ngModel)]="editingField!.format" />
+        <span class="text-placeholder" *ngIf="!editingField?.format">example: ###-##-####</span>
+      </p>
+
+      <p *ngIf="editingField.fieldType === 'text'">
+        <label>{{ 'Type' | translate }}</label>
+        <ng-select
+          [items]="textTypeList"
+          bindLabel="name"
+          bindValue="id"
+          name="text-field-type"
+          [(ngModel)]="defaultTextType"
+          (change)="textFieldTypeChanged($event)"
+          [clearable]="false"
+        ></ng-select>
+      </p>
+
+      <div [ngSwitch]="editingField.fieldType">
+        <p>
+          <ng-container *ngSwitchCase="'text-only'">
+            <label translate>Default Value</label>
+            <mat-formio [form]="editorForm" (change)="handleChange($event)"></mat-formio>
+          </ng-container>
+
+          <!-- 1. -->
+          <ng-container *ngSwitchCase="'text'">
+            <label translate>Default Value</label>
+            <ng-autocomplete
+              [data]="required_field!"
+              [searchKeyword]="keyword"
+              (selected)="selectEvent($event)"
+              (inputChanged)="onChangeSearch($event)"
+              [initialValue]="editingField?.defaultValue || ''"
+              [itemTemplate]="itemTemplate"
+            >
+            </ng-autocomplete>
+
+            <ng-template #itemTemplate let-item>
+              <a class="ng-option-marked" [innerHTML]="item"></a>
+            </ng-template>
+          </ng-container>
+
+          <!-- 2. -->
+          <ng-container *ngSwitchCase="'textarea'">
+            <label translate>Default Value</label>
+            <textarea name="defaultsField" class="form-control" [(ngModel)]="editingField.defaultValue"></textarea>
+          </ng-container>
+
+          <!-- 3. -->
+          <ng-container *ngSwitchCase="'dropdown'">
+            <label translate>Default Value</label>
+            <ng-select
+              [items]="editingField.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 4. -->
+          <ng-container *ngSwitchCase="'multidropdown'">
+            <label translate>Default Value</label>
+            <ng-select
+              [items]="editingField.items.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [multiple]="true"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 5. -->
+          <ng-container *ngSwitchCase="'options'">
+            <label translate>Default Value</label>
+            <ng-select
+              [items]="editingField.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 6. -->
+          <ng-container *ngSwitchCase="'checkboxes'">
+            <label translate>Default Value</label>
+            <ng-select
+              [items]="editingField.items.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [multiple]="true"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 6.1 -->
+          <ng-container *ngSwitchCase="'checkbox-options'">
+            <label translate>Default Value</label>
+            <ng-select
+              [items]="editingField.items.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [multiple]="true"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 7. -->
+          <ng-container *ngSwitchCase="'boolean'" class="container">
+            <label translate>Default Value</label>
+            <label>
+              <input
+                type="checkbox"
+                name="defaultsField"
+                class="form-control"
+                [(ngModel)]="editingField.defaultValue"
+              />
+              <span class="checkmark"></span>
+            </label>
+          </ng-container>
+
+          <!-- 8. -->
+          <ng-container *ngSwitchCase="'number'">
+            <label translate>Default Value</label>
+            <input type="number" name="defaultsField" class="form-control" [(ngModel)]="editingField.defaultValue" />
+          </ng-container>
+
+          <!-- 9. -->
+          <ng-container *ngSwitchCase="'date'">
+            <label translate>Default Value</label>
+            <input
+              mwlFlatpickr
+              [altInput]="true"
+              [convertModelValue]="true"
+              altFormat="m/d/Y"
+              type="text"
+              name="defaultsField"
+              class="form-control"
+              [(ngModel)]="editingField.defaultValue"
+              required
+            />
+          </ng-container>
+
+          <!-- 10. -->
+          <ng-container *ngSwitchCase="'time'">
+            <label translate>Default Value</label>
+            <input
+              mwlFlatpickr
+              [altInput]="true"
+              [convertModelValue]="true"
+              altFormat="G:i:S K"
+              dateFormat="G:i:S K"
+              type="text"
+              name="defaultsField"
+              class="form-control"
+              timeValidator
+              [noCalendar]="true"
+              [enableSeconds]="true"
+              [enableTime]="true"
+              [defaultHour]="$any(currentTime[0])"
+              [defaultMinute]="$any(currentTime[1])"
+              [defaultSeconds]="$any(currentTime[2])"
+              [(ngModel)]="editingField.defaultValue"
+              #fieldDefaultValue="ngModel"
+              (keyup)="formIsValid = fieldDefaultValue.valid || !editingField.defaultValue"
+            />
+          </ng-container>
+
+          <!-- 11. -->
+          <ng-container
+            *ngSwitchCase="
+              editingField.fieldType === 'docs' || editingField.fieldType === 'images' ? editingField.fieldType : ''
+            "
+          >
+            <form *ngIf="!loading && !docData.execution_status">
+              <ul class="list-m">
+                <li class="centerd-file-input">
+                  <a style="font-size: 9px"> <i class="icon-plus"></i> Add Document </a>
+                  <input
+                    type="file"
+                    id="file"
+                    style="height: 100%"
+                    [accept]="editingField.fieldType === 'docs' ? '.pdf, .doc, .docx' : '.jpg, .jpeg, .png'"
+                    [disabled]="blockFields || uploadingGoes || !supportedExtensions"
+                    (change)="handleFileUpload($any($event.target))"
+                  />
+                </li>
+              </ul>
+            </form>
+
+            <div *ngIf="docData.execution_status === 'RUNNING'" style="display: flex; justify-content: center">
+              <app-spinner></app-spinner>
+              <div class="module-d" style="margin-bottom: 0">
+                <div class="text-center empty-search">
+                  <img
+                    class="no-case-background"
+                    width="700"
+                    height="150"
+                    src="../../../images/illustrations/desktop.svg"
+                  />
+                  <p *ngIf="currentFileUploading" translate>
+                    {{ currentFileUploading || '' }} {{ 'Uploading...' | translate }}
+                  </p>
+                  <p *ngIf="!currentFileUploading" translate>
+                    {{ 'Media is converting. We will notify you when it is ready' | translate }}
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div *ngIf="docData.execution_status === 'FAILED'">
+              <p class="notice-a">
+                {{ currentFileUploading || '' }}
+                {{ 'Media failed in converting. Please delete and try again or another.' | translate }}
+              </p>
+            </div>
+          </ng-container>
+
+          <!-- 12. -->
+          <ng-container *ngSwitchCase="'list'">
+            <label translate>Default Value</label>
+            <ng-select
+              [items]="editingField.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+        </p>
+      </div>
+
+      <p class="submit">
+        <ng-container
+          *ngIf="['images', 'docs'].indexOf(editingField.fieldType) === -1 && editingField.fieldType !== 'image'"
+        >
+          <span style="padding-left: 10px">Required</span>
+          <ca-toggle
+            [checked]="editingField.require"
+            [disabled]="false"
+            (toggle)="changeToggle($event)"
+          ></ca-toggle>
+          <span style="padding-left: 10px">Display Text</span>
+          <ca-toggle
+            [checked]="editingField.displayText"
+            [disabled]="false"
+            (toggle)="changeDisplayTextToggle($event)"
+          ></ca-toggle>
+          <ng-container *ngIf="editingField?.fieldType !== 'signature-box'">
+            <span style="padding-left: 10px">Read Only</span>
+            <ca-toggle
+              [checked]="editingField?.readonly!"
+              [disabled]="false"
+              (toggle)="changeReadOnlyToggle($event)"
+            ></ca-toggle>
+          </ng-container>
+        </ng-container>
+        <button
+          *ngIf="['images', 'docs'].indexOf(editingField?.fieldType!) === -1"
+          type="button"
+          [disabled]="
+            uploadingGoes ||
+            (['images', 'docs'].indexOf(editingField?.fieldType!) > -1 && !currentFileUploading) ||
+            (!editingField?.title && editingField?.fieldType !== 'text-only')
+          "
+          (click)="['images', 'docs'].indexOf(editingField?.fieldType!) > -1 ? saveMedia() : prepareField()"
+        >
+          {{ isSaving ? 'Saving...' : ('Save' | translate) }}
+        </button>
+      </p>
+      <a class="close" (click)="refreshModal(false)">Close</a>
+    </div>
+    <a class="close" (click)="refreshModal(false)">Close</a>
+  </div>
+</form>

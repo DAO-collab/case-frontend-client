@@ -1,0 +1,10 @@
+<div class="popup-a a form-d shown">
+  <div class="box-outer">
+    <div class="box-inner">
+      <p>{{ 'Please enter valid payment information before proceeding' | translate }}</p>
+      <div class="payment-button">
+        <ca-button [text]="'Add Payment' | translate" [isFilled]="true" (btnClick)="backToPayment()" [fontWeight]="700" margin="0 0 0 10px"></ca-button>
+      </div>
+    </div>
+  </div>
+</div>

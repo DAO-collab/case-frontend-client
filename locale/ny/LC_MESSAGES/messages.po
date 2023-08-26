@@ -1,0 +1,4488 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.336119\n"
+"PO-Revision-Date: 2017-11-15T09:43:35.948808\n"
+"Language: ny\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Muyenera kusankha fayilo yazithunzi."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Kwezani chikalata, chizindikiritsa ndi siginecha, ndipo kasitomalayo "
+"alowetsa ndi kusaina. Chilichonse chimachitika popanda kasitomala kuti alowe"
+" mnyumba yathu. Izi ndizothandiza ndi makasitomala omwe sayandikira ofesi "
+"kapena omwe akukhala kunja kwa boma .."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Director of Operations of Capital Insurance"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Omwe timacheza nawo amatha kulowa nawo ndikuwona zambiri pazomwe milandu "
+"yawo ikupita. Izi zakweza kwambiri milandu yathu ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Gawo la Law Office of Christianon &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Sitifunikiranso kuwona makasitomala mu misonkhano, ndipo kusaina zikalata "
+"kumatha zonse pa intaneti - wanzeru!"
+
+msgid "CEO of EL Passion"
+msgstr "CEO wa EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Pogwiritsa ntchito API, tidasinthiratu zomwe zidawonetsedwa muzowopa "
+"milandu, potengera zomwe zidayambitsa machitidwe athu omwe adalipo. Zabwino "
+"kwambiri .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Woyang&#39;anira IT wa Carter Mario Muvuto Lawyers"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Tili ndi makasitomala ambiri omwe amalankhula kumasulira kwake. Timatumiza "
+"mauthenga tili ndi chidaliro kuti aliyense adzamvetsetsa. Izi zimatipangitsa"
+" kuti tichoke ku ntchito zakumidzi mpaka padziko lonse .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "CEO wa Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Makasitomala amazikonda! Zimapangitsa miyoyo yawo kukhala yosavuta. Amatha "
+"kukambirana mavuto athu ndi ife pa intaneti, kukweza zithunzi ndi zikalata, "
+"ndipo zonse zimasungidwa pomwe gulu ndi kasitomala akhoza kuziwona .."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Gawo la Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Timakonda milandu yolamula chifukwa imathandizira makasitomala kuwona "
+"ndendende zomwe amalipira .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Wachiwiri kwa Purezidenti wa Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Kulumikizana kolumikizana kuli ngati kukhala ndi zida zanu zanema ndi malo "
+"amodzi pamalo amodzi .."
+
+msgid "Director Of Complaint Management"
+msgstr "Director of Madandaulo Management"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Fomu yamakono imatilola kuti tizimvetsera ndi kuphunzira, kutithandiza kuti "
+"tipititse patsogolo malonda kudzera mu makasitomala."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Director of Sales of Kaini &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Maonekedwe ogwiritsa ntchito ali ofanana kwambiri ndi Facebook. Ndiosavuta "
+"kugwiritsa ntchito .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Wogawana wa Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Pini yatumizidwa"
+
+msgid "Cancel"
+msgstr "Sakanizani"
+
+msgid "Send New Pin"
+msgstr "Tumizani Pin Yatsopano"
+
+msgid "Need Help?"
+msgstr "Mukufuna Thandizo?"
+
+msgid "Click here to contact us"
+msgstr "Dinani apa kuti mulumikizane nafe"
+
+msgid "Next"
+msgstr "Ena"
+
+msgid "Login or Signup"
+msgstr "Lowani kapena Kulembetsa"
+
+msgid "Invalid email entered"
+msgstr "Imelo yolakwika yalowa"
+
+msgid "Processing..."
+msgstr "Kusintha ..."
+
+msgid "Made with"
+msgstr "Zapangidwa ndi"
+
+msgid "love"
+msgstr "Chikondi"
+
+msgid "in New York City"
+msgstr "Ku New York City"
+
+msgid "CaseActive"
+msgstr "Mlandu"
+
+msgid "All rights reserved"
+msgstr "Maumwini onse ndi otetezedwa"
+
+msgid "Terms of Use"
+msgstr "Mgwirizano pazakagwiritsidwe"
+
+msgid "Contact Us"
+msgstr "Lumikizanani nafe"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "New Password"
+msgstr "Mawu Achinsinsi Atsopano"
+
+msgid "Confirm Password"
+msgstr "Tsimikizani Mawu Achinsinsi"
+
+msgid "Set Your New Password"
+msgstr "Ikani Chinsinsi Chatsopano Chatsopano"
+
+msgid "A code has been sent to"
+msgstr "Kaloti yatumizidwa"
+
+msgid "Change Password"
+msgstr "Sinthani mawu achinsinsi"
+
+msgid "Changing..."
+msgstr "Kusintha ..."
+
+msgid "Login"
+msgstr "Lowani muakaunti"
+
+msgid "Forgot password?"
+msgstr "Mwayiwala mawu achinsinsi olowera?"
+
+msgid "Help"
+msgstr "Thandizeni"
+
+msgid "Email or Phone"
+msgstr "Imelo kapena Mafoni"
+
+msgid "Reset Password"
+msgstr "Bwezeretsani Chinsinsi"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Lowetsani adilesi ya imelo kapena nambala yafoni yolumikizana ndi akaunti "
+"yanu, ndiye dinani kutumiza. Tikukutumizirani imelo kapena kukulemberani "
+"ulalo womwe ungapangire achinsinsi posachedwa."
+
+msgid "Request Code"
+msgstr "Foni ya pempho"
+
+msgid "Requesting..."
+msgstr "Kupempha ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE Ikubwera posachedwa"
+
+msgid "Create a free account"
+msgstr "Pangani akaunti yaulere"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Tikuyang'ana komaliza. Tikukudziwitsani ikakonzeka!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Muli kutali ndi mgwirizano wabwino."
+
+msgid "First Name"
+msgstr "Dzina loyamba"
+
+msgid "Last Name"
+msgstr "Dzina lomaliza"
+
+msgid "Email"
+msgstr "Imelo"
+
+msgid "Company"
+msgstr "Kampani"
+
+msgid "No language selected"
+msgstr "Palibe chinenero chosankhidwa"
+
+msgid "I agree with"
+msgstr "Ndikuvomereza"
+
+msgid "Terms of Service"
+msgstr "Migwirizano Yantchito"
+
+msgid "Language"
+msgstr "Chilankhulo"
+
+msgid "Have at least one lower case character"
+msgstr "Khalani ndi khalidwe limodzi la m&#39;munsi"
+
+msgid "Have at least one capital letter"
+msgstr "Mukhale ndi kalata imodzi yaikulu"
+
+msgid "Have at least one number"
+msgstr "Mukhale ndi nambala imodzi"
+
+msgid "Have at least 8 characters in length"
+msgstr "Mukhale ndi mausitoma asanu ndi atatu m&#39;litali"
+
+msgid "Type your current password"
+msgstr "Lembani mawu anu achinsinsi"
+
+msgid "Passwords must match"
+msgstr "Mawu achinsinsi ayenera kufanana"
+
+msgid "Domains"
+msgstr "Madomeni"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript imaletsedwa. Chonde tithandizeni."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Ma cookies ali olumala. Chonde tithandizeni."
+
+msgid "New"
+msgstr "Zatsopano"
+
+msgid "Create A New App"
+msgstr "Pangani Pulogalamu Yatsopano"
+
+msgid "Apps"
+msgstr "Mapulogalamu"
+
+msgid "Profile"
+msgstr "Mbiri"
+
+msgid "Logout"
+msgstr "Lowani"
+
+msgid "Hi"
+msgstr "Wawa"
+
+msgid "View your account"
+msgstr "Onani akaunti yanu"
+
+msgid "View page"
+msgstr "Onani tsamba"
+
+msgid "You don’t have any apps"
+msgstr "Mulibe mapulogalamu aliwonse"
+
+msgid "App"
+msgstr "Pulogalamu"
+
+msgid "Admin"
+msgstr "Olamulira"
+
+msgid "Notifications"
+msgstr "Zidziwitso"
+
+msgid "No notifications yet."
+msgstr "Palibe zidziwitso pano."
+
+msgid "Today"
+msgstr "Lero"
+
+msgid "Last Week"
+msgstr "Sabata yatha"
+
+msgid "No timezone selected"
+msgstr "Palibe nthawi yosankhidwa"
+
+msgid "Complete profile to continue"
+msgstr "Malizitsani mbiri kuti mupitirize"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Update"
+msgstr "Sintha"
+
+msgid "Website:"
+msgstr "Webusaiti:"
+
+msgid "Homepage:"
+msgstr "Tsamba:"
+
+msgid "Approve Access"
+msgstr "Vomerezani Kufikira"
+
+msgid "Info"
+msgstr "Zambiri"
+
+msgid "Permissions"
+msgstr "Zilolezo"
+
+msgid "Billing"
+msgstr "Kulipira"
+
+msgid "Payment Plan"
+msgstr "Malipiro Plan"
+
+msgid "Edit"
+msgstr "Sinthani"
+
+msgid "Save"
+msgstr "Sungani"
+
+msgid "has access to your information below:"
+msgstr "ikutha kudziwa zambiri pansipa:"
+
+msgid "has invited you to their client portal."
+msgstr "wakuyitanani ku tsamba lawo la kasitomala."
+
+msgid "want access to the following information:"
+msgstr "ndikufuna kudziwa izi:"
+
+msgid "Decline"
+msgstr "Kukana"
+
+msgid "Remove Access"
+msgstr "Chotsani Pofikira"
+
+msgid "Active"
+msgstr "Yogwira"
+
+msgid "Invites"
+msgstr "Akuitanani"
+
+msgid "Disabled"
+msgstr "Wolumala"
+
+msgid "No apps found"
+msgstr "Palibe mapulogalamu omwe apezeka"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "wosuta"
+
+msgid "manager"
+msgstr "woyang'anira"
+
+msgid "active"
+msgstr "Yogwira ntchito"
+
+msgid "inactive"
+msgstr "Sakugwira ntchito"
+
+msgid "Company Name"
+msgstr "Dzina Lakampani"
+
+msgid "Type"
+msgstr "Lembani"
+
+msgid "Status"
+msgstr "Chikhalidwe"
+
+msgid "Invitation"
+msgstr "Kuitana"
+
+msgid "About App"
+msgstr "Za App"
+
+msgid "Billing Info"
+msgstr "Zambiri Zolipira"
+
+msgid "Your Company Name"
+msgstr "Dzina Lanu la Kampani"
+
+msgid "Your Company Website"
+msgstr "Webusaiti Yanu ya Kampani"
+
+msgid "Saving..."
+msgstr "Akusunga ..."
+
+msgid "Billing Information"
+msgstr "Zambiri Zamalipilidwe"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Chonde onjezani APP ID yoperekedwa ndi kampaniyo"
+
+msgid "Select an option"
+msgstr "Sankhani njira"
+
+msgid "Join an existing app as a client"
+msgstr "Lowani pulogalamu yomwe ilipo ngati kasitomala"
+
+msgid "Create a new app for my business"
+msgstr "Pangani pulogalamu yatsopano ya bizinesi yanga"
+
+msgid "Create Domain"
+msgstr "Pangani Domain"
+
+msgid "Select enterprise app"
+msgstr "Sankhani pulogalamu yamabizinesi"
+
+msgid "No item selected"
+msgstr "Palibe chinthu chosankhidwa"
+
+msgid "Domain name"
+msgstr "Dzina la domain"
+
+msgid "Add"
+msgstr "Onjezerani"
+
+msgid "No enterprise app found"
+msgstr "Palibe pulogalamu yamabizinesi yomwe yapezeka"
+
+msgid "Pending"
+msgstr "Ikuyembekezera"
+
+msgid "No domains found"
+msgstr "Palibe madambwe omwe apezeka"
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid "Txt Value"
+msgstr "Mtengo wa Txt"
+
+msgid "Enterprise Host ID"
+msgstr "Enterprise Host ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Zochita"
+
+msgid "Delete"
+msgstr "Chotsani"
+
+msgid "Reset"
+msgstr "Bwezerani"
+
+msgid "Allow Manual Sign In"
+msgstr "Lolani Kulowa Pamanja"
+
+msgid "Exclude Emails From SSO"
+msgstr "Osaphatikiza Maimelo Ochokera ku SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML Identity Provider Metadata"
+
+msgid "Submit"
+msgstr "Tumizani"
+
+msgid "Profile photo"
+msgstr "Chithunzi chojambula"
+
+msgid "Uploading..."
+msgstr "Kutumiza ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "yatchulidwa ndi akaunti ina, chonde, musinthe kapena"
+
+msgid "reclaim"
+msgstr "kubwezeretsani"
+
+msgid "it"
+msgstr "izo"
+
+msgid "pending verification:"
+msgstr "ikudikirira:"
+
+msgid "verify"
+msgstr "onetsetsani"
+
+msgid "Phone Number"
+msgstr "Nambala yafoni"
+
+msgid "Current Password"
+msgstr "Mawu Achinsinsi Apano"
+
+msgid "Change password"
+msgstr "Sinthani mawu achinsinsi"
+
+msgid "No gender selected"
+msgstr "Palibe mtundu wosankhidwa"
+
+msgid "Company Title"
+msgstr "Mutu wa Kampani"
+
+msgid "Address"
+msgstr "Adilesi"
+
+msgid "Address 2"
+msgstr "Adilesi 2"
+
+msgid "City/Locality"
+msgstr "Mzinda / Malo"
+
+msgid "State/Region"
+msgstr "Chigawo / Chigawo"
+
+msgid "No country selected"
+msgstr "Palibe dziko losankhidwa"
+
+msgid "Zip/Postal Code"
+msgstr "Kodi Zipi / Keyala"
+
+msgid "Basic"
+msgstr "Zofunikira"
+
+msgid "Date of Birth"
+msgstr "Tsiku lobadwa"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Occupation"
+msgstr "Ntchito"
+
+msgid "Location"
+msgstr "Malo"
+
+msgid "Address is not valid"
+msgstr "Adilesi siyolondola"
+
+msgid "City/Locality is not valid"
+msgstr "Mzinda / Dera silololedwa"
+
+msgid "Country"
+msgstr "Dziko"
+
+msgid "State/Region is not valid"
+msgstr "Dera / Dera silovomerezeka"
+
+msgid "Contact Info"
+msgstr "Contact Info"
+
+msgid "Language & Region"
+msgstr "Chilankhulo &amp; Dera"
+
+msgid "Saving"
+msgstr "Kusunga"
+
+msgid "Verify Your"
+msgstr "Tsimikizani Wanu"
+
+msgid "Verification Code"
+msgstr "Nambala yotsimikizira"
+
+msgid "Resend Code"
+msgstr "Bwezerani Chikho"
+
+msgid "Resending"
+msgstr "Kusintha"
+
+msgid "Verify"
+msgstr "Tsimikizirani"
+
+msgid "Verifying..."
+msgstr "Kutsimikizira ..."
+
+msgid "Later"
+msgstr "Patapita nthawi"
+
+msgid "We're here to help"
+msgstr "Tili pano kuti tithandizire"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Zikomo chifukwa chakutsatirani. Uthenga wanu watumizidwa bwino. "
+"Tidzakumanirana nawe posachedwa!"
+
+msgid "Message"
+msgstr "Uthenga"
+
+msgid "characters left"
+msgstr "zilembo kumanzere"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Tumizani"
+
+msgid "Sending..."
+msgstr "Kutumiza ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Simudzalandiranso malonda a imelo kuchokera pamndandanda."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Ngati muli ndi kamphindi, chonde tiwuzeni chifukwa chomwe munasiyira:"
+
+msgid "Return to our website"
+msgstr "Bwererani patsamba lathu"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Zikomo. Yankho lanu latumizidwa."
+
+msgid "No Cases"
+msgstr "Palibe Milandu"
+
+msgid "Layout"
+msgstr "Kamangidwe"
+
+msgid "Gallery"
+msgstr "Zithunzi"
+
+msgid "Speaker"
+msgstr "Wokamba nkhani"
+
+msgid "This case has been closed"
+msgstr "Mlanduwu watsekedwa"
+
+msgid "Feed"
+msgstr "Dyetsa"
+
+msgid "Images"
+msgstr "Zithunzi"
+
+msgid "Docs"
+msgstr "Docs"
+
+msgid "Audios"
+msgstr "Nyimbo"
+
+msgid "Videos"
+msgstr "Mavidiyo"
+
+msgid "Files"
+msgstr "Mafayilo"
+
+msgid "Events"
+msgstr "Zochitika"
+
+msgid "Forms"
+msgstr "Mafomu"
+
+msgid "E-signs"
+msgstr "E-zizindikiro"
+
+msgid "Invoices"
+msgstr "Ma invoice"
+
+msgid "Notes"
+msgstr "Mfundo"
+
+msgid "Tasks"
+msgstr "Ntchito"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Ntchito yaikulu!"
+
+msgid "You did all"
+msgstr "Inu munachita zonse"
+
+msgid "the tasks"
+msgstr "ntchito"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Skip to navigation (n)"
+msgstr "Skip to navigation (n)"
+
+msgid "Skip to content (c)"
+msgstr "Pitani ku zokambirana (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Skip to footer (f)"
+
+msgid "Case"
+msgstr "Mlanduwu"
+
+msgid "Search"
+msgstr "Sakani"
+
+msgid "Using Form Builder"
+msgstr "Kugwiritsa Ntchito Zomanga Fomu"
+
+msgid "Using Forms Library"
+msgstr "Kugwiritsa Ntchito Mafomu Library"
+
+msgid "Using E-sign Builder"
+msgstr "Kugwiritsa ntchito E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Kugwiritsa ntchito E-signs Library"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Create Note"
+msgstr "Pangani Zindikirani"
+
+msgid "Edit Note"
+msgstr "Sinthani Zindikirani"
+
+msgid "End Convo"
+msgstr "Kumaliza Convo"
+
+msgid "Create Form"
+msgstr "Pangani Fomu"
+
+msgid "Create Sign"
+msgstr "Pangani Chizindikiro"
+
+msgid "Event Create"
+msgstr "Chochitika Pangani"
+
+msgid "Convo Videos"
+msgstr "Mavidiyo a Convo"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Milandu"
+
+msgid "Case categories"
+msgstr "Magulu azinthu"
+
+msgid "Your team"
+msgstr "Gulu lanu"
+
+msgid "To do"
+msgstr "Kuti muchite"
+
+msgid "To Do:"
+msgstr "Zoyenera Kuchita:"
+
+msgid "Case Categories"
+msgstr "Categories Categories"
+
+msgid "Your Team"
+msgstr "Team Yanu"
+
+msgid "To Do"
+msgstr "Kuchita"
+
+msgid "Yes"
+msgstr "Inde"
+
+msgid "Close"
+msgstr "Yandikirani"
+
+msgid "Publish"
+msgstr "Sindikizani"
+
+msgid "Visibility"
+msgstr "Kuwoneka"
+
+msgid "all"
+msgstr "zonse"
+
+msgid "sign"
+msgstr "chizindikiro"
+
+msgid "Page"
+msgstr "Tsamba"
+
+msgid "of"
+msgstr "ya"
+
+msgid "Processing"
+msgstr "Processing"
+
+msgid "failed."
+msgstr "walephera."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Mtengo uyenera kukhala waukulu kapena wofanana ndi 1"
+
+msgid "Repeat end:"
+msgstr "Kubwereza komaliza:"
+
+msgid "Signature"
+msgstr "Siginecha"
+
+msgid "Draw"
+msgstr "Jambulani"
+
+msgid "Write"
+msgstr "Lembani"
+
+msgid "Clear Signature"
+msgstr "Chotsani Siginecha"
+
+msgid "Still processing video..."
+msgstr "Tikukonzanso kanema ..."
+
+msgid "You"
+msgstr "Inu"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Mukufuna kufufuta chakudya. Mukutsimikiza?"
+
+msgid "No convo audios yet"
+msgstr "Palibe ma convo audios panobe"
+
+msgid "No convo videos yet"
+msgstr "Palibe mavidiyo a convo panobe"
+
+msgid "Start Convo"
+msgstr "Yambani Convo"
+
+msgid "Notify the Host"
+msgstr "Dziwitsani Wokhala nawo"
+
+msgid "is in the call"
+msgstr "ali mu kuitana"
+
+msgid "and"
+msgstr "ndi"
+
+msgid "others are in the call"
+msgstr "ena ali mu kuyitana"
+
+msgid "Audio call is being recorded"
+msgstr "Kuyimba komvera kukujambulidwa"
+
+msgid "Video call is being recorded"
+msgstr "Kuyimba kwavidiyo kukujambulidwa"
+
+msgid "Join now"
+msgstr "Lowani tsopano"
+
+msgid "Dismiss"
+msgstr "Chotsani"
+
+msgid "Can’t find your "
+msgstr "Simukupeza yanu"
+
+msgid "microphone"
+msgstr "maikolofoni"
+
+msgid "Check your system settings to make sure that "
+msgstr "Yang'anani makonda anu adongosolo kuti muwonetsetse kuti"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"zilipo. Ngati sichoncho, lowetsani imodzi. Mungafunike kuyambitsanso "
+"msakatuli wanu."
+
+msgid "web camera"
+msgstr "kamera yapaintaneti"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Muyamba kuyimba foni ya Convo. Yambani ndi:"
+
+msgid "Video & Audio"
+msgstr "Video & Audio"
+
+msgid "Audio Only"
+msgstr "Audio Only"
+
+msgid "Record the meeting"
+msgstr "Lembani msonkhano"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr ""
+"Kudikirira wina yemwe ali ndi chilolezo kuti ayambe kuyimba foni ya Convo"
+
+msgid "Add Ticket"
+msgstr "Onjezani Tikiti"
+
+msgid "Title"
+msgstr "Mutu"
+
+msgid "Open"
+msgstr "Tsegulani"
+
+msgid "Closed"
+msgstr "Yatseka"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Mwatsala pang'ono kutseka tikiti. Mukutsimikiza?"
+
+msgid "Announcements"
+msgstr "Zolengeza"
+
+msgid "Support"
+msgstr "Thandizo"
+
+msgid "Opened"
+msgstr "Anatsegulidwa"
+
+msgid "View"
+msgstr "Onani"
+
+msgid "Locations"
+msgstr "Malo"
+
+msgid "You currently have no announcements."
+msgstr "Mulibe zolengeza pano."
+
+msgid "You currently have no"
+msgstr "Pano mulibe"
+
+msgid "open cases. Click"
+msgstr "tsegulani milandu. Dinani"
+
+msgid "here"
+msgstr "Pano"
+
+msgid "to contact support."
+msgstr "kulumikizana ndi chithandizo."
+
+msgid "closed cases."
+msgstr "milandu yotsekedwa."
+
+msgid "open tickets."
+msgstr "matikiti otsegula."
+
+msgid "closed tickets."
+msgstr "matikiti otsekedwa."
+
+msgid "You currently have no locations."
+msgstr "Mulibe malo pano."
+
+msgid "Write a comment...."
+msgstr "Lembani ndemanga ...."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Onjezani Malo"
+
+msgid "Save Event"
+msgstr "Sungani Chochitika"
+
+msgid "Name"
+msgstr "Dzina"
+
+msgid "Start Date"
+msgstr "Tsiku loyambira"
+
+msgid "Start Time"
+msgstr "Yambani Nthawi"
+
+msgid "End Date"
+msgstr "Tsiku Lomaliza"
+
+msgid "End Time"
+msgstr "Nthawi Yomaliza"
+
+msgid "Repeat"
+msgstr "Bwerezani"
+
+msgid "Attendees"
+msgstr "Opezekapo"
+
+msgid "Event Location"
+msgstr "Malo Amalo"
+
+msgid "Link"
+msgstr "Lumikizani"
+
+msgid "Description"
+msgstr "Kufotokozera"
+
+msgid "Attending"
+msgstr "Kupita"
+
+msgid "Add to calendar"
+msgstr "Onjezani ku kalendala"
+
+msgid "Details"
+msgstr "Tsatanetsatane"
+
+msgid "Event by"
+msgstr "Chochitika ndi"
+
+msgid "Duration:"
+msgstr "Nthawi:"
+
+msgid "more"
+msgstr "Zambiri"
+
+msgid "Maybe"
+msgstr "Mwina"
+
+msgid "Not Attending"
+msgstr "Osati Kupezekapo"
+
+msgid "No"
+msgstr "Ayi"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Video Conference"
+
+msgid "Event details"
+msgstr "Tsatanetsatane wa chochitika"
+
+msgid "You don't have permissions to view this page."
+msgstr "Mulibe zilolezo zoti muwone tsamba lino."
+
+msgid "Your Upcoming Events"
+msgstr "Zochitika Zanu Zomwe Zikubwera"
+
+msgid "Upcoming"
+msgstr "Zakubwera"
+
+msgid "Your Past Events"
+msgstr "Zochitika Zanu Zakale"
+
+msgid "Past"
+msgstr "Zakale"
+
+msgid "Your Events"
+msgstr "Zochitika Zanu"
+
+msgid "All"
+msgstr "Zonse"
+
+msgid "All Events"
+msgstr "Zochitika Zonse"
+
+msgid "Directions"
+msgstr "Malangizo"
+
+msgid "Edit settings"
+msgstr "Sinthani zosintha"
+
+msgid "Delete event"
+msgstr "Chotsani chochitika"
+
+msgid "Attending?"
+msgstr "Kupita?"
+
+msgid "No Events"
+msgstr "Palibe Zochitika"
+
+msgid "more comment(s)"
+msgstr "ndemanga zambiri (s)"
+
+msgid "Loading comments"
+msgstr "Kutsegula ndemanga"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Mukufuna kuchotsa ndemanga. Mukutsimikiza?"
+
+msgid "task"
+msgstr "ntchito"
+
+msgid "to do"
+msgstr "kuchita"
+
+msgid "tasks"
+msgstr "ntchito"
+
+msgid "Write something..."
+msgstr "Lembani chinachake ..."
+
+msgid "Attach File"
+msgstr "Ikani Fayilo"
+
+msgid "From Template"
+msgstr "Kuchokera ku Template"
+
+msgid "No feeds yet."
+msgstr "Palibe zakudya pano."
+
+msgid "comments"
+msgstr "ndemanga"
+
+msgid "comment"
+msgstr "ndemanga"
+
+msgid "Add a comment"
+msgstr "Onjezani ndemanga"
+
+msgid "Template"
+msgstr "Chinsinsi"
+
+msgid "No templates"
+msgstr "Palibe ma templates"
+
+msgid "Done"
+msgstr "Zatheka"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Sankhani mamembala omwe akuyenera kudzaza fomuyi"
+
+msgid "Update Form"
+msgstr "Kusintha Fomu"
+
+msgid "Due Date"
+msgstr "Tsiku lomaliza"
+
+msgid "Due Time"
+msgstr "Nthawi Yokwanira"
+
+msgid "Loading..."
+msgstr "Ndikutsatira ..."
+
+msgid "Preview"
+msgstr "Kuwoneratu"
+
+msgid "Save & Close"
+msgstr "Sungani & Tsekani"
+
+msgid "Add an element"
+msgstr "Onjezani chinthu"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Media ikusintha. Tikudziwitsani ikakonzeka"
+
+msgid "Add "
+msgstr "Onjezani"
+
+msgid "Field"
+msgstr "Munda"
+
+msgid "Edit "
+msgstr "Sinthani"
+
+msgid "Text"
+msgstr "Malembo"
+
+msgid "Sub Text"
+msgstr "Sub Text"
+
+msgid "Format"
+msgstr "Mtundu"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr "Media zalephera kusintha. Chonde chotsani ndikuyesanso kapena china."
+
+msgid "Pages"
+msgstr "Masamba"
+
+msgid "Saved"
+msgstr "Zosungidwa"
+
+msgid "Insert"
+msgstr "Ikani"
+
+msgid "Elements"
+msgstr "Zinthu"
+
+msgid "Action Required"
+msgstr "Chofunika Chochita"
+
+msgid "Add a new page"
+msgstr "Onjezani tsamba latsopano"
+
+msgid "Blank page"
+msgstr "Tsamba lopanda kanthu"
+
+msgid "From PDF"
+msgstr "Kuchokera ku PDF"
+
+msgid "From image"
+msgstr "Kuchokera pa chithunzi"
+
+msgid "Add PDF"
+msgstr "Onjezani PDF"
+
+msgid "Add Image"
+msgstr "Onjezani Chithunzi"
+
+msgid "Options"
+msgstr "Zosankha"
+
+msgid "Column Names"
+msgstr "Mayina a Mzere"
+
+msgid "Option already exists."
+msgstr "Zosankha zilipo kale."
+
+msgid "options list is empty"
+msgstr "Mndandanda wa zosankha ulibe"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Minda yama Checkbox imathandizira zosankha 5 zokha. Mutha kusintha gawo "
+"kukhala lotsikira kuti muwonjezere zosankha zina"
+
+msgid "columns list is empty"
+msgstr "mndandanda wazitsulo mulibe"
+
+msgid "Default Value"
+msgstr "Chokhazikika Chofunika"
+
+msgid "Delete row"
+msgstr "Chotsani mzere"
+
+msgid "Add a new row"
+msgstr "Onjezani mzere watsopano"
+
+msgid "Download"
+msgstr "Tsitsani"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Question"
+msgstr "Funso"
+
+msgid "Default answer"
+msgstr "Yankho lofikira"
+
+msgid "Media is converting"
+msgstr "Media ikusintha"
+
+msgid "Send Form"
+msgstr "Tumizani Fomu"
+
+msgid "Form Submited."
+msgstr "Fomu Yatumizidwa."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Inu mulibe zilolezo kuti muzipereka mafomu."
+
+msgid "You currently have no forms of your own"
+msgstr "Mulibe mawonekedwe anuanu"
+
+msgid "Your Uncompleted Forms"
+msgstr "Mafomu Anu Omaliza"
+
+msgid "Uncompleted"
+msgstr "Zosamalizidwa"
+
+msgid "Your Completed Forms"
+msgstr "Mafomu Anu Omaliza"
+
+msgid "Completed"
+msgstr "Zatsirizidwa"
+
+msgid "Your Forms"
+msgstr "Mafomu Anu"
+
+msgid "All Forms"
+msgstr "Mafomu Onse"
+
+msgid "Form Title"
+msgstr "Mutu wa Fomu"
+
+msgid "Author"
+msgstr "Wolemba"
+
+msgid "Published"
+msgstr "Lofalitsidwa"
+
+msgid "Submissions"
+msgstr "Kutumiza"
+
+msgid "No Forms"
+msgstr "Palibe Mafomu"
+
+msgid "Upload Form Document"
+msgstr "Kwezani Fomu Document"
+
+msgid "Forms Library"
+msgstr "Laibulale ya Mafomu"
+
+msgid "No Forms In Library"
+msgstr "Palibe Zomwe Mu Library"
+
+msgid "Answers"
+msgstr "Mayankho"
+
+msgid "Close - Status changed"
+msgstr "Tsekani - Mkhalidwe wasintha"
+
+msgid "Change Status"
+msgstr "Sinthani Chikhalidwe"
+
+msgid "Case Number"
+msgstr "Nambala ya Mlandu"
+
+msgid "Tag Id"
+msgstr "Tag Id"
+
+msgid "Date Opened"
+msgstr "Tsiku Linatsegulidwa"
+
+msgid "Host Id"
+msgstr "Host ID"
+
+msgid "User Id"
+msgstr "Dzina Lolowera"
+
+msgid "Case Id"
+msgstr "Nkhani Id"
+
+msgid "Confirm your details"
+msgstr "Tsimikizirani zambiri zanu"
+
+msgid "Form Submitted."
+msgstr "Fomu Yatumizidwa."
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "PO No:"
+msgstr "PO No:"
+
+msgid "Reference ID:"
+msgstr "ID yolozera:"
+
+msgid "Term:"
+msgstr "Nthawi:"
+
+msgid "Note:"
+msgstr "Zindikirani:"
+
+msgid "QTY"
+msgstr "KTY"
+
+msgid "Price"
+msgstr "Mtengo"
+
+msgid "Add more"
+msgstr "Onjezani zina"
+
+msgid "Subtotal($)"
+msgstr "Ndalama zonse($)"
+
+msgid "Discount(%)"
+msgstr "Kuchotsera(%)"
+
+msgid "TAX(%)"
+msgstr "TAX(%)"
+
+msgid "Total($)"
+msgstr "Zonse($)"
+
+msgid "Invoice No"
+msgstr "Invoice No"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Sankhani mamembala omwe akuyenera kuwona kapena kulipira invoice iyi"
+
+msgid "Update Invoice"
+msgstr "Kusintha Invoice"
+
+msgid "Create Invoice"
+msgstr "Pangani Invoice"
+
+msgid "PO No."
+msgstr "PO No."
+
+msgid "Reference ID"
+msgstr "ID yolozera"
+
+msgid "Term"
+msgstr "Nthawi"
+
+msgid "Note"
+msgstr "Zindikirani"
+
+msgid "Quantity"
+msgstr "Kuchuluka"
+
+msgid "Price ($)"
+msgstr "Mtengo ($)"
+
+msgid "Subtotal ($)"
+msgstr "Ndalama zonse ($)"
+
+msgid "Discount (%)"
+msgstr "Kuchotsera (%)"
+
+msgid "Tax (%)"
+msgstr "Msonkho (%)"
+
+msgid "Total ($)"
+msgstr "Zonse ($)"
+
+msgid "Pay Invoice"
+msgstr "Lipirani invoice"
+
+msgid "Payment method"
+msgstr "Njira yolipirira"
+
+msgid "Add a new payment method"
+msgstr "Onjezani njira yatsopano yolipira"
+
+msgid "Summary"
+msgstr "Chidule"
+
+msgid "Payment:"
+msgstr "Malipiro:"
+
+msgid "Total charge:"
+msgstr "Ndalama zonse:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Ma Invoice Anu Osalipidwa"
+
+msgid "Unpaid"
+msgstr "Osalipidwa"
+
+msgid "Your Paid Invoices"
+msgstr "Ma Invoice Anu Olipidwa"
+
+msgid "Paid"
+msgstr "Kulipira"
+
+msgid "Your Invoices"
+msgstr "Ma invoice anu"
+
+msgid "All Invoices"
+msgstr "Ma invoice onse"
+
+msgid "Invoice Title"
+msgstr "Mutu wa Invoice"
+
+msgid "No Invoices"
+msgstr "Palibe ma invoice"
+
+msgid "No Audios yet."
+msgstr "Palibe Audio pano."
+
+msgid "Loading failed."
+msgstr "Kuyika kwalephera."
+
+msgid "retry"
+msgstr "yesetsani"
+
+msgid "No documents yet."
+msgstr "Palibe zolemba pano."
+
+msgid "No Files yet."
+msgstr "Palibe Mafayilo pakadali pano."
+
+msgid "No Images yet."
+msgstr "Palibe Zithunzi pano."
+
+msgid "No Videos yet."
+msgstr "Palibe Makanema pano."
+
+msgid "Page Not Found"
+msgstr "Tsamba silinapezeke"
+
+msgid "Attachments"
+msgstr "Zolemba"
+
+msgid "Note View"
+msgstr "Note View"
+
+msgid "No Notes"
+msgstr "Palibe Mfundo"
+
+msgid "Select the person to answer this field"
+msgstr "Sankhani munthuyo kuti ayankhe nkhaniyi"
+
+msgid "Create E-sign"
+msgstr "Pangani E-sign"
+
+msgid "Update E-signs"
+msgstr "Sinthani E-zizindikiro"
+
+msgid "Signs"
+msgstr "Zizindikiro"
+
+msgid "Add Field"
+msgstr "Onjezani Munda"
+
+msgid "Edit Field"
+msgstr "Sinthani Munda"
+
+msgid "Send E-sign"
+msgstr "Tumizani E-chizindikiro"
+
+msgid "E-sign Submitted."
+msgstr "E-chizindikiro Chatumizidwa."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Mulibe zilolezo zotumizira ma e-signs."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Panopa mulibe ma E-zizindikiro zanuzanu"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Ma E-zizindikiro Anu Osamaliza"
+
+msgid "Your Completed E-signs"
+msgstr "Ma E-zizindikiro Anu Omaliza"
+
+msgid "Your Signs"
+msgstr "Zizindikiro Zanu"
+
+msgid "All E-signs"
+msgstr "Zizindikiro zonse za E"
+
+msgid "E-sign Title"
+msgstr "Mutu wa E-sign"
+
+msgid "No E-signs"
+msgstr "Palibe E-zizindikiro"
+
+msgid "E-Signs Library"
+msgstr "E-Signs Library"
+
+msgid "No E-signs In Library"
+msgstr "Palibe ma E-signs Mu Library"
+
+msgid "Upload E-sign Document"
+msgstr "Kwezani E-sign Document"
+
+msgid "Update Task"
+msgstr "Kusintha Ntchito"
+
+msgid "Create Task"
+msgstr "Pangani Ntchito"
+
+msgid "You currently have no tasks of your own"
+msgstr "Panopa mulibe ntchito zanuzanu"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Ntchito Zanu Zosamaliza"
+
+msgid "Your Completed Tasks"
+msgstr "Ntchito Zanu Zamaliza"
+
+msgid "Your Tasks"
+msgstr "Ntchito Zanu"
+
+msgid "All Tasks"
+msgstr "Ntchito Zonse"
+
+msgid "Task"
+msgstr "Ntchito"
+
+msgid "Deadline"
+msgstr "Tsiku lomalizira"
+
+msgid "Assignees"
+msgstr "Opatsidwa ntchito"
+
+msgid "In Progress"
+msgstr "Zili mkati"
+
+msgid "Delete task"
+msgstr "Chotsani ntchito"
+
+msgid "No Tasks"
+msgstr "Palibe Zochita"
+
+msgid "wants access"
+msgstr "akufuna kupeza"
+
+msgid "No Answers"
+msgstr "Palibe Mayankho"
+
+msgid "Select Field Type"
+msgstr "Sankhani Mtundu wa Munda"
+
+msgid "Text Only"
+msgstr "Malembo Okha"
+
+msgid "Multiple Line Text"
+msgstr "Mipukutu Yambiri"
+
+msgid "Dropdown"
+msgstr "Tsitsa m&#39;munsi"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Zokambirana"
+
+msgid "Radio"
+msgstr "Radiyo"
+
+msgid "Date"
+msgstr "Tsiku"
+
+msgid "Time"
+msgstr "Nthawi"
+
+msgid "Yes/No"
+msgstr "Inde / Ayi"
+
+msgid "Number"
+msgstr "Nambala"
+
+msgid "Access Denied"
+msgstr "Mwaletsedwa"
+
+msgid "You don't have access to this case."
+msgstr "Mulibe mwayi pankhaniyi."
+
+msgid "Imports"
+msgstr "Zogulitsa kunja"
+
+msgid "View import"
+msgstr "Onani zolowetsa"
+
+msgid "Sessions"
+msgstr "Magawo"
+
+msgid "Home"
+msgstr "Kunyumba"
+
+msgid "Users"
+msgstr "Ogwiritsa ntchito"
+
+msgid "Library"
+msgstr "Laibulale"
+
+msgid "Integration"
+msgstr "Kuphatikiza"
+
+msgid "Settings"
+msgstr "Makhalidwe"
+
+msgid "Webhooks"
+msgstr "Mawebusayiti"
+
+msgid "Keys"
+msgstr "Chinsinsi"
+
+msgid "Feed Templates"
+msgstr "Zitsanzo Zodyetsa"
+
+msgid "Form Templates"
+msgstr "Zithunzi Zamakono"
+
+msgid "E-sign Templates"
+msgstr "E-sign templates"
+
+msgid "Task Templates"
+msgstr "Ma templates a Ntchito"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payments"
+msgstr "Malipiro"
+
+msgid "From"
+msgstr "Kuchokera"
+
+msgid "To"
+msgstr "Kuti"
+
+msgid "System"
+msgstr "Dongosolo"
+
+msgid "User Intake"
+msgstr "Kugwiritsa Ntchito"
+
+msgid "Custom Fields"
+msgstr "Minda Mwamakonda"
+
+msgid "After Actions"
+msgstr "Pambuyo pa Zochita"
+
+msgid "Advance Settings"
+msgstr "Zokonda Patsogolo"
+
+msgid "Label Name"
+msgstr "Dzina la Mayina"
+
+msgid "Fields"
+msgstr "Minda"
+
+msgid "Tag ID"
+msgstr "Tag ID"
+
+msgid "Have many users?"
+msgstr "Muli ndi ogwiritsa ntchito ambiri?"
+
+msgid "Import users"
+msgstr "Ogwiritsa ntchito kunja"
+
+msgid "or"
+msgstr "kapena"
+
+msgid "Send them a signup link."
+msgstr "Atumizireni ulalo wolembetsa."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Tiyeni tiyambe kulowetsa imelo kapena nambala yafoni"
+
+msgid "Phone"
+msgstr "Foni"
+
+msgid "Invalid phone number entered"
+msgstr "Nambala yolakwika yolowera yalowetsedwa"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Chizindikiro chopeza mlandu mosavuta. sizingasinthidwe pambuyo pake"
+
+msgid "Visibility:"
+msgstr "Kuwoneka:"
+
+msgid "Who can use this template"
+msgstr "Ndani angagwiritse ntchito template iyi"
+
+msgid "One time"
+msgstr "Nthawi ina"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Chonde lowetsani zambiri zolipira musanapitirize"
+
+msgid "Add Payment"
+msgstr "Onjezani Malipiro"
+
+msgid "Repeat every:"
+msgstr "Bwerezani zonse:"
+
+msgid "Let's get started"
+msgstr "Tiyeni tiyambe"
+
+msgid "Take me there"
+msgstr "Nditengereni kumeneko"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Onboarding"
+msgstr "Kukwera"
+
+msgid "Created on"
+msgstr "Adapangidwa"
+
+msgid "Expires on"
+msgstr "Itha ntchito"
+
+msgid "No announcements yet."
+msgstr "Palibe zolengeza pano."
+
+msgid "Add Announcement"
+msgstr "Onjezani Chilengezo"
+
+msgid "Edit Announcement"
+msgstr "Sinthani Chilengezo"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Tsiku ndi nthawi ziyenera kukhala zosachepera ola limodzi"
+
+msgid "Delete Date"
+msgstr "Chotsani Tsiku"
+
+msgid "Delete Time"
+msgstr "Chotsani Nthawi"
+
+msgid "Back"
+msgstr "Kubwerera"
+
+msgid "No Users Found"
+msgstr "Palibe Ogwiritsa Ntchito Opezeka"
+
+msgid "No role selected"
+msgstr "Palibe ntchito yomwe yasankhidwa"
+
+msgid "No permissions added!"
+msgstr "Palibe zilolezo zowonjezedwa!"
+
+msgid "ASSIGNED USERS"
+msgstr "OGWIRITSA NTCHITO"
+
+msgid "CASE PERMISSIONS"
+msgstr "CASE PERMISSIONS"
+
+msgid "User ID"
+msgstr "Dzina Lolowera"
+
+msgid "Role"
+msgstr "Udindo"
+
+msgid "remove"
+msgstr "Chotsani"
+
+msgid "Assign User"
+msgstr "Perekani Mtumiki"
+
+msgid "User"
+msgstr "Wosuta"
+
+msgid "ADD USER"
+msgstr "Onjezani Wogwiritsa"
+
+msgid "Email user about case assignment"
+msgstr "Tumizani mthunzi wa email pa nkhani yolemba"
+
+msgid "Keyword"
+msgstr "Mawu ofunika"
+
+msgid "No cases found."
+msgstr "Palibe milandu yopezeka."
+
+msgid "Create a case for a business"
+msgstr "Pangani mulandu pa bizinesi"
+
+msgid "Case ID"
+msgstr "Mlanduwu ID"
+
+msgid "Created On"
+msgstr "Adapangidwa Pa"
+
+msgid "Case Status"
+msgstr "Mlandu wa Mlandu"
+
+msgid "Case Type"
+msgstr "Mtundu wa Mlandu"
+
+msgid "Assign Users"
+msgstr "Perekani Ogwiritsa Ntchito"
+
+msgid "No cases found"
+msgstr "Palibe milandu yopezeka"
+
+msgid "Have many cases?"
+msgstr "Muli ndi milandu yambiri?"
+
+msgid "Click here to import cases."
+msgstr "Dinani apa kuti mutenge milandu."
+
+msgid "No status selected"
+msgstr "Palibe malo osankhidwa"
+
+msgid "No type selected"
+msgstr "Palibe mtundu wosankhidwa"
+
+msgid "Case Info"
+msgstr "Info Case"
+
+msgid "About"
+msgstr "Zafupi"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Chizindikiro chokhazikika kuti mupeze mlandu mosavuta. (a-z, 0-9, -, /) "
+"amaloledwa"
+
+msgid "Case Types"
+msgstr "Mitundu Yamilandu"
+
+msgid "Click"
+msgstr "Dinani"
+
+msgid "to edit case types"
+msgstr "kusintha mitundu yamilandu"
+
+msgid "No Type selected"
+msgstr "Palibe Mtundu wosankhidwa"
+
+msgid "Case not found!"
+msgstr "Mlanduwu sunapezeke!"
+
+msgid "Media Size"
+msgstr "Zofiira"
+
+msgid "All statistics"
+msgstr "Ziwerengero zonse"
+
+msgid "Import not found."
+msgstr "Kulowa kunja sikunapezeke."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Kukonza fayilo kwalephera. Onetsetsani kuti ndi mtundu wa fayilo ya CSV "
+"ndipo ili ndi mitu yolondola"
+
+msgid "Data"
+msgstr "Zambiri"
+
+msgid "No Imports yet."
+msgstr "Palibe zotumizidwa panobe."
+
+msgid "Source"
+msgstr "Gwero"
+
+msgid "Stats"
+msgstr "Zotsatira"
+
+msgid "Passed:"
+msgstr "Wadutsa:"
+
+msgid "Failed:"
+msgstr "Zakanika:"
+
+msgid "Total:"
+msgstr "Chiwerengero:"
+
+msgid "Add Imports"
+msgstr "Onjezani Zogulitsa Kumayiko Ena"
+
+msgid "Download Sample"
+msgstr "Tsitsani Zitsanzo"
+
+msgid "Choose a file"
+msgstr "Sankhani fayilo"
+
+msgid "Edit Key"
+msgstr "Sinthani Chinsinsi"
+
+msgid "Add Key"
+msgstr "Onjezani Chinsinsi"
+
+msgid "No Keys yet."
+msgstr "Palibe Makiyi panobe."
+
+msgid "Source CIDR"
+msgstr "Gwero CIDR"
+
+msgid "Remove"
+msgstr "Chotsani"
+
+msgid "is invalid."
+msgstr "ndi yosavomerezeka."
+
+msgid "Secret Key"
+msgstr "Chinsinsi Chinsinsi"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Onetsetsani kuti mwatengera chinsinsi chanu chatsopano tsopano. "
+"Simudzawonanso!"
+
+msgid "Edit Webhook"
+msgstr "Sinthani Webhook"
+
+msgid "Add Webhook"
+msgstr "Onjezani Webhook"
+
+msgid "No event selected"
+msgstr "Palibe chochitika chosankhidwa"
+
+msgid "No Webhooks yet."
+msgstr "Palibe mawebusayiti panobe."
+
+msgid "URL"
+msgstr "Ulalo"
+
+msgid "Secret Webhook"
+msgstr "Chinsinsi Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Onetsetsani kuti mwatengera zolemba zanu zatsopano zachinsinsi tsopano. "
+"Simudzawonanso!"
+
+msgid "Sign In"
+msgstr "Lowani muakaunti"
+
+msgid "Login in account page."
+msgstr "Lowani mu tsamba la akaunti."
+
+msgid "Edit form builder"
+msgstr "Sinthani wopanga mawonekedwe"
+
+msgid "Delete form"
+msgstr "Chotsani fomu"
+
+msgid "No forms yet."
+msgstr "Palibe mafomu omwe apabe."
+
+msgid "Intake Forms"
+msgstr "Mafomu Olowa"
+
+msgid "Upload Intake Form Document"
+msgstr "Lowetsani Chikalata Cholembera Fomu"
+
+msgid "Add Intake Form"
+msgstr "Onjezani Fomu Yotengera"
+
+msgid "Edit Intake Form"
+msgstr "Sinthani Fomu Yotengera"
+
+msgid "Show Media"
+msgstr "Onetsani Zojambula"
+
+msgid "Add Post"
+msgstr "Onjezani Post"
+
+msgid "Edit Post"
+msgstr "Sinthani Post"
+
+msgid "Files Amount"
+msgstr "Malipiro Amtengo"
+
+msgid "No Feed Templates yet."
+msgstr "Palibe Ma tempulo Ma feed pano."
+
+msgid "Post Name"
+msgstr "Dzina la Post"
+
+msgid "Post Message"
+msgstr "Uthenga wa Post"
+
+msgid "Processing media ..."
+msgstr "Inakonza media ..."
+
+msgid "Download original file"
+msgstr "Tsitsani fayilo yoyambirira"
+
+msgid "Could not display media"
+msgstr "Sitinawonetse media"
+
+msgid "No locations found."
+msgstr "Palibe malo opezeka."
+
+msgid "Main Office"
+msgstr "Ofesi Yaikulu"
+
+msgid "Location Name"
+msgstr "Dzina la malo"
+
+msgid "Delete e-sign"
+msgstr "Chotsani chizindikiro cha imelo"
+
+msgid "No e-signs yet."
+msgstr "Palibe ma e-signs panobe."
+
+msgid "Subtasks Count"
+msgstr "Kuwerengera Ntchito Zazing'ono"
+
+msgid "No tasks yet."
+msgstr "Palibe ntchito panobe."
+
+msgid "Invoice ID"
+msgstr "Invoice ID"
+
+msgid "Total"
+msgstr "Zonse"
+
+msgid "Refund"
+msgstr "Kubweza ndalama"
+
+msgid "No invoices yet."
+msgstr "Palibe ma invoice pano."
+
+msgid "Refund Reason"
+msgstr "Chifukwa Chobwezera"
+
+msgid "Duplicate charge"
+msgstr "Malipiro obwereza"
+
+msgid "Fraudulent charge"
+msgstr "Mlandu wachinyengo"
+
+msgid "Requested by customer"
+msgstr "Adafunsidwa ndi kasitomala"
+
+msgid "On Board"
+msgstr "Akwera"
+
+msgid "Stripe"
+msgstr "Mzere"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Ntchito Zambiri"
+
+msgid "It cannot be changed later"
+msgstr "Sizingasinthidwe pambuyo pake"
+
+msgid "Role Permissions"
+msgstr "Mavuto Oyenerera"
+
+msgid "e-signs"
+msgstr "e-zizindikiro"
+
+msgid "on"
+msgstr "on"
+
+msgid "Allowed File Sizes"
+msgstr "Zaloledwa Kujambula Zithunzi"
+
+msgid "Create"
+msgstr "Pangani"
+
+msgid "Creating..."
+msgstr "Kupanga ..."
+
+msgid "Modules"
+msgstr "Ma modules"
+
+msgid "Roles"
+msgstr "Ntchito"
+
+msgid "Profile information"
+msgstr "Zambiri zambiri"
+
+msgid "No role found."
+msgstr "Palibe gawo lopezeka."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Mlandu ukapangidwa, perekani ogwiritsa ntchito okha"
+
+msgid "Remove All"
+msgstr "Chotsani Zonse"
+
+msgid "User Name"
+msgstr "Dzina Logwiritsa"
+
+msgid "Notify"
+msgstr "Dziwitsani"
+
+msgid "Host User"
+msgstr "Wogwiritsa Ntchito"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "Wogwiritsa ntchito akapatsidwa mlandu, onjezerani ma templates"
+
+msgid "No post selected"
+msgstr "Palibe positi yosankhidwa"
+
+msgid "No form selected"
+msgstr "Palibe fomu yosankhidwa"
+
+msgid "No e-sign selected"
+msgstr "Palibe e-sign yosankhidwa"
+
+msgid "Templates"
+msgstr "Zithunzi"
+
+msgid "Add Templates"
+msgstr "Onjezani Ma templates"
+
+msgid "Idle Cases"
+msgstr "Milandu Yopanda Ntchito"
+
+msgid "When a case is idle, post this message"
+msgstr "Mlandu ukakhala wopanda ntchito, tumizani uthengawu"
+
+msgid "No case type selected"
+msgstr "Palibe mtundu wamilandu womwe wasankhidwa"
+
+msgid "Idle Days"
+msgstr "Masiku Opanda Ntchito"
+
+msgid "Post Id"
+msgstr "Post Id"
+
+msgid "Set Idle Message"
+msgstr "Khazikitsani Idle Message"
+
+msgid "No task selected"
+msgstr "Palibe ntchito yosankhidwa"
+
+msgid "No operation order selected"
+msgstr "Palibe dongosolo lantchito lomwe lasankhidwa"
+
+msgid "Operation Order"
+msgstr "Operation Order"
+
+msgid "Add Templates to Assign Users"
+msgstr "Onjezani ma templates kuti Mupatse Ogwiritsa Ntchito"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Fomu ya Mlandu"
+
+msgid "User Form"
+msgstr "Fomu Yogwiritsa Ntchito"
+
+msgid "Notes Form"
+msgstr "Fomu ya Notes"
+
+msgid "Defaults"
+msgstr "Zosintha"
+
+msgid "Required"
+msgstr "Amafunika"
+
+msgid "Public User Signup link:"
+msgstr "Ulalo wa Public User Signup:"
+
+msgid "Design Settings"
+msgstr "Konzani Zokonza"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Sinthani fayilo"
+
+msgid "Delete Favicon"
+msgstr "Chotsani Favicon"
+
+msgid "Logo:"
+msgstr "Mtundu:"
+
+msgid "Delete Logo"
+msgstr "Chotsani Logo"
+
+msgid "Text Color"
+msgstr "Mtundu Walemba"
+
+msgid "Recommended Colors:"
+msgstr "Mitundu Yotsimikizika:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "konzanso"
+
+msgid "Background Color"
+msgstr "Mtundu Wakuseri"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Zambiri za Kampani"
+
+msgid "Website"
+msgstr "Webusaiti"
+
+msgid "Terms of Use URL"
+msgstr "Terms of Use URL"
+
+msgid "User Signup"
+msgstr "Kulembetsa kwa Ogwiritsa"
+
+msgid "Allow Signup"
+msgstr "Lolani Kulembetsa"
+
+msgid "Auto Create Case"
+msgstr "Auto Pangani Mlandu"
+
+msgid "Case User Role"
+msgstr "Nkhani Yogwiritsa Ntchito"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Keytics Kiyi"
+
+msgid "delete"
+msgstr "chotsa"
+
+msgid "Crop Image"
+msgstr "Chithunzi cha Mbewu"
+
+msgid "No Filter"
+msgstr "Palibe Fyuluta"
+
+msgid "No logs requested."
+msgstr "Palibe zida zopemphedwa."
+
+msgid "Logs list is empty."
+msgstr "Mndandanda wamakalata ulibe."
+
+msgid "Download CSV"
+msgstr "Tsitsani CSV"
+
+msgid "Request Logs"
+msgstr "Zikalata Zofunsira"
+
+msgid "Log Type"
+msgstr "Mtundu wa Chizindikiro"
+
+msgid "Filter"
+msgstr "Sakanizani"
+
+msgid "Select a case"
+msgstr "Sankhani mlandu"
+
+msgid "Enter the email address"
+msgstr "Lowani imelo adilesi"
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Header (3 max)"
+msgstr "Mutu (3 Max)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Wogwiritsa akajowina pulogalamu, funsani wogwiritsa ntchitoyo kuti agawane "
+"zotsatirazi"
+
+msgid "No user intake found."
+msgstr "Palibe chogwiritsa ntchito chomwe chapezeka."
+
+msgid "User Type"
+msgstr "Mtundu wa Mtumiki"
+
+msgid "Intake Form"
+msgstr "Fomu Yofunsira"
+
+msgid "Complete After"
+msgstr "Malizitsani Pambuyo"
+
+msgid "No user type selected"
+msgstr "Palibe mtundu wa ogwiritsa wosankhidwa"
+
+msgid "No intake form selected"
+msgstr "Palibe fomu yolandirira yomwe yasankhidwa"
+
+msgid "Complete After Date"
+msgstr "Malizitsani Pambuyo pa Tsiku"
+
+msgid "Complete After Time"
+msgstr "Malizitsani Pambuyo pa Nthawi"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Tsiku ndi nthawi ziyenera kukhala zochepa kapena zofanana ndi pano"
+
+msgid "Comment ct"
+msgstr "Ndemanga ct"
+
+msgid "View Ticket"
+msgstr "Onani Tikiti"
+
+msgid "Ticket"
+msgstr "Tikiti"
+
+msgid "No tickets yet."
+msgstr "Palibe matikiti pano."
+
+msgid "User not found."
+msgstr "Mtumiki sapezeka."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Wogwiritsa akhoza kusintha zambiri za akaunti yawo kupatula gawo la "
+"mawonekedwe a ogwiritsa ntchito."
+
+msgid "Contact"
+msgstr "Lumikizanani"
+
+msgid "Phone number"
+msgstr "Nambala yafoni"
+
+msgid "Zip Postal Code"
+msgstr "Kodi Zipi / Keyala"
+
+msgid "Host User Attributes"
+msgstr "Makhalidwe Ogwiritsa Ntchito Host"
+
+msgid "User Status"
+msgstr "Chikhalidwe cha Mtumiki"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Chizindikiro chokhazikika kuti mupeze wogwiritsa ntchito mosavuta. (a-z, "
+"0-9, -, /) amaloledwa"
+
+msgid "App only User Intake Fields"
+msgstr "Magawo Ogwiritsa Ntchito Ogwiritsa Ntchito okha"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "GWIRANI PAKATI PA MALO OGULITSIRA"
+
+msgid "s found."
+msgstr "s apezeka."
+
+msgid "Created Date"
+msgstr "Tsiku lopangidwa"
+
+msgid "View Cases"
+msgstr "Onani Milandu"
+
+msgid "VIEW CASES"
+msgstr "ONANI milandu"
+
+msgid "Get Started"
+msgstr "Yambanipo"
+
+msgid "Password"
+msgstr "Chinsinsi"
+
+msgid "Email is not valid."
+msgstr "Imelo siilondola."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive imakulolani inu ndi chithandizo chanu"
+
+msgid "work together"
+msgstr "Chitani ntchito limodzi"
+
+msgid "at any time, in any place."
+msgstr "nthawi iliyonse, kulikonse."
+
+msgid "Explore"
+msgstr "Onani"
+
+msgid "Pricing"
+msgstr "Mitengo"
+
+msgid "Support & Docs"
+msgstr "Thandizo & Docs"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to validate if you are human"
+msgstr "Talephera kutsimikizira ngati ndinu munthu"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "NDIDZIFUNA KUTI NDIDZAWERENGEZA!"
+
+msgid "Thank You!"
+msgstr "Zikomo!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Tikukudziwitsani ngati pulogalamuyi ikonzekera"
+
+msgid "Most popular"
+msgstr "Otchuka kwambiri"
+
+msgid "All languages"
+msgstr "Zinenero zonse"
+
+msgid "Oops, Something went wrong."
+msgstr "Eya, China chake chalakwika."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Eya, China chake chalakwika. Gulu lathu lazidziwitsidwa. Chonde yesaninso "
+"pambuyo pake."
+
+msgid "Support Documentation"
+msgstr "Zolemba Zothandizira"
+
+msgid "All Categories"
+msgstr "Magulu onse"
+
+msgid "Contents"
+msgstr "Zamkatimu"
+
+msgid "Related Articles"
+msgstr "Nkhani Zogwirizana nazo"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Yambani: njira, machitidwe abwino, maupangiri okhazikitsa, ndi zina zambiri!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr ""
+"Pezani chilichonse chomwe mungafune kuti mugwire ntchito mu CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Kuyankhulana konse kumalo amodzi"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Zosintha, zosintha zamakalata, kuyankha mafunso, kulemba zolemba, "
+"kuyankhapo, ndikukhala ndi zokambirana zonse zolembedwa ndi imelo yeniyeni "
+"ndi zidziwitso za SMS."
+
+msgid "Share with confidence"
+msgstr "Gawani molimba mtima"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Gawani zolemba ndi zithunzi pakati pa makasitomala ndi mamembala a gulu lanu"
+" pazida zilizonse ndi zina, motero aliyense amasunga zatsopano."
+
+msgid "Take it on the go"
+msgstr "Tengani izo popita"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Gwiritsani ntchito zida zam&#39;manja ngati mapiritsi ndi mafoni "
+"am&#39;manja kuti mugwirizane pazinthu zazikulu, kambiranani zazikulu, "
+"zikalata zosinthira, ndi kupita patsogolo kwa tchati mu nthawi yeniyeni."
+
+msgid "Immediate records access"
+msgstr "Mauthenga omwe amapezeka nthawi yomweyo"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Ogwiritsa ntchito ovomerezeka amatha kupezapo zambiri za kasitomala ndi "
+"zidziwitso zamilandu (kuphatikiza zochitika zamakono, zakale, zotseguka, "
+"zotsekedwa, ndi zodikira), kudzera pa portal imodzi."
+
+msgid "Automatic timezone conversion"
+msgstr "Kutembenuka kwa nthawi yamodzi"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Kaya mukuyenda kapena kukakhala kwina, mumakhala mukualumikizana ndi makina "
+"athu oyendetsera nthawi yathu."
+
+msgid "Track Events"
+msgstr "Tsatani Zochitika"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Konzani mwamsangamsanga misonkhano, yang&#39;anani zochitika zomwe "
+"zikubwera, ndipo muitane makasitomala ndi mamembala a gulu monga opezekapo."
+
+msgid "Video Conferencing"
+msgstr "Kukambirana Kwakanema"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Lankhulani ndi makasitomala ndi mamembala a gulu pogwiritsa ntchito mavidiyo"
+" okhudzana ndi moyo kwachinthu china chosakanikirana."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Sinthani ntchito ngati mlandu wapangidwa kapena wogwiritsa ntchito apatsidwa"
+" mlandu."
+
+msgid "Automated Alerts"
+msgstr "Zowonongeka Mwadzidzidzi"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Mukufuna kukhumba makasitomala anu Tsiku lobadwa Losangalala? Khazikitsani "
+"uthenga wokhazikika kwa makasitomala am&#39;mbuyomu komanso apano pa tsiku "
+"lawo lapadera!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Kusunga ndondomeko ya Client yatsopano"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Otsatsa angasinthe mbiri zawo ndi ndondomeko zatsopano, zithunzi, "
+"mapasipoti, ndi makonzedwe a akaunti."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Funsani Mafunso, Pezani Mayankho."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Pangani mafomu osakira ndikuwatumiza kwa makasitomala kuti amalize. "
+"Sonkhanitsani zidziwitso zofunika, perekani zowunikira, ndikupeza zofunikira"
+" zonse kuti mugwire bwino ntchito yanu!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Director of Sales of Kaini &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Pangani kasitomala kulipira molunjika momwe zingathere ndi ma invoice pa "
+"intaneti ndi malipiro."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Timakonda kuimbidwa mlandu chifukwa amalola makasitomala kuona zomwe "
+"akulipira."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Vice Prezidenti wa Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Sangalalani ndi kumasuka kwa e-kusindikiza"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Lowani pakompyuta zolemba zonse kudzera pa DocSign, pogwiritsa ntchito "
+"zikalata zomwe mwakweza ndi zosayina ndi kasitomala wapa digito."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Kwezani chikalata, cholemberani kuti chisayinidwe, ndiyeno kasitomala "
+"amalowa ndikusayina pa e-mail. Chilichonse chimachitika popanda kasitomala "
+"kubwera mnyumba yathu. Izi ndizothandiza ndi makasitomala omwe sali pafupi "
+"ndi ofesi kapena omwe amakhala kunja kwa boma."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Director of Operations of Capital Inshuwalansi"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr ""
+"Lonjezerani Zambiri Zamakono Anu. Ntchito Yopang&#39;ono, Zotsatira "
+"Zowonjezera."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Gwiritsani ntchito Pulogalamu Yodzisamalira Yodzikonda"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Gwiritsani ntchito mphamvu yanu yonse ya CaseActive kuchokera pa nsanja "
+"yokha."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Lumikizani mwakhama dongosolo lanu lomwe liripo ndi CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Phatikizani API yathu yoyendetsa kuti ipangitse milandu, kupatsa ogwiritsa "
+"ntchito, ndikupanga malipoti kutengera momwe mumayendera."
+
+msgid "Acting as a"
+msgstr "Kuchita monga"
+
+msgid "virtual administrative assistant"
+msgstr "wothandizira wothandizira"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive ikukuthandizani kuti mukhale ndi ndondomeko yosamalitsa komanso"
+" zosamalidwa, payekha"
+
+msgid "client-to-customer communications"
+msgstr "mauthenga a makasitomala kwa makasitomala"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "ndondomeko ya zochitika, ndi ndondomeko yowonongeka."
+
+msgid "Self-Serve Administration"
+msgstr "Ulamuliro Wodzikonda"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Kuchita ngati wothandizira pakuwongolera, CaseActive imakupatsani mphamvu "
+"zolemba ndi kusamalira makanema, kulumikizana kwa makasitomala ndi "
+"makasitomala, kukonza zochitika, komanso kukonza pang&#39;onopang&#39;ono."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Sinthani Makina Ogwiritsa Ntchito &amp; Zoyambitsa Nkhani"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Yang&#39;anirani kapangidwe ka akaunti yamagwiritsidwe antchito pomwe "
+"mukuloleza chilolezo chololeza pamilandu yonse. Sinthani kulengedwa "
+"kwamilandu, kupita patsogolo, ndi kutseka, ndikufotokozera zonse zomwe "
+"zachitika."
+
+msgid "View Caseactive Analytics"
+msgstr "Onani Analytical Caseactive"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Onani momwe milandu ikuyendera, kuchuluka kwa milandu kutsekeka bwino, ndipo"
+" onani nthawi zoyankhira kudzera module ya CaseActive&#39;s analytics. "
+"Chidziwitso ndi mphamvu, ndipo takupatsani zonse zomwe mungadziwe za zomwe "
+"mukufuna."
+
+msgid "Monitor User Logs"
+msgstr "Onetsetsani Mauthenga Ogwiritsa Ntchito"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Yang&#39;anani pa kasitomala ndi mamembala am&#39;magulu omwe ali mgululi "
+"ndi zochitika pa pulatifomu kuwonetsetsa kuti zochita zawo zonse ziloledwa "
+"mu magawo a milandu ndikuti mamembala onse akugwira ntchito yawo momwe "
+"amafunikira."
+
+msgid "Employ Advanced Searches"
+msgstr "Gwiritsani Ntchito Zowonjezera Zowonjezera"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Pezani zomwe mukufuna mukazifuna. Milandu yosakira ndi mayina ogwiritsa "
+"ntchito ndi kasitomala, mawu osakira, mayendedwe ake, zolemba zomwe "
+"zidakwezedwa, ndi zina zambiri!"
+
+msgid "Create Custom Fields"
+msgstr "Pangani Ma Field Custom"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Pangani malo apadera osakira makasitomala ndi mamembala a gulu, ndipo "
+"sonkhanitsani zomwe mukufuna kuchokera kwa aliyense amene akutenga nawo "
+"mbali. Pangani mawonekedwe anu kukhala osiyana ndi bizinesi yanu!"
+
+msgid "Create Custom Templates"
+msgstr "Pangani Zithunzi Zamakono"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Pangani mitundu yambiri yamitundu yosiyanasiyana ndi ma tempuleti kuti "
+"agawire ndikumaliza panthawi ndi pambuyo pa mlandu (monga kafukufuku "
+"wamakasitomala). Mtundu uliwonse womwe mungafune, mutha kupanga!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "As-You-Go Invoicing"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Tili pano kuti tithandize! Kambiranani ngati mudakali ndi mafunso ndipo "
+"tiyankhe mkati mwa masiku awiri ogwira ntchito."
+
+msgid "* Email is not valid."
+msgstr "* Imelo siilondola."
+
+msgid "Low"
+msgstr "Otsika"
+
+msgid "Medium"
+msgstr "Yapakatikati"
+
+msgid "High"
+msgstr "Pamwamba"
+
+msgid "Critical"
+msgstr "Zotsutsa"
+
+msgid "Choose Importance"
+msgstr "Sankhani Kufunika"
+
+msgid "Department"
+msgstr "Dipatimenti"
+
+msgid "Sales"
+msgstr "Zogulitsa"
+
+msgid "Other"
+msgstr "Zina"
+
+msgid "Choose Department"
+msgstr "Sankhani Dipatimenti"
+
+msgid "Loading"
+msgstr "Kutsegula"
+
+msgid "Importance"
+msgstr "Kufunika"
+
+msgid "Send A New Message"
+msgstr "Tumizani uthenga watsopano"
+
+msgid "Send message"
+msgstr "Tumizani uthenga"
+
+msgid "Answers to Questions"
+msgstr "Mayankho a Mafunso"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Kodi muli ndi mafunso alionse? Werengani zowonjezera mayankho ku mayankho "
+"athu kwa makasitomala ndikupeza mayankho anu."
+
+msgid "How secure is CaseActive?"
+msgstr "Kodi CaseActive ndi yotetezeka bwanji?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive imagwiritsa ntchito encryption yankhondo ndi banki ya 128-bit SSL"
+" potumiza deta ndi kubisa kwa 256-bit AES pa data popuma. Nthawi iliyonse ya"
+" CaseActive ili ndi kiyi yapadera yopangidwa, yomwe imakupatsirani chitetezo"
+" china pabizinesi yanu. Sitidzalola kampani ina kupeza malo anu osungirako "
+"zinthu zakale kapena makina osungira."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Ndili ndi dongosolo lomwe lilipo kale, Can CaseActive ingagwire ntchito ndi "
+"makina anga omwe alipo?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Inde, mutha kuphatikiza gawo lathu la API kapena gawo lolowetsamo kuti "
+"mupange milandu, kugawa ogwiritsa ntchito, ndikupanga malipoti kutengera "
+"zomwe mwayika pamakina anu."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Tili ndi makasitomala padziko lonse lapansi. Kodi CaseActive ikupezeka "
+"muzilankhulo zina?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Inde, pulogalamu ya CaseActive ndi kulumikizana zitha kumasuliridwa "
+"m'zilankhulo zopitilira 60, kuphatikiza, Mandarin Chinese, Spanish, Hindi "
+"ndi Russian komanso Chingerezi."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Kodi ndingawonjezere logo kapena kusintha CaseActive mwanjira ina iliyonse?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Mwamtheradi! CaseActive idapangidwa ndikuganizirani. Patsamba lokhazikitsa "
+"gulu la admin, mutha kukweza mtundu wanu ndikusankha mitundu yamakampani "
+"anu."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Kodi CaseActive imagwirizana ndi chipangizo chilichonse (PC, Mac, Tablet ndi"
+" Mobile)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive ndi pulogalamu yomvera pa intaneti. Imayendera mu msakatuli "
+"aliyense ngati Internet Explorer, Firefox, Safari kapena Chrome, etc. Izi "
+"zikutanthauza kuti mtundu wa chipangizo (PC, Mac, Tablet ndi Mobile) "
+"mukugwiritsa ntchito palibe kusiyana. Ingotsegulani msakatuli, lowani ku "
+"akaunti yanu ya CaseActive, ndipo mwakonzeka."
+
+msgid "How many clients can I have?"
+msgstr "Kodi ndingakhale ndi makasitomala angati?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Mumalipidwa pa mpando wa antchito, pamwezi. Mutha kukhala ndi ogwiritsa "
+"ntchito makasitomala opanda malire."
+
+msgid "Enhance User Experience"
+msgstr "Limbikitsani luso la ogwiritsa ntchito"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Palibe zolipiritsa zochepera komanso zolonjeza zam'tsogolo. Mumangolipira "
+"pampando wa antchito, pamwezi."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "pa Mwezi"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Zonse zomwe mukufunikira kuti muyambe. Mipando 3 ikuphatikizidwa."
+
+msgid "Business"
+msgstr "Bizinesi"
+
+msgid "Popular"
+msgstr "Zotchuka"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Dongosolo lathu lodziwika kwambiri. Mipando 4 ikuphatikizidwa."
+
+msgid "Enterprise"
+msgstr "Makampani"
+
+msgid "Contact sales for pricing"
+msgstr "Lumikizanani ndi zogulitsa zamitengo"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Mitengo Yachikhalidwe, Zapamwamba, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Contact Zogulitsa"
+
+msgid "Overview"
+msgstr "Mwachidule"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Lumikizanani ndikugawana zolemba ndi makasitomala anu"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Konzani zochitika zobwerezabwereza ndi misonkhano"
+
+msgid "Fully customize your form to generate data"
+msgstr "Sinthani mwamakonda anu fomu kuti mupange deta"
+
+msgid "Keep track of case progression"
+msgstr "Dziwani momwe nkhani ikupitira"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Funsani ma e-signature ogwirizana ndi ogwiritsa ntchito angapo"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Pangani ma invoice kuti kasitomala wanu awone kapena alipire"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Amalola aliyense kudziwa zomwe zikubwera komanso zoyenera"
+
+msgid "Auto notify the user when something is due"
+msgstr "Dziwitsani wogwiritsa ntchito nthawi ikafika"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Onjezani minda yamilandu yamilandu yanu yonse"
+
+msgid "Custom Branding"
+msgstr "Mwamakonda Branding"
+
+msgid "Make your app unique with logo and color styles"
+msgstr ""
+"Pangani pulogalamu yanu kukhala yapadera ndi logo ndi masitaelo amitundu"
+
+msgid "Access to customer support"
+msgstr "Kupeza chithandizo chamakasitomala"
+
+msgid "Storage"
+msgstr "Kusungirako"
+
+msgid "Unlimited"
+msgstr "Zopanda malire"
+
+msgid "Additional Users Seats"
+msgstr "Owonjezera Ogwiritsa Mipando"
+
+msgid "N/A"
+msgstr "N / A"
+
+msgid "$83.34"
+msgstr "$83.34"
+
+msgid "Convo with recording"
+msgstr "Convo ndi kujambula"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr ""
+"Makanema kapena macheza omvera omwe amajambulidwa amasungidwa pamlanduwo"
+
+msgid "API Access"
+msgstr "Kufikira kwa API"
+
+msgid "Automate tasks with access to API"
+msgstr "Sinthani ntchito ndi mwayi wopeza API"
+
+msgid "Module Templates"
+msgstr "Ma templates a Module"
+
+msgid "Create a standard template and reuse it"
+msgstr "Pangani chitsanzo chokhazikika ndikuchigwiritsanso ntchito"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Autorun zochita pamene mlandu kapena nkhani yomwe yaperekedwa yayambika"
+
+msgid "Newsletter"
+msgstr "Kakalata"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Tumizani uthenga wamba, wobadwa, kapena watchuthi kwa makasitomala (Ikubwera"
+" Posachedwa)"
+
+msgid "Encryption at rest"
+msgstr "Kubisa popuma"
+
+msgid "Protects your data from system compromise"
+msgstr "Imateteza deta yanu kuti isasokonezedwe ndi dongosolo"
+
+msgid "Encryption in transit"
+msgstr "Kubisa paulendo"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Imateteza deta yanu ngati mauthenga asokonezedwa"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML-based single sign-on (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Yankhani zochitika zenizeni zenizeni"
+
+msgid "Seamless Collaboration"
+msgstr "Kugwirizana Kopanda Msoko"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive imathandizira mgwirizano wa digito pakati pa kampani yanu ndi "
+"makasitomala - kuyambira kukambirana mpaka kuthetsa, zonse papulatifomu "
+"imodzi."
+
+msgid "Take a tour"
+msgstr "Yendani ulendo"
+
+msgid "Stay Connected"
+msgstr "Khalani Olumikizana"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Lumikizanani nthawi yomweyo ndi mamembala a gulu lanu pogwiritsa ntchito "
+"mawonekedwe a CaseActive monga mawonekedwe anu oyimitsa kasitomala ndi "
+"milandu."
+
+msgid "Connect"
+msgstr "Lankhulani"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Mthendayi yamakono ikukuthandizani kuti mukhale ndi makasitomala anu."
+
+msgid "Schedule"
+msgstr "Ndandanda"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Pangani zochitika, pemphani anthu omwe mumakhala nawo, ndipo yang&#39;anani "
+"kalendala yanu."
+
+msgid "Call"
+msgstr "Imbani"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Yesetsani kuwonera mavidiyo omwe akuwonetsedwa nthawi iliyonse, kulikonse."
+
+msgid "Share"
+msgstr "Gawani"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Sungani mafayilo mokwanira, kambiranani, ndi kugawa."
+
+msgid "Powerful Case Management"
+msgstr "Kupambana Kwambiri Mlanduwu"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Kugwira ntchito kwapakati pa-Box"
+
+msgid "Easily assign individuals"
+msgstr "Onetsani mosavuta anthu"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "kapena magulu kumlandu ndikugwirizanitsa ndi makasitomala."
+
+msgid "Manage user groups"
+msgstr "Sinthani magulu omasulira"
+
+msgid "and customize access permissions."
+msgstr "ndipo mukondweretse zilolezo zopezeka."
+
+msgid "All data is automatically backed up"
+msgstr "Deta yonse imathandizidwa mozengereza"
+
+msgid "in case a recovery is ever needed."
+msgstr "ngati chidziwitso chikufunika."
+
+msgid "All information"
+msgstr "Zonse zokhudza"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "ali ndi chitetezo cholimba, kuonetsetsa kuti mulibe chinsinsi."
+
+msgid "Customize"
+msgstr "Sinthani"
+
+msgid "with your own colors and logo."
+msgstr "ndi maonekedwe anu ndi logo."
+
+msgid "can be enabled/disabled at any time."
+msgstr "akhoza kuwonetsedwa / kulephera nthawi iliyonse."
+
+msgid "Benefits of "
+msgstr "Ubwino wa"
+
+msgid "Reduction in time "
+msgstr "Kuchepetsa nthawi"
+
+msgid "to intake new clients"
+msgstr "kulandira makasitomala atsopano"
+
+msgid "Minimize "
+msgstr "Chepetsani"
+
+msgid "the chance of "
+msgstr "mwayi wa"
+
+msgid "malpractice"
+msgstr "kusachita bwino"
+
+msgid "Better experience "
+msgstr "Zinachitikira bwino"
+
+msgid "for your client"
+msgstr "kwa kasitomala wanu"
+
+msgid "Increase in caseload capacity "
+msgstr "Kuchulukitsa kuchuluka kwa ma caseload"
+
+msgid "per staff"
+msgstr "pa ndodo"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Yambani ndi Mapulogalamu Omwe Anakhazikitsa"
+
+msgid "All you need in one place."
+msgstr "Zonse zomwe mukuzifuna pamalo amodzi."
+
+msgid "Case Feed"
+msgstr "Mtsinje wa Mlanduwu"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Gawani kasitomala, antchito, ndi othandizira nawo pamilandu ndikuchita nawo "
+"malo otetezeka omwe amakupatsani mwayi wopititsa patsogolo zochitika, "
+"khalani ndi zokambirana zenizeni ndi makanema, komanso zochitika "
+"zamndandanda, makalata a e-sign / upload / kutsitsa, ndi zochulukirapo."
+
+msgid "Case Invoices"
+msgstr "Ma Invoice a Case"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Pogwiritsa ntchito invoicing, kusamalira kwamakasitomala ndikungodina "
+"kolola, ndipo timakulolani kuti mutumize zofunsira thumba zokhazikitsidwa "
+"ndikulandila ndalama mwachindunji."
+
+msgid "Case Events"
+msgstr "Zochitika Zake"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Sungani kalendala yanu nthawi zonse, kukonza zochitika, kuitanira anthu "
+"opezekapo, kutumizira zikumbutso, ndikuwonetsetsa kuti zonse zatsatidwa."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Kumanani ndi makasitomala ndi mamembala a gulu lanu &#39;pamaso pawo ndi "
+"nkhope&#39; kudzera pamisonkhano yolumikizidwa muvidiyo kuti mutha "
+"kulankhula mwachindunji ndi aliyense amene akutenga nawo mbali."
+
+msgid "Case Forms & E-signs"
+msgstr "Mafomu a Nkhani & Zizindikiro za E"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Sinthani bwino fomu yanu kuti ipange ma tempulesi apadera omwe amakwaniritsa"
+" zosowa zanu. Mapempherowa atha kutumizidwa kwa makasitomala ndi mamembala a"
+" gulu kuti adzaze ndikusayina"
+
+msgid "Case notes"
+msgstr "Ndemanga zamilandu"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Sungani zolemba ndi minda yokhazikika ndi zomata pakukula kwa milandu kwa "
+"mamembala apano ndi amtsogolo"
+
+msgid "Case Media"
+msgstr "Nkhani Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Kwezani, gawani, perekani ndemanga, ndi kukopera mafayilo okhudzana ndi "
+"mlanduwu kuti aliyense azifotokoza zonse zofunika, anthu, ndi zochitika."
+
+msgid "About Case"
+msgstr "Pa Nkhani"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Ololera makasitomala ndi antchito awone zambiri pazomwe akhudzidwazo. Mutha "
+"kutseka mlanduwo akangomaliza, kapena kupatsa chilolezo cha membala kuti "
+"achite."
+
+msgid "Plus Many More Features"
+msgstr "Zambiri Zambiri"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr "Gwiritsani ntchito gawo la Kudzilamulira nokha."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Gwirizanitsani ndi pulogalamu yanu yomwe mulipo ndi CaseActive Phatikizani "
+"API yathu yopanga kuti mupangitse milandu, kupatsa ogwiritsa ntchito, "
+"ndikupereka malipoti kutengera momwe makina anu amathandizira."
+
+msgid "Multi-Language Enabled:"
+msgstr "Zinenero Zambiri Zimalimbikitsa:"
+
+msgid "Interact with clients in"
+msgstr "Gwirizanitsani ndi makasitomala"
+
+msgid "70+ languages"
+msgstr "Zinenero 70+"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Kaya mukugwira ntchito kwanu kapena padziko lonse lapansi, mukhoza "
+"kumasulira chinenero cha odwala kudzera CaseActive&#39;s"
+
+msgid "language management system"
+msgstr "dongosolo la kayendetsedwe ka chinenero"
+
+msgid "No more confusion or limits."
+msgstr "Sipadzakhalanso chisokonezo kapena malire."
+
+msgid "Let's see what others are saying"
+msgstr "Tiyeni tiwone zomwe ena akunena"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Dziwani momwe makasitomala athu odabwitsa - kuchokera kumabizinesi "
+"ang&#39;onoang&#39;ono kupita m&#39;mabizinesi amakampani - adakulitsa mwayi"
+" wopikisana nawo ndikukhala gulu lankhondo la CaseActive."
+
+msgid "SUPPORT"
+msgstr "THANDIZANI"
+
+msgid "Everything at Your Fingertips."
+msgstr "Chilichonse pazako Zako."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Yambani ndi pulogalamu yanu ya CaseActive mwa kutsatira ndondomeko yathu ya "
+"vidiyo, ndipo yesetsani kuti mugwirizane ndi zosowa zanu."
+
+msgid "What are you looking for..."
+msgstr "Mukuyang&#39;ana chiyani..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Idasinthidwa Komaliza: Juni 7, 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive imasunga ufulu, nthawi iliyonse komanso mwakufuna kwawo, kuti "
+"asinthe ndi kusintha chilichonse mwa Zonsezi Zogwira Ntchito. CaseAational "
+"ikasintha Izi ndi Ntchito, CaseActive isintha tsiku la &#39;Kusintha "
+"Kwotsiriza&#39; pamwambapa. Muli ndi udindo wowunika pafupipafupi mtundu wa "
+"Service. Kupitiliza kwanu kwa Services pambuyo pakusintha koteroko "
+"kudzapanga chivomerezo chanu kuti chikugwirizana ndi kusintha koteroko. "
+"Ngati mukukana kusintha kulikonse pa Migwirizano ya Ntchitoyi, chithandizo "
+"chokha komanso chokhacho chikhala ndikuchotsa mautumiki malinga ndi mawu "
+"omwe ali pano."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Malingaliro Awa General amagwira ntchito ku ma Services onse. Mawu ena "
+"owonjezera omwe amagwiritsidwa ntchito mu Utumiki uliwonse omwe akuperekedwa"
+" amalembedwa pamalumikizidwe omwe aperekedwa pansipa (&#39;Maumwini Ena "
+"Ogwiritsira Ntchito&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Ntchito:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Pulogalamu yathu yoyendetsa ndi nsanja yomwe timathandizira makasitomala "
+"athu kuti athe kupereka chithandizo chotsimikizidwa pansipa. Kuti mulembetse"
+" Utumiki, muyenera kupereka Fomu ya Adilesi ya Utumikiwo ndi / kapena "
+"kutsiriza kulemba-kutumizira mu Utumikiwo. Mukuyenereradi kugwiritsa ntchito"
+" Services omwe mudawalembetsa ndikulipira, ndipo kugwiritsa ntchito kwako "
+"mautumiziko kukukwaniritsa malinga ndi zigwirizano zonse ndi mgwirizanowu. "
+"Mukuvomereza ndikuvomereza kuti tili ndi ufulu wokusintha ma Services "
+"(kapena gawo lililonse) nthawi ndi nthawi ndipo sitidzakhala ndi mlandu kwa "
+"inu kapena kwa gulu lina lililonse pakusintha kwina kulikonse ku Services."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Kufotokozera kwa CaseActive Service: CaseActive Service ndiye malo omwe "
+"mapulogalamu a pulogalamu yolumikizana kwa kasitomala operekedwa pa intaneti"
+" operekedwa ndi CaseActive LLC. Mtundu wa sign-up womwe mwavomera, kapena "
+"Fomu Yomwe mudatipatsa, umazindikiritsa CaseActive Service yomwe "
+"mudawalembetsa, gawo lolembetsa ndi ndalama zomwe mumalipira ndi CaseActive "
+"Service. Zowonjezera ndi zofunikira zogwiritsidwa ntchito pakugwiritsa "
+"ntchito CaseActive Service zalembedwa:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Kuwonjezera Ntchito:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Mutha kulembetsa ku Ntchito Zina zilizonse, kuphatikiza Services yatsopano "
+"monga momwe zingapangidwire ndi CaseActive nthawi ndi nthawi, kapena "
+"kuwonjezera zomwe mwakhala mukuchita polemba Fomu Yotsimikizika kapena "
+"kutsitsa, monga gawo la Ntchito. Kutuluka kwatsopano kulikonse kapena Fomu "
+"ya Order ikuphatikiza mtengo ndi madeti ()) a Services omwe akuwonjezedwa "
+"panthawiyo. Mautumiki onse atsopano ali m&#39;manja mwa General Terms of "
+"Service ndi mfundo zina zowonjezera zomwe zingagwire ntchito makamaka ku "
+"Mautumiki ena owonjezera."
+
+msgid "3. Customer Support:"
+msgstr "3. Thandizo la kasitomala:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Pokhapokha mutalipira ndalama zonse zomwe mungalandire pa Services, "
+"tikugwiritsa ntchito njira zoyenera kutsatsa, kwaulere kwa inu, chithandizo "
+"chothandizira kwa inu ndi ogwiritsa ntchito anu omwe adavomereza omwe "
+"adalembetsa ku Services. Woimira chithandizo chamakasitomala adzapatsidwa "
+"milandu yanu. Milandu yopanda malire imalandiridwa kuchokera kwa ogwiritsa "
+"ntchito ovomerezeka. Thandizo lathu labwino likupezeka 24/7, kupatula "
+"maholide akuluakulu, omwe akuphatikizapo Tsiku la Chikumbutso, Tsiku la "
+"Kudziyimira pawokha, Tsiku la Ogwira Ntchito, Thanksgiving, Khrisimasi, ndi "
+"Tsiku la Chaka Chatsopano. Mutha kulumikizana ndi chithandizo "
+"chamakasitomala pogwiritsa ntchito athu"
+
+msgid "Contact Form"
+msgstr "Fomu Yothandizira"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ""
+". Nthawi yankho lathu sichikhala chachikulu kuposa masiku awiri ogwira "
+"ntchito."
+
+msgid "4. Training:"
+msgstr "4. Maphunziro:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Pokhapokha mutalipira ndalama zonse zomwe mungalandire pa Services, "
+"tidzakupatsani maphunziro akudziko, amoyo kapena ojambulira kwa omwe "
+"mudawasankha, omwe adawatipatsa mayina olembetsedwa komanso "
+"tidzakuphunzitsani zomwe zimapezeka kudzera pa gawo la Thandizo ndi "
+"Maphunziro a tsamba lathu pa palibe mtengo wowonjezera. Kwa mautumiki ena "
+"timapereka maphunziro pa intaneti pakufunsira komanso kulipiranso. Chonde "
+"titumizireni pogwiritsa ntchito zathu"
+
+msgid "for more information about on-site training."
+msgstr "kuti mumve zambiri za kuphunzira pa intaneti."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Ufulu Wanu ndi Zitetezo:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 License: Kutengera magawo a Mgwirizanowu, komanso pakulipira koyenera "
+"kwa ndalama zonse zomwe zikulembedwera mu Fomu ya Order kapena kutuluka kwa "
+"siginecha, tikupatsani ufulu wopanda, wosasamutsidwa, wopanda malire komanso"
+" chiphaso chogwiritsira ntchito (ndikulola ogwiritsa ntchito anu "
+"kuvomerezedwa kuti azigwiritsa ntchito) ntchito zomwe mudawalembetsa, "
+"kungogwiritsa ntchito bizinesi yanu yamkati."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Ogwiritsa Ntchito Ovomerezeka: Inu (i) mumayang&#39;anira ogwiritsa "
+"ntchito chilolezo mogwirizana ndi Mgwirizanowu, ndipo (ii) adzagwiritsa "
+"ntchito zoyeserera zamalonda poletsa mwayi wosagwiritsidwa ntchito kapena "
+"kugwiritsa ntchito maofesiwa ndipo mutidziwitsa nthawi yomweyo kuti mwapeza "
+"mwayi wosagwirizana kapena gwiritsani ntchito. Ndiudindo wanu kuchotsa "
+"zopezeka ku Services ngati udindo waogwiritsa ntchito kapena wosankhidwa "
+"wasintha."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Maudindo Anu ndi Zoletsa: Muli ndi udindo pazinthu zonse zomwe "
+"zimachitika pansi pa akaunti yanu ya ogwiritsa ntchito kapena omwe "
+"mumawagwiritsa ntchito. Muyenera: (i) kukhala ndi udindo wokhazikika, "
+"wodalirika, wowona mtima, wodalirika komanso wowona bwino wa zonse zomwe "
+"mungapereke ku Services; (ii) gwiritsani ntchito zoyeserera zotsatsa kuti "
+"tipewe kuwongolera kosavomerezeka kapena kusokoneza kapena kusapeza ntchito "
+"kwina kosavomerezeka, kapena kugwiritsa ntchito, Services ndikutiwuza "
+"mwachangu za kugwiritsidwa ntchito kosavomerezeka kapena kuphwanya "
+"chitetezo; (iii) kutsatira malamulo onse ogwira ntchito mdera, boma, feduro "
+"ndi akunja (kuphatikiza malamulo okhudzana ndi chinsinsi komanso kuteteza "
+"chidziwitso cha munthu kapena chogwiritsa ntchito) pakugwiritsa ntchito "
+"Services; (iv) malinga ndi momwe angagwiritsire, kutsatira malamulo onse "
+"ogwirira makhadi a ngongole (kuphatikiza American Express, MasterCard ndi "
+"Visa); ndipo (v) pezani ndi kusamalira makompyuta onse, mapulogalamu ndi "
+"zida zamagetsi zofunika kugwiritsa ntchito mauthengawo, ndi kulipira ndalama"
+" zonse zolipirira (mwachitsanzo ndalama za ISP) zomwe mumachita poyambira "
+"kugwiritsa ntchito kwanu mautumiki."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Simungatero, ndipo mudzawonetsetsa kuti ogwiritsa ntchito anuwo salembetsa, "
+"(i) kusokoneza, kusinthitsa injiniya, kuwola kapena kuyesa kuwongolera "
+"kachidindo kalikonse kogwirizana ndi Services, kapena kusintha, kusintha, "
+"kupanga ntchito zochokera, kapena kumasulira Ntchito; (ii) layisensi, "
+"magawo, kugulitsa, kubwereketsa, kugawa, kugawa, kusinthitsa nthawi, "
+"kubwereketsa, kubwereketsa ndalama, kugulitsa phindu, kugawa kapena "
+"kugwiritsa ntchito zina mwanjira yamalonda, kupatsa ufulu kapena kupangitsa "
+"kuti Services lipezeke ndi wina aliyense; (iii) Gwiritsani ntchito ntchitozi"
+" kupatula ngati zili zovomerezeka pokhapokha kapena kuphwanya malamulo "
+"alionse; (iv) kuchita nawo malonda osaloledwa kapena achinyengo pankhani ya "
+"Services; (v) kusuntha kapena kuletsa chitetezo chilichonse kapena zinthu "
+"zina zaukadaulo kapena miyeso ina ya Pulogalamuyi kapena, mwanjira iliyonse,"
+" kuyesa kupeza kapena kupeza mwayi wosagwirizana ndi Services kapena makina "
+"amakompyuta kapena maukonde ena; (vi) gwiritsani ntchito Services kufalitsa "
+"zakuphwanya, zaulere, zonyansa, zowopseza kapena zosavomerezeka, zosavulaza,"
+" zankhanza, zankhanza kapena zowopsa, kapena kusunga kapena kufalitsa zinthu"
+" zosemphana ndi ufulu wachinsinsi wa gulu lachitatu; . ; kapena."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Kusungidwa Kwa Ufulu: Palibe maufulu ena omwe amaperekedwa kupatula "
+"monga afotokozedwera mu Panganoli. Panganoli siwogulitsa ndipo silipereka "
+"ufulu uliwonse kapena umwini, kapena kwa Services kapena mapulogalamu ena "
+"aliwonse. Tili ndi maufulu onse, mutu, komanso chidwi, kuphatikiza "
+"maukadaulo aluntha, ku Services ndi mapulogalamu apansi ndi zosintha "
+"zilizonse, zosintha, kusintha, kusintha, kukonza kapena ntchito zina, "
+"komanso lingaliro lililonse, mukudziwa motani, ndi mapulogalamu omwe "
+"adapangidwa ndi ife kapena amalayisensi panthawi yomwe ntchito zikugwira "
+"ntchito."
+
+msgid "6. Term and Termination:"
+msgstr "6. Nthawi ndi Kutha:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Nthawi: Nthawi ya Mautumikiwa imasiyanasiyana kutengera ndi Ntchito "
+"yomwe mudawalembetsa ndipo idzakhazikitsidwa pa Fomu Yovomerezeka kapena "
+"yomwe mwavomerezana pakusayina kosayina ndipo idzakonzanso motere:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Nthawi Yokhala ndi Ntchito Yoyang&#39;anira CaseA: Kulembetsa ku "
+"CaseAational Service kudzangokhala kotheka kwa mwezi umodzi kapena umodzi "
+"chaka chimodzi, monga momwe zalembedwera pa Fomu ya Order kapena kutuluka "
+"kwa signature, pokhapokha titasiya ntchito yomwe mwatidziwitsa kusasinthanso"
+" masiku osachepera makumi atatu (30) lisanathe ntchito nthawi yatsopanoyo."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Mtengo wa Webusayiti wa CaseActive: Kulembetsa kwanu ku webusayiti ya "
+"CaseActive kudzangopanga zokha mwezi umodzi kapena chaka chimodzi, monga "
+"momwe zalembedwera pa Fomu ya Order kapena kutuluka kwa signature pokhapokha"
+" titasiya ntchito kapena mutatipatsa. ndi chizindikiritso cha kusakonza "
+"masiku osachepera makumi atatu (30) lisanathe ntchito nthawi yatsopanoyo."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Chidziwitso cholembedwa chosasinthika ndi inu muyenera kuperekedwa ku "
+"CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Kuchotsa: Chipani chilichonse chitha kuthetsa Panganoli ndi zonse zomwe "
+"Adalemba (i) ngati chipani chinacho chikuphwanya chilichonse chomwe "
+"chasungidwa mgwirizanowu ndipo kuphwanya kumeneku sikuchiritsidwa masiku 30 "
+"(30) atalandira chilolezo kuchokera osaphwanya maphwando, kapena (ii) ngati "
+"mnzakeyo wasungunuka kapena kusungunuka, kuchotsedwa kapena kusungunuka, "
+"kapena kusiyiratu konse bizinesi yake. Titha kuthetsa Mgwirizanowu nthawi "
+"yomweyo ngati kuphwanya Gawo 5.3 pamwambapa. Mukamaliza Mgwirizanowu, "
+"mudzasiya kugwiritsa ntchito Mapulogalamu onse, kusiya kuimira mtundu "
+"uliwonse kuti ndiogwiritsa ntchito Services, ndikuwonongerani chinsinsi "
+"chathu chonse chomwe muli nacho. Palibe aliyense amene adzakhale ndi mlandu "
+"chifukwa cha kuchotsedwa kwa Panganolo kapena zolembetsa zilizonse ku "
+"Services monga zaperekedwa apa; zoperekedwa, komabe, kuti kutha kwa "
+"Mgwirizanowu sikungakhudze zonena zilizonse zisanachitike."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Kusamalira Chidziwitso Chanu Pakachitika Ntchito: Mukuvomereza "
+"ndikuvomereza kuti kutsatira kuchotsedwa kwa ntchito yanu kapena kutha "
+"ntchito kwanu, titha kusintha ntchito zomwe takhudzidwazi ndikuti, tikatsata"
+" nthawi yosakwana makumi asanu ndi anayi (90) ) masiku, amatha kufufuta "
+"akaunti yanu ndi zambiri. Komabe, ngati Services yathu yathetsedwa ndi ife, "
+"tikukupatsani mwayi wosakhalitsa, wosakwanira masiku makumi atatu (30), "
+"pachifukwa chokhacho chololeza kuti mupeze zambiri zanu, mukapatsidwa, kuti "
+"mudalipira zonse zabwino zopanda maziko zathu. Mukuvomerezanso kuti "
+"sitidzakhala ndi mlandu uliwonse kwa inu kapena gulu lililonse lachitatu "
+"chifukwa chakuchotsa kwanu kupita ku ma Services kapena kuchotsa zomwe "
+"mwasankha, malinga ngati tikutsatira mfundo za Gawo 6.3."
+
+msgid "7. Fees:"
+msgstr "Malipiro:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Ndalama Zoyendetsera Ntchito: Muyenera kulipira ndalama zomwe "
+"sizikubwezerani ndalama ku Services mu kuchuluka komwe kwatsimikizika "
+"pakusayina kapena fomu ya Order (&#39;Maofesi a Maofesi&#39;) malinga ndi "
+"kuchuluka kwa ndalama zomwe zanenedwa potumiza kapena Order Fomu. Ndalama "
+"Zoyang&#39;anira ziyenera kulipira ndikuyenera kulipidwa pa tsiku la "
+"chindapusa. Ndalama Zoyang&#39;anira zitha kukwezedwa kutengera zolipirira "
+"zomwe tili nazo panthawiyo. Ndalama Zoyang&#39;anira sizibweza ngongole "
+"ngakhale mutathetsa ngongole yanu kale."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Ndalama Zowonjezera: Mukhoza kubweza ngongole zina zomwe sizikubweza "
+"kapena ndalama zogwiritsidwa ntchito ndi Mautumiki kuwonjezera pa ndalama "
+"zomwe zafotokozedwa mu Fomu ya Order ndi / kapena kutuluka. Ndalama "
+"zowonjezera zomwe sizibwerengedwa ndi zolipiritsa zimayikidwa mu mawu "
+"owonjezera a Service omwe akugwira ntchito."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Malipiro Ochedwa: Mukuvomereza kuti kulephera kwanu kulipira ndalama "
+"zilizonse kapena ndalama zomwe zikuyenera kubwezeretsedwa zimatha "
+"kuimitsidwa kapena kuimitsidwa kwa zolemba zanu za CaseActive. Ngati "
+"mukulephera kulipira ndalama zilizonse zomwe zanenedwa pansipa, CaseActive "
+"imasunga ufulu wothandizila kusonkhetsa ndalama ndi ndalama zonse ndipo "
+"mutha kulipira ndalama zonse zomwe zatulutsidwa ndi CaseActive pankhani "
+"yotolera ndalama zomwe zafunidwa kale, kuphatikiza , popanda malire, "
+"othandizira ovomerezeka &#39;ndi ndalama za mabungwe osonkhetsa ndalama "
+"pamodzi ndi chiwongola dzanja chofanana ndi chocheperako 1.0% pamwezi kapena"
+" mulingo wokwera wololedwa ndi lamulo logwira ntchito."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Misonkho: Muyenera kuyang&#39;anira misonkho yonse yogulitsa, kugwiritsa"
+" ntchito msonkho, kupereka misonkho yofunikira, kusakhomera misonkho ndi "
+"misonkho ina iliyonse yofanana ndi ndalama zoperekedwa ndi boma, maboma "
+"kapena maboma aboma wamba pazinthu zomwe zikugwirizana ndi Panganoli. "
+"Tikakhala ndi udindo wololera kulipira kapena kusonkhetsa msonkho womwe "
+"mudayang&#39;anira, malinga ndi Gawoli, ndalama zoyenera zizilandilidwa "
+"ndikulipidwa ndi inu pokhapokha mutatipatsa chiphaso chokhomera msonkho "
+"chovomerezeka ndi woyang&#39;anira msonkho woyenera."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Maimidwe ndi Zovomerezeka:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Zoyimira Pamodzi ndi Zovomerezeka: Chipani chilichonse chikuyimira ndi "
+"kuloleza chipani china kuti (i) chili ndi ufulu wonse kulowa ndikuchita "
+"zomwe zili pansi pa Panganoli popanda chilolezo cha wina aliyense kapena "
+"kuphwanya mgwirizano uliwonse kapena mgwirizano ndi Munthu aliyense "
+"wachitatu, (ii) anthu onse omwe akuchita zonse zomwe zalembedwa pamwambapa "
+"alowa mu mapangano onse kuti athe kutsatira malamulo ndi mgwirizanowu, (iii)"
+" ayenera kutsatira zonse zofunikira ndi malamulo onse ogwira ntchito "
+"ntchito."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Zowonjezera ndi Ma warranties: Muyenera kutiyimira, mudzatifotokozera "
+"kuti mugwiritsa ntchito mautumizowo pokhapokha movomerezeka mogwirizana ndi "
+"Mgwirizanowu ndi mfundo zonse zomwe mungagwiritse ntchito poyang&#39;anira "
+"CaseActive ndi malangizo."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Chodzikanira pa Warranties: CHOLINGA CHOKHALA KWA OGWIRITSA NTCHITO MU "
+"GAWO 8, KUSA KWA MALIMU OTULUKILA MALO OGWIRITSITSA NTCHITO, SITIPATSANSO "
+"ZINTHAZO ZINA, KUPEMBEDZA, KUGWIRITSA NTCHITO KAPENA KULINGA KWA DZIKO "
+"LAPANSI KULINGA KWA DZIKO ZOLEMEKEZA, NGAKHALE NDI CHINSINSI CONSE, "
+"Chophatikiza ndi iwo omwe ali ndi vuto, SATISFACTORY QUALITY, TITLE, "
+"PAKUKHUDZANI NDI CHOLINGA CHABWINO, KAPENA KULETSEDWA KWAULERE. SITIMAFUNA "
+"KUTI SOFTWARE KAPENA ATSOGOLO ADZAKHALA NDI ZINSE ZOFUNA ZAKU, POPHUNZITSIRA"
+" ZOFUNIKIRA, POPEZA KUTI KUGWIRITSITSA NTCHITO KAPENA NTCHITO ZONSE KWAULERE"
+" KWAULERE. OGWIRA NTCHITO NDI NTCHITO ZAPEREKEDWA KWA INU PAKUTI &#39;PAKUTI"
+" ALI BASIS &quot;KOMANSO KUGWIRITSA NTCHITO KWA INU NDI NTCHITO KUTI "
+"MUYANG&#39;ANE, POPHUNZITSIRA, POPANDA KUKHALA NDI MALAMULO ENA. MALO AMODZI"
+" AMADZIWA BWINO KUTI WOPHUNZITSIRA WOSAVUTA ALIYENSE GAWO LOPANDA "
+"CHIVUMBULUTSO."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"TIMAFUNA ZINSINSI ZONSE KAPENA ZAKAONSE KUTI KUGWIRITSA NTCHITO KWA NTCHITO "
+"KUKHALA OKHUDZA NDIPONSO KUGWIRITSIRA NTCHITO BWINO MALAMULO ALIYENSE KAPENA"
+" MALAMULO KAPENA MALAMULO. DINSINSI IZI LOFUNA KUTI ASI SAKULAMULIRE PA "
+"ZINSINSI ZONSE ZOPHUNZITSIRA KAPENA ZINSINSI ZOMWE ZINGAKUTHANDIreni. INUYO "
+"MUYESA BWINO KWAMBIRI KUTI MUTHANDIZA KUTI KUGWIRA NTCHITO KOTHANDIZA "
+"KULIMBIKITSE NDI LAMULO LOTHANDIZA."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"NGATI MUKUDZIWANSO NDI MISONKHANO KAPA KUGWIRITSA NTCHITO ENA, KUKHUMUDWA "
+"KWENU NDI KUSINTHA KWAULERE KUTI MUZINTHA KUGWIRA NTCHITO."
+
+msgid "9. Confidential Information:"
+msgstr "9. Zoseri:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Pokhapokha mutavomerezedwa ndi gulu linalo, palibe amene angafotokozere "
+"munthu wina aliyense zofunikira zilizonse zomwe zimaperekedwa ndi gulu "
+"linalo pansi pa Panganoli ndipo zimamveka zachinsinsi (&#39;Chidziwitso "
+"Chachinsinsi&#39;), kapena kugwiritsa ntchito Chidziwitso Chachinsinsi "
+"mwanjira iliyonse. kuposa kuchita zomwe zili pansi pa Panganolo. Zomwe "
+"tatchulazi sizikugwira ntchito pazomwe zili pagulu kapena kale pagululi, "
+"zomwe zinali zodziwika bwino kwa omwe adalandira chipani chachitatu kapena "
+"zomwe zimadziwika ndi omwe ali mgulu lachitatu kuchokera pachipani "
+"chachitatu Ufulu wololeza zidziwitsozo, kapena Chinsinsi Chachinsinsi kuti "
+"amene alandiridwayo akukakamizidwa kupereka malinga ndi khothi lamilandu "
+"yoyenera kapena chidziwitso chovomerezeka, kupatsa wolandirayo mwayi "
+"wopereka chiphaso dongosolo kapena subpoena. Kuphatikiza apo, muwonetsetsa "
+"kuti ogwiritsa ntchito anuwo azikhulupirira mapasiwedi onse ndi zidziwitso "
+"zina ku Services. Gawoli 9 lidzapulumuka kuchotsedwa kwa Panganoli."
+
+msgid "10. Indemnification:"
+msgstr "10. Kudziletsa:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Chizindikiro cha Kuphonya: Kutengera Gawo 10.4, ife, mwakuwononga "
+"kwathu, tidzakutchinjirani kumbali iliyonse yachitatu yomwe ikunenezani "
+"yomwe ikunenetsa kuti Services ikuphwanya lamulo lililonse ku US lomwe "
+"laperekedwa ku chipani chachitatu kuyambira pa Tsiku Lofunika; kapena "
+"kuphwanya lamulo lililonse laumwini, chizindikiro kapena chinsinsi cha "
+"munthu wina aliyense (zonse zimatchedwa &#39;Intellectual Property Undering "
+"the Services&#39;). Pakakhala kuti lamulo likapezedwa kapena kupezeka kuti "
+"siligwiritsidwa ntchito pogwiritsa ntchito Intellienti Property Under the "
+"Services kapena lingaliro lathu lingagwiritsidwe ntchito kapena kupezedwa, "
+"malinga ndi zomwe tingafune komanso ndalama, (i) tipeze inu ndi dzina lanu "
+"ogwiritsa ntchito chilolezo ufulu wopitiliza kugwiritsa ntchito Services, "
+"kapena (ii) m&#39;malo kapena kusinthira ma Services kuti agwiritse ntchito "
+"osaphwanya pomwe akuchita ntchito yomweyo. Mugawo (i) ndi (ii) pamwambapa "
+"sizingagulitsidwe, titha kuthetsa ntchito ndi kubweza ngongole zilizonse, "
+"koma zolipirira ntchito zomwe sizinagwiritsidwe ntchito. Sitingakakamizidwe "
+"kuteteza kapena kukhala ndi chindapusa pa zowonongedwa zilizonse kapena "
+"zowonongeka pansi pa Gawoli 10.1 ngati cholakwacho chikuchokera kapena "
+"mwanjira iliyonse chikuyenera (i) kusinthidwa kwina kulikonse kwa ntchito "
+"zanu ndi inu (kapena aliyense wa amene wavomerezedwa kapena ogwiritsa "
+"ntchito osankhidwa) kapena (ii) Kugwiritsa ntchito Mapulogalamu "
+"osakanikirana ndi mautumiki ndi zinthu zomwe sizinaperekedwe ndi CaseActive "
+"ngati kuphwanya kumeneku kukadapewedwa popanda kusinthidwa kapena "
+"kusakanikirana, kapena (iii) kutsatira malingaliro anu kapena malangizo "
+"kapena (iv) zonena kuti silinena mwatsatanetsatane kuti Services ndi zomwe "
+"zafunsidwa (chilichonse ndi &#39;Chopulumutsidwa&#39;). Zoyenera "
+"kukwaniritsidwa zomwe zili mu Gawoli 10.1 sizipulumuka kuchotsedwa kwa "
+"Panganoli."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Chidziwitso cha Kutetezedwa Kwachidziwitso ndi Chinsinsi: Kutengera "
+"Gawo 10.4, ndipo pakumaliza kulembetsa ku Services, tidzakutumizirani mlandu"
+" uliwonse wachitatu womwe wabwera motsutsana nanu womwe ukutsutsa kusasamala"
+" kwathu popewa kulowa kosavomerezeka Ku, kapena kusachita mwadala "
+"kuvumbulutsa, Zomwe Tikudziwitse Zosadziwika za makasitomala athu zomwe tili"
+" nazo kapena zomwe tikufuna. Ulemu uwu sudzagwira ntchito pamlingo womwe "
+"kudandaula kumeneku kukuchokera kapena kukugwirizana ndi kusasamala kwanu "
+"kapena kusachita mwadala kapena kwa othandizira kapena oyimira, kapena mpaka"
+" ngongoleyo itakanidwa kapena kufooketsedwa ndi chipani chilichonse Pansi pa"
+" Panganoli. Zoyipa zoyipa zomwe zafotokozedwa m&#39;ndimeyi ndikutsimikizira"
+" kwathu kunyalanyaza kwakukulu kapena kusachita mwadala kwachita mwachangu "
+"komanso zatsimikiza kuti izi sizowona zomwe makasitomala anu ali nazo kapena"
+" zomwe tikuzilamulira."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Chiwonetsero Chanu: Mukuvomera kutipulumutsa, kukhala opanda vuto, "
+"komanso kutiteteza ife ndi antchito athu onse, maofisala, oyang&#39;anira "
+"ndi otithandizira pa chilichonse chomwe mungafunse, zofuna zanu, milandu, "
+"kufufuzidwa, kuwonongeka, mtengo, zolipirira, zotayika, ndi zina zilizonse "
+"Ngongole (kuphatikiza ndalama za loyeretsa zoyenera, ndalama zowonongedwa "
+"ndi makhothi) zotuluka kapena zokhudzana ndi (i) kugwiritsa ntchito kwanu "
+"ntchito mwaphwanya Mgwirizanowu, (ii) Chuma Choperekedwa, (iii) kuphwanya "
+"kwanu kwenikweni mwa zoyimira zilizonse, chitsimikiziro, pangano kapena "
+"udindo pansi pa Panganolo, kapena (iv) kunyalanyaza kwanu kwambiri kapena "
+"kusachita mwadala. Zoyimbira zanu pansi pa Gawo 10.3 zidzapulumuka pakutha "
+"kwa pangano lililonse."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Chidziwitso ndi Mgwirizano: Zomwe zimapangitsa kuti chipani "
+"cholumikizidwa ku gawo lomwe lili pansi pa Gawo 10 pamwambapa (i) chipani "
+"cholumikizidwa chidziwitse chipani cholamula mwachangu, podziwa chilichonse "
+"chomwe chingafunike, chomwe chingavomerezeredwe pansi pa Pangano ; (ii) "
+"malinga ndi momwe zikugwirira ntchito, osadukitsanso maphwando omwe asiya "
+"kugwiritsa ntchito ntchito zomwe zikunenedwa kuti zikuphwanya atalandira "
+"chidziwitso chomwecho; . (iv) chipani cholowetsedwa chomwe chikuthandiza "
+"osalipira chipani, pakukweza ndalama za chipani, podziteteza; . komanso (vi)"
+" chipani cholumikizidwa chikugwirizana ndi kukhazikika kulikonse kapena "
+"khothi lomwe lapangidwa mogwirizana ndi zomwe zanenedwa (zokhudzana ndi "
+"kugwiritsidwa ntchito kwazinthu zilizonse zophwanya lamulo). Chipani "
+"chololedwachi chikhonza kutenga nawo mbali pakuteteza kapena kukhazikitsa "
+"zomwe akufuna mwaulesi wake komanso mwakuwononga kwake."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Chithandizo Chapadera: Gawoli 10 likunena za chinyengo chomwe chipani "
+"chikusokonekera, ndi chipani chomwe chatsutsidwa, chipani chinacho pa "
+"lingaliro lirilonse lofotokozedwa mu gawo lino."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Kulepheretsa udindo:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"MUZINTHA KUTI MUKHALA NDI MALO OGULITSIRA PAKUKHUDZANI NDI KULUMA KWA GAWO "
+"5.3 KAPENA 12, KULI KUTI MALO AMAKHALA OTULUKA NDI LAMULO, PALIBE MALO "
+"OGULITSIRA A OKHA OKHA OKHA POPANDA CHIPANGANO CHAKUKHUDZITSIRA CHIPANGANO "
+"INU MWA NTCHITO YOPEREKA KUKHALA YOPHUNZITSIRA CHIYEMBEKEZO CHAKA "
+"CHOYEMBEDZA CHIYEMBEKEZO CHAKUKONZANSO CHIYANI CHOKHALA PA CHIYEMBEKEZO CHA "
+"AISILI."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"MUZISANGALALA NDI ZOYENERA KUGWIRA PAKUKHANIRANSO NDI CHIYEMBEKEZO CHA GAWO "
+"LA 5.3 KAPENA 12, KULO KULETSEDWA NDI MAXIMUM POPHIRITSITSIDWA NDI LAMULO, "
+"PALIBE ALIYENSE ALITSITSE EITHER PARTY HERETO, ALIYENSE OTHANDIZA OKHA "
+"KAPENA CHINSINSI CHINA CHOKHA KWA CHIPEMBEDZO CHINA mtengo wa zogula katundu"
+" ogwirizira, kapena misonkhano kapena aliyense mosadziwika, WAPADERA, "
+"pamapeto, chitsanzo chabwino OR KUMAWONONGA mosayembekezera, KOMABE "
+"anachititsa ndipo zimenezi aLIYENSE CHIPHUNZITSO CHA udindo (kuphatikizapo "
+"chosasamala), akuwuka kwambiri panganolo, ntchito OR NONPERFORMANCE NDI "
+"kapena gulu la MALANGIZO OGULITSIRA PANO, POPANDA KAPENA KUTI ASATSITSE "
+"KHALIDWE LAKUYITSITSITSA MALO A ZINSINSI ZABWINO."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"CHIFUKWA CINTHA ZINA / JULISDICTIONS SIZOGWIRITSA NTCHITO KAPENA KUDULA KWA "
+"ZINSINSI ZOFUNIKIRA, KUSINTHA KWA PAKATI PALIBE KUTI MUDZAKHALA NAWO, POPEZA"
+" CHIWALO CHOKHA CHIMODZI CHOKHALA PAKUTI PAKUTI POPEREKEDWA PAKATI PA POLIMA"
+" YOPOSA."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "Chidziwitso chawekha ndi ndondomeko yachinsinsi:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Muyenera kutsata zinsinsi zonse zokhudzana ndi chinsinsi komanso malamulo "
+"ena, malamulo, malangizo ndi zitsogozo zokhudzana ndi chitetezo, "
+"kusonkhanitsa, kugwiritsa ntchito ndi kufalitsa Chidziwitso Chazindikirika "
+"(monga momwe tafotokozera pansipa) cha munthu aliyense. Mudzalemba mawu "
+"achinsinsi patsamba lomwe mumatenga Chidziwitso Chaumwini (&#39;Mbiri "
+"Yachinsinsi&#39;) yomwe imagwirizana ndi malamulo, malamulo, malangizo ndi "
+"zitsogozo, pocheperako, imadziwitsa ogwiritsa ntchito Zidziwitso Zazomwe "
+"Zimadziwika. idzagwiritsidwa ntchito ndi momwe ingasungidwire, ndipo izi "
+"zikuwonetsa njira zosonkhanitsira (ma cookie, ma beacons kapena njira zina) "
+"ndi kugwiritsidwa ntchito kwa chidziwitso chokhudzana ndi Services, kupeza "
+"chilolezo chidziwitso musanayambe kugwiritsa ntchito china chilichonse "
+"kutsatira matekinoloje, malinga ndi malamulo ndi malangizo ake. Chikalata "
+"Chachinsinsi choterocho chidzaphatikizaponso chidziwitso chaukadaulo "
+"chokhudzana ndi kusonkha, kutumiza ndi kusungira Chidziwitso "
+"Chazindikiritike cha ife eni kudzera mu Services. Ngati zikufunika ndi "
+"malamulo oteteza deta kapena malamulo ena, mungadziwitse anthu ena kuti "
+"mukutipatsa Zomwe Zingadziwike Kwaokha kuti atigwiritse ntchito ndipo "
+"mudzawonetsetsa kuti anthu ena onse omwe avomerezana nawo adavomereza "
+"kuwulula kwawo. Mukuvomera kutsatira malongosoledwe ndi zomwe zalembedwa "
+"zachinsinsi. &#39;Zidziwitso Zomwe Zingadziwike&#39; zimatanthawuza "
+"chidziwitso chilichonse chomwe chingalumikizidwe ndi munthu aliyense, "
+"kuphatikiza dzina la munthu, adilesi, nambala yafoni, adilesi ya imelo, "
+"chidziwitso cha kirediti kadi, nambala yachitetezo cha anthu kapena "
+"chidziwitso china chofanana, utolankhani womwe izi zimasungidwa "
+"(mwachitsanzo papepala kapena pakompyuta)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Zosiyana:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Zipani Zodziyimira pawokha: Inu ndi CaseActive ndi kontrakitala "
+"odziyimira pawokha. Panganoli silimapanga mgwirizano uliwonse, mgwirizano, "
+"bungwe kapena mgwirizano pakati pa magulu. Mudzakhala ndi udindo wokhoza "
+"kuyang&#39;anira antchito anu komanso pakubweza chilichonse, msonkho, "
+"zithandizo ndi zantchito kwa antchito anu kapena ena onse omwe "
+"akukuthandizani. Inu kapena aliyense wa antchito anu, nthumwi, kapena "
+"opereka mauthengawa, musayankhe chilichonse, zivomerezo kapena chitsimikizo "
+"kwa ife, Mgwirizanowu kapena ntchito zina kupatula zomwe zalembedwa ndi ife "
+"zolembedwa."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Kupereka Ntchito: Palibe mgwirizano kapena chilichonse mwa ufulu wanu "
+"kapena zomwe muli nazo pansi pa Panganoli sizingapatsidwe kapena "
+"kusamutsidwa, mwakugwira ntchito kwa malamulo kapena kwina, popanda "
+"chilolezo chathu choyambirira, pokhapokha atapatsidwa mwayi wopeza "
+"chiwongola dzanja, kapena kutsatira mgwirizano, kampani Kukhazikitsanso, "
+"kugulitsa kapena kusamutsa zonse kapena zonse zomwe muli nazo zikutiuza "
+"zindikirani masiku osachepera makumi atatu (30) lisanathe ntchitoyo. Ntchito"
+" yomwe mwapatsidwa, kutengera zochitika zina zilizonse, imafuna chilolezo "
+"chathu cham&#39;mbuyo, chomwe chivomerezo sichingaletsedwe. Titha kugawa "
+"mgwirizanowu momasuka popanda chilolezo chanu. Kutengera ndi zomwe "
+"tafotokozazi, Panganoli lidzamanga ndi kuthandiza omwe ali maphwando, omwe "
+"adzalowa m&#39;malo mwao ndi kuloledwa."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Kukakamiza Majeure: Palibe gulu lomwe lidzayang&#39;anire kuchedwa, "
+"kusokonezeka kapena kulephera kuchita chifukwa cha mgwirizanowu chifukwa "
+"chogwirizana ndi zomwe zikuyang&#39;aniridwa ndi omwe akutsogolera, koma "
+"pokhapokha ngati zinthu zikupitilira. Kukakamiza zochitika zowonjezera "
+"zikuphatikiza, koma sikuchepera: masoka achilengedwe (monga mphezi, "
+"zivomezi, mkuntho, kusefukira); nkhondo, zipolowe, ntchito zauchifwamba, ndi"
+" ziwawa zapagulu; zochitika zonyamula anthu wamba, ndi machitidwe ena a "
+"anthu achitatu; kuphulika ndi moto; embargoes, kumenyedwa ndi mikangano "
+"yabizinesi; malamulo aboma; kulephera kwa opereka mauthenga kapena "
+"othandizira ma intaneti; Kulephera kwa othandizira achipani chachitatu, "
+"othandizira mautumiki kapena ogulitsa; ndi chifukwa china china chopitilira "
+"ulamuliro wachipani."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Kusankha Kwa Malamulo: Mgwirizanowu ndi mkangano uliwonse womwe "
+"ukuchokera kapena wokhudzana ndi Panganoli utha kuyendetsedwa ndi malamulo a"
+" State of California, osaganizira mfundo zotsutsana ndi malamulo. Mikangano "
+"yonse yochokera kapena yokhudzana ndi Mgwirizanowu idzakhala yokhazikitsidwa"
+" ndi boma la California ndi makhothi a federal ku Santa Barbara, California,"
+" ndipo maphwando avomerezana ndi makhoti awo."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 Imelo ndi Zidziwitso: Mukuvomerezanso kuti titha kukupatsani zidziwitso"
+" zonse, zonenedwa ndi zolumikizana zina kwa inu kudzera mu imelo, makalata, "
+"kutumiza mafayilo, kapena kutumizidwa ndi wonyamula katundu wodziwika wopita"
+" ku adilesi yosankhidwa komaliza pa Pangano. Muli ndi udindo wotipatsa "
+"zidziwitso zilizonse zosinthidwa."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Palibe Wayiver; Chithandizo Cumulative: Kulephera kapena kuchepetsedwa "
+"ndi mbali iliyonse pakugwiritsa ntchito ufulu pansi pa Panganoli "
+"sipangakhale kopanda ufulu. Zina kuposa zomwe zafotokozedwa apa, zithandizo "
+"zomwe zaperekedwa apa ndizowonjezereka, ndipo siziphatikiza pazithandizo "
+"zilizonse zaphwando palamulo kapena mokulira."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Kusinthika: Ngati lingaliro lililonse lagwirizanowu likusungidwa ndi "
+"bwalo lamilandu lovomerezeka kuti likhale losemphana ndi lamulo, lamuloli "
+"lidzasinthidwa ndi khothi ndikutanthauzira kuti likwaniritse bwino zolinga "
+"zakupereka koyambirira malinga ndi kololedwa kwathunthu Malamulo, ndi zina "
+"zonse za mgwirizanowu zidzakhalabe zogwira ntchito."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Chigwirizano Chonse: Kufikira pamlingo wololedwa ndi lamulo loyenera, "
+"Panganoli, limodzi ndi zolemba zomwe zafotokozedwa pano ndi Mafomu onse a "
+"Order ndi kutsitsa, zimapanga mgwirizano wonse pakati pamagulu mokhudza "
+"nkhani yake, ndikuyang&#39;anira zonse zam&#39;mbuyo komanso zoyendetsedwa "
+"kale. mgwirizano wamalingaliro, malingaliro kapena zoyimira, zolembedwa "
+"kapena zakamlomo, pankhani yokhudza mgwirizanowu. Palibe choyimira, kuchita "
+"kapena lonjezo lomwe lidzatengedwe kuperekedwa kapena kuwonetsedwa kuchokera"
+" pachilichonse chomwe chanenedwa kapena kulembedwa pakukambirana pakati pa "
+"magulu asanafike Panganoli pokhapokha ngati zikufotokozedwa bwino mu "
+"Panganoli. Palibe gulu lomwe lingakhale ndi yankho pokana chilichonse "
+"chabodza chomwe chipanicho chimadalira kuti chimalowa mu Panganoli "
+"(pokhapokha ngati zabodza izi zidanenedwa mwachinyengo) ndikuti lingaliro "
+"lokhalo lazachipani linganenedwe kuphwanya mgwirizanowu malinga ndi "
+"Panganoli. Mukuvomereza ndikuvomereza kuti mgwirizano wanu pompano "
+"sukutengera momwe mungagwiritsire ntchito mtsogolo kapena mawonekedwe omwe "
+"sanafotokozedwe pano kapena mu Fomu Lalamulo kapena kutengera mawu apakamwa "
+"kapena olembedwa, ndemanga za anthu onse kapena zachinsinsi zomwe tapanga "
+"pankhani yamtsogolo mtsogolo pa Ntchito. Pakakhala kusamvana kulikonse "
+"pakati pa zinthu zomwe zili mu General Terms of Service iyi ndi Fomu ya "
+"Order kapena Maofesi Oonjezera a Ntchito, mawu a Order Fomu kapena Maumisili"
+" Ena Oonjezera adzagwirira ntchito, mpaka pamtsutsowo. Palibe mawu kapena "
+"zinthu zomwe zanenedwa mu oda yanu yogula kapena chilichonse chomwe "
+"mungasankhe kuti zilembedwe ziyenera kuphatikizidwa kapena kupanga gawo "
+"lililonse la Panganoli, ndipo mfundo zonsezi sizikhala zopanda ntchito."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Kutumiza Kunja: Magulu onsewa amavomereza kuti azitsatira malamulo "
+"othandizira kunja ndi ku US ndi kutumizira kunja. Simuyenera kuloleza "
+"ogwiritsa ntchito kuti azitsata kapena kugwiritsa ntchito Services pophwanya"
+" lamulo lililonse loletsa kutumiza ku US, kuletsa kapena kuletsa."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Kulengeza: Sitikukutcha iwe ngati wogwiritsa ntchito Services popanda "
+"chilolezo chako."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Maulalo ku Masamba A Chipani Chachitatu: Mautumiki kapena tsamba lathu"
+" la webusayiti lingaphatikizepo maulalo a tsamba lachitatu (&#39;Malo "
+"Ogwirizanitsidwa&#39;). Masamba Ogwirizanitsidwa sakhala m&#39;manja mwathu "
+"ndipo sitingayang&#39;anire zomwe zili patsamba lililonse lolumikizidwa, "
+"kuphatikiza popanda malire aliwonse omwe ali mu Lumikizano Lophatikizidwa, "
+"kapena kusintha kulikonse kapena zosintha pa Webusayiti Yogwirizanitsidwa "
+"kapena Ntchito zoperekedwa kudzera pa Webusayiti Yogwirizanitsidwa. "
+"Tikupereka malumikizowa kwa inu ngati mwayi, ndipo kuphatikiza kwa ulalo "
+"uliwonse sikutanthauza kuti tsambali ndi chilichonse chogwirizana ndi "
+"tsambalo."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Mumavomereza kulandira maimelo, mafoni ndi ma SMS kuchokera ku "
+"CaseActive kuti mupereke zosintha pa oda yanu ndi / kapena pazotsatsa. "
+"Kuchuluka kwa uthenga kumadalira zochita zanu. Mutha kutuluka posafufuza "
+"zidziwitso zaakaunti yanu kapena kuchotsa akaunti yanu. Mauthenga ndi ma "
+"data atha kugwiritsidwa ntchito."
+
+msgid "An error occurred"
+msgstr "Zalakwika"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"China chake chalakwika. Mainjiniya athu adadziwitsidwa. Dinani batani "
+"lotsegulanso kuti mutsegulenso."
+
+msgid "Reload"
+msgstr "Kwezaninso"

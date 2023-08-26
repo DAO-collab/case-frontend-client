@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Les alle saksfelt spesifiser i rolle", "write": "Skriv alle saksfelt spesifiser i rolle" },
+  "convos": {
+    "read_all": "Se gjeldende status for samtaler.",
+    "manage_own": "Bli med og avslutt konvo.",
+    "moderate_others": "Start samtale, avslutt samtale og fjern deltaker.",
+    "read_all_submissions": "Les alle innspilte samtaler."
+  },
+  "events": {
+    "read_all": "Les alle arrangementer.",
+    "manage_own": "Opprett, oppdater og slett egen begivenhet.",
+    "moderate_others": "Oppdater og slett andres hendelse.",
+    "read_all_submissions": "Les alle arrangementsbekreftelser.",
+    "submit_own": "Bekreft deltakelsesforesp\u00f8rsel."
+  },
+  "posts": {
+    "read_all": "Les alle innlegg.",
+    "manage_own": "Opprett, oppdater og slett eget innlegg.",
+    "moderate_others": "Oppdater og slett andres innlegg."
+  },
+  "forms": {
+    "read_all": "Les alle skjemaer.",
+    "manage_own": "Opprett, oppdater og slett eget skjema.",
+    "moderate_others": "Oppdater og slett andres skjema.",
+    "read_all_submissions": "Les alle skjemainnleveringer.",
+    "submit_own": "Send inn skjemaforesp\u00f8rsel."
+  },
+  "invoices": {
+    "read_all": "Les alle fakturaer.",
+    "manage_own": "Opprett, oppdater og slett egen faktura.",
+    "moderate_others": "Oppdater og slett andres faktura.",
+    "read_all_submissions": "Les alle innsendte fakturaer.",
+    "submit_own": "Send inn fakturaforesp\u00f8rsel."
+  },
+  "notes": {
+    "read_all": "Les alle notater.",
+    "manage_own": "Opprett, oppdater og slett eget notat.",
+    "moderate_others": "Oppdater og slett andres notat."
+  },
+  "signs": {
+    "read_all": "Les alle e-skilt.",
+    "manage_own": "Opprett, oppdater og slett eget e-skilt.",
+    "moderate_others": "Oppdater og slett andres e-tegn.",
+    "read_all_submissions": "Les alle e-skiltinnsendinger.",
+    "submit_own": "Send inn feltforesp\u00f8rsel."
+  },
+  "tasks": {
+    "read_all": "Les alle oppgaver.",
+    "manage_own": "Opprett, oppdater og slett egen oppgave.",
+    "moderate_others": "Oppdater og slett andres oppgave.",
+    "read_all_submissions": "Les alle oppgaveinnleveringer.",
+    "submit_own": "Send inn oppgaveforesp\u00f8rsel."
+  },
+  "team": { "read_all": "Les team i tilfelle" }
+}

@@ -1,0 +1,189 @@
+<article id="content" [ngClass]="{ touchedSubmit: formTouched }" *ngIf="!loading">
+  <div class="form" [ngClass]="{ 'read-only': isReadOnly }">
+    <div class="form-container">
+      <div class="form-block right-margin bottom-split">
+        <h3>About</h3>
+        <div>
+          <p class="full-width no-float">
+            <span class="full-width no-float">
+              <label class="required">{{ 'Title' | translate }}</label>
+              <input type="text" name="title" [(ngModel)]="invoiceModel.name" #titleF />
+              <app-error
+                [fieldValue]="invoiceModel.name"
+                [field]="titleF"
+                [validationErrors]="validationErrors"
+                [validation]="{ required: true }"
+              ></app-error>
+            </span>
+          </p>
+
+          <p class="full-width no-float">
+            <span class="half-width">
+              <label>{{ 'Invoice No' | translate }}</label>
+              <input type="text" name="title" [(ngModel)]="invoiceModel.invoice_number" #invoiceNo />
+              <app-error
+                [fieldValue]="invoiceModel.invoice_number"
+                [field]="invoiceNo"
+                [validationErrors]="validationErrors"
+              ></app-error>
+            </span>
+
+            <span class="half-width">
+              <label class="required">{{ 'Status' | translate }}</label>
+              <ng-select
+                required
+                [(ngModel)]="invoiceModel.status"
+                (change)="onStatusChange(invoiceModel.status)"
+                [disabled]="initialEditStatusValue === 'void' || initialEditStatusValue === 'paid'"
+              >
+                <ng-option
+                  [disabled]="initialEditStatusValue === status.id && invoiceModel.published === 1"
+                  *ngFor="let status of statusSelect"
+                  [value]="status.id"
+                  >{{ status.text }}</ng-option
+                >
+              </ng-select>
+            </span>
+          </p>
+
+          <p class="full-width no-float">
+            <span class="half-width">
+              <label for="dueDate" class="required" translate>Due Date</label>
+              <input
+                mwlFlatpickr
+                dateFormat="m/d/Y"
+                type="text"
+                name="dueDate"
+                id="dueDate"
+                class="form-control"
+                [(ngModel)]="invoiceModel.duration.due_date"
+                (flatpickrChange)="dueDateChanged($event)"
+                required
+                #dueDateF
+              />
+              <app-error
+                [fieldValue]="invoiceModel.duration.due_date"
+                [field]="dueDateF"
+                [validationErrors]="validationErrors"
+                [validation]="{ required: true }"
+              ></app-error>
+            </span>
+
+            <span class="half-width">
+              <label class="required" translate>Due Time</label>
+              <ca-time-selector
+                #selectDueTime
+                required
+                [enabled]="!blockFields"
+                (open)="setDropDownSelectedPosition(selectDueTime)"
+                (selected)="activeDueTime = $event; toggleTime()"
+                [selectedTime]="activeDueTime!"
+              >
+              </ca-time-selector>
+            </span>
+
+            <span style="display: inline-block" class="margin-top-15">
+              <label class="left-label" for="recurring" translate>Repeat</label>
+              <label class="checkbox-container centered-checkbox">
+                <input
+                  type="checkbox"
+                  id="recurring"
+                  [disabled]="false"
+                  [checked]="recurring"
+                  (change)="toggleRecurring()"
+                />
+                <span class="checkmark"></span>
+              </label>
+            </span>
+
+            <app-rrule
+              *ngIf="recurring"
+              [(rrule)]="invoiceModel.duration.rrule"
+              [startDate]="rruleStartDate"
+              [endDate]="rruleEndDate"
+              [endTime]="'11:59 PM'"
+              [enabled]="invoiceEditEnabled"
+              #rruleChild
+            ></app-rrule>
+          </p>
+        </div>
+      </div>
+      <div class="form-block left-margin bottom-split">
+        <h3>Recipients</h3>
+        <span class="permissions-field">
+          <label class="required">{{ 'Select the members who needs to view or pay this invoice' | translate }}</label>
+        </span>
+        <p>
+          <app-checkbox-select
+            #participantsF
+            [outputValue]="invoiceModel.participants_ids"
+            [items]="initialParticipants || []"
+            [hideLable]="true"
+            [enabled]="true"
+            (valueChange)="setParticipant($event)"
+          ></app-checkbox-select>
+        </p>
+
+        <p class="err-required" *ngIf="!invoiceModel.participants_ids?.length && formTouched">is required</p>
+        <br />
+
+        <div *ngIf="activeParticipants.length" class="participants-list">
+          <ul class="list-h">
+            <li *ngFor="let participant of activeParticipants; let i = index">
+              <a>
+                <img
+                  [src]="utilsService.userAvatarUrl(participant?.user_id, 50, participant?.uuid)"
+                  alt="Placeholder"
+                  width="30"
+                  height="30"
+                />
+                <span
+                  >{{ participant?.sync_info ? participant.sync_info.given_name : participant?.given_name }}
+                  {{ participant?.sync_info ? participant.sync_info.family_name : participant?.family_name }}</span
+                >
+                <span>{{ roleNamesById[participant?.case_role_id] }}</span>
+              </a>
+              <div class="ntf-item input-remove">
+                <a (click)="removeParticipant(i)"></a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="form-container">
+      <div class="form-block right-margin mobile-bottom-split">
+        <h3>Details</h3>
+        <div>
+          <p class="full-width">
+            <label>{{ 'Description' | translate }}</label>
+            <textarea type="text" name="description" [(ngModel)]="invoiceModel.description"></textarea>
+          </p>
+        </div>
+      </div>
+      <div class="form-block left-margin">
+        <h3>Notifications</h3>
+        <app-notification-field
+          [notitficationsList]="notifications"
+          (changed)="onNotificationChange($event)"
+          (defaultNofify)="onDefaultNotificationChange()"
+          [enabled]="true"
+        >
+        </app-notification-field>
+      </div>
+    </div>
+
+    <p class="submit">
+      <ca-button class="float-right" [text]="invoiceModel.invoice_id ? ('Update Invoice' | translate) : ('Create Invoice' | translate)" [isDisabled]="isInvalid()" [isFilled]="true" (btnClick)="$any(validationErrors)?.length > 0 ? (formTouched = true) : sendInvoice()" [fontWeight]="600" [isUpperCase]="false"></ca-button>
+      <a (click)="afterChangeEmit()">Close</a>
+    </p>
+  </div>
+</article>
+
+<article class="module-d" *ngIf="loading">
+  <div>
+    <p class="text-center" translate>Loading...</p>
+  </div>
+</article>
+
+<ng-container *ngIf="resetSelectOptions$ | async"></ng-container>

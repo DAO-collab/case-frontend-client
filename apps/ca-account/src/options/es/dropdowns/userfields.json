@@ -1,0 +1,18 @@
+{
+  "family_name": "Apellido",
+  "given_name": "Nombre de pila",
+  "locale": "Idioma preferido",
+  "zoneinfo": "Zona horaria",
+  "email": "Direcci\u00f3n de correo electr\u00f3nico",
+  "phone": "N\u00famero de tel\u00e9fono",
+  "address1": "Direcci\u00f3n",
+  "address2": "Apt # o Unit #",
+  "locality": "Ciudad o localidad",
+  "region": "Estado o regi\u00f3n",
+  "postal_code": "Codigo postal",
+  "country": "Pa\u00eds",
+  "birthdate": "Fecha de nacimiento",
+  "gender": "G\u00e9nero",
+  "company": "Empresa",
+  "title": "Nombre Titulo"
+}

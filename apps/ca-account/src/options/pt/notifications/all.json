@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Quando uma postagem \u00e9 adicionada ao Feed",
+  "app_confirmation_events": "Evento rsvp \u00e9 solicitado de mim",
+  "app_submission_events": "Meu evento rsvp foi respondido",
+  "app_requested_forms": "O envio do formul\u00e1rio \u00e9 solicitado por mim",
+  "app_submission_forms": "Meu formul\u00e1rio foi enviado por algu\u00e9m",
+  "app_requested_signs": "O envio de assinatura \u00e9 solicitado por mim",
+  "app_submission_signs": "Meu documento \u00e9 assinado por algu\u00e9m",
+  "app_requested_tasks": "A tarefa foi solicitada a mim",
+  "app_submission_tasks": "Minha tarefa \u00e9 conclu\u00edda por algu\u00e9m",
+  "app_requested_invoices": "O envio da fatura \u00e9 solicitado por mim",
+  "app_submission_invoices": "Minha fatura \u00e9 paga por algu\u00e9m"
+}

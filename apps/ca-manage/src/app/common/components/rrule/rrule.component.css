@@ -1,0 +1,41 @@
+article.rrule-holder {
+  background: #fff;
+}
+
+label.leftlabel-bl {
+  float: left;
+  width: 100px;
+  line-height: 39px;
+}
+
+.bordered-lable {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+span.space-between-txt {
+  padding-right: 10px;
+  display: inline-block;
+}
+
+span.fixed-95-label {
+  min-width: 95px;
+}
+
+article.rrule-holder.form-d {
+  margin-top: 10px;
+}
+
+article.rrule-holder.form-d form:first-of-type .ng-select {
+  text-transform: capitalize;
+}
+
+@media (max-width: 500px) {
+  span.space-between-txt {
+    display: block;
+  }
+
+  input[type='number'] {
+    margin-bottom: 10px;
+  }
+}

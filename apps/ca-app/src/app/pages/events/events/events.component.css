@@ -1,0 +1,379 @@
+label.checkbox-container.centered-checkbox {
+  width: 20px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+  height: 20px;
+  margin-bottom: 0;
+}
+
+.news-d {
+  padding-top: 0 !important;
+}
+
+.news-d .event-wrapper {
+  border-bottom: 1px solid #dbdbdb;
+  display: flex;
+  margin: 0;
+  padding: 36px 0 44px;
+}
+
+@media only screen and (max-width: 31.25em) {
+  .news-d .event-wrapper {
+    flex-direction: column;
+  }
+}
+
+.news-d .event-location {
+  align-items: center;
+  background-color: #ffffff;
+  border: solid 0.5px #dbdbdb;
+  border-radius: 4px;
+  display: flex;
+  /*height: 150px;*/
+  height: 165px;
+  justify-content: center;
+  margin: 0 50px 0 0;
+  width: 240px;
+}
+
+@media only screen and (max-width: 31.25em) {
+  .news-d .event-location {
+    margin: 0 0 20px 0;
+    width: 100%;
+  }
+}
+
+.news-d .event-location img {
+  height: 102px;
+  max-width: 100%;
+  width: 136px;
+}
+
+.news-d .event-location img.event-map-location {
+  height: 100% !important;
+  width: 100%;
+  cursor: pointer;
+}
+
+.news-d .event-data {
+  flex: 1;
+  min-width: 50px;
+}
+
+.news-d .event-header {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.news-d .event-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.news-d .event-info-item {
+  align-items: center;
+  /*display: flex;*/
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom: 6px;
+  overflow-wrap: break-word !important;
+  display: inline-block;
+}
+
+.news-d .event-info-item img {
+  height: 10px;
+  margin-right: 8px;
+  width: 10px;
+}
+
+.event-settings {
+  cursor: pointer;
+  height: 24px;
+  overflow: hidden;
+  width: 27px;
+  min-width: 27px;
+}
+
+.event-settings .ins {
+  background-color: #fff;
+  border: 1px solid #e1e1e1;
+  border-radius: 3px;
+  margin-left: -70px;
+  min-width: 105px;
+  position: relative;
+  z-index: 2;
+}
+
+.event-settings:before {
+  content: url(/images/icons/ic_more_horiz_black_24px.svg);
+  display: block;
+  height: 25px;
+  opacity: 0.6;
+  width: 30px;
+}
+
+.event-settings.expanded {
+  overflow: visible;
+}
+
+.m-item {
+  background: #fff;
+  font-size: 16px;
+  padding: 0 6px;
+}
+
+.m-item-link {
+  color: #667074;
+  display: block;
+}
+
+.m-item-link:hover {
+  color: #667074;
+  text-decoration: none;
+}
+
+.m-item:hover {
+  background: #f7f7f7;
+}
+
+.event-attending-panel {
+  align-items: center;
+  display: flex;
+  margin-top: 7px;
+}
+
+.event-attending {
+  background-color: #15afc5;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  height: 30px;
+  margin-right: 32px;
+  overflow: hidden;
+  text-align: center;
+  text-transform: uppercase;
+  width: 170px;
+  line-height: 30px;
+}
+
+.event-attending > span {
+  background-color: #119cb0;
+  border-radius: 0 5px 5px 0;
+  float: right;
+  height: 30px;
+  width: 30px;
+}
+
+.event-attending span img {
+  vertical-align: baseline;
+}
+
+.event-attending .ins {
+  background-color: #fff;
+  border: 1px solid #16b0c5;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 #15afc5;
+  margin-top: 2px;
+  padding: 14px 0;
+  position: relative;
+  width: 170px;
+  z-index: 2;
+}
+
+.event-attending.expanded {
+  overflow: visible;
+}
+
+.event-attending-item {
+  align-items: center;
+  color: #4b5153;
+  display: flex;
+  font-size: 16px;
+  font-weight: normal;
+  justify-content: space-between;
+  padding: 0 13px 0 9px;
+  text-transform: none;
+}
+
+.event-attending-item:not(.disabled):hover {
+  background: #f7f7f7;
+}
+
+.event-attending-item .radio-button {
+  border: solid 1px #dbdbdb;
+  border-radius: 10px;
+  padding: 2px;
+  height: 16px;
+  width: 16px;
+}
+
+.event-attending-item .radio-button div {
+  border-radius: 10px;
+  height: 10px;
+  width: 10px;
+}
+
+.event-attending-item:not(.disabled):hover .radio-button,
+.event-attending-item:not(.disabled).selected .radio-button {
+  border-color: #15afc5;
+}
+
+.event-attending-item:not(.disabled):hover .radio-button div,
+.event-attending-item:not(.disabled).selected .radio-button div {
+  background-color: #15afc5;
+}
+
+.event-attending-item.disabled.selected .radio-button div {
+  background-color: #dbdbdb;
+}
+
+.news-d .created-check {
+  text-align: right;
+  width: 100%;
+  border: none !important;
+  display: inherit !important;
+  text-transform: initial;
+  overflow: visible !important;
+}
+
+.news-d .created-check label.checkbox-container.centered-checkbox {
+  width: 132px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+  height: 20px;
+  margin-bottom: 0;
+  border: none;
+}
+
+.news-d .created-check .checkmark {
+  top: 4px;
+}
+
+.news-d .link-a a,
+.news-d .link-a a.e {
+  min-width: unset;
+  width: auto;
+  font-weight: 600;
+  text-transform: capitalize;
+  border-right: 1px solid #d0d0d0;
+  border-width: 0 1px 0 0px;
+  border-radius: 0;
+  padding: 10px 20px 8px;
+}
+
+.news-d .link-a.a a:last-of-type {
+  border-width: 0;
+}
+
+.news-d .link-a {
+  border-radius: 5px;
+  border: 1px solid #d0d0d0;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.link-a > * {
+  background: white;
+  color: #3f3f3f;
+}
+
+.link-a > * + * {
+  margin-left: 0;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.day {
+  transform: rotate(7deg);
+  margin: 0px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0px;
+  color: red;
+  margin-top: 27px;
+  margin-left: -2px;
+}
+.date {
+  font-size: 20px;
+  transform: rotate(8deg);
+  margin: 0px;
+  font-weight: 700;
+  margin-left: -7px;
+  text-align: center;
+}
+
+.events-wrap {
+  margin: 0 auto;
+  max-width: 850px;
+}
+
+.event-repetitive {
+  display: flex !important;
+}
+
+.drop-item-option-img {
+  margin-right: 2px;
+}
+
+.event-settings .drop-items-container {
+  min-width: 135px;
+  margin-left: -78px;
+}
+
+.event-view-details-item {
+  font-size: 14px;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  padding-bottom: 1px;
+  align-items: center;
+}
+
+.event-view-details-img {
+  margin-right: 5px;
+  width: 15px !important;
+  height: 15px !important;
+}
+
+.event-header > h3 {
+  margin-bottom: 3px;
+}
+
+.popup-a.a .box-inner {
+  border: none;
+}
+
+.box-inner.large-box {
+  padding: 20px 29px 0;
+}
+
+.popup-a.a h1,
+.popup-a.a h2 {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 761px) {
+  .event-settings .drop-items-container {
+    margin-left: -87px;
+  }
+
+  .mobile-show-last-tab {
+    border-left: 1px solid #dbdbdb;
+  }
+}
+
+.tabs-ul {
+  display: flex;
+}
+
+.events-title {
+  word-wrap: break-word !important;
+  overflow: hidden;
+}

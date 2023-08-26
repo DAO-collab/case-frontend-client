@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Pre\u010d\u00edtajte si v\u0161etky polia pr\u00edpadu \u0161pecifikovan\u00e9 v role",
+    "write": "Nap\u00ed\u0161te v\u0161etky polia pr\u00edpadu \u0161pecifikovan\u00e9 v role"
+  },
+  "convos": {
+    "read_all": "Pozrite si aktu\u00e1lny stav konverz\u00e1ci\u00ed.",
+    "manage_own": "Pripoji\u0165 sa a odpoji\u0165 sa od konverz\u00e1cie.",
+    "moderate_others": "Za\u010da\u0165 konverz\u00e1ciu, ukon\u010di\u0165 konverz\u00e1ciu a odstr\u00e1ni\u0165 \u00fa\u010dastn\u00edka.",
+    "read_all_submissions": "Pre\u010d\u00edtajte si v\u0161etky zaznamenan\u00e9 konverz\u00e1cie."
+  },
+  "events": {
+    "read_all": "Pre\u010d\u00edtajte si v\u0161etky udalosti.",
+    "manage_own": "Vytvorte, aktualizujte a odstr\u00e1\u0148te vlastn\u00fa udalos\u0165.",
+    "moderate_others": "Aktualizujte a odstr\u00e1\u0148te udalos\u0165 in\u00e9ho pou\u017e\u00edvate\u013ea.",
+    "read_all_submissions": "Pre\u010d\u00edtajte si v\u0161etky potvrdenia udalost\u00ed.",
+    "submit_own": "Potvr\u010fte \u017eiados\u0165 o \u00fa\u010das\u0165 na podujat\u00ed."
+  },
+  "posts": {
+    "read_all": "Pre\u010d\u00edtajte si v\u0161etky pr\u00edspevky.",
+    "manage_own": "Vytvorte, aktualizujte a odstr\u00e1\u0148te vlastn\u00fd pr\u00edspevok.",
+    "moderate_others": "Aktualizujte a odstr\u00e1\u0148te pr\u00edspevok in\u00e9ho pou\u017e\u00edvate\u013ea."
+  },
+  "forms": {
+    "read_all": "Pre\u010d\u00edtajte si v\u0161etky formul\u00e1re.",
+    "manage_own": "Vytv\u00e1ra\u0165, aktualizova\u0165 a maza\u0165 vlastn\u00fd formul\u00e1r.",
+    "moderate_others": "Aktualizujte a odstr\u00e1\u0148te formul\u00e1r in\u00e9ho pou\u017e\u00edvate\u013ea.",
+    "read_all_submissions": "Pre\u010d\u00edtajte si v\u0161etky odoslan\u00e9 formul\u00e1re.",
+    "submit_own": "Odosla\u0165 \u017eiados\u0165 o formul\u00e1r."
+  },
+  "invoices": {
+    "read_all": "Pre\u010d\u00edtajte si v\u0161etky fakt\u00fary.",
+    "manage_own": "Vytv\u00e1ra\u0165, aktualizova\u0165 a maza\u0165 vlastn\u00fa fakt\u00faru.",
+    "moderate_others": "Aktualizujte a odstr\u00e1\u0148te fakt\u00faru inej osoby.",
+    "read_all_submissions": "Pre\u010d\u00edtajte si v\u0161etky predlo\u017een\u00e9 fakt\u00fary.",
+    "submit_own": "Odosla\u0165 \u017eiados\u0165 o fakt\u00faru."
+  },
+  "notes": {
+    "read_all": "Pre\u010d\u00edtajte si v\u0161etky pozn\u00e1mky.",
+    "manage_own": "Vytvorte, aktualizujte a odstr\u00e1\u0148te vlastn\u00fa pozn\u00e1mku.",
+    "moderate_others": "Aktualizujte a odstr\u00e1\u0148te pozn\u00e1mku ostatn\u00fdch."
+  },
+  "signs": {
+    "read_all": "Pre\u010d\u00edtajte si v\u0161etky elektronick\u00e9 zna\u010dky.",
+    "manage_own": "Vytvorte, aktualizujte a odstr\u00e1\u0148te vlastn\u00fd e-sign.",
+    "moderate_others": "Aktualizujte a odstr\u00e1\u0148te elektronick\u00e9 znamenie ostatn\u00fdch.",
+    "read_all_submissions": "Pre\u010d\u00edtajte si v\u0161etky zaslan\u00e9 elektronick\u00e9 prihl\u00e1\u0161ky.",
+    "submit_own": "Odosla\u0165 \u017eiados\u0165 o pole."
+  },
+  "tasks": {
+    "read_all": "Pre\u010d\u00edtajte si v\u0161etky \u00falohy.",
+    "manage_own": "Vytvorte, aktualizujte a odstr\u00e1\u0148te vlastn\u00fa \u00falohu.",
+    "moderate_others": "Aktualizujte a odstr\u00e1\u0148te \u00falohu in\u00e9ho pou\u017e\u00edvate\u013ea.",
+    "read_all_submissions": "Pre\u010d\u00edtajte si v\u0161etky zadan\u00e9 \u00falohy.",
+    "submit_own": "Odosla\u0165 po\u017eiadavku na \u00falohu."
+  },
+  "team": { "read_all": "Pre\u010d\u00edtajte si pre pr\u00edpad" }
+}

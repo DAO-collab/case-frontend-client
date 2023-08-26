@@ -1,0 +1,8 @@
+{
+  "add_post": "post je kreiran",
+  "modify_post": "post je izmijenjen",
+  "delete_post": "post je izbrisan",
+  "add_post_comment": "post komentar je kreiran",
+  "modify_post_comment": "komentar komentara je izmijenjen",
+  "delete_post_comment": "komentar komentara je izbrisan"
+}

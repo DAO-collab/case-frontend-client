@@ -1,0 +1,232 @@
+h2 {
+  font-size: 24px;
+  margin: auto !important;
+}
+
+.mt {
+  margin-top: 20px;
+}
+
+td {
+  border-bottom: none;
+}
+
+.invoice-table-tr {
+  height: 30px;
+  padding: 10px 0;
+}
+
+.builder-textarea {
+  width: 100%;
+  height: 120px;
+  min-height: 120px;
+  font-size: 14px;
+}
+
+.builder-table-cell-1 {
+  width: 20%;
+  padding-right: 2.5%;
+}
+
+.builder-table-cell-2 {
+  width: 42.5%;
+  padding-right: 2.5%;
+}
+
+.builder-table-cell-3 {
+  width: 10%;
+  padding-right: 2.5%;
+}
+
+.builder-table-cell-4 {
+  width: 10%;
+  padding-right: 2.5%;
+}
+
+.builder-table-cell-5 {
+  width: 5%;
+  font-size: 16px;
+  text-align: right;
+  transform: translate(0, 5%);
+}
+
+.total-span {
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 7px;
+  margin-top: 2px;
+}
+
+.table-total-th {
+  text-align: center;
+}
+
+.invoice-table-input {
+  width: 100%;
+  height: 35px;
+}
+
+.table-add-more-tr {
+  padding: 0;
+}
+
+.invoice-list-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #dbdbdb;
+  padding: 15px;
+}
+
+.invoice-list-input {
+  height: 30px;
+  max-width: 70px;
+  padding: 0 10px;
+  font-size: 14px;
+}
+
+.bt {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.bb {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.bt-none {
+  border-top: none;
+}
+
+.invoice-add-more {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.invoice-add-new-button {
+  color: #16b0c5;
+  cursor: pointer;
+}
+
+.invoice-list-title {
+  font-size: 14px;
+  color: #667074;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.close-builder:before {
+  display: flex;
+  justify-content: flex-end;
+  color: #c2c8ca;
+}
+
+.invoice-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.invoice-flex-content {
+  width: 45%;
+}
+
+.invoice-submit-button {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px !important;
+  font-size: 14px;
+  border-top: none;
+}
+
+.delete-transaction-button {
+  color: #c2c8ca;
+}
+
+.invoice-header-title {
+  display: flex;
+}
+
+.invoice-header-title img {
+  margin: 0 11px;
+}
+
+@media only screen and (min-width: 761px) {
+  .invoice-header {
+    margin-top: -40px !important;
+  }
+}
+
+:host ::ng-deep .builder-table-cell-1 .ng-select .ng-select-container .ng-value-container .ng-input > input {
+  box-sizing: border-box;
+}
+
+.invoice-input-font {
+  padding: 0 10px;
+  font-size: 14px;
+}
+
+.invoice-block {
+  width: 56%;
+  max-width: 850px;
+  margin: 20px auto !important;
+  padding: 27px 32px 21px;
+}
+
+.invoice-header {
+  margin-left: -20px !important;
+  margin-right: -20px !important;
+  padding-right: 20px;
+  padding-bottom: 16px;
+}
+
+.invoice-header:before {
+  display: none;
+}
+
+.invoice-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.invoice-preview-submit-button {
+  margin-top: 0;
+}
+
+.builder-table-cell-4 {
+  position: relative;
+}
+
+.minus-symbol {
+  position: absolute;
+  z-index: 10;
+  top: 53%;
+  transform: translateY(-50%);
+  left: 12px;
+}
+
+.builder-table-cell-4 > input.input-with-minus {
+  padding-left: 12px;
+}
+
+@media only screen and (max-width: 761px) {
+  .invoice-block {
+    width: 90% !important;
+    margin: 20px auto !important;
+  }
+}
+
+@media only screen and (max-width: 431px) {
+  .invoice-block {
+    width: 95% !important;
+  }
+}
+
+@media only screen and (min-width: 1501px) {
+  .invoice-header {
+    margin-left: -45px !important;
+    margin-right: -45px !important;
+  }
+}

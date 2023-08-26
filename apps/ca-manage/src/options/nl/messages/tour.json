@@ -1,0 +1,26 @@
+{
+  "beatify_app": {
+    "title": "Customize Branding",
+    "explanation": "Upload your company logo and favicon, and select your default text and background color to personalize the app's appearance and maintain consistent branding."
+  },
+  "case_types": {
+    "title": "Manage Case Types and Categories",
+    "explanation": "Add different case types and categories to organize and classify cases effectively within your app, ensuring efficient case management."
+  },
+  "assign_cases": {
+    "title": "Auto-Assign Staff to Cases",
+    "explanation": "Automatically assign staff members to cases based on case types, streamlining workflow and optimizing case allocation in your app."
+  },
+  "profile_info": {
+    "title": "Manage Client Profile Information",
+    "explanation": "Select the necessary profile information you require from clients. When clients join your app, they will be prompted to provide the requested information, which will remain synchronized and up-to-date."
+  },
+  "intake_forms": {
+    "title": "Create Custom Intake Form",
+    "explanation": "Design a tailored intake form to collect user-specific data from clients. The form focuses on gathering custom information relevant to your app's functionality, excluding profile and case-related details."
+  },
+  "bootstrap_cases": {
+    "title": "Bootstrap Cases with Automated Actions",
+    "explanation": "Automate initial actions when creating cases, such as posting a message, including a data collection form, and providing a document to sign. Streamline case setup for an enhanced user experience"
+  }
+}

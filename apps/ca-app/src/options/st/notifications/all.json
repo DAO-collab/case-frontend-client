@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Ha poso e eketsoa ho Feed",
+  "app_confirmation_events": "Ketsahalo ea rsvp e kopuoa ho &#39;na",
+  "app_submission_events": "Ketsahalo ea ka ea rsvp e arajoa",
+  "app_requested_forms": "Tlhahiso ea foromo e kopuoa ho &#39;na",
+  "app_submission_forms": "Foromo eaka e romelloa ke motho e mong",
+  "app_requested_signs": "Ke kopa tlhahiso ho tsoa ho &#39;na",
+  "app_submission_signs": "Tokomane ea ka e saennoe ke motho",
+  "app_requested_tasks": "Mosebetsi o kopuoa ho &#39;na",
+  "app_submission_tasks": "Mosebetsi oa ka o phethoa ke motho e mong",
+  "app_requested_invoices": "Ke kopa hore ke romele invoice",
+  "app_submission_invoices": "Invoice eaka e lefuoa ke motho"
+}

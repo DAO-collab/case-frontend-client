@@ -1,0 +1,92 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['/invoices']">{{ 'Invoices' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['/invoices/settings']">{{ 'Settings' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <div class="table-wrapper" *ngIf="invoices$ | async as invoices">
+    <ng-container *ngIf="!isLoading; else loading">
+      <table class="table-a" *ngIf="invoices?.items?.length; else noInvoices">
+        <tr>
+          <th translate>Case ID</th>
+          <th translate>Invoice ID</th>
+          <th translate>Title</th>
+          <th translate>Author</th>
+          <th translate>Due Date</th>
+          <th translate>Total</th>
+          <th translate>Status</th>
+          <th translate>Action</th>
+        </tr>
+        <tr *ngFor="let invoice of invoices?.items">
+          <td>
+            <div class="d-flex">
+              {{ invoice.case_id.split('-').pop() }}
+              <!-- <div class="popup-copy-icon-wrapper">
+                <img
+                  class="signup-copy-icon copy-svg-icon"
+                  src="images/copy-icon-inactive.svg"
+                  alt=""
+                  (click)="copyText(invoice)"
+                />
+              </div> -->
+              <ca-copy (click)="copyText(invoice)"></ca-copy>
+            </div>
+          </td>
+          <td>
+            <div class="d-flex">
+              {{ invoice.invoice_id.split('-').pop() }}
+              <!-- <div class="popup-copy-icon-wrapper">
+                <img
+                  class="signup-copy-icon copy-svg-icon"
+                  src="images/copy-icon-inactive.svg"
+                  alt=""
+                  (click)="copyInvoiceId(invoice)"
+                />
+              </div> -->
+              <ca-copy (click)="copyInvoiceId(invoice)"></ca-copy>
+            </div>
+          </td>
+          <td>{{ invoice.name }}</td>
+          <td>
+            <span *ngIf="(users$ | async)?.items as users">{{ getUserName(users, invoice.user_id) }}</span>
+          </td>
+          <td>{{ invoice.due_date | date : 'longDate' }}</td>
+          <td>{{ invoice.total }}</td>
+          <td *ngIf="!invoice.refunded">{{ invoice.status }}</td>
+          <td *ngIf="invoice.refunded">refunded: {{ invoice.refunded.status }}</td>
+          <td>
+            <span class="drop-a dropform" *ngIf="invoice.status === invoicePaidStatus && !invoice.refunded">
+              <span class="value">--</span>
+              <span class="drop">
+                <a (click)="openRefundModal(invoice)" translate>
+                  <img src="images/item-refund.svg" alt="" />
+                  Refund
+                </a>
+              </span>
+            </span>
+          </td>
+        </tr>
+      </table>
+
+      <ng-template #noInvoices>
+        <p class="text-center" translate>No invoices yet.</p>
+      </ng-template>
+    </ng-container>
+
+    <ng-template #loading>
+      <app-loader [active]="isLoading"></app-loader>
+    </ng-template>
+  </div>
+</article>
+
+<app-refund-popup
+  *ngIf="selectedRefundInvoice"
+  (close)="closeModal()"
+  (emitReason)="refund($any($event).value)"
+></app-refund-popup>

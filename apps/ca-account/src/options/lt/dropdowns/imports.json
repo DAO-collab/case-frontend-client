@@ -1,0 +1,11 @@
+{
+  "post_user": "Prid\u0117ti vartotoj\u0173",
+  "put_user": "Keisti vartotojus",
+  "put_user_status": "Keisti vartotoj\u0173 b\u016bsen\u0105",
+  "post_case": "Kurti atvejus",
+  "put_case": "Modifikuoti atvejus",
+  "post_case_permission": "Priskirkite vartotojus prie atvej\u0173",
+  "put_case_permission": "Keisti atvejams priskirtus vartotojus",
+  "post_case_post": "Sukurkite byl\u0173 \u012fra\u0161us",
+  "delete_case_permission": "Pa\u0161alinti atvejams priskirtus naudotojus"
+}

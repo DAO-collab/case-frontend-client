@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Ko je objava dodana v vir",
+  "app_confirmation_events": "Od mene se zahteva odgovor na dogodek",
+  "app_submission_events": "Odgovorjen je moj poziv za dogodek",
+  "app_requested_forms": "Od mene se zahteva predlo\u017eitev obrazca",
+  "app_submission_forms": "Moj obrazec je poslal nekdo",
+  "app_requested_signs": "Od mene se zahteva podpis",
+  "app_submission_signs": "Moj dokument je nekdo podpisal",
+  "app_requested_tasks": "Naloga se zahteva od mene",
+  "app_submission_tasks": "Mojo nalogo je nekdo dokon\u010dal",
+  "app_requested_invoices": "Od mene se zahteva predlo\u017eitev ra\u010duna",
+  "app_submission_invoices": "Moj ra\u010dun je nekdo pla\u010dal"
+}

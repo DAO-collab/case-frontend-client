@@ -1,0 +1,165 @@
+<div
+  #wrapper
+  class="d-field-wrapper"
+  [ngClass]="{ 'pointer-events-none': router.url.includes('forms/doc-form-builder') }"
+>
+  <div class="field-body">
+    <span [ngSwitch]="fieldData.fieldType">
+      <ng-container *ngSwitchCase="'dropdown'">
+        <ng-select
+          name="dropdown-items"
+          [items]="fieldData.enum"
+          bindLabel="text"
+          bindValue="id"
+          [(ngModel)]="saveModel[fieldData.key]"
+          [clearable]="false"
+          appendTo="body"
+          (change)="handleChange(saveModel)"
+        >
+        </ng-select>
+      </ng-container>
+      <ng-container *ngSwitchCase="'text-only'">
+        <input
+          type="text"
+          class="form-control"
+          name="saveModeli"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'text'">
+        <input
+          type="text"
+          class="form-control"
+          name="saveModeli"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'textarea'">
+        <textarea
+          name="saveModeli"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+        ></textarea>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'multidropdown'">
+        <ng-select
+          name="multi-dropdown-items"
+          [items]="fieldData.items.enum"
+          bindLabel="text"
+          bindValue="id"
+          [(ngModel)]="saveModel[fieldData.key]"
+          [clearable]="false"
+          [multiple]="true"
+          (change)="handleChange(saveModel)"
+          appendTo="body"
+        >
+        </ng-select>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'checkboxes'">
+        <span class="checkboxes-group">
+          <span *ngFor="let opt of fieldData.enum" class="cb-item">
+            <span class="cg-label" translate>{{ opt }}</span>
+            <label class="container cg-box">
+              <input
+                type="checkbox"
+                class="form-control"
+                (change)="
+                  generateActiveItems(fieldData.description).indexOf(opt) > -1
+                    ? fieldData.description.splice(fieldData.description.indexOf(opt), 1)
+                    : fieldData.description.push(opt)
+                "
+                [checked]="generateActiveItems(fieldData.description).indexOf(opt) > -1"
+              />
+              <span class="checkmark"></span>
+            </label>
+          </span>
+        </span>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'options'">
+        <ul class="checklist-d" style="z-index: 9">
+          <li *ngFor="let opt of fieldData.enum; let i = index">
+            <label [for]="fieldData.name" class="radio">
+              <input
+                type="radio"
+                id="{{ fieldData.name }}-{{ i }}"
+                [name]="fieldData.name"
+                [value]="opt"
+                [checked]="opt === saveModel[fieldData.name]"
+                [(ngModel)]="saveModel[fieldData.key]"
+                (change)="handleChange(saveModel)"
+              />
+              {{ opt }}
+              <div class="input"></div>
+            </label>
+          </li>
+        </ul>
+      </ng-container>
+
+      <ng-container class="boolen-field clear-after" *ngSwitchCase="'boolean'">
+        <label class="container">
+          <input
+            type="checkbox"
+            class="form-control"
+            [(ngModel)]="saveModel[fieldData.key]"
+            [checked]="saveModel[fieldData.name]"
+            (change)="handleChange(saveModel)"
+          />
+          <span class="checkmark"></span>
+        </label>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'number'">
+        <input
+          type="number"
+          class="form-control"
+          name="saveModel[fieldData.name]i"
+          [(ngModel)]="saveModel[fieldData.key]"
+          (change)="handleChange(saveModel)"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'date'">
+        <input
+          mwlFlatpickr
+          required
+          [altInput]="true"
+          altFormat="m/d/Y"
+          type="text"
+          name="saveModel[fieldData.name]"
+          class="form-control date-input"
+          [(ngModel)]="saveModel[fieldData.key]"
+          [convertModelValue]="true"
+          (change)="handleChange(saveModel)"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'time'">
+        <input
+          [altInput]="true"
+          altFormat="G:i:S K"
+          dateFormat="G:i:S K"
+          type="text"
+          name="saveModel[fieldData.name]"
+          class="form-control time-input"
+          mwlFlatpickr
+          [convertModelValue]="true"
+          [noCalendar]="true"
+          [enableSeconds]="true"
+          [enableTime]="true"
+          [defaultHour]="+currentTime()[0]"
+          [defaultMinute]="+currentTime()[1]"
+          [defaultSeconds]="+currentTime()[2]"
+          (change)="handleChange(saveModel)"
+          [(ngModel)]="saveModel[fieldData.key]"
+        />
+      </ng-container>
+    </span>
+  </div>
+</div>

@@ -1,0 +1,99 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['../../settings/intake-forms']">{{ 'Forms' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/user-intake-settings']">{{ 'Settings' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <div class="table-wrapper">
+    <table class="table-a" *ngIf="forms.length && !loading">
+      <tr>
+        <th translate>Tag ID</th>
+        <th translate>Type</th>
+        <th translate>Created On</th>
+        <th translate>Media</th>
+        <th translate>Status</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let form of forms; let index = index">
+        <td>{{ form.tag_id }}</td>
+        <td>{{ form.type }}</td>
+        <td>{{ form.created_on | date : 'longDate' }}</td>
+        <td>{{ form.media_ct }}</td>
+        <td>{{ form.status }}</td>
+        <td class="action-cell">
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="editForm(form)" translate>
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit settings
+              </a>
+              <a (click)="openFormBuilder(form)" translate>
+                <img class="drop-item-option-img" src="images/item-edit-builder.svg" alt="" />
+                Edit form builder
+              </a>
+              <a
+                appConfirmationPopUp
+                title="Delete Form"
+                [message]="'You are about to delete form. Are you sure?'"
+                (yes)="deleteForm(forms, index)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Delete form
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <app-loader [active]="loading"></app-loader>
+
+  <p *ngIf="forms.length === 0 && !loading" class="text-center" translate>No forms yet.</p>
+</article>
+
+<form method="post" class="popup-a a form-d shown" [ngClass]="{ shown: showUploadModal }">
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2 translate>Upload Intake Form Document</h2>
+      <app-doc-intake-uploader
+        *ngIf="showUploadModal"
+        [form]="uploadingForm"
+        [currentCaseId]="caseId"
+        (afterChange)="closeUploadModal()"
+        (afterSave)="openDocIntakeBuilder($event)"
+      ></app-doc-intake-uploader>
+      <p>
+        <a (click)="closeUploadModal()"></a>
+      </p>
+      <a class="close" (click)="closeUploadModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeUploadModal()">Close</a>
+  </div>
+</form>
+
+<app-intake-modal
+  *ngIf="shownPopUp"
+  [intake]="form"
+  [mode]="formModalMode"
+  [docType]="createFormType"
+  [roles]="roles"
+  (submitForm)="saveNewForm($event)"
+  (closeModal)="cancelAddingForm()"
+></app-intake-modal>

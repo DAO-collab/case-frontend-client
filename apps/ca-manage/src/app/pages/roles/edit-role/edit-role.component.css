@@ -1,0 +1,112 @@
+.table-c {
+  table-layout: fixed;
+}
+
+.table-c th {
+  text-align: left;
+}
+
+.rel {
+  position: relative;
+}
+
+span.mb-size:after {
+  content: attr(data-lbl);
+  display: block;
+  background: #f8fafb;
+  width: 30px;
+  text-align: center;
+  right: 3px;
+  top: 50px;
+  z-index: 9;
+  float: right;
+  margin-top: -25px;
+  position: absolute;
+}
+
+span.mb-size input {
+  padding-right: 34px;
+  max-width: 100px;
+  float: right;
+}
+
+span.mb-size > * {
+  float: left;
+}
+
+.table-c app-error.notice-a.show {
+  position: relative;
+  top: 10px;
+}
+
+.module-d .submit {
+  border-top: 0px;
+}
+
+@media only screen and (max-width: 47.5em) {
+  h3 span {
+    float: none;
+    display: block;
+  }
+}
+
+.permissions-table-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.permissions-table-body > tr {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.case-permissions-table-body {
+  display: flex;
+}
+
+.case-permissions-table-body tbody {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.case-permissions-table-body tbody tr {
+  display: flex;
+}
+
+.case-permissions-table-body tbody tr > td:first-child {
+  padding-left: 30px;
+}
+.permissions-table-row {
+  flex-grow: 1;
+}
+
+@media only screen and (min-width: 1200px) {
+  .checkbox-align {
+    padding: 16px 7px 13px;
+  }
+}
+
+::ng-deep div.flatpickr-time input.numInput {
+  width: 100%;
+  padding: 0;
+  text-align: center;
+  font-size: 14px;
+  color: #667074;
+}
+
+::ng-deep div.flatpickr-time span.flatpickr-am-pm {
+  border: 1px solid #dadada;
+  padding: 16px 12px;
+  border-radius: 4px;
+  margin-left: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  position: relative;
+  top: -1.5px;
+  color: #667074;
+}
+
+::ng-deep .form-control[readonly] {
+  background-color: #f8fafb !important;
+}

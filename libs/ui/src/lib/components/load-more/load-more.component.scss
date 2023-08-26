@@ -1,0 +1,16 @@
+$default-color: #16b0c5;
+
+.load-more {
+  display: flex;
+  justify-content: center;
+  line-height: initial;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 15px 0 0;
+
+  .load-more__text {
+    cursor: pointer;
+    color: var(--host-text-color, $default-color);
+  }
+  
+}

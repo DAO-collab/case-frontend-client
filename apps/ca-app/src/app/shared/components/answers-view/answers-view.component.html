@@ -1,0 +1,19 @@
+<div *ngIf="answers && !utilsService.convertObjectKeysToArray(answers).length">
+  <p class="text-center" translate>No Answers</p>
+</div>
+
+<ul class="gallery-a" *ngIf="answers && utilsService.convertObjectKeysToArray(answers).length > 0">
+  <li class="gallery-item" *ngFor="let userIdAtt of utilsService.convertObjectKeysToArray(answers)">
+    <a (click)="$event.preventDefault(); showView(userIdAtt)">
+      <img [src]="utilsService.userAvatarUrl(userIdAtt, 50)" alt="Placeholder" width="30" height="30" />
+      {{
+        teamData[userIdAtt].sync_info
+          ? teamData[userIdAtt].sync_info.given_name + ' ' + teamData[userIdAtt].sync_info.family_name
+          : teamData[userIdAtt].given_name + ' ' + teamData[userIdAtt].family_name
+      }}
+    </a>
+    <!--    <button type="submit" (click)="$event.preventDefault(); showView(userIdAtt)">-->
+    <!--      <span translate>{{ formId ? 'view form' : 'view sign' }}</span>-->
+    <!--    </button>-->
+  </li>
+</ul>

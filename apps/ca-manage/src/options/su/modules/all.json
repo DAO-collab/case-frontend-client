@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Baca sagala widang kasus tangtukeun dina peran",
+    "write": "Tulis sagala widang kasus husus dina peran"
+  },
+  "convos": {
+    "read_all": "Nempo status konvos ayeuna.",
+    "manage_own": "Gabung jeung unjoin convo.",
+    "moderate_others": "Mimitian konvo, tungtung konvo, sareng cabut pamilon.",
+    "read_all_submissions": "Baca sadaya konvo anu dir\u00e9kam."
+  },
+  "events": {
+    "read_all": "Baca sagala kajadian.",
+    "manage_own": "Jieun, update sareng mupus acara sorangan.",
+    "moderate_others": "Apdet sareng mupus acara batur.",
+    "read_all_submissions": "Baca sagala confirmations acara.",
+    "submit_own": "Konfirmasi pamundut hadir acara."
+  },
+  "posts": {
+    "read_all": "Baca sadaya tulisan.",
+    "manage_own": "Jieun, ngapdet sareng mupus pos sorangan.",
+    "moderate_others": "Ngamutahirkeun sareng mupus postingan batur."
+  },
+  "forms": {
+    "read_all": "Baca sagala bentuk.",
+    "manage_own": "Jieun, ngapdet sareng mupus formulir sorangan.",
+    "moderate_others": "Ngamutahirkeun sareng mupus bentuk anu san\u00e9s.",
+    "read_all_submissions": "Baca sadaya kiriman formulir.",
+    "submit_own": "Nepikeun pamundut formulir."
+  },
+  "invoices": {
+    "read_all": "Baca sadaya invoice.",
+    "manage_own": "Jieun, ngapdet sareng mupus invoice sorangan.",
+    "moderate_others": "Apdet sareng mupus invoice batur.",
+    "read_all_submissions": "Baca sadaya kiriman invoice.",
+    "submit_own": "Nepikeun pamundut invoice."
+  },
+  "notes": {
+    "read_all": "Baca kab\u00e9h catetan.",
+    "manage_own": "Jieun, ngapdet sareng mupus catetan sorangan.",
+    "moderate_others": "Apdet sareng mupus catetan batur."
+  },
+  "signs": {
+    "read_all": "Baca sagala e-tanda.",
+    "manage_own": "Jieun, ngapdet sareng mupus tanda-e sorangan.",
+    "moderate_others": "Ngamutahirkeun sareng mupus e-sign batur.",
+    "read_all_submissions": "Baca sadaya kiriman e-tanda.",
+    "submit_own": "Nepikeun pamundut widang."
+  },
+  "tasks": {
+    "read_all": "Baca sagala tugas.",
+    "manage_own": "Jieun, ngapdet sareng mupus tugas sorangan.",
+    "moderate_others": "Apdet sareng mupus tugas batur.",
+    "read_all_submissions": "Baca sadaya kiriman tugas.",
+    "submit_own": "Nepikeun pamundut tugas."
+  },
+  "team": { "read_all": "Baca tim bisi" }
+}

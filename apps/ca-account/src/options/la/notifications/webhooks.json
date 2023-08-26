@@ -1,0 +1,8 @@
+{
+  "add_post": "post creata est",
+  "modify_post": "post modificatur",
+  "delete_post": "post deleta est,",
+  "add_post_comment": "post comment creata est",
+  "modify_post_comment": "post si ad usum comment",
+  "delete_post_comment": "post comment est deletum"
+}

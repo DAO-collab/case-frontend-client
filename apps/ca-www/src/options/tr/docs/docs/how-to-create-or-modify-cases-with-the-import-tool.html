@@ -1,0 +1,112 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  İçe Aktarma Aracıyla Servis Talepleri Nasıl Oluşturulur veya Değiştirilir
+</h1>
+<p>
+  Bu makale, yöneticilere İçe Aktarma aracıyla mevcut vakaların nasıl oluşturulacağını veya değiştirileceğini gösterir.
+</p>
+<h2 id="opening-the-import-tool">İçe Aktarma aracını açma</h2>
+<ol style="list-style-type: decimal">
+  <li>Yönetici hesabında oturum açın.</li>
+  <li>Uygulamalar sayfasında bir uygulama bulun ve YÖNETİCİ düğmesine tıklayın.</li>
+  <li>Yönetici panelinde, Entegrasyon sekmesine ve ardından alt menüde İTHALATLAR&#39;a tıklayın.</li>
+  <li>YENİ düğmesine tıklayın. İçe Aktarma Ekle iletişim kutusu yeni bir tarayıcı sekmesinde görüntülenir.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Vaka oluşturma</h2>
+<p>İthalat Ekle iletişim kutusu açıldıktan sonra:</p>
+<ol style="list-style-type: decimal">
+  <li>Tür alanını tıklayın ve bir seçenek belirleyin (aşağıya bakın). Bir bağlantı görüntülenir.</li>
+  <li>Örneği İndir bağlantısını tıklayın. Cihazınıza bir CSV dosyası indirilir.</li>
+</ol>
+<p>Ardından, dosyayı açın ve vakaları ekleyin.</p>
+<h2 id="type">Tip</h2>
+<p>
+  <strong>Tür</strong> alanını tıklattığınızda, bir açılır menü görüntülenir. Toplu vaka ithalatı için iki seçenekten
+  birini seçin.
+</p>
+<ul>
+  <li>
+    <strong>Not</strong> Açılır menüde pek çok seçenek vardır, ancak yalnızca ikisi vaka yönetimiyle ilgilidir. Her
+    seçeneğin farklı bir örnek CSV dosyası vardır.
+  </li>
+</ul>
+<h3 id="add-cases">Vaka ekle</h3>
+<ul>
+  <li>Vakaların basit bir toplu yüklemesi için bu seçeneği seçin.</li>
+  <li>
+    Vaka oluşturma içe aktarma türü için sütun başlıkları içeren bir CSV dosyası açmak için Örneği İndir bağlantısına
+    tıklayın.
+  </li>
+</ul>
+<h3 id="modify-cases">Vakaları değiştir</h3>
+<ul>
+  <li>Mevcut vakaları güncellemek için bu seçeneği seçin.</li>
+  <li>
+    Vakaları değiştir içe aktarma türü için sütun başlıkları içeren bir CSV dosyası açmak için Örneği İndir bağlantısına
+    tıklayın.
+  </li>
+</ul>
+<h2 id="uploading-the-file">dosya yükleniyor</h2>
+<p>
+  Hemen bir dosya yükleyebilir veya daha sonra İçe Aktarma Ekle iletişim kutusuna dönerek bu adımları
+  tamamlayabilirsiniz.
+</p>
+<ol style="list-style-type: decimal">
+  <li>İthalat Ekle iletişim kutusunu açın.</li>
+  <li>CSV dosyası için benzersiz bir ad girin.</li>
+  <li>Dosyayı cihazınızdan yüklemek için artı (+) simgesine tıklayın.</li>
+  <li>Tür alanını tıklayın ve bir seçenek belirleyin. (yukarıyı görmek)</li>
+  <li>KAYDET&#39;i tıklayın.</li>
+</ol>
+<div class="figure"><img src="/images/import-case-2.png" alt="img" /></div>
+<h2 id="formatting">biçimlendirme</h2>
+<p>
+  Bunlar zorunlu alanlar ve ilk gereksinimlerdir. Biçimlendirme ayrıntılarını incelemek için
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">burayı</a> tıklayın.
+</p>
+<p>
+  <strong>tag_id (veya case_ID)</strong> benzersiz bir tanımlayıcı (alfasayısal karakterler kullanın, kısa çizgiler
+  kabul edilir)
+</p>
+<p><strong>case_status</strong> 0 = kapalı 1 = aktif</p>
+<p><strong>tarih_açılma</strong> ay/gün/yıl aa/gg/yyyy</p>
+<p>
+  vakanın benzersiz bir açıklaması <strong>hakkında</strong> (alfanümerik karakterler kullanın, kısa çizgiler kabul
+  edilir)
+</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">İşleme</h2>
+<p>
+  Dosyadaki kayıt sayısına ve sistem yüküne bağlı olarak, platformun içe aktarmayı işlemesi birkaç dakika sürebilir.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  İçe aktarma tamamlandığında platform, yöneticinin Vakalar panosunda vaka kayıtlarını ayarlar (yani ekler veya
+  değiştirir).
+</p>
+<h2 id="failure">Arıza</h2>
+<p>
+  İçeri aktarma işlemi başarısız olursa, platform bir Başarısız mesajı döndürür. Çoğu durumda, başarısızlığın nedeni
+  veri biçimlendirmedir.
+</p>
+<div class="figure"><img src="/images/create-case-10.png" alt="img" /></div>
+<p>Başarısızlığın nedenini görmek için:</p>
+<ol style="list-style-type: decimal">
+  <li>EYLEM başlığı altında Görüntüle&#39;yi tıklayın.</li>
+  <li>Bir sonraki sayfada, fareyi Başarısız simgesinin üzerine getirin. Araç ipucu hatayı görüntüler.</li>
+  <li>CVS dosyasına gidin ve hatayı düzeltip düzeltin.</li>
+  <li>Dosyayı tekrar yükleyin.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

@@ -1,0 +1,18 @@
+{
+  "family_name": "Casata",
+  "given_name": "Nomu",
+  "locale": "Lingua preferita",
+  "zoneinfo": "Fuso orario",
+  "email": "Indirizzu mail",
+  "phone": "Numeru di telefonu",
+  "address1": "indirizzu pustale",
+  "address2": "Apt # o Unit\u00e0 #",
+  "locality": "Cit\u00e0 o Localit\u00e0",
+  "region": "Statu o Regione",
+  "postal_code": "Codice Postale o Zip",
+  "country": "Paese",
+  "birthdate": "Data di nascita",
+  "gender": "Genere",
+  "company": "Cumpagnia",
+  "title": "Titulu di nome"
+}

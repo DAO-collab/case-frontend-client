@@ -1,0 +1,95 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Felhasználói hozzárendelések hozzárendelése, módosítása vagy eltávolítása az importáló eszközzel
+</h1>
+<p>Ez a cikk bemutatja a rendszergazdáknak, hogyan kezelhetik az esetfelhasználókat az Importálás eszközzel.</p>
+<p>Az adminisztrátorok:</p>
+<ul>
+  <li>felhasználók hozzárendelése egy esethez</li>
+  <li>az esethez már hozzárendelt felhasználók módosítása</li>
+  <li>ügyhöz rendelt felhasználók eltávolítása</li>
+</ul>
+<h2 id="opening-the-import-tool">Az Importálás eszköz megnyitása</h2>
+<ol style="list-style-type: decimal">
+  <li>Jelentkezzen be a rendszergazdai fiókba.</li>
+  <li>Keressen meg egy alkalmazást az Alkalmazások oldalon, és kattintson az ADMINISZTRÁCIÓ gombra.</li>
+  <li>Kattintson az Integráció fülre, majd az IMPORTÁLÁSRA az almenüben.</li>
+  <li>Kattintson az ÚJ gombra. Megjelenik az Importálás hozzáadása párbeszédpanel.</li>
+</ol>
+<h2 id="creating-records">Rekordok létrehozása</h2>
+<p>
+  Töltsön le egy vagy több CSV-fájlt. Használja ezeket a fájlokat kisbetűs felhasználók hozzáadásához, módosításához
+  vagy eltávolításához. Miután megnyílik az Importálás hozzáadása párbeszédpanel:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Kattintson a Típus mezőre.</li>
+  <li>Görgessen végig a legördülő menüben, és válasszon egy lehetőséget (lásd alább). Megjelenik egy hivatkozás.</li>
+  <li>Kattintson a Minta letöltése hivatkozásra. CSV-fájl letöltésre kerül az eszközre.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-1.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Nyissa meg a fájlt, és adjon hozzá rekordokat. Ide kattintva megtudhatja, hogyan használhatja a formátumadatokat a
+  CSV-fájlban.
+</p>
+<h3 id="file-options">Fájlbeállítások</h3>
+<p>
+  <strong>Felhasználók hozzárendelése esetekhez</strong> * Válassza ezt a lehetőséget, ha felhasználókat szeretne
+  hozzáadni egy esethez. * Hagyja üresen a case_role_order cellát. * Lépjen a Felhasználók oldalra, és másolja ki a
+  személy címkeazonosítóját. Ha a Címkeazonosító mező üres, írjon be egy egyedi azonosítót, kattintson a Mentés gombra,
+  majd másolja az azonosítót a CSV-fájlba.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Ügyekhez rendelt felhasználók módosítása</strong> * Válassza ezt a lehetőséget az esethez rendelt aktuális
+  felhasználók adatainak frissítéséhez. * Az esetazonosító oszlophoz használja a Case Tag ID-t.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Ügyekhez rendelt felhasználók eltávolítása * Válassza ezt a lehetőséget az esetekhez</strong> rendelt
+  felhasználók eltávolításához.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">A fájl feltöltése</h2>
+<p>
+  Feltölthet egy fájlt azonnal, vagy egy későbbi időpontban visszatérhet az Importálás hozzáadása párbeszédpanelhez, és
+  végrehajthatja ezeket a lépéseket.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Nyissa meg az Importálás hozzáadása párbeszédpanelt.</li>
+  <li>Adjon meg egy egyedi nevet a CSV-fájlnak.</li>
+  <li>Kattintson a plusz (+) ikonra a fájl feltöltéséhez az eszközről.</li>
+  <li>Kattintson a Típus mezőre, és válasszon egy lehetőséget. (lásd fent)</li>
+  <li>Kattintson a MENTÉS gombra.</li>
+</ol>
+<h2 id="processing">Feldolgozás</h2>
+<p>
+  A fájlban lévő rekordok számától és a rendszerbetöltéstől függően a platformnak több percig is eltarthat az importálás
+  feldolgozása.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Az importálás befejeztével a platform módosítja a felhasználói rekordokat (azaz hozzáadja, módosítja vagy eltávolítja)
+  az Esetek oldalon.
+</p>
+<h2 id="failure">Kudarc</h2>
+<p>
+  Ha az importálási művelet sikertelen, a platform Sikertelen üzenetet ad vissza. A legtöbb esetben a hiba oka az adatok
+  formázása.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>A hiba okának megtekintéséhez:</p>
+<ol style="list-style-type: decimal">
+  <li>Kattintson a Nézet gombra a Művelet fejléc alatt.</li>
+  <li>A következő oldalon vigye az egeret a Sikertelen ikonra. Az eszköztipp megjeleníti a hibát.</li>
+  <li>Nyissa meg a CVS fájlt, és állítsa be és javítsa ki a hibát.</li>
+  <li>Töltse fel újra a fájlt.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

@@ -1,0 +1,1 @@
+export type CaseStatus = 0 | 1;

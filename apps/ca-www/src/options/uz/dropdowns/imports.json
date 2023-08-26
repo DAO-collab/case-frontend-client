@@ -1,0 +1,11 @@
+{
+  "post_user": "Foydalanuvchilarni qo&#39;shish",
+  "put_user": "Foydalanuvchilarni o&#39;zgartirish",
+  "put_user_status": "Foydalanuvchilar holatini o&#39;zgartirish",
+  "post_case": "Ishlarni yarating",
+  "put_case": "Vaziyatlarni o&#39;zgartirish",
+  "post_case_permission": "Foydalanuvchilarni holatlarga tayinlang",
+  "put_case_permission": "Ishlarga tayinlangan foydalanuvchilarni o&#39;zgartirish",
+  "post_case_post": "Vaziyat postlarini yarating",
+  "delete_case_permission": "Ishlarga tayinlangan foydalanuvchilarni olib tashlang"
+}

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Lestu allan m\u00e1lareitinn sem tilgreindur er \u00ed hlutverki",
+    "write": "Skrifa\u00f0u allt tilvikssvi\u00f0 tilgreint \u00ed hlutverki"
+  },
+  "convos": {
+    "read_all": "Sko\u00f0a n\u00faverandi st\u00f6\u00f0u samr\u00e6\u00f0na.",
+    "manage_own": "Taktu \u00fe\u00e1tt og taktu \u00fe\u00e1tt \u00ed samtali.",
+    "moderate_others": "Hefja samtal, enda samtal og fjarl\u00e6gja \u00fe\u00e1tttakanda.",
+    "read_all_submissions": "Lestu \u00f6ll skr\u00e1\u00f0 samr\u00e6\u00f0ur."
+  },
+  "events": {
+    "read_all": "Lestu alla vi\u00f0bur\u00f0i.",
+    "manage_own": "B\u00fa\u00f0u til, uppf\u00e6r\u00f0u og eyddu eigin atbur\u00f0i.",
+    "moderate_others": "Uppf\u00e6r\u00f0u og eyddu vi\u00f0bur\u00f0i annarra.",
+    "read_all_submissions": "Lestu allar sta\u00f0festingar \u00e1 vi\u00f0bur\u00f0um.",
+    "submit_own": "Sta\u00f0festu bei\u00f0ni um m\u00e6tingu \u00e1 vi\u00f0bur\u00f0."
+  },
+  "posts": {
+    "read_all": "Lestu allar f\u00e6rslur.",
+    "manage_own": "B\u00fa\u00f0u til, uppf\u00e6r\u00f0u og eyddu eigin f\u00e6rslu.",
+    "moderate_others": "Uppf\u00e6r\u00f0u og eyddu f\u00e6rslu annarra."
+  },
+  "forms": {
+    "read_all": "Lestu \u00f6ll ey\u00f0ubl\u00f6\u00f0.",
+    "manage_own": "B\u00fa\u00f0u til, uppf\u00e6r\u00f0u og eyddu eigin ey\u00f0ubla\u00f0i.",
+    "moderate_others": "Uppf\u00e6r\u00f0u og eyddu ey\u00f0ubla\u00f0i annarra.",
+    "read_all_submissions": "Lestu \u00f6ll ey\u00f0ubl\u00f6\u00f0.",
+    "submit_own": "Sendu bei\u00f0ni um ey\u00f0ubla\u00f0."
+  },
+  "invoices": {
+    "read_all": "Lestu alla reikninga.",
+    "manage_own": "B\u00faa til, uppf\u00e6ra og ey\u00f0a eigin reikningi.",
+    "moderate_others": "Uppf\u00e6ra og ey\u00f0a reikningi annarra.",
+    "read_all_submissions": "Lestu allar innsendingar reikninga.",
+    "submit_own": "Sendu bei\u00f0ni um reikning."
+  },
+  "notes": {
+    "read_all": "Lestu allar athugasemdir.",
+    "manage_own": "B\u00fa\u00f0u til, uppf\u00e6r\u00f0u og eyddu eigin minnismi\u00f0a.",
+    "moderate_others": "Uppf\u00e6r\u00f0u og eyddu athugasemd annarra."
+  },
+  "signs": {
+    "read_all": "Lestu \u00f6ll rafr\u00e6n skilti.",
+    "manage_own": "B\u00fa\u00f0u til, uppf\u00e6r\u00f0u og eyddu eigin rafr\u00e6nu merki.",
+    "moderate_others": "Uppf\u00e6r\u00f0u og eyddu rafr\u00e6nu merki annarra.",
+    "read_all_submissions": "Lestu allar sendingar um rafr\u00e6n skilti.",
+    "submit_own": "Sendu reitbei\u00f0ni."
+  },
+  "tasks": {
+    "read_all": "Lestu \u00f6ll verkefni.",
+    "manage_own": "B\u00fa\u00f0u til, uppf\u00e6r\u00f0u og eyddu eigin verkefni.",
+    "moderate_others": "Uppf\u00e6r\u00f0u og eyddu verkefni annarra.",
+    "read_all_submissions": "Lestu \u00f6ll verkefnisskil.",
+    "submit_own": "Sendu verkbei\u00f0ni."
+  },
+  "team": { "read_all": "Lestu li\u00f0 ef tilfelli" }
+}

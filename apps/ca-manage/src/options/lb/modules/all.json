@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Liest all Fall Feld spezifiz\u00e9ieren an Roll",
+    "write": "Schreiwen all Fall Feld uginn an Roll"
+  },
+  "convos": {
+    "read_all": "View aktuell Status vun convos.",
+    "manage_own": "Maacht mat an unjoin convo.",
+    "moderate_others": "Start convo, Enn convo, an ewechzehuelen Participant.",
+    "read_all_submissions": "Liesen all opgeholl convos."
+  },
+  "events": {
+    "read_all": "Liest all Eventer.",
+    "manage_own": "Erstellt, aktualis\u00e9ieren a l\u00e4schen eegent Event.",
+    "moderate_others": "Update an l\u00e4schen aneren Event.",
+    "read_all_submissions": "Liesen all Event Confirmatiouns.",
+    "submit_own": "Confirm\u00e9ieren Event Participatioun Ufro."
+  },
+  "posts": {
+    "read_all": "Liest all Posts.",
+    "manage_own": "Erstellt, aktualis\u00e9ieren a l\u00e4schen eegene Post.",
+    "moderate_others": "Update an l\u00e4schen aneren d&#39;Post."
+  },
+  "forms": {
+    "read_all": "Liest all Formen.",
+    "manage_own": "Erstellt, aktualis\u00e9ieren a l\u00e4schen eegent Formulaire.",
+    "moderate_others": "Update an l\u00e4schen aner Form.",
+    "read_all_submissions": "Liest all Formulaire Soumissioun.",
+    "submit_own": "Formular Ufro ofginn."
+  },
+  "invoices": {
+    "read_all": "Liest all Rechnungen.",
+    "manage_own": "Erstelle, aktualis\u00e9ieren a l\u00e4schen eegene Rechnung.",
+    "moderate_others": "Aktualis\u00e9ieren a l\u00e4schen aner Rechnung.",
+    "read_all_submissions": "Liesen all Rechnung Soumissioun.",
+    "submit_own": "Gitt Rechnungsufro of."
+  },
+  "notes": {
+    "read_all": "Liest all Notizen.",
+    "manage_own": "Erstellt, aktualis\u00e9ieren a l\u00e4schen eegent Notiz.",
+    "moderate_others": "Update an l\u00e4schen aneren Notiz."
+  },
+  "signs": {
+    "read_all": "Liest all E-Sch\u00eblder.",
+    "manage_own": "Erstellt, aktualis\u00e9ieren a l\u00e4schen eegent E-Zeechen.",
+    "moderate_others": "Update an l\u00e4schen aneren d&#39;E-Zeechen.",
+    "read_all_submissions": "Liest all E-Zeechen Soumissioun.",
+    "submit_own": "Gitt Feldufro of."
+  },
+  "tasks": {
+    "read_all": "Liest all Aufgaben.",
+    "manage_own": "Erstellt, aktualis\u00e9ieren a l\u00e4schen eegen Aufgab.",
+    "moderate_others": "Update a l\u00e4schen aner Aufgab.",
+    "read_all_submissions": "Liesen all Aufgab Soumissioun.",
+    "submit_own": "Gitt Aufgab Ufro."
+  },
+  "team": { "read_all": "Liesen Equipe am Fall" }
+}

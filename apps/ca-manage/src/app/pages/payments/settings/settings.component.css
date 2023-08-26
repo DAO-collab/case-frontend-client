@@ -1,0 +1,61 @@
+#sub {
+  border-top: none !important;
+  padding-top: 0 !important;
+}
+
+#sub:before {
+  border-top: none !important;
+}
+
+.items {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -20px;
+}
+
+.btn-item {
+  text-transform: none;
+  padding-left: 10px !important;
+}
+
+.disable-btn a {
+  background-color: white !important;
+  border: 1px solid #dbdbdb;
+  color: #9ba1a3;
+}
+
+.stripe-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-side-stripe {
+  display: flex;
+  align-items: center;
+}
+
+.stripe-icon {
+  margin-right: 16px;
+}
+
+.stripe-label {
+  font-size: 16px;
+  margin-right: 24px;
+}
+
+:host ::ng-deep .material-switch input[type='checkbox'] {
+  display: none !important;
+}
+
+.primary-outline {
+  padding: 3px 16px;
+  font-size: 14px;
+  line-height: initial;
+}
+
+@media screen and (max-width: 760px) {
+  .items {
+    margin-top: 20px !important;
+  }
+}

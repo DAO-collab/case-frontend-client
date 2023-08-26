@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Wenn ein Beitrag zum Feed hinzugef\u00fcgt wird",
+  "app_confirmation_events": "Event-RSVP wird von mir angefordert",
+  "app_submission_events": "Meine Event-Anfrage wird beantwortet",
+  "app_requested_forms": "Die Formular\u00fcbermittlung wird von mir erbeten",
+  "app_submission_forms": "Mein Formular wurde von jemandem \u00fcbermittelt",
+  "app_requested_signs": "Unterschriften\u00fcbergabe wird von mir erbeten",
+  "app_submission_signs": "Mein Dokument ist von jemandem unterschrieben",
+  "app_requested_tasks": "Aufgabe wird von mir angefordert",
+  "app_submission_tasks": "Meine Aufgabe wird von jemandem erledigt",
+  "app_requested_invoices": "Rechnungsstellung wird von mir erbeten",
+  "app_submission_invoices": "Meine Rechnung wird von jemandem bezahlt"
+}

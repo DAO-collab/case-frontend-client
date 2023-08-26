@@ -1,0 +1,18 @@
+{
+  "family_name": "\u59d3",
+  "given_name": "\u540d\u5b57",
+  "locale": "\u9996\u9009\u8bed\u8a00",
+  "zoneinfo": "\u65f6\u533a",
+  "email": "\u7535\u5b50\u90ae\u4ef6\u5730\u5740",
+  "phone": "\u7535\u8bdd\u53f7\u7801",
+  "address1": "\u8857\u9053\u5730\u5740",
+  "address2": "\u516c\u5bd3\u7f16\u53f7\u6216\u5355\u4f4d\u7f16\u53f7",
+  "locality": "\u57ce\u5e02\u6216\u5730\u533a",
+  "region": "\u5dde\u6216\u5730\u533a",
+  "postal_code": "\u90ae\u9012\u533a\u53f7",
+  "country": "\u56fd\u5bb6",
+  "birthdate": "\u751f\u65e5",
+  "gender": "\u6027\u522b",
+  "company": "\u516c\u53f8",
+  "title": "\u540d\u5b57\u6807\u9898"
+}

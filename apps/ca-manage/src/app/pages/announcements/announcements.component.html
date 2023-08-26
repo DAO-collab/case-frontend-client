@@ -1,0 +1,50 @@
+<article id="content" class="module-d">
+  <div class="table-wrapper">
+    <table class="table-a" *ngIf="announcements.length && !isLoading">
+      <tr>
+        <th translate>Title</th>
+        <th translate>Created on</th>
+        <th translate>Expires on</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let announcement of announcements; let index = index">
+        <td>{{ announcement.title }}</td>
+        <td>{{ announcement.created_on | date : 'longDate' }}</td>
+        <td>{{ showLocalDate(announcement.expire_on) | date : 'short' }}</td>
+        <td>
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="editAnnouncement(announcement)" translate>
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit
+              </a>
+
+              <a
+                appConfirmationPopUp
+                title="Delete Announcement"
+                [message]="'You are about to delete announcement. Are you sure?'"
+                (yes)="deleteAnnouncement(announcement)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Delete
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <app-loader [active]="isLoading"></app-loader>
+
+  <p *ngIf="announcements.length === 0 && !isLoading" class="text-center" translate>No announcements yet.</p>
+</article>
+
+<app-create-announcement-modal
+  *ngIf="announcementsService.isCreatePopupOpened | async"
+  [broadcast]="announcementForEdit"
+  (submitAnnouncement)="saveNewAnnouncement($event)"
+  (closeModal)="closeModal()"
+></app-create-announcement-modal>

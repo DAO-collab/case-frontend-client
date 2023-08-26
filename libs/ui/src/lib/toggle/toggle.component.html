@@ -1,0 +1,13 @@
+<mat-slide-toggle 
+  [checked]="checked ? true: false"
+  [disabled]="disabled"
+  [name]="name"
+  [title]="title"
+  [aria-label]="ariaLabel"
+  [aria-labelledby]="ariaLabelBy"
+  (change)="onToggle($event)"
+  *ngIf="condition"
+  customDirective
+>
+  {{ text }}
+</mat-slide-toggle>

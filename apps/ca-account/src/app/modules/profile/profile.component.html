@@ -1,0 +1,621 @@
+<article id="content" class="module-d profile-page">
+  <app-loader [active]="loading"></app-loader>
+  <form
+    [formGroup]="profileForm"
+    (ngSubmit)="saveProfile()"
+    autocomplete="off"
+    about=""
+    [hidden]="loading"
+    *ngIf="options"
+    novalidate
+  >
+    <div id="scrollTopTarget"></div>
+    <!-- Show email or phone verification fields here -->
+    <p class="no-margin" app-ca-error [errors]="savingError" [location]="'!'"></p>
+    <h3 class="off-margin-top" translate>Basic</h3>
+    <p class="triple a mobile-hide">
+      <span class="zero-font-size">
+        <span show-empty="true" app-ca-error [errors]="savingError" [location]="'given_name'">
+          <span translate>First Name</span>
+        </span>
+      </span>
+      <span class="zero-font-size">
+        <span show-empty="true" app-ca-error [errors]="savingError" [location]="'family_name'">
+          <span translate>Last Name</span>
+        </span>
+      </span>
+    </p>
+    <div class="info-section">
+      <div class="w-58 user-detail">
+        <p class="triple a">
+          <span class="user-detail-input">
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'given_name'">
+              <span translate>First Name</span>
+            </span>
+            <label for="given-name" translate>First Name</label>
+            <input
+              id="given-name"
+              name="given-name"
+              placeholder="{{ 'First Name' | translate }}"
+              type="text"
+              formControlName="given_name"
+              maxlength="250"
+              autocomplete="given-name"
+            />
+          </span>
+          <span class="user-detail-input">
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'family_name'">
+              <span translate>Last Name</span>
+            </span>
+            <label for="family-name" translate>Last Name</label>
+            <input
+              id="family-name"
+              name="family-name"
+              placeholder="{{ 'Last Name' | translate }}"
+              type="text"
+              formControlName="family_name"
+              maxlength="250"
+              autocomplete="family-name"
+            />
+          </span>
+        </p>
+        <p class="triple a mobile-hide">
+          <span>
+            <span app-ca-error [errors]="savingError" [location]="'birthdate'">
+              <span translate>Date of Birth</span>
+            </span>
+          </span>
+          <span>
+            <span app-ca-error [errors]="savingError" [location]="'gender'">
+              <span translate>Gender</span>
+            </span>
+          </span>
+        </p>
+        <p class="triple a">
+          <span class="user-detail-input">
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'birthdate'">
+              <span translate>Date of Birth</span>
+            </span>
+            <label for="bday" translate>Date of Birth</label>
+            <div class="date-of-birth-wrapper">
+              <input
+                mwlFlatpickr
+                dateFormat="m/d/Y"
+                type="text"
+                id="bday"
+                name="bday"
+                class="form-control"
+                formControlName="birthdate"
+                [static]="true"
+                autocomplete="bday"
+              />
+            </div>
+          </span>
+          <span class="user-detail-input">
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'gender'">
+              <span translate>Gender</span>
+            </span>
+            <label for="sex_sel" translate>Gender</label>
+            <ng-select
+              [items]="options.genders"
+              bindLabel="text"
+              bindValue="id"
+              formControlName="gender"
+              id="sex_sel"
+              placeholder="{{ 'No gender selected' | translate }}"
+            ></ng-select>
+          </span>
+        </p>
+      </div>
+      <div>
+        <div>
+          <p
+            class="notice-a success form-h-element"
+            id="avatarMessage"
+            app-ca-translate
+            [message]="avatarMessage"
+            *ngIf="avatarMessage"
+          ></p>
+        </div>
+        <app-avatar
+          (avatarOnUpload)="avatarOnUpload(success)"
+          (avatarOnRemove)="avatarOnRemove()"
+          [profileImage]="profileImage"
+          [avatarIsLoading]="uploadingAvatar"
+        ></app-avatar>
+      </div>
+    </div>
+    <!-- <p class="triple a">
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'given_name'">
+          <span translate>First Name</span>
+        </span>
+        <label for="first_name" translate>First Name</label>
+        <input
+          id="first_name"
+          name="first_name"
+          placeholder="{{ 'First Name' | translate }}"
+          type="text"
+          formControlName="given_name"
+          maxlength="250"
+        />
+      </span>
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'family_name'">
+          <span translate>Last Name</span>
+        </span>
+        <label for="last_name" translate>Last Name</label>
+        <input
+          id="last_name"
+          name="last_name"
+          placeholder="{{ 'Last Name' | translate }}"
+          type="text"
+          formControlName="family_name"
+          maxlength="250"
+        />
+      </span>
+    </p>
+
+    <div class="info-section">
+      <div class="w-100">
+        <p class="triple a">
+          <span>
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'given_name'">
+              <span translate>First Name</span>
+            </span>
+            <label for="first_name" translate>First Name</label>
+            <input
+              id="first_name"
+              name="first_name"
+              placeholder="{{ 'First Name' | translate }}"
+              type="text"
+              formControlName="given_name"
+              maxlength="250"
+            />
+          </span>
+          <span>
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'family_name'">
+              <span translate>Last Name</span>
+            </span>
+            <label for="last_name" translate>Last Name</label>
+            <input
+              id="last_name"
+              name="last_name"
+              placeholder="{{ 'Last Name' | translate }}"
+              type="text"
+              formControlName="family_name"
+              maxlength="250"
+            />
+          </span>
+        </p>
+        <p class="triple a mobile-hide">
+          <span>
+            <span app-ca-error [errors]="savingError" [location]="'birthdate'">
+              <span translate>Date of Birth</span>
+            </span>
+          </span>
+          <span>
+            <span app-ca-error [errors]="savingError" [location]="'gender'">
+              <span translate>Gender</span>
+            </span>
+          </span>
+        </p>
+        <p class="triple a">
+          <span>
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'birthdate'">
+              <span translate>Date of Birth</span>
+            </span>
+            <label for="date_of_birth" translate>Date of Birth</label>
+            <div class="date-of-birth-wrapper">
+              <input
+                mwlFlatpickr
+                dateFormat="m/d/Y"
+                type="text"
+                id="date_of_birth"
+                name="date_of_birth"
+                class="form-control"
+                formControlName="birthdate"
+                [maxDate]="maxBirthdate"
+                [static]="true"
+              />
+            </div>
+          </span>
+          <span>
+            <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'gender'">
+              <span translate>Gender</span>
+            </span>
+            <label for="gender" translate>Gender</label>
+            <ng-select
+              [items]="options.genders"
+              bindLabel="text"
+              bindValue="id"
+              formControlName="gender"
+              name="gender"
+              placeholder="{{ 'No gender selected' | translate }}"
+            ></ng-select>
+          </span>
+        </p>
+        <p class="change-pass-btn">
+          <a class="btn" (click)="changePasswordModal(true)"> Change Password </a>
+        </p>
+      </div>
+      <div>
+        <div>
+          <p
+            class="notice-a success form-h-element"
+            id="avatarMessage"
+            app-ca-translate
+            [message]="avatarMessage"
+            *ngIf="avatarMessage"
+          ></p>
+        </div>
+        <app-avatar
+          (avatarOnUpload)="avatarOnUpload(success)"
+          (avatarOnRemove)="avatarOnRemove()"
+          [profileImage]="profileImage"
+          [avatarIsLoading]="uploadingAvatar"
+        ></app-avatar>
+      </div>
+    </div>
+    <p class="triple a mobile-hide">
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'birthdate'">
+          <span translate>Date of Birth</span>
+        </span>
+      </span>
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'gender'">
+          <span translate>Gender</span>
+        </span>
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'birthdate'">
+          <span translate>Date of Birth</span>
+        </span>
+        <label for="date_of_birth" translate>Date of Birth</label>
+        <div class="date-of-birth-wrapper">
+          <input
+            mwlFlatpickr
+            dateFormat="m/d/Y"
+            type="text"
+            id="date_of_birth"
+            name="date_of_birth"
+            class="form-control"
+            formControlName="birthdate"
+            [maxDate]="maxBirthdate"
+            [static]="true"
+          />
+        </div>
+      </span>
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'gender'">
+          <span translate>Gender</span>
+        </span>
+        <label for="gender" translate>Gender</label>
+        <ng-select
+          [items]="options.genders"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="gender"
+          name="gender"
+          placeholder="{{ 'No gender selected' | translate }}"
+        ></ng-select>
+      </span>
+    </p> -->
+    <h3 translate>Occupation</h3>
+    <p class="triple a mobile-hide">
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'company'">
+          <span translate>Company Name</span>
+        </span>
+      </span>
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'title'">
+          <span translate>Company Title</span>
+        </span>
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'company'">
+          <span translate>Company Name</span>
+        </span>
+        <label for="company-name" translate>Company Name</label>
+        <input
+          id="company-name"
+          name="company-name"
+          placeholder="{{ 'Company Name' | translate }}"
+          type="text"
+          formControlName="company"
+          maxlength="250"
+          autocomplete="off"
+        />
+      </span>
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'title'">
+          <span [innerHTML]="'Company Title' | translate"></span>
+        </span>
+        <label for="company-title" [innerHTML]="'Company Title' | translate"></label>
+        <input
+          id="company-title"
+          name="company-title"
+          placeholder="{{ 'Company Title' | translate | replaceUnsupportedSymbols }}"
+          type="text"
+          formControlName="title"
+          maxlength="250"
+          autocomplete="off"
+        />
+      </span>
+    </p>
+    <h3 translate>Location</h3>
+    <p class="triple a mobile-hide">
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'address1'">
+          <span translate>Address</span>
+        </span>
+      </span>
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'address2'">
+          <span translate>Address 2</span>
+        </span>
+      </span>
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'locality'">
+          <span translate>City/Locality</span>
+        </span>
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'address1'">
+          <span translate>Address</span>
+        </span>
+        <label for="address-line1" translate>Address</label>
+        <input
+          id="address-line1"
+          type="text"
+          name="address-line1"
+          maxlength="250"
+          placeholder="{{ 'Address' | translate }}"
+          formControlName="address1"
+          autocomplete="address-line1"
+        />
+        <span
+          app-ca-error
+          *ngIf="profileForm?.controls?.['address1']?.errors"
+          [errors]="[profileForm.controls['address1'].errors]"
+          [location]="'address1'"
+        >
+          <span translate>Address is not valid</span>
+        </span>
+      </span>
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'address2'">
+          <span translate>Address 2</span>
+        </span>
+        <label for="address-line2" translate>Address 2</label>
+        <input
+          id="address-line2"
+          type="text"
+          name="address-line2"
+          maxlength="250"
+          placeholder="{{ 'Address 2' | translate }}"
+          formControlName="address2"
+          autocomplete="address-line2"
+        />
+        <span
+          app-ca-error
+          *ngIf="profileForm?.controls?.['address2']?.errors"
+          [errors]="[profileForm.controls['address2'].errors]"
+          [location]="'address2'"
+        >
+          <span translate>Address is not valid</span>
+        </span>
+      </span>
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'locality'">
+          <span translate>City/Locality</span>
+        </span>
+
+        <label for="address-level2" translate>City/Locality</label>
+        <input
+          id="address-level2"
+          type="text"
+          name="address-level2"
+          maxlength="250"
+          placeholder="{{ 'City/Locality' | translate }}"
+          formControlName="locality"
+          autocomplete="address-level2"
+        />
+        <span
+          app-ca-error
+          *ngIf="profileForm?.controls?.['locality']?.errors"
+          [errors]="[profileForm.controls['locality'].errors]"
+          [location]="'locality'"
+        >
+          <span translate>City/Locality is not valid</span>
+        </span>
+      </span>
+    </p>
+    <p class="triple a mobile-hide">
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'region'">
+          <span translate>State/Region</span>
+        </span>
+      </span>
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'country'">
+          <span translate>Country</span>
+        </span>
+      </span>
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'postal_code'">
+          <span translate>Zip/Postal Code</span>
+        </span>
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'region'">State/Region </span>
+        <label for="address-level1" translate>State/Region</label>
+        <input
+          id="address-level1"
+          type="text"
+          name="address-level1"
+          maxlength="250"
+          placeholder="{{ 'State/Region' | translate }}"
+          formControlName="region"
+          autocomplete="address-level1"
+        />
+        <span
+          app-ca-error
+          *ngIf="profileForm?.controls?.['region']?.errors"
+          [errors]="[profileForm.controls['region'].errors]"
+          [location]="'region'"
+        >
+          <span translate>State/Region is not valid</span>
+        </span>
+      </span>
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'country'">
+          <span translate>Country</span>
+        </span>
+        <label for="country_sel" translate>Country</label>
+        <ng-select
+          [items]="options.countries"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="country"
+          id="country_sel"
+          placeholder="{{ 'No country selected' | translate }}"
+        ></ng-select>
+      </span>
+      <span>
+        <span class="mobile-only" app-ca-error [errors]="savingError" [location]="'postal_code'">
+          <span translate>Zip/Postal Code</span>
+        </span>
+        <label for="postal-code" translate>Zip/Postal Code</label>
+        <input
+          id="postal-code"
+          name="postal-code"
+          placeholder="{{ 'Zip/Postal Code' | translate }}"
+          type="text"
+          formControlName="postal_code"
+          maxlength="16"
+          autocomplete="postal-code"
+        />
+      </span>
+    </p>
+
+    <h3 translate>Contact Info</h3>
+    <app-change-contact
+      #changeContact
+      [user]="originalProfile"
+      [savingError]="savingError"
+      [updating]="updating"
+      (cancelVerify)="cancelVerify($event)"
+      (reclaim)="reclaim($event)"
+      (openVerifyModal)="openVerifyModal($event)"
+      (updateContacts)="updateContacts($event)"
+    ></app-change-contact>
+    <h3 translate>Language &amp; Region</h3>
+    <p class="triple a">
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'locale'">
+          <span translate>Language</span>
+        </span>
+        <label for="language_sel" translate>Language</label>
+        <ng-select
+          #languageElem
+          id="language_sel"
+          [items]="options.languages"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="locale"
+          placeholder="{{ 'No language selected' | translate }}"
+          [closeOnSelect]="true"
+        >
+        </ng-select>
+      </span>
+      <span>
+        <span app-ca-error [errors]="savingError" [location]="'zoneinfo'">
+          <span translate>Timezone</span>
+        </span>
+        <label translate>Timezone</label>
+        <ng-select
+          [items]="options.timezones"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="zoneinfo"
+          placeholder="{{ 'No timezone selected' | translate }}"
+          id="timezone"
+        >
+        </ng-select>
+      </span>
+      <span>
+        <input hidden />
+      </span>
+    </p>
+
+    <!--    <h3 translate>Change Password</h3>-->
+    <!--    <p class="triple a">-->
+    <!--      <app-change-password-->
+    <!--        class="w-100"-->
+    <!--        #changePasword-->
+    <!--        [updating]="updating"-->
+    <!--        [isPasswordsSuccess$]="isPasswordsSuccess$"-->
+    <!--        (updatePassword)="updatePassword($event)"-->
+    <!--      ></app-change-password>-->
+    <!--    </p>-->
+    <h3 translate>Notifications</h3>
+    <p class="half a" *ngIf="notificationsValue?.length">
+      <ng-container *ngFor="let item of display_notification">
+        <label translate class="bold">{{ item.label }}</label> <br /><br />
+        <ng-container *ngFor="let item_selection of item.value">
+          <ng-container *ngFor="let notification of notificationsValue">
+            <span style="padding-bottom: 10px" class="notification" *ngIf="notification.id === item_selection">
+              <label translate class="container">
+                {{ notification.text }}
+                <input
+                  style="width: 20px !important; height: 30px; float: left !important"
+                  id="notification"
+                  type="checkbox"
+                  [checked]="showCheckedOrUnchecked(item_selection)"
+                  (change)="notificationUpdated(item_selection)"
+                />
+                <span class="checkmark"></span>
+              </label>
+            </span>
+          </ng-container>
+        </ng-container>
+        <br /><br />
+      </ng-container>
+    </p>
+    <p class="submit">
+      <button
+        type="submit"
+        class="f-right"
+        [disabled]="
+          (updating || profileForm.pristine || profileForm.invalid) &&
+          !changeContact.contactForm.touched &&
+          notificationsCheck &&
+          isNotificationsChanged(this.notifications, this.firstComeNotifications!)
+        "
+      >
+        <span *ngIf="!updating" translate>Save</span>
+        <span *ngIf="updating" translate>Saving</span>
+      </button>
+      <a class="cancel" class="f-right" (click)="resetForm()" translate>Cancel</a>
+    </p>
+  </form>
+</article>
+<app-verify-modal></app-verify-modal>
+<!--<app-change-password-modal-->
+<!--  *ngIf="isOpenChangePasswordModal"-->
+<!--  [updating]="updating"-->
+<!--  [isPasswordsSuccess$]="isPasswordsSuccess$"-->
+<!--  (updatePassword)="updatePassword($event)"-->
+<!--  (closeChangePasswordModal)="changePasswordModal($event)"-->
+<!--&gt;</app-change-password-modal>-->

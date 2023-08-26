@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "E heluhelu i n\u0101 kiko kiko a pau ma ke kuleana",
+    "write": "K\u0101kau i n\u0101 kiko kiko a pau e pili ana i ke kuleana"
+  },
+  "convos": {
+    "read_all": "N\u0101n\u0101 i ke k\u016blana o k\u0113ia manawa o convo.",
+    "manage_own": "E hui a wehe i ka convo.",
+    "moderate_others": "E ho\u02bbomaka i ka convo, e ho\u02bbopau i ka convo, a wehe i ka mea komo.",
+    "read_all_submissions": "E heluhelu i n\u0101 convo i ho\u02bbopa\u02bba \u02bbia."
+  },
+  "events": {
+    "read_all": "E heluhelu i n\u0101 hanana a pau.",
+    "manage_own": "Hana, ho\u02bbohou a holoi i ka hanana pono\u02bb\u012b.",
+    "moderate_others": "Ho\u02bbohou a holoi i ka hanana \u02bb\u0113 a\u02bbe.",
+    "read_all_submissions": "E heluhelu i n\u0101 h\u014d\u02bboia hanana a pau.",
+    "submit_own": "E h\u014d\u02bboia i ke noi hele \u02bbana i n\u0101 hanana."
+  },
+  "posts": {
+    "read_all": "E heluhelu i n\u0101 pou a pau.",
+    "manage_own": "Hana, ho\u02bbohou a holoi i ka pou pono\u02bb\u012b.",
+    "moderate_others": "Ho\u02bbohou a holoi i ka memo a kekahi."
+  },
+  "forms": {
+    "read_all": "E heluhelu i na palapala a pau.",
+    "manage_own": "Hana, ho\u02bbohou a holoi i ke \u02bbano pono\u02bb\u012b.",
+    "moderate_others": "Ho\u02bbohou a holoi i ke \u02bbano o n\u0101 mea \u02bb\u0113 a\u02bbe.",
+    "read_all_submissions": "E heluhelu i n\u0101 palapala ho\u02bbouna a pau.",
+    "submit_own": "Waiho mai i ka palapala noi."
+  },
+  "invoices": {
+    "read_all": "E heluhelu i n\u0101 pepa pepa a pau.",
+    "manage_own": "Hana, ho\u02bbohou a holoi i ka waihona k\u0101l\u0101 pono\u02bb\u012b.",
+    "moderate_others": "Ho\u02bbohou a holoi i ka pepa k\u0101l\u0101 a kekahi.",
+    "read_all_submissions": "E heluhelu i n\u0101 palapala ho\u02bbouna a pau.",
+    "submit_own": "Waiho i ka palapala noi."
+  },
+  "notes": {
+    "read_all": "E heluhelu i n\u0101 memo a pau.",
+    "manage_own": "Hana, ho\u02bbohou a holoi i ka memo pono\u02bb\u012b.",
+    "moderate_others": "Ho\u02bbopau a holoi i ka memo a kekahi."
+  },
+  "signs": {
+    "read_all": "E heluhelu i n\u0101 e-h\u014d\u02bbailona.",
+    "manage_own": "Hana, h\u014d\u02bbano hou a holoi i ka e-h\u014d\u02bbailona pono\u02bb\u012b.",
+    "moderate_others": "Ho\u02bbohou a holoi i ka e-h\u014d\u02bbailona \u02bb\u0113 a\u02bbe.",
+    "read_all_submissions": "E heluhelu i n\u0101 palapala ho\u02bbouna e-sign.",
+    "submit_own": "Waiho mai i ke noi kahua."
+  },
+  "tasks": {
+    "read_all": "E heluhelu i n\u0101 hana a pau.",
+    "manage_own": "Hana, ho\u02bbohou a holoi i ka hana pono\u02bb\u012b.",
+    "moderate_others": "Ho\u02bbohou a holoi i ka hana a kekahi.",
+    "read_all_submissions": "E heluhelu i n\u0101 ho\u02bbouna hana a pau.",
+    "submit_own": "Waiho i ka noi hana."
+  },
+  "team": { "read_all": "Heluhelu hui i ka hihia" }
+}

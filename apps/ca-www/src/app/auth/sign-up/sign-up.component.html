@@ -1,0 +1,182 @@
+<form class="form-c" id="free-trial-form" [formGroup]="signUpForm" (ngSubmit)="signUp()">
+  <div *ngIf="!successMessage">
+    <header class="text-center" id="header">
+      <h3 id="modal-title" [innerHTML]="'Get Started' | translate"></h3>
+      <p id="modal-describe" [innerHTML]="'You’re minutes away from a better collaboration.' | translate"></p>
+    </header>
+    <p>
+      <span>
+        <label for="given_name">
+          <span class="req overlay-a"> *</span>
+        </label>
+        <input
+          appNameField
+          id="given_name"
+          autocomplete="off"
+          formControlName="given_name"
+          type="text"
+          placeholder="{{ 'First Name' | translate | replaceUnsupportedSymbols }}"
+          maxlength="250"
+          required
+        />
+      </span>
+      <span>
+        <label for="family_name">
+          <span class="req overlay-a"> *</span>
+        </label>
+        <input
+          appNameField
+          id="family_name"
+          autocomplete="off"
+          formControlName="family_name"
+          type="text"
+          placeholder="{{ 'Last Name' | translate | replaceUnsupportedSymbols }}"
+          maxlength="250"
+          required
+        />
+      </span>
+    </p>
+    <p>
+      <label for="email">
+        <span class="req overlay-a"> *</span>
+      </label>
+      <input
+        id="email"
+        autocomplete="email"
+        formControlName="email"
+        type="text"
+        placeholder="{{ 'Email' | translate | replaceUnsupportedSymbols }}"
+        maxlength="250"
+        required
+      />
+    </p>
+    <p
+      id="email-validation-field"
+      class="required"
+      *ngIf="control('email').invalid && control('email').touched"
+      translate
+    >
+      Email is not valid.
+    </p>
+    <p>
+      <span>
+        <label for="password">
+          <span class="req overlay-a"> *</span>
+        </label>
+        <input
+          id="password"
+          formControlName="password"
+          type="password"
+          placeholder="{{ 'Password' | translate }}"
+          autocomplete="new-password"
+          maxlength="250"
+          [class.invalid]="
+            control('password').touched &&
+            control('confirm_password').touched &&
+            !passwordValidationConfirmPassword.passwordMatch
+          "
+          (keyup)="CheckPasswordValidation('newPassword')"
+          (focus)="isShowNewPassword = true"
+          (focusout)="isShowNewPassword = false"
+          required
+        />
+        <app-password-validation
+          #passwordFieldNewPassword
+          boxType="new_password"
+          [password]="control('password').value"
+          [hidden]="!isShowNewPassword"
+        >
+        </app-password-validation>
+      </span>
+      <span>
+        <label for="confirm_password">
+          <span class="req overlay-a"> *</span>
+        </label>
+        <input
+          id="confirm_password"
+          formControlName="confirm_password"
+          type="password"
+          autocomplete="off"
+          placeholder="{{ 'Confirm Password' | translate | replaceUnsupportedSymbols }}"
+          autocomplete="new_password"
+          maxlength="250"
+          [class.invalid]="
+            control('confirm_password').touched &&
+            control('password').touched &&
+            !passwordValidationConfirmPassword.passwordMatch
+          "
+          (keyup)="CheckPasswordValidation('confirmPassword')"
+          (focus)="isShowConfirmPassword = true; passwordValidationConfirmPassword.isPasswordsEqual = true"
+          (focusout)="isShowConfirmPassword = false; passwordValidationConfirmPassword.isPasswordsEqual = false"
+          required
+        />
+        <app-password-validation
+          #passwordValidationConfirmPassword
+          boxType="confirm_password"
+          [password]="control('confirm_password').value"
+          [hidden]="!isShowConfirmPassword"
+        >
+        </app-password-validation>
+      </span>
+    </p>
+
+    <p>
+      <label for="locale">
+        <span class="req overlay-a"> *</span>
+      </label>
+
+      <ng-select
+        id="locale"
+        (change)="control('locale').setValue($event.id)"
+        name="locale"
+        placeholder="{{ 'Language' | translate }}"
+        [items]="languages"
+        bindLabel="language"
+        bindValue="id"
+        [clearable]="false"
+        required
+        formControlName="locale"
+      >
+      </ng-select>
+    </p>
+    <p>
+      <label for="zoneinfo">
+        <span class="req overlay-a"> *</span>
+      </label>
+      <ng-select
+        id="zoneinfo"
+        (change)="control('zoneinfo').setValue($event.id)"
+        name="zoneinfo"
+        placeholder="{{ 'Timezone' | translate }}"
+        [items]="timeZones"
+        bindLabel="timeZone"
+        bindValue="id"
+        [clearable]="false"
+        required
+        formControlName="zoneinfo"
+      >
+      </ng-select>
+    </p>
+    <p class="trial-checkbox">
+      <input
+        type="checkbox"
+        id="signup_agree"
+        formControlName="agreed"
+        [title]="'Terms of Service' | translate"
+        required
+      />
+      <em>
+        <span [innerHTML]="'I agree with' | translate"></span>
+        &nbsp;
+        <a routerLink="term-of-service" target="_blank" [innerHTML]="'Terms of Service' | translate"></a>
+      </em>
+    </p>
+    <p>
+      <button [disabled]="signUpForm.invalid || isShowNewPassword || isShowConfirmPassword" type="submit">
+        <span [innerHTML]="'Get Started' | translate"></span>
+        <i *ngIf="sending" class="loading-ico"></i>
+      </button>
+      <a class="close" (click)="refreshModal()" translate>Cancel</a>
+    </p>
+  </div>
+</form>

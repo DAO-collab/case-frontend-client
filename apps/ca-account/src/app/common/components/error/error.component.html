@@ -1,0 +1,8 @@
+<p *ngIf="showEmpty && (!errors || (errors | filter : location : 'location').length == 0)" class="notice-empty"></p>
+<p
+  [hidden]="errors.length < 1"
+  class="notice-a initial-font-size"
+  *ngFor="let error of errors | filter : location : 'location' | filter : 'message'"
+>
+  <ng-content></ng-content> {{ messages[error.message] || error.message }}
+</p>

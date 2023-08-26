@@ -1,0 +1,46 @@
+.file-a {
+  top: auto !important;
+  margin-left: 40px !important;
+}
+
+@media only screen and (max-width: 62.5em) {
+  .file-a {
+    right: auto;
+  }
+}
+
+.avatar-btn {
+  display: flex;
+  flex-direction: column;
+}
+
+.rmv-avatar-btn {
+  margin-top: 5px !important;
+}
+
+.avatar-btn .btn {
+  color: #9ba1a3;
+  font-size: 18px;
+  border: none !important;
+}
+
+.avatar-icon {
+  border-radius: 22px;
+  padding: 7px;
+  border: 1px solid #9ba1a3;
+}
+
+.btn:hover {
+  background: none !important;
+}
+.avatar-main {
+  display: block;
+  flex-direction: column;
+  align-items: center;
+}
+@media only screen and (max-width: 576px) {
+  .avatar-main {
+    display: flex;
+    flex-direction: row;
+  }
+}

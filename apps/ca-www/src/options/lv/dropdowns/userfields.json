@@ -1,0 +1,18 @@
+{
+  "family_name": "Uzv\u0101rds",
+  "given_name": "V\u0101rds",
+  "locale": "V\u0113lam\u0101 valoda",
+  "zoneinfo": "Laika zona",
+  "email": "Epasta adrese",
+  "phone": "Telefona numurs",
+  "address1": "Ielas adrese",
+  "address2": "Apt # vai vien\u012bbas nr.",
+  "locality": "Pils\u0113ta vai apvidus",
+  "region": "Valsts vai re\u0123ions",
+  "postal_code": "Pasta vai pasta indekss",
+  "country": "Valsts",
+  "birthdate": "Dzim\u0161anas datums",
+  "gender": "Dzimums",
+  "company": "Uz\u0146\u0113mums",
+  "title": "V\u0101rda nosaukums"
+}

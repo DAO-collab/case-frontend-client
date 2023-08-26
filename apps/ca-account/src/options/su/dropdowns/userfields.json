@@ -1,0 +1,18 @@
+{
+  "family_name": "Nami pengker",
+  "given_name": "Nami payun",
+  "locale": "Bahasa anu resep",
+  "zoneinfo": "Timezone",
+  "email": "Alamat email",
+  "phone": "Nomer telepon",
+  "address1": "Alamat jalan",
+  "address2": "Apt # atanapi Unit #",
+  "locality": "Kota atanapi Lokasi",
+  "region": "Kaayaan atanapi Wewengkon",
+  "postal_code": "Pos atanapi Kode Pos",
+  "country": "Nagara",
+  "birthdate": "Tanggal lahir",
+  "gender": "Jenderal",
+  "company": "Perusahaan",
+  "title": "Judul Nami"
+}

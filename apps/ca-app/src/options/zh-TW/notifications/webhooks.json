@@ -1,0 +1,8 @@
+{
+  "add_post": "\u5e16\u5b50\u5df2\u5275\u5efa",
+  "modify_post": "\u5e16\u5b50\u5df2\u4fee\u6539",
+  "delete_post": "\u5e16\u5b50\u88ab\u522a\u9664",
+  "add_post_comment": "\u767c\u8868\u8a55\u8ad6\u5df2\u5275\u5efa",
+  "modify_post_comment": "\u767c\u8868\u8a55\u8ad6\u5df2\u4fee\u6539",
+  "delete_post_comment": "\u767c\u8868\u8a55\u8ad6\u5df2\u522a\u9664"
+}

@@ -1,0 +1,20 @@
+<a accesskey="5">{{ selectedLocale | uppercase }} </a>
+<em>(5)</em>
+
+<div>
+  <cdk-virtual-scroll-viewport itemSize="28" class="viewport" minBufferPx="300" maxBufferPx="400">
+    <h2 translate>Most popular</h2>
+    <ul>
+      <li *ngFor="let item of popularLanguages | orderBy : 'value'" [ngClass]="{ selected: item.isSelected }">
+        <a (click)="selectLanguage(item)">{{ item.language | replaceUnsupportedSymbols }}</a>
+      </li>
+    </ul>
+
+    <h2 translate>All languages</h2>
+    <ul>
+      <li *cdkVirtualFor="let item of filteredLanguages | orderBy : 'value'" [ngClass]="{ selected: item.isSelected }">
+        <a (click)="selectLanguage(item)">{{ item.language | replaceUnsupportedSymbols }}</a>
+      </li>
+    </ul>
+  </cdk-virtual-scroll-viewport>
+</div>

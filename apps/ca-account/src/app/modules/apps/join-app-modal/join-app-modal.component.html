@@ -1,0 +1,70 @@
+<app-modal type="form-d" [width]="600" [height]="tabNumber === 0 ? 405.6 : null" position="fixed" (close)="closeModal()">
+  <h2 style="padding-right: 20px">
+    <span>Join an app</span>
+  </h2>
+
+  <article id="accept-invitation-content">
+    <div class="tabs module-d module-d-pop-up clean-tabs">
+      <ul>
+        <li [ngClass]="{ active: tabNumber === 0 }">
+          <a translate>App</a>
+        </li>
+        <li [ngClass]="{ active: tabNumber === 1 }">
+          <a translate>Permissions</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="popup-page" *ngIf="tabNumber === 0">
+      <div class="custom-fields-group a">
+        <p class="input-description">
+          {{ 'Please add the APP ID provided by the company' | translate }}
+        </p>
+        <div>
+          <span class="input-text">CA-</span>
+          <input class="input-field" type="text" [(ngModel)]="inputValue" />
+        </div>
+        <span class="join-app-error-message">{{ errorMessage }}</span>
+      </div>
+
+      <p class="submit">
+        <button type="reset" (click)="closeModal()" translate>Cancel</button>
+        <button class="submit-button" type="submit" [disabled]="!inputValue.length" (click)="joinApp()">
+          <span translate>Next</span>
+        </button>
+      </p>
+    </div>
+
+    <div class="popup-page" *ngIf="tabNumber === 1 && selectedApp">
+      <div class="custom-fields-group a">
+        <p *ngIf="selectedApp.host_granted_status === 1" translate>
+          <span>{{ selectedApp.name }}</span
+          ><span translate> has access to your information below:</span>
+        </p>
+
+        <p *ngIf="selectedApp.host_granted_status === 0">
+          <span>{{ selectedApp.name }}</span>
+          <span translate> has invited you to their client portal. </span>
+          <span>{{ selectedApp.name }}</span
+          ><span translate> want access to the following information:</span>
+        </p>
+
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let item of userFields">
+            {{ item | translate }}
+          </li>
+        </ul>
+        <p>
+          <span [innerHTML]="'Homepage:' | translate"></span>
+          <a target="_blank" [href]="selectedApp.website"> {{ selectedApp.website }}</a>
+        </p>
+      </div>
+
+      <p class="submit">
+        <button type="submit" *ngIf="selectedApp.host_granted_status === 0">
+          <span (click)="acceptAppInvitation()" [innerHTML]="'Approve Access' | translate"></span>
+        </button>
+      </p>
+    </div>
+  </article>
+</app-modal>

@@ -1,0 +1,108 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Jak tworzyć lub modyfikować sprawy za pomocą narzędzia do importowania
+</h1>
+<p>
+  W tym artykule pokazano administratorom, jak tworzyć lub modyfikować istniejące sprawy za pomocą narzędzia do
+  importowania.
+</p>
+<h2 id="opening-the-import-tool">Otwieranie narzędzia Importuj</h2>
+<ol style="list-style-type: decimal">
+  <li>Zaloguj się na konto administratora.</li>
+  <li>Znajdź aplikację na stronie Aplikacje i kliknij przycisk ADMIN.</li>
+  <li>W panelu administracyjnym kliknij zakładkę Integracja, a następnie w podmenu IMPORTY.</li>
+  <li>Kliknij przycisk NOWY. Okno dialogowe Dodaj importy zostanie wyświetlone w nowej karcie przeglądarki.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Tworzenie spraw</h2>
+<p>Po otwarciu okna dialogowego Dodaj importy:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknij pole Typ i wybierz opcję (patrz poniżej). Zostanie wyświetlone łącze.</li>
+  <li>Kliknij link Pobierz próbkę. Plik CSV zostanie pobrany na Twoje urządzenie.</li>
+</ol>
+<p>Następnie otwórz plik i dodaj sprawy.</p>
+<h2 id="type">Rodzaj</h2>
+<p>
+  Po kliknięciu pola <strong>Typ</strong> zostanie wyświetlone menu rozwijane. Wybierz jedną z dwóch opcji masowego
+  importu spraw.
+</p>
+<ul>
+  <li>
+    <strong>Uwaga</strong> Menu rozwijane zawiera wiele opcji, ale tylko dwie dotyczą zarządzania sprawami. Każda opcja
+    ma inny przykładowy plik CSV.
+  </li>
+</ul>
+<h3 id="add-cases">Dodaj przypadki</h3>
+<ul>
+  <li>Wybierz tę opcję, aby zbiorczo przesyłać sprawy w prosty sposób.</li>
+  <li>Kliknij łącze Pobierz przykład, aby otworzyć plik CSV z nagłówkami kolumn dla typu importu Utwórz sprawy.</li>
+</ul>
+<h3 id="modify-cases">Zmodyfikuj przypadki</h3>
+<ul>
+  <li>Wybierz tę opcję, aby zaktualizować bieżące sprawy.</li>
+  <li>Kliknij łącze Pobierz przykład, aby otworzyć plik CSV z nagłówkami kolumn dla typu importu Modyfikuj sprawy.</li>
+</ul>
+<h2 id="uploading-the-file">Przesyłanie pliku</h2>
+<p>Możesz przesłać plik od razu lub później wrócić do okna dialogowego Dodaj importy i wykonać te czynności.</p>
+<ol style="list-style-type: decimal">
+  <li>Otwórz okno dialogowe Dodaj importy.</li>
+  <li>Wprowadź unikalną nazwę pliku CSV.</li>
+  <li>Kliknij ikonę plusa (+), aby przesłać plik ze swojego urządzenia.</li>
+  <li>Kliknij pole Typ i wybierz opcję. (patrz wyżej)</li>
+  <li>Kliknij ZAPISZ.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Formatowanie</h2>
+<p>
+  Oto wymagane pola i pierwsze wymagania. Kliknij
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">tutaj,</a> aby przejrzeć
+  szczegóły formatowania.
+</p>
+<p>
+  <strong>tag_id (lub case_ID)</strong> unikalny identyfikator (użyj znaków alfanumerycznych, łączniki są akceptowane)
+</p>
+<p><strong>status_sprawy</strong> 0 = zamknięta 1 = aktywna</p>
+<p><strong>date_otwarty</strong> miesiąc/dzień/rok mm/dd/rrrr</p>
+<p><strong>o</strong> unikalny opis sprawy (użyj znaków alfanumerycznych, łączniki są akceptowane)</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Przetwarzanie</h2>
+<p>
+  W zależności od liczby rekordów w pliku i obciążenia systemu, przetworzenie importu przez platformę może zająć kilka
+  minut.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Po zakończeniu importu platforma dostosowuje rekordy spraw (tj. dodaje lub modyfikuje) na pulpicie administracyjnym
+  Sprawy.
+</p>
+<h2 id="failure">Niepowodzenie</h2>
+<p>
+  Jeśli operacja importu nie powiedzie się, platforma zwróci komunikat Failed. W większości przypadków przyczyną awarii
+  jest formatowanie danych.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Aby zobaczyć przyczynę niepowodzenia:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknij Wyświetl pod nagłówkiem DZIAŁANIE.</li>
+  <li>Na następnej stronie umieść kursor myszy na ikonie Niepowodzenie. Podpowiedź wyświetla błąd.</li>
+  <li>Przejdź do pliku CVS i dostosuj i napraw błąd.</li>
+  <li>Prześlij plik ponownie.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

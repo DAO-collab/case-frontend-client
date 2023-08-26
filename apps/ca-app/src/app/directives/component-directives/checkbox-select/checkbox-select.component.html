@@ -1,0 +1,45 @@
+<div class="view-perimissions" [class.avatar]="withImage">
+  <div>
+    <div class="semantic-select-wrapper">
+      <div
+        class="semantic-select custom-color-select"
+        [class.custom-active]="isCustomActiveApplied"
+        [ngClass]="showClass ? 'active' : ''"
+      >
+        <div class="input">
+          <div *ngIf="!withImage" class="text">{{ permissionsListStr }}</div>
+          <div *ngIf="withImage" class="text text-with-avatar">
+            <ng-container *ngFor="let user of usersListWithImage">
+              <img [src]="user.avatar" alt="avatar" />
+              <a>{{ user.name }}</a>
+            </ng-container>
+          </div>
+          <div class="ticker"></div>
+        </div>
+        <ul class="select-ffe">
+          <li class="hidden" data-value="Activity">
+            <a translate>Visibility</a>
+          </li>
+          <li [class.all-avatar]="withImage">
+            <div class="check-area custom-app-color-select" (click)="toggleAllPermissions()"></div>
+            <span *ngIf="withImage" class="task-user-avatar">?</span>
+            <a translate (click)="$event.preventDefault(); $event.stopPropagation()">all</a>
+            <label class="checkbox-container centered-checkbox">
+              <input type="checkbox" [checked]="outputValue?.length === items.length" [disabled]="!enabled" />
+              <span class="checkmark"></span>
+            </label>
+          </li>
+          <li *ngFor="let role of items" [class.with-avatar]="role?.avatar">
+            <div class="check-area custom-app-color-select" (click)="togglePermission(role?.role_id!)"></div>
+            <img *ngIf="role?.avatar" [src]="role.avatar" alt="avatar" />
+            <a>{{ role.name }}</a>
+            <label class="checkbox-container centered-checkbox">
+              <input type="checkbox" [checked]="outputValue?.includes(role?.role_id!)" />
+              <span class="checkmark"></span>
+            </label>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

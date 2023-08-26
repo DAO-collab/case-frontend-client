@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Pro\u010ditajte sva polja slu\u010daja navedena u ulozi",
+    "write": "Upi\u0161ite sva polja slu\u010daja navedena u ulozi"
+  },
+  "convos": {
+    "read_all": "Pogledajte trenutni status razgovora.",
+    "manage_own": "Pridru\u017eite se i odjavite se iz razgovora.",
+    "moderate_others": "Zapo\u010dni razgovor, zavr\u0161i razgovor i ukloni sudionika.",
+    "read_all_submissions": "Pro\u010ditajte sve snimljene razgovore."
+  },
+  "events": {
+    "read_all": "Pro\u010ditajte sve doga\u0111aje.",
+    "manage_own": "Izradite, a\u017eurirajte i izbri\u0161ite vlastiti doga\u0111aj.",
+    "moderate_others": "A\u017eurirajte i izbri\u0161ite tu\u0111i doga\u0111aj.",
+    "read_all_submissions": "Pro\u010ditajte sve potvrde doga\u0111aja.",
+    "submit_own": "Potvrdite zahtjev za sudjelovanje na doga\u0111aju."
+  },
+  "posts": {
+    "read_all": "Pro\u010ditajte sve postove.",
+    "manage_own": "Izradite, a\u017eurirajte i izbri\u0161ite vlastiti post.",
+    "moderate_others": "A\u017eurirajte i izbri\u0161ite tu\u0111u objavu."
+  },
+  "forms": {
+    "read_all": "Pro\u010ditajte sve obrasce.",
+    "manage_own": "Izradite, a\u017eurirajte i izbri\u0161ite vlastiti obrazac.",
+    "moderate_others": "A\u017eurirajte i izbri\u0161ite tu\u0111i obrazac.",
+    "read_all_submissions": "Pro\u010ditajte sve podneske obrasca.",
+    "submit_own": "Po\u0161aljite zahtjev za obrazac."
+  },
+  "invoices": {
+    "read_all": "Pro\u010ditajte sve fakture.",
+    "manage_own": "Izradite, a\u017eurirajte i izbri\u0161ite vlastitu fakturu.",
+    "moderate_others": "A\u017eurirajte i izbri\u0161ite tu\u0111u fakturu.",
+    "read_all_submissions": "Pro\u010ditajte sve dostavljene fakture.",
+    "submit_own": "Po\u0161aljite zahtjev za fakturom."
+  },
+  "notes": {
+    "read_all": "Pro\u010ditajte sve bilje\u0161ke.",
+    "manage_own": "Izradite, a\u017eurirajte i izbri\u0161ite vlastitu bilje\u0161ku.",
+    "moderate_others": "A\u017eurirajte i izbri\u0161ite tu\u0111u bilje\u0161ku."
+  },
+  "signs": {
+    "read_all": "Pro\u010ditajte sve e-znakove.",
+    "manage_own": "Izrada, a\u017euriranje i brisanje vlastitog e-znaka.",
+    "moderate_others": "A\u017eurirajte i izbri\u0161ite tu\u0111i e-znak.",
+    "read_all_submissions": "Pro\u010ditajte sve podneske e-potpisa.",
+    "submit_own": "Po\u0161aljite zahtjev za polje."
+  },
+  "tasks": {
+    "read_all": "Pro\u010ditajte sve zadatke.",
+    "manage_own": "Stvorite, a\u017eurirajte i izbri\u0161ite vlastiti zadatak.",
+    "moderate_others": "A\u017eurirajte i izbri\u0161ite tu\u0111i zadatak.",
+    "read_all_submissions": "Pro\u010ditajte sve predane zadatke.",
+    "submit_own": "Po\u0161alji zahtjev za zadatak."
+  },
+  "team": { "read_all": "Pro\u010ditajte tim za svaki slu\u010daj" }
+}

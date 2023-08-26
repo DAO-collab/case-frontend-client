@@ -1,0 +1,33 @@
+.custom-svg-active {
+  color: #15afc5;
+  transition: none;
+}
+
+.custom-svg-active svg path {
+  color: #15afc5;
+  transition: none;
+}
+
+.custom-svg-active svg {
+  color: #15afc5;
+  transition: none;
+}
+
+.custom-svg-inactive {
+  color: #667074;
+  transition: none;
+}
+
+.custom-svg-inactive svg path {
+  color: #667074;
+  transition: none;
+}
+
+.custom-svg-inactive svg {
+  color: #667074;
+  transition: none;
+}
+
+.custom-svg {
+  margin: 0 7px 3px 0;
+}

@@ -1,0 +1,4480 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.355800\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.065505\n"
+"Language: lt\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Turėtumėte pasirinkti vaizdo failą."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Įkelkite dokumentą, pažymėkite jį pasirašymui, tada klientas prisijungia ir "
+"pasirašo. Viskas padaroma taip, kad klientas neturi atvykti į mūsų pastatą. "
+"Tai patogu klientams, kurie nėra šalia biuro ar gyvena ne valstybėje."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Kapitalo draudimo operacijų direktorius"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Mūsų partneriai gali prisijungti ir pamatyti pagrindinę informaciją apie "
+"tai, kaip vyksta jų nurodytas atvejis. Tai labai padidino mūsų bylų "
+"persiuntimą ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Christianson &amp; Bayles advokatų kontoros partneris"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Mums nebereikia matyti klientų susitikimų biure, o dokumentai pasirašyti "
+"internetu - nuostabu !."
+
+msgid "CEO of EL Passion"
+msgstr "„EL Passion“ generalinis direktorius"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Naudodamiesi API, mes visiškai automatizavome tai, kas buvo rodoma bylų "
+"sklaidos kanale, remiantis konkrečiais aktyvikliais esamoje sistemoje. Gana "
+"patogu .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "„Carter Mario“ žalos advokatų IT vadovas"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Mes turime daug daugiakalbių klientų, kurie naudojasi vertimo funkcija. "
+"Skelbiame žinutes tikėdami, kad jas supras visi. Tai leidžia mums pereiti "
+"nuo vietinio prie pasaulinio darbo .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "„Solid Rock Designs“ generalinis direktorius"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Klientai tai myli! Tai palengvina jų gyvenimą. Jie gali internetu aptarti "
+"problemas su mumis, įkelti nuotraukas ir dokumentus, o viskas saugoma ten, "
+"kur gali pamatyti komanda ir klientas."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "„Ashley &amp; Ashley PC“ partneris"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Mes mėgstame sąskaitų faktūrų išrašymą, nes tai leidžia klientams pamatyti "
+"tiksliai už ką jie moka."
+
+msgid "Vice President of Sky Digital"
+msgstr "„Sky Digital“ viceprezidentas"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Ryšys su kryžminiu ryšiu yra tarsi visų savo socialinės žiniasklaidos ir "
+"bendradarbiavimo priemonių turėjimas vienoje vietoje."
+
+msgid "Director Of Complaint Management"
+msgstr "Skundų tvarkymo direktorius"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Atvejų formos leidžia mums klausytis ir išmokti, padėdami mums padidinti "
+"pardavimus per klientų atsiliepimus."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "„Cain &amp; Company“ pardavimų direktorius"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Vartotojo sąsaja labai panaši į „Facebook“. Tai ypač lengva naudoti .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "„Wong Medical Group LLC“ partneris"
+
+msgid "A pin has been sent to"
+msgstr "Smeigtukas išsiųstas"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Send New Pin"
+msgstr "Siųsti naują PIN kodą"
+
+msgid "Need Help?"
+msgstr "Reikia pagalbos?"
+
+msgid "Click here to contact us"
+msgstr "Norėdami susisiekti su mumis, spustelėkite čia"
+
+msgid "Next"
+msgstr "Kitas"
+
+msgid "Login or Signup"
+msgstr "Prisijunkite arba prisiregistruokite"
+
+msgid "Invalid email entered"
+msgstr "Įvestas neteisingas el"
+
+msgid "Processing..."
+msgstr "Apdorojimas..."
+
+msgid "Made with"
+msgstr "Padaryta su"
+
+msgid "love"
+msgstr "meilė"
+
+msgid "in New York City"
+msgstr "Niujorke"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Visos teisės saugomos"
+
+msgid "Terms of Use"
+msgstr "Naudojimo sąlygos"
+
+msgid "Contact Us"
+msgstr "Susisiekite su mumis"
+
+msgid "Username"
+msgstr "Vartotojo vardas"
+
+msgid "Code"
+msgstr "Kodas"
+
+msgid "New Password"
+msgstr "Naujas Slaptažodis"
+
+msgid "Confirm Password"
+msgstr "Patvirtinti slaptažodį"
+
+msgid "Set Your New Password"
+msgstr "Nustatykite savo naują slaptažodį"
+
+msgid "A code has been sent to"
+msgstr "Kodas išsiųstas"
+
+msgid "Change Password"
+msgstr "Pakeisti slaptažodį"
+
+msgid "Changing..."
+msgstr "Keisti ..."
+
+msgid "Login"
+msgstr "Prisijungti"
+
+msgid "Forgot password?"
+msgstr "Pamiršote slaptažodį?"
+
+msgid "Help"
+msgstr "Pagalba"
+
+msgid "Email or Phone"
+msgstr "El. paštas Ar telefonas"
+
+msgid "Reset Password"
+msgstr "Atstatyti slaptažodį"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Įveskite el. Pašto adresą arba telefono numerį, susietą su jūsų sąskaita, "
+"tada spustelėkite pateikti. Siųsime jums el. Laišką ar išsiųsime jums "
+"nuorodą į puslapį, kuriame galėsite lengvai sukurti naują slaptažodį."
+
+msgid "Request Code"
+msgstr "Prašymo kodas"
+
+msgid "Requesting..."
+msgstr "Prašoma ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "KASEAKTYVUS ATEINA"
+
+msgid "Create a free account"
+msgstr "Sukurti nemokamą paskyrą"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Dedame jai paskutinį štrichą. Mes jums pranešime, kai jis bus paruoštas!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Nuo geresnio bendradarbiavimo tave praleido kelios minutės."
+
+msgid "First Name"
+msgstr "Pirmas vardas"
+
+msgid "Last Name"
+msgstr "Pavardė"
+
+msgid "Email"
+msgstr "El. Paštas"
+
+msgid "Company"
+msgstr "Bendrovė"
+
+msgid "No language selected"
+msgstr "Nepasirinkta kalba"
+
+msgid "I agree with"
+msgstr "aš sutinku su"
+
+msgid "Terms of Service"
+msgstr "Paslaugų teikimo sąlygos"
+
+msgid "Language"
+msgstr "Kalba"
+
+msgid "Have at least one lower case character"
+msgstr "Turėkite bent vieną mažąsias raides"
+
+msgid "Have at least one capital letter"
+msgstr "Turi bent vieną didžiąją raidę"
+
+msgid "Have at least one number"
+msgstr "Turėkite bent vieną numerį"
+
+msgid "Have at least 8 characters in length"
+msgstr "Turėkite mažiausiai 8 simbolius"
+
+msgid "Type your current password"
+msgstr "Įveskite dabartinį slaptažodį"
+
+msgid "Passwords must match"
+msgstr "Slaptažodžiai turi sutapti"
+
+msgid "Domains"
+msgstr "Domenai"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript yra išjungtas. Prašome jį įjungti."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Slapukai yra išjungiami. Prašome jį įjungti."
+
+msgid "New"
+msgstr "Nauja"
+
+msgid "Create A New App"
+msgstr "Sukurkite naują programą"
+
+msgid "Apps"
+msgstr "Programos"
+
+msgid "Profile"
+msgstr "Profilis"
+
+msgid "Logout"
+msgstr "Atsijungti"
+
+msgid "Hi"
+msgstr "Sveiki"
+
+msgid "View your account"
+msgstr "Peržiūrėkite savo sąskaitą"
+
+msgid "View page"
+msgstr "Žiūrėti puslapį"
+
+msgid "You don’t have any apps"
+msgstr "Neturite jokių programų"
+
+msgid "App"
+msgstr "Programėlė"
+
+msgid "Admin"
+msgstr "Administratorius"
+
+msgid "Notifications"
+msgstr "Pranešimai"
+
+msgid "No notifications yet."
+msgstr "Pranešimų dar nėra."
+
+msgid "Today"
+msgstr "Šiandien"
+
+msgid "Last Week"
+msgstr "Praeitą savaitę"
+
+msgid "No timezone selected"
+msgstr "Nėra pasirinkto laiko juostos"
+
+msgid "Complete profile to continue"
+msgstr "Norėdami tęsti, užpildykite visą profilį"
+
+msgid "Timezone"
+msgstr "Laiko zona"
+
+msgid "Update"
+msgstr "Atnaujinti"
+
+msgid "Website:"
+msgstr "Interneto svetainė:"
+
+msgid "Homepage:"
+msgstr "Pagrindinis puslapis:"
+
+msgid "Approve Access"
+msgstr "Patvirtinti prieigą"
+
+msgid "Info"
+msgstr "Informacija"
+
+msgid "Permissions"
+msgstr "Leidimai"
+
+msgid "Billing"
+msgstr "Atsiskaitymas"
+
+msgid "Payment Plan"
+msgstr "Mokėjimo planas"
+
+msgid "Edit"
+msgstr "Redaguoti"
+
+msgid "Save"
+msgstr "Sutaupyti"
+
+msgid "has access to your information below:"
+msgstr "turi prieigą prie jūsų žemiau pateiktos informacijos:"
+
+msgid "has invited you to their client portal."
+msgstr "pakvietė jus į jų klientų portalą."
+
+msgid "want access to the following information:"
+msgstr "norite gauti prieigą prie šios informacijos:"
+
+msgid "Decline"
+msgstr "Atsisakyti"
+
+msgid "Remove Access"
+msgstr "Pašalinti prieigą"
+
+msgid "Active"
+msgstr "Aktyvus"
+
+msgid "Invites"
+msgstr "Kviečia"
+
+msgid "Disabled"
+msgstr "Išjungta"
+
+msgid "No apps found"
+msgstr "Nerasta jokių programų"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "Vartotojas"
+
+msgid "manager"
+msgstr "vadybininkas"
+
+msgid "active"
+msgstr "Aktyvus"
+
+msgid "inactive"
+msgstr "Neaktyvus"
+
+msgid "Company Name"
+msgstr "Įmonės pavadinimas"
+
+msgid "Type"
+msgstr "Tipas"
+
+msgid "Status"
+msgstr "Statusas"
+
+msgid "Invitation"
+msgstr "Kvietimas"
+
+msgid "About App"
+msgstr "Apie programą"
+
+msgid "Billing Info"
+msgstr "Atsiskaitymo informacija"
+
+msgid "Your Company Name"
+msgstr "Jūsų įmonės pavadinimas"
+
+msgid "Your Company Website"
+msgstr "Jūsų įmonės svetainė"
+
+msgid "Saving..."
+msgstr "Taupymas ..."
+
+msgid "Billing Information"
+msgstr "Atsiskaitymo informacija"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Pridėkite įmonės pateiktą APP ID"
+
+msgid "Select an option"
+msgstr "Pasirinkite parinktį"
+
+msgid "Join an existing app as a client"
+msgstr "Prisijunkite prie esamos programos kaip klientas"
+
+msgid "Create a new app for my business"
+msgstr "Sukurti naują programą mano verslui"
+
+msgid "Create Domain"
+msgstr "Sukurti domeną"
+
+msgid "Select enterprise app"
+msgstr "Pasirinkite įmonės programą"
+
+msgid "No item selected"
+msgstr "Nepasirinktas joks elementas"
+
+msgid "Domain name"
+msgstr "Domeno vardas"
+
+msgid "Add"
+msgstr "Papildyti"
+
+msgid "No enterprise app found"
+msgstr "Įmonės programa nerasta"
+
+msgid "Pending"
+msgstr "Kol"
+
+msgid "No domains found"
+msgstr "Nerasta jokių domenų"
+
+msgid "Domain"
+msgstr "Domenas"
+
+msgid "Txt Value"
+msgstr "Txt vertė"
+
+msgid "Enterprise Host ID"
+msgstr "Įmonės prieglobos ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Veiksmas"
+
+msgid "Delete"
+msgstr "Ištrinti"
+
+msgid "Reset"
+msgstr "Nustatyti iš naujo"
+
+msgid "Allow Manual Sign In"
+msgstr "Leisti prisijungti rankiniu būdu"
+
+msgid "Exclude Emails From SSO"
+msgstr "Išskirkite el. laiškus iš SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML tapatybės teikėjo metaduomenys"
+
+msgid "Submit"
+msgstr "Pateikti"
+
+msgid "Profile photo"
+msgstr "Profilio nuotrauka"
+
+msgid "Uploading..."
+msgstr "Įkeliama ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "buvo pareikšta kitoje paskyroje, pakeiskite ją arba"
+
+msgid "reclaim"
+msgstr "susigrąžinti"
+
+msgid "it"
+msgstr "tai"
+
+msgid "pending verification:"
+msgstr "laukiama patvirtinimo:"
+
+msgid "verify"
+msgstr "patikrinti"
+
+msgid "Phone Number"
+msgstr "Telefono numeris"
+
+msgid "Current Password"
+msgstr "Dabartinis slaptažodis"
+
+msgid "Change password"
+msgstr "Pakeisti slaptažodį"
+
+msgid "No gender selected"
+msgstr "Nepasirinkta lytis"
+
+msgid "Company Title"
+msgstr "Įmonės pavadinimas"
+
+msgid "Address"
+msgstr "Adresas"
+
+msgid "Address 2"
+msgstr "2-as Adresas"
+
+msgid "City/Locality"
+msgstr "Miestas / vietovė"
+
+msgid "State/Region"
+msgstr "Valstybė / regionas"
+
+msgid "No country selected"
+msgstr "Nepasirinkta šalis"
+
+msgid "Zip/Postal Code"
+msgstr "Pašto kodas"
+
+msgid "Basic"
+msgstr "Pagrindinis"
+
+msgid "Date of Birth"
+msgstr "Gimimo data"
+
+msgid "Gender"
+msgstr "Lytis"
+
+msgid "Occupation"
+msgstr "Okupacija"
+
+msgid "Location"
+msgstr "Vieta"
+
+msgid "Address is not valid"
+msgstr "Netinkamas adresas"
+
+msgid "City/Locality is not valid"
+msgstr "Miestas / vietovė negalioja"
+
+msgid "Country"
+msgstr "Šalis"
+
+msgid "State/Region is not valid"
+msgstr "Valstybė / regionas negalioja"
+
+msgid "Contact Info"
+msgstr "Kontaktinė informacija"
+
+msgid "Language & Region"
+msgstr "Kalba ir regionas"
+
+msgid "Saving"
+msgstr "Išsaugomas"
+
+msgid "Verify Your"
+msgstr "Patvirtinkite savo"
+
+msgid "Verification Code"
+msgstr "Patvirtinimo kodas"
+
+msgid "Resend Code"
+msgstr "Atsiųskite kodą dar kartą"
+
+msgid "Resending"
+msgstr "Persiųsta iš naujo"
+
+msgid "Verify"
+msgstr "Patikrinkite"
+
+msgid "Verifying..."
+msgstr "Tikrinama ..."
+
+msgid "Later"
+msgstr "Vėliau"
+
+msgid "We're here to help"
+msgstr "Mes esame čia, kad padėtume"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Dėkojame tau už susisiekimą su mumis. Jūsų žinutė buvo sėkmingai išsiųsta. "
+"Mes labai greitai susisieksime su jumis!"
+
+msgid "Message"
+msgstr "Pranešimas"
+
+msgid "characters left"
+msgstr "simbolių liko"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Siųsti"
+
+msgid "Sending..."
+msgstr "Siųsti ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Jūs nebegausite rinkodaros el. paštu iš sąrašo."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Jei turite šiek tiek laiko, praneškite mums, kodėl atsisakėte prenumeratos:"
+
+msgid "Return to our website"
+msgstr "Grįžti į mūsų svetainę"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Ačiū. Jūsų atsakymas buvo pateiktas."
+
+msgid "No Cases"
+msgstr "Nėra atvejų"
+
+msgid "Layout"
+msgstr "Išdėstymas"
+
+msgid "Gallery"
+msgstr "Galerija"
+
+msgid "Speaker"
+msgstr "Pranešėjas"
+
+msgid "This case has been closed"
+msgstr "Ši byla buvo baigta"
+
+msgid "Feed"
+msgstr "Maitinti"
+
+msgid "Images"
+msgstr "Vaizdai"
+
+msgid "Docs"
+msgstr "Dokumentai"
+
+msgid "Audios"
+msgstr "Audios"
+
+msgid "Videos"
+msgstr "Vaizdo klipai"
+
+msgid "Files"
+msgstr "Failai"
+
+msgid "Events"
+msgstr "Renginiai"
+
+msgid "Forms"
+msgstr "Formos"
+
+msgid "E-signs"
+msgstr "Elektroniniai ženklai"
+
+msgid "Invoices"
+msgstr "Sąskaitos faktūros"
+
+msgid "Notes"
+msgstr "Pastabos"
+
+msgid "Tasks"
+msgstr "Užduotys"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Puikus darbas!"
+
+msgid "You did all"
+msgstr "Tu padarė viską"
+
+msgid "the tasks"
+msgstr "užduotis"
+
+msgid "Media"
+msgstr "Žiniasklaida"
+
+msgid "Skip to navigation (n)"
+msgstr "Pereiti prie navigacijos (n)"
+
+msgid "Skip to content (c)"
+msgstr "Pereiti prie turinio (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Pereiti į apačią (f)"
+
+msgid "Case"
+msgstr "Byla"
+
+msgid "Search"
+msgstr "Paieška"
+
+msgid "Using Form Builder"
+msgstr "&quot;Form Builder&quot; naudojimas"
+
+msgid "Using Forms Library"
+msgstr "Formų bibliotekos naudojimas"
+
+msgid "Using E-sign Builder"
+msgstr "E-sign Builder naudojimas"
+
+msgid "Using E-signs Library"
+msgstr "E-signs bibliotekos naudojimas"
+
+msgid "Documents"
+msgstr "Dokumentai"
+
+msgid "Create Note"
+msgstr "Sukurti pastabą"
+
+msgid "Edit Note"
+msgstr "Redaguoti pastabą"
+
+msgid "End Convo"
+msgstr "Baigti pokalbį"
+
+msgid "Create Form"
+msgstr "Sukurti formą"
+
+msgid "Create Sign"
+msgstr "Sukurti ženklą"
+
+msgid "Event Create"
+msgstr "Renginio sukūrimas"
+
+msgid "Convo Videos"
+msgstr "„Convo“ vaizdo įrašai"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Atvejai"
+
+msgid "Case categories"
+msgstr "Atvejų kategorijos"
+
+msgid "Your team"
+msgstr "Tavo komanda"
+
+msgid "To do"
+msgstr "Daryti"
+
+msgid "To Do:"
+msgstr "Daryti:"
+
+msgid "Case Categories"
+msgstr "Bylų kategorijos"
+
+msgid "Your Team"
+msgstr "Tavo komanda"
+
+msgid "To Do"
+msgstr "Daryti"
+
+msgid "Yes"
+msgstr "Taip"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Publish"
+msgstr "Paskelbti"
+
+msgid "Visibility"
+msgstr "Matomumas"
+
+msgid "all"
+msgstr "visi"
+
+msgid "sign"
+msgstr "ženklas"
+
+msgid "Page"
+msgstr "Puslapis"
+
+msgid "of"
+msgstr "apie"
+
+msgid "Processing"
+msgstr "Apdorojimas"
+
+msgid "failed."
+msgstr "nepavyko."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Reikšmė turi būti didesnė arba lygi 1"
+
+msgid "Repeat end:"
+msgstr "Pakartokite pabaigą:"
+
+msgid "Signature"
+msgstr "Parašas"
+
+msgid "Draw"
+msgstr "Lygiosios"
+
+msgid "Write"
+msgstr "Rašyti"
+
+msgid "Clear Signature"
+msgstr "Aiškus parašas"
+
+msgid "Still processing video..."
+msgstr "Vis dar apdorojamas vaizdo įrašas ..."
+
+msgid "You"
+msgstr "Tu"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Ketinate ištrinti informacijos santrauką. Ar tu tuo tikras?"
+
+msgid "No convo audios yet"
+msgstr "Pokalbio garso įrašų dar nėra"
+
+msgid "No convo videos yet"
+msgstr "Dar nėra pokalbių vaizdo įrašų"
+
+msgid "Start Convo"
+msgstr "Pradėti Convo"
+
+msgid "Notify the Host"
+msgstr "Pranešti šeimininkui"
+
+msgid "is in the call"
+msgstr "yra skambutyje"
+
+msgid "and"
+msgstr "ir"
+
+msgid "others are in the call"
+msgstr "kiti dalyvauja skambutyje"
+
+msgid "Audio call is being recorded"
+msgstr "Garsinis skambutis įrašomas"
+
+msgid "Video call is being recorded"
+msgstr "Vaizdo skambutis įrašomas"
+
+msgid "Join now"
+msgstr "Prisijunk dabar"
+
+msgid "Dismiss"
+msgstr "Atsisakyti"
+
+msgid "Can’t find your "
+msgstr "Negaliu rasti jūsų"
+
+msgid "microphone"
+msgstr "mikrofonas"
+
+msgid "Check your system settings to make sure that "
+msgstr "Patikrinkite sistemos nustatymus, kad tuo įsitikintumėte"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr "yra. Jei ne, prijunkite jį. Gali reikėti iš naujo paleisti naršyklę."
+
+msgid "web camera"
+msgstr "internetinė kamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Jūs ketinate pradėti Convo skambutį. Pradėti nuo:"
+
+msgid "Video & Audio"
+msgstr "Vaizdo įrašas ir garsas"
+
+msgid "Audio Only"
+msgstr "Tik garsas"
+
+msgid "Record the meeting"
+msgstr "Įrašykite susitikimą"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Laukiama, kol kas nors turės leidimą pradėti Convo skambutį"
+
+msgid "Add Ticket"
+msgstr "Pridėti bilietą"
+
+msgid "Title"
+msgstr "Pavadinimas"
+
+msgid "Open"
+msgstr "Atviras"
+
+msgid "Closed"
+msgstr "Uždaryta"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Jūs ketinate uždaryti bilietą. Ar tu tuo tikras?"
+
+msgid "Announcements"
+msgstr "Skelbimai"
+
+msgid "Support"
+msgstr "Palaikymas"
+
+msgid "Opened"
+msgstr "Atidaryta"
+
+msgid "View"
+msgstr "Vaizdas"
+
+msgid "Locations"
+msgstr "Vietos"
+
+msgid "You currently have no announcements."
+msgstr "Šiuo metu neturite jokių pranešimų."
+
+msgid "You currently have no"
+msgstr "Šiuo metu neturite"
+
+msgid "open cases. Click"
+msgstr "atviros bylos. Spustelėkite"
+
+msgid "here"
+msgstr "čia"
+
+msgid "to contact support."
+msgstr "susisiekti su palaikymo komanda."
+
+msgid "closed cases."
+msgstr "uždarytos bylos."
+
+msgid "open tickets."
+msgstr "atviri bilietai."
+
+msgid "closed tickets."
+msgstr "uždaryti bilietai."
+
+msgid "You currently have no locations."
+msgstr "Šiuo metu neturite vietų."
+
+msgid "Write a comment...."
+msgstr "Parašyti komentarą...."
+
+msgid "Post"
+msgstr "Paštas"
+
+msgid "Add Location"
+msgstr "Pridėti vietovę"
+
+msgid "Save Event"
+msgstr "Išsaugoti įvykį"
+
+msgid "Name"
+msgstr "vardas"
+
+msgid "Start Date"
+msgstr "Pradžios data"
+
+msgid "Start Time"
+msgstr "Pradžios laikas"
+
+msgid "End Date"
+msgstr "Pabaigos data"
+
+msgid "End Time"
+msgstr "Pabaiga laikas"
+
+msgid "Repeat"
+msgstr "Pakartokite"
+
+msgid "Attendees"
+msgstr "Dalyviai"
+
+msgid "Event Location"
+msgstr "Renginio vieta"
+
+msgid "Link"
+msgstr "Nuoroda"
+
+msgid "Description"
+msgstr "apibūdinimas"
+
+msgid "Attending"
+msgstr "Dalyvaudamas"
+
+msgid "Add to calendar"
+msgstr "Pridėti į kalendorių"
+
+msgid "Details"
+msgstr "Detalės"
+
+msgid "Event by"
+msgstr "Renginio autorius"
+
+msgid "Duration:"
+msgstr "Trukmė:"
+
+msgid "more"
+msgstr "daugiau"
+
+msgid "Maybe"
+msgstr "Gal būt"
+
+msgid "Not Attending"
+msgstr "Nesilankydamas"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Video konferencija"
+
+msgid "Event details"
+msgstr "Renginio detalės"
+
+msgid "You don't have permissions to view this page."
+msgstr "Jūs neturite teisių peržiūrėti šį puslapį."
+
+msgid "Your Upcoming Events"
+msgstr "Jūsų būsimi įvykiai"
+
+msgid "Upcoming"
+msgstr "Būsimas"
+
+msgid "Your Past Events"
+msgstr "Jūsų praeities įvykiai"
+
+msgid "Past"
+msgstr "Praeitis"
+
+msgid "Your Events"
+msgstr "Jūsų įvykiai"
+
+msgid "All"
+msgstr "Visi"
+
+msgid "All Events"
+msgstr "Visi įvykiai"
+
+msgid "Directions"
+msgstr "Nurodymai"
+
+msgid "Edit settings"
+msgstr "Redaguoti nustatymus"
+
+msgid "Delete event"
+msgstr "Ištrinti įvykį"
+
+msgid "Attending?"
+msgstr "Dalyvaujate?"
+
+msgid "No Events"
+msgstr "Nėra įvykių"
+
+msgid "more comment(s)"
+msgstr "daugiau komentarų (-ų)"
+
+msgid "Loading comments"
+msgstr "Įkeliami komentarai"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Ketinate ištrinti komentarą. Ar tu tuo tikras?"
+
+msgid "task"
+msgstr "užduotis"
+
+msgid "to do"
+msgstr "daryti"
+
+msgid "tasks"
+msgstr "užduotys"
+
+msgid "Write something..."
+msgstr "Rašyti kažką..."
+
+msgid "Attach File"
+msgstr "Pridėti failą"
+
+msgid "From Template"
+msgstr "Iš šablono"
+
+msgid "No feeds yet."
+msgstr "Dar nėra informacijos."
+
+msgid "comments"
+msgstr "komentarus"
+
+msgid "comment"
+msgstr "komentarą"
+
+msgid "Add a comment"
+msgstr "Pridėti komentarą"
+
+msgid "Template"
+msgstr "Šablonas"
+
+msgid "No templates"
+msgstr "Šablonų nėra"
+
+msgid "Done"
+msgstr "padaryta"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Pasirinkite narius, kuriems reikia užpildyti šią formą"
+
+msgid "Update Form"
+msgstr "Atnaujinti formą"
+
+msgid "Due Date"
+msgstr "Mokėjimo data"
+
+msgid "Due Time"
+msgstr "Laiku"
+
+msgid "Loading..."
+msgstr "Kraunasi ..."
+
+msgid "Preview"
+msgstr "Peržiūra"
+
+msgid "Save & Close"
+msgstr "Išsaugoti ir uždaryti"
+
+msgid "Add an element"
+msgstr "Pridėti elementą"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Medija konvertuojama. Mes jums pranešime, kai jis bus paruoštas"
+
+msgid "Add "
+msgstr "Papildyti"
+
+msgid "Field"
+msgstr "Laukas"
+
+msgid "Edit "
+msgstr "Redaguoti"
+
+msgid "Text"
+msgstr "Tekstas"
+
+msgid "Sub Text"
+msgstr "Subtekstas"
+
+msgid "Format"
+msgstr "Formatas"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Medijos nepavyko konvertuoti. Ištrinkite ir bandykite dar kartą arba dar "
+"kartą."
+
+msgid "Pages"
+msgstr "Puslapiai"
+
+msgid "Saved"
+msgstr "Išsaugota"
+
+msgid "Insert"
+msgstr "Įdėti"
+
+msgid "Elements"
+msgstr "Elementai"
+
+msgid "Action Required"
+msgstr "Reikalingas veiksmas"
+
+msgid "Add a new page"
+msgstr "Pridėti naują puslapį"
+
+msgid "Blank page"
+msgstr "Tuščias puslapis"
+
+msgid "From PDF"
+msgstr "Iš PDF"
+
+msgid "From image"
+msgstr "Iš paveikslėlio"
+
+msgid "Add PDF"
+msgstr "Pridėti PDF"
+
+msgid "Add Image"
+msgstr "Pridėti vaizdą"
+
+msgid "Options"
+msgstr "Galimybės"
+
+msgid "Column Names"
+msgstr "Stulpelių pavadinimai"
+
+msgid "Option already exists."
+msgstr "Pasirinkimas jau egzistuoja."
+
+msgid "options list is empty"
+msgstr "parinkčių sąrašas yra tuščias"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Lauke „žymės langeliai“ palaikomos tik 5 parinktys. Jei norite pridėti "
+"daugiau parinkčių, galite pakeisti lauką į išskleidžiamąjį meniu"
+
+msgid "columns list is empty"
+msgstr "stulpelių sąrašas tuščias"
+
+msgid "Default Value"
+msgstr "Numatytoji reikšmė"
+
+msgid "Delete row"
+msgstr "Ištrinti eilutę"
+
+msgid "Add a new row"
+msgstr "Pridėti naują eilutę"
+
+msgid "Download"
+msgstr "parsisiųsti"
+
+msgid "Label"
+msgstr "Etiketė"
+
+msgid "Question"
+msgstr "Klausimas"
+
+msgid "Default answer"
+msgstr "Numatytasis atsakymas"
+
+msgid "Media is converting"
+msgstr "Medija konvertuojama"
+
+msgid "Send Form"
+msgstr "Siųsti formą"
+
+msgid "Form Submited."
+msgstr "Pateikta forma."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Neturite leidimų pateikti formas."
+
+msgid "You currently have no forms of your own"
+msgstr "Šiuo metu jūs neturite savo formų"
+
+msgid "Your Uncompleted Forms"
+msgstr "Jūsų neužpildytos formos"
+
+msgid "Uncompleted"
+msgstr "Nebaigtas"
+
+msgid "Your Completed Forms"
+msgstr "Jūsų užpildytos formos"
+
+msgid "Completed"
+msgstr "Baigta"
+
+msgid "Your Forms"
+msgstr "Jūsų formos"
+
+msgid "All Forms"
+msgstr "Visos formos"
+
+msgid "Form Title"
+msgstr "Formos pavadinimas"
+
+msgid "Author"
+msgstr "Autorius"
+
+msgid "Published"
+msgstr "Paskelbta"
+
+msgid "Submissions"
+msgstr "Pateikimai"
+
+msgid "No Forms"
+msgstr "Nr formų"
+
+msgid "Upload Form Document"
+msgstr "Įkelti formos dokumentą"
+
+msgid "Forms Library"
+msgstr "Formų biblioteka"
+
+msgid "No Forms In Library"
+msgstr "Nėra formų bibliotekoje"
+
+msgid "Answers"
+msgstr "Atsakymai"
+
+msgid "Close - Status changed"
+msgstr "Uždaryti - būsena pakeista"
+
+msgid "Change Status"
+msgstr "Keisti būseną"
+
+msgid "Case Number"
+msgstr "Bylos numeris"
+
+msgid "Tag Id"
+msgstr "Žymų ID"
+
+msgid "Date Opened"
+msgstr "Data atidaryta"
+
+msgid "Host Id"
+msgstr "Prieglobos ID"
+
+msgid "User Id"
+msgstr "Vartotojo ID"
+
+msgid "Case Id"
+msgstr "Atvejo ID"
+
+msgid "Confirm your details"
+msgstr "Patvirtinkite savo duomenis"
+
+msgid "Form Submitted."
+msgstr "Forma pateikta."
+
+msgid "Invoice"
+msgstr "Sąskaita faktūra"
+
+msgid "PO No:"
+msgstr "PO Nr.:"
+
+msgid "Reference ID:"
+msgstr "Nuorodos ID:"
+
+msgid "Term:"
+msgstr "Terminas:"
+
+msgid "Note:"
+msgstr "Pastaba:"
+
+msgid "QTY"
+msgstr "KIEKIS"
+
+msgid "Price"
+msgstr "Kaina"
+
+msgid "Add more"
+msgstr "Pridėti daugiau"
+
+msgid "Subtotal($)"
+msgstr "Tarpinė suma ($)"
+
+msgid "Discount(%)"
+msgstr "Nuolaida(%)"
+
+msgid "TAX(%)"
+msgstr "MOKESČIAI (%)"
+
+msgid "Total($)"
+msgstr "Iš viso ($)"
+
+msgid "Invoice No"
+msgstr "Sąskaita Nr"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr ""
+"Pasirinkite narius, kuriems reikia peržiūrėti arba apmokėti šią sąskaitą"
+
+msgid "Update Invoice"
+msgstr "Atnaujinti sąskaitą faktūrą"
+
+msgid "Create Invoice"
+msgstr "Sukurti sąskaitą faktūrą"
+
+msgid "PO No."
+msgstr "PO Nr."
+
+msgid "Reference ID"
+msgstr "Nuorodos ID"
+
+msgid "Term"
+msgstr "Terminas"
+
+msgid "Note"
+msgstr "Pastaba"
+
+msgid "Quantity"
+msgstr "Kiekis"
+
+msgid "Price ($)"
+msgstr "Kaina ($)"
+
+msgid "Subtotal ($)"
+msgstr "Tarpinė suma ($)"
+
+msgid "Discount (%)"
+msgstr "Nuolaida (%)"
+
+msgid "Tax (%)"
+msgstr "Mokestis (%)"
+
+msgid "Total ($)"
+msgstr "Iš viso ($)"
+
+msgid "Pay Invoice"
+msgstr "Apmokėti sąskaitą faktūrą"
+
+msgid "Payment method"
+msgstr "Mokėjimo būdas"
+
+msgid "Add a new payment method"
+msgstr "Pridėti naują mokėjimo metodą"
+
+msgid "Summary"
+msgstr "Santrauka"
+
+msgid "Payment:"
+msgstr "Mokėjimas:"
+
+msgid "Total charge:"
+msgstr "Visas mokestis:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Jūsų neapmokėtos sąskaitos faktūros"
+
+msgid "Unpaid"
+msgstr "Neapmokėta"
+
+msgid "Your Paid Invoices"
+msgstr "Jūsų apmokėtos sąskaitos faktūros"
+
+msgid "Paid"
+msgstr "Mokama"
+
+msgid "Your Invoices"
+msgstr "Jūsų sąskaitos faktūros"
+
+msgid "All Invoices"
+msgstr "Visos sąskaitos faktūros"
+
+msgid "Invoice Title"
+msgstr "Sąskaitos faktūros pavadinimas"
+
+msgid "No Invoices"
+msgstr "Nėra sąskaitų faktūrų"
+
+msgid "No Audios yet."
+msgstr "Dar nėra garso įrašų."
+
+msgid "Loading failed."
+msgstr "Nepavyko įkelti."
+
+msgid "retry"
+msgstr "pabandykite dar kartą"
+
+msgid "No documents yet."
+msgstr "Dar nėra dokumentų."
+
+msgid "No Files yet."
+msgstr "Failų dar nėra."
+
+msgid "No Images yet."
+msgstr "Vaizdų dar nėra."
+
+msgid "No Videos yet."
+msgstr "Dar nėra vaizdo įrašų."
+
+msgid "Page Not Found"
+msgstr "Puslapis nerastas"
+
+msgid "Attachments"
+msgstr "Priedai"
+
+msgid "Note View"
+msgstr "Pastaba Rodyti"
+
+msgid "No Notes"
+msgstr "Nėra pastabų"
+
+msgid "Select the person to answer this field"
+msgstr "Pasirinkite asmenį, kuriam reikia atsakyti į šį lauką"
+
+msgid "Create E-sign"
+msgstr "Sukurkite elektroninį ženklą"
+
+msgid "Update E-signs"
+msgstr "Atnaujinkite elektroninius ženklus"
+
+msgid "Signs"
+msgstr "Ženklai"
+
+msgid "Add Field"
+msgstr "Pridėti lauką"
+
+msgid "Edit Field"
+msgstr "Redaguoti lauką"
+
+msgid "Send E-sign"
+msgstr "Siųsti el"
+
+msgid "E-sign Submitted."
+msgstr "Elektroninis ženklas pateiktas."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Jūs neturite leidimo pateikti el."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Šiuo metu jūs neturite savo el. ženklų"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Jūsų neužbaigti el. ženklai"
+
+msgid "Your Completed E-signs"
+msgstr "Jūsų užpildyti el. ženklai"
+
+msgid "Your Signs"
+msgstr "Jūsų ženklai"
+
+msgid "All E-signs"
+msgstr "Visi E-ženklai"
+
+msgid "E-sign Title"
+msgstr "E-sign Pavadinimas"
+
+msgid "No E-signs"
+msgstr "Nėra elektroninių ženklų"
+
+msgid "E-Signs Library"
+msgstr "Elektroninių ženklų biblioteka"
+
+msgid "No E-signs In Library"
+msgstr "Bibliotekoje nėra elektroninių ženklų"
+
+msgid "Upload E-sign Document"
+msgstr "Įkelti elektroninio parašo dokumentą"
+
+msgid "Update Task"
+msgstr "Atnaujinti užduotį"
+
+msgid "Create Task"
+msgstr "Sukurti užduotį"
+
+msgid "You currently have no tasks of your own"
+msgstr "Šiuo metu neturite savo užduočių"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Jūsų neatliktos užduotys"
+
+msgid "Your Completed Tasks"
+msgstr "Jūsų atliktos užduotys"
+
+msgid "Your Tasks"
+msgstr "Jūsų užduotys"
+
+msgid "All Tasks"
+msgstr "Visos užduotys"
+
+msgid "Task"
+msgstr "Užduotis"
+
+msgid "Deadline"
+msgstr "Terminas"
+
+msgid "Assignees"
+msgstr "Perėmėjai"
+
+msgid "In Progress"
+msgstr "Vykdoma"
+
+msgid "Delete task"
+msgstr "Ištrinti užduotį"
+
+msgid "No Tasks"
+msgstr "Jokių užduočių"
+
+msgid "wants access"
+msgstr "nori prieigos"
+
+msgid "No Answers"
+msgstr "Nėra atsakymų"
+
+msgid "Select Field Type"
+msgstr "Pasirinkite lauko tipą"
+
+msgid "Text Only"
+msgstr "Tik tekstas"
+
+msgid "Multiple Line Text"
+msgstr "Kelių teksto tekstas"
+
+msgid "Dropdown"
+msgstr "Iššokantis langas"
+
+msgid "Multi Dropdown"
+msgstr "Multi sumažėjimas"
+
+msgid "Checkboxes"
+msgstr "Žymės langelius"
+
+msgid "Radio"
+msgstr "Radijas"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Time"
+msgstr "Laikas"
+
+msgid "Yes/No"
+msgstr "Taip ne"
+
+msgid "Number"
+msgstr "Numeris"
+
+msgid "Access Denied"
+msgstr "Prieiga uždrausta"
+
+msgid "You don't have access to this case."
+msgstr "Jūs neturite prieigos prie šios bylos."
+
+msgid "Imports"
+msgstr "Importas"
+
+msgid "View import"
+msgstr "Žiūrėti importą"
+
+msgid "Sessions"
+msgstr "Sesijos"
+
+msgid "Home"
+msgstr "Namai"
+
+msgid "Users"
+msgstr "Vartotojai"
+
+msgid "Library"
+msgstr "Biblioteka"
+
+msgid "Integration"
+msgstr "Integracija"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Webhooks"
+msgstr "Interneto kabliukai"
+
+msgid "Keys"
+msgstr "Raktai"
+
+msgid "Feed Templates"
+msgstr "Pašarų šablonai"
+
+msgid "Form Templates"
+msgstr "Formos šablonai"
+
+msgid "E-sign Templates"
+msgstr "E-sign šablonai"
+
+msgid "Task Templates"
+msgstr "Užduočių šablonai"
+
+msgid "Dashboard"
+msgstr "Prietaisų skydelis"
+
+msgid "Payments"
+msgstr "Mokėjimai"
+
+msgid "From"
+msgstr "Nuo"
+
+msgid "To"
+msgstr "Iki"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "User Intake"
+msgstr "Vartotojo priėmimas"
+
+msgid "Custom Fields"
+msgstr "Pasirinktiniai laukai"
+
+msgid "After Actions"
+msgstr "Po Veiksmų"
+
+msgid "Advance Settings"
+msgstr "Išplėstiniai nustatymai"
+
+msgid "Label Name"
+msgstr "Etiketės pavadinimas"
+
+msgid "Fields"
+msgstr "Laukai"
+
+msgid "Tag ID"
+msgstr "Žymos ID"
+
+msgid "Have many users?"
+msgstr "Ar daug vartotojų?"
+
+msgid "Import users"
+msgstr "Importuoti vartotojus"
+
+msgid "or"
+msgstr "arba"
+
+msgid "Send them a signup link."
+msgstr "Nusiųskite jiems registracijos nuorodą."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Pradėkime įvesdami el. Pašto adresą arba telefono numerį"
+
+msgid "Phone"
+msgstr "Telefonas"
+
+msgid "Invalid phone number entered"
+msgstr "Įvestas neteisingas telefono numeris"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Etiketė, skirta lengvai rasti bylą. vėliau jo pakeisti negalima"
+
+msgid "Visibility:"
+msgstr "Matomumas:"
+
+msgid "Who can use this template"
+msgstr "Kas gali naudoti šį šabloną"
+
+msgid "One time"
+msgstr "Vieną kartą"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Prieš tęsdami įveskite galiojančią mokėjimo informaciją"
+
+msgid "Add Payment"
+msgstr "Pridėti mokėjimą"
+
+msgid "Repeat every:"
+msgstr "Pakartokite kas:"
+
+msgid "Let's get started"
+msgstr "Pradėkime"
+
+msgid "Take me there"
+msgstr "Nuvesti mane ten"
+
+msgid "Mark"
+msgstr "ženklas"
+
+msgid "Onboarding"
+msgstr "Prisijungimas"
+
+msgid "Created on"
+msgstr "Sukurtas"
+
+msgid "Expires on"
+msgstr "Baigia galioti"
+
+msgid "No announcements yet."
+msgstr "Kol kas jokių pranešimų."
+
+msgid "Add Announcement"
+msgstr "Pridėti skelbimą"
+
+msgid "Edit Announcement"
+msgstr "Redaguoti skelbimą"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Data ir laikas turi būti bent viena valanda į priekį"
+
+msgid "Delete Date"
+msgstr "Ištrinti datą"
+
+msgid "Delete Time"
+msgstr "Ištrinti laiką"
+
+msgid "Back"
+msgstr "Atgal"
+
+msgid "No Users Found"
+msgstr "Nerasta vartotojų"
+
+msgid "No role selected"
+msgstr "Nepasirinktas nė vienas vaidmuo"
+
+msgid "No permissions added!"
+msgstr "Nėra jokių leidimų!"
+
+msgid "ASSIGNED USERS"
+msgstr "PASKIRTI VARTOTOJAI"
+
+msgid "CASE PERMISSIONS"
+msgstr "ATVEJŲ LEIDIMAI"
+
+msgid "User ID"
+msgstr "Vartotojo ID"
+
+msgid "Role"
+msgstr "Vaidmuo"
+
+msgid "remove"
+msgstr "pašalinti"
+
+msgid "Assign User"
+msgstr "Priskirti vartotoją"
+
+msgid "User"
+msgstr "Vartotojas"
+
+msgid "ADD USER"
+msgstr "PRIDĖTI VARTOTOJĄ"
+
+msgid "Email user about case assignment"
+msgstr "El. Pašto vartotojui apie atvejo priskyrimą"
+
+msgid "Keyword"
+msgstr "Raktažodis"
+
+msgid "No cases found."
+msgstr "Nerasta atvejų."
+
+msgid "Create a case for a business"
+msgstr "Sukurkite verslo bylą"
+
+msgid "Case ID"
+msgstr "Atvejo ID"
+
+msgid "Created On"
+msgstr "Sukurtas"
+
+msgid "Case Status"
+msgstr "Bylos būklė"
+
+msgid "Case Type"
+msgstr "Atvejo tipas"
+
+msgid "Assign Users"
+msgstr "Priskirti vartotojus"
+
+msgid "No cases found"
+msgstr "Nerasta atvejų"
+
+msgid "Have many cases?"
+msgstr "Ar daug atvejų?"
+
+msgid "Click here to import cases."
+msgstr "Spustelėkite čia, kad importuotumėte atvejus."
+
+msgid "No status selected"
+msgstr "Nebuvo pasirinkta būsena"
+
+msgid "No type selected"
+msgstr "Nepasirinktas joks tipas"
+
+msgid "Case Info"
+msgstr "Byla informacija"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Nuolatinė etiketė, leidžianti lengvai rasti dėklą. (a-z, 0-9, -, /) yra "
+"leidžiami"
+
+msgid "Case Types"
+msgstr "Bylų tipai"
+
+msgid "Click"
+msgstr "Spustelėkite"
+
+msgid "to edit case types"
+msgstr "redaguoti bylų tipus"
+
+msgid "No Type selected"
+msgstr "Tipas nepasirinktas"
+
+msgid "Case not found!"
+msgstr "Byla nerasta!"
+
+msgid "Media Size"
+msgstr "Laikmenos dydis"
+
+msgid "All statistics"
+msgstr "Visa statistika"
+
+msgid "Import not found."
+msgstr "Importas nerastas."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Failo apdorojimas nepavyko. Įsitikinkite, kad tai CSV failo tipas ir jame "
+"yra tinkamos antraštės"
+
+msgid "Data"
+msgstr "Duomenys"
+
+msgid "No Imports yet."
+msgstr "Kol kas nėra importo."
+
+msgid "Source"
+msgstr "Šaltinis"
+
+msgid "Stats"
+msgstr "Statistika"
+
+msgid "Passed:"
+msgstr "Išlaikyta:"
+
+msgid "Failed:"
+msgstr "Nepavyko:"
+
+msgid "Total:"
+msgstr "Iš viso:"
+
+msgid "Add Imports"
+msgstr "Pridėti importą"
+
+msgid "Download Sample"
+msgstr "Atsisiųskite pavyzdį"
+
+msgid "Choose a file"
+msgstr "Pasirinkite failą"
+
+msgid "Edit Key"
+msgstr "Redagavimo raktas"
+
+msgid "Add Key"
+msgstr "Pridėti raktą"
+
+msgid "No Keys yet."
+msgstr "Dar nėra raktų."
+
+msgid "Source CIDR"
+msgstr "Šaltinis CIDR"
+
+msgid "Remove"
+msgstr "Pašalinti"
+
+msgid "is invalid."
+msgstr "negalioja."
+
+msgid "Secret Key"
+msgstr "Slaptas raktas"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Būtinai nukopijuokite naują slaptą raktą dabar. Daugiau to pamatyti "
+"nebegalėsite!"
+
+msgid "Edit Webhook"
+msgstr "Redaguoti „Webhook“"
+
+msgid "Add Webhook"
+msgstr "Pridėti „Webhook“"
+
+msgid "No event selected"
+msgstr "Nepasirinktas joks įvykis"
+
+msgid "No Webhooks yet."
+msgstr "Dar nėra internetinių kablių."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Slaptas interneto kabliukas"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Įsitikinkite, kad nukopijavote naują slaptą interneto kabliuką dabar. "
+"Daugiau to pamatyti nebegalėsite!"
+
+msgid "Sign In"
+msgstr "Prisijungti"
+
+msgid "Login in account page."
+msgstr "Prisijunkite prie paskyros puslapio."
+
+msgid "Edit form builder"
+msgstr "Redaguoti formų kūrimo priemonę"
+
+msgid "Delete form"
+msgstr "Ištrinti formą"
+
+msgid "No forms yet."
+msgstr "Dar nėra formų."
+
+msgid "Intake Forms"
+msgstr "Priėmimo formos"
+
+msgid "Upload Intake Form Document"
+msgstr "Įkelkite priėmimo formos dokumentą"
+
+msgid "Add Intake Form"
+msgstr "Pridėti priėmimo formą"
+
+msgid "Edit Intake Form"
+msgstr "Redaguoti priėmimo formą"
+
+msgid "Show Media"
+msgstr "Rodyti žiniasklaidą"
+
+msgid "Add Post"
+msgstr "Pridėti įrašą"
+
+msgid "Edit Post"
+msgstr "Redaguoti įrašą"
+
+msgid "Files Amount"
+msgstr "Failų suma"
+
+msgid "No Feed Templates yet."
+msgstr "Dar nėra sklaidos kanalų šablonų."
+
+msgid "Post Name"
+msgstr "Skelbimo pavadinimas"
+
+msgid "Post Message"
+msgstr "Pranešimo pranešimas"
+
+msgid "Processing media ..."
+msgstr "Apdorojama laikmena ..."
+
+msgid "Download original file"
+msgstr "Atsisiųsti originalų failą"
+
+msgid "Could not display media"
+msgstr "Nepavyko parodyti laikmenos"
+
+msgid "No locations found."
+msgstr "Nerasta jokių vietų."
+
+msgid "Main Office"
+msgstr "Pagrindinis ofisas"
+
+msgid "Location Name"
+msgstr "Vietos pavadinimas"
+
+msgid "Delete e-sign"
+msgstr "Ištrinti el. ženklą"
+
+msgid "No e-signs yet."
+msgstr "El. ženklų dar nėra."
+
+msgid "Subtasks Count"
+msgstr "Papildomos užduotys Skaičiavimas"
+
+msgid "No tasks yet."
+msgstr "Užduočių dar nėra."
+
+msgid "Invoice ID"
+msgstr "Sąskaitos faktūros ID"
+
+msgid "Total"
+msgstr "Iš viso"
+
+msgid "Refund"
+msgstr "Grąžinti pinigus"
+
+msgid "No invoices yet."
+msgstr "Sąskaitų faktūrų dar nėra."
+
+msgid "Refund Reason"
+msgstr "Grąžinimo priežastis"
+
+msgid "Duplicate charge"
+msgstr "Pasikartojantis mokestis"
+
+msgid "Fraudulent charge"
+msgstr "Apgaulingas kaltinimas"
+
+msgid "Requested by customer"
+msgstr "Kliento paprašytas"
+
+msgid "On Board"
+msgstr "Laive"
+
+msgid "Stripe"
+msgstr "Juostelė"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Informacija apie vaidmenį"
+
+msgid "It cannot be changed later"
+msgstr "Vėliau jo pakeisti negalima"
+
+msgid "Role Permissions"
+msgstr "Vaidmenų leidimai"
+
+msgid "e-signs"
+msgstr "elektroninių ženklų"
+
+msgid "on"
+msgstr "on"
+
+msgid "Allowed File Sizes"
+msgstr "Leidžiami failo dydžiai"
+
+msgid "Create"
+msgstr "Sukurti"
+
+msgid "Creating..."
+msgstr "Kurti ..."
+
+msgid "Modules"
+msgstr "Moduliai"
+
+msgid "Roles"
+msgstr "Vaidmenys"
+
+msgid "Profile information"
+msgstr "Profilio informacija"
+
+msgid "No role found."
+msgstr "Nerasta jokio vaidmens."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Kai sukuriamas atvejis, automatiškai priskirkite šiuos vartotojus"
+
+msgid "Remove All"
+msgstr "Pašalinti visus"
+
+msgid "User Name"
+msgstr "Vartotojo vardas"
+
+msgid "Notify"
+msgstr "Pranešti"
+
+msgid "Host User"
+msgstr "Prieglobos vartotojas"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "Kai vartotojas priskiriamas bylai, automatiškai pridedami šablonai"
+
+msgid "No post selected"
+msgstr "Nepasirinktas joks įrašas"
+
+msgid "No form selected"
+msgstr "Forma nepasirinkta"
+
+msgid "No e-sign selected"
+msgstr "El. ženklas nepasirinktas"
+
+msgid "Templates"
+msgstr "Šablonai"
+
+msgid "Add Templates"
+msgstr "Pridėti šablonus"
+
+msgid "Idle Cases"
+msgstr "Tuščiosios eigos dėklai"
+
+msgid "When a case is idle, post this message"
+msgstr "Kai atvejis nenaudojamas, paskelbkite šį pranešimą"
+
+msgid "No case type selected"
+msgstr "Nepasirinktas atvejo tipas"
+
+msgid "Idle Days"
+msgstr "Tuščiosios dienos"
+
+msgid "Post Id"
+msgstr "Įrašo ID"
+
+msgid "Set Idle Message"
+msgstr "Nustatyti tuščiosios eigos pranešimą"
+
+msgid "No task selected"
+msgstr "Jokia užduotis nepasirinkta"
+
+msgid "No operation order selected"
+msgstr "Nepasirinkta jokia operacijos tvarka"
+
+msgid "Operation Order"
+msgstr "Operacijos įsakymas"
+
+msgid "Add Templates to Assign Users"
+msgstr "Pridėkite šablonus, kad priskirtumėte vartotojus"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Bylos forma"
+
+msgid "User Form"
+msgstr "Vartotojo forma"
+
+msgid "Notes Form"
+msgstr "Pastabų forma"
+
+msgid "Defaults"
+msgstr "Numatytuosius nustatymus"
+
+msgid "Required"
+msgstr "Būtinas"
+
+msgid "Public User Signup link:"
+msgstr "Vieša vartotojo registracijos nuoroda:"
+
+msgid "Design Settings"
+msgstr "Dizaino parametrai"
+
+msgid "Favicon:"
+msgstr "Faviconas:"
+
+msgid "Change file"
+msgstr "Pakeisti failą"
+
+msgid "Delete Favicon"
+msgstr "Ištrinkite „Favicon“"
+
+msgid "Logo:"
+msgstr "Logotipas:"
+
+msgid "Delete Logo"
+msgstr "Ištrinti logotipą"
+
+msgid "Text Color"
+msgstr "Teksto spalva"
+
+msgid "Recommended Colors:"
+msgstr "Rekomenduojamos spalvos:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "atstatyti"
+
+msgid "Background Color"
+msgstr "Fono spalva"
+
+msgid "Hex:"
+msgstr "Šešioliktainis:"
+
+msgid "Company Info"
+msgstr "Įmonės informacija"
+
+msgid "Website"
+msgstr "Interneto svetainė"
+
+msgid "Terms of Use URL"
+msgstr "Naudojimo sąlygos URL"
+
+msgid "User Signup"
+msgstr "Vartotojo registracija"
+
+msgid "Allow Signup"
+msgstr "Leisti prisiregistruoti"
+
+msgid "Auto Create Case"
+msgstr "Automatiškai sukurti dėklą"
+
+msgid "Case User Role"
+msgstr "Atvejo vartotojo vaidmuo"
+
+msgid "Google Analytics"
+msgstr "Google analizė"
+
+msgid "Analytics Key"
+msgstr "„Analytics“ raktas"
+
+msgid "delete"
+msgstr "Ištrinti"
+
+msgid "Crop Image"
+msgstr "Apkarpyti nuotrauką"
+
+msgid "No Filter"
+msgstr "Nėra filtro"
+
+msgid "No logs requested."
+msgstr "Nereikalaujama žurnalų."
+
+msgid "Logs list is empty."
+msgstr "Žurnalų sąrašas tuščias."
+
+msgid "Download CSV"
+msgstr "Atsisiųskite CSV"
+
+msgid "Request Logs"
+msgstr "Prašymų žurnalai"
+
+msgid "Log Type"
+msgstr "Prisijungti tipą"
+
+msgid "Filter"
+msgstr "Filtras"
+
+msgid "Select a case"
+msgstr "Pasirinkite atvejį"
+
+msgid "Enter the email address"
+msgstr "Įveskite el. Pašto adresą"
+
+msgid "Module"
+msgstr "Modulis"
+
+msgid "Header (3 max)"
+msgstr "Antraštė (maks. 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Kai vartotojas prisijungia prie programos, paprašykite jo bendrinti toliau "
+"nurodytus dalykus"
+
+msgid "No user intake found."
+msgstr "Nerasta jokių vartotojų duomenų."
+
+msgid "User Type"
+msgstr "Naudotojo tipas"
+
+msgid "Intake Form"
+msgstr "Priėmimo forma"
+
+msgid "Complete After"
+msgstr "Užbaigti po"
+
+msgid "No user type selected"
+msgstr "Nepasirinktas joks vartotojo tipas"
+
+msgid "No intake form selected"
+msgstr "Jokia priėmimo forma nepasirinkta"
+
+msgid "Complete After Date"
+msgstr "Užbaigti po datos"
+
+msgid "Complete After Time"
+msgstr "Užbaigti po laiko"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Data ir laikas turi būti mažesni arba lygūs dabar"
+
+msgid "Comment ct"
+msgstr "Komentuoti ct"
+
+msgid "View Ticket"
+msgstr "Žiūrėti bilietą"
+
+msgid "Ticket"
+msgstr "Bilietas"
+
+msgid "No tickets yet."
+msgstr "Bilietų dar nėra."
+
+msgid "User not found."
+msgstr "Vartotojas nerastas."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Vartotojas gali redaguoti savo paskyros informaciją, išskyrus pagrindinio "
+"vartotojo atributų skyrių."
+
+msgid "Contact"
+msgstr "kontaktas"
+
+msgid "Phone number"
+msgstr "Telefono numeris"
+
+msgid "Zip Postal Code"
+msgstr "Pašto kodas"
+
+msgid "Host User Attributes"
+msgstr "Pagrindinio kompiuterio vartotojo atributai"
+
+msgid "User Status"
+msgstr "Vartotojo būsena"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Nuolatinė etiketė, leidžianti lengvai rasti vartotoją. (a-z, 0-9, -, /) yra "
+"leidžiami"
+
+msgid "App only User Intake Fields"
+msgstr "Tik programos naudotojo priėmimo laukai"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "„APP“ TIK TIKSLIAI"
+
+msgid "s found."
+msgstr "s rasta."
+
+msgid "Created Date"
+msgstr "Sukurta data"
+
+msgid "View Cases"
+msgstr "Peržiūrėti atvejus"
+
+msgid "VIEW CASES"
+msgstr "PERŽIŪRĖTI ATVEJUS"
+
+msgid "Get Started"
+msgstr "Pradėti"
+
+msgid "Password"
+msgstr "Slaptažodis"
+
+msgid "Email is not valid."
+msgstr "El. Paštas negalioja."
+
+msgid "CaseActive lets you and your client"
+msgstr "„CaseActive“ leidžia jums ir jūsų klientui"
+
+msgid "work together"
+msgstr "dirbti kartu"
+
+msgid "at any time, in any place."
+msgstr "bet kuriuo metu, bet kurioje vietoje."
+
+msgid "Explore"
+msgstr "Tyrinėkite"
+
+msgid "Pricing"
+msgstr "Kainodara"
+
+msgid "Support & Docs"
+msgstr "Palaikymas ir dokumentai"
+
+msgid "FAQ"
+msgstr "DUK"
+
+msgid "Failed to validate if you are human"
+msgstr "Nepavyko patvirtinti, jei esate žmogus"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "PRANEŠTI, KAD REIKIA!"
+
+msgid "Thank You!"
+msgstr "Ačiū!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Mes jums pranešime, kai programa bus paruošta"
+
+msgid "Most popular"
+msgstr "Populiariausias"
+
+msgid "All languages"
+msgstr "Visos kalbos"
+
+msgid "Oops, Something went wrong."
+msgstr "Oi! Kažkas negerai."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Oi! Kažkas negerai. Mūsų komandai pranešta. Pabandykite dar kartą vėliau."
+
+msgid "Support Documentation"
+msgstr "Pagalbiniai dokumentai"
+
+msgid "All Categories"
+msgstr "Visos kategorijos"
+
+msgid "Contents"
+msgstr "Turinys"
+
+msgid "Related Articles"
+msgstr "susiję straipsniai"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Pradėkite: procesai, geriausia praktika, sąrankos vadovai ir dar daugiau!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "„CaseActive“ raskite viską, ko jums reikia norint pradėti dirbti."
+
+msgid "All case communication in one spot"
+msgstr "Visų atvejų perdavimas vienoje vietoje"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Kalbėkitės, skelbkite naujinius, atsakykite į klausimus, darykite pastabas, "
+"komentuokite ir visas diskusijas pažymėkite realaus laiko el. Pašto ir SMS "
+"pranešimais."
+
+msgid "Share with confidence"
+msgstr "Pasidalink su pasitikėjimu"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Dalykitės dokumentais ir nuotraukomis tarp klientų ir komandos narių visuose"
+" įrenginiuose, kad visi būtumėte atnaujinti."
+
+msgid "Take it on the go"
+msgstr "Paimkite jį kelyje"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Naudokite mobiliuosius įrenginius, pavyzdžiui, planšetinius kompiuterius ir "
+"išmaniuosius telefonus, kad galėtumėte bendradarbiauti kurdami svarbiausią "
+"informaciją, aptardami svarbiausias problemas, keisdamiesi dokumentais ir "
+"planuodami bylos eigą realiu laiku."
+
+msgid "Immediate records access"
+msgstr "Tiesioginė įrašų prieiga"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Įgalioti vartotojai per vieną portalą gali greitai pasiekti kliento duomenis"
+" ir informaciją apie bylas (įskaitant dabartinę, buvusią, atvirą, uždarytą "
+"ir nagrinėjamą bylą)."
+
+msgid "Automatic timezone conversion"
+msgstr "Automatinis laiko juostos konvertavimas"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Keliaudami ar apsistodami kitoje vietoje, būsite suderinti su mūsų laiko "
+"juostos pokalbių valdymo sistema."
+
+msgid "Track Events"
+msgstr "Stebėkite įvykius"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Greitai suplanuokite susitikimus, stebėkite būsimus įvykius ir pakvieskite "
+"klientus bei komandos narius kaip dalyvius."
+
+msgid "Video Conferencing"
+msgstr "Vaizdo konferencija"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Jei norite daugiau interaktyvumo, susisiekite su klientais ir komandos "
+"nariais per tiesioginius vaizdo pokalbius."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatizuokite užduotis, kai sukuriamas atvejis arba jam priskiriamas "
+"vartotojas."
+
+msgid "Automated Alerts"
+msgstr "Automatiniai įspėjimai"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Norite palinkėti savo klientams su gimtadieniu? Nustatykite automatinį "
+"pranešimą buvusiems ir esamiems klientams jų ypatingai dienai!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Kliento duomenų atnaujinimas"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Klientai gali keisti savo profilius su atnaujintais duomenimis, "
+"nuotraukomis, slaptažodžiais ir paskyros nustatymais."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Klauskite, gaukite atsakymus."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Sukurkite pasirinktines formas ir nusiųskite jas klientams užpildyti. "
+"Surinkite svarbią informaciją, pateikite išvažiavimo apžvalgas ir gaukite "
+"visus duomenis, reikalingus gerai atlikti savo darbą!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", „Cain &amp; Company“ pardavimų direktorius"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Padarykite kliento atsiskaitymus kuo paprastesnėmis sąskaitomis internetu ir"
+" mokėjimais."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Mes mėgstame atvejų sąskaitų faktūrų išrašymą, nes tai leidžia klientams "
+"tiksliai pamatyti, ką jie moka."
+
+msgid ", Vice President of Sky Digital"
+msgstr "„Sky Digital“ viceprezidentas"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Mėgaukitės paprastu el. Parašu"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Elektroniniu būdu pasirašykite visus dokumentus naudodami „DocSign“, "
+"naudodami įkeltus dokumentus ir skaitmeninio kliento parašo užklausas bei "
+"patvirtinimą."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Įkelkite dokumentą, pažymėkite jį pasirašyti, o tada klientas prisijungia ir"
+" pasirašo el. Viskas atliekama klientui neatvykus į mūsų pastatą. Tai patogu"
+" klientams, kurie nėra arti biuro arba gyvena už valstybės ribų."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Kapitalo draudimo operacijų direktorius"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Sustiprinkite savo sistemą. Mažiau darbo, daugiau rezultatų."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Naudokite savitarnos administravimo funkciją"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Visapusiškai valdykite „CaseActive“ valdymo paketą nuo pačios platformos."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Lengvai susieti esamą sistemą su „CaseActive“"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integruokite patentuotą API, kad automatiškai sukurtumėte atvejus, "
+"priskirtumėte vartotojus ir generuotumėte ataskaitas pagal jūsų sistemos "
+"įvestį."
+
+msgid "Acting as a"
+msgstr "Veikia kaip"
+
+msgid "virtual administrative assistant"
+msgstr "virtualus administratorius"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+"„CaseActive“ suteikia jums galimybę racionalizuoti dokumentų ir medijų "
+"tvarkymą, privatų"
+
+msgid "client-to-customer communications"
+msgstr "Klientų ir klientų ryšiai"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "įvykių planavimas ir nuoseklus atvejo apdorojimas."
+
+msgid "Self-Serve Administration"
+msgstr "Savitarnos administracija"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"„CaseActive“, veikdama kaip virtualus administratoriaus padėjėjas, suteikia "
+"jums supaprastintą dokumentų ir laikmenų tvarkymą, privatų kliento ryšį su "
+"klientais, įvykių planavimą ir laipsnišką bylų apdorojimą."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Tvarkykite vartotojo prisijungimus ir bylų kūrimą"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Tiesiogiai prižiūrėkite vartotojų abonementų kūrimą, kiekvienu konkrečiu "
+"atveju suteikdami jiems prieigos teises. Tvarkykite bylų kūrimą, eigą ir "
+"uždarymą, pateikdami išsamią ataskaitą kiekviename jūsų žingsnyje."
+
+msgid "View Caseactive Analytics"
+msgstr "Peržiūrėkite „Caseactive Analytics“"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Tiksliai išsiaiškinkite, kaip vyksta bylos eiga, sėkmingai baigtų bylų "
+"skaičius, ir atsakymų laikus per išsamų „CaseActive“ analizės modulį. Žinios"
+" yra galia, ir mes suteikėme jums viską, ką reikia žinoti apie jūsų pačių "
+"projektus."
+
+msgid "Monitor User Logs"
+msgstr "Stebėkite naudotojo žurnalus"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Stebėkite klientų ir komandos narių prisijungimus bei platformos veiklą, kad"
+" įsitikintumėte, jog visi jų veiksmai yra leidžiami atsižvelgiant į atvejo "
+"parametrus ir kad visi nariai vykdo savo pareigas taip, kaip reikalaujama."
+
+msgid "Employ Advanced Searches"
+msgstr "Naudokite išplėstines paieškas"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Raskite tai, ko jums reikia, kai jums to reikia. Ieškokite atvejų pagal "
+"vartotojų ir klientų vardus, raktinius žodžius, terminus, įkeltus dokumentus"
+" ir dar daugiau!"
+
+msgid "Create Custom Fields"
+msgstr "Sukurti priskirtus laukus"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Sukurkite specializuotus atvejo laukus klientų ir komandos narių įvestims ir"
+" surinkite reikalingus duomenis iš visų dalyvaujančių asmenų. Padarykite "
+"bylos sąsają unikalią jūsų verslui ir prekės ženklui!"
+
+msgid "Create Custom Templates"
+msgstr "Sukurkite pasirinktines šablonus"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Sukurkite daugybę pasirinktinių formų ir šablonų, skirtų platinti ir "
+"užpildyti tiek bylos metu, tiek po jos (pvz., Klientų pasitraukimo tyrimai)."
+" Nesvarbu, kokios formos jums reikia, galite sukurti!"
+
+msgid "Violet Cherry"
+msgstr "Violetinė vyšnia"
+
+msgid "As-You-Go Invoicing"
+msgstr "Sąskaitų faktūrų pateikimas"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Mes norime padėti! Susisiekite, jei vis dar turite klausimų, ir mes "
+"atsakysime per dvi darbo dienas."
+
+msgid "* Email is not valid."
+msgstr "* El. Paštas negalioja."
+
+msgid "Low"
+msgstr "Žemas"
+
+msgid "Medium"
+msgstr "Vidutinis"
+
+msgid "High"
+msgstr "Aukštas"
+
+msgid "Critical"
+msgstr "Kritinis"
+
+msgid "Choose Importance"
+msgstr "Pasirinkite Svarba"
+
+msgid "Department"
+msgstr "Departamentas"
+
+msgid "Sales"
+msgstr "Pardavimai"
+
+msgid "Other"
+msgstr "Kiti"
+
+msgid "Choose Department"
+msgstr "Pasirinkite skyrių"
+
+msgid "Loading"
+msgstr "Įkeliama"
+
+msgid "Importance"
+msgstr "Svarba"
+
+msgid "Send A New Message"
+msgstr "Siųsti naują žinutę"
+
+msgid "Send message"
+msgstr "Siųsti žinutę"
+
+msgid "Answers to Questions"
+msgstr "Atsakymai į klausimus"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Turite klausimų? Skaitykite tolesnius nurodymus mūsų atsakymuose į klientų "
+"užklausas ir suraskite atsakymus į savo klausimus."
+
+msgid "How secure is CaseActive?"
+msgstr "Kiek saugus yra „CaseActive“?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"„CaseActive“ naudoja karinio ir banko lygio 128 bitų SSL šifravimą duomenims"
+" perduoti ir 256 bitų AES šifravimą duomenims ramybės būsenoje. Kiekvienas "
+"„CaseActive“ egzempliorius turi sugeneruotą unikalų raktą, suteikiantį "
+"papildomą jūsų verslo saugumo lygį. Niekada neleisime kitai įmonei prieiti "
+"prie jūsų duomenų bazės ar saugojimo sistemos."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr "Turiu esamą sistemą. Ar CaseActive gali veikti su mano esama sistema?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Taip, galite integruoti mūsų patentuotą API arba importavimo modulį, kad "
+"automatiškai sukurtumėte atvejus, priskirtumėte vartotojus ir generuotumėte "
+"ataskaitas pagal jūsų sistemos įvestį."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Turime klientų visame pasaulyje. Ar CaseActive galima kitomis kalbomis?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Taip, „CaseActive“ programa ir komunikacija gali būti išversti į daugiau nei"
+" 60 kalbų, įskaitant kinų mandarinų, ispanų, hindi ir rusų bei anglų kalbas."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Ar galiu pridėti logotipą arba kaip nors tinkinti „CaseActive“?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"absoliučiai! „CaseActive“ buvo sukurta atsižvelgiant į jus. "
+"Administratoriaus skydelio nustatymų puslapyje galite įkelti savo asmeninę "
+"spalvą ir pasirinkti įmonės spalvas."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Ar „CaseActive“ suderinama su bet kokiu įrenginiu (PC, „Mac“, planšetiniu "
+"kompiuteriu ir mobiliuoju telefonu)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"„CaseActive“ yra reaguojanti žiniatinklio programa. Jis veikia bet kurioje "
+"žiniatinklio naršyklėje, pvz., „Internet Explorer“, „Firefox“, „Safari“ ar "
+"„Chrome“ ir kt. Tai reiškia, kad naudojamo įrenginio tipas (kompiuteris, "
+"„Mac“, planšetinis kompiuteris ir mobilusis telefonas) neturi skirtumo. "
+"Tiesiog atidarykite žiniatinklio naršyklę, prisijunkite prie CaseActive "
+"paskyros ir viskas."
+
+msgid "How many clients can I have?"
+msgstr "Kiek klientų galiu turėti?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Jūs esate apmokestinami už kiekvieną personalo vietą per mėnesį. Galite "
+"turėti neribotą klientų skaičių."
+
+msgid "Enhance User Experience"
+msgstr "Pagerinkite vartotojo patirtį"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Nėra minimalių mokesčių ir jokių išankstinių įsipareigojimų. Mokate tik už "
+"darbo vietą per mėnesį."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "per mėnesį"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Viskas ko reikia norint pradėti. Į kainą įeina 3 sėdimos vietos."
+
+msgid "Business"
+msgstr "Verslas"
+
+msgid "Popular"
+msgstr "Populiarus"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Mūsų populiariausias planas. Į kainą įeina 4 sėdimos vietos."
+
+msgid "Enterprise"
+msgstr "Įmonė"
+
+msgid "Contact sales for pricing"
+msgstr "Dėl kainų susisiekite su pardavimais"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Pasirinktinė kainodara, išplėstinės funkcijos, SSO, „Webhooks“."
+
+msgid "Contact Sales"
+msgstr "Susisiekite su pardavimais"
+
+msgid "Overview"
+msgstr "Apžvalga"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Bendraukite ir bendrinkite dokumentus su savo klientais"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Suplanuokite pasikartojančius renginius ir susitikimus"
+
+msgid "Fully customize your form to generate data"
+msgstr "Norėdami generuoti duomenis, visiškai tinkinkite formą"
+
+msgid "Keep track of case progression"
+msgstr "Sekite bylos eigą"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Prašyti suderinamų el. parašų iš kelių vartotojų"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr ""
+"Sukurkite sąskaitą faktūrą, kad klientas galėtų peržiūrėti arba sumokėti"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Leidžia visiems žinoti, kas laukia ir laukia"
+
+msgid "Auto notify the user when something is due"
+msgstr "Automatiškai pranešti vartotojui, kai kažkas turi būti atlikta"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Visiems atvejams pridėkite tinkintus atvejo laukus"
+
+msgid "Custom Branding"
+msgstr "Individualus prekės ženklas"
+
+msgid "Make your app unique with logo and color styles"
+msgstr ""
+"Padarykite savo programą unikalią naudodami logotipą ir spalvų stilius"
+
+msgid "Access to customer support"
+msgstr "Prieiga prie klientų aptarnavimo"
+
+msgid "Storage"
+msgstr "Sandėliavimas"
+
+msgid "Unlimited"
+msgstr "Neribota"
+
+msgid "Additional Users Seats"
+msgstr "Papildomos naudotojų sėdynės"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "83,34 USD"
+
+msgid "Convo with recording"
+msgstr "Pokalbis su įrašu"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Vaizdo ar garso pokalbis su įrašu išsaugotas dėkle"
+
+msgid "API Access"
+msgstr "API prieiga"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatizuokite užduotis su prieiga prie API"
+
+msgid "Module Templates"
+msgstr "Modulio šablonai"
+
+msgid "Create a standard template and reuse it"
+msgstr "Sukurkite standartinį šabloną ir naudokite jį dar kartą"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Automatiškai paleisti veiksmą, kai suaktyvinamas priskirtas atvejis arba "
+"atvejis"
+
+msgid "Newsletter"
+msgstr "Naujienlaiškis"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Siųsti klientams bendruosius, gimtadienio ar atostogų pranešimus (netrukus)"
+
+msgid "Encryption at rest"
+msgstr "Šifravimas ramybės būsenoje"
+
+msgid "Protects your data from system compromise"
+msgstr "Apsaugo jūsų duomenis nuo sistemos kompromisų"
+
+msgid "Encryption in transit"
+msgstr "Šifravimas siuntimo metu"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Apsaugo jūsų duomenis, jei perimamas ryšys"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML pagrįstas vienkartinis prisijungimas (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Reaguokite į įvykius realiuoju laiku"
+
+msgid "Seamless Collaboration"
+msgstr "Sklandus bendradarbiavimas"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"„CaseActive“ supaprastina jūsų įmonės ir klientų skaitmeninį "
+"bendradarbiavimą – nuo konsultacijos iki sprendimo, viskas vienoje "
+"platformoje."
+
+msgid "Take a tour"
+msgstr "Apsilankykite"
+
+msgid "Stay Connected"
+msgstr "Lik prisijungęs"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Palaikykite tiesioginį ryšį su komandos nariais naudodami patogią "
+"„CaseActive“ sąsają kaip savo „vieno langelio“ centrą klientų ir bylų "
+"valdymui."
+
+msgid "Connect"
+msgstr "Prisijungti"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "„Case Feed“ nuolat atnaujina jūsų klientus."
+
+msgid "Schedule"
+msgstr "Tvarkaraštis"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Kurkite įvykius, pakvieskite dalyvius ir stebėkite savo kalendorių."
+
+msgid "Call"
+msgstr "Skambink"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Dalyvaukite tiesioginiuose vaizdo konferencijų skambučiuose bet kuriuo metu."
+
+msgid "Share"
+msgstr "Dalintis"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Saugiai įkelkite failus, aptarkite juos ir bendrinkite."
+
+msgid "Powerful Case Management"
+msgstr "Galingas bylų valdymas"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Išorinės funkcijos"
+
+msgid "Easily assign individuals"
+msgstr "Lengvai priskirkite asmenis"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "arba komandoms ir bendradarbiauti su klientais."
+
+msgid "Manage user groups"
+msgstr "Tvarkykite vartotojų grupes"
+
+msgid "and customize access permissions."
+msgstr "ir tinkinti prieigos teises."
+
+msgid "All data is automatically backed up"
+msgstr "Visi duomenys yra automatiškai paremti"
+
+msgid "in case a recovery is ever needed."
+msgstr "jei visuomet reikia susigrąžinti."
+
+msgid "All information"
+msgstr "Visa informacija"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "yra saugiai užšifruotas, užtikrinant absoliučią privatumą."
+
+msgid "Customize"
+msgstr "Pritaikyti"
+
+msgid "with your own colors and logo."
+msgstr "su savo spalvomis ir logotipu."
+
+msgid "can be enabled/disabled at any time."
+msgstr "galima bet kuriuo metu įjungti / išjungti."
+
+msgid "Benefits of "
+msgstr "Privalumai iš"
+
+msgid "Reduction in time "
+msgstr "Laiko sumažinimas"
+
+msgid "to intake new clients"
+msgstr "priimti naujų klientų"
+
+msgid "Minimize "
+msgstr "Sumažinti"
+
+msgid "the chance of "
+msgstr "galimybė"
+
+msgid "malpractice"
+msgstr "netinkama praktika"
+
+msgid "Better experience "
+msgstr "Geresnė patirtis"
+
+msgid "for your client"
+msgstr "savo klientui"
+
+msgid "Increase in caseload capacity "
+msgstr "Padidinti bylų apkrovą"
+
+msgid "per staff"
+msgstr "vienam personalui"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Pradėkite naudodami integruotas programas"
+
+msgid "All you need in one place."
+msgstr "Viskas ko jums reikia vienoje vietoje."
+
+msgid "Case Feed"
+msgstr "„Case Feed“"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Lengvai paskirkite klientą, darbuotojus ir asocijuotus asmenis į bylą ir "
+"užsiimkite saugia erdve, leidžiančia paskelbti bylos eigą, turėti realaus "
+"laiko pokalbius ir vaizdo pokalbius, taip pat planuoti įvykius, pasirašyti /"
+" įkelti / atsisiųsti dokumentus ir daug daugiau."
+
+msgid "Case Invoices"
+msgstr "Bylų sąskaitos faktūros"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Esant sąskaitų faktūrų išrašymui, kliento atsiskaitymas yra vos už vieno "
+"paspaudimo ir leidžia siųsti automatiškai sugeneruotas lėšų užklausas ir "
+"gauti tiesiogines išmokas mainais."
+
+msgid "Case Events"
+msgstr "Atvejo įvykiai"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Visada tvarkykite savo bylų kalendorių, planuokite įvykius, kvieskite "
+"dalyvius, siųskite įvykių priminimus ir užtikrinkite, kad viskas išliktų "
+"tinkama."
+
+msgid "Case Convo"
+msgstr "Byla Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Susitikite su klientais ir komandos nariais praktiškai „akis į akį“ per "
+"įmontuotas vaizdo konferencijas, kad galėtumėte kalbėti tiesiogiai su visais"
+" dalyvaujančiais asmenimis."
+
+msgid "Case Forms & E-signs"
+msgstr "Bylų formos ir el. ženklai"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Visiškai pritaikykite savo bylos formą, kad sukurtumėte unikalius šablonus, "
+"tenkinančius jūsų konkrečius poreikius. Šie šablonai bus išplatinti "
+"klientams ir komandos nariams, kad jie galėtų užpildyti ir pasirašyti"
+
+msgid "Case notes"
+msgstr "Bylos pastabos"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Laikykite pastabas su pasirinktiniais laukais ir priedais apie bylos eigą "
+"esamiems ir būsimiems komandos nariams"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Įkelkite, bendrinkite, komentuokite ir atsisiųskite su byla susijusius "
+"failus, kad kiekvienas turėtų nuorodą apie visą svarbią informaciją, žmones "
+"ir situacijas."
+
+msgid "About Case"
+msgstr "Apie bylą"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Leiskite klientams ir darbuotojams peržiūrėti bendrą informaciją apie "
+"atvejus, kuriuose jie dalyvauja. Tada galite uždaryti bylą, kai viskas bus "
+"sutvarkyta, arba duoti komandos nariui leidimą tai padaryti."
+
+msgid "Plus Many More Features"
+msgstr "Be to, daug daugiau funkcijų"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Naudokite savitarnos administravimo funkciją. Galite visiškai valdyti savo "
+"CaseActive valdymo paketą iš pačios platformos."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Sunkiai susiekite esamą sistemą su „CaseActive“. Integruokite patentuotą "
+"API, kad automatiškai sukurtumėte atvejus, priskirtumėte vartotojus ir "
+"generuotumėte ataskaitas pagal jūsų sistemos įvestį."
+
+msgid "Multi-Language Enabled:"
+msgstr "Įgalinta daugiakalbė:"
+
+msgid "Interact with clients in"
+msgstr "Sąveikauti su klientais"
+
+msgid "70+ languages"
+msgstr "70 + kalbų"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Nesvarbu, ar dirbate vietoje, ar visame pasaulyje, galite išversti savo "
+"gimtąją kalbą per „CaseActive“"
+
+msgid "language management system"
+msgstr "kalbos valdymo sistema"
+
+msgid "No more confusion or limits."
+msgstr "Nėra daugiau painiavos ar ribų."
+
+msgid "Let's see what others are saying"
+msgstr "Pažiūrėkime, ką kiti sako"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Sužinokite, kaip nuostabūs mūsų klientai - nuo mažų įmonių iki verslo įmonių"
+" - padidino savo konkurencinį pranašumą tapdami „CaseActive“ kariais."
+
+msgid "SUPPORT"
+msgstr "PARAMA"
+
+msgid "Everything at Your Fingertips."
+msgstr "Viskas jūsų rankose."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Pradėkite nuo „CaseActive“ programos atlikdami vaizdo įrašų vadovą ir "
+"pritaikykite jį pagal savo poreikius."
+
+msgid "What are you looking for..."
+msgstr "Ko tu ieškai..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Paskutinį kartą atnaujinta: 2021 m. Birželio 7 d"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"„CaseActive“ pasilieka teisę bet kuriuo metu ir savo nuožiūra atnaujinti ir "
+"pakeisti bet kurias ar visas šias paslaugų teikimo sąlygas. Kai „CaseActive“"
+" pakeis šias paslaugų teikimo sąlygas, „CaseActive“ pakeis aukščiau nurodytą"
+" „Paskutinio atnaujinimo“ datą. Jūs esate atsakingi už tai, kad reguliariai "
+"peržiūrėtumėte naujausią Paslaugos versiją. Jei atliksite tokius pakeitimus,"
+" toliau naudositės Paslaugomis, tai reiškia, kad sutinkate, kad tokie "
+"pakeitimai jums būtų privalomi. Jei prieštaraujate bet kokiems šių Paslaugų "
+"teikimo sąlygų pakeitimams, jūsų vienintelė išimtinė priemonė yra nutraukti "
+"Paslaugas laikantis šių sąlygų."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Šios Bendrosios paslaugų teikimo sąlygos apskritai taikomos Paslaugoms. "
+"Papildomos sąlygos, taikomos kiekvienai siūlomai Paslaugai, yra pateiktos "
+"žemiau pateiktose nuorodose („Papildomos paslaugų teikimo sąlygos“)."
+
+msgid "1. Services:"
+msgstr "1. Paslaugos:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Mūsų patentuota programinė įranga yra paslaugų platforma, kurią priimame "
+"savo klientams, kad galėtume pasiūlyti toliau nurodytas paslaugas. Norėdami "
+"užsiprenumeruoti paslaugą, turite užpildyti tos paslaugos užsakymo formą ir "
+"(arba) užpildyti tos paslaugos registracijos procesą. Jūs turite teisę "
+"naudotis tik tomis Paslaugomis, kurias užsiprenumeravote ir sumokėjote, o "
+"jei naudojatės Paslaugomis, turite laikytis visų sutarties sąlygų. Jūs "
+"pripažįstate ir sutinkate, kad pasiliekame teisę retkarčiais modifikuoti "
+"Paslaugas (ar bet kurią jų dalį) ir kad mes neatsakome nei jums, nei jokiai "
+"trečiajai šaliai už bet kokius Paslaugų pakeitimus."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 „CaseActive“ paslaugos aprašymas: „CaseActive“ paslauga yra „CaseActive "
+"LLC“ teikiamas programinės įrangos paslaugų rinkinys, skirtas internetinio "
+"kliento bendradarbiavimo valdymui. Registracijos sraute, kurį sutikote, arba"
+" jūsų vykdomoje užsakymo formoje nurodoma jūsų užsisakyta „CaseActive“ "
+"paslauga, prenumeratos terminas ir mokesčiai, kuriuos turite sumokėti už "
+"„CaseActive“ paslaugą. Papildomos naudojimosi „CaseActive“ paslauga sąlygos "
+"ir sąlygos pateikiamos:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Paslaugų išplėtimas:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Galite užsisakyti bet kokias papildomas paslaugas, įskaitant naujas "
+"paslaugas, kurias retkarčiais gali pateikti „CaseActive“, arba padidinti "
+"savo esamas paslaugas vykdydami papildomą užsakymo formą arba "
+"prisiregistruoti kaip paslaugų dalį. Kiekviename naujame registracijos "
+"sraute arba užsakymo formoje bus nurodyta tuo metu pridedamų Paslaugų kaina "
+"ir atsiskaitymo data (-os). Visoms naujoms paslaugoms taikomos šios "
+"bendrosios paslaugų teikimo sąlygos ir visos papildomos sąlygos, kurios gali"
+" būti konkrečiai taikomos tokioms papildomoms paslaugoms."
+
+msgid "3. Customer Support:"
+msgstr "3. Klientų aptarnavimas:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Jei sumokėsite visus mokesčius, kuriuos turite sumokėti už Paslaugas, mes "
+"imsimės pagrįstų komercinių pastangų, kad nemokamai teiktume techninės "
+"pagalbos paslaugas jums ir jūsų įgaliotiems vartotojams, "
+"užsiprenumeravusiems šias paslaugas. Jūsų byloms bus paskirtas klientų "
+"aptarnavimo atstovas. Iš autorizuotų vartotojų priimami neriboti atvejai. "
+"Mūsų standartinis palaikymas yra prieinamas visą parą, išskyrus didžiausias "
+"šventes, kurias sudaro Atminimo diena, Nepriklausomybės diena, Darbo diena, "
+"Padėkos diena, Kalėdos ir Naujųjų metų diena. Galite susisiekti su klientų "
+"palaikymo tarnyba naudodamiesi mūsų"
+
+msgid "Contact Form"
+msgstr "Kontaktinė forma"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Mūsų atsakymo laikas neturi būti ilgesnis kaip dvi darbo dienos."
+
+msgid "4. Training:"
+msgstr "4. Mokymas:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Jei sumokėsite visus mokesčius, kuriuos turite sumokėti už Paslaugas, mes "
+"paskirsime nuotolinius, tiesioginius ar įrašytus mokymo užsiėmimus jūsų "
+"paskirtiems, įvardytiems ir įgaliotiems vartotojams, taip pat pateiksime "
+"mokomuosius dokumentus, kuriuos galite rasti mūsų tinklalapio skyriuje "
+"„Pagalba ir mokymai“ šiuo adresu: be jokio papildomo mokesčio. Kai kurioms "
+"paslaugoms paprašius ir už papildomą mokestį rengiame mokymus vietoje. "
+"Susisiekite su mumis naudodamiesi mūsų"
+
+msgid "for more information about on-site training."
+msgstr "Norėdami gauti daugiau informacijos apie mokymus vietoje."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Jūsų teisės ir apribojimai:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Licencija: Laikydamiesi sutarties sąlygų ir laiku sumokėję visus "
+"taikytinus mokesčius, nurodytus užsakymo formoje ar registracijos sraute, "
+"mes suteikiame jums neišimtinę, neperleidžiamą, ribotą teisę ir licencija "
+"naudoti (ir leisti savo įgaliotiems vartotojams naudoti) paslaugas, kurias "
+"jūs užsiprenumeravote, tik savo vidaus verslo tikslams."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Įgalioti vartotojai: Jūs (i) esate atsakingi už tai, kad jūsų įgalioti "
+"vartotojai laikytųsi sutarties, ir (ii) imkitės komerciškai pagrįstų "
+"pastangų, kad užkirstumėte kelią neteisėtai prieigai prie Paslaugų ar jų "
+"naudojimuisi, ir nedelsdami pranešite mums apie tokią neteisėtą prieigą ar "
+"naudoti. Jūs turite pašalinti prieigą prie Paslaugų, jei pasikeičia "
+"vartotojo ar paskirto darbuotojo įgaliotas statusas."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Jūsų atsakomybė ir apribojimai: Jūs esate atsakingi už visą veiklą, "
+"vykdomą pagal jūsų vartotojo paskyras arba jūsų įgaliotų vartotojų. Jūs: (i)"
+" esate visiškai atsakingi už visų duomenų, kuriuos pateikiate Paslaugoms, "
+"tikslumą, kokybę, vientisumą, teisėtumą, patikimumą ir tinkamumą; (ii) imasi"
+" komerciškai pagrįstų pastangų, kad užkirstų kelią neteisėtam valdymui ar "
+"klastojimui ar bet kokiam kitam neteisėtam priėjimui prie Paslaugų ar jų "
+"naudojimui ir nedelsiant praneštų mums apie bet kokį neteisėtą naudojimą ar "
+"saugumo pažeidimą; (iii) naudodamiesi Paslaugomis, laikykitės visų "
+"galiojančių vietinių, valstijų, federalinių ir užsienio įstatymų (įskaitant "
+"įstatymus dėl privatumo ir asmeninės ar vartotojų informacijos apsaugos); "
+"iv) kiek įmanoma, laikosi visų galiojančių kredito kortelių asociacijų "
+"taisyklių (įskaitant „American Express“, „MasterCard“ ir „Visa“); ir (v) "
+"įsigyti ir prižiūrėti visą kompiuterinę techninę įrangą, programinę įrangą "
+"ir ryšių įrangą, reikalingą norint naudotis Paslaugomis, ir sumokėti visus "
+"prieigos mokesčius (pvz., IPT mokesčius), kuriuos patyrėte naudodamiesi "
+"Paslaugomis."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Jūs negalite ir užtikrinsite, kad jūsų įgalioti vartotojai: (i) neišardytų, "
+"nepadarytų inžinierių inžinierių, nesukompiliuotų ar kitaip nemėgintų "
+"iššifruoti jokio su Paslaugomis susijusio kodo, arba modifikuoti, "
+"pritaikyti, kurti išvestinius kūrinius, pagrįstus ar išversti Paslaugos; "
+"(ii) licencijuoti, sublicencijuoti, parduoti, išsinuomoti, perduoti, "
+"paskirstyti, pakaitinio naudojimosi teises perduoti, išnuomoti, paskolinti, "
+"perparduoti siekiant pelno, paskirstyti ar kitaip komerciškai panaudoti, "
+"suteikti teises ar suteikti paslaugas trečiosioms šalims; (iii) nesinaudoti "
+"Paslaugomis, išskyrus tuos atvejus, kai tai aiškiai leidžiama pagal Sutartį "
+"arba pažeidžiant galiojančius įstatymus; (iv) užsiimti bet kokia neteisėta "
+"ar apgaulinga prekybos praktika paslaugų srityje; (v) apeiti ar išjungti bet"
+" kokią Paslaugų apsaugą ar kitas technines savybes ar priemones ar bet kurį "
+"kitą Programinės įrangos aspektą arba bet kokiu būdu bandyti įgyti ar "
+"pasiekti neteisėtą prieigą prie Paslaugų ar susijusių kompiuterinių sistemų "
+"ar tinklų; (vi) naudotis Paslaugomis perduodant pažeidžiančią, šmeižikišką, "
+"nepadorią, grasinančią ar kitaip neteisėtą, nesaugią, kenksmingą, "
+"įžeidžiančią ar kankinančią medžiagą arba saugoti ar perduoti medžiagą "
+"pažeidžiant trečiųjų šalių teises į privatumą; (vii) naudoti Paslaugą "
+"saugoti ar perduoti bet kokius virusus, kirminus, laiko bombas, Trojos "
+"arklius ir kitus kenksmingus ar kenksmingus kodus, failus, scenarijus, "
+"agentus ar programas arba siųsti šlamštą ar kitaip dubliuoti ar "
+"nepageidaujamus pranešimus, pažeisdami galiojančius įstatymus ; arba (viii) "
+"trukdyti ar sutrikdyti Paslaugų ar jose esančių trečiųjų šalių duomenų "
+"vientisumą ar vykdymą."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Teisių rezervavimas: Jokios kitos teisės nėra suteikiamos, išskyrus "
+"aiškiai išdėstytas Sutartyje. Ši sutartis nėra pardavimas ir nesuteikia "
+"jokių teisių ar nuosavybės į Paslaugas ar bet kokią pagrindinę programinę "
+"įrangą. Mums priklauso visos teisės, nuosavybės teisės ir interesai, "
+"įskaitant visas intelektinės nuosavybės teises, į Paslaugas ir jose esančią "
+"programinę įrangą ir bet kokius atnaujinimus, atnaujinimus, modifikacijas, "
+"patobulinimus, patobulinimus ar jų išvestinius kūrinius, taip pat bet kokias"
+" idėjas, kaip, ir programos, kurias mes ar mūsų licencijos išdavėjai "
+"sukūrėme teikdami Paslaugas."
+
+msgid "6. Term and Termination:"
+msgstr "6. Terminas ir nutraukimas:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1. Terminas: Paslaugų teikimo laikas skiriasi priklausomai nuo jūsų "
+"užsiprenumeruotos paslaugos. Ji turi būti nurodyta užsakymo formoje arba "
+"sutikta registracijos metu ir pratęsiama taip:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 „CaseActive“ paslaugų teikimo terminas: Jūsų prenumerata „CaseActive“ "
+"paslaugai automatiškai pratęsiama paskesnėms vieno mėnesio ar vienerių metų "
+"sąlygoms, nurodytoms Užsakymo formoje arba registracijos metu, nebent mes "
+"nenutrauktume Paslaugos, kurią teikiate mums pranešdami apie neatnaujinimas "
+"likus ne mažiau kaip trisdešimčiai (30) dienų iki dabartinio termino "
+"pabaigos."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 „CaseActive“ svetainių paslaugų teikimo terminas: jūsų prenumerata "
+"„CaseActive“ svetainės paslaugoms automatiškai atnaujinama paeiliui "
+"trunkančiais vieno mėnesio ar vienerių metų laikotarpiais, kaip nustatyta "
+"užsakymo formoje arba registracijos metu, nebent mes nenutrauktume Paslaugos"
+" arba jūs teikiate mums pranešimu apie nepratęsimą likus ne mažiau kaip "
+"trisdešimčiai (30) dienų iki galiojančio termino pabaigos."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Rašytinį pranešimą apie nepratęsimą turite pateikti „CaseActive“, LLC,"
+" 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Nutraukimas: Bet kuri šalis gali nutraukti Sutartį ir visas Paslaugų "
+"prenumeratas (i), jei kita šalis pažeidžia bet kuriuos savo materialinius "
+"įsipareigojimus pagal Sutartį ir toks pažeidimas neišgydomas per trisdešimt "
+"(30) dienų nuo pranešimo apie pažeidimą gavimo dienos. arba ii) jei kita "
+"šalis tampa nemoki ar bankrutuojanti, likviduojama, likviduojama ar iš esmės"
+" nutraukia visą savo verslą. Pažeisdami 5.3 skirsnį, galime nedelsdami "
+"nutraukti sutartį. Nutraukę Sutartį, jūs nedelsdami nutraukite naudojimąsi "
+"Paslaugomis, bet kokiu pavidalu nusistatote, kad esate Paslaugų vartotojas, "
+"ir sunaikinsite visą mūsų turimą konfidencialią informaciją. Nė viena šalis "
+"neatsako už jokią žalą, atsirandančią dėl Sutarties nutraukimo ar bet kokių "
+"Paslaugų prenumeratų, kaip numatyta šioje Sutartyje; tačiau su sąlyga, kad "
+"Sutarties nutraukimas neturės įtakos jokiems reikalavimams, kylantiems iki "
+"tokio nutraukimo."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Jūsų duomenų tvarkymas nutraukiant sutartį: Jūs pripažįstate ir "
+"sutinkate, kad pasibaigus ar nutraukus bet kurią jūsų Paslaugų prenumeratą, "
+"mes galime nedelsdami išjungti paveiktas Paslaugas ir kad po pagrįsto ne "
+"trumpesnio kaip devyniasdešimties (90) laikotarpio ) dienų, gali ištrinti "
+"jūsų sąskaitą ir duomenis. Tačiau tuo atveju, jei mes nutraukėme Paslaugas, "
+"suteiksime jums laikiną, ribotą, ne ilgesnį kaip trisdešimt (30) dienų "
+"prieigą prie paslaugų, vienintelį tikslą - leisti jums nuskaityti jūsų "
+"nuosavybės duomenis, jei jūs visiškai sumokėjote neginčijamas sumas, kurios "
+"mums liko skolingos. Be to, jūs sutinkate, kad mes nebūsime atsakingi jums "
+"ar jokiai trečiajai šaliai už jūsų naudojimosi Paslaugomis nutraukimą ar "
+"jūsų duomenų ištrynimą, jei laikysimės šio 6.3 skyriaus sąlygų."
+
+msgid "7. Fees:"
+msgstr "7. Mokesčiai:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Paslaugų mokesčiai: Jūs turėsite sumokėti negrąžinamus mokesčius už "
+"paslaugas, nurodytą registracijos sraute arba Užsakymo formoje („Paslaugų "
+"mokesčiai“), atsižvelgiant į atsiskaitymo periodiškumą, nurodytą "
+"registracijos metu ar Užsakyme. Forma. Paslaugų mokesčiai turi būti sumokėti"
+" sąskaitos išrašymo dieną. Paslaugų mokesčiai gali būti padidinti "
+"atsižvelgiant į tuometinius mūsų mokesčius. Paslaugos mokesčiai negrąžinami,"
+" net jei nutraukiate prenumeratą anksčiau laiko."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Papildomi mokesčiai: Jūs galite mokėti kitus negrąžintinus mokesčius ar "
+"rinkliavas už naudojimąsi Paslaugomis, be tų mokesčių, kurie nurodyti "
+"Užsakymo formoje ir (arba) registracijos metu. Papildomi negrąžinami "
+"mokesčiai ir rinkliavos yra nustatyti papildomose taikytinos paslaugos "
+"sąlygose."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Pavėluoti mokėjimai: Jūs pripažįstate, kad nesumokėję jokių mokesčių ar "
+"rinkliavų, jūsų mokėjimas gali būti sustabdytas arba nutrauktas. Jei "
+"nesumokėsite jokių pagal šį įstatymą mokėtinų mokesčių ar rinkliavų, "
+"„CaseActive“ pasilieka teisę pasitelkti kolekcijų agentūrą rinkti mokesčius "
+"ir rinkliavas, o jūs apmokate visas „CaseActive“ išlaidas, susijusias su "
+"tokių pradelstų sumų surinkimu, įskaitant: be apribojimų pagrįstus advokatų "
+"ir kolekcijų agentūrų mokesčius, pridedant palūkanas, kurių suma yra mažesnė"
+" nei 1,0% per mėnesį arba maksimali norma, leidžiama pagal taikomus "
+"įstatymus."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Mokesčiai: Jūs esate atsakingi už visus pardavimo mokesčius, naudojimo "
+"mokesčius, pridėtinės vertės mokesčius, išskaičiuojamuosius mokesčius ir "
+"kitus panašius bet kokio pobūdžio mokesčius ir rinkliavas, kuriuos "
+"federalinės, valstijos ar vietos vyriausybės subjektai nustato už sutartyje "
+"numatytus sandorius. Kai pagal šį skyrių turime teisinę prievolę mokėti ar "
+"rinkti mokesčius, už kuriuos esate atsakingas, jums bus išrašyta atitinkama "
+"suma ir sumokėta jums, nebent jūs pateiktumėte galiojantį mokesčių lengvatų "
+"pažymėjimą, kurį patvirtino atitinkama mokesčių institucija."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Atstovavimas ir garantijos:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Abipusis atstovavimas ir garantijos: Kiekviena šalis patvirtina ir "
+"garantuoja kitai šaliai, kad (i) ji turi visus reikiamus įgaliojimus "
+"prisiimti ir vykdyti savo įsipareigojimus pagal šį susitarimą be jokios "
+"trečiosios šalies sutikimo arba pažeisdama sutartį ar susitarimą su bet kuri"
+" trečioji šalis, ii) visi asmenys, vykdantys bet kokius įsipareigojimus "
+"pagal šią sutartį, yra sudarę visus būtinus susitarimus, kad ji atitiktų "
+"susitarimo sąlygas ir iii) visais esminiais aspektais laikosi visų įstatymų,"
+" taikomų Paslaugos."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Papildomi pareiškimai ir garantijos: Jūs garantuojate, atstovaujate ir "
+"sudarote su mumis susitarimą, kad Paslaugas naudosite tik teisėtais tikslais"
+" pagal Sutartį ir visas taikomas „CaseActive“ strategijas bei gaires."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3. Garantijos atsisakymas: IŠSKYRUS IŠREIKŠTAS GARANTIJAS, KURIAS TAIKOMAS"
+" ŠIS 8 SKIRSNIS, DĖL KIEKVIENOS GALIMYBĖS, KURIĄ LEIDŽIAMA TAIKYTI ĮSTATYMĄ,"
+" NENORIAME JOKIŲ GARANTIJŲ, AIŠKINAMŲ, NETIESIOGINIŲ, TEISĖS AKTŲ BEI JOKIŲ,"
+" SUSIJUSIŲ SU TEISĖMIS, ARBA JŲ NENORUOTI. PREKYBOS, KURIOS BET KURIOMS, "
+"ĮSKAIČIUOJAMOS Į PARDUOTUVĖS, PASITIKIANČIOS KOKYBĖS, PAVADINIMO, TINKAMUMO "
+"YPATINGAM TIKSLUI AR NETURĖJIMĄ. NENOREJAME, KAD PROGRAMINĖ ĮRANGA ARBA "
+"PASLAUGOS ATITIKS VISUS JŪSŲ REIKALAVIMUS, ĮSKAITANT APSKAITOS REIKALAVIMUS,"
+" ARBA TAI, KAD PROGRAMINĖS ĮRANGOS ARBA PASLAUGŲ NAUDOJIMAS BŪS NETEISĖTAS "
+"ARBA KLAIDA. PROGRAMINĖ ĮRANGA IR PASLAUGOS JUMS PATEIKIAMOS „KAS YRA“, "
+"PAGRINDAS IR JŪSŲ NAUDOJIMASIS PROGRAMINE ĮRANGA IR PASLAUGOMIS JŪSŲ SAVO "
+"RIZIKAI, ĮSKAITANT, BE APRIBOJIMŲ, ATITIKTIES JOKIUS ĮSTATYMUS. ŠALYS "
+"AIŠKIAI PRIPAŽĮSTA, KAD GARANTIJOS ATSAKYMAS TEIKIAMA PAGRINDINĖJE SUTARTIES"
+" DALYJE."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"ATSISAKAME JOKIŲ ATSTOVŲ AR GARANTIJŲ, KAD NAUDOJANTIS PASLAUGOMIS "
+"SUSITIKSITE ARBA UŽTIKRINAME JOKIŲ TEISINIŲ ĮSIPAREIGOJIMŲ AR ĮSTATYMŲ ARBA "
+"REGLAMENTŲ VYKDYMĄ. ŠIS ATSAKOMYBĖS ATSAKOMYBĖ TAIKOMA, BET NENORIAMA JOKIAM"
+" FEDERALINIAM ARBA VALSTYBĖS ĮSTATYMUI BEI TAISYKLĖMS, KURIAS GALI BŪTI "
+"TAIP. Jūs ATSAKINGAI ATSAKINGAS UŽ UŽTIKRINIMĄ, KAD JŪSŲ PASLAUGOS "
+"NAUDOJAMOSI PAGAL TAIKOMĄ ĮSTATYMĄ."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"JEI NESKLAUSITE PASLAUGŲ AR ŠIOS SUTARTIES, JŪS ATSAKINGOS IR IŠSKIRTINĖS "
+"IŠTIKRINIMO PRIEMONĖS NUSTABTI NAUDOTIS PASLAUGOMIS."
+
+msgid "9. Confidential Information:"
+msgstr "9. Konfidenciali informacija:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Nė viena šalis neatskleidžia trečiosioms šalims jokios informacijos ar "
+"medžiagos, kurią ši šalis pateikė pagal Susitarimą ir kuri yra pagrįstai "
+"suprantama kaip konfidenciali („Konfidenciali informacija“), arba jokia kita"
+" informacija nenaudojama jokiu kitu būdu. nei vykdyti savo įsipareigojimus "
+"pagal Susitarimą. Pirmiau nurodyti apribojimai netaikomi jokiai viešai "
+"prieinamai ar jau gaunančiosios šalies turimai informacijai, kuri buvo "
+"žinoma prieš gaunančiajai šaliai iki atskleidimo dienos, arba vėliau "
+"gaunančiajai šaliai tampa žinoma iš trečiosios šalies, turinčios akivaizdžių"
+" aplinkybių. bona fide teisė atskleisti informaciją arba konfidencialią "
+"informaciją, kurią gaunančioji šalis privalo pateikti pagal kompetentingo "
+"jurisdikcijos teismo nutartį arba galiojantį administracinį šaukimą, jei "
+"gaunančioji šalis praneša atskleidusiai šaliai laiku apie tokį teismą. "
+"įsakymas ar teismo šaukimas. Be to, jūs užtikrinsite, kad jūsų įgalioti "
+"vartotojai griežtai pasitikės visais slaptažodžiais ir kita prieiga prie "
+"paslaugų. Šis 9 skyrius netenka galios šio Susitarimo galiojimo pabaiga ar "
+"pasibaigimas."
+
+msgid "10. Indemnification:"
+msgstr "10. Kompensacija:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Kompensacija už pažeidimą: Remdamiesi 10.4 skirsniu, mes savo sąskaita "
+"ginsime jus nuo bet kokio trečiojo asmens ieškinio, pareikšto prieš jus, kai"
+" tariama, kad Paslaugos pažeidžia bet kurį JAV patentą, išduotą trečiajai "
+"šaliai nuo įsigaliojimo dienos; ar nepažeidžia jokių trečiųjų šalių autorių "
+"teisių, prekės ženklų ar komercinių paslapčių (kartu vadinamų „intelektine "
+"nuosavybe, kuria grindžiamos paslaugos“). Tuo atveju, jei bus prašoma teismo"
+" sprendimo uždrausti naudotis intelektine nuosavybe, kuria grindžiamos "
+"paslaugos, arba, mūsų manymu, tikėtina, kad bus ieškoma ar gaunama, mes savo"
+" pasirinkimu ir sąskaita mes: (i) įsigysime jums ir jūsų įvardytiems "
+"asmenims įgaliotiems vartotojams suteikiama teisė toliau naudotis "
+"Paslaugomis, arba (ii) pakeisti ar modifikuoti Paslaugas, kad jų naudojimas "
+"nepažeistų teisių ir tuo pačiu galėtų atlikti iš esmės tą pačią funkciją. "
+"Jei (i) ir (ii) punktai yra praktiškai neįmanomi, mes galime nutraukti "
+"Paslaugas ir grąžinti sumokėtus, bet nepanaudotus Paslaugų mokesčius. Mes "
+"neprivalome gintis ar būti atsakingi už bet kokias išlaidas ar žalą pagal šį"
+" 10.1 skyrių, jei tariamas pažeidimas atsirado dėl ar kokiu nors būdu "
+"priskirtinas (i) jūsų (ar jūsų įgalioto ar paskirtiems vartotojams) arba "
+"(ii) naudojimąsi Paslaugomis kartu su paslaugomis ir produktais, kurių "
+"neteikė „CaseActive“, jei tokio pažeidimo būtų buvę išvengta be tokių "
+"pakeitimų ar derinių, arba (iii) atitiktų jūsų dizainą ar instrukcijas, arba"
+" (iv) teiginį, kad konkrečiai nenurodo, kad už paslaugas yra pareikštas "
+"ieškinys (kiekviena iš jų yra „neįtraukta pretenzija“). Šiame 10.1 punkte "
+"nurodyti įsipareigojimai atlyginti žalą netenka galios nutraukus ar "
+"pasibaigus šiai sutarčiai."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Kompensacija už duomenų saugumą ir privatumą: Laikydamiesi 10.4 "
+"skirsnio ir jūsų prenumeratos Paslaugomis metu mes savo sąskaita ginsime jus"
+" nuo bet kokių trečiųjų šalių ieškinių, pareikštų jūsų atžvilgiu, dėl mūsų "
+"aplaidumo užkertant kelią neteisėtai prieigai. arba mūsų tyčinis netinkamas "
+"elgesys atskleidžiant mūsų turimą ar kontroliuojamą jūsų klientų asmeninę "
+"informaciją. Ši kompensacija nebus taikoma tuo atveju, kai tokia pretenzija "
+"kyla arba yra susijusi su jūsų ar jūsų atstovų aplaidumu ar sąmoningu "
+"netinkamu elgesiu ar jūsų atstovų ar atstovų aplaidumu, arba ta apimtimi, "
+"kuria bet kuri šalis pagal Sutartį atsisako atsakomybės arba ją riboja. "
+"Šiame skyriuje išdėstytos žalos atlyginimo prievolės priklauso nuo to, ar "
+"įrodysite, kad dėl mūsų didelio aplaidumo ar tyčinio netinkamo elgesio "
+"tiesiogiai ir apytiksliai atsirado neteisėta prieiga prie mūsų turimų ar "
+"kontroliuojamų jūsų klientų tapatybės duomenų ar jų atskleidimas."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Jūsų nuostolių atlyginimas: Jūs sutinkate atlyginti žalą, laikyti ją "
+"nekenksmingą ir ginti mus ir visus mūsų darbuotojus, pareigūnus, vadovus ir "
+"agentus nuo visų pretenzijų, reikalavimų, ieškinių, procesų, tyrimų, žalos "
+"atlyginimo, išlaidų, išlaidų, nuostolių ir visų kitų įsipareigojimai "
+"(įskaitant pagrįstus advokato honorarus, teismo išlaidas ir išlaidas), "
+"atsirandantys dėl ar susijusių su (i) jūsų naudojimusi paslaugomis "
+"pažeidžiant susitarimą, (ii) neįtrauktu ieškiniu, (iii) bet kokiu faktiniu "
+"ar tariamu jūsų pažeidimu bet kokį atstovavimą, garantiją, susitarimą ar "
+"įsipareigojimus pagal šią sutartį arba (iv) dėl jūsų didelio aplaidumo ar "
+"tyčinio netinkamo elgesio. Jūsų nuostolių atlyginimo įsipareigojimai pagal "
+"šį 10.3 skyrių galios ir po sutarties nutraukimo ar pasibaigimo."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Pranešimas ir bendradarbiavimas: Kompensacinės šalies įsipareigojimai "
+"nuostolių atlyginimo šaliai pagal šį 10 skyrių priklauso nuo to, ar: (i) "
+"šalis, kuriai atlyginta, nedelsdama raštu praneša žalos atlyginimo šaliai, "
+"sužinojusi apie bet kokį ieškinį, dėl kurio ji gali turėti teisę į žalos "
+"atlyginimą pagal Susitarimą. ; (ii) žalos atlyginimo šalis, kiek tai "
+"įmanoma, nustoja naudotis tariamai pažeidžiančiomis Paslaugomis, gavusi "
+"pranešimą apie tai; iii) žalos atlyginimo šalis, leidžianti žalos atlyginimo"
+" šaliai turėti vienintelę teisę kontroliuoti bet kurio tokio reikalavimo "
+"gynybą ir išsprendimą (su sąlyga, kad žalos atlyginimo šalis negali "
+"atsiskaityti už bet kokį ieškinį be atlygintinos šalies sutikimo, nebent "
+"susitarimas besąlygiškai atleidžia atlygintiną šalį nuo visos atsakomybės); "
+"iv) žalos atlyginimo šaliai, teikiančiai pagrįstą pagalbą žalos "
+"atlyginančiai šaliai, šios šalies sąskaita, ginant tokį ieškinį; v) žalos "
+"atlyginimo šalis, nesudaranti jokios taikos sutarties ar kitaip "
+"neišsprendžianti tokio reikalavimo, neatlygindama šalies išankstinio "
+"rašytinio sutikimo ar prašymo; ir vi) šalis, kuriai atlyginta, vykdanti bet "
+"kokį su ieškiniu susijusį susitarimą ar teismo įsakymą (susijusį su bet "
+"kokiu pažeidžiančių medžiagų naudojimu ateityje). Kompensacijos atlyginimo "
+"šalis gali dalyvauti ginant ar išsprendžiant ieškinį su savo pasirinktu "
+"advokatu ir savo sąskaita."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5. Išimtinė teisių gynimo priemonė: Šiame 10 skyriuje nurodoma išimtinė "
+"žalos atlyginimo šalies atsakomybė kitai šaliai ir išimtinė žalos atlyginimo"
+" šalis teisei už bet kokį šiame skyriuje aprašytą ieškinį."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Atsakomybės apribojimas:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"IŠSKYRUS ATSIŽVELGIANT Į ŽALAS, KURIAS YRA SUSIJUSIOS SU 5.3 ARBA 12 "
+"SKIRSNIO PAŽEIDIMU, ATSIŽVELGDAMI Į DALĮ, KURIĄ BŪTINA VISIŠKI ŠALYS, "
+"KURIUOS NUO VISUOMENĖS SUSITARIMO SUTARTIES SUTARTIES SUTARTIS JŪS UŽ "
+"PASLAUGAS, KURIOMIS ATSAKOMYBĖ PATEIKIAMA PER VIENERIUS METUS, NETIESIOGIAI "
+"PREKIANT DATĄ, PADARYTI VEIKSMŲ PASTABĄ."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"IŠSKYRUS ATSIŽVELGIANT Į ŽALAS, KURIAS YRA SUSIJUSIOS SU 5.3 ARBA 12 DALIES "
+"PAŽEIDIMU, ATSIŽVELGIANT Į DALĮ, KURIĄ LEIDŽIAMA ĮSTATYTI, JOKIU JOKIU BŪDU "
+"JOKIŲ ŠALIŲ HERETO, JOS LICENCIJŲ TEIKĖJAI ARBA TIEKĖJAI NETURI ATSAKOMYBĖS "
+"KITAI. PAKEITAMŲ PREKIŲ ARBA PASLAUGŲ PIRKIMO ARBA NETIESIOGINIŲ, SPECIALIŲ,"
+" SEKMĖTINIŲ, PAVYZDŽIŲ ARBA NETIESIOGINIŲ ŽALŲ PIRKIMO KAŠTAI, KURIUOS "
+"ATLIEKAMA IR PAGAL BET KOKIĄ ATSAKOMYBĖS TEORIJĄ (ĮSKAIČIUOTI ŠALYMĄ), "
+"SUSIJUSIOS SU SUSITARIMU JOS PAREIGOS, ATSIŽVELGDAMOS Į TAI, KURIOS TIK ŠIOS"
+" ŠALYS IR ATSAKINGOS DĖL ŠIOS ŽALOS GALIMYBĖS."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"DĖL KAI KURIŲ VALSTYBIŲ / JURISDIKCIJOS NESTEIKIAMA ATSAKOMYBĖ AR ATSAKOMYBĖ"
+" UŽ PASEKMĖS AR NETIKĖTINIUS ŽALUS, ATSAKINGAS APRIBOJIMAS GALI JŪS "
+"NEMOKAMAI TAIKYTI, KAD ATVEJU MŪSŲ ATSAKOMYBĖ TURI BŪTI APIBRĖŽTA DĖL "
+"LEIDŽIAMO LEIDIMO."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Asmeninės informacijos ir privatumo patvirtinimas:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Jūs laikysitės visų galiojančių privatumo ir kitų įstatymų, taisyklių, "
+"reglamentų ir gairių, susijusių su bet kurio asmens asmeniškai "
+"identifikuojamos informacijos (kaip apibrėžta toliau) apsauga, rinkimu, "
+"naudojimu ir platinimu. Puslapyje, kuriame renkate asmenį identifikuojančią "
+"informaciją („Privatumo patvirtinimas“), kuris atitinka visus galiojančius "
+"įstatymus, taisykles, reglamentus ir gaires, paskelbsite privatumo "
+"pareiškimą ir bent jau informuosite apie surinktą asmenį identifikuojančios "
+"informacijos vartotojus, kaip tai daroma bus naudojamas ir kaip jis bus "
+"apsaugotas, ir kuris nustato duomenų rinkimo būdą (slapukus, žiniatinklio "
+"švyturius ar kitas tinkamas priemones) ir informacijos, surinktos "
+"naudojantis Paslaugomis, naudojimą, prieš naudojantis bet kokiu informuotu "
+"sutikimu (pasirinkimu) stebėjimo technologijos tiek, kiek to reikalauja "
+"taikytini įstatymai ir kiti teisės aktai. Į tokį privatumo pareiškimą taip "
+"pat įtraukiama techninė informacija, susijusi su asmeniškai identifikuojamos"
+" informacijos, kurią mes teikėme per Paslaugas, rinkimu, perdavimu ir "
+"saugojimu. Jei to reikalauja taikytini duomenų apsaugos įstatymai ar kiti "
+"įstatymai ar reglamentai, jūs informuosite trečiąsias šalis, kad teikiate jų"
+" tapatybę identifikuojančią informaciją mums tvarkyti, ir užtikrinsite, kad "
+"visos reikalaujamos trečiosios šalys būtų davusios sutikimą tokiam "
+"atskleidimui ir tvarkymui. Jūs sutinkate laikytis privatumo patvirtinimo "
+"aprašymų ir nuostatų. „Asmens tapatybės nustatymo informacija“ reiškia bet "
+"kokią informaciją, kuri gali būti susieta su asmeniu arba su ja galima "
+"atsekti, įskaitant asmens vardą, pavardę, adresą, telefono numerį, el. Pašto"
+" adresą, kreditinės kortelės informaciją, socialinio draudimo numerį ar kitą"
+" panašią specifinę faktinę informaciją, neatsižvelgiant į laikmenos, kuriose"
+" saugoma tokia informacija (pvz., popieriuje ar elektroniniu būdu)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Įvairūs:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Nepriklausomos šalys: Jūs ir „CaseActive“ esate nepriklausomi rangovai."
+" Susitarimas nesukuria jokių bendrų įmonių, partnerystės, agentūrų ar darbo "
+"santykių tarp šalių. Jūs esate visiškai atsakingi už savo darbuotojų valdymą"
+" ir už visas kompensacijas, mokesčius, lengvatas ir įsipareigojimus "
+"darbuotojams ir kitiems jūsų atstovams ar paslaugų teikėjams. Nei jūs, nei "
+"jūsų darbuotojai, atstovai ar paslaugų teikėjai nepateikia jokių pareiškimų,"
+" garantijų ar garantijų mūsų, Sutarties ar Paslaugų atžvilgiu, išskyrus tuos"
+" atvejus, kai mus aiškiai įgaliojo raštu."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Perleidimas: Nei Sutartis, nei jokios jūsų teisės ar pareigos pagal šią"
+" sutartį negali būti perduotos ar perduotos įstatymų nustatyta tvarka ar "
+"kitaip be išankstinio mūsų rašytinio sutikimo, nebent tai būtų paskirta "
+"interesų perėmėjui ar susijungus įmonei. viso ar beveik viso jūsų turto, "
+"apie kurį jūs mums pranešite, reorganizavimas arba pardavimas ar perleidimas"
+" bent prieš trisdešimt (30) dienų iki sandorio pabaigos. Jūsų paskyrimui, "
+"remiantis bet kuriomis kitomis aplinkybėmis, reikalingas išankstinis mūsų "
+"sutikimas, kuris neturi būti nepagrįstai atsisakytas. Šią sutartį galime "
+"laisvai priskirti be jūsų sutikimo. Atsižvelgiant į tai, kas išdėstyta, šis "
+"Susitarimas yra privalomas ir naudingas šalims, jų atitinkamiems įpėdiniams "
+"ir leistiniems perleidėjams."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force majeure: Nė viena šalis nebus atsakinga už bet kokius vėlavimus, "
+"pertraukimus ar kitokius įsipareigojimų neįvykdymus pagal Susitarimą dėl "
+"veiksmų, kurių nepriklauso atsakinga šalis, tačiau tik tol, kol tokios "
+"sąlygos išlieka. Nenugalimos jėgos aplinkybės apima, bet tuo neapsiriboja, "
+"gamtos stichijas (pvz., Žaibus, žemės drebėjimus, uraganus, potvynius); "
+"karai, riaušės, teroristinė veikla ir pilietinės minios; vietinio biržos "
+"vežėjo veikla ir kiti trečiųjų šalių veiksmai; sprogimai ir gaisrai; "
+"embargai, streikai ir darbo ginčai; vyriausybės nutarimai; telekomunikacijų "
+"ar interneto paslaugų teikėjų nesėkmės; trečiųjų šalių tiekėjų, paslaugų "
+"teikėjų ar pardavėjų nesėkmės; ir visos kitos priežastys, kurių šalis negali"
+" pagrįstai kontroliuoti."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4. Pasirinkta teisė: Susitarimą ir bet kokius ginčus, kylančius iš "
+"sutarties ar su ja susijusias, reglamentuoja ir aiškina Kalifornijos "
+"valstijos įstatymai, neatsižvelgdami į įstatymų kolizijos principus. Visiems"
+" ginčams, kylantiems iš Susitarimo ar susijusiems su juo, taikoma išimtinė "
+"Kalifornijos valstijos ir federalinių teismų jurisdikcija ir vieta Santa "
+"Barbarai, Kalifornija, o šalys sutinka su asmenine ir išimtine šių teismų "
+"jurisdikcija."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 El. Paštas ir pranešimai: Jūs taip pat sutinkate, kad bet kokius "
+"pranešimus, pareiškimus ir kitus pranešimus galime pateikti jums el. Paštu, "
+"paštu, greitojo pristatymo tarnyba arba pristatyti pripažintam komerciniam "
+"vežėjui, nurodytu paskutiniu nurodytu adresu dėl susitarimo. Jūs esate "
+"atsakingi už tai, kad pateiktumėte mums atnaujintą kontaktinę informaciją."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6. Atsisakymas; Kaupiamosios teisių gynimo priemonės: Tai, kad nė viena "
+"šalis nesinaudoja jokiomis teisėmis pagal šį Susitarimą ar nevėluoja, tai "
+"nėra šios teisės atsisakymas. Išskyrus tai, kas aiškiai nurodoma šiame "
+"dokumente, čia numatytos teisių gynimo priemonės yra papildomos ir "
+"neišimamos iš bet kurių kitų šalies įstatymų numatytų ar teisingų teisių "
+"gynimo būdų."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7. Atskiriamumas: Jei kuri nors šio susitarimo nuostata kompetentingos "
+"jurisdikcijos teisme laikoma prieštaraujančia įstatymams, teismas šią "
+"nuostatą keičia ir aiškina taip, kad kuo geriau pasiektų pirminės nuostatos "
+"tikslus, kiek tai leidžiama įstatymai, o likusios šio Susitarimo nuostatos "
+"lieka galioti."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Visas susitarimas: Kiek tai leidžiama pagal galiojančius įstatymus, ši "
+"sutartis kartu su joje nurodytais dokumentais ir visomis užsakymų formomis "
+"bei pasirašymo srautais sudaro visą šalių susitarimą dėl jo dalyko ir "
+"pakeičia visus ankstesnius ir vienalaikiai susitarimai, pasiūlymai ar "
+"pareiškimai, rašytiniai ar žodiniai, susiję su šio susitarimo tema. Negalima"
+" manyti, kad buvo duota arba numanoma jokia mintis, pasakyta ar parašyta "
+"šalių derybose iki šio Susitarimo, išskyrus atvejus, aiškiai nurodytus šiame"
+" Susitarime. Nė viena šalis neturi jokių teisių gynimo būdų dėl bet kurios "
+"kitos šalies pateiktos neteisingos deklaracijos, kuria ši šalis rėmėsi "
+"sudarydama šį Susitarimą (išskyrus atvejus, kai toks melagingas pareiškimas "
+"buvo padarytas nesąžiningai), ir kad vienintelė šalis turi teisių gynimo "
+"būdą dėl bet kokio melagingo pareiškimo. sutarties pažeidimas, kaip numatyta"
+" šioje sutartyje. Jūs pripažįstate ir sutinkate, kad jūsų ši sutartis nėra "
+"priklausoma nuo bet kokių būsimų funkcijų ar funkcijų, nenurodytų čia arba "
+"užsakymo formoje, pateikimo ar priklauso nuo bet kokių žodinių ar rašytinių,"
+" viešų ar privačių komentarų, kuriuos mes pateikėme dėl būsimų funkcijų ar "
+"funkcijų. už paslaugas. Kilus prieštaravimams tarp šių Bendrųjų paslaugų "
+"teikimo sąlygų ir bet kokių Užsakymo formos ar Papildomų paslaugų teikimo "
+"sąlygų, tokios prieštaravimo apimties pagrindu laikomos tokios Užsakymo "
+"formos ar Papildomos paslaugų teikimo sąlygos. Jokios pirkimo užsakyme ar "
+"kituose jūsų užsakymo dokumentuose nurodytos sąlygos negali būti įtrauktos į"
+" šią Sutartį ar būti jos dalimi, o visos tokios sąlygos ar nuostatos "
+"negalioja."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Eksportas: Abi šalys sutinka laikytis galiojančių JAV eksporto ir "
+"importo įstatymų ir kitų teisės aktų. Jūs neleisite savo vartotojams "
+"naudotis paslaugomis ar jomis naudotis pažeisdami JAV eksporto embargą, "
+"draudimus ar apribojimus."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Viešumas: mes negalime jus pavadinti Paslaugų naudotoju be jūsų "
+"raštiško sutikimo."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Nuorodos į trečiųjų šalių svetaines: Paslaugose ar mūsų tinklalapyje "
+"gali būti nuorodų į trečiųjų šalių svetaines („Susietos svetainės“). Susietų"
+" svetainių mes nekontroliuojame ir mes neatsakome už bet kurios susietos "
+"svetainės turinį, įskaitant, be apribojimų, bet kurią susietoje svetainėje "
+"esančią nuorodą, ar už bet kokius susietos svetainės ar paslaugų, teikiamų "
+"per susietą svetainę, pakeitimus ar atnaujinimus. Mes teikiame jums šias "
+"nuorodas tik kaip patogumą, ir bet kurios nuorodos įtraukimas nereiškia, kad"
+" mes esame patvirtinę svetainę ar bet kokias susijusias svetainės teikiamas "
+"paslaugas."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Jūs sutinkate gauti el. Laiškus, telefono skambučius ir SMS žinutes iš"
+" „CaseActive“, kad galėtumėte atnaujinti savo užsakymą ir (arba) rinkodaros "
+"tikslais. Pranešimų dažnumas priklauso nuo jūsų veiklos. Galite atsisakyti "
+"atžymėdami pranešimus iš savo paskyros arba ištrindami paskyrą. Gali būti "
+"taikomi pranešimų ir duomenų perdavimo tarifai."
+
+msgid "An error occurred"
+msgstr "Įvyko klaida"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Kažkas nutiko. Mūsų inžinieriai buvo informuoti. Norėdami iš naujo įkelti, "
+"paspauskite perkrovimo mygtuką."
+
+msgid "Reload"
+msgstr "Įkelti iš naujo"

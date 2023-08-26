@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Ka gbogbo aaye \u1ecdran pato ni ipa", "write": "K\u1ecd gbogbo aaye \u1ecdran pato ni ipa" },
+  "convos": {
+    "read_all": "Wo ipo l\u1ecdw\u1ecdl\u1ecdw\u1ecd ti convos.",
+    "manage_own": "Darap\u1ecd m\u1ecd ki o si y\u1ecd convo kuro.",
+    "moderate_others": "B\u1eb9r\u1eb9 convo, pari convo, ki o si y\u1ecd alaba\u1e63e kuro.",
+    "read_all_submissions": "Ka gbogbo aw\u1ecdn convos ti o gbasil\u1eb9."
+  },
+  "events": {
+    "read_all": "Ka gbogbo aw\u1ecdn i\u1e63\u1eb9l\u1eb9.",
+    "manage_own": "\u1e62\u1eb9da, \u1e63e imudojuiw\u1ecdn ati paar\u1eb9 i\u1e63\u1eb9l\u1eb9 tir\u1eb9.",
+    "moderate_others": "\u1e62e imudojuiw\u1ecdn ati paar\u1eb9 i\u1e63\u1eb9l\u1eb9 miiran.",
+    "read_all_submissions": "Ka gbogbo \u00ecm\u00fad\u00e1j\u00fa i\u1e63\u1eb9l\u1eb9.",
+    "submit_own": "J\u1eb9risi ibeere wiwa i\u1e63\u1eb9l\u1eb9."
+  },
+  "posts": {
+    "read_all": "Ka gbogbo posts.",
+    "manage_own": "\u1e62\u1eb9da, \u1e63e imudojuiw\u1ecdn ati paar\u1eb9 ifiweran\u1e63\u1eb9 tir\u1eb9.",
+    "moderate_others": "\u1e62e imudojuiw\u1ecdn ati paar\u1eb9 ifiweran\u1e63\u1eb9 miiran."
+  },
+  "forms": {
+    "read_all": "Ka gbogbo aw\u1ecdn f\u1ecd\u1ecdmu.",
+    "manage_own": "\u1e62\u1eb9da, \u1e63e imudojuiw\u1ecdn ati pa f\u1ecd\u1ecdmu tir\u1eb9 r\u1eb9.",
+    "moderate_others": "\u1e62e imudojuiw\u1ecdn ati paar\u1eb9 f\u1ecd\u1ecdmu miiran.",
+    "read_all_submissions": "Ka gbogbo aw\u1ecdn ifisil\u1eb9 f\u1ecd\u1ecdmu.",
+    "submit_own": "Fi \u00ecb\u00e9\u00e8r\u00e8 f\u1ecd\u1ecdmu."
+  },
+  "invoices": {
+    "read_all": "Ka gbogbo aw\u1ecdn risiti.",
+    "manage_own": "\u1e62\u1eb9da, \u1e63e imudojuiw\u1ecdn ati paar\u1eb9 iwe-owo tir\u1eb9.",
+    "moderate_others": "\u1e62e imudojuiw\u1ecdn ati paar\u1eb9 iwe-owo miiran r\u1eb9.",
+    "read_all_submissions": "Ka gbogbo aw\u1ecdn ifisil\u1eb9 risiti.",
+    "submit_own": "Fi ibeere risiti sil\u1eb9."
+  },
+  "notes": {
+    "read_all": "Ka gbogbo aw\u1ecdn ak\u1ecdsil\u1eb9.",
+    "manage_own": "\u1e62\u1eb9da, \u1e63e imudojuiw\u1ecdn ati pa ak\u1ecdsil\u1eb9 tir\u1eb9 r\u1eb9.",
+    "moderate_others": "\u1e62e imudojuiw\u1ecdn ati paar\u1eb9 ak\u1ecdsil\u1eb9 miiran r\u1eb9."
+  },
+  "signs": {
+    "read_all": "Ka gbogbo e-ami.",
+    "manage_own": "\u1e62\u1eb9da, mu dojuiw\u1ecdn ati pa ami-e-ti ara r\u1eb9 r\u1eb9.",
+    "moderate_others": "\u1e62e imudojuiw\u1ecdn ati paar\u1eb9 ami-ami e-miiran r\u1eb9.",
+    "read_all_submissions": "Ka gbogbo aw\u1ecdn ifisil\u1eb9 e-sign.",
+    "submit_own": "Fi aaye \u00ecb\u00e9\u00e8r\u00e8."
+  },
+  "tasks": {
+    "read_all": "Ka gbogbo aw\u1ecdn i\u1e63\u1eb9-\u1e63i\u1e63e.",
+    "manage_own": "\u1e62\u1eb9da, \u1e63e imudojuiw\u1ecdn ati paar\u1eb9 i\u1e63\u1eb9-\u1e63i\u1e63e tir\u1eb9.",
+    "moderate_others": "\u1e62e imudojuiw\u1ecdn ati paar\u1eb9 i\u1e63\u1eb9-\u1e63i\u1e63e miiran.",
+    "read_all_submissions": "Ka gbogbo aw\u1ecdn ifisil\u1eb9 i\u1e63\u1eb9-\u1e63i\u1e63e.",
+    "submit_own": "Fi ibeere i\u1e63\u1eb9-\u1e63i\u1e63e sil\u1eb9."
+  },
+  "team": { "read_all": "Ka egbe ni ir\u00fa" }
+}

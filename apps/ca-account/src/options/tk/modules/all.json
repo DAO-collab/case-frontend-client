@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Rolda g\u00f6rkezilen \u00e4hli me\u00fddanlary oka\u0148",
+    "write": "Rolda g\u00f6rkezilen \u00e4hli me\u00fddanlary \u00fdazy\u0148"
+  },
+  "convos": {
+    "read_all": "Awtoulaglary\u0148 h\u00e4zirki \u00fdagda\u00fdyny g\u00f6r\u00fc\u0148.",
+    "manage_own": "Konwo go\u015fuly\u0148 we go\u015fuly\u0148.",
+    "moderate_others": "Konwo ba\u015fla\u0148, konwo gutar we gatna\u015fyjyny a\u00fdyry\u0148.",
+    "read_all_submissions": "Recordedhli \u00fdazylan konwolary oka\u0148."
+  },
+  "events": {
+    "read_all": "Eventshli wakalary oka\u0148.",
+    "manage_own": "\u00d6z hadysany d\u00f6redi\u0148, t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "moderate_others": "Ba\u015fga wakany t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "read_all_submissions": "Eventhli hadysany\u0148 tassyklamalaryny oka\u0148.",
+    "submit_own": "\u00c7\u00e4r\u00e4 gatna\u015fmak islegini tassykla\u0148."
+  },
+  "posts": {
+    "read_all": "Postshli \u00fdazgylary oka\u0148.",
+    "manage_own": "\u00d6z \u00fdazgy\u0148yzy d\u00f6redi\u0148, t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "moderate_others": "Ba\u015fgalary\u0148 \u00fdazgysyny t\u00e4zel\u00e4\u0148 we pozu\u0148."
+  },
+  "forms": {
+    "read_all": "Formshli g\u00f6rn\u00fc\u015fleri oka\u0148.",
+    "manage_own": "\u00d6z formu\u0148yzy d\u00f6redi\u0148, t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "moderate_others": "Ba\u015fga birini\u0148 g\u00f6rn\u00fc\u015fini t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "read_all_submissions": "Formhli resminamalary oka\u0148.",
+    "submit_own": "Forma ha\u00fdy\u015fyny iberi\u0148."
+  },
+  "invoices": {
+    "read_all": "Allhli hasap-fakturalary oka\u0148.",
+    "manage_own": "\u00d6z hasap-faktura\u0148yzy d\u00f6redi\u0148, t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "moderate_others": "Ba\u015fga hasap-fakturany t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "read_all_submissions": "Hasap-faktura tab\u015fyryklaryny\u0148 hemmesini oka\u0148.",
+    "submit_own": "Hasap-faktura ha\u00fdy\u015fyny iberi\u0148."
+  },
+  "notes": {
+    "read_all": "Noteshli bellikleri oka\u0148.",
+    "manage_own": "\u00d6z belligi\u0148izi d\u00f6redi\u0148, t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "moderate_others": "Ba\u015fgalary\u0148 belligini t\u00e4zel\u00e4\u0148 we pozu\u0148."
+  },
+  "signs": {
+    "read_all": "Ehli elektron alamatlaryny oka\u0148.",
+    "manage_own": "\u00d6z e-belligi\u0148izi d\u00f6redi\u0148, t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "moderate_others": "Ba\u015fgalary\u0148 e-belgisini t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "read_all_submissions": "E-gol \u00fdazgylaryny\u0148 hemmesini oka\u0148.",
+    "submit_own": "Me\u00fddany\u0148 ha\u00fdy\u015fyny iberi\u0148."
+  },
+  "tasks": {
+    "read_all": "Taskshli meseleleri oka\u0148.",
+    "manage_own": "\u00d6z mesel\u00e4\u0148izi d\u00f6redi\u0148, t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "moderate_others": "Ba\u015fga birini\u0148 wezipesini t\u00e4zel\u00e4\u0148 we pozu\u0148.",
+    "read_all_submissions": "Taskhli tab\u015fyryklary oka\u0148.",
+    "submit_own": "Taslama ha\u00fdy\u015fyny iberi\u0148."
+  },
+  "team": { "read_all": "Topary oka\u0148" }
+}

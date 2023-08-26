@@ -1,0 +1,193 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading || caseFiledsLoading"></app-loader>
+
+  <form
+    novalidate
+    name="form"
+    role="form"
+    id="formcase"
+    autocomplete="off"
+    *ngIf="!loading && !caseFiledsLoading"
+    [ngClass]="{ touchedSubmit: formTouched }"
+    [formGroup]="roleForm"
+    (submit)="create()"
+  >
+    <h3 translate>Role Info</h3>
+
+    <p class="triple a">
+      <span>
+        <label for="name" class="required" translate>Name</label>
+        <input #nameF required type="text" id="name" class="form-control" formControlName="name" />
+        <span class="form-hint" translate>It cannot be changed later</span>
+        <app-error
+          [field]="nameF"
+          [fieldValue]="roleForm.controls['name'].value"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+    </p>
+
+    <h3 translate>Role Permissions</h3>
+
+    <div class="table-wrapper">
+      <table class="table-c" *ngFor="let opt of moduleOptions">
+        <tbody class="permissions-table-body">
+          <tr>
+            <th class="permissions-table-row" *ngIf="opt.key !== 'signs'">{{ opt.key }}</th>
+            <th class="permissions-table-row" *ngIf="opt.key === 'signs'" translate>e-signs</th>
+            <th width="50px" translate>on</th>
+          </tr>
+          <tr *ngFor="let perm of opt.values" [hidden]="opt.values.length == 0">
+            <td class="permissions-table-row">
+              <span>{{ perm.value }}</span>
+            </td>
+            <td width="50px">
+              <label class="container">
+                <input
+                  type="checkbox"
+                  [checked]="permissionsGroup.controls[opt.key].value?.includes(perm.key)"
+                  (change)="toggleFieldPermission('permissionsGroup', opt.key, perm.key)"
+                />
+                <span class="checkmark"></span>
+              </label>
+            </td>
+
+            <table
+              class="case-permissions-table-body"
+              *ngIf="opt.key === 'case' && permissionsGroup.controls[opt.key].value?.includes(perm.key)"
+            >
+              <tbody>
+                <tr *ngFor="let field of customFields">
+                  <td width="95%">
+                    <span>{{ field.title }}</span>
+                    <app-error [regularHtmlElementName]="field.key"></app-error>
+                  </td>
+                  <td width="50px" class="checkbox-align">
+                    <label class="container">
+                      <input
+                        type="checkbox"
+                        [checked]="
+                          roleForm.controls[
+                            perm.key === 'read' ? 'case_read_fields' : 'case_write_fields'
+                          ].value?.includes(field.key)
+                        "
+                        (change)="
+                          toggleFieldPermission(
+                            'roleForm',
+                            perm.key === 'read' ? 'case_read_fields' : 'case_write_fields',
+                            field.key
+                          )
+                        "
+                      />
+                      <span class="checkmark"></span>
+                    </label>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 translate>Allowed File Sizes</h3>
+
+    <div class="table-wrapper" formGroupName="file_size">
+      <table class="table-c">
+        <tbody>
+          <tr>
+            <td width="80%" class="required" translate>Audios</td>
+            <td width="150px" class="rel">
+              <span>
+                <span class="mb-size" [attr.data-lbl]="'MB' | translate">
+                  <input required #audiosF type="number" id="audios" class="form-control" formControlName="audios" />
+                </span>
+                <app-error
+                  [field]="audiosF"
+                  [fieldValue]="fileSize.controls['audios'].value"
+                  [validationErrors]="validationErrors"
+                  [validation]="{ required: true, 'max-number': 5000 }"
+                ></app-error>
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td width="80%" class="required" translate>Documents</td>
+            <td width="150px" class="rel">
+              <span>
+                <span class="mb-size" [attr.data-lbl]="'MB' | translate">
+                  <input required #docsF type="number" id="docs" class="form-control" formControlName="docs" />
+                  <app-error
+                    [field]="docsF"
+                    [fieldValue]="fileSize.controls['docs'].value"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true, 'max-number': 5000 }"
+                  ></app-error>
+                </span>
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td width="80%" class="required" translate>Files</td>
+            <td width="150px" class="rel">
+              <span>
+                <span class="mb-size" [attr.data-lbl]="'MB' | translate">
+                  <input required #filesF type="number" id="files" class="form-control" formControlName="files" />
+                  <app-error
+                    [field]="filesF"
+                    [fieldValue]="fileSize.controls['files'].value"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true, 'max-number': 5000 }"
+                  ></app-error>
+                </span>
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td width="80%" class="required" translate>Images</td>
+            <td width="150px" class="rel">
+              <span>
+                <span class="mb-size" [attr.data-lbl]="'MB' | translate">
+                  <input required #imagesF type="number" id="images" class="form-control" formControlName="images" />
+                  <app-error
+                    [field]="imagesF"
+                    [fieldValue]="fileSize.controls['images'].value"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true, 'max-number': 5000 }"
+                  ></app-error>
+                </span>
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td width="80%" class="required" translate>Videos</td>
+            <td width="150px" class="rel">
+              <span>
+                <span class="mb-size" [attr.data-lbl]="'MB' | translate">
+                  <input required #videosF type="number" id="videos" class="form-control" formControlName="videos" />
+                  <app-error
+                    [field]="videosF"
+                    [fieldValue]="fileSize.controls['videos'].value"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true, 'max-number': 5000 }"
+                  ></app-error>
+                </span>
+              </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="form-h-element notice-a success" *ngIf="savingError" translate>{{ savingError }}</p>
+
+    <p class="submit">
+      <button type="submit" class="f-right" [disabled]="creating">
+        <span *ngIf="!creating" translate>Create</span>
+        <span *ngIf="creating" translate>Creating...</span>
+      </button>
+      <button type="reset" class="f-right" (click)="notInterested()" translate><a>Cancel</a></button>
+    </p>
+  </form>
+</article>

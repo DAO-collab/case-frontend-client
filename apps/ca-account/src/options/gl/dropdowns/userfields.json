@@ -1,0 +1,18 @@
+{
+  "family_name": "Apelido",
+  "given_name": "Nome",
+  "locale": "Lingua preferida",
+  "zoneinfo": "Franxa horaria",
+  "email": "Enderezo electr\u00f3nico",
+  "phone": "N\u00famero de tel\u00e9fono",
+  "address1": "Enderezo",
+  "address2": "# Apt ou unidade #",
+  "locality": "Cidade ou localidade",
+  "region": "Estado ou Rexi\u00f3n",
+  "postal_code": "C\u00f3digo postal ou postal",
+  "country": "Pa\u00eds",
+  "birthdate": "Data de nacemento",
+  "gender": "X\u00e9nero",
+  "company": "Empresa",
+  "title": "Nome T\u00edtulo"
+}

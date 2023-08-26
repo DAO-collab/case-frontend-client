@@ -1,0 +1,71 @@
+.file-c p {
+  height: 80px;
+  float: left;
+  clear: none;
+  margin: 0 4px;
+  margin-bottom: 4px;
+  padding: 0;
+  width: 80px;
+}
+
+.file-c span.notice-a.b {
+  min-height: 79px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5px;
+  width: 84px;
+  margin-bottom: 14px;
+}
+
+.file-c span.notice-a.b img {
+  position: absolute;
+  object-fit: cover;
+  display: block;
+  left: 0px;
+  height: 56px !important;
+  width: 84px !important;
+  top: 0;
+}
+
+table.table-a .icon-eye {
+  cursor: pointer;
+  float: right;
+  margin-right: calc(100% - 34px);
+  margin-top: 2px;
+}
+.drop-a > .drop a {
+  min-width: 100px;
+  text-align: left;
+}
+table.table-a tr td {
+  word-break: break-all;
+}
+
+p.file-c {
+  overflow: auto;
+  max-height: 186px;
+}
+
+.dropform:hover .drop {
+  top: 27px;
+}
+
+.add-post-popup {
+  transform: none !important;
+  left: 0;
+  right: 0;
+  height: max-content !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: -300px !important;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.5;
+}

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Ler todos os campos de caso especificados na fun\u00e7\u00e3o",
+    "write": "Escreva todos os campos de caso especificados na fun\u00e7\u00e3o"
+  },
+  "convos": {
+    "read_all": "Veja o status atual de convos.",
+    "manage_own": "Junte-se e desvincule-se do convo.",
+    "moderate_others": "Iniciar convo, encerrar convo e remover participante.",
+    "read_all_submissions": "Leia todas as conversas gravadas."
+  },
+  "events": {
+    "read_all": "Leia todos os eventos.",
+    "manage_own": "Crie, atualize e exclua o pr\u00f3prio evento.",
+    "moderate_others": "Atualize e exclua o evento de outra pessoa.",
+    "read_all_submissions": "Leia todas as confirma\u00e7\u00f5es do evento.",
+    "submit_own": "Confirme a solicita\u00e7\u00e3o de participa\u00e7\u00e3o no evento."
+  },
+  "posts": {
+    "read_all": "Leia todas as postagens.",
+    "manage_own": "Crie, atualize e exclua a pr\u00f3pria postagem.",
+    "moderate_others": "Atualize e exclua a postagem de outra pessoa."
+  },
+  "forms": {
+    "read_all": "Leia todos os formul\u00e1rios.",
+    "manage_own": "Crie, atualize e exclua o pr\u00f3prio formul\u00e1rio.",
+    "moderate_others": "Atualize e exclua o formul\u00e1rio de outra pessoa.",
+    "read_all_submissions": "Leia todos os envios de formul\u00e1rios.",
+    "submit_own": "Enviar solicita\u00e7\u00e3o de formul\u00e1rio."
+  },
+  "invoices": {
+    "read_all": "Leia todas as faturas.",
+    "manage_own": "Crie, atualize e exclua a pr\u00f3pria fatura.",
+    "moderate_others": "Atualize e exclua a fatura de outra pessoa.",
+    "read_all_submissions": "Leia todos os envios de faturas.",
+    "submit_own": "Enviar solicita\u00e7\u00e3o de fatura."
+  },
+  "notes": {
+    "read_all": "Leia todas as notas.",
+    "manage_own": "Crie, atualize e exclua a pr\u00f3pria nota.",
+    "moderate_others": "Atualize e exclua a nota de outra pessoa."
+  },
+  "signs": {
+    "read_all": "Leia todos os e-signs.",
+    "manage_own": "Crie, atualize e exclua o pr\u00f3prio e-sign.",
+    "moderate_others": "Atualize e exclua a assinatura eletr\u00f4nica de outra pessoa.",
+    "read_all_submissions": "Leia todos os envios de assinatura eletr\u00f4nica.",
+    "submit_own": "Enviar solicita\u00e7\u00e3o de campo."
+  },
+  "tasks": {
+    "read_all": "Leia todas as tarefas.",
+    "manage_own": "Crie, atualize e exclua a pr\u00f3pria tarefa.",
+    "moderate_others": "Atualize e exclua a tarefa de outra pessoa.",
+    "read_all_submissions": "Leia todos os envios de tarefas.",
+    "submit_own": "Enviar solicita\u00e7\u00e3o de tarefa."
+  },
+  "team": { "read_all": "Leia a equipe no caso" }
+}

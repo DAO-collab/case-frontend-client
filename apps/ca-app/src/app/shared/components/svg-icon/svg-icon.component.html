@@ -1,0 +1,13 @@
+<svg
+  class="custom-svg"
+  [ngStyle]="{
+    width: imageWidth + 'px',
+    height: imageHeight + 'px'
+  }"
+  [ngClass]="{
+    'custom-svg-active': isActive,
+    'custom-svg-inactive': !isActive
+  }"
+>
+  <use [attr.href]="srcLink"></use>
+</svg>

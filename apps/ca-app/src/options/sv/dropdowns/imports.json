@@ -1,0 +1,11 @@
+{
+  "post_user": "L\u00e4gg till anv\u00e4ndare",
+  "put_user": "\u00c4ndra anv\u00e4ndare",
+  "put_user_status": "\u00c4ndra anv\u00e4ndarstatus",
+  "post_case": "Skapa \u00e4renden",
+  "put_case": "\u00c4ndra \u00e4renden",
+  "post_case_permission": "Tilldela anv\u00e4ndare till \u00e4renden",
+  "put_case_permission": "\u00c4ndra anv\u00e4ndare som tilldelats \u00e4renden",
+  "post_case_post": "Skapa \u00e4rendeinl\u00e4gg",
+  "delete_case_permission": "Ta bort anv\u00e4ndare som tilldelats \u00e4renden"
+}

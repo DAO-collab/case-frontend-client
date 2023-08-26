@@ -1,0 +1,520 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-01-15T21:57:38.274327\n"
+"PO-Revision-Date: 2018-01-15T21:57:39.113830\n"
+"Language: ml\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/repo/src/cases/create-case.html:17
+#: /tmp/repo/src/cases/create-case.html:19
+#: /tmp/repo/src/cases/edit-case.html:21 /tmp/repo/src/cases/edit-case.html:23
+msgid "About"
+msgstr "ആമുഖം"
+
+#: /tmp/repo/src/users/create-user.html:70
+msgid "Add"
+msgstr "ചേർക്കുക"
+
+#: /tmp/repo/src/users/add-user.controller.js:14
+msgid "Add User"
+msgstr "ഉപയോക്താവിനെ ചേർക്കുക"
+
+#: /tmp/repo/src/users/create-user.html:71
+msgid "Adding..."
+msgstr "ചേർക്കുന്നു ..."
+
+#: /tmp/repo/src/profile/profile.html:107
+#: /tmp/repo/src/profile/profile.html:119
+#: /tmp/repo/src/profile/profile.html:121
+#: /tmp/repo/src/profile/profile.html:122
+msgid "Address"
+msgstr "വിലാസം"
+
+#: /tmp/repo/src/profile/profile.html:110
+#: /tmp/repo/src/profile/profile.html:126
+#: /tmp/repo/src/profile/profile.html:128
+#: /tmp/repo/src/profile/profile.html:129
+msgid "Address 2"
+msgstr "വിലാസം 2"
+
+#: /tmp/repo/src/root/root.html:127
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം"
+
+#: /tmp/repo/src/login/login.html:21
+msgid ""
+"All rights\n"
+"        reserved"
+msgstr "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം"
+
+#: /tmp/repo/src/cases/assign-user.controller.js:20
+msgid "Assign User"
+msgstr "ഉപയോക്താവിനെ നിയോഗിക്കുക"
+
+#: /tmp/repo/src/groups/create-group.html:24
+#: /tmp/repo/src/groups/create-group.html:26
+#: /tmp/repo/src/groups/edit-group.html:24
+#: /tmp/repo/src/groups/edit-group.html:26
+msgid "Audios"
+msgstr "ആഡിയോസ്"
+
+#: /tmp/repo/src/profile/profile.html:11
+msgid "Basic"
+msgstr "അടിസ്ഥാന"
+
+#: /tmp/repo/src/cases/assign-case.html:37
+#: /tmp/repo/src/cases/create-case.html:50
+#: /tmp/repo/src/cases/edit-case.html:54
+#: /tmp/repo/src/groups/create-group.html:74
+#: /tmp/repo/src/groups/edit-group.html:78
+#: /tmp/repo/src/profile/profile.html:222 /tmp/repo/src/users/add-user.html:28
+#: /tmp/repo/src/users/create-user.html:73
+#: /tmp/repo/src/users/edit-user.html:45
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+#: /tmp/repo/src/cases/assign-case.html:17
+msgid "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+msgstr "കേസ് <span class=\"float-right\">കൈമാറ്റം {{vm.actionCaseId}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform.controller.js:27
+msgid "Case Form Fields"
+msgstr "കേസ് ഫോം ഫീൽഡുകൾ"
+
+#: /tmp/repo/src/cases/create-case.html:13
+msgid "Case Info"
+msgstr "കേസ് വിവരങ്ങൾ"
+
+#: /tmp/repo/src/cases/edit-case.html:17
+msgid "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+msgstr "കേസ് വിവരങ്ങൾ <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:9
+msgid "Case form updated"
+msgstr "കേസ് ഫോം അപ്ഡേറ്റ് ചെയ്തു"
+
+#: /tmp/repo/src/cases/assign-case.html:8 /tmp/repo/src/cases/edit-case.html:8
+msgid "Case not found!"
+msgstr "കേസ് കണ്ടെത്തിയില്ല!"
+
+#: /tmp/repo/src/index.html:5 /tmp/repo/src/login/login.html:21
+#: /tmp/repo/src/root/root.html:127
+msgid "CaseActive"
+msgstr "കാസക്ടീവ്"
+
+#: /tmp/repo/src/cases/cases.controller.js:31 /tmp/repo/src/root/root.html:21
+msgid "Cases"
+msgstr "കേസുകൾ"
+
+#: /tmp/repo/src/profile/profile.html:113
+msgid ""
+"City\n"
+"                    /Locality"
+msgstr "നഗരം / പ്രദേശം"
+
+#: /tmp/repo/src/profile/profile.html:133
+#: /tmp/repo/src/profile/profile.html:135
+#: /tmp/repo/src/profile/profile.html:136
+msgid "City/Locality"
+msgstr "നഗരം / പ്രദേശം"
+
+#: /tmp/repo/src/profile/profile.html:82 /tmp/repo/src/profile/profile.html:90
+#: /tmp/repo/src/profile/profile.html:92 /tmp/repo/src/profile/profile.html:93
+msgid "Company Name"
+msgstr "കമ്പനി പേര്"
+
+#: /tmp/repo/src/profile/profile.html:100
+#: /tmp/repo/src/profile/profile.html:85 /tmp/repo/src/profile/profile.html:97
+#: /tmp/repo/src/profile/profile.html:99
+msgid "Company Title"
+msgstr "കമ്പനി ശീർഷകം"
+
+#: /tmp/repo/src/cases/cases.html:199
+msgid "Confirm Password"
+msgstr "പാസ്വേഡ് സ്ഥിരീകരിക്കുക"
+
+#: /tmp/repo/src/root/root.html:24
+msgid "Content"
+msgstr "ഉള്ളടക്കം"
+
+#: /tmp/repo/src/users/add-user.html:25
+msgid "Continue"
+msgstr "തുടരുക"
+
+#: /tmp/repo/src/root/root.html:7
+msgid "Cookies are disabled. Please enable it."
+msgstr "കുക്കീസ് ​​അപ്രാപ്തമാക്കി. അത് പ്രവർത്തനക്ഷമമാക്കുക."
+
+#: /tmp/repo/src/profile/profile.html:145
+#: /tmp/repo/src/profile/profile.html:160
+#: /tmp/repo/src/profile/profile.html:162
+#: /tmp/repo/src/profile/profile.html:164
+#: /tmp/repo/src/profile/profile.html:166
+msgid "Country"
+msgstr "രാജ്യം"
+
+#: /tmp/repo/src/cases/create-case.html:46
+#: /tmp/repo/src/groups/create-group.html:70
+msgid "Create"
+msgstr "സൃഷ്ടിക്കാൻ"
+
+#: /tmp/repo/src/cases/create-case.controller.js:16
+msgid "Create Case"
+msgstr "കേസ് സൃഷ്ടിക്കുക"
+
+#: /tmp/repo/src/groups/create-group.controller.js:16
+msgid "Create Group"
+msgstr "ഗ്രൂപ്പ് സൃഷ്ടിക്കുക"
+
+#: /tmp/repo/src/users/create-user.controller.js:16
+msgid "Create User"
+msgstr "ഉപയോക്താവിനെ സൃഷ്ടിക്കുക"
+
+#: /tmp/repo/src/cases/cases.html:224
+msgid "Create a case for a business"
+msgstr "ഒരു ബിസിനസ്സിനായി ഒരു കേസ് സൃഷ്ടിക്കുക"
+
+#: /tmp/repo/src/users/users.html:9
+msgid "Create an user"
+msgstr "ഒരു ഉപയോക്താവിനെ സൃഷ്ടിക്കുക"
+
+#: /tmp/repo/src/cases/create-case.html:47
+#: /tmp/repo/src/groups/create-group.html:71
+msgid "Creating..."
+msgstr "ഉണ്ടാക്കുന്നു..."
+
+#: /tmp/repo/src/cases/cases.html:167
+msgid "Current Password"
+msgstr "ഇപ്പോഴത്തെ പാസ്സ്വേർഡ്"
+
+#: /tmp/repo/src/dashboard/dashboard.controller.js:25
+#: /tmp/repo/src/root/root.html:19
+msgid "Dashboard"
+msgstr "ഡാഷ്ബോർഡ്"
+
+#: /tmp/repo/src/cases/create-case.html:29
+#: /tmp/repo/src/cases/create-case.html:31
+#: /tmp/repo/src/cases/edit-case.html:33 /tmp/repo/src/cases/edit-case.html:35
+msgid "Date Opened"
+msgstr "തീയതി തുറന്നു"
+
+#: /tmp/repo/src/profile/profile.html:44 /tmp/repo/src/profile/profile.html:52
+#: /tmp/repo/src/profile/profile.html:54 /tmp/repo/src/profile/profile.html:55
+msgid "Date of Birth"
+msgstr "ജനിച്ച ദിവസം"
+
+#: /tmp/repo/src/settings/design/design.controller.js:33
+msgid "Design"
+msgstr "ഡിസൈൻ"
+
+#: /tmp/repo/src/groups/create-group.html:29
+#: /tmp/repo/src/groups/create-group.html:31
+#: /tmp/repo/src/groups/edit-group.html:29
+#: /tmp/repo/src/groups/edit-group.html:31
+msgid "Documents"
+msgstr "രേഖകൾ"
+
+#: /tmp/repo/src/cases/edit-case.controller.js:15
+msgid "Edit Case"
+msgstr "കേസ് എഡിറ്റുചെയ്യുക"
+
+#: /tmp/repo/src/groups/edit-group.controller.js:16
+msgid "Edit Group"
+msgstr "ഗ്രൂപ്പ് എഡിറ്റ് ചെയ്യുക"
+
+#: /tmp/repo/src/users/edit-user.controller.js:16
+msgid "Edit User"
+msgstr "ഉപയോക്താവിനെ എഡിറ്റുചെയ്യുക"
+
+#: /tmp/repo/src/cases/cases.html:78 /tmp/repo/src/users/add-user.html:15
+#: /tmp/repo/src/users/add-user.html:17
+#: /tmp/repo/src/users/create-user.html:28
+#: /tmp/repo/src/users/create-user.html:30
+msgid "Email"
+msgstr "ഇമെയിൽ"
+
+#: /tmp/repo/src/users/create-user.html:16
+#: /tmp/repo/src/users/create-user.html:18
+msgid "Family Name"
+msgstr "വീട്ടുപേര്"
+
+#: /tmp/repo/src/groups/create-group.html:36
+msgid "Fiels"
+msgstr "Fiels"
+
+#: /tmp/repo/src/groups/create-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:36
+msgid "Files"
+msgstr "ഫയലുകൾ"
+
+#: /tmp/repo/src/profile/profile.html:20 /tmp/repo/src/profile/profile.html:28
+#: /tmp/repo/src/profile/profile.html:30 /tmp/repo/src/profile/profile.html:31
+msgid "First Name"
+msgstr "പേരിന്റെ ആദ്യഭാഗം"
+
+#: /tmp/repo/src/profile/profile.html:47 /tmp/repo/src/profile/profile.html:63
+#: /tmp/repo/src/profile/profile.html:66 /tmp/repo/src/profile/profile.html:71
+msgid "Gender"
+msgstr "ലിംഗഭേദം"
+
+#: /tmp/repo/src/users/create-user.html:21
+#: /tmp/repo/src/users/create-user.html:23
+msgid "Given Name"
+msgstr "പേരിന്റെ ആദ്യഭാഗം"
+
+#: /tmp/repo/src/groups/create-group.html:13
+msgid "Group Info"
+msgstr "ഗ്രൂപ്പ് വിവരം"
+
+#: /tmp/repo/src/groups/edit-group.html:13
+msgid "Group Info <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+msgstr ""
+"ഗ്രൂപ്പ് വിവരം <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+
+#: /tmp/repo/src/groups/create-group.html:53
+#: /tmp/repo/src/groups/edit-group.html:55
+msgid "Group Permissions"
+msgstr "ഗ്രൂപ്പ് അനുമതികൾ"
+
+#: /tmp/repo/src/groups/groups.controller.js:27
+#: /tmp/repo/src/root/root.html:23
+msgid "Groups"
+msgstr "ഗ്രൂപ്പുകൾ"
+
+#: /tmp/repo/src/root/root.html:34
+msgid "Hello"
+msgstr "ഹലോ"
+
+#: /tmp/repo/src/groups/create-group.html:42
+#: /tmp/repo/src/groups/create-group.html:44
+#: /tmp/repo/src/groups/edit-group.html:42
+#: /tmp/repo/src/groups/edit-group.html:44
+msgid "Images"
+msgstr "ചിത്രങ്ങൾ"
+
+#: /tmp/repo/src/root/root.html:3
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript അപ്രാപ്തമാക്കി. അത് പ്രവർത്തനക്ഷമമാക്കുക."
+
+#: /tmp/repo/src/profile/profile.html:185
+#: /tmp/repo/src/profile/profile.html:187
+#: /tmp/repo/src/profile/profile.html:192
+#: /tmp/repo/src/users/create-user.html:35
+#: /tmp/repo/src/users/create-user.html:40
+#: /tmp/repo/src/users/create-user.html:46
+msgid "Language"
+msgstr "ഭാഷ"
+
+#: /tmp/repo/src/profile/profile.html:181
+msgid "Language &amp; Region"
+msgstr "ഭാഷയും പ്രവിശ്യയും"
+
+#: /tmp/repo/src/profile/profile.html:23 /tmp/repo/src/profile/profile.html:35
+#: /tmp/repo/src/profile/profile.html:37 /tmp/repo/src/profile/profile.html:38
+msgid "Last Name"
+msgstr "പേരിന്റെ അവസാന ഭാഗം"
+
+#: /tmp/repo/src/cases/assign-case.html:4 /tmp/repo/src/cases/cases.html:219
+#: /tmp/repo/src/cases/create-case.html:4 /tmp/repo/src/cases/edit-case.html:4
+#: /tmp/repo/src/groups/create-group.html:4
+#: /tmp/repo/src/groups/edit-group.html:4 /tmp/repo/src/groups/groups.html:4
+#: /tmp/repo/src/profile/profile.html:3
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:5
+#: /tmp/repo/src/settings/module/module-settings.html:4
+#: /tmp/repo/src/users/add-user.html:4 /tmp/repo/src/users/create-user.html:4
+#: /tmp/repo/src/users/edit-user.html:4 /tmp/repo/src/users/users.html:4
+msgid "Loading..."
+msgstr "ലോഡിംഗ്..."
+
+#: /tmp/repo/src/profile/profile.html:104
+msgid "Location"
+msgstr "സ്ഥലം"
+
+#: /tmp/repo/src/root/root.html:42
+msgid "Log out"
+msgstr "ലോഗൗട്ട് ചെയ്യുക"
+
+#: /tmp/repo/src/root/root.html:27
+msgid "Logout"
+msgstr "പുറത്തുകടക്കുക"
+
+#: /tmp/repo/src/login/login.html:20 /tmp/repo/src/root/root.html:126
+msgid "Made with"
+msgstr "ഉണ്ടാക്കിയിരിക്കുന്നത്"
+
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Module"
+msgstr "മൊഡ്യൂൾ"
+
+#: /tmp/repo/src/settings/module/module-settings.controller.js:33
+msgid "Modules"
+msgstr "മൊഡ്യൂളുകൾ"
+
+#: /tmp/repo/src/settings/module/module-settings.html:9
+msgid "Modules settings updated"
+msgstr "മൊഡ്യൂൾ ക്രമീകരണങ്ങൾ അപ്ഡേറ്റുചെയ്തു"
+
+#: /tmp/repo/src/groups/create-group.html:17
+#: /tmp/repo/src/groups/create-group.html:19
+#: /tmp/repo/src/groups/edit-group.html:17
+#: /tmp/repo/src/groups/edit-group.html:19
+msgid "Name"
+msgstr "പേര്"
+
+#: /tmp/repo/src/cases/cases.html:180
+msgid "New Password"
+msgstr "പുതിയ പാസ്വേഡ്"
+
+#: /tmp/repo/src/cases/cases.html:223
+msgid "No cases found."
+msgstr "കേസുകൾ ഒന്നും കണ്ടെത്തിയില്ല."
+
+#: /tmp/repo/src/groups/groups.html:8
+msgid "No group found."
+msgstr "ഒരു ഗ്രൂപ്പും കണ്ടെത്തിയില്ല."
+
+#: /tmp/repo/src/users/users.html:8
+msgid "No user found."
+msgstr "ഉപയോക്താവിനെ കണ്ടെത്തിയില്ല."
+
+#: /tmp/repo/src/profile/profile.html:79
+msgid "Occupation"
+msgstr "തൊഴിൽ"
+
+#: /tmp/repo/src/groups/create-group.html:55
+#: /tmp/repo/src/groups/edit-group.html:53
+msgid "Permission"
+msgstr "അനുമതി"
+
+#: /tmp/repo/src/profile/profile.controller.js:30
+msgid "Profile Settings"
+msgstr "പ്രൊഫൈൽ ക്രമീകരണങ്ങൾ"
+
+#: /tmp/repo/src/cases/assign-case.html:33
+#: /tmp/repo/src/cases/edit-case.html:50
+#: /tmp/repo/src/groups/edit-group.html:74
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:60
+#: /tmp/repo/src/settings/module/module-settings.html:23
+#: /tmp/repo/src/users/edit-user.html:42
+msgid "Save"
+msgstr "രക്ഷിക്കും"
+
+#: /tmp/repo/src/cases/assign-case.html:34
+#: /tmp/repo/src/cases/edit-case.html:51
+#: /tmp/repo/src/groups/edit-group.html:75
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:61
+#: /tmp/repo/src/settings/module/module-settings.html:24
+#: /tmp/repo/src/users/edit-user.html:43
+msgid "Saving..."
+msgstr "സംരക്ഷിക്കുന്നത്..."
+
+#: /tmp/repo/src/root/root.html:25
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങൾ"
+
+#: /tmp/repo/src/login/login.html:10
+msgid "Sign In"
+msgstr "സൈൻ ഇൻ"
+
+#: /tmp/repo/src/profile/profile.html:142
+#: /tmp/repo/src/profile/profile.html:155
+#: /tmp/repo/src/profile/profile.html:156
+msgid "State/Region"
+msgstr "സംസ്ഥാനം / പ്രവിശ്യ"
+
+#: /tmp/repo/src/cases/create-case.html:34
+#: /tmp/repo/src/cases/create-case.html:40
+#: /tmp/repo/src/cases/edit-case.html:38
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Status"
+msgstr "പദവി"
+
+#: /tmp/repo/src/cases/edit-case.html:44
+msgid "Status Opened"
+msgstr "നില തുറന്നു"
+
+#: /tmp/repo/src/cases/create-case.html:22
+#: /tmp/repo/src/cases/create-case.html:24
+#: /tmp/repo/src/cases/edit-case.html:26 /tmp/repo/src/cases/edit-case.html:28
+msgid "Tag ID"
+msgstr "ടാഗ് ഐഡി"
+
+#: /tmp/repo/src/login/login.html:22 /tmp/repo/src/root/root.html:128
+msgid "Terms of Use"
+msgstr "ഉപയോഗ നിബന്ധനകൾ"
+
+#: /tmp/repo/src/profile/profile.html:201
+#: /tmp/repo/src/profile/profile.html:203
+#: /tmp/repo/src/profile/profile.html:208
+#: /tmp/repo/src/users/create-user.html:51
+#: /tmp/repo/src/users/create-user.html:56
+#: /tmp/repo/src/users/create-user.html:62
+msgid "Timezone"
+msgstr "സമയ മേഖല"
+
+#: /tmp/repo/src/profile/profile.html:219
+msgid "Update"
+msgstr "അപ്ഡേറ്റ് ചെയ്യുക"
+
+#: /tmp/repo/src/profile/profile.html:220
+msgid "Updating"
+msgstr "അപ്ഡേറ്റുചെയ്യുന്നു"
+
+#: /tmp/repo/src/users/create-user.html:12
+msgid "User Info"
+msgstr "ഉപയോക്തൃ വിവരം"
+
+#: /tmp/repo/src/users/edit-user.html:16
+msgid "User Info <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+msgstr "ഉപയോക്തൃ വിവരം <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+
+#: /tmp/repo/src/users/edit-user.html:29 /tmp/repo/src/users/edit-user.html:35
+msgid "User Status"
+msgstr "ഉപയോക്തൃ സ്റ്റാറ്റസ്"
+
+#: /tmp/repo/src/users/edit-user.html:20 /tmp/repo/src/users/edit-user.html:26
+msgid "User Type"
+msgstr "ഉപയോക്തൃ തരം"
+
+#: /tmp/repo/src/users/edit-user.html:8
+msgid "User not found."
+msgstr "ഉപയോക്താവിനെ കണ്ടെത്തിയില്ല."
+
+#: /tmp/repo/src/root/root.html:22 /tmp/repo/src/users/users.controller.js:31
+msgid "Users"
+msgstr "ഉപയോക്താക്കൾ"
+
+#: /tmp/repo/src/groups/create-group.html:47
+#: /tmp/repo/src/groups/create-group.html:49
+#: /tmp/repo/src/groups/edit-group.html:47
+#: /tmp/repo/src/groups/edit-group.html:49
+msgid "Videos"
+msgstr "വീഡിയോകൾ"
+
+#: /tmp/repo/src/users/add-user.html:26
+msgid "Working..."
+msgstr "പ്രവർത്തിക്കുന്നു ..."
+
+#: /tmp/repo/src/profile/profile.html:148
+#: /tmp/repo/src/profile/profile.html:174
+#: /tmp/repo/src/profile/profile.html:175
+#: /tmp/repo/src/profile/profile.html:176
+msgid "Zip/Postal Code"
+msgstr "സിപ് / പോസ്റ്റൽ കോഡ്"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "in New York City"
+msgstr "ന്യൂ യോർക്ക് സിറ്റിയിൽ"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "love"
+msgstr "സ്നേഹം"
+
+#: /tmp/repo/src/cases/assign-case.html:22
+msgid "{{group.name}}"
+msgstr "{{ഗ്രൂപ്പ് പേര്}}"

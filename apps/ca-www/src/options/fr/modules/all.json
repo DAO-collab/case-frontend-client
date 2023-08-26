@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Lire tous les champs de cas sp\u00e9cifi\u00e9s dans le r\u00f4le",
+    "write": "\u00c9crire tous les champs de cas sp\u00e9cifi\u00e9s dans le r\u00f4le"
+  },
+  "convos": {
+    "read_all": "Afficher l&#39;\u00e9tat actuel des conversations.",
+    "manage_own": "Rejoindre et dissocier la conversation.",
+    "moderate_others": "D\u00e9marrer la conversation, terminer la conversation et supprimer un participant.",
+    "read_all_submissions": "Lisez toutes les conversations enregistr\u00e9es."
+  },
+  "events": {
+    "read_all": "Lire tous les \u00e9v\u00e9nements.",
+    "manage_own": "Cr\u00e9ez, mettez \u00e0 jour et supprimez votre propre \u00e9v\u00e9nement.",
+    "moderate_others": "Mettre \u00e0 jour et supprimer l&#39;\u00e9v\u00e9nement des autres.",
+    "read_all_submissions": "Lire toutes les confirmations d&#39;\u00e9v\u00e9nements.",
+    "submit_own": "Confirmer la demande de participation \u00e0 l&#39;\u00e9v\u00e9nement."
+  },
+  "posts": {
+    "read_all": "Lisez tous les messages.",
+    "manage_own": "Cr\u00e9er, mettre \u00e0 jour et supprimer son propre message.",
+    "moderate_others": "Mettre \u00e0 jour et supprimer le message des autres."
+  },
+  "forms": {
+    "read_all": "Lisez tous les formulaires.",
+    "manage_own": "Cr\u00e9ez, mettez \u00e0 jour et supprimez votre propre formulaire.",
+    "moderate_others": "Mettre \u00e0 jour et supprimer le formulaire des autres.",
+    "read_all_submissions": "Lire toutes les soumissions de formulaire.",
+    "submit_own": "Soumettre la demande de formulaire."
+  },
+  "invoices": {
+    "read_all": "Lire toutes les factures.",
+    "manage_own": "Cr\u00e9er, mettre \u00e0 jour et supprimer sa propre facture.",
+    "moderate_others": "Mettre \u00e0 jour et supprimer la facture d&#39;un autre.",
+    "read_all_submissions": "Lire toutes les soumissions de facture.",
+    "submit_own": "Soumettre la demande de facture."
+  },
+  "notes": {
+    "read_all": "Lisez toutes les notes.",
+    "manage_own": "Cr\u00e9er, mettre \u00e0 jour et supprimer sa propre note.",
+    "moderate_others": "Mettre \u00e0 jour et supprimer la note des autres."
+  },
+  "signs": {
+    "read_all": "Lisez tous les signes \u00e9lectroniques.",
+    "manage_own": "Cr\u00e9ez, mettez \u00e0 jour et supprimez votre propre e-sign.",
+    "moderate_others": "Mettre \u00e0 jour et supprimer le signe \u00e9lectronique des autres.",
+    "read_all_submissions": "Lisez toutes les soumissions de signature \u00e9lectronique.",
+    "submit_own": "Soumettre une demande de terrain."
+  },
+  "tasks": {
+    "read_all": "Lire toutes les t\u00e2ches.",
+    "manage_own": "Cr\u00e9er, mettre \u00e0 jour et supprimer sa propre t\u00e2che.",
+    "moderate_others": "Mettre \u00e0 jour et supprimer la t\u00e2che des autres.",
+    "read_all_submissions": "Lire toutes les soumissions de t\u00e2ches.",
+    "submit_own": "Soumettre une demande de t\u00e2che."
+  },
+  "team": { "read_all": "Lire l&#39;\u00e9quipe au cas o\u00f9" }
+}

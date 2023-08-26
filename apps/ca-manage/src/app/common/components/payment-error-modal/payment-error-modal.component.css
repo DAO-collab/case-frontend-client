@@ -1,0 +1,86 @@
+#accept-invitation-content button span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#accept-invitation-content input[type='checkbox'] {
+  width: 18px;
+  height: 18px;
+}
+
+p.submit button[type='submit'] {
+  float: right;
+  margin: 0;
+  line-height: 20px;
+}
+
+#card-container {
+  min-height: 90px;
+}
+
+@media screen and (max-width: 500px) {
+  #card-container {
+    min-height: 140px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .payment-container {
+    display: flex;
+  }
+}
+
+.payment-container > div {
+  flex: 1;
+  margin: 20px 10px 0 10px;
+}
+
+.payment-holder,
+.payment-address {
+  margin: 20px 10px 0 10px;
+}
+
+.payment-holder > input,
+.payment-address > input {
+  font-size: 14px;
+  padding: 10px;
+}
+
+.payment-button {
+  display: flex;
+  justify-content: center;
+}
+
+figure {
+  display: flex;
+  margin: 0;
+}
+
+figure div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+figure div h6 {
+  text-transform: none;
+  margin: 0;
+}
+
+.figure {
+  text-align: right;
+  padding-right: 50px;
+}
+
+.notation-label {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.box-inner p {
+  color: #d75a4a;
+  text-align: center;
+}

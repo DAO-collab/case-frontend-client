@@ -1,0 +1,106 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Como crear ou modificar casos coa ferramenta de importación
+</h1>
+<p>Este artigo mostra aos administradores como crear ou modificar casos existentes coa ferramenta Importar.</p>
+<h2 id="opening-the-import-tool">Abrir a ferramenta Importar</h2>
+<ol style="list-style-type: decimal">
+  <li>Inicie sesión na conta de administrador.</li>
+  <li>Localiza unha aplicación na páxina Aplicacións e fai clic no botón ADMINISTRADOR.</li>
+  <li>No panel de administración, faga clic na pestana Integración e despois IMPORTACIÓNS no submenú.</li>
+  <li>Fai clic no botón NOVO. O cadro de diálogo Engadir importacións móstrase nunha nova pestana do navegador.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Creación de casos</h2>
+<p>Despois de abrir a caixa de diálogo Engadir importacións:</p>
+<ol style="list-style-type: decimal">
+  <li>Fai clic no campo Tipo e selecciona unha opción (ver abaixo). Móstrase unha ligazón.</li>
+  <li>Fai clic na ligazón Descargar mostra. Descárgase un ficheiro CSV no teu dispositivo.</li>
+</ol>
+<p>A continuación, abra o ficheiro e engada casos.</p>
+<h2 id="type">Tipo</h2>
+<p>
+  Cando fai clic no campo <strong>Tipo</strong> , aparece un menú despregable. Escolla unha das dúas opcións para
+  importar casos masivos.
+</p>
+<ul>
+  <li>
+    <strong>Nota</strong> O menú despregable ten moitas opcións, pero só dúas están relacionadas coa xestión de casos.
+    Cada opción ten un ficheiro CSV de mostra diferente.
+  </li>
+</ul>
+<h3 id="add-cases">Engadir casos</h3>
+<ul>
+  <li>Escolla esta opción para cargar casos simples en bloque.</li>
+  <li>
+    Fai clic na ligazón Descargar mostra para abrir un ficheiro CSV con títulos de columna para o tipo de importación
+    Crear casos.
+  </li>
+</ul>
+<h3 id="modify-cases">Modificar casos</h3>
+<ul>
+  <li>Escolla esta opción para actualizar os casos actuais.</li>
+  <li>
+    Fai clic na ligazón Descargar mostra para abrir un ficheiro CSV con títulos de columna para o tipo de importación
+    Modificar casos.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Cargando o ficheiro</h2>
+<p>
+  Podes cargar un ficheiro de inmediato ou volver á caixa de diálogo Engadir importacións nunha data posterior e
+  completar estes pasos.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Abre o cadro de diálogo Engadir importacións.</li>
+  <li>Introduza un nome único para o ficheiro CSV.</li>
+  <li>Fai clic na icona máis (+) para cargar o ficheiro desde o teu dispositivo.</li>
+  <li>Fai clic no campo Tipo e selecciona unha opción. (ver arriba)</li>
+  <li>Fai clic en GARDAR.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Formato</h2>
+<p>
+  Estes son os campos obrigatorios e os primeiros requisitos. Fai clic
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">aquí</a> para revisar os
+  detalles do formato.
+</p>
+<p><strong>tag_id (ou case_ID)</strong> un identificador único (use caracteres alfanuméricos, se aceptan guións)</p>
+<p><strong>case_status</strong> 0 = pechado 1 = activo</p>
+<p><strong>data_aberto</strong> mes/día/ano mm/dd/aaaa</p>
+<p><strong>sobre</strong> unha descrición única do caso (utilice caracteres alfanuméricos, acéptanse guións)</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Procesamento</h2>
+<p>
+  Dependendo do número de rexistros no ficheiro e da carga do sistema, a plataforma pode tardar varios minutos en
+  procesar a importación.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Cando se completa a importación, a plataforma axusta os rexistros de casos (é dicir, engade ou modifica) no panel de
+  control de casos do administrador.
+</p>
+<h2 id="failure">Fracaso</h2>
+<p>
+  Se a operación de importación falla, a plataforma devolve unha mensaxe de fallo. Na maioría dos casos, a causa do
+  fallo é o formato dos datos.
+</p>
+<div class="figure"><img src="/images/create-case-10.png" alt="img" /></div>
+<p>Para ver a causa do fallo:</p>
+<ol style="list-style-type: decimal">
+  <li>Fai clic en Ver baixo o título ACCIÓN.</li>
+  <li>Na páxina seguinte, pase o rato sobre a icona Fallou. A información sobre ferramentas mostra o erro.</li>
+  <li>Vaia ao ficheiro CVS e axuste e corrixa o erro.</li>
+  <li>Carga o ficheiro de novo.</li>
+</ol>
+<div class="figure"><img src="/images/create-case-11.png" alt="img" /></div>

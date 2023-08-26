@@ -1,0 +1,93 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">Cara Membuat atau Memodifikasi Kasus dengan Alat Impor</h1>
+<p>Artikel ini menunjukkan kepada admin cara membuat atau mengubah kasus yang ada dengan alat Impor.</p>
+<h2 id="opening-the-import-tool">Membuka alat Impor</h2>
+<ol style="list-style-type: decimal">
+  <li>Masuk ke akun admin.</li>
+  <li>Temukan aplikasi di halaman Aplikasi dan klik tombol ADMIN.</li>
+  <li>Pada panel Admin, klik tab Integrasi lalu IMPOR pada submenu.</li>
+  <li>Klik tombol BARU. Kotak dialog Tambah Impor ditampilkan di tab browser baru.</li>
+</ol>
+<div class="figure"><img src="/images/import-3.png" alt="img" /></div>
+<h2 id="creating-cases">Membuat kasus</h2>
+<p>Setelah kotak dialog Tambah Impor terbuka:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik bidang Jenis dan pilih opsi (lihat di bawah). Tautan ditampilkan.</li>
+  <li>Klik tautan Unduh Sampel. File CSV diunduh ke perangkat Anda.</li>
+</ol>
+<p>Selanjutnya, buka file dan tambahkan case.</p>
+<h2 id="type">Jenis</h2>
+<p>
+  Saat Anda mengklik kolom <strong>Type</strong> , menu drop-down ditampilkan. Pilih salah satu dari dua opsi untuk
+  impor kotak massal.
+</p>
+<ul>
+  <li>
+    <strong>Catatan</strong> Menu tarik-turun memiliki banyak opsi, tetapi hanya dua yang terkait dengan pengelolaan
+    kasus. Setiap opsi memiliki contoh file CSV yang berbeda.
+  </li>
+</ul>
+<h3 id="add-cases">Tambahkan kasus</h3>
+<ul>
+  <li>Pilih opsi ini untuk mengunggah kasus secara massal.</li>
+  <li>Klik tautan Unduh Sampel untuk membuka file CSV dengan judul kolom untuk jenis impor Buat kasus.</li>
+</ul>
+<h3 id="modify-cases">Ubah kasus</h3>
+<ul>
+  <li>Pilih opsi ini untuk memperbarui kasus saat ini.</li>
+  <li>Klik tautan Unduh Sampel untuk membuka file CSV dengan judul kolom untuk jenis impor Modifikasi kasus.</li>
+</ul>
+<h2 id="uploading-the-file">Mengunggah file</h2>
+<p>
+  Anda dapat langsung mengunggah file atau kembali ke kotak dialog Tambahkan Impor di kemudian hari dan selesaikan
+  langkah-langkah ini.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Buka kotak dialog Tambah Impor.</li>
+  <li>Masukkan nama unik untuk file CSV.</li>
+  <li>Klik ikon tambah (+) untuk mengunggah file dari perangkat Anda.</li>
+  <li>Klik bidang Jenis dan pilih opsi. (Lihat di atas)</li>
+  <li>Klik SIMPAN.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Pemformatan</h2>
+<p>
+  Ini adalah bidang wajib dan persyaratan pertama. Klik
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">di sini</a> untuk meninjau
+  detail pemformatan.
+</p>
+<p>
+  <strong>tag_id (atau case_ID)</strong> pengidentifikasi unik (menggunakan karakter alfanumerik, tanda hubung diterima)
+</p>
+<p><strong>case_status</strong> 0 = tertutup 1 = aktif</p>
+<p><strong>date_opened</strong> bulan/hari/tahun mm/dd/yyyy</p>
+<p><strong>tentang</strong> deskripsi unik kasus (gunakan karakter alfanumerik, tanda hubung diterima)</p>
+<div class="figure"><img src="/images/create-case-8.png" alt="img" /></div>
+<h2 id="processing">Pengolahan</h2>
+<p>
+  Bergantung pada jumlah rekaman dalam file dan beban sistem, platform dapat membutuhkan waktu beberapa menit untuk
+  memproses impor.
+</p>
+<div class="figure"><img src="/images/create-case-9.png" alt="img" /></div>
+<p>
+  Saat impor selesai, platform menyesuaikan catatan kasus (yaitu menambahkan atau memodifikasi) di dasbor Kasus admin.
+</p>
+<h2 id="failure">Kegagalan</h2>
+<p>
+  Jika operasi impor gagal, platform mengembalikan pesan Gagal. Dalam kebanyakan kasus, penyebab kegagalan adalah
+  pemformatan data.
+</p>
+<div class="figure"><img src="/images/create-case-10.png" alt="img" /></div>
+<p>Untuk melihat penyebab kegagalan:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik Lihat di bawah tajuk TINDAKAN.</li>
+  <li>Di halaman berikutnya, arahkan mouse ke ikon Gagal. Tooltip menampilkan kesalahan.</li>
+  <li>Buka file CVS dan sesuaikan dan perbaiki kesalahannya.</li>
+  <li>Unggah file lagi.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

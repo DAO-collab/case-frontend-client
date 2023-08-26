@@ -1,0 +1,106 @@
+<app-viewer
+  *ngIf="showViwer"
+  [activeItem]="viewerIndx"
+  [viewiengItems]="viewerItems!"
+  [caseId]="caseId"
+  (onviewerclose)="showViwer = false"
+></app-viewer>
+
+<article *ngIf="permissions && !notesService.readAll && !loading">
+  <p class="notice-a" *ngIf="permissions && !loading && !notesService.readAll" translate>
+    You don't have permissions to view this page.
+  </p>
+  <div *ngIf="loading" class="loading-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<div class="module-d" *ngIf="!permissions && loading">
+  <div>
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</div>
+
+<div *ngIf="permissions && notesService.readAll" class="notes-wrap">
+  <div class="module-d tabs">
+    <div *ngIf="!loading">
+      <div>
+        <article>
+          <div class="table-wrapper">
+            <table class="table-b a">
+              <tbody>
+                <tr>
+                  <th *ngFor="let column of columns" class="note-width">
+                    {{ column.name }}
+                  </th>
+                  <th>Attachments</th>
+                  <th>Actions</th>
+                </tr>
+                <tr *ngFor="let note of notesList">
+                  <td *ngFor="let column of columns" class="note-width">
+                    <!--                      {{ stringFromProperty(note.notes[0][column.key]) }}-->
+                    {{ convertTimeFieldToLocalTime(stringFromProperty(note.notes[0][column.key])) }}
+                  </td>
+                  <td>
+                    <i style="font-size: 12px" *ngIf="note.media_ct === 0">{{ note.media_ct }}</i>
+                    <i class="i-link" *ngIf="note.media_ct !== 0" (click)="viewAttachments(note)">{{
+                      note.media_ct
+                    }}</i>
+                  </td>
+                  <td width="150">
+                    <span class="drop-a">
+                      <span class="value"> --</span>
+                      <span class="drop">
+                        <a routerLink="/notes/view/{{ note.note_id }}" class="drop-item-option">
+                          <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                          View Note
+                        </a>
+                        <ng-container *ngIf="currentCaseStatus$ | async">
+                          <ng-container
+                            *ngIf="
+                              (note.user_id === userId && notesService.manageOwn) ||
+                              (note.user_id !== userId && notesService.moderateOthers)
+                            "
+                          >
+                            <a routerLink="/notes/edit/{{ note.note_id }}" class="drop-item-option">
+                              <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                              Edit Note
+                            </a>
+                            <a (click)="deleteNote(note?.note_id!)">
+                              <i class="icon-trash"></i>
+                              Delete Note
+                            </a>
+                          </ng-container>
+                        </ng-container>
+                      </span>
+                    </span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+
+            <ca-load-more *ngIf="showLoadMore" [isLoading]="newElementsSectionIsLoading" (loadMorePressed)="loadMoreNotes()"></ca-load-more>
+          </div>
+        </article>
+      </div>
+    </div>
+    <div *ngIf="notesList.length === 0 && !loading">
+      <p class="text-center" translate>No Notes</p>
+    </div>
+    <div *ngIf="loading">
+      <p class="text-center" translate>
+        <span class="loader loader-bubbles">
+          <span></span>
+        </span>
+      </p>
+    </div>
+  </div>
+</div>

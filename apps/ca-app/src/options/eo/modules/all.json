@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Legu \u0109iujn kazkampojn specifi en rolo", "write": "Skribu \u0109iun kazon specifi en rolo" },
+  "convos": {
+    "read_all": "Rigardu nunan staton de konvoj.",
+    "manage_own": "Ali\u011di kaj malligi kunvo.",
+    "moderate_others": "Komencu konvon, \u0109esigu konvon kaj forigu partoprenanton.",
+    "read_all_submissions": "Legu \u0109iujn registritajn konvojn."
+  },
+  "events": {
+    "read_all": "Legu \u0109iujn eventojn.",
+    "manage_own": "Krei, \u011disdatigi kaj forigi propran eventon.",
+    "moderate_others": "\u011cisdatigu kaj forigu la eventon de alia.",
+    "read_all_submissions": "Legu \u0109iujn konfirmojn pri evento.",
+    "submit_own": "Konfirmu peton de partopreno de evento."
+  },
+  "posts": {
+    "read_all": "Legu \u0109iujn afi\u015dojn.",
+    "manage_own": "Krei, \u011disdatigi kaj forigi propran afi\u015don.",
+    "moderate_others": "\u011cisdatigu kaj forigu la afi\u015don de alia."
+  },
+  "forms": {
+    "read_all": "Legu \u0109iujn formojn.",
+    "manage_own": "Krei, \u011disdatigi kaj forigi propran formularon.",
+    "moderate_others": "\u011cisdatigu kaj forigu aliulan formularon.",
+    "read_all_submissions": "Legu \u0109iujn formularojn.",
+    "submit_own": "Sendu formularan peton."
+  },
+  "invoices": {
+    "read_all": "Legu \u0109iujn fakturojn.",
+    "manage_own": "Krei, \u011disdatigi kaj forigi propran fakturon.",
+    "moderate_others": "\u011cisdatigu kaj forigu aliulan fakturon.",
+    "read_all_submissions": "Legu \u0109iujn prezentojn de fakturoj.",
+    "submit_own": "Sendu fakturpeton."
+  },
+  "notes": {
+    "read_all": "Legu \u0109iujn notojn.",
+    "manage_own": "Krei, \u011disdatigi kaj forigi propran noton.",
+    "moderate_others": "\u011cisdatigu kaj forigu aliulan noton."
+  },
+  "signs": {
+    "read_all": "Legu \u0109iujn e-signojn.",
+    "manage_own": "Krei, \u011disdatigi kaj forigi propran e-signo.",
+    "moderate_others": "\u011cisdatigu kaj forigu la e-signon de alia.",
+    "read_all_submissions": "Legu \u0109iujn e-signo-subskribojn.",
+    "submit_own": "Sendu kampopeton."
+  },
+  "tasks": {
+    "read_all": "Legu \u0109iujn taskojn.",
+    "manage_own": "Krei, \u011disdatigi kaj forigi propran taskon.",
+    "moderate_others": "\u011cisdatigu kaj forigu aliulan taskon.",
+    "read_all_submissions": "Legu \u0109iujn taskojn.",
+    "submit_own": "Sendu taskopeton."
+  },
+  "team": { "read_all": "Legu teamon okaze" }
+}

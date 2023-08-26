@@ -1,0 +1,51 @@
+[
+  {
+    "docs": [
+      "how-to-create-an-app",
+      "how-to-create-or-modify-cases-through-the-ui-menu",
+      "how-users-create-a-new-account"
+    ],
+    "image": "icons/1-get-started.png",
+    "name": "Get Started"
+  },
+  {
+    "docs": [
+      "how-to-log-in",
+      "how-to-update-a-user-profile",
+      "how-users-create-a-new-account"
+    ],
+    "image": "icons/2-profile-account.png",
+    "name": "Profile Account"
+  },
+  {
+    "docs": [
+      "how-admins-manage-cases",
+      "how-to-auto-create-cases-with-a-public-signup-link",
+      "how-to-create-or-modify-cases-through-the-ui-menu",
+      "how-to-create-or-modify-cases-with-the-import-tool"
+    ],
+    "image": "icons/3-managing-cases.png",
+    "name": "Managing Cases"
+  },
+  {
+    "docs": [
+      "how-admin-manage-user-assignments-to-cases",
+      "how-to-assign-modify-or-remove-user-assignments-with-the-import-tool",
+      "how-to-assign-or-remove-user-assignments-with-existing-cases",
+      "how-to-assign-users-while-creating-a-case",
+      "how-to-auto-assign-users-with-the-public-signup-link"
+    ],
+    "image": "icons/4-managing-case-permissions.png",
+    "name": "Managing Case Permissions"
+  },
+  {
+    "docs": [
+      "how-admins-manage-users",
+      "how-to-create-and-modify-users-with-the-ui",
+      "how-to-create-or-modify-users-with-the-import-tool",
+      "how-to-create-users-with-a-signup-link"
+    ],
+    "image": "icons/5-managing-users.png",
+    "name": "Managing Users"
+  }
+]

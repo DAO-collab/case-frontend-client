@@ -1,0 +1,118 @@
+<div id="preview" #preview [ngClass]="{ galleryView: conferenceLayout === 'galleryView' }">
+  <div class="convo-initializing-text" *ngIf="isInitializing && !isPreviewOptionSet">
+    Loading your video... Please wait.
+  </div>
+
+  <div class="recording-label" *ngIf="!isInitializing && convoList.recorded">
+    <div class="red-circle"></div>
+    Video call is being recorded
+  </div>
+
+  <!--    'convo-participants-row-elements-5-8': numberOfParticipants > 4 && numberOfParticipants < 9,-->
+  <!--    'convo-participants-row-elements-9-16': numberOfParticipants > 8 && numberOfParticipants < 17-->
+  <div
+    class="convo-participants"
+    #participants
+    [ngClass]="{
+      'flex-start': numberOfParticipants > 2,
+      'convo-participants-row-elements-1': numberOfParticipants === 1,
+      'convo-participants-row-elements-2': numberOfParticipants === 2,
+      'convo-participants-row-elements-3-4': numberOfParticipants > 2 && numberOfParticipants < 5,
+      'convo-participants-row-elements-5-8': numberOfParticipants > 4
+    }"
+  ></div>
+
+  <ng-container
+    *ngIf="
+      (numberOfParticipants > numberOfUsersSeenAtThePage && conferenceLayout === 'galleryView') ||
+      (conferenceLayout === 'speakerView' && numberOfParticipants > 2)
+    "
+  >
+    <div class="slider-button slider-button-left" (click)="chooseSliderMethod(true, $event)">
+      <img src="images/arrow-left.svg" alt="" />
+    </div>
+
+    <div class="slider-button slider-button-right" (click)="chooseSliderMethod(false, $event)">
+      <img class="arrow-right" src="images/arrow-left.svg" alt="" />
+    </div>
+  </ng-container>
+
+  <div class="local-participant-div" [ngStyle]="{ height: videoViewHeight + 'px' }">
+    <div class="local-participant-name" *ngIf="twilioService.roomObj?.localParticipant.identity">
+      <img
+        class="micro-disabled-image"
+        src="/images/convo-participant-audio-disabled.svg"
+        alt=""
+        *ngIf="isAudioMuted"
+      />
+      {{ 'You' | translate }}
+    </div>
+
+    <div class="preview-video" [ngClass]="{ 'preview-video-hide': isVideoMuted }">
+      <img class="convo-avatar-icon" [src]="userAvatarSrc" alt="" />
+    </div>
+  </div>
+</div>
+
+<div class="convo-buttons" *ngIf="!isInitializing" [ngClass]="{ 'convo-buttons-mt': convoList?.recorded }">
+  <div
+    *ngIf="isPreviewOptionSet"
+    class="convo-button"
+    [ngClass]="{ 'convo-button-enabled-background': !isVideoMuted }"
+    (click)="muteVideo()"
+  >
+    <img class="convo-icon-video" *ngIf="!isVideoMuted" src="/images/convo-video-enabled.svg" alt="" />
+    <img class="convo-icon-video" *ngIf="isVideoMuted" src="/images/convo-video-disabled.svg" alt="" />
+  </div>
+
+  <div
+    *ngIf="isPreviewOptionSet"
+    class="convo-button"
+    [ngClass]="{ 'convo-button-enabled-background': !isAudioMuted }"
+    (click)="muteAudio()"
+  >
+    <img class="convo-icon-audio" *ngIf="!isAudioMuted" src="/images/convo-audio-enabled.svg" alt="" />
+    <img class="convo-icon-audio" *ngIf="isAudioMuted" src="/images/convo-audio-disabled.svg" alt="" />
+  </div>
+
+  <div *ngIf="isPreviewOptionSet" class="convo-button convo-button-enabled-background" (click)="shareScreen()">
+    <img class="convo-icon-video" src="/images/convo-share-screen.svg" alt="" />
+  </div>
+
+  <div class="convo-button convo-option-button convo-button-enabled-background" (click)="expandMenuSettings()">
+    <app-svg-icon icon="convo-3-dots" [height]="16" [width]="4"> </app-svg-icon>
+  </div>
+
+  <div class="convo-expanded-menu" *ngIf="this.isUserMenuExpanded">
+    <div class="convo-expanded-menu-option" (click)="toggleInviteLinkModal()"><p>Invite Link</p></div>
+    <div class="convo-expanded-menu-option" (click)="leaveConvo()"><p>Leave Convo</p></div>
+  </div>
+</div>
+
+<div class="popup-a a form-d shown" [ngClass]="{ shown: isInviteLinkModalOpened }">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2></h2>
+
+      <article id="content" class="popup-signup-url-article">
+        <div class="popup-signup-url-wrapper">
+          <span class="popup-signup-url desktop-link">{{ formatInviteLinkForViewDesktop(inviteLink!) }}</span>
+          <span class="popup-signup-url mobile-link">{{ formatInviteLinkForViewMobile(inviteLink!) }}</span>
+          <div class="popup-copy-icon-wrapper">
+            <img class="popup-copy-icon" src="images/copy-icon.svg" alt="" (click)="copyText(inviteLink!)" />
+            <!-- <div class="copied-tip" *ngIf="showCopiedTipForInviteLink">{{'Copied!' | translate}}</div> -->
+          </div>
+        </div>
+        <p>
+          <span (click)="toggleInviteLinkModal()">Close</span>
+        </p>
+      </article>
+
+      <p>
+        <a (click)="toggleInviteLinkModal()"></a>
+      </p>
+      <a class="close" (click)="toggleInviteLinkModal()">Close</a>
+    </div>
+    <a class="close" (click)="toggleInviteLinkModal()">Close</a>
+  </div>
+</div>

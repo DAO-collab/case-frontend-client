@@ -1,0 +1,62 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <form
+    autocomplete="off"
+    id="member-settings-form"
+    class="form-h member-settings-form"
+    novalidate
+    *ngIf="!loading"
+    [formGroup]="editSsoForm"
+  >
+    <div class="form-h-element">
+      <label class="field-label" for="force_sso">{{ 'Allow Manual Sign In' | translate }}</label>
+      <ng-select
+        [items]="forceSsoValues"
+        bindLabel="id"
+        bindValue="value"
+        id="force_sso"
+        formControlName="force_sso"
+        [placeholder]="'No item selected' | translate"
+        [closeOnSelect]="true"
+      ></ng-select>
+    </div>
+
+    <div class="form-h-element">
+      <label class="field-label" for="exclude">{{ 'Exclude Emails From SSO' | translate }}</label>
+      <input class="exclude-field" type="text" id="exclude" formControlName="exclude" />
+    </div>
+
+    <div class="form-h-element" [formGroup]="editEnterpriseHostIdForm">
+      <label class="field-label" for="enterprise_host_id">{{ 'Select enterprise app' | translate }}</label>
+      <ng-select
+        [items]="enterpriseHostIdValues"
+        bindLabel="value"
+        bindValue="value"
+        formControlName="enterprise_host_id"
+        id="enterprise_host_id"
+        [placeholder]="'No item selected' | translate"
+        [closeOnSelect]="true"
+      ></ng-select>
+    </div>
+
+    <div class="form-h-element">
+      <label class="field-label" for="metadata_base64_encoded">{{
+        'SAML Identity Provider Metadata' | translate
+      }}</label>
+      <input type="file" accept=".xml" id="metadata_base64_encoded" (change)="readXMLFile($event)" />
+    </div>
+  </form>
+
+  <p class="submit">
+    <button
+      class="f-right"
+      [disabled]="this.editEnterpriseHostIdForm.invalid && this.editSsoForm.invalid"
+      (click)="submitDomainUpdates()"
+    >
+      <span translate>Submit</span>
+    </button>
+
+    <a class="f-right" (click)="redirectToDomains()" translate>Cancel</a>
+  </p>
+</article>

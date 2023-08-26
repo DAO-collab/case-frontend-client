@@ -1,0 +1,77 @@
+.view-perimissions {
+  width: 180px;
+  position: absolute;
+  right: 90px;
+}
+
+.semantic-select-wrapper {
+  height: 40px;
+}
+
+.semantic-select .input {
+  height: 40px;
+  line-height: 40px;
+}
+
+.semantic-select ul {
+  top: 40px;
+}
+
+.semantic-select ul li a {
+  line-height: 40px;
+  font-size: 15px;
+  width: 100%;
+  overflow: hidden;
+  text-transform: capitalize;
+}
+
+.select:before,
+.semantic-select .ticker:before,
+.color-picker:before {
+  color: #333;
+  right: 10px;
+  font-size: 14px;
+}
+
+.semantic-select .ticker {
+  width: 26px;
+}
+
+.semantic-select .input {
+  background: #f0f3f5;
+}
+
+.semantic-select ul li {
+  width: 100%;
+  position: relative;
+}
+
+label.checkbox-container.centered-checkbox {
+  left: auto;
+  right: 15px;
+  top: 10px;
+  width: 19px;
+  position: absolute;
+}
+
+.view-perimissions span.checkmark {
+  left: 0;
+}
+
+label.checkbox-container.centered-checkbox input {
+  top: 3px !important;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+span.visible-to-some {
+  position: relative;
+  font-size: 18px;
+  line-height: 19px;
+  top: 3px;
+  left: 5px;
+}
+
+.semantic-select .input div {
+  font-size: 13px;
+}

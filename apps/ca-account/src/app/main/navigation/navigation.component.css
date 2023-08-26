@@ -1,0 +1,534 @@
+h1 img {
+  vertical-align: baseline;
+}
+
+.user-menu {
+  color: #4b5153;
+  cursor: pointer;
+  position: relative;
+}
+
+.user-menu .avatar-icon {
+  border-radius: 100px;
+  border: 1px solid #dcdcdc;
+  margin: -2px 12px 0 6px;
+}
+
+.arrow-dropdown {
+  height: 38px;
+  padding: 15px 0 15px 5px !important;
+  position: relative;
+  width: 15px;
+}
+
+.arrow-dropdown::after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-color: #848484 transparent transparent transparent;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 5px 5px 0 5px;
+}
+
+.user-menu-dropdown {
+  background: white;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  font-size: 14px;
+  position: absolute;
+  right: 0;
+  top: 46px;
+  width: 308px;
+}
+
+.user-menu-dropdown-user {
+  align-items: center;
+  border-bottom: 1px solid #dbdbdb;
+  display: flex;
+  line-height: 18px;
+  padding: 20px 16px;
+}
+
+.user-menu-dropdown .account-link {
+  color: #b4bcbe;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  line-height: 14px;
+  text-transform: uppercase;
+}
+
+.user-menu-dropdown .account-link:hover {
+  text-decoration: none;
+}
+
+.user-menu-dropdown-user .avatar-icon {
+  margin-right: 18px;
+}
+
+.user-menu-dropdown-user > div {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+}
+
+.user-menu-dropdown-apps {
+  border-bottom: 1px solid #dbdbdb;
+  max-height: 500px;
+  overflow: auto;
+  padding: 16px 8px;
+}
+
+.user-menu-dropdown-app-info {
+  display: flex;
+  align-items: center;
+}
+
+.user-menu-dropdown-app-logo {
+  align-items: center;
+  background-color: #f7f9fb;
+  border: 1px solid #dbdbdb;
+  border-radius: 50px;
+  box-sizing: content-box;
+  display: flex;
+  height: 48px;
+  justify-content: center;
+  margin-right: 18px;
+  width: 48px;
+}
+
+.user-menu-dropdown-app-logo img {
+  width: 25px;
+}
+
+.user-menu-dropdown-create-app-logo {
+  background: linear-gradient(#667074, #667074), linear-gradient(#667074, #667074), #f7f9fb;
+  background-position: center;
+  background-size: 34% 2px, 2px 34%; /*thickness = 2px, length = 34% (17px)*/
+  background-repeat: no-repeat;
+}
+
+.user-menu-dropdown-app-details {
+  display: flex;
+  flex-direction: column;
+  max-width: 124px;
+}
+
+.user-menu-dropdown-app {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  line-height: 18px;
+  padding: 10px 8px;
+}
+
+.user-menu-dropdown-app:hover {
+  background-color: #f7f9fb;
+}
+
+.user-menu-dropdown-app.no-apps {
+  margin-top: 10px;
+}
+
+.user-menu-dropdown-app > button {
+  background-color: #fff;
+  border: 1px solid #16b0c5;
+  color: #16b0c5;
+  line-height: 20px;
+  margin: 0;
+  padding: 5px 2px 3px 2px;
+  width: 80px;
+}
+
+.user-menu-dropdown-app > button:hover {
+  background-color: #16b0c5;
+  color: #fff;
+}
+
+.user-menu-dropdown-logout {
+  padding: 16px;
+}
+
+.user-menu-dropdown-link {
+  color: #4b5153;
+}
+
+.user-menu-dropdown-link:hover {
+  text-decoration: none;
+}
+
+.notification-menu-dropdown {
+  background: white;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  font-size: 14px;
+  position: absolute;
+  right: 0;
+  top: 46px;
+  width: 350px;
+}
+
+.notifications-label {
+  float: none !important;
+  font-size: 14px !important;
+}
+
+.notification-menu-dropdown-user {
+  align-items: center;
+  border-bottom: 1px solid #dbdbdb;
+  display: flex;
+  line-height: 18px;
+  padding: 20px 16px;
+}
+
+.notification-menu-dropdown .account-link {
+  color: #b4bcbe;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  line-height: 14px;
+  text-transform: uppercase;
+}
+
+.notification-menu-dropdown .account-link:hover {
+  text-decoration: none;
+}
+
+.notification-menu-dropdown-user .avatar-icon {
+  margin-right: 18px;
+}
+
+.notification-menu-dropdown-user > div {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+}
+
+.notification-menu-dropdown-apps {
+  border-top: 1px solid #dbdbdb;
+  max-height: 500px;
+  padding: 16px 8px;
+}
+
+.notification-menu-dropdown-apps::-webkit-scrollbar {
+  width: 10px;
+}
+n .notification-menu-dropdown-apps::-webkit-scrollbar-track {
+  background-color: #e4e4e4;
+  border-radius: 100px;
+}
+
+.notification-menu-dropdown-apps::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  color: #c1c1c1;
+  background-color: #c1c1c1;
+}
+
+.notification-menu-dropdown-app-info {
+  display: flex;
+  align-items: center;
+}
+
+.notification-menu-dropdown-app-logo {
+  position: relative;
+  align-items: center;
+  background-color: #f7f9fb;
+  border: 1px solid #dbdbdb;
+  border-radius: 50px;
+  box-sizing: content-box;
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  margin-right: 18px;
+  width: 70px;
+}
+
+.notification-menu-dropdown-app-logo img:first-child {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.notification-menu-dropdown-app-logo img:last-child {
+  position: absolute;
+  width: 15px;
+  bottom: 5px;
+  right: 5px;
+}
+
+.notification-menu-dropdown-create-app-logo {
+  background: linear-gradient(#667074, #667074), linear-gradient(#667074, #667074), #f7f9fb;
+  background-position: center;
+  background-size: 34% 2px, 2px 34%; /*thickness = 2px, length = 34% (17px)*/
+  background-repeat: no-repeat;
+}
+
+.notification-menu-dropdown-app-details {
+  display: flex;
+  flex-direction: column;
+  max-width: 205px;
+}
+
+.notification-menu-dropdown-app-details .notify-text {
+  font-weight: bold;
+}
+
+.notification-menu-dropdown-app-details .notify-date {
+  font-size: 12px;
+}
+
+.notification-menu-dropdown-app {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  line-height: 18px;
+  padding: 10px 8px;
+}
+
+.notification-menu-dropdown-app:hover {
+  background-color: #f7f9fb;
+}
+
+.notification-menu-dropdown-app.no-apps {
+  margin-top: 10px;
+}
+
+.notification-menu-dropdown-app > button {
+  background-color: #fff;
+  border: 0 solid #16b0c5;
+  color: #16b0c5;
+  line-height: 20px;
+  margin: 0;
+  padding: 2px 2px 2px 2px;
+  width: 20px;
+}
+
+.notification-menu-dropdown-app > button:hover {
+  /*background-color: #16b0c5;*/
+  /*color: #fff;*/
+}
+
+.notification-menu-dropdown-logout {
+  padding: 16px;
+}
+
+.notification-menu-dropdown-link {
+  color: #4b5153;
+}
+
+.notification-menu-dropdown-link:hover {
+  text-decoration: none;
+}
+
+.notification-menu-dropdown-tab {
+  width: 50%;
+  padding: 0px;
+  margin: 0px;
+  background-color: transparent;
+  border: transparent;
+  color: black;
+  float: left;
+}
+
+.notification-menu-dropdown-tab-selected {
+  background-color: rgb(241, 241, 241);
+}
+
+.notification-menu-dropdown-icon {
+  margin: 0 15px;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #dbdbdb;
+  border-radius: 50%;
+  background: #f9fafc;
+}
+
+app-accept-invitation-modal {
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.support-rout-accessed {
+  border-top: none !important;
+  border-bottom: none !important;
+  display: flex !important;
+  justify-content: center !important;
+  position: relative !important;
+}
+
+.support-rout-accessed .case-logo-h1 {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  transform: translate(-50%) !important;
+}
+
+.user-menu-dropdown-admin-icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 9px;
+}
+
+.user-menu-dropdown-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 0;
+}
+
+.user-menu-dropdown-apps {
+  overflow-x: hidden;
+}
+
+.user-menu-dropdown-app {
+  min-width: 100%;
+  margin-right: 15px;
+}
+
+.user-menu-dropdown-apps::-webkit-scrollbar {
+  width: 10px;
+}
+n .user-menu-dropdown-apps::-webkit-scrollbar-track {
+  background-color: #e4e4e4;
+  border-radius: 100px;
+}
+
+.user-menu-dropdown-apps::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  color: #c1c1c1;
+  background-color: #c1c1c1;
+}
+
+.buttons-animation {
+  -webkit-animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-name: fadein;
+}
+
+.apps-button {
+  background-color: white;
+  color: #16b0c5;
+  display: flex !important;
+  align-items: center;
+  padding: 4px 12px 3px;
+  font-size: 1em;
+  line-height: 1.5;
+  margin-top: 0;
+  width: 70px;
+}
+
+.apps-app-button {
+  margin-right: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 62.5em) {
+  .user-menu-dropdown-img {
+    position: relative !important;
+    left: 0 !important;
+    top: 0 !important;
+  }
+}
+
+.slide-out-animation {
+  -webkit-animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-name: slideOut;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.slide-in-animation {
+  -webkit-animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-name: slideIn;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.opacity-0 {
+  -webkit-animation-fill-mode: forwards;
+  animation-duration: 0.5s;
+  animation-name: fadeout;
+}
+
+.notifications-wrapper {
+  overflow: auto;
+}
+
+.notifications-wrapper::-webkit-scrollbar {
+  width: 10px;
+}
+
+.notifications-wrapper::-webkit-scrollbar-track {
+  background-color: #e4e4e4;
+  border-radius: 100px;
+}
+
+.notifications-wrapper::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  color: #c1c1c1;
+  background-color: #c1c1c1;
+}
+
+@keyframes slideIn {
+  from {
+    margin-left: -78%;
+  }
+  to {
+    margin-left: 0;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    margin-left: 0;
+  }
+  to {
+    margin-left: -78%;
+  }
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@media only screen and (max-width: 62.5em) {
+  .notification-menu-dropdown-icon > .notification-icon,
+  .notification-menu-dropdown-app-logo > img,
+  .user-menu-dropdown-app-logo > img {
+    top: auto !important;
+    left: auto !important;
+  }
+
+  .notification-menu-dropdown-app-logo img {
+    bottom: 5px !important;
+    right: 5px !important;
+  }
+}

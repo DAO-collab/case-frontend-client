@@ -1,0 +1,11 @@
+{
+  "post_user": "Cuir luchd-cleachdaidh ris",
+  "put_user": "Atharraich luchd-cleachdaidh",
+  "put_user_status": "Atharraich inbhe luchd-cleachdaidh",
+  "post_case": "Cruthaich c\u00f9isean",
+  "put_case": "Atharraich c\u00f9isean",
+  "post_case_permission": "S\u00f2nraich luchd-cleachdaidh gu c\u00f9isean",
+  "put_case_permission": "Atharraich luchd-cleachdaidh a chaidh a sh\u00f2nrachadh do ch\u00f9isean",
+  "post_case_post": "Cruthaich puist c\u00f9ise",
+  "delete_case_permission": "Thoir air falbh luchd-cleachdaidh a chaidh a sh\u00f2nrachadh do ch\u00f9isean"
+}

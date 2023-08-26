@@ -1,0 +1,69 @@
+<section class="carousel">
+  <ol class="carousel__viewport" [@slideAnimation]="index">
+    <ng-template ngFor [ngForOf]="testimonials" let-testimonial let-i="index">
+      <li class="carousel__item carousel__mobile" *ngIf="isTestimonialndex(i)" #mobileSlides>
+        <img [src]="testimonial.imgSrc" class="image" [alt]="testimonial.name" />
+        <q class="quote" [innerHTML]="testimonial.quote | translate"></q>
+        <div class="details">
+          <span class="overlay-a text-uppercase strong">{{ testimonial.name | translate }}</span>
+          <span>, &nbsp;</span>
+          <span [innerHTML]="testimonial.grade | translate"></span>
+        </div>
+      </li>
+    </ng-template>
+
+    <ng-container *ngFor="let testimonial of testimonials; let i = index">
+      <li class="carousel__item carousel__desktop" *ngIf="isTestimonialndex(i)">
+        <div class="first-item slide-element">
+          <img [src]="testimonials[i].imgSrc" class="image" [alt]="testimonials[i].name" />
+          <q class="quote" [innerHTML]="testimonials[i].quote | translate"></q>
+          <div class="details">
+            <span class="overlay-a text-uppercase strong">{{ testimonials[i].name | translate }}</span>
+            <span>, &nbsp;</span>
+            <span [innerHTML]="testimonials[i].grade | translate"></span>
+          </div>
+        </div>
+
+        <div class="second-item slide-element">
+          <img [src]="testimonials[i + 1]?.imgSrc" class="image" [alt]="testimonials[i + 1]?.name" />
+          <q class="quote" [innerHTML]="testimonials[i + 1]?.quote | translate"></q>
+          <div class="details">
+            <span class="overlay-a text-uppercase strong">{{ testimonials[i + 1]?.name | translate }}</span>
+            <span>, &nbsp;</span>
+            <span [innerHTML]="testimonials[i + 1]?.grade | translate"></span>
+          </div>
+        </div>
+      </li>
+    </ng-container>
+  </ol>
+
+  <!--  <button class="navigation__button navigation__button&#45;&#45;left" (click)="prevTestimonial()">-->
+  <!--    <svg class="icon icon-caret-left">-->
+  <!--      <use xlink:href="images/icons/sprite.svg#icon-caret-left"></use>-->
+  <!--    </svg>-->
+  <!--  </button>-->
+
+  <!--  <button class="navigation__button navigation__button&#45;&#45;right" (click)="nextTestimonial()">-->
+  <!--    <svg class="icon icon-caret-right">-->
+  <!--      <use xlink:href="images/icons/sprite.svg#icon-caret-right"></use>-->
+  <!--    </svg>-->
+  <!--  </button>-->
+</section>
+
+<ol class="navigation__list">
+  <ng-container *ngFor="let testimonial of testimonials; index as i">
+    <li
+      class="navigation__dot desktop__dot"
+      *ngIf="i % 2 === 0"
+      (click)="setTestimonialIndex(i)"
+      [ngClass]="{ active: isTestimonialndex(i) }"
+    ></li>
+  </ng-container>
+
+  <li
+    class="navigation__dot mobile__dot"
+    *ngFor="let testimonial of testimonials; index as i"
+    (click)="setTestimonialIndex(i)"
+    [ngClass]="{ active: isTestimonialndex(i) }"
+  ></li>
+</ol>

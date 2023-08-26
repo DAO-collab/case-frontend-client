@@ -1,0 +1,573 @@
+input {
+    color: #3f3f3f;
+    font-family: Proxima, Arial, Helvetica, sans-serif;
+    line-height: 2.2;
+    
+}
+#nav #language input,
+#user form > div input,
+#nav-f > form > div input {
+  display: block;
+  width: 100%;
+  height: 40px;
+  padding-left: 38px;
+  background: #f8fafb;
+}
+
+#sub {
+    .semantic-select .input,
+    select {
+        min-width: 205px;
+    }
+    input {
+        float: left;
+        height: 40px;
+    }
+    .date-input {
+        display: block;
+        float: left;
+        width: 150px;
+    }
+    form:first-child .semantic-select .input,
+    form:first-child select {
+        min-width: 165px;
+    }
+
+    .semantic-select .input,
+    .semantic-select ul,
+    input,
+    textarea {
+        display: block;
+        width: 100%;
+        border-color: #dbdbdb;
+        background: #f8fafb;
+        color: #667074;
+    }
+}
+
+#nav-f > form > p input {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    height: 40px;
+    padding-right: 46px;
+    background: none;
+    font-weight: 700;
+}
+
+.module-d {
+    input,
+    select,
+    textarea,
+    .semantic-select .input,
+    .semantic-select ul {
+        display: block;
+        width: 100%;
+        border-color: #dbdbdb;
+        background: #f8fafb;
+        color: #667074;
+    }
+} 
+
+#root .module-d input,
+#sub input {
+  height: 40px;
+}
+
+.lt-ie9 .module-d input {
+  line-height: 38px;
+}
+
+.news-e input,
+.news-e textarea {
+  background: #f8fafb;
+}
+
+.module-d input.a {
+    width: 100%;
+}
+
+.link-a label input {
+    position: absolute;
+    left: -3000em;
+    top: 0;
+}
+
+#root .list-g input {
+    display: block;
+    float: right;
+    width: 70px;
+    margin: -10px 0 5px;
+}
+
+input,
+select,
+textarea {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  border-radius: 0;
+  font-size: 1em;
+  line-height: normal;
+  text-align: left;
+  text-transform: none;
+  outline: none;
+}
+
+input,
+select,
+textarea,
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+input[type='search'],
+input[type='number'] {
+  -moz-appearance: textfield;
+  -webkit-appearance: textfield;
+  appearance: textfield;
+}
+
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button,
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button,
+input::-webkit-clear-button,
+input::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+  visibility: hidden !important;
+  height: auto;
+  margin: 0;
+}
+
+input::-o-outer-spin-button,
+input::-o-inner-spin-button {
+  -o-appearance: none;
+  margin: 0;
+} 
+
+input[type='checkbox'],
+input[type='radio'] {
+  height: auto;
+  padding: 0;
+  border: 0;
+  background: none;
+  line-height: 1;
+}
+
+input[type='color'] {
+  padding: 0;
+  cursor: pointer;
+}
+
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  display: block;
+  overflow: visible;
+  position: relative;
+  z-index: 3;
+  height: auto;
+  margin: 0;
+  box-shadow: none;
+  text-transform: none;
+  text-indent: 0;
+  cursor: pointer;
+  outline: none;
+  -webkit-appearance: button;
+  -webkit-font-smoothing: inherit;
+}
+
+input::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+    outline: none;
+  }
+
+  button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'],
+a.btn {
+  display: block;
+  overflow: hidden;
+  float: left;
+  height: auto;
+  margin: 20px 0 0;
+  padding: 16px 30px 14px;
+  border-radius: 4px;
+  border: 1px solid #16b0c5;
+  background: #16b0c5;
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+button:hover,
+input[type='button']:hover,
+input[type='reset']:hover,
+input[type='submit']:hover,
+a.btn:hover,
+.color-picker .input a:hover {
+  border-color: #1296a8;
+  background: #1296a8;
+}
+
+
+::-webkit-input-placeholder {
+    opacity: 1;
+    color: inherit;
+  }
+  
+  ::-moz-placeholder {
+    opacity: 1;
+    color: inherit;
+  }
+  
+  :-moz-placeholder {
+    opacity: 1;
+    color: inherit;
+  }
+  
+  :-ms-input-placeholder {
+    opacity: 1;
+    color: inherit;
+  }
+  
+  :focus::-webkit-input-placeholder {
+    opacity: 0;
+  }
+  
+  :focus::-moz-placeholder {
+    opacity: 0;
+  }
+  
+  :focus:-moz-placeholder {
+    opacity: 0;
+  }
+  
+  :focus:-ms-placeholder {
+    opacity: 0;
+  }
+  
+/* tww: this is to fix Safari not padding below the Save/Cancel buttons */
+input[type='color'],
+input[type='date'],
+input[type='datetime'],
+input[type='datetime-local'],
+input[type='email'],
+input[type='month'],
+input[type='number'],
+input[type='password'],
+input[type='range'],
+input[type='search'],
+input[type='tel'],
+input[type='text'],
+input[type='time'],
+input[type='url'],
+input[type='week'] {
+  height: 50px;
+  padding: 0 19px;
+}
+
+input[type='color'] {
+  padding: 0;
+  cursor: pointer;
+}
+
+.lt-ie9 input[type='date'],
+.lt-ie9 input[type='datetime'],
+.lt-ie9 input[type='datetime-local'],
+.lt-ie9 input[type='email'],
+.lt-ie9 input[type='month'],
+.lt-ie9 input[type='number'],
+.lt-ie9 input[type='password'],
+.lt-ie9 input[type='range'],
+.lt-ie9 input[type='search'],
+.lt-ie9 input[type='tel'],
+.lt-ie9 input[type='text'],
+.lt-ie9 input[type='time'],
+.lt-ie9 input[type='url'],
+.lt-ie9 input[type='week'] {
+  line-height: 48px;
+}
+
+.color-picker .input a {
+    display: block;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    z-index: 10;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    background: #16b0c5;
+    color: #fff;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+
+  .color-picker input {
+    display: block;
+    padding-right: 38px;
+  }
+  
+  .date-input,
+  .time-input {
+    display: block;
+    position: relative;
+    border-radius: 4px;
+  }
+  input, select, textarea, .semantic-select .input {
+    border-radius: 4px;
+    border: 1px solid #dadada;
+    background: #fff;
+    color: #848484;
+    font-size: 1em;
+}
+  
+  .date-input:before {
+    content: '\e933';
+    display: block;
+    position: absolute;
+    right: 7px;
+    top: 50%;
+    z-index: 1;
+    width: 20px;
+    height: 30px;
+    margin: -15px 0 0;
+    color: #777e81;
+    font-size: 18px;
+    font-family: i;
+    line-height: 30px;
+  }
+  
+  #root .date-input input,
+  #root .time-input input {
+    position: relative;
+    z-index: 2;
+    padding-right: 35px;
+    background: none;
+  }
+  
+  #root .module-d .date-input,
+  #root .form-d .date-input,
+  #root #sub .date-input,
+  #root .module-d .time-input,
+  #root .form-d .time-input,
+  #root #sub .time-input {
+    background: #f8fafb;
+  }
+  
+  .time-input:before {
+    content: '\ea1b';
+    display: block;
+    position: absolute;
+    right: 7px;
+    top: 50%;
+    z-index: 1;
+    width: 20px;
+    height: 30px;
+    margin: -15px 0 0;
+    color: #777e81;
+    font-size: 18px;
+    font-family: i;
+    line-height: 30px;
+  }
+  
+  .input-a {
+    position: relative;
+    padding: 20px;
+    border-radius: 4px;
+    border: 1px solid #dbdbdb;
+    background: #f0f3f5;
+  }
+  
+  .input-a label {
+    float: left;
+    margin-right: 16px;
+    line-height: 40px;
+  }
+  
+  .input-a .select,
+  .input-a .semantic-select-wrapper {
+    display: block;
+    float: left;
+    min-width: 200px;
+    margin-right: 20px;
+    font-weight: 700;
+  }
+  
+  .input-a button,
+  .input-a a.btn {
+    min-width: 80px;
+    margin-top: 5px;
+  }
+  
+  .input-a img {
+    display: block;
+    position: absolute;
+    right: -10px;
+    bottom: -1px;
+  }
+
+  .input-remove {
+    display: block;
+    position: relative;
+    padding-right: 30px;
+  }
+  
+  .input-remove > a {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 30px;
+    height: 100%;
+    color: #b4bcbe;
+    text-indent: -3000em;
+    text-align: left;
+  }
+  
+  .input-remove > a:before {
+    content: '\e953';
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin: -15px 0 0;
+    color: #b4bcbe;
+    font-size: 20px;
+    font-family: i;
+    line-height: 30px;
+    text-indent: 0;
+    text-align: right;
+  }
+
+.form-d input,
+.form-d select,
+.form-d textarea,
+.form-d .semantic-select .input,
+.form-d .ng-autocomplete .autocomplete-container .input-container input,
+.form-d .semantic-select ul,
+.form-e input,
+.form-e select,
+.form-e textarea,
+.form-e .semantic-select .input,
+.form-e .semantic-select ul {
+  display: block;
+  width: 100%;
+  border-color: #dbdbdb;
+  background: #f8fafb;
+  color: #667074;
+}
+
+.ng-select.ng-select-single:not(.ng-select-disabled) .ng-select-container,
+.ng-select.ng-select-multiple:not(.ng-select-disabled) .ng-select-container,
+.form-control[readonly] {
+  background: #f8fafb;
+}
+
+.ng-select.form-control-bg.ng-select-single:not(.ng-select-disabled) .ng-select-container,
+.ng-select.form-control-bg.ng-select-multiple:not(.ng-select-disabled) .ng-select-container {
+  background: transparent;
+}
+
+.ng-dropdown-panel .ng-dropdown-panel-items .ng-option {
+  color: var(--host-text-color, #000);
+}
+
+.ng-dropdown-panel .ng-dropdown-panel-items .ng-option:hover {
+  color: #fff;
+}
+
+#root .form-d input,
+#root .form-e input {
+  height: 40px;
+  font-size: 14px;
+}
+
+.lt-ie9 #root .form-d input,
+.lt-ie9 #root .form-e input {
+  line-height: 38px;
+}
+
+.form-d .strong input,
+.form-d .strong textarea,
+.form-d .strong select {
+  font-weight: 700;
+}
+#root .form-f input,
+#root .form-f select,
+#root .form-f .semantic-select .input {
+  box-shadow: none;
+  border-radius: 0;
+  border-color: rgba(0, 0, 0, 0);
+  background: none;
+  font-style: italic;
+  font-weight: 400;
+}
+#root .form-f p.strong select,
+#root .form-f p.strong input,
+#root .form-f p.strong .semantic-select .input {
+  font-style: normal;
+  font-weight: 700;
+}
+
+table input,
+table select,
+table textarea {
+  display: block;
+  width: auto;
+}
+
+td.input {
+  padding-right: 20px;
+}
+
+table input[type='color'],
+table input[type='date'],
+table input[type='datetime'],
+table input[type='datetime-local'],
+table input[type='email'],
+table input[type='month'],
+table input[type='number'],
+table input[type='password'],
+input[type='range'],
+table input[type='search'],
+table input[type='tel'],
+table input[type='text'],
+table input[type='time'],
+table input[type='url'],
+table input[type='week'] {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.mdc-switch {
+  border-radius: var(--mdc-switch-track-shape, 7px);
+  min-width: 0 !important;
+  padding: 0 !important;
+  overflow: visible !important;
+}
+
+input#activePageNumber {
+  padding: 0;
+}

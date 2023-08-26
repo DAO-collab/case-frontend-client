@@ -1,0 +1,33 @@
+.field-label {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.submit {
+  display: flex;
+  justify-content: space-between;
+}
+
+.submit button {
+  margin: 0;
+}
+
+.domain-name-label {
+  margin-top: 20px;
+}
+
+.input-field {
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+
+.enterprise-host-id-error {
+  margin-top: 20px;
+}
+
+.no-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}

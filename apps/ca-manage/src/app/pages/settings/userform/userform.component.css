@@ -1,0 +1,220 @@
+.checkbox-container {
+  position: relative;
+}
+
+span.cbx-lable {
+  margin-left: 30px;
+}
+
+
+table.table-a input,
+table.table-a app-error.notice-a.show {
+  width: 90%;
+}
+
+
+select#mdc {
+  width: calc(100% - 280px);
+  clear: left;
+  float: left;
+  -webkit-appearance: menulist;
+}
+
+a.btn.cform-type-add {
+  float: left;
+  position: relative;
+  z-index: 9;
+  margin-left: 25px;
+  margin-top: 5px;
+  margin-right: 0;
+}
+
+p.submit.right-float-btn {
+  width: 80px;
+  float: left;
+  clear: none;
+  border: 0;
+  margin-top: 15px;
+}
+
+.no-options {
+  border-top: 1px solid #dbdbdb;
+  padding-top: 15px;
+}
+
+i.icon-document-text.table-td-icon {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.notValid * {
+  color: #e74242;
+}
+
+.table-a tr > .draggable-point {
+  width: 3%;
+}
+
+td.dragg-texture {
+  cursor: all-scroll;
+  position: relative;
+}
+
+td.dragg-texture i {
+  position: absolute;
+  top: 50%;
+  margin-top: -8px;
+}
+
+.table-a td {
+  line-height: 35px;
+}
+
+.drag-target-border {
+  border-bottom: 1px solid #333;
+}
+
+td.default-edit i {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  color: #bebdbd;
+  transition-duration: 0.1s;
+}
+.align-icon-edit {
+  cursor: pointer;
+}
+
+#sub {
+  border-top: none !important;
+  padding-top: 0px !important;
+}
+
+#sub:before {
+  border-top: none !important;
+}
+.items {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -20px;
+}
+
+.btn-item {
+  text-transform: none;
+  padding-left: 10px !important;
+}
+
+.disable-btn a {
+  background-color: white !important;
+  border: 1px solid #dbdbdb;
+  color: #9ba1a3;
+}
+
+td.default-edit {
+  position: relative;
+}
+
+td.default-edit i:hover {
+  color: #333;
+}
+
+.box-inner td {
+  border: 0;
+}
+
+.form-d .options-list {
+  margin-bottom: 0;
+}
+
+.table-draggable-list {
+  width: 100% !important;
+  overflow: hidden;
+}
+
+.table-draggable-list-box {
+  box-sizing: border-box;
+  background: white;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  height: inherit;
+}
+
+.table-draggable-list-item {
+  min-width: 50px !important;
+}
+
+.cdk-drag-preview {
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+  padding: 4px;
+}
+
+.example-list.cdk-drop-list-dragging .example-box:not(.cdk-drag-placeholder) {
+  transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+@media screen and (max-width: 760px) {
+  .items {
+    margin-top: 20px !important;
+  }
+}
+
+@media screen and (max-width: 47.5em) {
+  .items {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .btn-item a {
+    font-size: 10px !important;
+  }
+}
+
+/* On screens that are 570px or more */
+@media screen and (min-width: 570px) {
+  .table-draggable-list-item {
+    min-width: 60px !important;
+  }
+}
+
+/* On screens that are 600px or more */
+@media screen and (min-width: 600px) {
+  .table-draggable-list-item {
+    min-width: 67px !important;
+  }
+}
+
+/* On screens that are 680px or more */
+@media screen and (min-width: 680px) {
+  .table-draggable-list-item {
+    min-width: 78px !important;
+  }
+}
+
+/* On screens that are 1000px or more */
+@media screen and (min-width: 1000px) {
+  .table-draggable-list-item {
+    min-width: 110px !important;
+  }
+}
+
+/* On screens that are 1200px or more */
+@media screen and (min-width: 1200px) {
+  .table-draggable-list-item {
+    min-width: 132px !important;
+  }
+}
+
+.add-post-popup {
+  transform: none !important;
+  left: 0;
+  right: 0;
+  height: max-content !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: -300px !important;
+}

@@ -1,0 +1,146 @@
+<form class="popup-a a form-d shown" [ngClass]="{ touchedSubmit: addUserFormTouched }" [formGroup]="userAddForm!">
+  <div class="box-outer modal-bg">
+    <div class="box-inner">
+      <a class="close" (click)="cancelNewUserData()"></a>
+
+      <h2 translate>Add {{ usersService.userType }}</h2>
+
+      <label style="font-size: 14px" [for]="usernameType" translate
+        >Let's start by entering the email or phone number</label
+      >
+      <div class="username-field-wrap">
+        <span #usernameTypesMenuToggle class="username-type" (click)="showUsernameTypeFilter = !showUsernameTypeFilter"
+          >{{ usernameType }}
+          <div #usernameTypesMenu class="username-type-filters" [ngClass]="{ on: showUsernameTypeFilter }">
+            <div class="filter-item" (click)="usernameTypeChange(UsernameType.Email)" translate>Email</div>
+            <div class="filter-item" (click)="usernameTypeChange(UsernameType.Phone)" translate>Phone</div>
+          </div>
+        </span>
+        <p *ngIf="usernameType === UsernameType.Email">
+          <input id="email" type="text" formControlName="username" placeholder="Email Address" />
+          <span
+            class="error-msg"
+            *ngIf="
+              userAddForm?.controls?.['username']?.invalid &&
+              (userAddForm?.controls?.['username']?.value.dirty || userAddForm?.controls?.['username']?.touched)
+            "
+            >&#8226;<span style="margin-left: 2px" translate>Invalid email entered</span></span
+          >
+        </p>
+        <p *ngIf="usernameType === UsernameType.Phone">
+          <!-- <international-phone-number
+            class="full-width"
+            formControlName="phone"
+            [defaultCountry]="defaultCountry"
+            (onCountryCodeChanged)="onCountryCodeChange($any($event))"
+            (keydown)="onKeyDown($event)"
+          ></international-phone-number> -->
+          <ngx-intl-tel-input
+              id="phoneNumberInput"
+              formControlName="phone"
+              [maxlength]="15"
+              [preferredCountries]="preferredCountries"
+              [enableAutoCountrySelect]="false"
+              [enablePlaceholder]="true"
+              [searchCountryFlag]="true"
+              [searchCountryField]="[
+                SearchCountryField.Iso2,
+                SearchCountryField.Name
+              ]"
+              [selectFirstCountry]="false"
+              [phoneValidation]="false"
+              [separateDialCode]="true"
+              [numberFormat]="PhoneNumberFormat.International"
+              (countryChange)="onCountryCodeChange($event)"
+              name="phoneNumberInput"
+            ></ngx-intl-tel-input>
+          <span
+            class="error-msg"
+            *ngIf="
+              userAddForm?.controls?.['phone']?.invalid
+            "
+            >&#8226;<span style="margin-left: 2px" translate>Invalid phone number entered</span></span
+          >
+        </p>
+      </div>
+      <p *ngIf="showRegisterInfo">
+        <span class="half-width-inside">
+          <span>
+            <label for="given_name" translate></label>
+            <input
+              #givenNameF
+              (focusout)="addUserFormTouched = true"
+              type="text"
+              id="given_name"
+              class="form-control"
+              placeholder="{{ 'First Name' | translate }}"
+              formControlName="given_name"
+            />
+            <app-error
+              [fieldValue]="userAddForm?.get('given_name')?.value"
+              [field]="givenNameF"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: true }"
+            >
+            </app-error>
+          </span>
+
+          <span>
+            <label for="family_name" translate></label>
+            <input
+              #familyNameF
+              (focusout)="addUserFormTouched = true"
+              type="text"
+              id="family_name"
+              class="form-control"
+              placeholder="{{ 'Last Name' | translate }}"
+              formControlName="family_name"
+            />
+            <app-error
+              [fieldValue]="userAddForm?.get('family_name')?.value"
+              [field]="familyNameF"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: true }"
+            >
+            </app-error>
+          </span>
+        </span>
+        <span *ngIf="showTagId">
+          <label for="tagId" translate></label>
+          <input
+            type="text"
+            id="tagId"
+            class="form-control"
+            placeholder="{{ 'Tag ID' | translate }}"
+            formControlName="host_tag_id"
+          />
+          <span class="form-hint" translate>A label to easily find a case. it cannot be changed later</span>
+        </span>
+      </p>
+      <p class="submit">
+        <button
+          [disabled]="
+            (userAddForm?.controls?.['username']?.invalid && userAddForm?.controls?.['phone']?.invalid) ||
+            userAddForm?.controls?.['family_name']?.invalid ||
+            userAddForm?.controls?.['given_name']?.invalid
+          "
+          (click)="addUserToHost()"
+          translate
+          class="f-right"
+          translate
+        >
+          Save
+        </button>
+        <button type="reset" translate class="f-right cancel-btn" (click)="cancelNewUserData()">
+          <a>Cancel</a>
+        </button>
+      </p>
+      <div class="redirect-links-container">
+        {{ 'Have many users?' | translate }}
+        <a (click)="openImportsModal()" translate>{{ 'Import users' | translate }}</a>
+        {{ 'or' | translate }}
+        <a (click)="redirectToSettingsPage()" translate>{{ 'Send them a signup link.' | translate }}</a>
+      </div>
+    </div>
+  </div>
+</form>

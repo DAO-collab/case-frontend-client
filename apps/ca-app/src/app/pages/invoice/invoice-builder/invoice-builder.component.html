@@ -1,0 +1,145 @@
+<header class="heading-b has-link-a invoice-header" *ngIf="!loading">
+  <h2 class="invoice-header-title" translate>
+    <span class="invoice-wording" translate>Invoice</span>
+    <img src="../../../../images/arrow-right-dark.svg" alt="" />
+    <span>{{ shorTitleName(invoiceModel.name, 80) }}</span>
+  </h2>
+  <div *ngIf="invoiceModel.published === 0" class="invoice-buttons">
+    <ca-button [text]="isEditMode ? ('Preview' | translate) : ('Edit'| translate)" [isHovered]="true" (btnClick)="toggleEditMode()" [fontWeight]="600" margin="0 5px 0 0"></ca-button>
+    <ca-button [text]="('Save & Close' | translate)" [isHovered]="true" [fontWeight]="600" appPublishPopUp (publish)="togglePublished(invoiceModel, true)" (later)="goToInvoice()" [title]="'Publish Invoice'" [message]="'Would you like to publish this Invoice? This action is irreversible, and the invoice can\'t be deleted.'"></ca-button>
+  </div>
+  <div *ngIf="invoiceModel.published === 1" class="invoice-buttons">
+    <button class="primary-outline custom-color-builder-button" (click)="toggleEditMode()">
+      {{ isEditMode ? ('Preview' | translate) : ('Edit' | translate) }}
+    </button>
+    <button class="primary-outline custom-color-builder-button btn-save-close" (click)="goToInvoice()" translate>
+      Save & Close
+    </button>
+  </div>
+</header>
+<div class="module-d invoice-block" *ngIf="!loading">
+  <form method="post" class="invoice-builder-form" [formGroup]="builderForm" *ngIf="isEditMode">
+    <!--    [ngClass]="{ touchedSubmit: addFieldFormTouched }"-->
+    <div class="invoice-flex">
+      <div class="invoice-flex-content">
+        <label for="po_number" class="invoice-builder-label invoice-list-title bold" translate>PO No:</label>
+        <input type="text" id="po_number" class="invoice-input-font" formControlName="po_number" />
+      </div>
+      <div class="invoice-flex-content">
+        <label for="reference_id" class="invoice-builder-label invoice-list-title bold" translate>Reference ID:</label>
+        <input type="text" id="reference_id" class="invoice-input-font" formControlName="reference_id" />
+      </div>
+    </div>
+    <div class="invoice-flex">
+      <div class="invoice-flex-content">
+        <label for="term" class="invoice-builder-label mt invoice-list-title bold" translate>Term:</label>
+        <textarea
+          name="term"
+          id="term"
+          class="builder-textarea"
+          cols="30"
+          rows="10"
+          formControlName="terms"
+          #resizeTextarea
+          (resize)="resizeEvent($event)"
+        >
+        </textarea>
+      </div>
+      <div class="invoice-flex-content">
+        <label for="note" class="invoice-builder-label mt invoice-list-title bold" translate>Note:</label>
+        <textarea
+          name="term"
+          id="note"
+          class="builder-textarea"
+          cols="30"
+          rows="10"
+          formControlName="notes"
+          #resizeTextarea
+          (resize)="resizeEvent($event)"
+        >
+        </textarea>
+      </div>
+    </div>
+    <table class="mt">
+      <tr class="invoice-table-tr">
+        <th class="invoice-list-title" translate>Type</th>
+        <th class="invoice-list-title" translate>Description</th>
+        <th class="invoice-list-title" translate>QTY</th>
+        <th class="invoice-list-title" translate>Price</th>
+        <th class="table-total-th invoice-list-title"></th>
+      </tr>
+      <ng-container *ngFor="let transactionsForm of transactionsControls; let index = index">
+        <tr class="invoice-table-tr" [formGroup]="transactionsForm">
+          <td class="builder-table-cell-1">
+            <ng-select
+              bindLabel="text"
+              bindValue="id"
+              [items]="priceItems"
+              formControlName="transaction_type"
+            ></ng-select>
+          </td>
+          <td class="builder-table-cell-2">
+            <input type="text" class="invoice-table-input" formControlName="description" />
+          </td>
+          <td class="builder-table-cell-3">
+            <input type="number" class="invoice-table-input" formControlName="quantity" />
+          </td>
+          <td class="builder-table-cell-4">
+            <span class="minus-symbol" *ngIf="transactionsForm.value.transaction_type === 'credit'">-</span>
+            <input
+              type="number"
+              class="invoice-table-input"
+              formControlName="value"
+              [ngClass]="{ 'input-with-minus': transactionsForm.value.transaction_type === 'credit' }"
+            />
+          </td>
+          <td class="builder-table-cell-5">
+            <a class="close delete-transaction-button" (click)="removeTransaction(index)"></a>
+          </td>
+        </tr>
+      </ng-container>
+      <tr class="invoice-table-tr">
+        <td class="table-add-more-tr">
+          <span (click)="addTransactionItem()" class="invoice-add-new-button custom-text-color">
+            <span class="icon-plus"></span>
+            <span class="invoice-add-more" translate> Add more</span>
+          </span>
+        </td>
+      </tr>
+    </table>
+    <div class="mt invoice-list" [formGroup]="transactionsInfo">
+      <div class="invoice-list-row bt">
+        <div class="invoice-list-title" translate>Subtotal($)</div>
+        <div class="total-span invoice-list-title bold">${{ calculateSubTotal() }}</div>
+      </div>
+      <div class="invoice-list-row bt-none">
+        <div class="invoice-list-title" translate>Discount(%)</div>
+        <div>
+          <input type="number" class="invoice-list-input" formControlName="discount" />
+        </div>
+      </div>
+      <div class="invoice-list-row bt-none">
+        <div class="invoice-list-title" translate>TAX(%)</div>
+        <div>
+          <input type="number" class="invoice-list-input" formControlName="tax" />
+        </div>
+      </div>
+      <div class="invoice-list-row bb bt-none">
+        <div class="invoice-list-title bold" translate>Total($)</div>
+        <div class="total-span invoice-list-title bold">${{ calculateTotal() }}</div>
+      </div>
+    </div>
+  </form>
+  <app-invoice-preview *ngIf="!isEditMode" [invoice]="invoiceModel"></app-invoice-preview>
+  <div class="double submit invoice-submit-button" [ngClass]="{ 'invoice-preview-submit-button': !isEditMode }"></div>
+</div>
+
+<div *ngIf="loading">
+  <p class="text-center" translate>
+    <span class="loader loader-bubbles">
+      <span></span>
+    </span>
+  </p>
+</div>
+
+<ng-container *ngIf="formChanges$ | async"></ng-container>

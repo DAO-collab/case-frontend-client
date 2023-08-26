@@ -1,0 +1,78 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Kako dodijeliti, izmijeniti ili ukloniti korisničke dodjele pomoću alata za uvoz
+</h1>
+<p>Ovaj članak pokazuje administratorima kako upravljati korisnicima slučaja pomoću alata za uvoz.</p>
+<p>Admini mogu:</p>
+<ul>
+  <li>dodijeliti korisnike predmetu</li>
+  <li>modificirati korisnike koji su već dodijeljeni predmetu</li>
+  <li>ukloniti korisnike dodijeljene predmetu</li>
+</ul>
+<h2 id="opening-the-import-tool">Otvaranje alata za uvoz</h2>
+<ol style="list-style-type: decimal">
+  <li>Prijavite se na administratorski nalog.</li>
+  <li>Pronađite aplikaciju na stranici Aplikacije i kliknite na dugme ADMIN.</li>
+  <li>Kliknite na karticu Integracija, a zatim na IMPORTS u podmeniju.</li>
+  <li>Kliknite na dugme NOVO. Prikazuje se dijalog Dodaj uvoz.</li>
+</ol>
+<h2 id="creating-records">Kreiranje zapisa</h2>
+<p>
+  Preuzmite jednu ili više CSV datoteka. Koristite ove datoteke za dodavanje, izmjenu ili uklanjanje korisnika slučaja.
+  Nakon što se otvori dijaloški okvir Dodaj uvoz:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite na polje Vrsta.</li>
+  <li>Pomičite se kroz padajući meni i odaberite opciju (pogledajte ispod). Prikazuje se link.</li>
+  <li>Kliknite na vezu Preuzmi uzorak. CSV fajl se preuzima na vaš uređaj.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>Otvorite datoteku i dodajte zapise. Kliknite ovdje da naučite kako koristiti format podataka u CSV datoteci.</p>
+<h3 id="file-options">Opcije datoteke</h3>
+<p>
+  <strong>Dodjeljivanje korisnika slučajevima</strong> * Odaberite ovu opciju da dodate korisnike predmetu. * Ostavite
+  ćeliju case_role_order praznom. * Idite na stranicu Korisnici i kopirajte ID oznake za ovu osobu. Ako je polje ID
+  oznake prazno, unesite jedinstveni ID, kliknite na Sačuvaj, a zatim kopirajte ID u CSV datoteku.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  <strong>Izmjena korisnika dodijeljenih predmetima</strong> * Odaberite ovu opciju za ažuriranje podataka za trenutne
+  korisnike dodijeljene predmetu. * Koristite ID oznake slučaja za stupac case_ID.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Ukloni korisnike dodijeljene predmetima</strong> * Odaberite ovu opciju da uklonite korisnike dodijeljene
+  predmetu.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Učitavanje fajla</h2>
+<p>Možete odmah otpremiti datoteku ili se kasnije vratiti u okvir za dijalog Dodaj uvoze i dovršiti ove korake.</p>
+<ol style="list-style-type: decimal">
+  <li>Otvorite dijalog Dodaj uvoz.</li>
+  <li>Unesite jedinstveno ime za CSV datoteku.</li>
+  <li>Kliknite na ikonu plus (+) da prenesete datoteku sa svog uređaja.</li>
+  <li>Kliknite na polje Vrsta i odaberite opciju. (vidi gore)</li>
+  <li>Kliknite SAVE.</li>
+</ol>
+<h2 id="processing">Obrada</h2>
+<p>Ovisno o broju zapisa u datoteci i opterećenju sistema, platformi može potrajati nekoliko minuta da obradi uvoz.</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>
+  Kada se uvoz završi, platforma prilagođava korisničke zapise (tj. dodaje, mijenja ili uklanja) na stranici Slučajevi.
+</p>
+<h2 id="failure">Neuspjeh</h2>
+<p>
+  Ako operacija uvoza ne uspije, platforma vraća poruku Neuspješno. U većini slučajeva uzrok kvara je formatiranje
+  podataka.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Da vidite uzrok kvara:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite Pogled ispod naslova Radnja.</li>
+  <li>Na sljedećoj stranici postavite pokazivač miša na ikonu Failed. Alat prikazuje grešku.</li>
+  <li>Idite na CVS datoteku i podesite i popravite grešku.</li>
+  <li>Ponovo otpremite fajl.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

@@ -1,0 +1,106 @@
+<h1 id="how-to-create-users-with-import-tool">インポート ツールでユーザーを作成する方法</h1>
+<p>この記事では、インポート ツールを使用してユーザーを作成する方法を管理者に示します。</p>
+<h2 id="opening-the-import-tool">インポート ツールを開く</h2>
+<p>管理者はインポート ツールを使用して、新しいユーザーを一括アップロードし、既存のユーザー レコードを変更できます。</p>
+<ol style="list-style-type: decimal">
+  <li>管理者アカウントにログインします。</li>
+  <li>[アプリ] ページでアプリを見つけて、[ADMIN] ボタンをクリックします。</li>
+  <li>管理パネルで、[統合] タブをクリックし、サブメニューの [インポート] をクリックします。</li>
+  <li>NEW ボタンをクリックします。 [インポートの追加] ダイアログ ボックスが新しいブラウザ タブに表示されます。</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="画像" />
+  <p class="caption">画像</p>
+</div>
+<h2 id="creating-records">記録の作成</h2>
+<p>[インポートの追加] ダイアログ ボックスが開いたら、次の手順を実行します。</p>
+<ol style="list-style-type: decimal">
+  <li>[<strong>タイプ</strong>] フィールドをクリックし、オプションを選択します (以下を参照)。リンクが表示されます。</li>
+  <li>
+    [<strong>サンプルのダウンロード]</strong>リンクをクリックします。 CSV ファイルがデバイスにダウンロードされます。
+  </li>
+</ol>
+<p>
+  次に、ファイルを開いてレコードを追加します。 CSV ファイルでフォーマット データを使用する方法については、<a
+    href="docs/how-to-format-csv-data"
+    target="_blank"
+    >ここをクリック</a
+  >してください。
+</p>
+<div class="figure">
+  <img src="/images/import-4.png" alt="画像" />
+  <p class="caption">画像</p>
+</div>
+<h2 id="type">タイプ</h2>
+<p>
+  [タイプ] フィールドをクリックすると、ドロップダウン メニューが表示されます。一括インポートの 2
+  つのオプションのいずれかを選択します。
+</p>
+<p>
+  :exclamation:<strong>注意</strong>: ドロップダウン メニューには多くのオプションがありますが、インポート
+  ツールに関連するのは 2 つだけです。各オプションには、異なるサンプル CSV ファイルがあります。
+</p>
+<h3 id="add-users">ユーザーを追加</h3>
+<ul>
+  <li>ユーザー レコードを簡単に一括アップロードするには、このオプションを選択します。</li>
+  <li>
+    [サンプルのダウンロード] リンクをクリックして、[ユーザーの追加] インポート タイプの列見出しを含む CSV
+    ファイルを開きます。
+  </li>
+</ul>
+<h3 id="modify-users">ユーザーを変更する</h3>
+<ul>
+  <li>現在のユーザーのデータを更新するには、このオプションを選択します。</li>
+  <li>
+    [サンプルのダウンロード] リンクをクリックして、[ユーザーの変更] インポート タイプの列見出しを含む CSV
+    ファイルを開きます。
+  </li>
+</ul>
+<h2 id="uploading-the-file">ファイルのアップロード</h2>
+<p>
+  ファイルをすぐにアップロードすることも、後で [インポートの追加] ダイアログ
+  ボックスに戻ってこれらの手順を完了することもできます。
+</p>
+<ol style="list-style-type: decimal">
+  <li>[インポートの追加] ダイアログ ボックスを開きます。</li>
+  <li>CSV ファイルの一意の名前を入力します。</li>
+  <li>プラス (+) アイコンをクリックして、デバイスからファイルをアップロードします。</li>
+  <li>[<strong>タイプ</strong>] フィールドをクリックして、オプションを選択します。 （上記を参照）</li>
+  <li>[保存] をクリックします。</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-5.png" alt="画像" />
+  <p class="caption">画像</p>
+</div>
+<h2 id="processing">処理</h2>
+<p>
+  ファイル内のレコード数とシステム負荷によっては、プラットフォームがインポートを処理するのに数分かかる場合があります。
+</p>
+<div class="figure">
+  <img src="/images/import-6.png" alt="画像" />
+  <p class="caption">画像</p>
+</div>
+<p>
+  インポートが完了すると、プラットフォームは管理者の<strong>ユーザー</strong>ダッシュボードでユーザー
+  レコードを調整します (つまり、追加、変更、または無効化します)。
+</p>
+<h2 id="failure">失敗</h2>
+<p>
+  インポート操作が失敗した場合、プラットフォームは Failed
+  メッセージを返します。ほとんどの場合、失敗の原因はデータのフォーマットです。
+</p>
+<div class="figure">
+  <img src="/images/import-7.png" alt="画像" />
+  <p class="caption">画像</p>
+</div>
+<p>失敗の原因を確認するには:</p>
+<ol style="list-style-type: decimal">
+  <li>[アクション] 見出しの下にある [<strong>表示]</strong>をクリックします。</li>
+  <li>次のページで、[Failed] アイコンにマウスを合わせます。ツールチップにエラーが表示されます。</li>
+  <li>CVS ファイルに移動し、エラーを調整して修正します。</li>
+  <li>ファイルを再度アップロードします。</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-8.png" alt="画像" />
+  <p class="caption">画像</p>
+</div>

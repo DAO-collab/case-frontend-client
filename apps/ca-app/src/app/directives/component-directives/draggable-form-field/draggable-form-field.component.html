@@ -1,0 +1,225 @@
+<app-viewer
+  *ngIf="showViwer"
+  [activeItem]="viewerIndx"
+  [viewiengItems]="viewiengItems"
+  [caseId]="caseId"
+  (onviewerclose)="viewerClosed()"
+></app-viewer>
+
+<div class="d-field-wrapper" #wrapper>
+  <span class="actions-on-field" *ngIf="!disableDragging">
+    <span class="move-button" (click)="tooglePopup()"><img [src]="'../images/icons/icons-dots.svg'" /></span>
+    <div class="sub-menu-popup" *ngIf="showPopup">
+      <p (click)="moveUp()">Move Up</p>
+      <p (click)="moveDown()">Move Down</p>
+    </div>
+  </span>
+
+  <!--  <label style="text-align: left;" translate>{{fieldData.title}} </label>-->
+  <span class="field-content" [ngSwitch]="fieldData.fieldType">
+    <ng-container *ngSwitchCase="'docs'">
+      <div class="cursor-pointer">
+        <p class="notice-a a" *ngIf="!loadMediaThumbInfo(media)">
+          <span>{{ loadMediaStatusInfo(media) }}</span>
+        </p>
+        <div class="bx-wrapper" *ngIf="!!loadMediaThumbInfo(media)">
+          <div class="pages-navigation">
+            <a class="nav-button" (mouseup)="prevDoc()">
+              <i class="icon-arrow-left-outline"></i>
+            </a>
+            <span translate>Page</span> &nbsp;
+            <input
+              type="number"
+              [value]="activeDocPage"
+              (keyup)="switchDocumentPage($any($event.target).value && +$any($event.target).value - 1)"
+            />
+            &nbsp;
+            <span translate>of</span>
+            &nbsp;
+            <span>{{ viewiengItems[viewerIndx].src.length }}</span>
+            <a class="nav-button" (mouseup)="nextDoc()">
+              <i class="icon-arrow-right-outline"></i>
+            </a>
+          </div>
+          <div class="mediaField"><img [src]="viewiengItems[viewerIndx].src[activeDocPage - 1]" /></div>
+        </div>
+      </div>
+    </ng-container>
+    <ng-container *ngSwitchCase="'images'">
+      <div class="cursor-pointer">
+        <p class="notice-a a" *ngIf="!loadMediaThumbInfo(media)">
+          <span translate>{{ loadMediaStatusInfo(media) }}</span>
+        </p>
+        <div class="mediaField">
+          <img (click)="showInViewer(media, 0)" *ngIf="!!loadMediaThumbInfo(media)" [src]="loadMediaThumbInfo(media)" />
+        </div>
+      </div>
+    </ng-container>
+    <ng-container *ngSwitchCase="'dropdown'">
+      <label>Multiple Choice Field:</label>
+      <p>{{ fieldData.title }}</p>
+      <label>Options Field:</label>
+      <ul>
+        <li *ngFor="let item of fieldData.enum">{{ item }}</li>
+      </ul>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'text-only'">
+      <p class="multiline-text">{{ fieldData.description }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'text'">
+      <label>Text Field:</label>
+      <label>Format: {{ fieldData.format }}</label>
+      <p>{{ fieldData.title }}</p>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'multi-text'">
+      <label>Multi Text Field:</label>
+      <p>{{ fieldData.title }}</p>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'multidropdown'">
+      <label>Checkboxes Field:</label>
+      <p>{{ fieldData.title }}</p>
+      <label>Options Field:</label>
+      <ul>
+        <li *ngFor="let item of fieldData.items.enum">{{ item }}</li>
+      </ul>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'checkboxes'">
+      <label>Checkboxes Field:</label>
+      <p>{{ fieldData.title }}</p>
+      <label>Options Field:</label>
+      <ul>
+        <li *ngFor="let item of fieldData.items.enum">{{ item }}</li>
+      </ul>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'options'">
+      <ul class="checklist-d" style="z-index: 9">
+        <li *ngFor="let opt of fieldData.enum; let i = index">
+          <label [for]="fieldData.name" class="radio">
+            <input
+              type="radio"
+              id="{{ fieldData.name }}-{{ i }}"
+              [name]="fieldData.name"
+              [value]="opt"
+              [checked]="opt === fieldData.description"
+              [disabled]="disableEditing"
+              [(ngModel)]="fieldData.description"
+            />
+            {{ opt }}
+            <div class="input"></div>
+          </label>
+        </li>
+      </ul>
+    </ng-container>
+
+    <ng-container class="boolen-field clear-after" *ngSwitchCase="'boolean'">
+      <label class="container">
+        <input
+          type="checkbox"
+          class="form-control"
+          [(ngModel)]="fieldData.description"
+          [checked]="fieldData.description"
+          [disabled]="disableEditing"
+        />
+        <span class="checkmark"></span>
+      </label>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'number'">
+      <label>Number Field:</label>
+      <p>{{ fieldData.title }}</p>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'date'">
+      <label>Date Field:</label>
+      <p>{{ fieldData.title }}</p>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description | date }}</p>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'time'">
+      <label>Time Field:</label>
+      <p>{{ fieldData.title }}</p>
+      <label *ngIf="fieldData.description">Default Answer Field:</label>
+      <p>{{ fieldData.description | time : true }}</p>
+    </ng-container>
+  </span>
+
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding-top: 10px">
+    <span class="{{ fieldParticipants.length > 1 ? 'participant-avatars' : '' }}">
+      <ng-container *ngFor="let participant of fieldParticipants">
+        <img class="round-full" width="20" height="20" [src]="utilsService.userAvatarUrl(participant, 20, '')" />
+      </ng-container>
+    </span>
+    <i class="icon-edit" (mouseup)="$event.stopPropagation()" (click)="runFieldEditingF()"></i>
+    <span class="cursor-pointer" (mouseup)="$event.preventDefault()" (click)="runFieldCopyF()"
+      ><img src="../images/files.png" width="13" alt="files"
+    /></span>
+    <i class="icon-trash" (mouseup)="$event.stopPropagation()" (click)="runFieldDeleteF()"></i>
+    <label style="padding-left: 10px; border-left: 1px solid #dbdbdb">Required</label>
+    <!-- <material-slide-toggle
+      [name]="'slideToggle'"
+      [checked]="fieldData.require"
+      [disabled]="false"
+      [aria-label]="'Toggle On/Off'"
+      [aria-labelledby]="'Some Other Text'"
+      (change)="changeToogle($event)"
+    >
+    </material-slide-toggle> -->
+    <ca-toggle 
+      [checked]="fieldData.require"
+      [disabled]="false"
+      (toggle)="changeToogle($event)"
+    ></ca-toggle>
+    <label style="padding-left: 10px; border-left: 1px solid #dbdbdb">Read Only</label>
+    <material-slide-toggle
+      [name]="'slideReadOnlyToggle'"
+      [checked]="fieldData.readonly"
+      [disabled]="false"
+      [aria-label]="'Toggle On/Off'"
+      [aria-labelledby]="'Some Other Text'"
+      (change)="changeReadOnlyToogle($event)"
+    >
+    </material-slide-toggle>
+  </div>
+
+  <div class="shadow" [hidden]="disableEditing"></div>
+
+  <div
+    *ngIf="!disableDragging"
+    class="top-left dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'top', 'left')"
+  ></div>
+  <div
+    *ngIf="!disableDragging"
+    class="top-right dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'top', 'right')"
+  ></div>
+  <div
+    *ngIf="!disableDragging"
+    class="bottom-left dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'bottom', 'left')"
+  ></div>
+  <div
+    *ngIf="!disableDragging"
+    class="bottom-right dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'bottom', 'right')"
+  ></div>
+</div>

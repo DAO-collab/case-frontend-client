@@ -1,0 +1,189 @@
+<article id="content" class="module-d">
+  <!-- Show when loading -->
+  <app-loader class="clear-both" [active]="loading"></app-loader>
+
+  <!-- Show when user didn't request logs yet -->
+  <div *ngIf="!requested && !loading" class="text-center clear-both">
+    <p translate>No logs requested.</p>
+  </div>
+
+  <!-- Show if user requested logs, but logs amount is Zero -->
+  <div *ngIf="requested && notFound && !loading" class="text-center clear-both">
+    <p translate>Logs list is empty.</p>
+  </div>
+
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="!loading && requested && !notFound">
+      <tr>
+        <th>Log ID</th>
+        <th>Domain</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Filter</th>
+        <th>Status</th>
+        <th>Created On</th>
+        <th width="120">Actions</th>
+      </tr>
+      <tr *ngFor="let logs of allLogs">
+        <td>{{ logs.log_id.split('_')[1] }}</td>
+        <td>{{ logs.domain }}</td>
+        <td>{{ logs.start_date | date : 'M/d/yy' }}</td>
+        <td>{{ logs.end_date | date : 'M/d/yy' }}</td>
+        <td>
+          {{ logs.filter && logs.filter.entity_field_name + ': ' + (logs.filter.entity.user_id || logs.filter.entity) }}
+        </td>
+        <td>{{ logs.status }}</td>
+        <td>{{ logs.created_on | date : 'short' }}</td>
+        <td>
+          <span class="drop-a">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="$event.stopPropagation(); loadLogs(true); logs.refreshing = true">Refresh</a>
+              <a *ngIf="logs.status === 'QUEUED'" (click)="$event.stopPropagation(); cancelLogs(logs.log_id)"
+                >Cancel Request</a
+              >
+              <a *ngIf="logs.status === 'SUCCEEDED'" (click)="downloadFile(logs.log_id, logs.query_id)" translate
+                >Download CSV</a
+              >
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+</article>
+
+<form
+  method="post"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  (submit)="sendLogsRequest(logsRequest)"
+  *ngIf="!loading && activeLogsPopUp"
+  class="popup-a a form-d shown"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 style="z-index: 53" translate>Request Logs</h2>
+      <p>
+        <span>
+          <label class="required" translate>Log Type</label>
+          <ng-select
+            #typeField
+            [items]="selectionLists.appTypes"
+            bindLabel="text"
+            bindValue="id"
+            (change)="onLogType($event); logsRequest.domain_type = 'api'"
+            [placeholder]="'Type' | translate"
+          >
+          </ng-select>
+          <app-error
+            [fieldValue]="logsRequest.domain"
+            [serverErrors]="serverErrors"
+            [field]="typeField"
+            [validationErrors]="validationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+        </span>
+      </p>
+
+      <p>
+        <span class="half-width">
+          <label class="required" translate>Start Date</label>
+          <input
+            type="date"
+            name="start_date"
+            #startField
+            [(ngModel)]="logsRequest.start_date"
+            [minDate]="hostService.createdAppDate!"
+            [maxDate]="today"
+            placeholder="{{ 'Start Date' | translate }}"
+            mwlFlatpickr
+            dateFormat="m/d/Y"
+            [disabled]="blockButtons"
+          />
+          <app-error
+            [fieldValue]="logsRequest.start_date"
+            [serverErrors]="serverErrors"
+            [field]="startField"
+            [validationErrors]="validationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+        </span>
+
+        <span class="half-width">
+          <label for="fdq" class="required" translate>End Date</label>
+          <input
+            type="date"
+            name="end_date"
+            #endField
+            [(ngModel)]="logsRequest.end_date"
+            [minDate]="hostService.createdAppDate!"
+            [maxDate]="today"
+            placeholder="{{ 'End Date' | translate }}"
+            mwlFlatpickr
+            dateFormat="m/d/Y"
+            [disabled]="blockButtons"
+          />
+          <app-error
+            [fieldValue]="logsRequest.end_date"
+            [serverErrors]="serverErrors"
+            [field]="endField"
+            [validationErrors]="validationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+        </span>
+      </p>
+
+      <p *ngIf="logsRequest.domain === 'app'">
+        <label translate>Filter</label>
+        <ng-select
+          name="any-filter"
+          [items]="selectionLists.appFilterTypes"
+          bindLabel="text"
+          bindValue="id"
+          [(ngModel)]="logsRequest.domain_type"
+          [placeholder]="'No Filter' | translate"
+          (change)="loadEntitie(selectionLists.entities, $event)"
+        >
+        </ng-select>
+      </p>
+
+      <p *ngIf="logsRequest.domain === 'manage'">
+        <label translate>Filter</label>
+        <ng-select
+          name="any-filter"
+          [items]="selectionLists.manageFilterTypes"
+          bindLabel="text"
+          bindValue="id"
+          [(ngModel)]="logsRequest.domain_type"
+          [placeholder]="'No Filter' | translate"
+          (change)="loadEntitie(selectionLists.entities, $event)"
+        >
+        </ng-select>
+      </p>
+
+      <p *ngIf="logsRequest.filter.entity_field_name === 'case_id'">
+        <label translate>Select a case</label>
+        <ng-select
+          name="any-case-filter"
+          [items]="entityList!"
+          bindLabel="text"
+          bindValue="id"
+          [(ngModel)]="logsRequest.filter.entity"
+          (change)="onCaseSelect($event)"
+        >
+        </ng-select>
+      </p>
+
+      <p *ngIf="logsRequest.filter.entity_field_name === 'email'">
+        <label translate>Enter the email address</label>
+        <input type="text" name="email-text" class="form-control" [(ngModel)]="logsRequest.filter.entity" required />
+      </p>
+
+      <p class="submit" style="z-index: 45">
+        <button type="submit" class="f-right" [disabled]="blockButtons" translate>Save</button>
+      </p>
+      <a class="close" (click)="canceNewLogsPopUpData()">Close</a>
+    </div>
+    <a class="close" (click)="canceNewLogsPopUpData()">Close</a>
+  </div>
+</form>

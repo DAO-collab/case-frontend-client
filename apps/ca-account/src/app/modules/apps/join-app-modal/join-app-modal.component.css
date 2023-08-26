@@ -1,0 +1,90 @@
+.input-text {
+  position: absolute;
+  z-index: 2;
+  font-size: 14px;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.input-description {
+  margin-bottom: 0;
+}
+
+.input-field {
+  padding-left: 40px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.submit {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0;
+}
+
+.submit-button {
+  margin-right: 0;
+}
+
+.join-app-error-message {
+  display: inline-block;
+  margin-bottom: 40px;
+  color: red;
+  font-size: 12px;
+}
+
+#accept-invitation-content button span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p.submit button[type='submit'] {
+  float: right;
+  margin: 0;
+  line-height: 20px;
+}
+
+div.tabs {
+  border: 0;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+div.tabs ul {
+  border: 0;
+  margin-bottom: 5px;
+  background-color: transparent;
+}
+
+.custom-fields-group h2 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.tabs > ul > li > a {
+  cursor: auto;
+}
+
+.list-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list-group-item {
+  width: calc(50% - 20px);
+}
+
+#accept-invitation-content {
+  height: calc(100% - 80px);
+}
+
+#accept-invitation-content > .popup-page {
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

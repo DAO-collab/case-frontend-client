@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Matagumpay nga gimugna ang app.",
+  "AvatarDeleted": "Malampuson nga nabungkag ang Avatar.",
+  "AvatarUpdated": "Matagumpay nga gi-upload ang Avatar.",
+  "CodeSent": "Usa ka code sa kumpirmasyon gipadala sa imong device.",
+  "DeviceVerified": "Gipamatud-an ang device.",
+  "GlobalLogout": "Paggawas sa tanang mga gamit. Makita nimo sa dili madugay.",
+  "LocalLogout": "Mag-log out sa kini nga device. Makita nimo sa dili madugay.",
+  "PasswordUpdated": "Malampusong na-update ang password.",
+  "ProfileUpdated": "Ang Profile dugay nang na-update.",
+  "SignupPassword": "Ang rekord nagmalampuson.",
+  "TicketSent": "Ang usa ka email gipadala ngadto sa support team."
+}

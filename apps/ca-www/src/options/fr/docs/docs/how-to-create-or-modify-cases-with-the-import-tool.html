@@ -1,0 +1,125 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Comment créer ou modifier des cas avec l&#39;outil d&#39;importation
+</h1>
+<p>
+  Cet article montre aux administrateurs comment créer ou modifier des cas existants avec l&#39;outil d&#39;importation.
+</p>
+<h2 id="opening-the-import-tool">Ouverture de l&#39;outil d&#39;importation</h2>
+<ol style="list-style-type: decimal">
+  <li>Connectez-vous au compte administrateur.</li>
+  <li>Localisez une application sur la page Applications et cliquez sur le bouton ADMIN.</li>
+  <li>
+    Dans le panneau d&#39;administration, cliquez sur l&#39;onglet Intégration, puis sur IMPORTATIONS dans le sous-menu.
+  </li>
+  <li>
+    Cliquez sur le bouton NOUVEAU. La boîte de dialogue Ajouter des importations s&#39;affiche dans un nouvel onglet du
+    navigateur.
+  </li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="image" />
+  <p class="caption">image</p>
+</div>
+<h2 id="creating-cases">Création de cas</h2>
+<p>Une fois la boîte de dialogue Ajouter des importations ouverte :</p>
+<ol style="list-style-type: decimal">
+  <li>Cliquez sur le champ Type et sélectionnez une option (voir ci-dessous). Un lien s&#39;affiche.</li>
+  <li>Cliquez sur le lien Télécharger l&#39;échantillon. Un fichier CSV se télécharge sur votre appareil.</li>
+</ol>
+<p>Ensuite, ouvrez le fichier et ajoutez des cas.</p>
+<h2 id="type">Taper</h2>
+<p>
+  Lorsque vous cliquez sur le champ <strong>Type</strong> , un menu déroulant s&#39;affiche. Choisissez l&#39;une des
+  deux options pour les importations de cas groupés.
+</p>
+<ul>
+  <li>
+    <strong>Remarque</strong> Le menu déroulant comporte de nombreuses options, mais seules deux sont liées à la gestion
+    du cas. Chaque option a un exemple de fichier CSV différent.
+  </li>
+</ul>
+<h3 id="add-cases">Ajouter des cas</h3>
+<ul>
+  <li>Choisissez cette option pour un téléchargement groupé simple de cas.</li>
+  <li>
+    Cliquez sur le lien Télécharger l&#39;exemple pour ouvrir un fichier CSV avec des en-têtes de colonne pour le type
+    d&#39;importation Créer des cas.
+  </li>
+</ul>
+<h3 id="modify-cases">Modifier les cas</h3>
+<ul>
+  <li>Choisissez cette option pour mettre à jour les cas actuels.</li>
+  <li>
+    Cliquez sur le lien Télécharger l&#39;exemple pour ouvrir un fichier CSV avec des en-têtes de colonne pour le type
+    d&#39;importation Modifier les cas.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Téléchargement du fichier</h2>
+<p>
+  Vous pouvez télécharger un fichier immédiatement ou revenir ultérieurement à la boîte de dialogue Ajouter des
+  importations et effectuer ces étapes.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Ouvrez la boîte de dialogue Ajouter des importations.</li>
+  <li>Entrez un nom unique pour le fichier CSV.</li>
+  <li>Cliquez sur l&#39;icône plus (+) pour télécharger le fichier depuis votre appareil.</li>
+  <li>Cliquez sur le champ Type et sélectionnez une option. (voir au dessus)</li>
+  <li>Cliquez sur ENREGISTRER.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="image" />
+  <p class="caption">image</p>
+</div>
+<h2 id="formatting">Mise en page</h2>
+<p>
+  Ce sont les champs obligatoires et les premières exigences. Cliquez
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">ici</a> pour revoir les
+  détails de formatage.
+</p>
+<p>
+  <strong>tag_id (ou case_ID)</strong> un identifiant unique (utilisez des caractères alphanumériques, les traits
+  d&#39;union sont acceptés)
+</p>
+<p><strong>case_status</strong> 0 = fermé 1 = actif</p>
+<p><strong>date_ouverture</strong> mois/jour/année mm/jj/aaaa</p>
+<p>
+  <strong>sur</strong> une description unique du cas (utiliser des caractères alphanumériques, les traits d&#39;union
+  sont acceptés)
+</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="image" />
+  <p class="caption">image</p>
+</div>
+<h2 id="processing">Traitement</h2>
+<p>
+  Selon le nombre d&#39;enregistrements dans le fichier et la charge du système, la plateforme peut prendre plusieurs
+  minutes pour traiter l&#39;importation.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="image" />
+  <p class="caption">image</p>
+</div>
+<p>
+  Une fois l&#39;importation terminée, la plateforme ajuste les enregistrements de cas (c&#39;est-à-dire ajoute ou
+  modifie) sur le tableau de bord des cas de l&#39;administrateur.
+</p>
+<h2 id="failure">Échec</h2>
+<p>
+  Si l&#39;opération d&#39;importation échoue, la plateforme renvoie un message Failed. Dans la plupart des cas, la
+  cause de l&#39;échec est le formatage des données.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="image" />
+  <p class="caption">image</p>
+</div>
+<p>Pour voir la cause de l&#39;échec :</p>
+<ol style="list-style-type: decimal">
+  <li>Cliquez sur Afficher sous l&#39;en-tête ACTION.</li>
+  <li>Sur la page suivante, passez la souris sur l&#39;icône Échec. L&#39;info-bulle affiche l&#39;erreur.</li>
+  <li>Accédez au fichier CVS et ajustez et corrigez l&#39;erreur.</li>
+  <li>Chargez à nouveau le fichier.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="image" />
+  <p class="caption">image</p>
+</div>

@@ -1,0 +1,52 @@
+<app-modal type="form-d" (close)="closeModal()">
+  <h2 style="padding-right: 20px">
+    <span>{{ 'Create Domain' | translate }}</span>
+  </h2>
+
+  <article id="accept-invitation-content">
+    <app-loader [active]="loading"></app-loader>
+
+    <ng-container *ngIf="!loading">
+      <div *ngIf="enterpriseHostIdValues?.length">
+        <div class="custom-fields-group a" [formGroup]="domainsForm">
+          <label class="field-label" for="enterprise_host_id">{{ 'Select enterprise app' | translate }}</label>
+          <ng-select
+            [items]="enterpriseHostIdValues"
+            bindLabel="value"
+            bindValue="id"
+            formControlName="enterprise_host_id"
+            id="enterprise_host_id"
+            [placeholder]="'No item selected' | translate"
+            [closeOnSelect]="true"
+          ></ng-select>
+
+          <p
+            class="required enterprise-host-id-error"
+            app-ca-translate
+            [message]="'Enterprise host ID is required'"
+            *ngIf="!domainsForm.controls['enterprise_host_id'].value && domainsForm.controls['enterprise_host_id'].touched"
+          ></p>
+
+          <label class="field-label domain-name-label" for="domain_name">{{ 'Domain name' | translate }}</label>
+          <input class="input-field" formControlName="domain_name" id="domain_name" type="text" />
+
+          <p
+            class="required"
+            app-ca-translate
+            [message]="'Domain is invalid. Example: example.com'"
+            *ngIf="domainsForm.get('domain_name')?.invalid && domainsForm.controls['domain_name'].touched"
+          ></p>
+        </div>
+
+        <p class="submit">
+          <button type="reset" (click)="closeModal()">{{ 'Cancel' | translate }}</button>
+          <button (click)="addDomain()" [disabled]="domainsForm.invalid">
+            <span>{{ 'Add' | translate }}</span>
+          </button>
+        </p>
+      </div>
+
+      <span class="no-content" *ngIf="!enterpriseHostIdValues?.length" translate>No enterprise app found</span>
+    </ng-container>
+  </article>
+</app-modal>

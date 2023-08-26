@@ -1,0 +1,218 @@
+<article id="content" class="tabs fullscreen-page" [class.module-d]="!sign">
+  <ng-container *ngIf="userService.currentFormsPermissions.indexOf('submit_own') > -1 && !loading">
+    <div style="display: flex; width: 100%">
+      <div class="content-left-panel">
+        <h2 class="left-panel-title" translate>Pages</h2>
+        <div class="content-left-panel-inner">
+          <cdk-virtual-scroll-viewport itemSize="164" minBufferPx="2000" maxBufferPx="2000" style="height: 100%">
+            <div
+              class="doc-page"
+              *cdkVirtualFor="let thumbnailSrc of docThumbnails; let index = index"
+              (click)="switchDocumentPage(index + 1)"
+            >
+              <img alt="" [src]="thumbnailSrc" class="remove-box-shadow" />
+
+              <span>{{ index + 1 }}</span>
+            </div>
+          </cdk-virtual-scroll-viewport>
+        </div>
+      </div>
+      <!-- Form Builder -->
+      <div class="content-main-panel">
+        <div class="header-content">
+          <h2 class="header-breadcrumb">
+            <span translate>Signs</span><img src="../../../../images/arrow-right-dark.svg" alt="#" />
+            <span>{{ shorTitleName($any(title), 40) }}</span>
+          </h2>
+          <div>
+            <button class="primary-outline custom-color-builder-button" (click)="backToSigns()" translate>Close</button>
+          </div>
+        </div>
+        <figure class="page-content-with-toolbar">
+          <div class="doc-toolbar">
+            <!-- Functionality to navigate between document pages -->
+            <div class="pages-navigation">
+              <a class="nav-button" (mouseup)="previousDoc()">
+                <img src="../../../../images/arrow-right-dark.svg" />
+              </a>
+              <span translate>Page</span>
+              &nbsp;
+              <input
+                type="number"
+                id="activePageNumber"
+                class="builder-page-counter"
+                [max]="displayCount"
+                [(ngModel)]="activeDocPage"
+                (change)="switchDocumentPage($any($event.target)?.value)"
+              />
+              &nbsp;
+              <span translate>of</span>
+              &nbsp;
+              <span>{{ displayCount }}</span>
+              <a class="nav-button" (mouseup)="nextDoc()">
+                <img src="../../../../images/arrow-right-dark.svg" />
+              </a>
+            </div>
+            <!-- Zoom functionality -->
+            <div class="zoom-section">
+              <a class="zoom-button" (click)="toggleZoom(true)">
+                <img src="../../../../images/zoom-in.svg" />
+              </a>
+              <a class="zoom-button" (click)="toggleZoom()">
+                <img src="../../../../images/zoom-out.svg" />
+              </a>
+            </div>
+          </div>
+          <div class="text-center form-builder-text-centered">
+            <div
+              class="documents-list"
+              style="height: 100vh; width: 100%; overflow-y: auto"
+              [ngClass]="{ centered: !checkObjectKeys(metaData).length }"
+            >
+              <div class="document-image-wrapper">
+                <div class="pinch-zoom-wrapper" #pinchZoomWrapper>
+                  <pinch-zoom
+                    #myPinch="pinchZoom"
+                    *ngIf="documentLink"
+                    [properties]="{ wheel: false, backgroundColor: '#ffffff', disableZoomControl: 'disable' }"
+                  >
+                    <div [ngClass]="{ hidden: bgImgLoaded == false }">
+                      <img #backgroundImage (load)="onBgImgLoad()" [src]="documentLink" alt="" />
+                    </div>
+
+                    <app-loader [active]="!bgImgLoaded"></app-loader>
+
+                    <app-doc-sign-preview
+                      #fld
+                      *ngFor="let fl of getSchemaListFromUiList(activeDocPage); let i = index; trackBy: elementTrackBy"
+                      [saveModel]="saveModel"
+                      [left]="fl.left || '300px'"
+                      [width]="fl.width || '300px'"
+                      [height]="fl.height || '60px'"
+                      [top]="fl.top || 70 + i * 50 + 'px'"
+                      [fieldKey]="fl.key"
+                      [fieldData]="fl"
+                      [components]="components"
+                      [userField]="userField"
+                      [realVariable]="realVariable"
+                      [scaleNumber]="scale"
+                      [highlightField]="i === highlightFiled.index"
+                      (onChange)="handleSubmission($event)"
+                      [editTable]="true"
+                      [fontSize]="fieldDefaultFontSize"
+                      [tableCellHeight]="fieldDefaultTableCellHeight"
+                      [backgroundSize]="fieldBackgroundSize"
+                      [backgroundWidth]="fieldBackgroundWidth"
+                      [radioButtonSize]="radioButtonSize"
+                    ></app-doc-sign-preview>
+                  </pinch-zoom>
+                </div>
+              </div>
+            </div>
+          </div>
+        </figure>
+      </div>
+      <div class="content-right-panel">
+        <h2 class="right-panel-title" translate>Action Required</h2>
+
+        <div *ngIf="pages.length">
+          <div class="properties-section" *ngFor="let page of pages; let index = index">
+            <div>
+              <span class="property-page-title"><span translate>Page</span> {{ index + 1 }}</span>
+              <div *ngFor="let property of prepareShowingPage(index); let i = index" class="property-section">
+                <!--                <ng-container *ngIf="property.require">-->
+                <div class="cursor-pointer" *ngIf="property.title" (click)="switchDocumentPage(index)">
+                  <label class="container cg-box">
+                    <input
+                      type="checkbox"
+                      name="defaultsField"
+                      class="form-control"
+                      [checked]="isFieldFilled(property)"
+                      disabled
+                    />
+                    <span class="checkmark"></span>
+                  </label>
+                  <!--                    <img src="../../../../images/element-point.svg" />-->
+                  <!-- <span>{{ property.title }}</span> -->
+
+                  <span
+                    class="right-panel-property-title"
+                    *ngIf="property.fieldType === 'text-only'; else defaultTitle"
+                    [innerHTML]="shorTitleName(property.title, 30)"
+                  ></span>
+
+                  <ng-template #defaultTitle>
+                    <span class="right-panel-property-title">
+                      {{ shorTitleName(property.title, 30) }}
+                    </span>
+                  </ng-template>
+
+                </div>
+                <div *ngIf="property.title">
+                  <a class="" (click)="switchDocumentPage(index)">
+                    <img src="../../../../images/element-arrow.svg" />
+                  </a>
+                </div>
+                <!--                </ng-container>-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="send-from builder-send-form" style="display: flex; width: 100%">
+      <div class="content-left-panel send-form-left"></div>
+      <div class="content-main-panel send-form-main">
+        <p
+          class="double submit"
+          style="margin-top: 0; padding: 15px; border-top: none"
+          *ngIf="!loading && !blockFields"
+        >
+          <span class="notice-a" *ngIf="savingError" translate>{{ savingError }}</span>
+
+          <button
+            type="submit"
+            style="margin: 0px"
+            *ngIf="areAllFieldsFilled(); else nextButton"
+            (click)="$event.preventDefault(); save()"
+          >
+            <span translate>Send Form</span>
+          </button>
+
+          <ng-template #nextButton>
+            <button type="submit" style="margin: 0px" (click)="onNextButtonClicked()">
+              <span translate>Next</span>
+            </button>
+          </ng-template>
+
+          <button translate (click)="backToSigns()" type="reset">Cancel</button>
+        </p>
+      </div>
+      <div class="content-right-panel send-form-right"></div>
+    </div>
+    <!-- Form Builder -->
+    <div *ngIf="formUpdated && !loading">
+      <p class="notice-a" translate>Form Submited.</p>
+    </div>
+  </ng-container>
+  <ng-container *ngIf="userService.currentFormsPermissions.indexOf('submit_own') === -1 && !loading">
+    <p class="notice-a" translate>You don't have permissions to submit forms.</p>
+  </ng-container>
+
+  <div class="loading-spinner" *ngIf="loading">
+    <div>
+      <p class="text-center" translate>
+        <span class="loader loader-bubbles">
+          <span></span>
+        </span>
+      </p>
+    </div>
+  </div>
+</article>
+
+<app-signature-box
+  *ngIf="signsService.isSignaturePopupOpened$ | async"
+  [attr]="signsService.isSignaturePopupOpened$ | async"
+  (imageSrc)="addSignatureImage($event)"
+  (close)="closeSignatureModal()"
+></app-signature-box>

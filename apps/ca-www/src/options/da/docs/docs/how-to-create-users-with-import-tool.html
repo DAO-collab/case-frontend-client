@@ -1,0 +1,81 @@
+<h1 id="how-to-create-users-with-import-tool">Sådan opretter du brugere med importværktøj</h1>
+<p>Denne artikel viser administratorer, hvordan man opretter brugere med importværktøjet.</p>
+<h2 id="opening-the-import-tool">Åbning af importværktøjet</h2>
+<p>
+  Administratorer kan bruge importværktøjet til at masseuploade nye brugere og ændre eksisterende brugerregistreringer.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Log ind på administratorkontoen.</li>
+  <li>Find en app på Apps-siden, og klik på ADMIN-knappen.</li>
+  <li>På administratorpanelet skal du klikke på fanen Integration og derefter IMPORTER i undermenuen.</li>
+  <li>Klik på knappen NY. Dialogboksen Tilføj importer vises i en ny browserfane.</li>
+</ol>
+<div class="figure"><img src="/images/import-3.png" alt="img" /></div>
+<h2 id="creating-records">Oprettelse af poster</h2>
+<p>Når dialogboksen Tilføj importer åbnes:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik på feltet <strong>Type</strong> og vælg en mulighed (se nedenfor). Et link vises.</li>
+  <li>Klik på linket <strong>Download prøve</strong> . En CSV-fil downloades til din enhed.</li>
+</ol>
+<p>
+  Åbn derefter filen og tilføj poster. Klik <a href="docs/how-to-format-csv-data" target="_blank">her</a> for at lære,
+  hvordan du bruger formatdata i CSV-filen.
+</p>
+<div class="figure"><img src="/images/import-4.png" alt="img" /></div>
+<h2 id="type">Type</h2>
+<p>Når du klikker på feltet Type, vises en rullemenu. Vælg en af to muligheder for masseimport.</p>
+<p>
+  :udråbstegn: <strong>BEMÆRK</strong> Rullemenuen har mange muligheder, men kun to er relateret til importværktøjet.
+  Hver mulighed har en anden CSV-eksempel-fil.
+</p>
+<h3 id="add-users">Tilføj brugere</h3>
+<ul>
+  <li>Vælg denne mulighed for en simpel masseupload af brugerregistreringer.</li>
+  <li>
+    Klik på linket Download eksempel for at åbne en CSV-fil med kolonneoverskrifter for importtypen Tilføj brugere.
+  </li>
+</ul>
+<h3 id="modify-users">Rediger brugere</h3>
+<ul>
+  <li>Vælg denne mulighed for at opdatere data for nuværende brugere.</li>
+  <li>
+    Klik på linket Download eksempel for at åbne en CSV-fil med kolonneoverskrifter for typen Rediger brugerimport.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Uploader filen</h2>
+<p>
+  Du kan uploade en fil med det samme eller vende tilbage til dialogboksen Tilføj import på et senere tidspunkt og
+  fuldføre disse trin.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Åbn dialogboksen Tilføj importer.</li>
+  <li>Indtast et unikt navn til CSV-filen.</li>
+  <li>Klik på plus-ikonet (+) for at uploade filen fra din enhed.</li>
+  <li>Klik på feltet <strong>Type</strong> , og vælg en mulighed. (se ovenfor)</li>
+  <li>Klik på GEM.</li>
+</ol>
+<div class="figure"><img src="/images/import-5.png" alt="img" /></div>
+<h2 id="processing">Forarbejdning</h2>
+<p>
+  Afhængigt af antallet af poster i filen og systembelastningen, kan platformen tage flere minutter at behandle
+  importen.
+</p>
+<div class="figure"><img src="/images/import-6.png" alt="img" /></div>
+<p>
+  Når importen er fuldført, justerer platformen <strong>brugerregistreringer</strong> (dvs. tilføjer, ændrer eller
+  deaktiverer) på administratorens brugerdashboard.
+</p>
+<h2 id="failure">Fiasko</h2>
+<p>
+  Hvis importhandlingen mislykkes, returnerer platformen en Mislykket-meddelelse. I de fleste tilfælde er årsagen til
+  fejlen dataformatering.
+</p>
+<div class="figure"><img src="/images/import-7.png" alt="img" /></div>
+<p>For at se årsagen til fejlen:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik på <strong>Vis</strong> under overskriften Handling.</li>
+  <li>På næste side skal du holde musen over ikonet Mislykket. Værktøjstippet viser fejlen.</li>
+  <li>Gå til CVS-filen og juster og ret fejlen.</li>
+  <li>Upload filen igen.</li>
+</ol>
+<div class="figure"><img src="/images/import-8.png" alt="img" /></div>

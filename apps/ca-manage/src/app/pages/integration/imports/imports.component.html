@@ -1,0 +1,173 @@
+<article id="content" class="module-d" (mouseover)="closeSearchDropdownOutside($event)">
+  <form action="" method="get" (submit)="searchImportsRequest()" class="form-f form-casesearch" *ngIf="!loading">
+    <p class="full-width-input">
+      <label for="fcsa" class="hidden" translate>Keyword</label>
+      <span class="searchKey ticker" (click)="showSearchFilter = true">{{ searchKey }}</span>
+      <input
+        #searchF
+        type="text"
+        id="fcsa"
+        name="searchVal"
+        autocomplete="off"
+        class="search-with-key imports-search-input"
+        (focus)="searchKey == $any('') ? (showSearchFilter = true) : (showSearchFilter = false)"
+        [formControl]="searchVal"
+      />
+    </p>
+
+    <input type="hidden" name="type" value="user" />
+    <p class="submit">
+      <button type="submit">Search</button>
+    </p>
+    <div class="search-sub-filters" [ngClass]="{ on: showSearchFilter }" *ngIf="!loading">
+      <div class="filter-item" (click)="setSearchKey(ImportsSearchAttribute.Name)">Name</div>
+    </div>
+  </form>
+
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="!imports?.length && !loading" class="text-center empty-search">
+    <p translate>No Imports yet.</p>
+  </div>
+
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="imports.length && !loading">
+      <tr>
+        <th translate>Name</th>
+        <th translate>Created On</th>
+        <th translate>Source</th>
+        <th translate>Type</th>
+        <th translate>Stats</th>
+        <th translate>Status</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let import of imports">
+        <td>{{ import.name }}</td>
+        <td>{{ import.created_on | date : 'longDate' }}</td>
+        <td>{{ import.source }}</td>
+        <td>{{ importTypes[import.type] }}</td>
+        <td>
+          <span>
+            <span *ngIf="import.passed" translate>Passed: </span>{{ import.passed ? import.passed + ',' : '' }}
+            <span *ngIf="import.failed" translate> Failed: </span>{{ import.failed ? import.failed : ''
+            }}{{ import.total && import.failed ? ',' : '' }} <span *ngIf="import.total" translate> Total: </span
+            >{{ import.total }}
+          </span>
+        </td>
+        <td>
+          {{
+            (import.total && import.total !== import?.passed! + import?.failed! ? ImportStatus.Processing : import.status)
+              | titlecase
+          }}
+        </td>
+        <td>
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a
+                *ngIf="import.status !== ImportStatus.Queued"
+                (click)="viewDetail(import.name)"
+                [routerLink]="['/integration/import/view/' + import.import_id]"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                View
+              </a>
+              <a *ngIf="import.status !== ImportStatus.Queued" (click)="downloadImport(import)" translate>
+                <img class="drop-item-option-img" src="images/item-download.svg" alt="" />
+                Download
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</article>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="activeImportsPopUp"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="addImportForm"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Add Imports</h2>
+
+      <p class="half-width">
+        <label for="importName" class="required" translate>Name</label>
+        <input #importNameInput type="text" id="importName" formControlName="name" />
+        <app-error
+          [fieldValue]="addImportForm.get('name')?.value"
+          [validationErrors]="validationErrors"
+          [field]="importNameInput"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p class="half-width imports-select">
+        <label for="importType" class="required" translate>Type</label>
+        <ng-select
+          #importTypeSelect
+          id="importType"
+          bindValue="id"
+          bindLabel="text"
+          placeholder="{{ 'No type selected' | translate }}"
+          formControlName="type"
+          [items]="importTypesOptions"
+        >
+        </ng-select>
+        <span
+          style="cursor: pointer"
+          *ngIf="addImportForm.get('type')?.value"
+          (click)="downloadTypeSample(addImportForm.get('type')?.value)"
+          ><span translate>Download Sample </span><i class="icon-download"></i
+        ></span>
+        <app-error
+          [fieldValue]="addImportForm.get('type')?.value"
+          [regularHtmlElementName]="importTypeSelect"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        >
+        </app-error>
+      </p>
+
+      <p style="margin: 0">
+        <label class="required" translate>Choose a file</label>
+      </p>
+      <p class="file-c">
+        <span>{{ fileToUpload?.fileData?.name }}</span>
+        <br *ngIf="fileToUpload" />
+        <br *ngIf="fileToUpload" />
+        <label for="importsFileInput">
+          <input
+            #importsFileInput
+            type="file"
+            accept=".csv"
+            id="importsFileInput"
+            name="imports-file-input"
+            [disabled]="savingImport"
+            (change)="handleFileChange($any($event.target))"
+          />
+        </label>
+      </p>
+
+      <p class="submit">
+        <button type="button" class="f-right" [disabled]="savingImport" (click)="saveImport()" translate>Save</button>
+      </p>
+      <a class="close" (click)="refreshModal()">Close</a>
+    </div>
+    <a class="close" (click)="refreshModal()">Close</a>
+  </div>
+</form>

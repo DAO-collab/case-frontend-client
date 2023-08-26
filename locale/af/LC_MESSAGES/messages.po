@@ -1,0 +1,4506 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.330323\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.661390\n"
+"Language: af\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "U moet &#39;n beeldlêer kies."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Laai &#39;n dokument op, merk dit vir ondertekening en dan teken die kliënt "
+"aan en teken dit aan. Alles word gedoen sonder dat die kliënt in ons gebou "
+"hoef in te kom. Dit is handig te pas by kliënte wat nie naby &#39;n kantoor "
+"is of buite die staat woon nie."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Direkteur van Bedrywighede van Kapitaalversekering"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Ons geassosieerdes kan aanmeld en basiese inligting sien oor hoe hul "
+"verwysde saak verloop. Dit het ons verwysings deur die saak ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Vennoot van die Regskantoor van Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Ons hoef nie meer kliënte in die kantoor te sien vir vergaderings nie, en "
+"die ondertekening van dokumente is alles aanlyn gedoen - briljant!"
+
+msgid "CEO of EL Passion"
+msgstr "Uitvoerende hoof van EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Met behulp van die API het ons die outomatisering van wat in die case feed "
+"gewys is, gebaseer op spesifieke snellers in ons bestaande stelsel. Nogal "
+"gerieflik .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "IT-bestuurder van Carter Mario Injury Lawyers"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Ons het baie veeltalige kliënte wat die vertaalfunksie gebruik. Ons plaas "
+"boodskappe met die vertroue dat dit deur almal verstaan sal word. Dit laat "
+"ons van plaaslike na globale werk beweeg."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Uitvoerende hoof van Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Kliënte is mal daaroor! Dit maak hul lewens soveel makliker. Hulle kan "
+"probleme met ons aanlyn bespreek, foto&#39;s en dokumente oplaai, en alles "
+"word geberg waar die span sowel as die kliënt dit kan besigtig."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Vennoot van Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Ons hou baie van die fakturering van die saak, want dit laat kliënte sien "
+"presies waarvoor hulle betaal."
+
+msgid "Vice President of Sky Digital"
+msgstr "Vise-president van Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Verknoopte kommunikasie is soos om al u sosiale media en "
+"samewerkingsinstrumente op een plek te hê."
+
+msgid "Director Of Complaint Management"
+msgstr "Direkteur van Klagbestuur"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Gevalvorms laat ons toe om te luister en te leer, om ons te help om verkope "
+"te verhoog deur terugvoer van kliënte."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Direkteur van verkope van Kain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Die gebruikerskoppelvlak lyk baie soos Facebook. Dit is uiters maklik om te "
+"gebruik .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Vennoot van Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "'n Speld is gestuur na"
+
+msgid "Cancel"
+msgstr "kanselleer"
+
+msgid "Send New Pin"
+msgstr "Stuur nuwe pin"
+
+msgid "Need Help?"
+msgstr "Het jy hulp nodig?"
+
+msgid "Click here to contact us"
+msgstr "Klik hier om ons te kontak"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Login or Signup"
+msgstr "Teken in of teken aan"
+
+msgid "Invalid email entered"
+msgstr "Ongeldige e-pos is ingevoer"
+
+msgid "Processing..."
+msgstr "Verwerking ..."
+
+msgid "Made with"
+msgstr "Gemaak met"
+
+msgid "love"
+msgstr "lief"
+
+msgid "in New York City"
+msgstr "In New York City"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Alle regte voorbehou"
+
+msgid "Terms of Use"
+msgstr "Gebruiksvoorwaardes"
+
+msgid "Contact Us"
+msgstr "Kontak Ons"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Code"
+msgstr "kode"
+
+msgid "New Password"
+msgstr "Nuwe Wagwoord"
+
+msgid "Confirm Password"
+msgstr "Bevestig Wagwoord"
+
+msgid "Set Your New Password"
+msgstr "Stel jou nuwe wagwoord in"
+
+msgid "A code has been sent to"
+msgstr "&#39;N Kode is gestuur na"
+
+msgid "Change Password"
+msgstr "Verander wagwoord"
+
+msgid "Changing..."
+msgstr "Die verandering van ..."
+
+msgid "Login"
+msgstr "Teken aan"
+
+msgid "Forgot password?"
+msgstr "Wagwoord vergeet?"
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Email or Phone"
+msgstr "E-pos of telefoon"
+
+msgid "Reset Password"
+msgstr "Herstel wagwoord"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Voer die e-posadres of telefoonnommer in wat verband hou met u rekening, en "
+"klik dan op &#39;dien&#39; in. Ons sal &#39;n skakel per e-pos of sms na "
+"&#39;n bladsy waar u maklik &#39;n nuwe wagwoord kan skep."
+
+msgid "Request Code"
+msgstr "Versoek Kode"
+
+msgid "Requesting..."
+msgstr "Versoek ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE KOM BINNEKORT"
+
+msgid "Create a free account"
+msgstr "Skep 'n gratis rekening"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Ons is besig om die laaste hand daaraan te doen. Ons sal u in kennis stel "
+"wanneer dit gereed is!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Jy is minute weg van 'n beter samewerking."
+
+msgid "First Name"
+msgstr "Eerste naam"
+
+msgid "Last Name"
+msgstr "Van"
+
+msgid "Email"
+msgstr "e-pos"
+
+msgid "Company"
+msgstr "Maatskappy"
+
+msgid "No language selected"
+msgstr "Geen taal gekies nie"
+
+msgid "I agree with"
+msgstr "Ek stem saam met"
+
+msgid "Terms of Service"
+msgstr "Diensvoorwaardes"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Have at least one lower case character"
+msgstr "Het ten minste een kleinletter karakter"
+
+msgid "Have at least one capital letter"
+msgstr "Het ten minste een hoofletter"
+
+msgid "Have at least one number"
+msgstr "Het ten minste een nommer"
+
+msgid "Have at least 8 characters in length"
+msgstr "Het ten minste 8 karakters lank"
+
+msgid "Type your current password"
+msgstr "Tik jou huidige wagwoord"
+
+msgid "Passwords must match"
+msgstr "Wagwoorde moet ooreenstem"
+
+msgid "Domains"
+msgstr "Domeine"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript is gedeaktiveer. Aktiveer dit asseblief."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Koekies is gedeaktiveer. Aktiveer dit asseblief."
+
+msgid "New"
+msgstr "Nuut"
+
+msgid "Create A New App"
+msgstr "Skep 'n nuwe toepassing"
+
+msgid "Apps"
+msgstr "programme"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Logout"
+msgstr "Teken uit"
+
+msgid "Hi"
+msgstr "Hi"
+
+msgid "View your account"
+msgstr "Kyk na u rekening"
+
+msgid "View page"
+msgstr "Besigtig bladsy"
+
+msgid "You don’t have any apps"
+msgstr "Jy het geen programme nie"
+
+msgid "App"
+msgstr "Toep"
+
+msgid "Admin"
+msgstr "admin"
+
+msgid "Notifications"
+msgstr "Kennisgewings"
+
+msgid "No notifications yet."
+msgstr "Nog geen kennisgewings nie."
+
+msgid "Today"
+msgstr "Vandag"
+
+msgid "Last Week"
+msgstr "Verlede week"
+
+msgid "No timezone selected"
+msgstr "Geen tydsone gekies nie"
+
+msgid "Complete profile to continue"
+msgstr "Volledige profiel om voort te gaan"
+
+msgid "Timezone"
+msgstr "Tydsone"
+
+msgid "Update"
+msgstr "Opdateer"
+
+msgid "Website:"
+msgstr "Webwerf:"
+
+msgid "Homepage:"
+msgstr "tuisblad:"
+
+msgid "Approve Access"
+msgstr "Keur toegang goed"
+
+msgid "Info"
+msgstr "Inligting"
+
+msgid "Permissions"
+msgstr "Toestemmings"
+
+msgid "Billing"
+msgstr "Fakturering"
+
+msgid "Payment Plan"
+msgstr "Betalingsplan"
+
+msgid "Edit"
+msgstr "Wysig"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "has access to your information below:"
+msgstr "het toegang tot u inligting hieronder:"
+
+msgid "has invited you to their client portal."
+msgstr "het jou na hul kliënteportaal genooi."
+
+msgid "want access to the following information:"
+msgstr "wil toegang tot die volgende inligting hê:"
+
+msgid "Decline"
+msgstr "afname"
+
+msgid "Remove Access"
+msgstr "Verwyder toegang"
+
+msgid "Active"
+msgstr "Aktief"
+
+msgid "Invites"
+msgstr "Uitnodigings"
+
+msgid "Disabled"
+msgstr "Gestrem"
+
+msgid "No apps found"
+msgstr "Geen programme gevind nie"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "gebruiker"
+
+msgid "manager"
+msgstr "bestuurder"
+
+msgid "active"
+msgstr "aktiewe"
+
+msgid "inactive"
+msgstr "onaktiewe"
+
+msgid "Company Name"
+msgstr "maatskappynaam"
+
+msgid "Type"
+msgstr "tipe"
+
+msgid "Status"
+msgstr "status"
+
+msgid "Invitation"
+msgstr "Uitnodiging"
+
+msgid "About App"
+msgstr "Oor App"
+
+msgid "Billing Info"
+msgstr "Rekeninginligting"
+
+msgid "Your Company Name"
+msgstr "U maatskappy se naam"
+
+msgid "Your Company Website"
+msgstr "Jou maatskappy se webwerf"
+
+msgid "Saving..."
+msgstr "Spaar ..."
+
+msgid "Billing Information"
+msgstr "Rekening Inligting"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Voeg asseblief die APP-ID by wat deur die maatskappy verskaf is"
+
+msgid "Select an option"
+msgstr "Kies 'n opsie"
+
+msgid "Join an existing app as a client"
+msgstr "Sluit aan by 'n bestaande toepassing as 'n kliënt"
+
+msgid "Create a new app for my business"
+msgstr "Skep 'n nuwe toepassing vir my besigheid"
+
+msgid "Create Domain"
+msgstr "Skep domein"
+
+msgid "Select enterprise app"
+msgstr "Kies onderneming-toepassing"
+
+msgid "No item selected"
+msgstr "Geen item gekies nie"
+
+msgid "Domain name"
+msgstr "Domeinnaam"
+
+msgid "Add"
+msgstr "Voeg"
+
+msgid "No enterprise app found"
+msgstr "Geen ondernemingprogram gevind nie"
+
+msgid "Pending"
+msgstr "Hangende"
+
+msgid "No domains found"
+msgstr "Geen domeine gevind nie"
+
+msgid "Domain"
+msgstr "domein"
+
+msgid "Txt Value"
+msgstr "Txt waarde"
+
+msgid "Enterprise Host ID"
+msgstr "Ondernemingsgasheer-ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Aksie"
+
+msgid "Delete"
+msgstr "Vee uit"
+
+msgid "Reset"
+msgstr "Stel terug"
+
+msgid "Allow Manual Sign In"
+msgstr "Laat handmatige aanmelding toe"
+
+msgid "Exclude Emails From SSO"
+msgstr "Sluit e-posse van SSO uit"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML Identiteit Verskaffer Metadata"
+
+msgid "Submit"
+msgstr "Indien"
+
+msgid "Profile photo"
+msgstr "Profiel foto"
+
+msgid "Uploading..."
+msgstr "Oplaai ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "deur &#39;n ander rekening geëis is, verander dit of"
+
+msgid "reclaim"
+msgstr "herwin"
+
+msgid "it"
+msgstr "Dit"
+
+msgid "pending verification:"
+msgstr "hangende verifikasie:"
+
+msgid "verify"
+msgstr "verifieer"
+
+msgid "Phone Number"
+msgstr "Telefoon nommer"
+
+msgid "Current Password"
+msgstr "huidige Sleutelwoord"
+
+msgid "Change password"
+msgstr "Verander wagwoord"
+
+msgid "No gender selected"
+msgstr "Geen geslag gekies nie"
+
+msgid "Company Title"
+msgstr "Maatskappy Titel"
+
+msgid "Address"
+msgstr "adres"
+
+msgid "Address 2"
+msgstr "adres 2"
+
+msgid "City/Locality"
+msgstr "Stad / Ligging"
+
+msgid "State/Region"
+msgstr "Staat / streek"
+
+msgid "No country selected"
+msgstr "Geen land gekies nie"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / Poskode"
+
+msgid "Basic"
+msgstr "basiese"
+
+msgid "Date of Birth"
+msgstr "Geboortedatum"
+
+msgid "Gender"
+msgstr "geslag"
+
+msgid "Occupation"
+msgstr "Beroep"
+
+msgid "Location"
+msgstr "plek"
+
+msgid "Address is not valid"
+msgstr "Adres is nie geldig nie"
+
+msgid "City/Locality is not valid"
+msgstr "Stad / ligging is nie geldig nie"
+
+msgid "Country"
+msgstr "land"
+
+msgid "State/Region is not valid"
+msgstr "Staat / streek is nie geldig nie"
+
+msgid "Contact Info"
+msgstr "Kontakbesonderhede"
+
+msgid "Language & Region"
+msgstr "Taal en streek"
+
+msgid "Saving"
+msgstr "Spaar"
+
+msgid "Verify Your"
+msgstr "Verifieer u"
+
+msgid "Verification Code"
+msgstr "Verifikasiekode"
+
+msgid "Resend Code"
+msgstr "Herstuur kode"
+
+msgid "Resending"
+msgstr "weer in"
+
+msgid "Verify"
+msgstr "verifieer"
+
+msgid "Verifying..."
+msgstr "Verifieer ..."
+
+msgid "Later"
+msgstr "Later"
+
+msgid "We're here to help"
+msgstr "Ons is hier om te help"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Dankie vir die kontak met ons. Jou boodskap is suksesvol gestuur. Ons sal u "
+"binnekort kontak!"
+
+msgid "Message"
+msgstr "Boodskap"
+
+msgid "characters left"
+msgstr "karakters oor"
+
+msgid "Recaptcha"
+msgstr "recaptcha"
+
+msgid "Send"
+msgstr "stuur"
+
+msgid "Sending..."
+msgstr "Stuur..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Jy sal nie meer e-posbemarking vanaf die lys ontvang nie."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"As jy 'n oomblik het, laat weet ons asseblief hoekom jy uitgeteken het:"
+
+msgid "Return to our website"
+msgstr "Keer terug na ons webwerf"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Dankie. Jou antwoord is ingedien."
+
+msgid "No Cases"
+msgstr "Geen gevalle"
+
+msgid "Layout"
+msgstr "Uitleg"
+
+msgid "Gallery"
+msgstr "Galery"
+
+msgid "Speaker"
+msgstr "Spreker"
+
+msgid "This case has been closed"
+msgstr "Hierdie saak is gesluit"
+
+msgid "Feed"
+msgstr "Voer"
+
+msgid "Images"
+msgstr "beelde"
+
+msgid "Docs"
+msgstr "Dokumente"
+
+msgid "Audios"
+msgstr "audio"
+
+msgid "Videos"
+msgstr "video&#39;s"
+
+msgid "Files"
+msgstr "lêers"
+
+msgid "Events"
+msgstr "gebeure"
+
+msgid "Forms"
+msgstr "vorms"
+
+msgid "E-signs"
+msgstr "E-tekens"
+
+msgid "Invoices"
+msgstr "Fakture"
+
+msgid "Notes"
+msgstr "notas"
+
+msgid "Tasks"
+msgstr "Take"
+
+msgid "Convo"
+msgstr "Konvo"
+
+msgid "Great job!"
+msgstr "Goeie werk!"
+
+msgid "You did all"
+msgstr "Jy het alles gedoen"
+
+msgid "the tasks"
+msgstr "die take"
+
+msgid "Media"
+msgstr "media"
+
+msgid "Skip to navigation (n)"
+msgstr "Slaan oor na navigasie (n)"
+
+msgid "Skip to content (c)"
+msgstr "Slaan oor na inhoud (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Slaan oor na voetskrif (f)"
+
+msgid "Case"
+msgstr "Saak"
+
+msgid "Search"
+msgstr "Soek"
+
+msgid "Using Form Builder"
+msgstr "Gebruik vormbouer"
+
+msgid "Using Forms Library"
+msgstr "Gebruik Vormsbiblioteek"
+
+msgid "Using E-sign Builder"
+msgstr "Gebruik E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Gebruik van E-tekens-biblioteek"
+
+msgid "Documents"
+msgstr "dokumente"
+
+msgid "Create Note"
+msgstr "Skep Nota"
+
+msgid "Edit Note"
+msgstr "Wysig Nota"
+
+msgid "End Convo"
+msgstr "Beëindig Konvo"
+
+msgid "Create Form"
+msgstr "Skep vorm"
+
+msgid "Create Sign"
+msgstr "Skep teken"
+
+msgid "Event Create"
+msgstr "Gebeurtenis Skep"
+
+msgid "Convo Videos"
+msgstr "Konvo video's"
+
+msgid "Convo Audios"
+msgstr "Gesprek oudio's"
+
+msgid "Cases"
+msgstr "Gevalle"
+
+msgid "Case categories"
+msgstr "Saakkategorieë"
+
+msgid "Your team"
+msgstr "Jou span"
+
+msgid "To do"
+msgstr "Om te doen"
+
+msgid "To Do:"
+msgstr "Om te doen:"
+
+msgid "Case Categories"
+msgstr "Geval Kategorieë"
+
+msgid "Your Team"
+msgstr "Jou span"
+
+msgid "To Do"
+msgstr "Om te doen"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Close"
+msgstr "Naby"
+
+msgid "Publish"
+msgstr "Publiseer"
+
+msgid "Visibility"
+msgstr "sigbaarheid"
+
+msgid "all"
+msgstr "almal"
+
+msgid "sign"
+msgstr "teken"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "van"
+
+msgid "Processing"
+msgstr "Verwerking"
+
+msgid "failed."
+msgstr "misluk."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Waarde moet groter of gelyk aan 1 wees"
+
+msgid "Repeat end:"
+msgstr "Herhaal einde:"
+
+msgid "Signature"
+msgstr "Handtekening"
+
+msgid "Draw"
+msgstr "Teken"
+
+msgid "Write"
+msgstr "Skryf"
+
+msgid "Clear Signature"
+msgstr "Duidelike handtekening"
+
+msgid "Still processing video..."
+msgstr "Verwerk nog video ..."
+
+msgid "You"
+msgstr "Jy"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Jy is op die punt om stroom uit te vee. Is jy seker?"
+
+msgid "No convo audios yet"
+msgstr "Nog geen konvo-oudio's nie"
+
+msgid "No convo videos yet"
+msgstr "Nog geen konvoo-video's nie"
+
+msgid "Start Convo"
+msgstr "Begin Convo"
+
+msgid "Notify the Host"
+msgstr "Stel die gasheer in kennis"
+
+msgid "is in the call"
+msgstr "is in die oproep"
+
+msgid "and"
+msgstr "en"
+
+msgid "others are in the call"
+msgstr "ander is in die oproep"
+
+msgid "Audio call is being recorded"
+msgstr "Oudio-oproep word opgeneem"
+
+msgid "Video call is being recorded"
+msgstr "Video-oproep word opgeneem"
+
+msgid "Join now"
+msgstr "Sluit nou aan"
+
+msgid "Dismiss"
+msgstr "Verwerp"
+
+msgid "Can’t find your "
+msgstr "Kan nie jou"
+
+msgid "microphone"
+msgstr "mikrofoon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Gaan jou stelselinstellings na om seker te maak dat"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"is beskikbaar. Indien nie, prop een in. Jy sal dalk jou blaaier moet "
+"herbegin."
+
+msgid "web camera"
+msgstr "web kamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Jy gaan 'n Convo-oproep begin. Begin met:"
+
+msgid "Video & Audio"
+msgstr "Video en oudio"
+
+msgid "Audio Only"
+msgstr "Slegs oudio"
+
+msgid "Record the meeting"
+msgstr "Teken die vergadering op"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Wag vir iemand met toestemming om 'n Convo-oproep te begin"
+
+msgid "Add Ticket"
+msgstr "Voeg kaartjie by"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Open"
+msgstr "Maak oop"
+
+msgid "Closed"
+msgstr "gesluit"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Jy is op die punt om kaartjie toe te maak. Is jy seker?"
+
+msgid "Announcements"
+msgstr "Aankondigings"
+
+msgid "Support"
+msgstr "Ondersteuning"
+
+msgid "Opened"
+msgstr "geopen"
+
+msgid "View"
+msgstr "Beskou"
+
+msgid "Locations"
+msgstr "Liggings"
+
+msgid "You currently have no announcements."
+msgstr "Jy het tans geen aankondigings nie."
+
+msgid "You currently have no"
+msgstr "Jy het tans nr"
+
+msgid "open cases. Click"
+msgstr "sake oopmaak. Klik"
+
+msgid "here"
+msgstr "hier"
+
+msgid "to contact support."
+msgstr "ondersteuning te kontak."
+
+msgid "closed cases."
+msgstr "geslote sake."
+
+msgid "open tickets."
+msgstr "kaartjies oopmaak."
+
+msgid "closed tickets."
+msgstr "geslote kaartjies."
+
+msgid "You currently have no locations."
+msgstr "Jy het tans geen liggings nie."
+
+msgid "Write a comment...."
+msgstr "Skryf &#39;n opmerking ..."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Voeg ligging by"
+
+msgid "Save Event"
+msgstr "Stoor gebeurtenis"
+
+msgid "Name"
+msgstr "naam"
+
+msgid "Start Date"
+msgstr "Begindatum"
+
+msgid "Start Time"
+msgstr "Begin Tyd"
+
+msgid "End Date"
+msgstr "Einddatum"
+
+msgid "End Time"
+msgstr "Eind tyd"
+
+msgid "Repeat"
+msgstr "Herhaal"
+
+msgid "Attendees"
+msgstr "Deelnemers"
+
+msgid "Event Location"
+msgstr "Gebeurtenis Plek"
+
+msgid "Link"
+msgstr "Skakel"
+
+msgid "Description"
+msgstr "beskrywing"
+
+msgid "Attending"
+msgstr "bywoon"
+
+msgid "Add to calendar"
+msgstr "Voeg by kalender"
+
+msgid "Details"
+msgstr "Besonderhede"
+
+msgid "Event by"
+msgstr "Geleentheid deur"
+
+msgid "Duration:"
+msgstr "Tydsduur:"
+
+msgid "more"
+msgstr "meer"
+
+msgid "Maybe"
+msgstr "Kan wees"
+
+msgid "Not Attending"
+msgstr "Nie bywoon nie"
+
+msgid "No"
+msgstr "Geen"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Videokonferensie"
+
+msgid "Event details"
+msgstr "Gebeurtenisbesonderhede"
+
+msgid "You don't have permissions to view this page."
+msgstr "Jy het nie toestemming om hierdie bladsy te sien nie."
+
+msgid "Your Upcoming Events"
+msgstr "U komende geleenthede"
+
+msgid "Upcoming"
+msgstr "Komende"
+
+msgid "Your Past Events"
+msgstr "U vorige gebeure"
+
+msgid "Past"
+msgstr "Verlede"
+
+msgid "Your Events"
+msgstr "Jou gebeure"
+
+msgid "All"
+msgstr "Almal"
+
+msgid "All Events"
+msgstr "Alle gebeure"
+
+msgid "Directions"
+msgstr "rigtings"
+
+msgid "Edit settings"
+msgstr "Wysig instellings"
+
+msgid "Delete event"
+msgstr "Vee gebeurtenis uit"
+
+msgid "Attending?"
+msgstr "Bywoon?"
+
+msgid "No Events"
+msgstr "Geen gebeure"
+
+msgid "more comment(s)"
+msgstr "meer kommentaar (s)"
+
+msgid "Loading comments"
+msgstr "Laai opmerkings"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "U is op die punt om opmerking te verwyder. Is jy seker?"
+
+msgid "task"
+msgstr "taak"
+
+msgid "to do"
+msgstr "te doen"
+
+msgid "tasks"
+msgstr "take"
+
+msgid "Write something..."
+msgstr "Iets skryf..."
+
+msgid "Attach File"
+msgstr "Heg leër aan"
+
+msgid "From Template"
+msgstr "Van Sjabloon"
+
+msgid "No feeds yet."
+msgstr "Nog geen feeds nie."
+
+msgid "comments"
+msgstr "kommentaar"
+
+msgid "comment"
+msgstr "kommentaar lewer"
+
+msgid "Add a comment"
+msgstr "Lewer kommentaar"
+
+msgid "Template"
+msgstr "Sjabloon"
+
+msgid "No templates"
+msgstr "Geen sjablone nie"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Kies die lede wat hierdie vorm moet invul"
+
+msgid "Update Form"
+msgstr "Dateer vorm op"
+
+msgid "Due Date"
+msgstr "Vervaldatum"
+
+msgid "Due Time"
+msgstr "Die regte tyd"
+
+msgid "Loading..."
+msgstr "Laai ..."
+
+msgid "Preview"
+msgstr "Voorskou"
+
+msgid "Save & Close"
+msgstr "Stoor en maak toe"
+
+msgid "Add an element"
+msgstr "Voeg 'n element by"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr ""
+"Media is besig om om te skakel. Ons sal jou in kennis stel wanneer dit "
+"gereed is"
+
+msgid "Add "
+msgstr "Voeg by"
+
+msgid "Field"
+msgstr "Veld"
+
+msgid "Edit "
+msgstr "Wysig"
+
+msgid "Text"
+msgstr "teks"
+
+msgid "Sub Text"
+msgstr "Sub teks"
+
+msgid "Format"
+msgstr "Formaat"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Media kon nie omskakel nie. Vee asseblief uit en probeer weer of 'n ander."
+
+msgid "Pages"
+msgstr "Bladsye"
+
+msgid "Saved"
+msgstr "Gestoor"
+
+msgid "Insert"
+msgstr "Voeg in"
+
+msgid "Elements"
+msgstr "Elemente"
+
+msgid "Action Required"
+msgstr "Aksie nodig"
+
+msgid "Add a new page"
+msgstr "Voeg 'n nuwe bladsy by"
+
+msgid "Blank page"
+msgstr "Leë bladsy"
+
+msgid "From PDF"
+msgstr "Van PDF"
+
+msgid "From image"
+msgstr "Uit beeld"
+
+msgid "Add PDF"
+msgstr "Voeg PDF by"
+
+msgid "Add Image"
+msgstr "Voeg prent by"
+
+msgid "Options"
+msgstr "opsies"
+
+msgid "Column Names"
+msgstr "Kolomname"
+
+msgid "Option already exists."
+msgstr "Opsie bestaan ​​reeds."
+
+msgid "options list is empty"
+msgstr "opsielys is leeg"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Merkblokkies-veld ondersteun slegs 5 opsies. U kan veld verander na "
+"aftreklys om meer opsies by te voeg"
+
+msgid "columns list is empty"
+msgstr "kolomlys is leeg"
+
+msgid "Default Value"
+msgstr "Standaard waarde"
+
+msgid "Delete row"
+msgstr "Vee ry uit"
+
+msgid "Add a new row"
+msgstr "Voeg 'n nuwe ry by"
+
+msgid "Download"
+msgstr "Aflaai"
+
+msgid "Label"
+msgstr "Etiket"
+
+msgid "Question"
+msgstr "Vraag"
+
+msgid "Default answer"
+msgstr "Verstek antwoord"
+
+msgid "Media is converting"
+msgstr "Media is besig om om te skakel"
+
+msgid "Send Form"
+msgstr "Stuur vorm"
+
+msgid "Form Submited."
+msgstr "Vorm ingedien."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Jy het nie toestemming om vorms in te dien nie."
+
+msgid "You currently have no forms of your own"
+msgstr "Jy het tans geen vorms van jou eie nie"
+
+msgid "Your Uncompleted Forms"
+msgstr "U onvoltooide vorms"
+
+msgid "Uncompleted"
+msgstr "Onvoltooid"
+
+msgid "Your Completed Forms"
+msgstr "U voltooide vorms"
+
+msgid "Completed"
+msgstr "Voltooi"
+
+msgid "Your Forms"
+msgstr "U vorms"
+
+msgid "All Forms"
+msgstr "Alle vorms"
+
+msgid "Form Title"
+msgstr "Vorm Titel"
+
+msgid "Author"
+msgstr "Skrywer"
+
+msgid "Published"
+msgstr "Gepubliseer"
+
+msgid "Submissions"
+msgstr "Voorleggings"
+
+msgid "No Forms"
+msgstr "Geen vorms"
+
+msgid "Upload Form Document"
+msgstr "Laai vormdokument op"
+
+msgid "Forms Library"
+msgstr "Vormsbiblioteek"
+
+msgid "No Forms In Library"
+msgstr "Geen vorms in die biblioteek nie"
+
+msgid "Answers"
+msgstr "Antwoorde"
+
+msgid "Close - Status changed"
+msgstr "Sluit - Status verander"
+
+msgid "Change Status"
+msgstr "Verander Status"
+
+msgid "Case Number"
+msgstr "Saaknommer"
+
+msgid "Tag Id"
+msgstr "Tag-ID"
+
+msgid "Date Opened"
+msgstr "Datum oopgemaak"
+
+msgid "Host Id"
+msgstr "Gasheer-ID"
+
+msgid "User Id"
+msgstr "Gebruikers-ID"
+
+msgid "Case Id"
+msgstr "Geval ID"
+
+msgid "Confirm your details"
+msgstr "Bevestig jou besonderhede"
+
+msgid "Form Submitted."
+msgstr "Vorm ingedien."
+
+msgid "Invoice"
+msgstr "Faktuur"
+
+msgid "PO No:"
+msgstr "PO No:"
+
+msgid "Reference ID:"
+msgstr "Verwysings-ID:"
+
+msgid "Term:"
+msgstr "Termyn:"
+
+msgid "Note:"
+msgstr "Let wel:"
+
+msgid "QTY"
+msgstr "AANTAL"
+
+msgid "Price"
+msgstr "Prys"
+
+msgid "Add more"
+msgstr "Voeg nog by"
+
+msgid "Subtotal($)"
+msgstr "Subtotaal ($)"
+
+msgid "Discount(%)"
+msgstr "Afslag (%)"
+
+msgid "TAX(%)"
+msgstr "BELASTING(%)"
+
+msgid "Total($)"
+msgstr "Totaal ($)"
+
+msgid "Invoice No"
+msgstr "Kwitansie No"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Kies die lede wat hierdie faktuur moet sien of betaal"
+
+msgid "Update Invoice"
+msgstr "Dateer faktuur op"
+
+msgid "Create Invoice"
+msgstr "Skep faktuur"
+
+msgid "PO No."
+msgstr "PO No."
+
+msgid "Reference ID"
+msgstr "Verwysings-ID"
+
+msgid "Term"
+msgstr "Termyn"
+
+msgid "Note"
+msgstr "Let wel"
+
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+msgid "Price ($)"
+msgstr "Prys ($)"
+
+msgid "Subtotal ($)"
+msgstr "Subtotaal ($)"
+
+msgid "Discount (%)"
+msgstr "Afslag (%)"
+
+msgid "Tax (%)"
+msgstr "Belasting (%)"
+
+msgid "Total ($)"
+msgstr "Totaal ($)"
+
+msgid "Pay Invoice"
+msgstr "Betaal faktuur"
+
+msgid "Payment method"
+msgstr "Betalings metode"
+
+msgid "Add a new payment method"
+msgstr "Voeg 'n nuwe betaalmetode by"
+
+msgid "Summary"
+msgstr "Opsomming"
+
+msgid "Payment:"
+msgstr "Betaling:"
+
+msgid "Total charge:"
+msgstr "Totale heffing:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Jou onbetaalde fakture"
+
+msgid "Unpaid"
+msgstr "Onbetaald"
+
+msgid "Your Paid Invoices"
+msgstr "Jou betaalde fakture"
+
+msgid "Paid"
+msgstr "Betaal"
+
+msgid "Your Invoices"
+msgstr "Jou fakture"
+
+msgid "All Invoices"
+msgstr "Alle fakture"
+
+msgid "Invoice Title"
+msgstr "Faktuurtitel"
+
+msgid "No Invoices"
+msgstr "Geen fakture nie"
+
+msgid "No Audios yet."
+msgstr "Nog geen oudio's nie."
+
+msgid "Loading failed."
+msgstr "Kon nie laai nie"
+
+msgid "retry"
+msgstr "weer probeer"
+
+msgid "No documents yet."
+msgstr "Nog geen dokumente nie."
+
+msgid "No Files yet."
+msgstr "Nog geen lêers nie."
+
+msgid "No Images yet."
+msgstr "Nog geen prente nie."
+
+msgid "No Videos yet."
+msgstr "Nog geen video's nie."
+
+msgid "Page Not Found"
+msgstr "Bladsy nie gevind nie"
+
+msgid "Attachments"
+msgstr "aanhegsels"
+
+msgid "Note View"
+msgstr "Nota Aansig"
+
+msgid "No Notes"
+msgstr "Geen notas"
+
+msgid "Select the person to answer this field"
+msgstr "Kies die persoon om hierdie veld te beantwoord"
+
+msgid "Create E-sign"
+msgstr "Skep E-teken"
+
+msgid "Update E-signs"
+msgstr "Dateer E-tekens op"
+
+msgid "Signs"
+msgstr "Tekens"
+
+msgid "Add Field"
+msgstr "Voeg veld by"
+
+msgid "Edit Field"
+msgstr "Wysig veld"
+
+msgid "Send E-sign"
+msgstr "Stuur E-teken"
+
+msgid "E-sign Submitted."
+msgstr "E-teken ingedien."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Jy het nie toestemmings om e-tekens in te dien nie."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Jy het tans geen E-tekens van jou eie nie"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Jou onvoltooide E-tekens"
+
+msgid "Your Completed E-signs"
+msgstr "Jou voltooide E-tekens"
+
+msgid "Your Signs"
+msgstr "Jou tekens"
+
+msgid "All E-signs"
+msgstr "Alle E-tekens"
+
+msgid "E-sign Title"
+msgstr "E-teken titel"
+
+msgid "No E-signs"
+msgstr "Geen E-tekens nie"
+
+msgid "E-Signs Library"
+msgstr "E-tekens biblioteek"
+
+msgid "No E-signs In Library"
+msgstr "Geen E-tekens in biblioteek nie"
+
+msgid "Upload E-sign Document"
+msgstr "Laai E-tekendokument op"
+
+msgid "Update Task"
+msgstr "Dateer taak op"
+
+msgid "Create Task"
+msgstr "Skep taak"
+
+msgid "You currently have no tasks of your own"
+msgstr "Jy het tans geen take van jou eie nie"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Jou onvoltooide take"
+
+msgid "Your Completed Tasks"
+msgstr "Jou voltooide take"
+
+msgid "Your Tasks"
+msgstr "Jou take"
+
+msgid "All Tasks"
+msgstr "Alle take"
+
+msgid "Task"
+msgstr "Taak"
+
+msgid "Deadline"
+msgstr "Sperdatum"
+
+msgid "Assignees"
+msgstr "Gevolmagtigdes"
+
+msgid "In Progress"
+msgstr "Aan die gang"
+
+msgid "Delete task"
+msgstr "Vee taak uit"
+
+msgid "No Tasks"
+msgstr "Geen take"
+
+msgid "wants access"
+msgstr "wil toegang hê"
+
+msgid "No Answers"
+msgstr "Geen antwoorde"
+
+msgid "Select Field Type"
+msgstr "Kies Veldtipe"
+
+msgid "Text Only"
+msgstr "Slegs teks"
+
+msgid "Multiple Line Text"
+msgstr "Meervoudige Lyntekst"
+
+msgid "Dropdown"
+msgstr "vervolg"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "blok"
+
+msgid "Radio"
+msgstr "radio"
+
+msgid "Date"
+msgstr "datum"
+
+msgid "Time"
+msgstr "tyd"
+
+msgid "Yes/No"
+msgstr "Ja / Nee"
+
+msgid "Number"
+msgstr "aantal"
+
+msgid "Access Denied"
+msgstr "Toegang verbied"
+
+msgid "You don't have access to this case."
+msgstr "U het nie toegang tot hierdie saak nie."
+
+msgid "Imports"
+msgstr "Invoer"
+
+msgid "View import"
+msgstr "Bekyk invoer"
+
+msgid "Sessions"
+msgstr "Sessies"
+
+msgid "Home"
+msgstr "Tuis"
+
+msgid "Users"
+msgstr "gebruikers"
+
+msgid "Library"
+msgstr "Biblioteek"
+
+msgid "Integration"
+msgstr "Integrasie"
+
+msgid "Settings"
+msgstr "instellings"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Sleutels"
+
+msgid "Feed Templates"
+msgstr "Feed Templates"
+
+msgid "Form Templates"
+msgstr "Vorm sjablonen"
+
+msgid "E-sign Templates"
+msgstr "E-teken sjablone"
+
+msgid "Task Templates"
+msgstr "Taak sjablone"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payments"
+msgstr "Betalings"
+
+msgid "From"
+msgstr "Van"
+
+msgid "To"
+msgstr "om"
+
+msgid "System"
+msgstr "Stelsel"
+
+msgid "User Intake"
+msgstr "Gebruiker Inname"
+
+msgid "Custom Fields"
+msgstr "Gepasmaakte velde"
+
+msgid "After Actions"
+msgstr "Na aksies"
+
+msgid "Advance Settings"
+msgstr "Gevorderde instellings"
+
+msgid "Label Name"
+msgstr "Etiketnaam"
+
+msgid "Fields"
+msgstr "Velde"
+
+msgid "Tag ID"
+msgstr "Merk ID"
+
+msgid "Have many users?"
+msgstr "Het jy baie gebruikers?"
+
+msgid "Import users"
+msgstr "Voer gebruikers in"
+
+msgid "or"
+msgstr "of"
+
+msgid "Send them a signup link."
+msgstr "Stuur vir hulle 'n aanmeldskakel."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Kom ons begin deur die e-pos of telefoonnommer in te voer"
+
+msgid "Phone"
+msgstr "Foon"
+
+msgid "Invalid phone number entered"
+msgstr "Ongeldige telefoonnommer ingevoer"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr ""
+"'N Etiket om maklik 'n saak te vind. dit kan nie later verander word nie"
+
+msgid "Visibility:"
+msgstr "sigbaarheid:"
+
+msgid "Who can use this template"
+msgstr "Wie kan hierdie sjabloon gebruik"
+
+msgid "One time"
+msgstr "Een keer"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Voer asseblief geldige betalingsinligting in voordat u voortgaan"
+
+msgid "Add Payment"
+msgstr "Voeg betaling by"
+
+msgid "Repeat every:"
+msgstr "Herhaal elke:"
+
+msgid "Let's get started"
+msgstr "Laat ons begin"
+
+msgid "Take me there"
+msgstr "Vat my soontoe"
+
+msgid "Mark"
+msgstr "Merk"
+
+msgid "Onboarding"
+msgstr "Op instap"
+
+msgid "Created on"
+msgstr "Geskep op"
+
+msgid "Expires on"
+msgstr "Verval op"
+
+msgid "No announcements yet."
+msgstr "Nog geen aankondigings nie."
+
+msgid "Add Announcement"
+msgstr "Voeg aankondiging by"
+
+msgid "Edit Announcement"
+msgstr "Wysig aankondiging"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Datum en tyd moet ten minste een uur vooruit wees"
+
+msgid "Delete Date"
+msgstr "Vee Datum uit"
+
+msgid "Delete Time"
+msgstr "Vee tyd uit"
+
+msgid "Back"
+msgstr "terug"
+
+msgid "No Users Found"
+msgstr "Geen gebruikers gevind nie"
+
+msgid "No role selected"
+msgstr "Geen rol gekies nie"
+
+msgid "No permissions added!"
+msgstr "Geen toestemmings bygevoeg nie!"
+
+msgid "ASSIGNED USERS"
+msgstr "TOEGEWENDE GEBRUIKERS"
+
+msgid "CASE PERMISSIONS"
+msgstr "GEVALLESTELLINGS"
+
+msgid "User ID"
+msgstr "Gebruikers-ID"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "remove"
+msgstr "Verwyder"
+
+msgid "Assign User"
+msgstr "Gebruik gebruiker"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "ADD USER"
+msgstr "VOEG GEBRUIKER BY"
+
+msgid "Email user about case assignment"
+msgstr "E-pos gebruiker oor gevalopdrag"
+
+msgid "Keyword"
+msgstr "navraag"
+
+msgid "No cases found."
+msgstr "Geen gevalle gevind nie."
+
+msgid "Create a case for a business"
+msgstr "Skep &#39;n saak vir &#39;n besigheid"
+
+msgid "Case ID"
+msgstr "Saak-ID"
+
+msgid "Created On"
+msgstr "Geskep op"
+
+msgid "Case Status"
+msgstr "Saak Status"
+
+msgid "Case Type"
+msgstr "Soort saak"
+
+msgid "Assign Users"
+msgstr "Gebruikers toewys"
+
+msgid "No cases found"
+msgstr "Geen gevalle gevind nie"
+
+msgid "Have many cases?"
+msgstr "Het baie gevalle?"
+
+msgid "Click here to import cases."
+msgstr "Klik hier om sake in te voer."
+
+msgid "No status selected"
+msgstr "Geen status gekies nie"
+
+msgid "No type selected"
+msgstr "Geen tipe gekies nie"
+
+msgid "Case Info"
+msgstr "Case Info"
+
+msgid "About"
+msgstr "oor"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"'n Permanente etiket om maklik 'n saak te vind. (a-z, 0-9, -, /) word "
+"toegelaat"
+
+msgid "Case Types"
+msgstr "Soorte gevalle"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "to edit case types"
+msgstr "om gevalletipes te wysig"
+
+msgid "No Type selected"
+msgstr "Geen tipe gekies nie"
+
+msgid "Case not found!"
+msgstr "Geval nie gevind nie!"
+
+msgid "Media Size"
+msgstr "Media Grootte"
+
+msgid "All statistics"
+msgstr "Alle statistieke"
+
+msgid "Import not found."
+msgstr "Invoer nie gevind nie."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Verwerking van lêer het misluk. Maak seker dit is 'n CSV-lêertipe en bevat "
+"die korrekte opskrifte"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "No Imports yet."
+msgstr "Nog geen invoer nie."
+
+msgid "Source"
+msgstr "Bron"
+
+msgid "Stats"
+msgstr "Statistieke"
+
+msgid "Passed:"
+msgstr "Geslaag:"
+
+msgid "Failed:"
+msgstr "Misluk:"
+
+msgid "Total:"
+msgstr "Totaal:"
+
+msgid "Add Imports"
+msgstr "Voeg invoere by"
+
+msgid "Download Sample"
+msgstr "Laai voorbeeld af"
+
+msgid "Choose a file"
+msgstr "Kies 'n lêer"
+
+msgid "Edit Key"
+msgstr "Wysig sleutel"
+
+msgid "Add Key"
+msgstr "Voeg sleutel by"
+
+msgid "No Keys yet."
+msgstr "Nog geen sleutels nie."
+
+msgid "Source CIDR"
+msgstr "Bron CIDR"
+
+msgid "Remove"
+msgstr "Verwyder"
+
+msgid "is invalid."
+msgstr "is ongeldig."
+
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Maak seker dat u u nuwe geheime sleutel nou kopieer. U sal dit nie weer kan "
+"sien nie!"
+
+msgid "Edit Webhook"
+msgstr "Webhook wysig"
+
+msgid "Add Webhook"
+msgstr "Voeg Webhook by"
+
+msgid "No event selected"
+msgstr "Geen geleentheid gekies nie"
+
+msgid "No Webhooks yet."
+msgstr "Nog geen Webhooks nie."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Geheime Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Maak seker dat u u nuwe geheime webhook nou kopieer. U sal dit nie weer kan "
+"sien nie!"
+
+msgid "Sign In"
+msgstr "Teken in"
+
+msgid "Login in account page."
+msgstr "Login op rekening bladsy."
+
+msgid "Edit form builder"
+msgstr "Wysig vormbouer"
+
+msgid "Delete form"
+msgstr "Vee vorm uit"
+
+msgid "No forms yet."
+msgstr "Geen vorms nie."
+
+msgid "Intake Forms"
+msgstr "Inname vorms"
+
+msgid "Upload Intake Form Document"
+msgstr "Laai innamevormdokument op"
+
+msgid "Add Intake Form"
+msgstr "Voeg innamevorm by"
+
+msgid "Edit Intake Form"
+msgstr "Wysig Innamevorm"
+
+msgid "Show Media"
+msgstr "Wys media"
+
+msgid "Add Post"
+msgstr "Voeg pos by"
+
+msgid "Edit Post"
+msgstr "Wysig Pos"
+
+msgid "Files Amount"
+msgstr "Lêersbedrag"
+
+msgid "No Feed Templates yet."
+msgstr "Nog geen voersjablone nie."
+
+msgid "Post Name"
+msgstr "Posnaam"
+
+msgid "Post Message"
+msgstr "Pos Boodskap"
+
+msgid "Processing media ..."
+msgstr "Verwerk media ..."
+
+msgid "Download original file"
+msgstr "Laai die oorspronklike lêer af"
+
+msgid "Could not display media"
+msgstr "Kon nie media vertoon nie"
+
+msgid "No locations found."
+msgstr "Geen liggings gevind nie."
+
+msgid "Main Office"
+msgstr "Hoof kantoor"
+
+msgid "Location Name"
+msgstr "Pleknaam"
+
+msgid "Delete e-sign"
+msgstr "Vee e-teken uit"
+
+msgid "No e-signs yet."
+msgstr "Nog geen e-tekens nie."
+
+msgid "Subtasks Count"
+msgstr "Subtake tel"
+
+msgid "No tasks yet."
+msgstr "Nog geen take nie."
+
+msgid "Invoice ID"
+msgstr "Faktuur ID"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Refund"
+msgstr "Terugbetaling"
+
+msgid "No invoices yet."
+msgstr "Nog geen fakture nie."
+
+msgid "Refund Reason"
+msgstr "Rede vir terugbetaling"
+
+msgid "Duplicate charge"
+msgstr "Duplikaatheffing"
+
+msgid "Fraudulent charge"
+msgstr "Bedrieglike aanklag"
+
+msgid "Requested by customer"
+msgstr "Gevra deur kliënt"
+
+msgid "On Board"
+msgstr "Aan boord"
+
+msgid "Stripe"
+msgstr "Streep"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Rolinligting"
+
+msgid "It cannot be changed later"
+msgstr "Dit kan nie later verander word nie"
+
+msgid "Role Permissions"
+msgstr "Rol Toestemmings"
+
+msgid "e-signs"
+msgstr "e-tekens"
+
+msgid "on"
+msgstr "op"
+
+msgid "Allowed File Sizes"
+msgstr "Toegestaan ​​Lêergroottes"
+
+msgid "Create"
+msgstr "Skep"
+
+msgid "Creating..."
+msgstr "Die skep van ..."
+
+msgid "Modules"
+msgstr "modules"
+
+msgid "Roles"
+msgstr "rolle"
+
+msgid "Profile information"
+msgstr "Profiel inligting"
+
+msgid "No role found."
+msgstr "Geen rol gevind nie."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Wanneer 'n saak geskep word, ken hierdie gebruikers outomaties toe"
+
+msgid "Remove All"
+msgstr "Verwyder alle"
+
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+msgid "Notify"
+msgstr "Stel in kennis"
+
+msgid "Host User"
+msgstr "Gasheergebruiker"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Wanneer 'n gebruiker aan 'n saak toegewys word, voeg sjablone outomaties by"
+
+msgid "No post selected"
+msgstr "Geen plasing gekies nie"
+
+msgid "No form selected"
+msgstr "Geen vorm gekies nie"
+
+msgid "No e-sign selected"
+msgstr "Geen e-teken gekies nie"
+
+msgid "Templates"
+msgstr "Sjablone"
+
+msgid "Add Templates"
+msgstr "Voeg sjablone by"
+
+msgid "Idle Cases"
+msgstr "Idle gevalle"
+
+msgid "When a case is idle, post this message"
+msgstr "Plaas hierdie boodskap wanneer 'n saak ledig is"
+
+msgid "No case type selected"
+msgstr "Geen saaktipe gekies nie"
+
+msgid "Idle Days"
+msgstr "Ledige dae"
+
+msgid "Post Id"
+msgstr "Pos ID"
+
+msgid "Set Idle Message"
+msgstr "Stel Idle Message"
+
+msgid "No task selected"
+msgstr "Geen taak gekies nie"
+
+msgid "No operation order selected"
+msgstr "Geen operasievolgorde gekies nie"
+
+msgid "Operation Order"
+msgstr "Operasie Orde"
+
+msgid "Add Templates to Assign Users"
+msgstr "Voeg sjablone by om gebruikers toe te wys"
+
+msgid "CaseType"
+msgstr "Gevaltipe"
+
+msgid "Case Form"
+msgstr "Gevalvorm"
+
+msgid "User Form"
+msgstr "Gebruikersvorm"
+
+msgid "Notes Form"
+msgstr "Notas Vorm"
+
+msgid "Defaults"
+msgstr "standaard"
+
+msgid "Required"
+msgstr "vereis"
+
+msgid "Public User Signup link:"
+msgstr "Publieke gebruikerregistrasieskakel:"
+
+msgid "Design Settings"
+msgstr "Ontwerpinstellings"
+
+msgid "Favicon:"
+msgstr "favicon:"
+
+msgid "Change file"
+msgstr "Verander lêer"
+
+msgid "Delete Favicon"
+msgstr "Vee Favicon uit"
+
+msgid "Logo:"
+msgstr "logo:"
+
+msgid "Delete Logo"
+msgstr "Skrap logo"
+
+msgid "Text Color"
+msgstr "Tekskleur"
+
+msgid "Recommended Colors:"
+msgstr "Aanbevole kleure:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "herstel"
+
+msgid "Background Color"
+msgstr "Agtergrondkleur"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Maatskappy inligting"
+
+msgid "Website"
+msgstr "Webwerf"
+
+msgid "Terms of Use URL"
+msgstr "Gebruiksvoorwaardes URL"
+
+msgid "User Signup"
+msgstr "Gebruikersregistrasie"
+
+msgid "Allow Signup"
+msgstr "Laat inskrywing toe"
+
+msgid "Auto Create Case"
+msgstr "Outo skep saak"
+
+msgid "Case User Role"
+msgstr "Geval Gebruiker Rol"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Analitiese sleutel"
+
+msgid "delete"
+msgstr "verwyder"
+
+msgid "Crop Image"
+msgstr "Oesbeeld"
+
+msgid "No Filter"
+msgstr "Geen filter"
+
+msgid "No logs requested."
+msgstr "Geen logs aangevra nie."
+
+msgid "Logs list is empty."
+msgstr "Loglys is leeg."
+
+msgid "Download CSV"
+msgstr "Laai CSV af"
+
+msgid "Request Logs"
+msgstr "Versoek logs"
+
+msgid "Log Type"
+msgstr "Log Type"
+
+msgid "Filter"
+msgstr "filter"
+
+msgid "Select a case"
+msgstr "Kies &#39;n saak"
+
+msgid "Enter the email address"
+msgstr "Voer die e-posadres in"
+
+msgid "Module"
+msgstr "module"
+
+msgid "Header (3 max)"
+msgstr "Opskrif (maks. 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Wanneer 'n gebruiker by toepassing aansluit, vra die gebruiker om die "
+"volgende te deel"
+
+msgid "No user intake found."
+msgstr "Geen gebruikerinname gevind nie."
+
+msgid "User Type"
+msgstr "Gebruiker Tipe"
+
+msgid "Intake Form"
+msgstr "Inname vorm"
+
+msgid "Complete After"
+msgstr "Voltooi na"
+
+msgid "No user type selected"
+msgstr "Geen gebruikertipe gekies nie"
+
+msgid "No intake form selected"
+msgstr "Geen innamevorm gekies nie"
+
+msgid "Complete After Date"
+msgstr "Voltooi na datum"
+
+msgid "Complete After Time"
+msgstr "Voltooi na die tyd"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Datum en tyd moet minder of gelyk wees aan nou"
+
+msgid "Comment ct"
+msgstr "Kommentaar ct"
+
+msgid "View Ticket"
+msgstr "Bekyk Kaartjie"
+
+msgid "Ticket"
+msgstr "Kaartjie"
+
+msgid "No tickets yet."
+msgstr "Nog geen kaartjies nie."
+
+msgid "User not found."
+msgstr "Gebruiker nie gevind nie."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Gebruiker kan hul rekeninginligting wysig, behalwe vir die "
+"gasheergebruikerkenmerke-afdeling."
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "Phone number"
+msgstr "Telefoon nommer"
+
+msgid "Zip Postal Code"
+msgstr "Zip / Poskode"
+
+msgid "Host User Attributes"
+msgstr "Gasheergebruikerkenmerke"
+
+msgid "User Status"
+msgstr "Gebruikers Status"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"'n Permanente etiket om 'n gebruiker maklik te vind. (a-z, 0-9, -, /) word "
+"toegelaat"
+
+msgid "App only User Intake Fields"
+msgstr "Slegs toepassing-gebruikerinnamevelde"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP SLEGS AANBIEDINGSGEBIEDE"
+
+msgid "s found."
+msgstr "se gevind."
+
+msgid "Created Date"
+msgstr "Geskep Datum"
+
+msgid "View Cases"
+msgstr "Bekyk gevalle"
+
+msgid "VIEW CASES"
+msgstr "KYK GEVALLE"
+
+msgid "Get Started"
+msgstr "Begin"
+
+msgid "Password"
+msgstr "wagwoord"
+
+msgid "Email is not valid."
+msgstr "E-pos is nie geldig nie."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive laat jou en jou kliënt toe"
+
+msgid "work together"
+msgstr "werk saam"
+
+msgid "at any time, in any place."
+msgstr "op enige tyd, op enige plek."
+
+msgid "Explore"
+msgstr "verken"
+
+msgid "Pricing"
+msgstr "Pryse"
+
+msgid "Support & Docs"
+msgstr "Ondersteuning en dokumente"
+
+msgid "FAQ"
+msgstr "Vrae"
+
+msgid "Failed to validate if you are human"
+msgstr "Kon nie valideer as u &#39;n mens is nie"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "Meld my wanneer dit klaar is!"
+
+msgid "Thank You!"
+msgstr "Dankie!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Ons sal u in kennis stel wanneer die app gereed is"
+
+msgid "Most popular"
+msgstr "Gewildste"
+
+msgid "All languages"
+msgstr "Alle tale"
+
+msgid "Oops, Something went wrong."
+msgstr "Oeps! Iets het verkeerd gegaan."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Oeps! Iets het verkeerd gegaan. Ons span is in kennis gestel. Probeer "
+"asseblief weer later."
+
+msgid "Support Documentation"
+msgstr "Ondersteuningsdokumentasie"
+
+msgid "All Categories"
+msgstr "alle kategorieë"
+
+msgid "Contents"
+msgstr "Inhoud"
+
+msgid "Related Articles"
+msgstr "verwante artikels"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr "Begin: prosesse, beste praktyke, opstelgidse en meer!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Vind enigiets wat jy nodig het om aan die werk te kom in CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Alle geval kommunikasie op een plek"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Omgekeer, plaas opdaterings, beantwoord vrae, neem notas, lewer kommentaar, "
+"en hou alle besprekings gemerk deur intydse e-pos- en SMS-kennisgewings."
+
+msgid "Share with confidence"
+msgstr "Deel met vertroue"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Deel dokumente en foto&#39;s tussen kliënte en spanlede oor alle toestelle, "
+"sodat almal op datum is."
+
+msgid "Take it on the go"
+msgstr "Neem dit op die pad"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Gebruik mobiele toestelle soos tablette en slimfone om saam te werk aan "
+"sleutelbesonderhede, bespreek belangrike probleme, ruil dokumente uit en "
+"teken vordering op kaarte."
+
+msgid "Immediate records access"
+msgstr "Onmiddellike rekords toegang"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Gemagtigde gebruikers kan vinnig toegang tot kliëntedata en saakinligting "
+"kry (insluitend huidige, verlede, oop, geslote en hangende sake), alles deur"
+" een portaal."
+
+msgid "Automatic timezone conversion"
+msgstr "Outomatiese tydsone omskakeling"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Of jy nou op &#39;n ander plek reis of bly, jy sal met ons tydsone-"
+"gesprekbestuurstelsel sinchroniseer."
+
+msgid "Track Events"
+msgstr "Track Events"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Skakel vergaderings vinnig, monitor opkomende gebeurtenisse en nooi kliënte "
+"en spanlede as deelnemers."
+
+msgid "Video Conferencing"
+msgstr "Video konferensie"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Koppel aan kliënte en spanlede via live video-kletse vir selfs meer "
+"interaksie."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Outomatiseer take wanneer 'n saak geskep word of 'n gebruiker aan 'n saak "
+"toegewys word."
+
+msgid "Automated Alerts"
+msgstr "Outomatiese kennisgewings"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Wil u kliënte &#39;n gelukkige verjaardag wens? Stel &#39;n outomatiese "
+"boodskap op vir sowel klante as huidige kliënte vir hul spesiale dag!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Hou die kliënt besonderhede op datum"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Kliënte kan hul profiele verander met opgedateerde data, foto&#39;s, "
+"wagwoorde en rekeninginstellings."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Stel vrae, kry antwoorde."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Skep pasgemaakte vorms en stuur dit aan kliënte vir voltooiing. Versamel "
+"noodsaaklike inligting, verskaf uittrekspeilings en kry al die data wat u "
+"nodig het om u werk goed te kan doen!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Direkteur van verkope van Kain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Maak kliënt faktuur so eenvoudig as moontlik met aanlyn fakture en "
+"betalings."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Ons is mal oor die fakturering van die saak omdat dit kliënte toelaat om "
+"presies te sien waarvoor hulle betaal."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Vise-voorsitter van Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Geniet die gemak van e-ondertekening"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Teken alle dokumente elektronies af deur middel van DocSign, met behulp van "
+"opgelaaide dokumente en versoeke en bevestiging van digitale kliente."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Laai 'n dokument op, merk dit vir handtekening, en dan meld die kliënt aan "
+"en e-teken dit. Alles word gedoen sonder dat die kliënt by ons gebou hoef in"
+" te kom. Dit is handig met kliënte wat nie naby 'n kantoor is nie of wat "
+"buite die staat woon."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Direkteur van Bedryf van Kapitaalversekering"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Verbeter jou stelsel. Minder werk, meer resultate."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Gebruik die Self-Serve Administrative Feature"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Neem die totale beheer van u CaseActive bestuurs suite vanaf die platform "
+"self."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Koppel moeiteloos jou bestaande stelsel met CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integreer ons eie API om sake outomaties te skep, gebruikers toe te ken en "
+"verslae te genereer op grond van u stelselinvoer."
+
+msgid "Acting as a"
+msgstr "Optree as &#39;n"
+
+msgid "virtual administrative assistant"
+msgstr "virtuele administratiewe assistent"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive bemagtig jou met vaartbelynde dokumente en mediahantering, "
+"privaat"
+
+msgid "client-to-customer communications"
+msgstr "kliënt-tot-kliënt kommunikasie"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "gebeurtenis skedulering, en stap-vir-stap geval verwerking."
+
+msgid "Self-Serve Administration"
+msgstr "Selfbedieningsadministrasie"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"As &#39;n virtuele administratiewe assistent tree CaseActive u in staat om "
+"vaartbelynde dokument- en mediahantering, privaat kliënt-tot-kliënt-"
+"kommunikasie, gebeurtenisskedulering en stap-vir-stap-saakverwerking te gee."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Bestuur gebruikers aanmeldings en skepping van sake"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Hou direk toesig oor die skepping van gebruikersrekeninge terwyl hul "
+"toegangstoestemmings van geval tot geval gemagtig word. Bestuur die "
+"skepping, vordering en sluiting van sake, met volledige verslaggewing elke "
+"stap van die pad."
+
+msgid "View Caseactive Analytics"
+msgstr "Bekyk Case-aktiewe Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Kyk presies hoe &#39;n saak vorder, die aantal sake wat suksesvol afgesluit "
+"is, en sien reaksietye via die deeglike analise-module van CaseActive. "
+"Kennis is krag, en ons het alles oor u eie projekte te kenne gegee."
+
+msgid "Monitor User Logs"
+msgstr "Monitor gebruikers logs"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Hou die kliënt- en spanlidaanmeldings en platformaktiwiteit dop om te "
+"verseker dat al hul optrede binne die gevalparameters gemagtig is en dat "
+"alle lede hul pligte uitvoer soos benodig."
+
+msgid "Employ Advanced Searches"
+msgstr "Gebruik Gevorderde soektogte"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Soek presies wat u benodig as u dit benodig. Soek sake deur gebruikers- en "
+"kliëntname, sleutelwoorde, tydlyne, opgelaaide dokumente en nog baie meer!"
+
+msgid "Create Custom Fields"
+msgstr "Skep persoonlike velde"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Genereer gespesialiseerde saakvelde vir kliënt- en spanlidinvoere, en "
+"versamel die inligting wat u benodig van almal wat betrokke is. Maak die "
+"saak-koppelvlak uniek aan u besigheid en handelsmerk!"
+
+msgid "Create Custom Templates"
+msgstr "Skep persoonlike sjablone"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Ontwikkel &#39;n enorme reeks aangepaste vorms en sjablone vir verspreiding "
+"en voltooiing tydens en na &#39;n saak (soos kliëntuitgang-opnames). Watter "
+"vorm u ook al benodig, u kan skep!"
+
+msgid "Violet Cherry"
+msgstr "Violette Kersie"
+
+msgid "As-You-Go Invoicing"
+msgstr "Fakturering as jy gaan"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Ons is hier om te help! Kontak as jy nog vrae het en ons sal binne twee "
+"werksdae beantwoord."
+
+msgid "* Email is not valid."
+msgstr "* E-pos is nie geldig nie."
+
+msgid "Low"
+msgstr "lae"
+
+msgid "Medium"
+msgstr "medium"
+
+msgid "High"
+msgstr "hoë"
+
+msgid "Critical"
+msgstr "kritieke"
+
+msgid "Choose Importance"
+msgstr "Kies belangrikheid"
+
+msgid "Department"
+msgstr "Departement"
+
+msgid "Sales"
+msgstr "verkope"
+
+msgid "Other"
+msgstr "ander"
+
+msgid "Choose Department"
+msgstr "Kies Departement"
+
+msgid "Loading"
+msgstr "laai"
+
+msgid "Importance"
+msgstr "belangrikheid"
+
+msgid "Send A New Message"
+msgstr "Stuur &#39;n nuwe boodskap"
+
+msgid "Send message"
+msgstr "Stuur boodskap"
+
+msgid "Answers to Questions"
+msgstr "Antwoorde op vrae"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Het u enige vrae? Lees verdere riglyne in ons antwoorde op kliënte se navrae"
+" en vind die antwoorde op u eie."
+
+msgid "How secure is CaseActive?"
+msgstr "Hoe veilig is CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive gebruik militêre en bankgraad 128-bis SSL-enkripsie vir data-"
+"oordrag en 256-bis AES-kodering vir data in rus. Elke CaseActive-instansie "
+"het 'n unieke sleutel wat gegenereer word, wat 'n bykomende laag sekuriteit "
+"vir jou besigheid bied. Ons sal nooit 'n ander maatskappy toelaat om toegang"
+" tot jou databasis of bergingstelsel te kry nie."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Ek het 'n bestaande stelsel in plek. Kan CaseActive met my bestaande stelsel"
+" werk?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Ja, jy kan ons eie API of invoermodule integreer om outomaties gevalle te "
+"skep, gebruikers toe te wys en verslae te genereer gebaseer op jou "
+"stelselinsette."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Ons het kliënte oor die hele wêreld. Is CaseActive in ander tale beskikbaar?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Ja, CaseActive-toepassing en kommunikasie kan in meer as 60 tale vertaal "
+"word, insluitend Mandaryns Chinees, Spaans, Hindi en Russies sowel as "
+"Engels."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Kan ek 'n logo byvoeg of CaseActive op enige manier aanpas?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Absoluut! CaseActive is ontwerp met jou in gedagte. Op die "
+"administrasiepaneel-instellingsbladsy kan jy jou eie persoonlike kleur "
+"oplaai en jou maatskappykleure kies."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Is CaseActive versoenbaar met enige toestel (rekenaar, Mac, tablet en "
+"selfoon)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive is 'n responsiewe webtoepassing. Dit werk in enige webblaaier "
+"soos Internet Explorer, Firefox, Safari of Chrome, ens. Dit beteken dat die "
+"tipe toestel (rekenaar, Mac, tablet en selfoon) wat jy gebruik, geen verskil"
+" maak nie. Maak eenvoudig die webblaaier oop, meld aan by jou CaseActive-"
+"rekening, en jy is gereed."
+
+msgid "How many clients can I have?"
+msgstr "Hoeveel kliënte kan ek hê?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Jy word gefaktureer per personeelsitplek, per maand. U kan onbeperkte "
+"kliëntgebruikers hê."
+
+msgid "Enhance User Experience"
+msgstr "Verbeter gebruikerservaring"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Daar is geen minimum fooie en geen vooraf verpligtinge nie. Jy betaal slegs "
+"per personeelsitplek, per maand."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "per Maand"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Alles wat jy nodig het om te begin. 3 sitplekke is ingesluit."
+
+msgid "Business"
+msgstr "Besigheid"
+
+msgid "Popular"
+msgstr "Gewild"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Ons gewildste plan. 4 sitplekke is ingesluit."
+
+msgid "Enterprise"
+msgstr "Onderneming"
+
+msgid "Contact sales for pricing"
+msgstr "Kontak verkope vir pryse"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Pasgemaakte pryse, gevorderde kenmerke, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Kontak Verkope"
+
+msgid "Overview"
+msgstr "Oorsig"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Kommunikeer en deel dokumente met jou kliënte"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Skeduleer herhalende geleenthede en vergaderings"
+
+msgid "Fully customize your form to generate data"
+msgstr "Pas jou vorm volledig aan om data te genereer"
+
+msgid "Keep track of case progression"
+msgstr "Hou tred met die vordering van die saak"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Versoek aan voldoenende e-handtekeninge van verskeie gebruikers"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Genereer faktuur vir jou kliënt om te sien of te betaal"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Laat almal toe om te weet wat voorlê en wat voorlê"
+
+msgid "Auto notify the user when something is due"
+msgstr "Stel die gebruiker outomaties in kennis wanneer iets verskuldig is"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Voeg pasgemaakte saakvelde by vir al jou sake"
+
+msgid "Custom Branding"
+msgstr "Pasgemaakte handelsmerk"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Maak jou toepassing uniek met logo- en kleurstyle"
+
+msgid "Access to customer support"
+msgstr "Toegang tot kliëntediens"
+
+msgid "Storage"
+msgstr "Berging"
+
+msgid "Unlimited"
+msgstr "Onbeperk"
+
+msgid "Additional Users Seats"
+msgstr "Bykomende gebruikerssitplekke"
+
+msgid "N/A"
+msgstr "NVT"
+
+msgid "$83.34"
+msgstr "$83,34"
+
+msgid "Convo with recording"
+msgstr "Gesprek met opname"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video- of oudioklets met opname gestoor in die saak"
+
+msgid "API Access"
+msgstr "API-toegang"
+
+msgid "Automate tasks with access to API"
+msgstr "Outomatiseer take met toegang tot API"
+
+msgid "Module Templates"
+msgstr "Module Sjablone"
+
+msgid "Create a standard template and reuse it"
+msgstr "Skep 'n standaard sjabloon en hergebruik dit"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Voer 'n aksie outomaties uit wanneer 'n saak of saak wat toegewys is, "
+"geaktiveer word"
+
+msgid "Newsletter"
+msgstr "Nuusbrief"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Stuur algemene, verjaardag- of vakansieboodskappe aan kliënte (binnekort)"
+
+msgid "Encryption at rest"
+msgstr "Enkripsie in rus"
+
+msgid "Protects your data from system compromise"
+msgstr "Beskerm jou data teen stelsel kompromie"
+
+msgid "Encryption in transit"
+msgstr "Enkripsie in transito"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Beskerm jou data as kommunikasie onderskep word"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML-gebaseerde enkelaanmelding (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Reageer intyds op gebeure"
+
+msgid "Seamless Collaboration"
+msgstr "Naatlose samewerking"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive stroomlyn digitale samewerking tussen jou maatskappy en kliënte –"
+" van konsultasie tot oplossing, alles op een platform."
+
+msgid "Take a tour"
+msgstr "Neem &#39;n toer"
+
+msgid "Stay Connected"
+msgstr "Bly gekonnekteer"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Handhaaf onmiddellike kontak met spanlede met behulp van CaseActive se "
+"gebruikersvriendelike koppelvlak as u middelpunt vir klante- en saakbestuur."
+
+msgid "Connect"
+msgstr "verbind"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed hou jou op hoogte met jou kliënte."
+
+msgid "Schedule"
+msgstr "skedule"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Skep gebeurtenisse, nooi deelnemers, en monitor jou kalender."
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Raak betrokke by live video konferensie oproepe enige tyd, enige plek."
+
+msgid "Share"
+msgstr "Deel"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Laai lêers veilig op, bespreek dit en deel."
+
+msgid "Powerful Case Management"
+msgstr "Kragtige Gevallebestuur"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Out-of-the-Box Functionality"
+
+msgid "Easily assign individuals"
+msgstr "Ken individue maklik toe"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "of spanne na &#39;n saak en saam met kliënte."
+
+msgid "Manage user groups"
+msgstr "Bestuur gebruikersgroepe"
+
+msgid "and customize access permissions."
+msgstr "en pas toegangsregte aan."
+
+msgid "All data is automatically backed up"
+msgstr "Alle data word outomaties gerugsteun"
+
+msgid "in case a recovery is ever needed."
+msgstr "in geval &#39;n herstel ooit nodig is."
+
+msgid "All information"
+msgstr "Alle inligting"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "is veilig geïnkripteer, wat jou absolute privaatheid verseker."
+
+msgid "Customize"
+msgstr "pas"
+
+msgid "with your own colors and logo."
+msgstr "Met jou eie kleure en logo."
+
+msgid "can be enabled/disabled at any time."
+msgstr "kan geaktiveer / gedeaktiveer word op enige tydstip."
+
+msgid "Benefits of "
+msgstr "Voordele van"
+
+msgid "Reduction in time "
+msgstr "Vermindering in tyd"
+
+msgid "to intake new clients"
+msgstr "om nuwe kliënte in te neem"
+
+msgid "Minimize "
+msgstr "Minimaliseer"
+
+msgid "the chance of "
+msgstr "die kans om"
+
+msgid "malpractice"
+msgstr "wanpraktyke"
+
+msgid "Better experience "
+msgstr "Beter ervaring"
+
+msgid "for your client"
+msgstr "vir jou kliënt"
+
+msgid "Increase in caseload capacity "
+msgstr "Verhoging in caseload kapasiteit"
+
+msgid "per staff"
+msgstr "per personeel"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Begin met ons ingeboude programme"
+
+msgid "All you need in one place."
+msgstr "Al wat jy nodig het in een plek."
+
+msgid "Case Feed"
+msgstr "Saakvoer"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Ken &#39;n kliënt, personeel en medewerkers maklik aan &#39;n saak toe en "
+"neem &#39;n veilige ruimte in wat u kan laat verloop van sake, &#39;n "
+"intydse klets- en videogesprekke kan voer, sowel as gebeurtenisse kan "
+"skeduleer, e-teken / oplaai / aflaai van dokumente, en baie meer."
+
+msgid "Case Invoices"
+msgstr "Saak Fakture"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Met faktuurfakture is klientfakturering net een klik weg en kan u outomaties"
+" gegenereerde fondsversoeke stuur en regstreekse betalings ontvang."
+
+msgid "Case Events"
+msgstr "Geval Gebeurtenisse"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Hou u saakkalender te alle tye georganiseerd, skeduleer geleenthede, nooi "
+"die deelnemers uit, stuur gebeurtenisherinneringe en sorg dat alles op die "
+"regte spoor bly."
+
+msgid "Case Convo"
+msgstr "Geval Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Ontmoet met die kliënte en spanlede feitlik &#39;van aangesig tot "
+"aangesig&#39; deur ingeboude videokonferensies sodat u direk met almal "
+"betrokke kan praat."
+
+msgid "Case Forms & E-signs"
+msgstr "Gevalvorms & E-tekens"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Pas u saakvorm volledig aan om unieke sjablone te genereer wat aan u "
+"spesifieke behoeftes voldoen. Hierdie sjablone kan dan aan kliënte en "
+"spanlede versprei word om in te vul en te onderteken"
+
+msgid "Case notes"
+msgstr "Geval notas"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Hou aantekeninge met gepasmaakte velde en aanhangsels oor saakvordering vir "
+"huidige en toekomstige spanlede"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Laai lêers wat op die saak betrekking het op, deel, lewer kommentaar op en "
+"laai dit af sodat almal 'n verwysing het oor al die belangrike besonderhede,"
+" mense en situasies."
+
+msgid "About Case"
+msgstr "Oor die saak"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Laat kliënte en personeel algemene besonderhede sien oor die sake waarby "
+"hulle betrokke is. U kan die saak dan afsluit sodra alles toegedraai is, of "
+"aan &#39;n spanlid toestemming gee."
+
+msgid "Plus Many More Features"
+msgstr "Plus baie meer funksies"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Gebruik die selfbedien-administratiewe funksie Neem volledige beheer van u "
+"CaseActive-bestuurspakket vanaf die platform self."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Koppel u bestaande stelsel moeiteloos met CaseActive Integreer ons eie API "
+"om sake outomaties te skep, gebruikers toe te ken en verslae te genereer op "
+"grond van u stelselinvoer."
+
+msgid "Multi-Language Enabled:"
+msgstr "Multi-taal aangeskakel:"
+
+msgid "Interact with clients in"
+msgstr "Interaksie met kliënte in"
+
+msgid "70+ languages"
+msgstr "70 + tale"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Of dit plaaslik of wêreldwyd werk, jy kan die taal van jou kliënt deur "
+"CaseActive&#39;s vertaal"
+
+msgid "language management system"
+msgstr "taalbestuurstelsel"
+
+msgid "No more confusion or limits."
+msgstr "Geen meer verwarring of perke nie."
+
+msgid "Let's see what others are saying"
+msgstr "Kom ons kyk wat ander sê"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Ontdek hoe ons ongelooflike kliënte - van kleinsakeondernemings tot "
+"korporatiewe ondernemings - hul mededingende voordeel verhoog deur "
+"CaseActive-stryders te word."
+
+msgid "SUPPORT"
+msgstr "ONDERSTEUNING"
+
+msgid "Everything at Your Fingertips."
+msgstr "Alles by jou vingers."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Begin met jou CaseActive-program deur ons videogids te volg, en pas dit aan "
+"om jou behoeftes te pas."
+
+msgid "What are you looking for..."
+msgstr "Waarvoor soek jy..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Laas opgedateer: 7 Junie 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive behou die reg voor om te eniger tyd en na goeddunke enige of al "
+"hierdie diensbepalings op te dateer en te verander. Wanneer CaseActive "
+"hierdie diensbepalings verander, sal CaseActive die datum hierbo &#39;Laas "
+"opgedateer&#39; verander. U is verantwoordelik daarvoor om die nuutste "
+"weergawe van die Diens gereeld na te gaan. U voortgesette gebruik van die "
+"dienste nadat sodanige veranderinge aangebring is, sal u toestemming gee om "
+"deur sodanige veranderinge gebind te wees. As u beswaar maak teen enige "
+"veranderinge aan hierdie diensbepalings, is u enigste en eksklusiewe "
+"oplossing om die dienste te beëindig volgens die voorwaardes hierin."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Hierdie algemene diensvoorwaardes is van toepassing op die dienste in die "
+"algemeen. Die bykomende bepalings van toepassing op elke diens wat aangebied"
+" word, word in die onderstaande skakels uiteengesit (die &#39;Bykomende "
+"diensvoorwaardes&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Dienste:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Ons eie sagteware is &#39;n diensplatform wat ons vir ons kliënte aanbied om"
+" die onderstaande dienste te bied. Om in te teken op &#39;n diens, moet u "
+"&#39;n bestelvorm vir daardie diens uitvoer en / of die aanmeldstroom vir "
+"die diens invul. U is slegs geregtig om die dienste te gebruik waarvoor u "
+"ingeteken en betaal het, en u gebruik van die dienste is onderhewig aan u "
+"nakoming van alle bepalings en voorwaardes van die ooreenkoms. U erken en "
+"stem in dat ons die reg voorbehou om die Dienste (of enige deel daarvan) van"
+" tyd tot tyd te wysig en dat ons nie teenoor u of aan &#39;n derde party "
+"aanspreeklik sal wees vir enige wysiging aan die Dienste nie."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Beskrywing van CaseActive Service: CaseActive Service is die reeks "
+"sagteware-dienste wat aangebied word vir die bestuur van aanlyn-kliënt-"
+"samewerking aangebied deur CaseActive LLC. Die aanmeldingsvloei waarop u "
+"ingestem het, of die bestelvorm wat u uitgevoer het, identifiseer die "
+"CaseActive-diens waarvoor u ingeteken het, die intekeningstermyn en die "
+"fooie wat u vir die CaseActive-diens betaalbaar is. Die bykomende bepalings "
+"en voorwaardes van toepassing op u gebruik van die CaseActive Service word "
+"uiteengesit by:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Uitbreiding van die dienste:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"U kan inteken op enige addisionele dienste, insluitend nuwe dienste wat van "
+"tyd tot tyd deur CaseActive beskikbaar gestel word, of u bestaande dienste "
+"verhoog deur &#39;n addisionele bestelvorm of registrasievloei uit te voer, "
+"as deel van die dienste. Elke nuwe aanmeldingsvloei of bestelvorm bevat die "
+"prys en faktureringsdatum (s) van die dienste wat op daardie tydstip "
+"bygevoeg word. Alle nuwe dienste is onderworpe aan hierdie algemene "
+"diensbepalings en enige addisionele voorwaardes en bepalings wat spesifiek "
+"op sodanige addisionele dienste van toepassing kan wees."
+
+msgid "3. Customer Support:"
+msgstr "3. Customer Support:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Op voorwaarde dat u alle gelde betaalbaar wat u vir die dienste betaal, "
+"betaal het, sal ons kommersiële redelike pogings aanwend om u tegniese "
+"ondersteuningsdienste gratis aan u en u gemagtigde gebruikers te lewer wat "
+"ingeteken het op die dienste. &#39;N Kliëntediensverteenwoordiger sal aan u "
+"sake toegewys word. Onbeperkte gevalle word aanvaar deur gemagtigde "
+"gebruikers. Ons standaardondersteuning is 24/7 beskikbaar, uitgesonderd "
+"groot vakansiedae, wat Gedenkdag, Onafhanklikheidsdag, Arbeidsdag, "
+"Danksegging, Kersfees en Nuwejaarsdag insluit. U kan kliëntediens kontak "
+"deur ons te gebruik"
+
+msgid "Contact Form"
+msgstr "Kontak Vorm"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Ons responstyd mag nie langer as twee werksdae wees nie."
+
+msgid "4. Training:"
+msgstr "4. Opleiding:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Op voorwaarde dat u alle gelde betaalbaar wat u vir die dienste betaal, "
+"betaal het, sal ons afgeleë, regstreekse of opgeneemde opleidingsessies "
+"beskikbaar stel aan u aangewese, benoemde en gemagtigde gebruikers, en "
+"tutoriale verskaf wat beskikbaar is via die afdeling Hulp en Opleiding op "
+"ons webwerf by geen ekstra koste nie. Vir sommige dienste bied ons opleiding"
+" op die terrein op versoek en teen &#39;n ekstra koste. Kontak ons gerus "
+"deur ons te gebruik"
+
+msgid "for more information about on-site training."
+msgstr "vir meer inligting oor opleiding op die terrein."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. U regte en beperkings:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Lisensie: Behoudens die bepalings en voorwaardes van die ooreenkoms, en "
+"by die tydige betaling van alle toepaslike fooie soos uiteengesit in die "
+"bestelvorm of aanmeldstroom, gee ons u hiermee &#39;n nie-eksklusiewe, nie-"
+"oordraagbare, beperkte reg en lisensie om die dienste waarop u ingeteken "
+"het, slegs vir u interne besigheidsdoeleindes te gebruik (en toelaat dat u "
+"gemagtigde gebruikers dit gebruik)."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Gemagtigde gebruikers: U (i) is verantwoordelik vir die nakoming van u "
+"gemagtigde gebruikers aan die Ooreenkoms, en (ii) sal kommersiële redelike "
+"pogings aanwend om ongemagtigde toegang tot of gebruik van die dienste te "
+"voorkom en ons onmiddellik in kennis stel van sodanige ongemagtigde toegang "
+"of gebruik. Dit is u verantwoordelikheid om toegang tot die dienste te "
+"verwyder indien die gemagtigde status van &#39;n gebruiker of aangewese "
+"werknemer verander."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 U verantwoordelikhede en beperkings: U is verantwoordelik vir alle "
+"aktiwiteite wat onder u gebruikersrekeninge of deur u gemagtigde gebruikers "
+"plaasvind. U moet: (i) alle verantwoordelikheid hê vir die akkuraatheid, "
+"kwaliteit, integriteit, wettigheid, betroubaarheid en toepaslikheid van alle"
+" gegewens wat u aan die Dienste verstrek; (ii) kommersiële redelike pogings "
+"aanwend om ongemagtigde beheer of gepeuter of enige ander ongemagtigde "
+"toegang tot, of die gebruik van die dienste te voorkom en ons onmiddellik in"
+" kennis te stel van enige ongemagtigde gebruik of sekuriteitsoortreding; "
+"(iii) voldoen aan alle toepaslike plaaslike, staats-, federale en "
+"buitelandse wette (insluitend wette rakende privaatheid en beskerming van "
+"persoonlike of verbruikersinligting) tydens die gebruik van die dienste; "
+"(iv) voldoen aan alle toepaslike reëls van kredietkaartverenigings "
+"(insluitend American Express, MasterCard en Visa), in die mate wat van "
+"toepassing is; en (v) al die rekenaarhardeware, sagteware en "
+"kommunikasietoerusting wat u benodig om toegang tot die dienste te verkry en"
+" in stand te hou, en alle toegangskoste (bv. ISP-gelde) wat u aangegaan het "
+"in verband met u gebruik van die dienste te betaal."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"U mag dit nie doen nie, en u moet toesien dat u gemagtigde gebruikers nie, "
+"(i) enige kode in verband met die Dienste uitmekaar haal, omgekeer, "
+"omgekompileer of andersins probeer om dit te ontsyfer nie, of verander, "
+"aanpas, afgeleide werke maak wat gebaseer is op of vertaal word nie dienste;"
+" (ii) lisensie, onderverdeling, verkoop, huur, toewysing, verspreiding, "
+"timeshare-oordrag, huur, lening, herverkoop vir wins, verspreiding of "
+"kommersiële benutting daarvan, regte toestaan of die dienste aan enige derde"
+" party beskikbaar stel; (iii) die dienste gebruik nie, behalwe soos "
+"hieronder uitdruklik gemagtig of in stryd met toepaslike wette; (iv) enige "
+"onwettige of misleidende handelspraktyke ten opsigte van die Dienste "
+"beoefen; (v) enige sekuriteit of ander tegniese kenmerke of maatreëls van "
+"die Dienste of enige ander aspek van die Sagteware omseil of deaktiveer of "
+"op enige manier poog om ongemagtigde toegang tot die Dienste of die verwante"
+" rekenaarstelsels of netwerke te verkry of te verkry; (vi) die dienste "
+"gebruik om inbreukmakende, lasterlike, obsene, dreigende of andersins "
+"onwettige, onveilige, kwaadwillige, beledigende of martelingsmateriaal oor "
+"te dra, of om materiaal te stoor of oor te dra in stryd met die "
+"privaatheidsregte van derdepartye; (vii) die Diens gebruik om virusse, "
+"wurms, tydbomme, Trojaanse perde en ander skadelike of kwaadwillige kode, "
+"lêers, skrifte, agente of programme op te slaan of oor te dra, of om "
+"strooipos of andersins dupliserende of ongevraagde boodskappe te stuur in "
+"stryd met toepaslike wette ; of (viii) die integriteit of prestasie van die "
+"Dienste of derdeparty-data daarin vervat inmeng of dit ontwrig."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Behoud van regte: Geen ander regte word toegestaan nie, behalwe soos "
+"uitdruklik in die ooreenkoms uiteengesit. Die ooreenkoms is nie &#39;n "
+"verkoop nie en dra geen regte of eiendomsreg in of aan die dienste of "
+"onderliggende sagteware nie. Ons besit alle regte, titel en belang, "
+"insluitende alle intellektuele eiendomsregte, in en op die dienste en die "
+"onderliggende sagteware en enige opdaterings, opgraderings, wysigings, "
+"verbeterings, verbeterings of afgeleide werke daarvan, en in enige idee, "
+"weet- hoe en programme ontwikkel deur ons of ons lisensiehouers tydens die "
+"uitvoering van die dienste."
+
+msgid "6. Term and Termination:"
+msgstr "6. Termyn en Beëindiging:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Termyn: Die termyn van die dienste wissel afhangende van die diens "
+"waarop u ingeteken het en moet op die bestelvorm uiteengesit word of in die "
+"registrasievloei ooreengekom word en sal soos volg hernu word:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive-dienstermyn: u inskrywing op CaseActive-diens sal "
+"outomaties verleng word vir opeenvolgende een-maand- of eenjaarvoorwaardes, "
+"soos uiteengesit op die bestelvorm of die registrasievloei, tensy ons die "
+"Diens wat u aan ons gee kennis gee van die kennisgewing van nie-hernuwing "
+"minstens dertig (30) dae voor die verstryking van die huidige termyn."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Termyn van CaseActive-webwerfdienste: u inskrywing op CaseActive-"
+"dienste vir dienste op die webwerf moet outomaties verleng word vir "
+"opeenvolgende een-maand- of eenjaarvoorwaardes, soos uiteengesit op die "
+"bestelvorm of aanmeldstroom, tensy ons die diens staak of u ons voorsien. "
+"met kennisgewing van nie-hernuwing minstens dertig (30) dae voor die "
+"verstryking van die huidige termyn."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Skriftelike kennisgewing van nie-hernuwing deur u moet ingedien word "
+"by CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Beëindiging: Beide partye kan die Ooreenkoms en alle diensinskrywings "
+"beëindig (i) indien die ander party enige van sy wesenlike verpligtinge "
+"kragtens die Ooreenkoms oortree en sodanige oortreding nie binne dertig (30)"
+" dae na ontvangs van die kennisgewing van die nie-verbreking genees word nie"
+" party, of (ii) indien die ander party insolvent of bankrot raak, "
+"gelikwideer word of ontbind word, of wesenlik al sy sake ophou. Ons kan die "
+"ooreenkoms onmiddellik beëindig in die geval van &#39;n oortreding van "
+"artikel 5.3 hierbo. Na beëindiging van die ooreenkoms, sal u onmiddellik die"
+" gebruik van die dienste staak, ophou om in enige vorm van u gebruiker van "
+"die dienste te staak, en al ons vertroulike inligting wat u besit, "
+"vernietig. Niemand van die partye is aanspreeklik vir enige skade wat "
+"voortspruit uit die beëindiging van die ooreenkoms of enige intekening op "
+"die dienste soos hierin bepaal nie; met dien verstande dat die beëindiging "
+"van die ooreenkoms nie enige eis wat voor die beëindiging ontstaan, "
+"beïnvloed nie."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Hantering van u data in die geval van beëindiging: U erken en stem in "
+"dat ons, na verstryking of beëindiging van enige van u intekeninge op die "
+"dienste, die betrokke dienste onmiddellik kan deaktiveer en dat ons, na "
+"&#39;n redelike tydperk van nie minder nie as negentig (90) ) dae, kan u "
+"rekening en data uitgevee word. In die geval dat die dienste deur ons "
+"beëindig word, sal ons u tydelike, beperkte toegang tot die dienste verleen,"
+" nie meer as dertig (30) dae nie, met die uitsluitlike doel om u toe te laat"
+" om u eie gegewens op te spoor, met dien verstande dat u het onbetwiste "
+"bedrae wat aan ons verskuldig is, ten volle betaal. U stem verder in dat ons"
+" nie teenoor u of aan enige derde party aanspreeklik sal wees vir enige "
+"beëindiging van u toegang tot die dienste of die verwydering van u data nie,"
+" mits ons voldoen aan die bepalings van hierdie Afdeling 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Fooie:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Diensgelde: u betaal die nie-terugbetaalbare fooie vir die dienste in "
+"die bedrag soos uiteengesit in die inskrywingsvloei of bestelvorm "
+"(&#39;Diensfooie&#39;) en volgens die faktuurfrekwensie wat in die "
+"inskrywingsstroom of -bevel vermeld word te vorm. Diensfooie is betaalbaar "
+"op die datum van die faktuur. Diensfooie kan verhoog word op grond van ons "
+"huidige gelde. Diensfooie kan nie terugbetaal word nie, selfs as u u "
+"intekening vroeg beëindig."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Bykomende gelde: U mag ander nie-terugbetaalbare fooie of koste vir u "
+"gebruik van die dienste in rekening bring, benewens die gelde wat in die "
+"bestelvorm en / of aanmeldingsvloei uiteengesit word. Die bykomende nie-"
+"terugbetaalbare fooie en kostes word uiteengesit in die addisionele "
+"voorwaardes vir die toepaslike diens."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Laat betalings: u erken dat u versuim om gelde of koste te betaal indien"
+" dit verskuldig is, kan lei tot die opskorting of beëindiging van u "
+"CaseActive-produkintekening (e). Indien u versuim om enige van die fooie of "
+"heffings wat hierkragtens verskuldig is, te betaal, behou CaseActive die reg"
+" voor om &#39;n invorderingsagentskap te betrek om die fooie en heffings in "
+"te vorder, en u sal alle koste wat deur CaseActive aangegaan is in verband "
+"met die invordering van sodanige bedrae betaalbaar, insluitend , sonder "
+"beperking, die koste van prokureurs- en invorderingsagentskappe plus rente "
+"in &#39;n bedrag gelykstaande aan die minste van 1.0% per maand of die "
+"maksimum tarief wat deur toepaslike wetgewing toegelaat word."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Belasting: U is verantwoordelik vir alle omsetbelasting, "
+"gebruiksbelasting, belasting op toegevoegde waarde, terughoubelasting en "
+"enige ander soortgelyke belasting en heffings van enige aard wat deur die "
+"federale, staats- of plaaslike regeringsentiteite opgelê word vir die "
+"transaksies beoog deur die ooreenkoms. As ons die wetlike verpligting het om"
+" ingevolge hierdie Afdeling belasting te betaal of in te vorder waarvoor u "
+"verantwoordelik is, sal die toepaslike bedrag deur u gefaktureer en betaal "
+"word, tensy u &#39;n geldige belastingvrystellingsertifikaat aan ons gee wat"
+" deur die toepaslike belastingowerheid gemagtig is."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Verteenwoordigings en waarborge:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Wedersydse vertoë en waarborge: Elke party verteenwoordig en waarborg "
+"hiermee aan die ander party dat (i) dit die nodige magtiging het om sy "
+"verpligtinge kragtens die Ooreenkoms aan te gaan en uit te voer sonder die "
+"toestemming van &#39;n derde party of die verbreking van enige kontrak of "
+"ooreenkoms met enige derde party, (ii) alle persone wat enige verpligtinge "
+"hieronder nakom, het alle nodige ooreenkomste aangegaan om aan die bepalings"
+" en voorwaardes van die Ooreenkoms te voldoen, en (iii) dit in wesenlike "
+"opsigte aan alle wette van toepassing op die dienste."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Bykomende vertoë en waarborge: U waarborg, verteenwoordig en verbonde "
+"aan ons dat u die dienste slegs vir wettige doeleindes sal gebruik in "
+"ooreenstemming met die ooreenkoms en alle toepaslike CaseActive-beleide en "
+"-riglyne."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Waarskuwing van waarborge: BEHALWE VIR DIE UITREKELIKE WAARBORGINGS IN "
+"HIERDIE AFDELING 8, TOT DIE MAKSIMALE UITGAWE WAT BEPAAL WORD OP TOEPASLIKE "
+"WETTE, ONS MAAK GEEN ANDER WAARBORGE, UITGEVOER, GEÏMPLISEERD, WETTIG OF "
+"ANDERS WETENSKAPLIK VAN HANDEL, AS ENIGE AANGELEENTHEDE, INSLUITENDE HULLE "
+"VAN HANDELBAARHEID, BEVREDIGENDE KWALITEIT, TITEL, GESKIKTHEID VIR &#39;N "
+"BESONDERLIKE DOEL, OF NIE-OORTREDING. ONS VERWAAR NIE dat die sagteware of "
+"die dienste aan al u vereistes sal voldoen nie, insluitende rekeningkundige "
+"vereistes, of dat die gebruik van die sagteware of die dienste onvolledig of"
+" foutloos sal wees. Die sagteware en dienste word aan u verskaf op grond van"
+" &#39;n &#39;soos dit is&#39;, en u gebruik van sagteware en dienste is op u"
+" eie risiko, insluitend, sonder beperking, in ooreenstemming met enige "
+"wette. Die partye erken uitdruklik dat die vrywaring van waarborg &#39;n "
+"wesenlike deel van die ooreenkoms uitmaak."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"ONS VERKLAAR ENIGE VERTEENWOORDIGINGE OF WAARBORGE WAT U GEBRUIK VAN DIE "
+"DIENSTE BEVULDIG OF VOLGENS NAKOMING VAN ENIGE WETTIGE VERPLIGTINGE OF WETTE"
+" OF REGULASIES. HIERDIE VRYSTELLING VAN TOEPASSING OP MAAR IS NIE BEPERK TOT"
+" ENIGE Federale of statute of regulasies wat op u van toepassing kan wees "
+"nie. U IS ALS VERANTWOORDELIK OM TE VERSEKER dat u gebruik van die dienste "
+"in ooreenstemming is met die toepaslike reg."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"AS U ONDERNEMING IS MET DIE DIENSTE OF HIERDIE OOREENKOMS, IS U ENIGE EN "
+"EKSKLUSIEWE GENEESHEID OM DIE DIENSTE TE GEBRUIK."
+
+msgid "9. Confidential Information:"
+msgstr "9. Vertroulike inligting:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Tensy dit uitdruklik deur die ander party gemagtig is, mag geen van die "
+"partye enige inligting of materiaal wat deur die ander party ingevolge die "
+"Ooreenkoms verskaf word aan &#39;n derde party openbaar maak nie en "
+"redelikerwys as vertroulik beskou word (&#39;Vertroulike inligting&#39;), of"
+" sodanige vertroulike inligting op enige ander manier gebruik as om sy "
+"verpligtinge kragtens die Ooreenkoms na te kom. Die voorafgaande beperkings "
+"is nie van toepassing op enige inligting wat in die publieke domein of reeds"
+" in die besit van die ontvangende party is nie, voor die datum van die "
+"bekendmaking aan die ontvangende party bekend was, of wat daarna aan die "
+"ontvangende party bekend geword het van &#39;n derde party wat blykbaar bona"
+" fide reg om die inligting bekend te maak, of vertroulike inligting wat die "
+"ontvangende party verplig is om ingevolge &#39;n bevel van &#39;n bevoegde "
+"hof of &#39;n geldige administratiewe dagvaarding te lewer, met dien "
+"verstande dat die ontvangende party die openbaarmakende party vroegtydig "
+"kennis gee van so &#39;n hof bestel of dagvaarding. Verder sal u verseker "
+"dat u gemagtigde gebruikers alle wagwoorde en ander toegangsinligting tot "
+"die dienste ten volle vertrou. Hierdie Artikel 9 sal die beëindiging of "
+"verstryking van hierdie ooreenkoms oorleef."
+
+msgid "10. Indemnification:"
+msgstr "10. Vrywaring:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Skadeloosstelling vir oortreding: onderhewig aan Afdeling 10.4, sal ons"
+" u op ons koste verdedig teen &#39;n derdeparty-eis wat teen u ingestel word"
+" wat beweer dat die dienste enige Amerikaanse patent wat aan &#39;n derde "
+"party uitgereik is, oortree vanaf die effektiewe datum; of inbreuk maak op "
+"enige outeursreg, handelsmerk of handelsgeheim van &#39;n derde party "
+"(gesamentlik die &#39;Intellektuele Eiendom onderliggend aan die "
+"dienste&#39;). In die geval dat &#39;n bevel teen die gebruik van die "
+"intellektuele eiendom onderliggend aan die dienste verkry word of bekom "
+"word, of na ons mening waarskynlik gesoek of verkry sal word, sal ons, op "
+"ons keuse en koste, óf (i) vir u en u naam gemagtigde gebruikers die reg om "
+"voort te gaan om die dienste te gebruik, of (ii) die dienste te vervang of "
+"te verander om hul gebruik nie inbreuk te maak nie, terwyl hulle in staat is"
+" om dieselfde funksie wesenlik te verrig. In die geval dat onderafdelings "
+"(i) en (ii) hierbo nie kommersieel uitvoerbaar is nie, kan ons die dienste "
+"beëindig en enige voorafbetaalde, maar ongebruikte diensfooie terugbetaal. "
+"Ons is nie verplig om enige koste of skadevergoeding kragtens hierdie "
+"Afdeling 10.1 te verdedig of aanspreeklik te maak as die beweerde oortreding"
+" ontstaan uit of op enige wyse toeskryfbaar is aan (i) enige wysiging van "
+"enige dienste deur u (of enige van u gemagtigde of aangewese gebruikers) of "
+"(ii) gebruik van dienste in kombinasie met dienste en produkte wat nie deur "
+"CaseActive gelewer word nie indien sodanige oortreding vermy sou gewees het "
+"sonder sodanige wysiging of kombinasie, of (iii) voldoening aan u ontwerpe "
+"of instruksies of (iv) &#39;n eis dat stel nie spesifiek dat die dienste "
+"onderhewig is aan die eis nie (elk &#39;n &#39;Uitgeslote eis&#39;). Die "
+"skadeloosstellingsverpligtinge vervat in hierdie afdeling 10.1 sal enige "
+"beëindiging of verstryking van hierdie ooreenkoms oorleef."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Skadeloosstelling vir datasekuriteit en privaatheid: Onderhewig aan "
+"Afdeling 10.4, en gedurende die periode van u intekening op die Dienste, sal"
+" ons u op ons koste verdedig teen enige eis van derdes wat teen u ingestel "
+"word wat beweer dat ons grof nalatig is om ongemagtigde toegang te voorkom "
+"aan, of ons opsetlike wangedrag in die openbaarmaking van u persoonlike "
+"inligting wat u in ons besit of beheer het, persoonlik identifiseerbaar. "
+"Hierdie skadeloosstelling sal nie geld vir die mate waarin sodanige eis "
+"voortspruit uit of verband hou met u nalatigheid of opsetlike wangedrag of "
+"die van u agente of verteenwoordigers nie, of tot die mate dat "
+"aanspreeklikheid deur enigeen van die partye ingevolge die ooreenkoms van "
+"die hand gewys of beperk word. Die skadeloosstellingsverpligtinge wat in "
+"hierdie afdeling uiteengesit word, is afhanklik van u dat u bewys dat ons "
+"growwe nalatigheid of opsetlike wangedrag direk en onmiddellik die "
+"ongemagtigde toegang tot of openbaarmaking van persoonlike inligting van u "
+"kliënte in ons besit of beheer het."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 U skadeloosstelling: U stem in om ons en al ons werknemers, beamptes, "
+"direkteure en agente te vrywaar, onskadelik te hou en te verdedig teen alle "
+"eise, eise, kostes, verrigtinge, ondersoeke, skadevergoeding, koste, "
+"uitgawes, verliese en enige ander aanspreeklikhede (insluitende redelike "
+"koste van prokureurs, hofkoste en uitgawes) wat voortspruit uit of verband "
+"hou met (i) u gebruik van die dienste in stryd met die ooreenkoms, (ii) "
+"&#39;n uitsluitlike eis, (iii) enige werklike of beweerde oortreding deur u "
+"van enige voorstelling, waarborg, verbond of verpligting ingevolge die "
+"Ooreenkoms, of (iv) u growwe nalatigheid of opsetlike wangedrag. U "
+"skadeloosstellingsverpligtinge kragtens hierdie Afdeling 10.3 sal enige "
+"beëindiging of verstryking van die Ooreenkoms oorleef."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Kennisgewing en samewerking: die verpligtinge van die "
+"skadeloosstellende party teenoor die skadeloosgestelde party kragtens "
+"hierdie artikel 10 hierbo, is onderhewig daaraan dat (i) skadeloosstellende "
+"party die vrywarende party onmiddellik skriftelik in kennis stel, op kennis "
+"van enige eis, waarvoor hy geregtig is op skadeloosstelling kragtens die "
+"Ooreenkoms ; (ii) tot die mate van toepassing, skadeloosstelling wat die "
+"gebruik van die beweerde inbreukmakende Dienste ophou met ontvangs van die "
+"kennisgewing daarvan; (iii) skadeloosgestelde party wat toelaat dat "
+"skadelike party die alleenreg het om die verdediging en skikking van "
+"sodanige eis te beheer (met dien verstande dat skadeloosstellende party nie "
+"enige eis sonder die toestemming van die vrygestelde party mag vereffen nie,"
+" tensy die skikking onvoorwaardelik vrywaring van alle aanspreeklikheid "
+"vrylaat); (iv) skadeloosstellende party wat redelike bystand verleen aan "
+"skadeloosstellende partye op vergoeding van sodanige eis; (v) "
+"skadeloosgestelde party wat nie &#39;n skikkingsooreenkoms aangaan of "
+"sodanige eis op enige ander wyse besleg sonder die uitdruklike skriftelike "
+"toestemming of versoek van die party nie; en (vi) skadeloosgestelde party "
+"wat voldoen aan enige skikking of hofbevel wat gemaak is in verband met die "
+"eis (wat verband hou met die toekomstige gebruik van inbreukmateriaal). Die "
+"skadeloosstellende party kan deelneem aan die verdediging of skikking van "
+"&#39;n eis met &#39;n eie keuse en op eie koste."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Eksklusiewe regsmiddel: Hierdie Artikel 10 bepaal die aanspreeklikheid "
+"van die skadeloosstellende party teenoor, en die skadelike party se "
+"eksklusiewe regsmiddel teen die ander party vir enige soort eis wat in "
+"hierdie Afdeling beskryf word."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Beperking op Aanspreeklikheid:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"BEHALWE MET BETREKKING TOT SKADE TEN OPSOMMING MET &#39;N VERBREKING VAN "
+"AFDELING 5.3 OF 12, TOT DIE MAKSIMALE UITREG VAN DIE WET, NIE GEEN "
+"KOMULATIEWE AANSPREEKLIKHEID VAN PARTYE OOR DIE OOREENKOMS OOR DIE AMET VAN "
+"DIE AMO JY VIR DIE DIENSTE WAT DIE AANSPREEKLIKHEID UITGEDUR GEDURENDE DIE "
+"EENJAARPERIODE UITGEBREIK HET DIE DATUM VOORUIT DIE OORSAAK VAN AKSIE AROSE."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"BEHALWE MET BETREKKING TOT SKADE TEN OPSOMMING MET &#39;N BREEK VAN AFDELING"
+" 5.3 OF 12, TOT DIE MAKSIMALE UITREGTE WAT DEUR DIE WET BEPAAL WORD, IS GEEN"
+" BEHOEFTES VAN DIE PARTY, SY LISENSIES EN VERSKAFFERS, GEEN AANSPREEKLIKHEID"
+" AAN DIE ANDER PARTY VIR ENIGE VERLIESE NIE KOSTE VAN AANBIEDING VAN "
+"SUBSTITUTE GOEDERE OF DIENSTE OF VIR ENIGE indirekte, SPESIALE, GESONDHEID, "
+"UITSTEKENDE OF TUSSENVATTIGE SKADE, NIE, OORGEWAAR EN GEBASEER OP ENIGE "
+"TEORIE VAN AANSPREEKLIKHEID (INSLUITEND NADELIKHEID), OORDEEL VAN DIE "
+"OOREENKOMS, SY VERPLIGTINGE HIERONDER, HET ALLEENLIKE PARTYE IS BEPAAL OOR "
+"DIE MOONTLIKHEID VAN SUID-SKADE."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"Aangesien sommige state / jurisdiksies nie die uitsluiting of beperking van "
+"aanspreeklikheid vir gevolge of toevallige skade kan toelaat nie, mag die "
+"bogenoemde beperking op u nie van toepassing wees nie, waartydens ons "
+"aanspreeklikheid tot die maksimum uiterste beperkings beperk sal word."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Persoonlike inligting en privaatheid verklaring:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"U sal voldoen aan alle toepaslike privaatheids- en ander wette, reëls, "
+"regulasies en riglyne met betrekking tot die beskerming, versameling, "
+"gebruik en verspreiding van persoonlik identifiseerbare inligting (soos "
+"hieronder omskryf) van enige persoon. U sal &#39;n privaatheidsverklaring op"
+" die bladsy plaas waar u Persoonlike Identifiseerbare Inligting "
+"(&#39;Privaatheidsverklaring&#39;) versamel wat voldoen aan alle toepaslike "
+"wette, reëls, regulasies en riglyne, en gebruikers ten minste &#39;n kennis "
+"gee van die Persoonlike Identifiseerbare Inligting, hoe dit gebruik sal word"
+" en hoe dit beveilig sal word, en wat die insamelingsmetode (koekies, "
+"webbakens of ander toepaslike middele) en die gebruik van inligting wat in "
+"verband met die dienste versamel is, identifiseer, en vooraf ingeligte "
+"toestemming (opt-in) verkry voordat enige gebruik gemaak word "
+"opsporingstegnologieë, in die mate wat deur toepaslike wette en regulasies "
+"vereis word. So &#39;n privaatheidsverklaring sal ook tegniese inligting "
+"bevat wat verband hou met die versameling, versending en berging van die "
+"persoonlik identifiseerbare inligting wat deur ons deur die dienste verskaf "
+"word. As dit vereis word deur toepaslike wetgewing rakende databeskerming of"
+" ander wetgewing of regulasies, sal u derdes in kennis stel dat u hul "
+"persoonlik identifiseerbare inligting aan ons verstrek vir verwerking, en "
+"sal u verseker dat enige vereiste derde partye hul toestemming tot sodanige "
+"openbaarmaking en verwerking gegee het. U stem in om die beskrywings en "
+"bepalings van die privaatheidsverklaring na te kom. &#39;Persoonlik "
+"identifiseerbare inligting&#39; beteken alle inligting wat aan &#39;n "
+"individu gekoppel kan word of opgespoor kan word, met inbegrip van die naam,"
+" adres, telefoonnommer, e-posadres, kredietkaartinligting, identiteitsnommer"
+" of soortgelyke feitelike inligting, ongeag die media waarop sulke inligting"
+" gestoor word (bv. op papier of elektronies)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Diverse:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Onafhanklike partye: U en CaseActive is onafhanklike kontrakteurs. Die "
+"ooreenkoms skep geen gesamentlike onderneming, vennootskap, agentskap of "
+"diensverhouding tussen die partye nie. U is alleen verantwoordelik vir die "
+"bestuur van u werknemers en vir enige vergoeding, belastings, voordele en "
+"verpligtinge aan u werknemers en enige van u ander verteenwoordigers of "
+"diensverskaffers. Nóg u of u werknemers, verteenwoordigers of "
+"diensverskaffers mag enige vertoë, waarborge of waarborge ten opsigte van "
+"ons, die ooreenkoms of die dienste lewer, behalwe soos dit skriftelik deur "
+"ons gemagtig is nie."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Opdrag: Nóg die voorafgaande skriftelike toestemming mag die ooreenkoms"
+" nóg u regte of verpligtinge kragtens die ooreenkoms toegewys of oorgedra "
+"word, sonder enige voorafgaande skriftelike toestemming, aan die opvolger in"
+" belang, of ingevolge &#39;n samesmelting herorganisasie, of &#39;n verkoop "
+"of oordrag van al of wesenlik al u bates waarvan u aan ons voorskryf, "
+"minstens dertig (30) dae voor die voltooiing van die transaksie. &#39;N "
+"Opdrag deur u, gebaseer op enige ander omstandighede, vereis ons vooraf "
+"toestemming, en die toestemming sal nie onredelik weerhou word nie. Ons mag "
+"hierdie ooreenkoms vryelik toewys sonder u toestemming. Behoudens "
+"bogenoemde, sal hierdie ooreenkoms bindend wees tot voordeel van die partye,"
+" hul onderskeie opvolgers en toegelate opdragte."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force Majeure: Nie een van die partye sal verantwoordelik wees vir "
+"enige vertraging, onderbreking of ander versuim om kragtens die ooreenkoms "
+"uit te voer nie, weens optrede buite die beheer van die verantwoordelike "
+"party, maar slegs vir so lank as wat sulke voorwaardes voortduur. "
+"Gebeurtenisse op magtelike vlak sluit in, maar is nie beperk nie tot: "
+"natuurrampe (bv. Weerlig, aardbewings, orkane, vloede); oorloë, onluste, "
+"terroriste-aktiwiteite en burgerlike kommosies; die aktiwiteite van &#39;n "
+"plaaslike ruilvervoerder, en ander handelinge van derde partye; ontploffings"
+" en brande; embargo&#39;s, stakings en arbeidsgeskille; regeringsbesluite; "
+"mislukkings van telekommunikasieverskaffers of internetdiensverskaffers; "
+"mislukkings van derdepartyverskaffers, diensverskaffers of verskaffers; en "
+"enige ander saak buite die redelike beheer van &#39;n party."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Keuse van die wet: die ooreenkoms en enige dispuut wat voortspruit uit "
+"of in verband met die ooreenkoms, word beheer en vertolk kragtens die wette "
+"van die Staat Kalifornië, sonder inagneming van die beginsels van konflik "
+"van wette. Alle geskille wat voortspruit uit of verband hou met die "
+"ooreenkoms, is onderworpe aan die eksklusiewe jurisdiksie en plek van die "
+"Kaliforniese deelstaat en federale howe vir Santa Barbara, Kalifornië, en "
+"die partye stem in tot die persoonlike en eksklusiewe jurisdiksie van "
+"hierdie howe."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-pos en kennisgewings: U stem verder in dat ons enige kennisgewings, "
+"verklarings en ander kommunikasie aan u mag verstrek via e-pos, e-pos, "
+"uitdruklike afleweringsdiens, of deur &#39;n erkende kommersiële vervoerder "
+"gelewer word op die adres wat laas aangewys is op die ooreenkoms. U is "
+"verantwoordelik om alle opgedateerde kontakinligting aan ons te gee."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Geen kwytskelding nie; Kumulatiewe remedies: Geen versuim of vertraging"
+" deur enige van die partye in die uitoefening van enige reg kragtens hierdie"
+" ooreenkoms sal &#39;n afstanddoening van daardie reg uitmaak nie. Behalwe "
+"soos hierin uitdruklik vermeld, is die remedies wat hierin verskaf word, "
+"benewens, en nie uitsluitend nie, enige ander regsmiddele van &#39;n party "
+"by die wet of in ekwiteit."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Oordeelbaarheid: indien enige bepaling van hierdie ooreenkoms deur "
+"&#39;n bevoegde hof in stryd met die wet is, word die bepaling deur die hof "
+"gewysig en geïnterpreteer sodat die doelstellings van die oorspronklike "
+"bepaling ten volle bereik word deur die wetgewing, en die oorblywende "
+"bepalings van hierdie ooreenkoms bly van krag."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Hele ooreenkoms: tot die maksimum mate wat deur toepaslike wetgewing "
+"toegelaat word, vorm hierdie ooreenkoms, tesame met die dokumente waarna "
+"hierin verwys word, en alle bestelvorms en aanmeldingsvloei, die totale "
+"ooreenkoms tussen die partye ten opsigte van die onderwerp, en vervang alle "
+"vorige en tydelike ooreenkomste, voorstelle of vertoë, skriftelik of "
+"mondeling, rakende die onderwerp van hierdie ooreenkoms. Geen vertoë, "
+"verbintenis of belofte word aanvaar of geïmpliseer word uit iets wat gesê of"
+" geskryf is tydens onderhandelinge tussen die partye voor hierdie ooreenkoms"
+" nie, behalwe soos uitdruklik in hierdie ooreenkoms vermeld. Niemand van die"
+" partye het enige regsmiddel ten opsigte van enige onwaar verklaring wat "
+"deur die ander gemaak is waarop daardie party op hierdie ooreenkoms "
+"staatgemaak het nie (tensy sodanige onjuiste verklaring bedrieglik gemaak "
+"is) en dat die party se enigste remedie ten opsigte van &#39;n onwaar "
+"verklaring geld vir kontrakbreuk soos bepaal in hierdie ooreenkoms. U erken "
+"en stem saam dat u ooreenkoms hieronder nie afhanklik is van die lewering "
+"van toekomstige funksies of funksies wat nie hierin of in &#39;n bestelvorm "
+"gespesifiseer is nie, of afhanklik is van enige mondelinge of skriftelike, "
+"openbare of privaat kommentaar wat ons gemaak het rakende toekomstige "
+"funksies of funksies. vir die dienste. In die geval van enige konflik tussen"
+" die bepalings in hierdie algemene diensbepalings en enige bestelvorm of "
+"bykomende diensvoorwaardes, sal die bepalings van sodanige bestelvorm of "
+"addisionele diensvoorwaardes geld, tot die mate van sodanige konflik. Geen "
+"bepalings of voorwaardes wat in u koopbestelling of in enige ander van u "
+"besteldokumentasie vermeld word, mag by enige deel van hierdie ooreenkoms "
+"opgeneem word nie, en al hierdie bepalings en voorwaardes is nietig."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Uitvoer: Albei partye stem ooreen om aan die toepaslike Amerikaanse "
+"uitvoer- en invoerwette en -regulasies te voldoen. U mag nie u gebruikers "
+"toelaat om toegang tot die dienste te gebruik of dit te gebruik in stryd met"
+" enige Amerikaanse uitvoerembargo, -verbod of -beperking nie."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publisiteit: Ons mag u nie as &#39;n gebruiker van die Dienste noem "
+"sonder u skriftelike toestemming nie."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Skakels na derdeparty-webwerwe: die dienste of ons webwerf kan skakels"
+" na derdeparty-webwerwe (&#39;gekoppelde webwerwe&#39;) insluit. Die "
+"gekoppelde webwerwe is nie onder ons beheer nie en ons is nie "
+"verantwoordelik vir die inhoud van enige gekoppelde webwerf nie, insluitend "
+"sonder beperking enige skakel op &#39;n gekoppelde webwerf, of enige "
+"veranderinge of opdaterings aan &#39;n gekoppelde webwerf of die dienste wat"
+" via &#39;n gekoppelde webwerf gelewer word. Ons verskaf slegs hierdie "
+"skakels aan u, en die insluiting van &#39;n skakel impliseer nie dat ons die"
+" webwerf of enige gepaardgaande dienste wat deur die webwerf gelewer word, "
+"onderskryf nie."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 U stem in om e-pos, telefoonoproepe en SMS-boodskappe van CaseActive "
+"te ontvang om opdaterings oor u bestelling en / of vir bemarkingsdoeleindes "
+"aan te bied. Die frekwensie van die boodskap hang af van u aktiwiteit. U kan"
+" dit onttrek deur kennisgewings uit u rekening te verwyder of u rekening uit"
+" te vee. Boodskap- en datatariewe kan geld."
+
+msgid "An error occurred"
+msgstr "'n Fout het voorgekom"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Iets het verkeerd geloop. Ons ingenieurs is in kennis gestel. Druk herlaai-"
+"knoppie om te herlaai."
+
+msgid "Reload"
+msgstr "Herlaai"

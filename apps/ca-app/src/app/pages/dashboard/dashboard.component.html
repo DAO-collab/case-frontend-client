@@ -1,0 +1,312 @@
+<div class="module-d" *ngIf="isLoading">
+  <div>
+    <p class="text-center">
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</div>
+
+<div class="dashboard-wrapper" *ngIf="!isLoading">
+  <div class="items-wrapper">
+    <div class="items-head-wrapper row-direction">
+      <div class="items-head-left-side">
+        <div class="items-head-wrapper-title" translate>Cases</div>
+
+        <div class="items-button">
+          <p class="{{ selectedCasesStatus ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn' }}">
+            <a
+              class="badge-wrapper"
+              [ngClass]="{ 'sub-menu-popup': selectedCasesStatus }"
+              (click)="filterCases(statuses.Open)"
+            >
+              {{ 'Open' | translate }}
+              <span
+                class="{{ selectedCasesStatus ? 'badge active-badge custom-color-comments' : 'badge disabled-badge' }}"
+              >
+                {{ casesCount.open }}
+              </span>
+            </a>
+          </p>
+
+          <p class="{{ !selectedCasesStatus ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn' }}">
+            <a
+              class="badge-wrapper"
+              [ngClass]="{ 'sub-menu-popup': !selectedCasesStatus }"
+              (click)="filterCases(statuses.Closed)"
+            >
+              {{ 'Closed' | translate }}
+              <span
+                class="{{ !selectedCasesStatus ? 'badge active-badge custom-color-comments' : 'badge disabled-badge' }}"
+              >
+                {{ casesCount.closed }}
+              </span>
+            </a>
+          </p>
+        </div>
+
+        <div class="arrow-tabs">
+          <div class="arrow-wrapper" (click)="toggleLayout($event, '.list-item-wrapper')">
+            <img src="images/arrow-left.svg" alt="" />
+          </div>
+
+          <div class="arrow-wrapper arrow-right-wrapper" (click)="toggleLayout($event, '.list-item-wrapper', false)">
+            <img class="arrow-right" src="images/arrow-left.svg" alt="" />
+          </div>
+        </div>
+      </div>
+
+      <app-dashboard-search (searchValue)="updateSearchValue($event, 'cases')"></app-dashboard-search>
+    </div>
+
+    <div class="list-item-wrapper" *ngIf="cases.length; else noCases">
+      <ng-container *ngFor="let caseItem of cases">
+        <div class="list-item case-item case-wrapper" *ngIf="filterItems(caseItem, 'cases')">
+          <div class="list-item-title case-title">{{ caseItem.name }}</div>
+          <a class="view-broadcast" (click)="selectCase(caseItem)" translate>Open</a>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+
+  <div class="items-wrapper">
+    <div class="items-head-wrapper row-direction">
+      <div class="items-head-left-side">
+        <div class="items-head-wrapper-title" translate>Announcements</div>
+
+        <div class="arrow-tabs">
+          <div class="arrow-wrapper" (click)="toggleLayout($event, '.list-item-wrapper')">
+            <img src="images/arrow-left.svg" alt="" />
+          </div>
+
+          <div class="arrow-wrapper arrow-right-wrapper" (click)="toggleLayout($event, '.list-item-wrapper', false)">
+            <img class="arrow-right" src="images/arrow-left.svg" alt="" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="list-item-wrapper" *ngIf="broadcasts.length; else noAnnouncements">
+      <ng-container *ngFor="let broadcast of broadcasts">
+        <div class="list-item announcement">
+          <div class="list-item-title">{{ broadcast.title }}</div>
+          <div class="list-item-description">{{ broadcast.message }}</div>
+          <a class="view-broadcast" (click)="viewBroadcast(broadcast)">View</a>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+
+  <div class="items-wrapper">
+    <div class="list-items-wrapper items-wrapper-two-columns">
+      <div class="left-side-items">
+        <div class="items-head-wrapper">
+          <div class="items-head-left-side row-direction m-b-24">
+            <div class="items-head-left-side-elements">
+              <div class="items-head-wrapper-title" translate>Support</div>
+
+              <div class="items-button tickets-buttons">
+                <p
+                  class="{{
+                    selectedTicketStatus ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn'
+                  }}"
+                >
+                  <a
+                    class="badge-wrapper"
+                    [ngClass]="{ 'sub-menu-popup': selectedTicketStatus }"
+                    (click)="filterValue(statuses.Open)"
+                  >
+                    {{ 'Open' | translate }}
+                    <span
+                      class="{{
+                        selectedTicketStatus ? 'badge active-badge custom-color-comments' : 'badge disabled-badge'
+                      }}"
+                    >
+                      {{ ticketsCount.open }}
+                    </span>
+                  </a>
+                </p>
+
+                <p
+                  class="{{
+                    !selectedTicketStatus ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn'
+                  }}"
+                >
+                  <a
+                    class="badge-wrapper"
+                    [ngClass]="{ 'sub-menu-popup': !selectedTicketStatus }"
+                    (click)="filterValue(statuses.Closed)"
+                  >
+                    {{ 'Closed' | translate }}
+                    <span
+                      class="{{
+                        !selectedTicketStatus ? 'badge active-badge custom-color-comments' : 'badge disabled-badge'
+                      }}"
+                    >
+                      {{ ticketsCount.closed }}
+                    </span>
+                  </a>
+                </p>
+              </div>
+
+              <div class="arrow-tabs">
+                <div class="arrow-wrapper" (click)="ticketsSlider()">
+                  <img src="images/arrow-left.svg" alt="" />
+                </div>
+
+                <div class="arrow-wrapper arrow-right-wrapper" (click)="ticketsSlider(false)">
+                  <img class="arrow-right" src="images/arrow-left.svg" alt="" />
+                </div>
+              </div>
+            </div>
+
+            <img
+              class="add-support-icon"
+              src="images/dashboard-icon-plus.svg"
+              alt=""
+              (click)="openCreateNewTicketModal()"
+            />
+          </div>
+
+          <ng-container
+            *ngIf="
+              tickets.length &&
+                ((selectedTicketStatus && ticketsCount.open) || (!selectedTicketStatus && ticketsCount.closed));
+              else noTickets
+            "
+          >
+            <ng-container *ngFor="let ticket of tickets; let index = index">
+              <div class="left-side-item" *ngIf="index >= ticketsSliderIndex && index < ticketsSliderIndex + 4">
+                <div class="left-side-item-head">
+                  <div class="left-side-item-head-description">
+                    <div class="left-side-item-head-description-title ticket-title">{{ ticket.title }}</div>
+
+                    <div
+                      class="left-side-status left-side-item-head-description-open"
+                      *ngIf="ticket.status === statuses.Open"
+                      translate
+                    >
+                      Opened
+                    </div>
+
+                    <div
+                      class="left-side-status left-side-item-head-description-close"
+                      *ngIf="ticket.status === statuses.Closed"
+                      translate
+                    >
+                      Closed
+                    </div>
+                  </div>
+
+                  <div class="left-side-item-head-date">{{ showLocalDate(ticket.created_on) | date }}</div>
+                </div>
+
+                <div class="list-item-description left-side-item-head-description ticket-description">
+                  {{ ticket.message }}
+                </div>
+                <a class="view-broadcast m-r-10" (click)="viewTicket(ticket)" translate>View</a>
+                <a
+                  *ngIf="ticket.status === statuses.Open"
+                  class="view-broadcast"
+                  appConfirmationPopUp
+                  title="Close Ticket"
+                  [message]="'You are about to close ticket. Are you sure?' | translate"
+                  (yes)="closeTicket(ticket)"
+                >
+                  <span translate>Close</span>
+                </a>
+
+                <a *ngIf="ticket.status === statuses.Closed" class="view-broadcast" (click)="closeTicket(ticket)">
+                  <span translate>Open</span>
+                </a>
+              </div>
+            </ng-container>
+          </ng-container>
+        </div>
+      </div>
+
+      <div class="right-side-items">
+        <div class="items-head-wrapper location-head">
+          <div class="items-head-wrapper-title" translate>Locations</div>
+
+          <div class="arrow-tabs">
+            <div class="arrow-wrapper" (click)="locationsSlider()">
+              <img src="images/arrow-left.svg" alt="" />
+            </div>
+
+            <div class="arrow-wrapper arrow-right-wrapper" (click)="locationsSlider(false)">
+              <img class="arrow-right" src="images/arrow-left.svg" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <div class="location" *ngIf="locations.length; else noLocations">
+          <img
+            alt=""
+            [src]="getLocationMap(locations[locationSliderIndex])"
+            (click)="redirectGoogleMap(locations[locationSliderIndex].address)"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<ng-template #noAnnouncements>
+  <div class="no-items-wrapper">
+    <span translate>You currently have no announcements.</span>
+  </div>
+</ng-template>
+
+<ng-template #noCases>
+  <div class="no-items-wrapper">
+    <span translate>You currently have no </span>
+    <ng-container *ngIf="selectedCasesStatus; else closedCases">
+      <span translate>open cases. Click </span>
+      <a translate (click)="openCreateNewTicketModal()">here</a>
+      <span translate> to contact support.</span>
+    </ng-container>
+
+    <ng-template #closedCases>
+      <span translate>closed cases.</span>
+    </ng-template>
+  </div>
+</ng-template>
+
+<ng-template #noTickets>
+  <div class="no-items-wrapper">
+    <span translate>You currently have no </span>
+    <span translate *ngIf="selectedTicketStatus; else closedTickets">open tickets.</span>
+
+    <ng-template #closedTickets>
+      <span translate>closed tickets.</span>
+    </ng-template>
+  </div>
+</ng-template>
+
+<ng-template #noLocations>
+  <div class="no-items-wrapper">
+    <span translate>You currently have no locations.</span>
+  </div>
+</ng-template>
+
+<app-view-broadcast-modal
+  *ngIf="broadcastForView"
+  [broadcast]="broadcastForView"
+  (close)="closeBroadcastModal()"
+></app-view-broadcast-modal>
+
+<app-view-ticket-modal
+  *ngIf="ticketForView"
+  [ticket]="ticketForView"
+  [currentUser]="currentUser"
+  (closeModal)="closeTicketModal()"
+  (postCommentEvent)="postTicketComment($event)"
+></app-view-ticket-modal>
+
+<app-create-ticket-modal
+  *ngIf="isCreateNewTicketModalOpened"
+  (closeModal)="closeCreateNewTicketModal()"
+  (submitTicket)="saveNewTicket($event)"
+></app-create-ticket-modal>

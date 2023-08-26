@@ -1,0 +1,8 @@
+{
+  "add_post": "postitus on loodud",
+  "modify_post": "postitust on muudetud",
+  "delete_post": "postitus on kustutatud",
+  "add_post_comment": "postituse kommentaar on loodud",
+  "modify_post_comment": "postituse kommentaari on muudetud",
+  "delete_post_comment": "postituse kommentaar on kustutatud"
+}

@@ -1,0 +1,15 @@
+{
+  "pro": { "name": "\u1794\u17d2\u179a\u17bc", "base_price": "125.00", "seat_included": "\u17e3" },
+  "business": {
+    "name": "\u17a2\u17b6\u1787\u17b8\u179c\u1780\u1798\u17d2\u1798",
+    "base_price": "\u17e4\u17e1\u17e6.\u17e6\u17e7",
+    "seat_included": "\u17e4",
+    "seat_price": "\u17e8\u17e3.\u17e3\u17e4"
+  },
+  "enterprise": {
+    "name": "\u179f\u17a0\u1782\u17d2\u179a\u17b6\u179f",
+    "base_price": "500.00",
+    "seat_included": "\u17e4",
+    "seat_price": "100.00"
+  }
+}

@@ -1,0 +1,109 @@
+.signup-page#content {
+  padding: 50px 68px 24px;
+}
+
+.signup-page footer {
+  margin: 50px -68px 0;
+}
+
+.signup-page form label {
+  display: none;
+}
+
+.signup-page form input {
+  padding-left: 15px !important;
+}
+
+.form-e .required {
+  margin-top: 10px;
+}
+
+.signup-form {
+  margin-top: 18px;
+}
+
+.signup-form .two-inputs-in-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.signup-form .two-inputs-in-row > p {
+  width: 48%;
+}
+
+.signup-form .trial-checkbox {
+  align-items: center;
+  display: flex;
+}
+
+.signup-form .trial-checkbox-container {
+  cursor: pointer;
+  display: inline-block !important;
+  height: 20px;
+  margin-right: 15px;
+  position: relative;
+  padding-left: 20px;
+  user-select: none;
+}
+
+.signup-form .trial-checkbox input {
+  cursor: pointer;
+  height: 0;
+  opacity: 0;
+  position: absolute;
+  width: 0;
+}
+
+.signup-form .trial-checkbox-container .checkmark {
+  background-color: #f8fafb;
+  border: 1px solid #dbdbdb;
+  border-radius: 4px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.signup-form .trial-checkbox-container .checkmark:after {
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+.signup-form .trial-checkbox-container .checkmark:after {
+  border: solid #16b0c5;
+  border-width: 0 2px 2px 0;
+  height: 12px;
+  left: 6px;
+  top: 2px;
+  transform: rotate(45deg);
+  width: 6px;
+}
+
+.signup-form .trial-checkbox-container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.signup-form .submit-wrap {
+  margin: 35px auto 0;
+  max-width: 360px;
+}
+
+.error-msg {
+  display: block;
+  color: #d75a4a;
+  line-height: 24px;
+}
+
+.pointer-events-none {
+  pointer-events: none;
+}
+
+.list-e {
+  margin-top: 30px;
+}
+
+.list-e > li:focus {
+  outline: none;
+}

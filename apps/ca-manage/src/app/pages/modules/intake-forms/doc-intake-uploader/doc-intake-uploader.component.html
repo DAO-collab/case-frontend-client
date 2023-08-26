@@ -1,0 +1,48 @@
+<article id="content" [ngClass]="{ touchedSubmit: formTouched }">
+  <div class="form">
+    <form *ngIf="!loading && !docData.execution_status" style="margin: 100px 0">
+      <ul class="list-m">
+        <li class="centerd-file-input">
+          <a> <i class="icon-plus"></i> Add Document </a>
+          <input
+            style="height: 80px"
+            type="file"
+            id="file"
+            [disabled]="blockFields || uploadingGoes || !supportedExtensions"
+            (change)="handleFileUpload($any($event.target))"
+          />
+        </li>
+      </ul>
+    </form>
+
+    <div
+      class="gallery-b docs-block"
+      *ngIf="docData.execution_status === 'RUNNING'"
+      style="display: flex; justify-content: center"
+    >
+      <div class="module-d">
+        <div class="text-center empty-search">
+          <img class="no-case-background" width="700" height="150" src="../../../images/illustrations/desktop.svg" />
+          <p translate>
+            {{ attachedDoc ? attachedDoc.fileName : '' }}
+            {{ 'Media is converting. We will notify you when it is ready' | translate }}
+          </p>
+        </div>
+        <div style="display: flex; justify-content: center; margin-top: 30px">
+          <button class="primary-outline custom-color-builder-button" (click)="closeModal()" translate>Close</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="gallery-b docs-block" *ngIf="docData.execution_status === 'FAILED'">
+      <p class="notice-a">
+        {{ attachedDoc ? attachedDoc.fileName : '' }}
+        {{ 'Media failed in converting. Please delete and try again or another.' | translate }}
+        <i
+          class="icon-x-circle remove-att"
+          (mouseup)="documentKey = ''; attachedDoc = null; docData.execution_status = ''"
+        ></i>
+      </p>
+    </div>
+  </div>
+</article>

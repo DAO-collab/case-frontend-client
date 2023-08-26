@@ -1,0 +1,4482 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.368490\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.181633\n"
+"Language: sk\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Mali by ste zvoliť obrazový súbor."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Nahrajte dokument, označte ho na podpis a potom sa klient prihlási a "
+"podpíše. Všetko je hotové bez toho, aby klient prišiel do našej budovy. Toto"
+" je užitočné pre klientov, ktorí nie sú blízko kancelárie alebo bývajú mimo "
+"štátu."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Riaditeľ operácií kapitálového poistenia"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Naši spolupracovníci sa môžu prihlásiť a zobraziť základné informácie o tom,"
+" ako postupujú uvedené prípady. Toto značne zvýšilo náš prípad postúpenia "
+"..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Advokátska kancelária Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Už nemusíme vidieť klientov v kancelárii na schôdzky a podpisovanie "
+"dokumentov je dokončené online - skvelé !."
+
+msgid "CEO of EL Passion"
+msgstr "Generálny riaditeľ EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Pomocou API sme úplne automatizovali to, čo sa zobrazilo v informačnom "
+"kanáli, na základe konkrétnych spúšťačov v našom existujúcom systéme. Celkom"
+" pohodlné .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "IT manažér právnikov spoločnosti Carter Mario Injury Lawyers"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Máme veľa viacjazyčných klientov, ktorí používajú funkciu prekladu. "
+"Uverejňujeme správy s istotou, že ich pochopia všetci. To nám umožňuje "
+"prejsť od miestnej k globálnej práci."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Výkonný riaditeľ spoločnosti Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Klienti to milujú! Ich život je tak oveľa jednoduchší. Môžu s nami "
+"diskutovať o problémoch online, odovzdávať fotografie a dokumenty a všetko "
+"je uložené, kde si ho môžu zobraziť tím aj klient."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Partner spoločnosti Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Fakturujeme prípad, pretože klientom umožňuje presne zistiť, za čo platia."
+
+msgid "Vice President of Sky Digital"
+msgstr "Viceprezident spoločnosti Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Prepojená komunikácia je ako mať všetky vaše sociálne médiá a nástroje "
+"spolupráce na jednom mieste."
+
+msgid "Director Of Complaint Management"
+msgstr "Riaditeľ reklamácie"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Formuláre prípadov nám umožňujú počúvať a učiť sa a pomáhať nám zvýšiť "
+"predaj prostredníctvom spätnej väzby od zákazníkov."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Riaditeľ predaja spoločnosti Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Používateľské rozhranie je veľmi podobné Facebooku. Jeho použitie je "
+"mimoriadne jednoduché."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Partner spoločnosti Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Kód PIN bol odoslaný na adresu"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Send New Pin"
+msgstr "Odoslať nový PIN"
+
+msgid "Need Help?"
+msgstr "Potrebujete pomoc?"
+
+msgid "Click here to contact us"
+msgstr "Kliknite sem a kontaktujte nás"
+
+msgid "Next"
+msgstr "Ďalšie"
+
+msgid "Login or Signup"
+msgstr "Prihlásenie alebo Registrácia"
+
+msgid "Invalid email entered"
+msgstr "Zadaný neplatný email"
+
+msgid "Processing..."
+msgstr "Spracovanie ..."
+
+msgid "Made with"
+msgstr "Vyrobené s"
+
+msgid "love"
+msgstr "milovať"
+
+msgid "in New York City"
+msgstr "V New Yorku"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Všetky práva vyhradené"
+
+msgid "Terms of Use"
+msgstr "Podmienky používania"
+
+msgid "Contact Us"
+msgstr "Kontaktuj nás"
+
+msgid "Username"
+msgstr "užívateľské meno"
+
+msgid "Code"
+msgstr "kód"
+
+msgid "New Password"
+msgstr "Nové heslo"
+
+msgid "Confirm Password"
+msgstr "Potvrď heslo"
+
+msgid "Set Your New Password"
+msgstr "Nastavte nové heslo"
+
+msgid "A code has been sent to"
+msgstr "Kód bol odoslaný na adresu"
+
+msgid "Change Password"
+msgstr "Zmeniť heslo"
+
+msgid "Changing..."
+msgstr "Zmena ..."
+
+msgid "Login"
+msgstr "Prihlásiť sa"
+
+msgid "Forgot password?"
+msgstr "zabudol si heslo?"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Email or Phone"
+msgstr "E-mail alebo telefón"
+
+msgid "Reset Password"
+msgstr "Obnoviť heslo"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Zadajte e-mailovú adresu alebo telefónne číslo spojené s vaším účtom a potom"
+" kliknite na tlačidlo Odoslať. Pošleme vám e-mailom alebo textom odkaz na "
+"stránku, na ktorej môžete ľahko vytvoriť nové heslo."
+
+msgid "Request Code"
+msgstr "Vyžiadať kód"
+
+msgid "Requesting..."
+msgstr "Požadujúce ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE BUDE Čoskoro"
+
+msgid "Create a free account"
+msgstr "Vytvorte si účet zadarmo"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Robíme s tým posledné úpravy. Až bude pripravený, budeme vás informovať!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Od lepšej spolupráce vás delí už len pár minút."
+
+msgid "First Name"
+msgstr "Krstné meno"
+
+msgid "Last Name"
+msgstr "Priezvisko"
+
+msgid "Email"
+msgstr "e-mail"
+
+msgid "Company"
+msgstr "Spoločnosť"
+
+msgid "No language selected"
+msgstr "Nie je vybratý žiaden jazyk"
+
+msgid "I agree with"
+msgstr "Súhlasím s"
+
+msgid "Terms of Service"
+msgstr "Podmienky služby"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Have at least one lower case character"
+msgstr "Mať aspoň jedno malé písmeno"
+
+msgid "Have at least one capital letter"
+msgstr "Majte aspoň jedno veľké písmeno"
+
+msgid "Have at least one number"
+msgstr "Majte aspoň jedno číslo"
+
+msgid "Have at least 8 characters in length"
+msgstr "Má dĺžku najmenej 8 znakov"
+
+msgid "Type your current password"
+msgstr "Zadajte svoje aktuálne heslo"
+
+msgid "Passwords must match"
+msgstr "heslá sa musia zhodovať"
+
+msgid "Domains"
+msgstr "domény"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript je zakázaný. Aktivujte ho."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Súbory cookie sú zakázané. Aktivujte ho."
+
+msgid "New"
+msgstr "Nový"
+
+msgid "Create A New App"
+msgstr "Vytvorte novú aplikáciu"
+
+msgid "Apps"
+msgstr "aplikácie"
+
+msgid "Profile"
+msgstr "profil"
+
+msgid "Logout"
+msgstr "Odhlásiť sa"
+
+msgid "Hi"
+msgstr "Ahoj"
+
+msgid "View your account"
+msgstr "Zobraziť svoj účet"
+
+msgid "View page"
+msgstr "Zobraziť stránku"
+
+msgid "You don’t have any apps"
+msgstr "Nemáte žiadne aplikácie"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "admin"
+
+msgid "Notifications"
+msgstr "Oznámenia"
+
+msgid "No notifications yet."
+msgstr "Zatiaľ žiadne upozornenia."
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "Last Week"
+msgstr "Minulý týždeň"
+
+msgid "No timezone selected"
+msgstr "Nie je vybratý časový pás"
+
+msgid "Complete profile to continue"
+msgstr "Ak chcete pokračovať, vyplňte profil"
+
+msgid "Timezone"
+msgstr "Časové pásmo"
+
+msgid "Update"
+msgstr "aktualizovať"
+
+msgid "Website:"
+msgstr "Webstránka:"
+
+msgid "Homepage:"
+msgstr "homepage:"
+
+msgid "Approve Access"
+msgstr "Schváliť prístup"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Permissions"
+msgstr "Povolenia"
+
+msgid "Billing"
+msgstr "Fakturácia"
+
+msgid "Payment Plan"
+msgstr "Platobný plán"
+
+msgid "Edit"
+msgstr "Upraviť"
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "has access to your information below:"
+msgstr "má prístup k vašim informáciám nižšie:"
+
+msgid "has invited you to their client portal."
+msgstr "vás pozýva na ich klientsky portál."
+
+msgid "want access to the following information:"
+msgstr "chcú prístup k nasledujúcim informáciám:"
+
+msgid "Decline"
+msgstr "pokles"
+
+msgid "Remove Access"
+msgstr "Odstrániť prístup"
+
+msgid "Active"
+msgstr "Aktívne"
+
+msgid "Invites"
+msgstr "pozýva"
+
+msgid "Disabled"
+msgstr "Zakázané"
+
+msgid "No apps found"
+msgstr "Nenašli sa žiadne aplikácie"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "užívateľ"
+
+msgid "manager"
+msgstr "manažér"
+
+msgid "active"
+msgstr "aktívny"
+
+msgid "inactive"
+msgstr "neaktívny"
+
+msgid "Company Name"
+msgstr "meno spoločnosti"
+
+msgid "Type"
+msgstr "typ"
+
+msgid "Status"
+msgstr "Postavenie"
+
+msgid "Invitation"
+msgstr "Pozvánka"
+
+msgid "About App"
+msgstr "O aplikácii"
+
+msgid "Billing Info"
+msgstr "Fakturačné údaje"
+
+msgid "Your Company Name"
+msgstr "Názov vašej spoločnosti"
+
+msgid "Your Company Website"
+msgstr "Vaša webová stránka spoločnosti"
+
+msgid "Saving..."
+msgstr "Úsporné ..."
+
+msgid "Billing Information"
+msgstr "informácie o platbe"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Pridajte ID aplikácie poskytnuté spoločnosťou"
+
+msgid "Select an option"
+msgstr "Vyberte možnosť"
+
+msgid "Join an existing app as a client"
+msgstr "Pripojte sa k existujúcej aplikácii ako klient"
+
+msgid "Create a new app for my business"
+msgstr "Vytvorte novú aplikáciu pre moju firmu"
+
+msgid "Create Domain"
+msgstr "Vytvoriť doménu"
+
+msgid "Select enterprise app"
+msgstr "Vyberte podnikovú aplikáciu"
+
+msgid "No item selected"
+msgstr "Nie je vybratá žiadna položka"
+
+msgid "Domain name"
+msgstr "Doménové meno"
+
+msgid "Add"
+msgstr "pridať"
+
+msgid "No enterprise app found"
+msgstr "Nenašla sa žiadna podniková aplikácia"
+
+msgid "Pending"
+msgstr "Čaká na spracovanie"
+
+msgid "No domains found"
+msgstr "Nenašli sa žiadne domény"
+
+msgid "Domain"
+msgstr "doména"
+
+msgid "Txt Value"
+msgstr "Hodnota TXT"
+
+msgid "Enterprise Host ID"
+msgstr "Enterprise Host ID"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Akcia"
+
+msgid "Delete"
+msgstr "Odstrániť"
+
+msgid "Reset"
+msgstr "Resetovať"
+
+msgid "Allow Manual Sign In"
+msgstr "Povoliť manuálne prihlásenie"
+
+msgid "Exclude Emails From SSO"
+msgstr "Vylúčiť e-maily z SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Metadáta poskytovateľa identity SAML"
+
+msgid "Submit"
+msgstr "Predložiť"
+
+msgid "Profile photo"
+msgstr "Profilová fotka"
+
+msgid "Uploading..."
+msgstr "Nahrávanie ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "bol nárokovaný iným účtom, zmeňte ho alebo"
+
+msgid "reclaim"
+msgstr "kultivovať"
+
+msgid "it"
+msgstr "to"
+
+msgid "pending verification:"
+msgstr "čakajúca verifikácia:"
+
+msgid "verify"
+msgstr "overiť"
+
+msgid "Phone Number"
+msgstr "Telefónne číslo"
+
+msgid "Current Password"
+msgstr "aktuálne heslo"
+
+msgid "Change password"
+msgstr "Zmeniť heslo"
+
+msgid "No gender selected"
+msgstr "Nebol vybratý žiadny pohlavie"
+
+msgid "Company Title"
+msgstr "Názov spoločnosti"
+
+msgid "Address"
+msgstr "adresa"
+
+msgid "Address 2"
+msgstr "adresa 2"
+
+msgid "City/Locality"
+msgstr "Mesto / Lokalita"
+
+msgid "State/Region"
+msgstr "Štát / región"
+
+msgid "No country selected"
+msgstr "Nie je vybratá žiadna krajina"
+
+msgid "Zip/Postal Code"
+msgstr "Poštový kód"
+
+msgid "Basic"
+msgstr "základné"
+
+msgid "Date of Birth"
+msgstr "Dátum narodenia"
+
+msgid "Gender"
+msgstr "rod"
+
+msgid "Occupation"
+msgstr "povolania"
+
+msgid "Location"
+msgstr "umiestnenia"
+
+msgid "Address is not valid"
+msgstr "Adresa je neplatná"
+
+msgid "City/Locality is not valid"
+msgstr "Mesto / miesto je neplatné"
+
+msgid "Country"
+msgstr "Krajina"
+
+msgid "State/Region is not valid"
+msgstr "Štát / región je neplatný"
+
+msgid "Contact Info"
+msgstr "Kontaktné informácie"
+
+msgid "Language & Region"
+msgstr "Jazyk a región"
+
+msgid "Saving"
+msgstr "Ukladanie"
+
+msgid "Verify Your"
+msgstr "Overte svoje"
+
+msgid "Verification Code"
+msgstr "Overovací kód"
+
+msgid "Resend Code"
+msgstr "Znova odoslať kód"
+
+msgid "Resending"
+msgstr "preposielanie"
+
+msgid "Verify"
+msgstr "overiť"
+
+msgid "Verifying..."
+msgstr "Overovanie ..."
+
+msgid "Later"
+msgstr "neskôr"
+
+msgid "We're here to help"
+msgstr "Sme tu, aby sme vám pomohli"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Ďakujeme, že ste nás kontaktovali. Vaša správa bola úspešne odoslaná. Budeme"
+" vás čoskoro kontaktovať!"
+
+msgid "Message"
+msgstr "správa"
+
+msgid "characters left"
+msgstr "Počet zostávajúcich znakov:"
+
+msgid "Recaptcha"
+msgstr "reCAPTCHA"
+
+msgid "Send"
+msgstr "odoslať"
+
+msgid "Sending..."
+msgstr "Odosielanie ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Zo zoznamu už nebudete dostávať e-mailový marketing."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Ak máte chvíľu času, dajte nám vedieť, prečo ste sa odhlásili:"
+
+msgid "Return to our website"
+msgstr "Vráťte sa na našu webovú stránku"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Ďakujem. Vaša odpoveď bola odoslaná."
+
+msgid "No Cases"
+msgstr "Žiadne prípady"
+
+msgid "Layout"
+msgstr "Rozloženie"
+
+msgid "Gallery"
+msgstr "Galéria"
+
+msgid "Speaker"
+msgstr "Hovorca"
+
+msgid "This case has been closed"
+msgstr "Tento prípad bol uzavretý"
+
+msgid "Feed"
+msgstr "krmivo"
+
+msgid "Images"
+msgstr "snímky"
+
+msgid "Docs"
+msgstr "dokumenty"
+
+msgid "Audios"
+msgstr "audionahrávky"
+
+msgid "Videos"
+msgstr "videá"
+
+msgid "Files"
+msgstr "súbory"
+
+msgid "Events"
+msgstr "Diania"
+
+msgid "Forms"
+msgstr "formuláre"
+
+msgid "E-signs"
+msgstr "E-znamenia"
+
+msgid "Invoices"
+msgstr "faktúry"
+
+msgid "Notes"
+msgstr "Poznámky"
+
+msgid "Tasks"
+msgstr "Úlohy"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Dobrá práca!"
+
+msgid "You did all"
+msgstr "Urobil si všetko"
+
+msgid "the tasks"
+msgstr "úloh"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Skip to navigation (n)"
+msgstr "Prejsť na navigáciu (n)"
+
+msgid "Skip to content (c)"
+msgstr "Preskočiť na obsah (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Prejsť na pätu (f)"
+
+msgid "Case"
+msgstr "Prípad"
+
+msgid "Search"
+msgstr "Vyhľadávanie"
+
+msgid "Using Form Builder"
+msgstr "Použitie nástroja na tvorbu formulárov"
+
+msgid "Using Forms Library"
+msgstr "Používanie knižnice formulárov"
+
+msgid "Using E-sign Builder"
+msgstr "Používanie nástroja E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Používanie knižnice elektronických znakov"
+
+msgid "Documents"
+msgstr "Dokumenty"
+
+msgid "Create Note"
+msgstr "Vytvorte poznámku"
+
+msgid "Edit Note"
+msgstr "Upraviť poznámku"
+
+msgid "End Convo"
+msgstr "Ukončiť konverzáciu"
+
+msgid "Create Form"
+msgstr "Vytvorte formulár"
+
+msgid "Create Sign"
+msgstr "Vytvoriť značku"
+
+msgid "Event Create"
+msgstr "Vytvorenie udalosti"
+
+msgid "Convo Videos"
+msgstr "Konverzačné videá"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Prípady"
+
+msgid "Case categories"
+msgstr "Kategórie prípadov"
+
+msgid "Your team"
+msgstr "Tvoj tím"
+
+msgid "To do"
+msgstr "Robiť"
+
+msgid "To Do:"
+msgstr "Robiť:"
+
+msgid "Case Categories"
+msgstr "Kategórie prípadov"
+
+msgid "Your Team"
+msgstr "Tvoj tím"
+
+msgid "To Do"
+msgstr "Robiť"
+
+msgid "Yes"
+msgstr "Áno"
+
+msgid "Close"
+msgstr "Zavrieť"
+
+msgid "Publish"
+msgstr "Publikovať"
+
+msgid "Visibility"
+msgstr "viditeľnosť"
+
+msgid "all"
+msgstr "všetko"
+
+msgid "sign"
+msgstr "znamenie"
+
+msgid "Page"
+msgstr "strana"
+
+msgid "of"
+msgstr "z"
+
+msgid "Processing"
+msgstr "Spracovanie"
+
+msgid "failed."
+msgstr "zlyhalo."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Hodnota by mala byť väčšia alebo rovná 1"
+
+msgid "Repeat end:"
+msgstr "Opakovať koniec:"
+
+msgid "Signature"
+msgstr "Podpis"
+
+msgid "Draw"
+msgstr "Kresliť"
+
+msgid "Write"
+msgstr "Napíšte"
+
+msgid "Clear Signature"
+msgstr "Vymazať podpis"
+
+msgid "Still processing video..."
+msgstr "Stále sa spracováva video ..."
+
+msgid "You"
+msgstr "vy"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Chystáte sa odstrániť informačný kanál. Si si istý?"
+
+msgid "No convo audios yet"
+msgstr "Zatiaľ žiadne zvukové konverzácie"
+
+msgid "No convo videos yet"
+msgstr "Zatiaľ žiadne konverzačné videá"
+
+msgid "Start Convo"
+msgstr "Spustite konverzáciu"
+
+msgid "Notify the Host"
+msgstr "Informujte hostiteľa"
+
+msgid "is in the call"
+msgstr "je v hovore"
+
+msgid "and"
+msgstr "a"
+
+msgid "others are in the call"
+msgstr "ostatní sú v hovore"
+
+msgid "Audio call is being recorded"
+msgstr "Nahráva sa zvukový hovor"
+
+msgid "Video call is being recorded"
+msgstr "Videohovor sa nahráva"
+
+msgid "Join now"
+msgstr "Pridať sa teraz"
+
+msgid "Dismiss"
+msgstr "Odmietnuť"
+
+msgid "Can’t find your "
+msgstr "Nedá sa nájsť vaše"
+
+msgid "microphone"
+msgstr "mikrofón"
+
+msgid "Check your system settings to make sure that "
+msgstr "Skontrolujte nastavenia svojho systému, aby ste sa uistili"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"je k dispozícii. Ak nie, zapojte ho. Možno budete musieť reštartovať "
+"prehliadač."
+
+msgid "web camera"
+msgstr "Webová kamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Chystáte sa začať konverzný hovor. Začnite s:"
+
+msgid "Video & Audio"
+msgstr "Video & Audio"
+
+msgid "Audio Only"
+msgstr "Iba zvuk"
+
+msgid "Record the meeting"
+msgstr "Zaznamenajte stretnutie"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Čaká sa na niekoho, kto má povolenie začať hovor Convo"
+
+msgid "Add Ticket"
+msgstr "Pridať lístok"
+
+msgid "Title"
+msgstr "nadpis"
+
+msgid "Open"
+msgstr "OTVORENÉ"
+
+msgid "Closed"
+msgstr "ZATVORENÉ"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Chystáte sa uzavrieť lístok. Si si istý?"
+
+msgid "Announcements"
+msgstr "Oznamy"
+
+msgid "Support"
+msgstr "podpora"
+
+msgid "Opened"
+msgstr "otvoril"
+
+msgid "View"
+msgstr "vyhliadka"
+
+msgid "Locations"
+msgstr "Miesta"
+
+msgid "You currently have no announcements."
+msgstr "Momentálne nemáte žiadne oznámenia."
+
+msgid "You currently have no"
+msgstr "V súčasnosti nemáte č"
+
+msgid "open cases. Click"
+msgstr "otvorené prípady. Kliknite"
+
+msgid "here"
+msgstr "tu"
+
+msgid "to contact support."
+msgstr "kontaktovať podporu."
+
+msgid "closed cases."
+msgstr "uzavreté prípady."
+
+msgid "open tickets."
+msgstr "otvorené lístky."
+
+msgid "closed tickets."
+msgstr "uzavreté lístky."
+
+msgid "You currently have no locations."
+msgstr "Momentálne nemáte žiadne miesta."
+
+msgid "Write a comment...."
+msgstr "Napísať komentár...."
+
+msgid "Post"
+msgstr "pošta"
+
+msgid "Add Location"
+msgstr "Pridať polohu"
+
+msgid "Save Event"
+msgstr "Uložiť udalosť"
+
+msgid "Name"
+msgstr "názov"
+
+msgid "Start Date"
+msgstr "Dátum začiatku"
+
+msgid "Start Time"
+msgstr "Doba spustenia"
+
+msgid "End Date"
+msgstr "Dátum ukončenia"
+
+msgid "End Time"
+msgstr "Čas ukončenia"
+
+msgid "Repeat"
+msgstr "Opakujte"
+
+msgid "Attendees"
+msgstr "Účastníci"
+
+msgid "Event Location"
+msgstr "Umiestnenie udalosti"
+
+msgid "Link"
+msgstr "Odkaz"
+
+msgid "Description"
+msgstr "popis"
+
+msgid "Attending"
+msgstr "navštevovať"
+
+msgid "Add to calendar"
+msgstr "Pridať do kalendára"
+
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgid "Event by"
+msgstr "Udalosť podľa"
+
+msgid "Duration:"
+msgstr "Trvanie:"
+
+msgid "more"
+msgstr "viac"
+
+msgid "Maybe"
+msgstr "Možno"
+
+msgid "Not Attending"
+msgstr "Neúčastní sa"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Video konferencia"
+
+msgid "Event details"
+msgstr "Podrobnosti o udalosti"
+
+msgid "You don't have permissions to view this page."
+msgstr "Na prezeranie tejto stránky nemáte povolenie."
+
+msgid "Your Upcoming Events"
+msgstr "Vaše nadchádzajúce udalosti"
+
+msgid "Upcoming"
+msgstr "Nadchádzajúce"
+
+msgid "Your Past Events"
+msgstr "Vaše minulé udalosti"
+
+msgid "Past"
+msgstr "Minulosť"
+
+msgid "Your Events"
+msgstr "Vaše udalosti"
+
+msgid "All"
+msgstr "Všetky"
+
+msgid "All Events"
+msgstr "Všetky udalosti"
+
+msgid "Directions"
+msgstr "Inštrukcie"
+
+msgid "Edit settings"
+msgstr "Upraviť nastavenia"
+
+msgid "Delete event"
+msgstr "Odstrániť udalosť"
+
+msgid "Attending?"
+msgstr "Zúčastniť sa?"
+
+msgid "No Events"
+msgstr "Žiadne udalosti"
+
+msgid "more comment(s)"
+msgstr "ďalšie komentáre"
+
+msgid "Loading comments"
+msgstr "Načítavajú sa komentáre"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Chystáte sa odstrániť komentár. Si si istý?"
+
+msgid "task"
+msgstr "úloha"
+
+msgid "to do"
+msgstr "robiť"
+
+msgid "tasks"
+msgstr "úlohy"
+
+msgid "Write something..."
+msgstr "Niečo napísať..."
+
+msgid "Attach File"
+msgstr "Priložiť súbor"
+
+msgid "From Template"
+msgstr "Zo šablóny"
+
+msgid "No feeds yet."
+msgstr "Žiadne informačné kanály."
+
+msgid "comments"
+msgstr "komentáre"
+
+msgid "comment"
+msgstr "komentovať"
+
+msgid "Add a comment"
+msgstr "Pridať komentár"
+
+msgid "Template"
+msgstr "Šablóna"
+
+msgid "No templates"
+msgstr "Žiadne šablóny"
+
+msgid "Done"
+msgstr "hotový"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Vyberte členov, ktorí musia vyplniť tento formulár"
+
+msgid "Update Form"
+msgstr "Aktualizovať formulár"
+
+msgid "Due Date"
+msgstr "Do dátumu"
+
+msgid "Due Time"
+msgstr "Patričný čas"
+
+msgid "Loading..."
+msgstr "Načítava..."
+
+msgid "Preview"
+msgstr "Náhľad"
+
+msgid "Save & Close"
+msgstr "Uložiť a zavrieť"
+
+msgid "Add an element"
+msgstr "Pridajte prvok"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Médiá sa konvertujú. Keď bude pripravený, budeme vás informovať"
+
+msgid "Add "
+msgstr "Pridať"
+
+msgid "Field"
+msgstr "Lúka"
+
+msgid "Edit "
+msgstr "Upraviť"
+
+msgid "Text"
+msgstr "text"
+
+msgid "Sub Text"
+msgstr "Vedľajší text"
+
+msgid "Format"
+msgstr "Formátovať"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr "Konverzia média zlyhala. Odstráňte a skúste to znova alebo inak."
+
+msgid "Pages"
+msgstr "Stránky"
+
+msgid "Saved"
+msgstr "Uložené"
+
+msgid "Insert"
+msgstr "Vložte"
+
+msgid "Elements"
+msgstr "Prvky"
+
+msgid "Action Required"
+msgstr "Vyžaduje sa akcia"
+
+msgid "Add a new page"
+msgstr "Pridať novú stránku"
+
+msgid "Blank page"
+msgstr "Prázdna strana"
+
+msgid "From PDF"
+msgstr "Z PDF"
+
+msgid "From image"
+msgstr "Z obrázku"
+
+msgid "Add PDF"
+msgstr "Pridať PDF"
+
+msgid "Add Image"
+msgstr "Pridať obrázok"
+
+msgid "Options"
+msgstr "možnosti"
+
+msgid "Column Names"
+msgstr "Názvy stĺpcov"
+
+msgid "Option already exists."
+msgstr "Možnosť už existuje."
+
+msgid "options list is empty"
+msgstr "zoznam možností je prázdny"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Pole začiarkavacích políčok podporuje iba 5 možností. Môžete zmeniť pole na "
+"rozbaľovaciu ponuku a pridať ďalšie možnosti"
+
+msgid "columns list is empty"
+msgstr "zoznam stĺpcov je prázdny"
+
+msgid "Default Value"
+msgstr "Predvolená hodnota"
+
+msgid "Delete row"
+msgstr "Odstrániť riadok"
+
+msgid "Add a new row"
+msgstr "Pridajte nový riadok"
+
+msgid "Download"
+msgstr "Stiahnuť ▼"
+
+msgid "Label"
+msgstr "Označenie"
+
+msgid "Question"
+msgstr "Otázka"
+
+msgid "Default answer"
+msgstr "Predvolená odpoveď"
+
+msgid "Media is converting"
+msgstr "Médiá sa konvertujú"
+
+msgid "Send Form"
+msgstr "Odoslať formulár"
+
+msgid "Form Submited."
+msgstr "Form Submitted."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Nemáte povolenia na odosielanie formulárov."
+
+msgid "You currently have no forms of your own"
+msgstr "Momentálne nemáte žiadne vlastné formuláre"
+
+msgid "Your Uncompleted Forms"
+msgstr "Vaše nevyplnené formuláre"
+
+msgid "Uncompleted"
+msgstr "Nedokončené"
+
+msgid "Your Completed Forms"
+msgstr "Vaše vyplnené formuláre"
+
+msgid "Completed"
+msgstr "Dokončené"
+
+msgid "Your Forms"
+msgstr "Vaše formuláre"
+
+msgid "All Forms"
+msgstr "Všetky formuláre"
+
+msgid "Form Title"
+msgstr "Názov formulára"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Published"
+msgstr "Uverejnený"
+
+msgid "Submissions"
+msgstr "Podania"
+
+msgid "No Forms"
+msgstr "Žiadne formuláre"
+
+msgid "Upload Form Document"
+msgstr "Nahrajte dokument formulára"
+
+msgid "Forms Library"
+msgstr "Knižnica formulárov"
+
+msgid "No Forms In Library"
+msgstr "Žiadne formuláre v knižnici"
+
+msgid "Answers"
+msgstr "Odpovede"
+
+msgid "Close - Status changed"
+msgstr "Zatvoriť - Stav sa zmenil"
+
+msgid "Change Status"
+msgstr "Zmeniť stav"
+
+msgid "Case Number"
+msgstr "Číslo prípadu"
+
+msgid "Tag Id"
+msgstr "Identifikátor značky"
+
+msgid "Date Opened"
+msgstr "Dátum otvorenia"
+
+msgid "Host Id"
+msgstr "Host Id"
+
+msgid "User Id"
+msgstr "ID používateľa"
+
+msgid "Case Id"
+msgstr "Id"
+
+msgid "Confirm your details"
+msgstr "Potvrďte svoje údaje"
+
+msgid "Form Submitted."
+msgstr "Formulár odoslaný."
+
+msgid "Invoice"
+msgstr "Faktúra"
+
+msgid "PO No:"
+msgstr "Číslo objednávky:"
+
+msgid "Reference ID:"
+msgstr "Referenčné ID:"
+
+msgid "Term:"
+msgstr "Termín:"
+
+msgid "Note:"
+msgstr "Poznámka:"
+
+msgid "QTY"
+msgstr "MNOŽSTVO"
+
+msgid "Price"
+msgstr "cena"
+
+msgid "Add more"
+msgstr "Pridať VIAC"
+
+msgid "Subtotal($)"
+msgstr "Medzisúčet ($)"
+
+msgid "Discount(%)"
+msgstr "zľava (%)"
+
+msgid "TAX(%)"
+msgstr "DAŇ (%)"
+
+msgid "Total($)"
+msgstr "Celkom ($)"
+
+msgid "Invoice No"
+msgstr "faktúra č"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Vyberte členov, ktorí potrebujú zobraziť alebo zaplatiť túto faktúru"
+
+msgid "Update Invoice"
+msgstr "Aktualizovať faktúru"
+
+msgid "Create Invoice"
+msgstr "Vytvoriť faktúru"
+
+msgid "PO No."
+msgstr "PO č."
+
+msgid "Reference ID"
+msgstr "Referenčné ID"
+
+msgid "Term"
+msgstr "Termín"
+
+msgid "Note"
+msgstr "Poznámka"
+
+msgid "Quantity"
+msgstr "Množstvo"
+
+msgid "Price ($)"
+msgstr "cena ($)"
+
+msgid "Subtotal ($)"
+msgstr "Medzisúčet ($)"
+
+msgid "Discount (%)"
+msgstr "zľava (%)"
+
+msgid "Tax (%)"
+msgstr "daň (%)"
+
+msgid "Total ($)"
+msgstr "Celkom ($)"
+
+msgid "Pay Invoice"
+msgstr "Zaplatiť faktúru"
+
+msgid "Payment method"
+msgstr "Spôsob platby"
+
+msgid "Add a new payment method"
+msgstr "Pridajte nový spôsob platby"
+
+msgid "Summary"
+msgstr "Zhrnutie"
+
+msgid "Payment:"
+msgstr "Platba:"
+
+msgid "Total charge:"
+msgstr "Celkový poplatok:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Vaše nezaplatené faktúry"
+
+msgid "Unpaid"
+msgstr "Nezaplatené"
+
+msgid "Your Paid Invoices"
+msgstr "Vaše zaplatené faktúry"
+
+msgid "Paid"
+msgstr "Zaplatené"
+
+msgid "Your Invoices"
+msgstr "Vaše faktúry"
+
+msgid "All Invoices"
+msgstr "Všetky faktúry"
+
+msgid "Invoice Title"
+msgstr "Názov faktúry"
+
+msgid "No Invoices"
+msgstr "Žiadne faktúry"
+
+msgid "No Audios yet."
+msgstr "Zatiaľ žiadne audio."
+
+msgid "Loading failed."
+msgstr "Načítanie zlyhalo."
+
+msgid "retry"
+msgstr "skúsiť znova"
+
+msgid "No documents yet."
+msgstr "Zatiaľ žiadne dokumenty."
+
+msgid "No Files yet."
+msgstr "Zatiaľ žiadne súbory."
+
+msgid "No Images yet."
+msgstr "Zatiaľ žiadne obrázky."
+
+msgid "No Videos yet."
+msgstr "Zatiaľ žiadne videá."
+
+msgid "Page Not Found"
+msgstr "Stránka nenájdená"
+
+msgid "Attachments"
+msgstr "prílohy"
+
+msgid "Note View"
+msgstr "Poznámka Zobraziť"
+
+msgid "No Notes"
+msgstr "Žiadne poznámky"
+
+msgid "Select the person to answer this field"
+msgstr "Vyberte osobu, na ktorú chcete odpovedať"
+
+msgid "Create E-sign"
+msgstr "Vytvorte E-znamenie"
+
+msgid "Update E-signs"
+msgstr "Aktualizujte elektronické značky"
+
+msgid "Signs"
+msgstr "Známky"
+
+msgid "Add Field"
+msgstr "Pridať pole"
+
+msgid "Edit Field"
+msgstr "Upraviť pole"
+
+msgid "Send E-sign"
+msgstr "Odoslať E-sign"
+
+msgid "E-sign Submitted."
+msgstr "E-sign odoslaný."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Nemáte povolenia na odosielanie elektronických podpisov."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Momentálne nemáte žiadne vlastné E-znaky"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Vaše nevyplnené E-znaky"
+
+msgid "Your Completed E-signs"
+msgstr "Vaše vyplnené E-signály"
+
+msgid "Your Signs"
+msgstr "Vaše znamenia"
+
+msgid "All E-signs"
+msgstr "Všetky E-znaky"
+
+msgid "E-sign Title"
+msgstr "Názov E-sign"
+
+msgid "No E-signs"
+msgstr "Žiadne E-značky"
+
+msgid "E-Signs Library"
+msgstr "Knižnica elektronických značiek"
+
+msgid "No E-signs In Library"
+msgstr "V knižnici nie sú žiadne E-prihlásenia"
+
+msgid "Upload E-sign Document"
+msgstr "Nahrajte dokument elektronického podpisu"
+
+msgid "Update Task"
+msgstr "Aktualizovať úlohu"
+
+msgid "Create Task"
+msgstr "Vytvoriť úlohu"
+
+msgid "You currently have no tasks of your own"
+msgstr "Momentálne nemáte žiadne vlastné úlohy"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Vaše nedokončené úlohy"
+
+msgid "Your Completed Tasks"
+msgstr "Vaše dokončené úlohy"
+
+msgid "Your Tasks"
+msgstr "Vaše úlohy"
+
+msgid "All Tasks"
+msgstr "Všetky úlohy"
+
+msgid "Task"
+msgstr "Úloha"
+
+msgid "Deadline"
+msgstr "Konečný termín"
+
+msgid "Assignees"
+msgstr "Pridelené osoby"
+
+msgid "In Progress"
+msgstr "Prebieha"
+
+msgid "Delete task"
+msgstr "Odstrániť úlohu"
+
+msgid "No Tasks"
+msgstr "Žiadne úlohy"
+
+msgid "wants access"
+msgstr "chce prístup"
+
+msgid "No Answers"
+msgstr "Žiadne odpovede"
+
+msgid "Select Field Type"
+msgstr "Vyberte typ poľa"
+
+msgid "Text Only"
+msgstr "Iba text"
+
+msgid "Multiple Line Text"
+msgstr "Viac riadkového textu"
+
+msgid "Dropdown"
+msgstr "rozbaľovací"
+
+msgid "Multi Dropdown"
+msgstr "Rozbaľovanie viacerých položiek"
+
+msgid "Checkboxes"
+msgstr "zaškrtávacie políčka"
+
+msgid "Radio"
+msgstr "rádio"
+
+msgid "Date"
+msgstr "dátum"
+
+msgid "Time"
+msgstr "čas"
+
+msgid "Yes/No"
+msgstr "Áno nie"
+
+msgid "Number"
+msgstr "číslo"
+
+msgid "Access Denied"
+msgstr "Prístup zamietnutý"
+
+msgid "You don't have access to this case."
+msgstr "K tomuto prípadu nemáte prístup."
+
+msgid "Imports"
+msgstr "Dovoz"
+
+msgid "View import"
+msgstr "Zobraziť import"
+
+msgid "Sessions"
+msgstr "Relácie"
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "Users"
+msgstr "užívatelia"
+
+msgid "Library"
+msgstr "Knižnica"
+
+msgid "Integration"
+msgstr "Integrácia"
+
+msgid "Settings"
+msgstr "nastavenie"
+
+msgid "Webhooks"
+msgstr "Webhooky"
+
+msgid "Keys"
+msgstr "Kľúče"
+
+msgid "Feed Templates"
+msgstr "Šablóny informačného kanála"
+
+msgid "Form Templates"
+msgstr "Šablóny formulárov"
+
+msgid "E-sign Templates"
+msgstr "Šablóny elektronických značiek"
+
+msgid "Task Templates"
+msgstr "Šablóny úloh"
+
+msgid "Dashboard"
+msgstr "prístrojová doska"
+
+msgid "Payments"
+msgstr "Platby"
+
+msgid "From"
+msgstr "z"
+
+msgid "To"
+msgstr "na"
+
+msgid "System"
+msgstr "Systém"
+
+msgid "User Intake"
+msgstr "Užívateľský príjem"
+
+msgid "Custom Fields"
+msgstr "Vlastné polia"
+
+msgid "After Actions"
+msgstr "Po akciách"
+
+msgid "Advance Settings"
+msgstr "Rozšírené nastavenia"
+
+msgid "Label Name"
+msgstr "Názov menovky"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Tag ID"
+msgstr "ID štítku"
+
+msgid "Have many users?"
+msgstr "Máte veľa používateľov?"
+
+msgid "Import users"
+msgstr "Importovať používateľov"
+
+msgid "or"
+msgstr "alebo"
+
+msgid "Send them a signup link."
+msgstr "Pošlite im odkaz na prihlásenie."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Začnime zadaním e-mailu alebo telefónneho čísla"
+
+msgid "Phone"
+msgstr "telefón"
+
+msgid "Invalid phone number entered"
+msgstr "Zadané neplatné telefónne číslo"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Štítok na ľahké vyhľadanie puzdra. neskôr sa to nedá zmeniť"
+
+msgid "Visibility:"
+msgstr "viditeľnosť:"
+
+msgid "Who can use this template"
+msgstr "Kto môže použiť túto šablónu"
+
+msgid "One time"
+msgstr "Raz"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Pred pokračovaním zadajte platné informácie o platbe"
+
+msgid "Add Payment"
+msgstr "Pridať platbu"
+
+msgid "Repeat every:"
+msgstr "Opakujte každý raz:"
+
+msgid "Let's get started"
+msgstr "Začnime"
+
+msgid "Take me there"
+msgstr "Vezmi ma tam"
+
+msgid "Mark"
+msgstr "Marka"
+
+msgid "Onboarding"
+msgstr "Prihlásenie"
+
+msgid "Created on"
+msgstr "Vytvorené na"
+
+msgid "Expires on"
+msgstr "Vyprší"
+
+msgid "No announcements yet."
+msgstr "Zatiaľ žiadne oznámenia."
+
+msgid "Add Announcement"
+msgstr "Pridať oznámenie"
+
+msgid "Edit Announcement"
+msgstr "Upraviť oznámenie"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Dátum a čas by mali byť aspoň o hodinu dopredu"
+
+msgid "Delete Date"
+msgstr "Odstrániť dátum"
+
+msgid "Delete Time"
+msgstr "Odstrániť čas"
+
+msgid "Back"
+msgstr "späť"
+
+msgid "No Users Found"
+msgstr "Nenašli sa žiadni používatelia"
+
+msgid "No role selected"
+msgstr "Nevybrali ste žiadnu rolu"
+
+msgid "No permissions added!"
+msgstr "Neboli pridané žiadne povolenia!"
+
+msgid "ASSIGNED USERS"
+msgstr "PRIDELENÍ UŽÍVATELIA"
+
+msgid "CASE PERMISSIONS"
+msgstr "PRÍPADOVÉ POVOLENIA"
+
+msgid "User ID"
+msgstr "ID používateľa"
+
+msgid "Role"
+msgstr "úloha"
+
+msgid "remove"
+msgstr "remove"
+
+msgid "Assign User"
+msgstr "Priradiť používateľa"
+
+msgid "User"
+msgstr "Používateľ"
+
+msgid "ADD USER"
+msgstr "PRIDAŤ UŽÍVATEĽA"
+
+msgid "Email user about case assignment"
+msgstr "E-mail o pridelení prípadu"
+
+msgid "Keyword"
+msgstr "kľúčové"
+
+msgid "No cases found."
+msgstr "Nenašli sa žiadne prípady."
+
+msgid "Create a case for a business"
+msgstr "Vytvorte prípad pre firmu"
+
+msgid "Case ID"
+msgstr "ID prípadu"
+
+msgid "Created On"
+msgstr "Vytvorené na"
+
+msgid "Case Status"
+msgstr "Stav prípadu"
+
+msgid "Case Type"
+msgstr "Typ prípadu"
+
+msgid "Assign Users"
+msgstr "Priradiť používateľov"
+
+msgid "No cases found"
+msgstr "Nenašli sa žiadne prípady"
+
+msgid "Have many cases?"
+msgstr "Máte veľa prípadov?"
+
+msgid "Click here to import cases."
+msgstr "Kliknutím sem importujete prípady."
+
+msgid "No status selected"
+msgstr "Nie je vybratý stav"
+
+msgid "No type selected"
+msgstr "Nie je vybratý žiadny typ"
+
+msgid "Case Info"
+msgstr "Informácie o prípade"
+
+msgid "About"
+msgstr "o"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr "Trvalý štítok na ľahké nájdenie puzdra. (a-z, 0-9, -, /) sú povolené"
+
+msgid "Case Types"
+msgstr "Typy prípadov"
+
+msgid "Click"
+msgstr "Kliknite"
+
+msgid "to edit case types"
+msgstr "na úpravu typov prípadov"
+
+msgid "No Type selected"
+msgstr "Nie je vybratý žiadny typ"
+
+msgid "Case not found!"
+msgstr "Prípad nebol nájdený!"
+
+msgid "Media Size"
+msgstr "Veľkosť médií"
+
+msgid "All statistics"
+msgstr "Všetky štatistiky"
+
+msgid "Import not found."
+msgstr "Import sa nenašiel."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Spracovanie súboru zlyhalo. Uistite sa, že ide o typ súboru CSV a že "
+"obsahuje správne hlavičky"
+
+msgid "Data"
+msgstr "Údaje"
+
+msgid "No Imports yet."
+msgstr "Zatiaľ žiadne dovozy."
+
+msgid "Source"
+msgstr "Zdroj"
+
+msgid "Stats"
+msgstr "Štatistiky"
+
+msgid "Passed:"
+msgstr "Úspešné:"
+
+msgid "Failed:"
+msgstr "Zlyhanie:"
+
+msgid "Total:"
+msgstr "Celkom:"
+
+msgid "Add Imports"
+msgstr "Pridať import"
+
+msgid "Download Sample"
+msgstr "Stiahnite si ukážku"
+
+msgid "Choose a file"
+msgstr "Vyberte súbor"
+
+msgid "Edit Key"
+msgstr "Upraviť kľúč"
+
+msgid "Add Key"
+msgstr "Pridať kľúč"
+
+msgid "No Keys yet."
+msgstr "Zatiaľ žiadne kľúče."
+
+msgid "Source CIDR"
+msgstr "Zdroj CIDR"
+
+msgid "Remove"
+msgstr "Odstrániť"
+
+msgid "is invalid."
+msgstr "je neplatné."
+
+msgid "Secret Key"
+msgstr "Tajný kľúč"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr "Skopírujte svoj nový tajný kľúč už teraz. Už ju nebudete môcť vidieť!"
+
+msgid "Edit Webhook"
+msgstr "Upravte Webhook"
+
+msgid "Add Webhook"
+msgstr "Pridajte Webhook"
+
+msgid "No event selected"
+msgstr "Nie je vybratá žiadna udalosť"
+
+msgid "No Webhooks yet."
+msgstr "Zatiaľ žiadne Webhooky."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Secret Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Skopírujte svoj nový tajný webhook už teraz. Už ju nebudete môcť vidieť!"
+
+msgid "Sign In"
+msgstr "Prihlásiť sa"
+
+msgid "Login in account page."
+msgstr "Prihláste sa do účtu."
+
+msgid "Edit form builder"
+msgstr "Upraviť nástroj na tvorbu formulárov"
+
+msgid "Delete form"
+msgstr "Odstrániť formulár"
+
+msgid "No forms yet."
+msgstr "Žiadne formuláre zatiaľ."
+
+msgid "Intake Forms"
+msgstr "Prijímacie formuláre"
+
+msgid "Upload Intake Form Document"
+msgstr "Nahrajte dokument prijímacieho formulára"
+
+msgid "Add Intake Form"
+msgstr "Pridajte formulár príjmu"
+
+msgid "Edit Intake Form"
+msgstr "Upravte formulár príjmu"
+
+msgid "Show Media"
+msgstr "Zobraziť médium"
+
+msgid "Add Post"
+msgstr "Pridať príspevok"
+
+msgid "Edit Post"
+msgstr "Upraviť príspevok"
+
+msgid "Files Amount"
+msgstr "Súbory Suma"
+
+msgid "No Feed Templates yet."
+msgstr "Zatiaľ žiadne šablóny informačného kanála."
+
+msgid "Post Name"
+msgstr "Meno príspevku"
+
+msgid "Post Message"
+msgstr "Zverejniť správu"
+
+msgid "Processing media ..."
+msgstr "Spracovávajú sa médiá ..."
+
+msgid "Download original file"
+msgstr "Stiahnite si pôvodný súbor"
+
+msgid "Could not display media"
+msgstr "Médiá sa nepodarilo zobraziť"
+
+msgid "No locations found."
+msgstr "Neboli nájdené žiadne lokality."
+
+msgid "Main Office"
+msgstr "Hlavná kancelária"
+
+msgid "Location Name"
+msgstr "Názov miesta"
+
+msgid "Delete e-sign"
+msgstr "Odstrániť e-sign"
+
+msgid "No e-signs yet."
+msgstr "Zatiaľ žiadne elektronické znamenia."
+
+msgid "Subtasks Count"
+msgstr "Počet čiastkových úloh"
+
+msgid "No tasks yet."
+msgstr "Zatiaľ žiadne úlohy."
+
+msgid "Invoice ID"
+msgstr "ID faktúry"
+
+msgid "Total"
+msgstr "Celkom"
+
+msgid "Refund"
+msgstr "Vrátenie peňazí"
+
+msgid "No invoices yet."
+msgstr "Zatiaľ žiadne faktúry."
+
+msgid "Refund Reason"
+msgstr "Dôvod vrátenia peňazí"
+
+msgid "Duplicate charge"
+msgstr "Duplicitný poplatok"
+
+msgid "Fraudulent charge"
+msgstr "Podvodný poplatok"
+
+msgid "Requested by customer"
+msgstr "Vyžiadané zákazníkom"
+
+msgid "On Board"
+msgstr "Na palube"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Informácie o úlohe"
+
+msgid "It cannot be changed later"
+msgstr "Neskôr sa to nedá zmeniť"
+
+msgid "Role Permissions"
+msgstr "Povolenia na úlohu"
+
+msgid "e-signs"
+msgstr "elektronické značky"
+
+msgid "on"
+msgstr "na"
+
+msgid "Allowed File Sizes"
+msgstr "Povolené veľkosti súborov"
+
+msgid "Create"
+msgstr "vytvoriť"
+
+msgid "Creating..."
+msgstr "Vytváranie ..."
+
+msgid "Modules"
+msgstr "moduly"
+
+msgid "Roles"
+msgstr "role"
+
+msgid "Profile information"
+msgstr "Profilové informácie"
+
+msgid "No role found."
+msgstr "Nebola nájdená žiadna úloha."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Po vytvorení prípadu automaticky priraďte týchto používateľov"
+
+msgid "Remove All"
+msgstr "Odobrať všetky"
+
+msgid "User Name"
+msgstr "Používateľské meno"
+
+msgid "Notify"
+msgstr "Upozorniť"
+
+msgid "Host User"
+msgstr "Hostiteľský používateľ"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Keď je používateľ priradený k prípadu, automaticky sa pridávajú šablóny"
+
+msgid "No post selected"
+msgstr "Nie je vybratý žiadny príspevok"
+
+msgid "No form selected"
+msgstr "Nie je vybratý žiadny formulár"
+
+msgid "No e-sign selected"
+msgstr "Nie je vybratý žiadny elektronický znak"
+
+msgid "Templates"
+msgstr "Šablóny"
+
+msgid "Add Templates"
+msgstr "Pridať šablóny"
+
+msgid "Idle Cases"
+msgstr "Nečinné prípady"
+
+msgid "When a case is idle, post this message"
+msgstr "Keď je prípad nečinný, uverejnite túto správu"
+
+msgid "No case type selected"
+msgstr "Nie je vybratý žiadny typ prípadu"
+
+msgid "Idle Days"
+msgstr "Nečinné dni"
+
+msgid "Post Id"
+msgstr "ID príspevku"
+
+msgid "Set Idle Message"
+msgstr "Nastaviť nečinnú správu"
+
+msgid "No task selected"
+msgstr "Nie je vybratá žiadna úloha"
+
+msgid "No operation order selected"
+msgstr "Nie je vybraté žiadne poradie operácie"
+
+msgid "Operation Order"
+msgstr "Operačný poriadok"
+
+msgid "Add Templates to Assign Users"
+msgstr "Pridať šablóny na priradenie používateľov"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Formulár prípadu"
+
+msgid "User Form"
+msgstr "Používateľský formulár"
+
+msgid "Notes Form"
+msgstr "Formulár poznámok"
+
+msgid "Defaults"
+msgstr "predvolené"
+
+msgid "Required"
+msgstr "Požadovaný"
+
+msgid "Public User Signup link:"
+msgstr "Verejný odkaz na registráciu používateľa:"
+
+msgid "Design Settings"
+msgstr "Nastavenia dizajnu"
+
+msgid "Favicon:"
+msgstr "favicon:"
+
+msgid "Change file"
+msgstr "Zmeniť súbor"
+
+msgid "Delete Favicon"
+msgstr "Odstrániť Favicon"
+
+msgid "Logo:"
+msgstr "logo:"
+
+msgid "Delete Logo"
+msgstr "Odstrániť logo"
+
+msgid "Text Color"
+msgstr "Farba textu"
+
+msgid "Recommended Colors:"
+msgstr "Odporúčané farby:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "resetovať"
+
+msgid "Background Color"
+msgstr "Farba pozadia"
+
+msgid "Hex:"
+msgstr "hex:"
+
+msgid "Company Info"
+msgstr "Informácie o spoločnosti"
+
+msgid "Website"
+msgstr "webové stránky"
+
+msgid "Terms of Use URL"
+msgstr "Adresa URL podmienok používania"
+
+msgid "User Signup"
+msgstr "Registrácia používateľa"
+
+msgid "Allow Signup"
+msgstr "Povoliť registráciu"
+
+msgid "Auto Create Case"
+msgstr "Auto Create Case"
+
+msgid "Case User Role"
+msgstr "Rola používateľa prípadu"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Kľúč Analytics"
+
+msgid "delete"
+msgstr "vymazať"
+
+msgid "Crop Image"
+msgstr "Orezať obrázok"
+
+msgid "No Filter"
+msgstr "Žiadny filter"
+
+msgid "No logs requested."
+msgstr "Žiadne protokoly neboli vyžiadané."
+
+msgid "Logs list is empty."
+msgstr "Zoznam protokolov je prázdny."
+
+msgid "Download CSV"
+msgstr "Stiahnite si súbor CSV"
+
+msgid "Request Logs"
+msgstr "Žiadosť o protokoly"
+
+msgid "Log Type"
+msgstr "Typ protokolu"
+
+msgid "Filter"
+msgstr "filter"
+
+msgid "Select a case"
+msgstr "Vyberte prípad"
+
+msgid "Enter the email address"
+msgstr "Zadajte e-mailovú adresu"
+
+msgid "Module"
+msgstr "modul"
+
+msgid "Header (3 max)"
+msgstr "Hlavička (max. 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Keď sa používateľ pripojí k aplikácii, požiadajte ho, aby zdieľal "
+"nasledujúce informácie"
+
+msgid "No user intake found."
+msgstr "Nenašiel sa žiadny príjem používateľa."
+
+msgid "User Type"
+msgstr "Typ používateľa"
+
+msgid "Intake Form"
+msgstr "Prijímací formulár"
+
+msgid "Complete After"
+msgstr "Dokončiť po"
+
+msgid "No user type selected"
+msgstr "Nie je vybratý žiadny typ používateľa"
+
+msgid "No intake form selected"
+msgstr "Nie je vybratá žiadna forma príjmu"
+
+msgid "Complete After Date"
+msgstr "Dokončiť po dátume"
+
+msgid "Complete After Time"
+msgstr "Dokončiť po čase"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Dátum a čas by mali byť menšie alebo rovnaké ako teraz"
+
+msgid "Comment ct"
+msgstr "Komentár ct"
+
+msgid "View Ticket"
+msgstr "Zobraziť lístok"
+
+msgid "Ticket"
+msgstr "Lístok"
+
+msgid "No tickets yet."
+msgstr "Zatiaľ žiadne lístky."
+
+msgid "User not found."
+msgstr "Užívateľ Nenájdený."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Používateľ môže upraviť informácie o svojom účte okrem sekcie s atribútmi "
+"hostiteľského používateľa."
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Phone number"
+msgstr "Telefónne číslo"
+
+msgid "Zip Postal Code"
+msgstr "PSČ"
+
+msgid "Host User Attributes"
+msgstr "Používateľské atribúty hostiteľa"
+
+msgid "User Status"
+msgstr "Stav používateľa"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Trvalý štítok na ľahké nájdenie používateľa. (a-z, 0-9, -, /) sú povolené"
+
+msgid "App only User Intake Fields"
+msgstr "Polia vstupu používateľa iba pre aplikáciu"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "COLNÉ OBLASTI POUZE PRE APP"
+
+msgid "s found."
+msgstr "s nájdené."
+
+msgid "Created Date"
+msgstr "Dátum vytvorenia"
+
+msgid "View Cases"
+msgstr "Zobraziť prípady"
+
+msgid "VIEW CASES"
+msgstr "ZOBRAZIŤ PRÍPADY"
+
+msgid "Get Started"
+msgstr "Začať"
+
+msgid "Password"
+msgstr "heslo"
+
+msgid "Email is not valid."
+msgstr "E-mail nie je platný."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive vám a vášmu klientovi umožňuje"
+
+msgid "work together"
+msgstr "spolupracovať"
+
+msgid "at any time, in any place."
+msgstr "kedykoľvek a kdekoľvek."
+
+msgid "Explore"
+msgstr "preskúmať"
+
+msgid "Pricing"
+msgstr "Stanovenie cien"
+
+msgid "Support & Docs"
+msgstr "Podpora a dokumenty"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to validate if you are human"
+msgstr "Nepodarilo sa overiť, ak ste človek"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "OZNAMUJTE, KDY JE TO PRIPRAVENÁ!"
+
+msgid "Thank You!"
+msgstr "Ďakujem!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Keď bude aplikácia pripravená, upozorníme vás"
+
+msgid "Most popular"
+msgstr "Najpopulárnejší"
+
+msgid "All languages"
+msgstr "Všetky jazyky"
+
+msgid "Oops, Something went wrong."
+msgstr "Och! Niečo sa pokazilo."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Och! Niečo sa pokazilo. Náš tím bol informovaný. Skúste neskôr prosím."
+
+msgid "Support Documentation"
+msgstr "Podporná dokumentácia"
+
+msgid "All Categories"
+msgstr "Všetky kategórie"
+
+msgid "Contents"
+msgstr "Obsah"
+
+msgid "Related Articles"
+msgstr "Súvisiace články"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Začnite: procesy, osvedčené postupy, sprievodcovia nastavením a ďalšie!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Nájdite všetko, čo potrebujete na prácu v CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Všetka prípadová komunikácia na jednom mieste"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Konverzujte, uverejňujte aktualizácie, odpovedajte na otázky, robte si "
+"poznámky, komentujte a nechajte všetky diskusie označené e-mailom a SMS "
+"správami v reálnom čase."
+
+msgid "Share with confidence"
+msgstr "Podeľte sa s dôverou"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Zdieľajte dokumenty a fotografie medzi klientmi a členmi tímu na všetkých a "
+"všetkých zariadeniach, takže každý má aktuálne informácie."
+
+msgid "Take it on the go"
+msgstr "Vezmite ho na cestách"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Používajte mobilné zariadenia, ako sú tablety a smartfóny, na spoluprácu v "
+"kľúčových detailoch, na diskusiu o hlavných problémoch, výmenu dokumentov a "
+"vývoj prípadu v reálnom čase."
+
+msgid "Immediate records access"
+msgstr "Okamžitý prístup k záznamom"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Oprávnení používatelia majú rýchly prístup k klientskym údajom a informáciám"
+" o prípadoch (vrátane aktuálnych, minulých, otvorených, uzavretých a "
+"čakajúcich prípadov), a to všetko prostredníctvom jedného portálu."
+
+msgid "Automatic timezone conversion"
+msgstr "Automatická konverzia časových pásiem"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Či už cestujete alebo zostávate na inom mieste, budete v synchronizácii s "
+"naším systémom správy konverzácií v časovej zóne."
+
+msgid "Track Events"
+msgstr "Sledovanie udalostí"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Rýchlo naplánujte stretnutia, sledujte nadchádzajúce udalosti a pozývajte "
+"klientov a členov tímu ako účastníkov."
+
+msgid "Video Conferencing"
+msgstr "Video konferencia"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Spojte sa s klientmi a členmi tímu prostredníctvom živých videochatov pre "
+"ešte viac interaktivity."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatizujte úlohy pri vytvorení prípadu alebo pri priradení používateľa k "
+"prípadu."
+
+msgid "Automated Alerts"
+msgstr "Automatizované upozornenia"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Chcete svojim klientom zaželať všetko najlepšie k narodeninám? Vytvorte "
+"automatickú správu pre minulých aj súčasných klientov pre svoj špeciálny "
+"deň!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Udržiavanie aktuálnych informácií o klientovi"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Klienti môžu upravovať svoje profily pomocou aktualizovaných údajov, "
+"fotografií, hesiel a nastavení účtu."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Opýtajte sa, získajte odpovede."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Vytvorte vlastné formuláre a odošlite ich klientom na dokončenie. "
+"Zhromaždite základné informácie, poskytnite výstupné prieskumy a získajte "
+"všetky údaje, ktoré potrebujete pre svoju prácu dobre!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Riaditeľ predaja spoločnosti Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Uskutočnite fakturáciu klienta čo najjednoduchšie s online faktúrami a "
+"platbami."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Milujeme prípad fakturácie, pretože umožňuje klientom presne vidieť, za čo "
+"platia."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Viceprezident spoločnosti Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Vychutnajte si jednoduchosť elektronického podpisu"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Elektronicky odhláste všetky dokumenty prostredníctvom DocSign pomocou "
+"nahraných dokumentov a požiadaviek a potvrdení digitálneho klienta."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Nahrajte dokument, označte ho na podpis a potom sa klient prihlási a "
+"elektronicky podpíše. Všetko sa deje bez toho, aby klient musel prísť do "
+"našej budovy. To je užitočné pre klientov, ktorí nie sú blízko kancelárie "
+"alebo žijú mimo štátu."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Riaditeľ operácií kapitálového poistenia"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Vylepšite svoj systém. Menej práce, viac výsledkov."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Použite funkciu samoobslužného administrátora"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Prevezmite úplnú kontrolu nad vašou sadou riadenia CaseActive z vlastnej "
+"platformy."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Jednoducho prepojte svoj existujúci systém s CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integrujte naše vlastné API na automatické vytváranie prípadov, priraďovanie"
+" používateľov a generovanie správ na základe vstupov do systému."
+
+msgid "Acting as a"
+msgstr "Pôsobí ako a"
+
+msgid "virtual administrative assistant"
+msgstr "virtuálny administratívny asistent"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive vám umožňuje zefektívniť spracovanie dokumentov a médií v "
+"súkromí"
+
+msgid "client-to-customer communications"
+msgstr "komunikácia klient-zákazník"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "plánovanie udalostí a postupné spracovanie prípadov."
+
+msgid "Self-Serve Administration"
+msgstr "Samoobslužná správa"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"CaseActive ako virtuálny administratívny pomocník vám umožňuje efektívne "
+"spracovanie dokumentov a médií, súkromnú komunikáciu medzi klientom, "
+"plánovanie udalostí a postupné spracovanie prípadov."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Spravujte prihlasovacie údaje používateľov a vytváranie prípadov"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Priamo dohliada na vytváranie používateľských účtov a autorizuje ich "
+"prístupové práva pre každý prípad osobitne. Spravujte vytváranie, postup a "
+"uzatváranie prípadov s úplným podávaním správ na každom kroku."
+
+msgid "View Caseactive Analytics"
+msgstr "Zobraziť Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Presne sledujte, ako prípad postupuje, počet úspešne uzavretých prípadov a "
+"pozrite si časy odozvy prostredníctvom dôkladného analytického modulu "
+"CaseActive. Znalosť je sila a my sme vám dali všetko, čo sa dá vedieť o "
+"vašich vlastných projektoch."
+
+msgid "Monitor User Logs"
+msgstr "Monitorovanie používateľských denníkov"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Sledujte prihlásenie klienta a člena tímu a aktivitu platformy, aby ste "
+"zabezpečili, že všetky ich činnosti sú autorizované v rámci parametrov "
+"prípadu a že všetci členovia plnia svoje povinnosti podľa potreby."
+
+msgid "Employ Advanced Searches"
+msgstr "Použiť rozšírené vyhľadávania"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Nájdite presne to, čo potrebujete, keď to potrebujete. Vyhľadajte prípady "
+"podľa mien používateľov a klientov, kľúčových slov, časových harmonogramov, "
+"odovzdaných dokumentov a ešte oveľa viac!"
+
+msgid "Create Custom Fields"
+msgstr "Vytvorte vlastné polia"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Vytvorte špecializované polia pre vstupy od klientov a členov tímu a "
+"zhromažďujte potrebné údaje od všetkých zúčastnených. Vytvorte jedinečné "
+"rozhranie puzdra pre vašu firmu a značku!"
+
+msgid "Create Custom Templates"
+msgstr "Vytvorte vlastné šablóny"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Vyvinúť obrovskú škálu vlastných formulárov a šablón na distribúciu a "
+"vyplnenie počas a po prípade (napríklad prieskumy ukončenia klienta). "
+"Čokoľvek potrebujete, môžete vytvoriť!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Fakturácia podľa postupu"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Sme tu, aby sme vám pomohli! Ak máte stále nejaké otázky, kontaktujte nás a "
+"my vám odpovieme do dvoch pracovných dní."
+
+msgid "* Email is not valid."
+msgstr "* E-mail nie je platný."
+
+msgid "Low"
+msgstr "nízky"
+
+msgid "Medium"
+msgstr "stredná"
+
+msgid "High"
+msgstr "vysoký"
+
+msgid "Critical"
+msgstr "kritický"
+
+msgid "Choose Importance"
+msgstr "Vyberte dôležitosť"
+
+msgid "Department"
+msgstr "oddelenie"
+
+msgid "Sales"
+msgstr "odbyt"
+
+msgid "Other"
+msgstr "ostatné"
+
+msgid "Choose Department"
+msgstr "Vyberte oddelenie"
+
+msgid "Loading"
+msgstr "Načítava"
+
+msgid "Importance"
+msgstr "dôležitosť"
+
+msgid "Send A New Message"
+msgstr "Poslať novú správu"
+
+msgid "Send message"
+msgstr "Poslať správu"
+
+msgid "Answers to Questions"
+msgstr "Odpovede na otázky"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Máte nejaké otázky? Prečítajte si ďalšie pokyny v odpovediach na otázky "
+"zákazníkov a nájdite odpovede na vlastné otázky."
+
+msgid "How secure is CaseActive?"
+msgstr "Ako bezpečný je CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive používa vojenské a bankové 128-bitové SSL šifrovanie na prenos "
+"dát a 256-bitové AES šifrovanie pre dáta v pokoji. Každá inštancia "
+"CaseActive má vygenerovaný jedinečný kľúč, ktorý poskytuje ďalšiu úroveň "
+"zabezpečenia pre vaše podnikanie. Nikdy nedovolíme inej spoločnosti prístup "
+"k vašej databáze alebo úložnému systému."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Mám existujúci systém, môže CaseActive pracovať s mojím existujúcim "
+"systémom?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Áno, môžete integrovať naše vlastné rozhranie API alebo modul importu na "
+"automatické vytváranie prípadov, priraďovanie používateľov a generovanie "
+"správ na základe vášho systémového vstupu."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Máme klientov po celom svete. Je CaseActive dostupný aj v iných jazykoch?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Áno, aplikáciu a komunikáciu CaseActive je možné preložiť do viac ako 60 "
+"jazykov vrátane mandarínskej čínštiny, španielčiny, hindčiny a ruštiny, ako "
+"aj angličtiny."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Môžem pridať logo alebo prispôsobiť CaseActive akýmkoľvek spôsobom?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Absolútne! CaseActive bol navrhnutý s ohľadom na vás. Na stránke nastavenia "
+"panela správcu môžete nahrať svoju vlastnú osobnú farbu a vybrať farby vašej"
+" spoločnosti."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Je CaseActive kompatibilný s akýmkoľvek zariadením (PC, Mac, Tablet a "
+"Mobile)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive je responzívna webová aplikácia. Beží v akomkoľvek webovom "
+"prehliadači, ako je Internet Explorer, Firefox, Safari alebo Chrome atď. To "
+"znamená, že na type zariadenia (PC, Mac, Tablet a Mobile), ktoré používate, "
+"nezáleží. Jednoducho otvorte webový prehliadač, prihláste sa do svojho "
+"CaseActive účtu a všetko je nastavené."
+
+msgid "How many clients can I have?"
+msgstr "Koľko klientov môžem mať?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Účtuje sa vám za miesto zamestnanca za mesiac. Môžete mať neobmedzený počet "
+"klientov."
+
+msgid "Enhance User Experience"
+msgstr "Vylepšite používateľskú skúsenosť"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Neexistujú žiadne minimálne poplatky a žiadne záväzky vopred. Platíte len za"
+" miesto zamestnanca mesačne."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "za mesiac"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr ""
+"Všetko, čo potrebujete, aby ste mohli začať. V cene sú 3 miesta na sedenie."
+
+msgid "Business"
+msgstr "Podnikanie"
+
+msgid "Popular"
+msgstr "Populárne"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Náš najobľúbenejší plán. V cene sú 4 miesta na sedenie."
+
+msgid "Enterprise"
+msgstr "Enterprise"
+
+msgid "Contact sales for pricing"
+msgstr "Pre ceny kontaktujte predaj"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Vlastné ceny, pokročilé funkcie, jednotné prihlásenie, webhooky."
+
+msgid "Contact Sales"
+msgstr "Kontaktujte predaj"
+
+msgid "Overview"
+msgstr "Prehľad"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Komunikujte a zdieľajte dokumenty so svojimi klientmi"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Naplánujte si opakujúce sa udalosti a stretnutia"
+
+msgid "Fully customize your form to generate data"
+msgstr "Plne prispôsobte svoj formulár na generovanie údajov"
+
+msgid "Keep track of case progression"
+msgstr "Sledujte priebeh prípadu"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr ""
+"Vyžiadajte si vyhovujúce elektronické podpisy od viacerých používateľov"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Vygenerujte faktúru pre svojho klienta na zobrazenie alebo zaplatenie"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Umožňuje každému vedieť, čo sa chystá a čo má prísť"
+
+msgid "Auto notify the user when something is due"
+msgstr "Automaticky upozorniť používateľa, keď je niečo splatné"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Pridajte vlastné polia prípadu pre všetky vaše prípady"
+
+msgid "Custom Branding"
+msgstr "Vlastná značka"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Urobte svoju aplikáciu jedinečnou pomocou loga a farebných štýlov"
+
+msgid "Access to customer support"
+msgstr "Prístup k zákazníckej podpore"
+
+msgid "Storage"
+msgstr "Skladovanie"
+
+msgid "Unlimited"
+msgstr "Neobmedzené"
+
+msgid "Additional Users Seats"
+msgstr "Ďalšie miesta pre používateľov"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "83,34 dolárov"
+
+msgid "Convo with recording"
+msgstr "Konverzácia s nahrávaním"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video alebo audio chat s nahrávkou uloženou v puzdre"
+
+msgid "API Access"
+msgstr "API Access"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatizujte úlohy s prístupom k API"
+
+msgid "Module Templates"
+msgstr "Šablóny modulov"
+
+msgid "Create a standard template and reuse it"
+msgstr "Vytvorte štandardnú šablónu a znova ju použite"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Automatické spustenie akcie, keď sa spustí prípad alebo priradený prípad"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Posielanie všeobecných, narodeninových alebo sviatočných správ klientom "
+"(čoskoro)"
+
+msgid "Encryption at rest"
+msgstr "Šifrovanie v pokoji"
+
+msgid "Protects your data from system compromise"
+msgstr "Chráni vaše dáta pred narušením systému"
+
+msgid "Encryption in transit"
+msgstr "Šifrovanie pri prenose"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Chráni vaše údaje v prípade zachytenia komunikácie"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Jednotné prihlásenie (SSO) založené na SAML"
+
+msgid "Respond realtime to events"
+msgstr "Reagujte na udalosti v reálnom čase"
+
+msgid "Seamless Collaboration"
+msgstr "Bezproblémová spolupráca"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive zefektívňuje digitálnu spoluprácu medzi vašou spoločnosťou a "
+"klientmi – od konzultácie až po riešenie, všetko na jednej platforme."
+
+msgid "Take a tour"
+msgstr "Urobte si prehliadku"
+
+msgid "Stay Connected"
+msgstr "Zostaň pripojený"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Udržujte okamžitý kontakt s členmi tímu pomocou používateľsky prívetivého "
+"rozhrania CaseActive ako svojho jediného kontaktného miesta pre správu "
+"klientov a prípadov."
+
+msgid "Connect"
+msgstr "pripojiť"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed vás udrží v aktuálnom stave so svojimi klientmi."
+
+msgid "Schedule"
+msgstr "plán"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Vytvárajte udalosti, pozývajte účastníkov a sledujte svoj kalendár."
+
+msgid "Call"
+msgstr "volanie"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Zapojte sa do živých video konferenčných hovorov kedykoľvek a kdekoľvek."
+
+msgid "Share"
+msgstr "zdieľam"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Bezpečne nahrajte súbory, diskutujte o nich a zdieľajte ich."
+
+msgid "Powerful Case Management"
+msgstr "Výkonná správa prípadov"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Funkcia mimo zariadenia"
+
+msgid "Easily assign individuals"
+msgstr "Jednoducho priradiť jednotlivcov"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "alebo tímy k prípadu a spolupracovať s klientmi."
+
+msgid "Manage user groups"
+msgstr "Spravovať skupiny používateľov"
+
+msgid "and customize access permissions."
+msgstr "a upravte prístupové práva."
+
+msgid "All data is automatically backed up"
+msgstr "Všetky údaje sa automaticky zálohujú"
+
+msgid "in case a recovery is ever needed."
+msgstr "v prípade potreby obnovy."
+
+msgid "All information"
+msgstr "Všetky informácie"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "je bezpečne zakódovaný, čo zaručuje vaše absolútne súkromie."
+
+msgid "Customize"
+msgstr "prispôsobenie"
+
+msgid "with your own colors and logo."
+msgstr "s vlastnými farbami a logom."
+
+msgid "can be enabled/disabled at any time."
+msgstr "možno kedykoľvek zapnúť / vypnúť."
+
+msgid "Benefits of "
+msgstr "Výhody"
+
+msgid "Reduction in time "
+msgstr "Zníženie času"
+
+msgid "to intake new clients"
+msgstr "na získanie nových klientov"
+
+msgid "Minimize "
+msgstr "Minimalizovať"
+
+msgid "the chance of "
+msgstr "možnosť"
+
+msgid "malpractice"
+msgstr "nesprávny postup"
+
+msgid "Better experience "
+msgstr "Lepšia skúsenosť"
+
+msgid "for your client"
+msgstr "pre vášho klienta"
+
+msgid "Increase in caseload capacity "
+msgstr "Zvýšenie nosnosti prípadu"
+
+msgid "per staff"
+msgstr "na zamestnancov"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Začnite s našimi vstavanými aplikáciami"
+
+msgid "All you need in one place."
+msgstr "Všetko, čo potrebujete na jednom mieste."
+
+msgid "Case Feed"
+msgstr "Prípad Prípad"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Ľahko priraďte klienta, zamestnancov a spolupracovníkov k prípadu a zapojte "
+"sa do bezpečného priestoru, ktorý vám umožní post napredovať prípad, viesť "
+"rozhovory a videorozhovory v reálnom čase, ako aj naplánovať udalosti, "
+"elektronicky podpisovať / odovzdávať / sťahovať dokumenty a oveľa viac."
+
+msgid "Case Invoices"
+msgstr "Prípadové faktúry"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Vďaka priebežnej fakturácii je fakturácia klienta iba jedno kliknutie a "
+"umožňuje vám odosielať automaticky generované žiadosti o prostriedky a na "
+"oplátku prijímať priame platby."
+
+msgid "Case Events"
+msgstr "Prípadové udalosti"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Udržujte svoj kalendár prípadov neustále usporiadaný, naplánujte udalosti, "
+"pozývajte účastníkov, posielajte pripomenutia udalostí a zabezpečte, aby "
+"všetko zostalo na ceste."
+
+msgid "Case Convo"
+msgstr "Prípad Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Stretnite sa s klientmi a členmi tímu prakticky „osobne“ prostredníctvom "
+"zabudovaných videokonferencií, takže môžete hovoriť priamo so všetkými "
+"zúčastnenými."
+
+msgid "Case Forms & E-signs"
+msgstr "Formuláre prípadu a elektronické značky"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Plne prispôsobte formulár prípadu a vytvorte jedinečné šablóny, ktoré slúžia"
+" vašim špecifickým potrebám. Tieto šablóny potom môžu byť distribuované "
+"klientom a členom tímu na vyplnenie a podpísanie"
+
+msgid "Case notes"
+msgstr "Poznámky k prípadu"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Uchovávajte si poznámky s vlastnými poľami a prílohami o postupe prípadu pre"
+" súčasných a budúcich členov tímu"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Nahrávajte, zdieľajte, komentujte a sťahujte súbory týkajúce sa prípadu, aby"
+" mal každý prehľad o všetkých dôležitých detailoch, ľuďoch a situáciách."
+
+msgid "About Case"
+msgstr "O prípade"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Umožnite klientom a zamestnancom pozrieť si všeobecné podrobnosti o "
+"prípadoch, ktorých sa týkajú. Potom môžete prípad uzavrieť, keď je všetko "
+"zabalené, alebo môžete na to dať oprávnenie členovi tímu."
+
+msgid "Plus Many More Features"
+msgstr "Plus mnoho ďalších funkcií"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Používanie samoobslužnej administratívnej funkcie Prevezmite úplnú kontrolu "
+"nad svojím balíkom riadenia CaseActive zo samotnej platformy."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Jednoducho prepojte svoj existujúci systém s CaseActive Integrate nášho "
+"proprietárneho rozhrania API, aby ste automaticky vytvorili prípady, "
+"priradili používateľov a generovali správy na základe vstupov do systému."
+
+msgid "Multi-Language Enabled:"
+msgstr "Viacjazyčné nastavenie:"
+
+msgid "Interact with clients in"
+msgstr "Interakcia s klientmi v"
+
+msgid "70+ languages"
+msgstr "70+ jazykov"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Či už pracujete lokálne alebo globálne, môžete prekladať rodný jazyk vášho "
+"klienta prostredníctvom CaseActive"
+
+msgid "language management system"
+msgstr "systému riadenia jazykov"
+
+msgid "No more confusion or limits."
+msgstr "Žiadny zmätok alebo limity."
+
+msgid "Let's see what others are saying"
+msgstr "Pozrime sa, čo hovoria iní"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Objavte, ako naši úžasní zákazníci - od malých firiem po korporátne podniky "
+"- zvýšili svoju konkurenčnú výhodu tým, že sa stali CaseActive bojovníkmi."
+
+msgid "SUPPORT"
+msgstr "PODPORA"
+
+msgid "Everything at Your Fingertips."
+msgstr "Všetko na dosah ruky."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Začnite s aplikáciou CaseActive pomocou nášho sprievodcu videom a "
+"prispôsobte ho tak, aby vyhovoval vašim potrebám."
+
+msgid "What are you looking for..."
+msgstr "Čo hľadáš..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Posledná aktualizácia: 7. júna 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"Spoločnosť CaseActive si vyhradzuje právo kedykoľvek a podľa vlastného "
+"uváženia aktualizovať a meniť ktorékoľvek alebo všetky tieto podmienky "
+"služby. Keď CaseActive zmení tieto Podmienky poskytovania služieb, "
+"CaseActive zmení vyššie uvedený „Posledná aktualizácia“. Ste zodpovední za "
+"pravidelnú kontrolu najaktuálnejšej verzie služby. Vaše ďalšie používanie "
+"Služieb po vykonaní akýchkoľvek zmien bude predstavovať váš súhlas s "
+"takýmito zmenami. Ak namietate proti akýmkoľvek zmenám týchto podmienok "
+"poskytovania služieb, vaším jediným a výhradným opravným prostriedkom je "
+"ukončenie poskytovania služieb podľa týchto podmienok."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Tieto všeobecné podmienky služby sa vzťahujú na služby všeobecne. Dodatočné "
+"podmienky, ktoré sa vzťahujú na každú ponúkanú službu, sú uvedené v odkazoch"
+" uvedených nižšie („ďalšie zmluvné podmienky“)."
+
+msgid "1. Services:"
+msgstr "1. Služby:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Náš proprietárny softvér je platforma služieb, ktorú hostíme pre našich "
+"zákazníkov, aby sme mohli ponúkať služby uvedené nižšie. Ak si chcete "
+"predplatiť službu, musíte pre túto službu vyplniť objednávkový formulár a / "
+"alebo dokončiť postup registrácie pre túto službu. Máte právo používať iba "
+"Služby, ktoré ste si predplatili a zaplatili, a vaše používanie Služieb "
+"podlieha vášmu súladu so všetkými zmluvnými podmienkami tejto Zmluvy. "
+"Beriete na vedomie a súhlasíte s tým, že si vyhradzujeme právo čas od času "
+"pozmeniť Služby (alebo akúkoľvek ich časť) a že nebudeme zodpovedať vám ani "
+"žiadnej tretej strane za akékoľvek zmeny Služieb."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Popis CaseActive Service: CaseActive Service je sada hostovaných "
+"softvérových služieb pre online riadenie spolupráce s klientmi, ktoré ponúka"
+" CaseActive LLC. Tok registrácie, s ktorým ste súhlasili, alebo objednávkový"
+" formulár, ktorý ste vykonali, identifikuje službu CaseActive, ktorú ste si "
+"predplatili, dobu predplatného a poplatky, ktoré musíte zaplatiť za službu "
+"CaseActive. Dodatočné zmluvné podmienky platné pre vaše používanie služby "
+"CaseActive sú uvedené na:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Rozšírenie služieb:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Môžete sa prihlásiť na odber akýchkoľvek ďalších Služieb vrátane nových "
+"Služieb, ktoré môže spoločnosť CaseActive čas od času sprístupniť, alebo "
+"môžete rozšíriť svoje existujúce Služby vykonaním dodatočného objednávkového"
+" formulára alebo registračného postupu v rámci Služieb. Každý nový postup "
+"registrácie alebo objednávkový formulár bude obsahovať cenu a dátum (-y) "
+"fakturácie (-í) služieb pridaných v tom čase. Na všetky nové služby sa "
+"vzťahujú tieto všeobecné zmluvné podmienky a všetky ďalšie zmluvné "
+"podmienky, ktoré sa môžu špecificky vzťahovať na takéto ďalšie služby."
+
+msgid "3. Customer Support:"
+msgstr "3. Zákaznícka podpora:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Za predpokladu, že ste zaplatili všetky poplatky, ktoré platíte za Služby, "
+"vynaložíme komerčne primerané úsilie na to, aby sme vám a vašim oprávneným "
+"používateľom, ktorí sa prihlásili na poskytovanie služieb, bezplatne "
+"poskytovali služby technickej podpory. K vašim prípadom bude pridelený "
+"zástupca služieb pre klientov. Neobmedzené prípady sa prijímajú od "
+"oprávnených používateľov. Naša štandardná podpora je k dispozícii 24 hodín "
+"denne, 7 dní v týždni, s výnimkou veľkých sviatkov, medzi ktoré patrí "
+"Pamätný deň, Deň nezávislosti, Deň práce, Deň vďakyvzdania, Vianoce a Nový "
+"rok. Zákaznícku podporu môžete kontaktovať pomocou našej"
+
+msgid "Contact Form"
+msgstr "Kontaktný formulár"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ", Náš čas odozvy nesmie byť dlhší ako dva pracovné dni."
+
+msgid "4. Training:"
+msgstr "4. Školenie:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Za predpokladu, že ste zaplatili všetky poplatky, ktoré platíte za Služby, "
+"sprístupníme vzdialené, živé alebo zaznamenané školenia vašim určeným, "
+"menovaným a oprávneným používateľom a poskytneme návody, ktoré sú prístupné "
+"v časti Pomoc a školenie na našej webovej stránke na adrese bez ďalších "
+"poplatkov. Pre niektoré služby poskytujeme na mieste a za príplatok nejaké "
+"školenie na mieste. Prosím, kontaktujte nás pomocou nášho"
+
+msgid "for more information about on-site training."
+msgstr "Ďalšie informácie o školení na mieste."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Vaše práva a obmedzenia:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Licencia: V súlade so zmluvnými podmienkami a po včasnom zaplatení "
+"všetkých príslušných poplatkov uvedených v objednávkovom formulári alebo v "
+"registračnom postupe vám týmto udeľujeme nevýhradné, neprevoditeľné, "
+"obmedzené právo a licenciu na používanie (a umožnenie vašim oprávneným "
+"používateľom používať) Služby, ktoré ste si predplatili, výlučne pre vaše "
+"interné obchodné účely."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Oprávnení používatelia: Vy ste (i) zodpovední za dodržiavanie dohody zo "
+"strany vašich oprávnených používateľov a (ii) vynaložíte komerčne primerané "
+"úsilie na zabránenie neoprávnenému prístupu k službám alebo ich využívaniu a"
+" okamžite nás informujete o akomkoľvek takom neoprávnenom prístupe alebo "
+"použiť. Ak sa zmení oprávnený status používateľa alebo určeného zamestnanca,"
+" je vašou zodpovednosťou odstrániť prístup k službám."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Vaše povinnosti a obmedzenia: Ste zodpovední za všetky činnosti, ktoré "
+"sa vyskytujú na vašich používateľských účtoch alebo autorizovanými "
+"používateľmi. Musíte: (i) zodpovedať výlučne za presnosť, kvalitu, "
+"integritu, zákonnosť, spoľahlivosť a vhodnosť všetkých údajov, ktoré "
+"poskytnete Službám; (ii) vynaložiť komerčne primerané úsilie na zabránenie "
+"neoprávnenej kontroly alebo neoprávnenému zásahu alebo akémukoľvek inému "
+"neoprávnenému prístupu k službám alebo ich využívaniu a bezodkladne nás "
+"informujú o akomkoľvek neoprávnenom použití alebo narušení bezpečnosti; "
+"(iii) pri používaní Služieb dodržiavať všetky príslušné miestne, štátne, "
+"federálne a zahraničné zákony (vrátane zákonov týkajúcich sa súkromia a "
+"ochrany osobných údajov alebo informácií o spotrebiteľoch); (iv) v "
+"uplatniteľnom rozsahu dodržiavať všetky príslušné pravidlá asociácií "
+"kreditných kariet (vrátane American Express, MasterCard a Visa); a (v) "
+"získavať a udržiavať všetok počítačový hardvér, softvér a komunikačné "
+"vybavenie potrebné na prístup k Službám a platiť všetky poplatky za prístup "
+"(napr. poplatky ISP), ktoré vám vzniknú v súvislosti s vaším používaním "
+"Služieb."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Nesmiete a musíte zabezpečiť, aby vaši oprávnení používatelia nerozoberali, "
+"(i) nerozoberali, spätne analyzovali, nekompilovali ani inak sa nepokúšali "
+"rozlúštiť akýkoľvek kód v súvislosti so Službami, alebo modifikovať, "
+"prispôsobovať, vytvárať odvodené diela na základe alebo prekladať služby; "
+"(ii) licencovať, sublicencovať, predávať, prenajímať, prevádzať, "
+"distribuovať, časovo vymedzené užívanie, prenajímať, požičiavať, ďalej "
+"predávať za účelom zisku, distribuovať alebo inak komerčne využívať, "
+"udeľovať práva alebo sprístupňovať Služby akejkoľvek tretej strane; (iii) "
+"používať Služby, s výnimkou tých, ktoré sú výslovne povolené v tomto "
+"dokumente alebo v rozpore s akýmikoľvek platnými zákonmi; (iv) vykonávať "
+"akékoľvek nezákonné alebo klamlivé obchodné praktiky týkajúce sa služieb; "
+"(v) obchádzať alebo deaktivovať akékoľvek bezpečnostné alebo iné technické "
+"črty alebo opatrenia Služieb alebo akékoľvek iné aspekty Softvéru alebo "
+"akýmkoľvek spôsobom sa snažiť získať alebo dosiahnuť neoprávnený prístup k "
+"Službám alebo súvisiacim počítačovým systémom alebo sieťam; (vi) používať "
+"Služby na prenos porušujúcich, urážlivých, obscénnych, vyhrážajúcich sa "
+"alebo inak nezákonných, nebezpečných, škodlivých, urážlivých alebo mučivých "
+"materiálov alebo na ukladanie alebo prenos materiálu porušujúceho práva na "
+"súkromie tretích strán; (vii) používať Službu na ukladanie alebo prenos "
+"vírusov, červov, časovaných bômb, trójskych koní a iných škodlivých alebo "
+"škodlivých kódov, súborov, skriptov, agentov alebo programov alebo na "
+"zasielanie nevyžiadaných alebo inak duplikovaných alebo nevyžiadaných správ "
+"v rozpore s platnými zákonmi ; alebo (viii) zasahovať alebo narušovať "
+"integritu alebo výkon Služieb alebo údajov tretích strán v nich "
+"obsiahnutých."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Vyhradenie práv: Žiadne iné práva sa neudeľujú, okrem prípadov, ktoré sú"
+" výslovne uvedené v dohode. Zmluva nie je predajom a nepreukazuje žiadne "
+"práva ani vlastníctvo v súvislosti so Službami alebo so žiadnym súvisiacim "
+"softvérom. Vlastníme všetky práva, vlastnícke práva a záujmy vrátane "
+"všetkých práv duševného vlastníctva v súvislosti so Službami a základným "
+"softvérom a všetky ich aktualizácie, upgrady, úpravy, vylepšenia, vylepšenia"
+" alebo odvodené diela a v akejkoľvek myšlienke, ako, a programy, ktoré sme "
+"vyvinuli my alebo naši poskytovatelia licencie v priebehu vykonávania "
+"Služieb."
+
+msgid "6. Term and Termination:"
+msgstr "6. Termín a ukončenie:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Doba platnosti: Doba poskytovania Služieb sa líši v závislosti od "
+"Služby, ktorú ste si predplatili, a bude uvedená v objednávkovom formulári "
+"alebo dohodnutá v registračnom postupe a obnovuje sa nasledovne:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Termín CaseActive Service: Vaše predplatné CaseActive Service sa "
+"automaticky obnoví na ďalšie mesiace alebo jeden rok, ako je uvedené vo "
+"formulári objednávky alebo v registračnom postupe, pokiaľ neprerušíme "
+"službu, ktorú nám poskytnete s oznámením o neobnovenie najmenej tridsať (30)"
+" dní pred uplynutím aktuálneho obdobia."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Termín služieb webovej stránky CaseActive: Vaše predplatné služieb "
+"webovej stránky CaseActive sa automaticky obnoví na ďalšie mesiace alebo "
+"jeden rok, ako je uvedené v objednávkovom formulári alebo v registračnom "
+"postupe, pokiaľ službu nezrušíme alebo nám neposkytnete s oznámením o "
+"neobnovení najmenej tridsať (30) dní pred vypršaním platnosti aktuálneho "
+"obdobia."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Vami písomné oznámenie o neobnovení musíte predložiť spoločnosti "
+"CaseActive, LLC, 1107 W. 6. Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Ukončenie zmluvy: Ktorákoľvek strana môže vypovedať dohodu a všetky "
+"predplatné služieb (i), ak druhá strana poruší niektorú zo svojich "
+"podstatných záväzkov podľa tejto dohody a takéto porušenie nebude vyliečené "
+"do tridsiatich (30) dní od prijatia oznámenia od neporušenia alebo ii) ak sa"
+" druhá strana stane v platobnej neschopnosti alebo v konkurze, bude "
+"zlikvidovaná alebo bude zrušená alebo v podstate ukončí všetky svoje "
+"obchodné činnosti. V prípade porušenia vyššie uvedeného oddielu 5.3 môžeme "
+"dohodu okamžite vypovedať. Po ukončení Zmluvy okamžite okamžite prestanete "
+"používať Služby, prestanete prehlasovať v akejkoľvek podobe, že ste "
+"používateľom Služieb, a zničíte všetky naše dôverné informácie, ktoré "
+"vlastníte. Žiadna zo strán nezodpovedá za žiadne škody, ktoré vzniknú v "
+"dôsledku ukončenia zmluvy alebo akéhokoľvek predplatného služieb, ako je "
+"stanovené v tejto zmluve; avšak za predpokladu, že ukončenie dohody nemá "
+"vplyv na nároky, ktoré vzniknú pred týmto ukončením."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Zaobchádzanie s vašimi údajmi v prípade ukončenia: Beriete na vedomie a "
+"súhlasíte s tým, že po vypršaní alebo ukončení akéhokoľvek vášho prihlásenia"
+" na odber Služieb, môžeme okamžite deaktivovať dotknuté Služby a že po "
+"primeranom čase nie kratšom ako deväťdesiat (90) ), môže váš účet a údaje "
+"odstrániť. V prípade, že dôjde k ukončeniu poskytovania Služieb, poskytneme "
+"vám dočasný obmedzený prístup k Službám, ktorý nepresiahne tridsať (30) dní,"
+" a to výhradne s cieľom umožniť vám obnoviť vaše vlastnícke údaje za "
+"predpokladu, že v plnej miere ste zaplatili všetky nespravodlivé sumy, ktoré"
+" nám dlhujete v dobrej viere. Ďalej súhlasíte, že nebudeme zodpovedať vám "
+"ani žiadnej tretej strane za ukončenie vášho prístupu k službám alebo "
+"vymazanie vašich údajov za predpokladu, že dodržiavame podmienky uvedené v "
+"tomto oddiele 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Poplatky:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Servisné poplatky: Za Služby budete platiť nevratné poplatky vo výške "
+"stanovenej v registračnom postupe alebo vo formulári objednávky (ďalej len "
+"„servisné poplatky“) a podľa fakturačnej frekvencie uvedenej v registračnom "
+"toku alebo objednávke. formulár. Poplatky za služby sú splatné v deň "
+"vystavenia faktúry. Poplatky za služby sa môžu zvýšiť na základe našich "
+"súčasných poplatkov. Poplatky za služby sa nevracajú, a to ani v prípade, že"
+" predplatné ukončíte predčasne."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Dodatočné poplatky: Za používanie Služieb vám môžu byť účtované ďalšie "
+"nevratné poplatky alebo poplatky okrem poplatkov uvedených v objednávkovom "
+"formulári a / alebo registračnom postupe. Dodatočné nevratné poplatky a "
+"poplatky sú stanovené v dodatočných podmienkach pre príslušnú Službu."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Oneskorené platby: Beriete na vedomie, že vaše nezaplatenie akýchkoľvek "
+"poplatkov alebo poplatkov v čase ich splatnosti môže mať za následok "
+"pozastavenie alebo ukončenie vašich predplatených produktov CaseActive. Ak "
+"nezaplatíte niektorý z poplatkov alebo poplatkov splatných podľa tejto "
+"zmluvy, spoločnosť CaseActive si vyhradzuje právo poveriť inkasnú agentúru "
+"výber poplatkov a poplatkov a budete musieť uhradiť všetky náklady, ktoré "
+"vzniknú spoločnosti CaseActive v súvislosti s výberom takýchto súm po "
+"splatnosti, vrátane , bez obmedzenia, primerané poplatky právnym zástupcom a"
+" inkasám plus úrok vo výške rovnajúcej sa nižšej 1,0% mesačne alebo "
+"maximálnej sadzbe povolenej príslušným zákonom."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Dane: Budete zodpovední za všetky dane z obratu, dane z používania, dane"
+" z pridanej hodnoty, zrážkové dane a akékoľvek podobné dane a poplatky "
+"akéhokoľvek druhu uložené federálnymi, štátnymi alebo miestnymi vládnymi "
+"subjektmi za transakcie uvedené v zmluve. Ak máme zákonnú povinnosť platiť "
+"alebo vyberať dane, za ktoré ste zodpovední, v súlade s týmto oddielom vám "
+"bude fakturovaná a zaplatená príslušná čiastka, pokiaľ nám neposkytnete "
+"platné osvedčenie o oslobodení od dane schválené príslušným daňovým úradom."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Vyhlásenia a záruky:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Vzájomné zastúpenia a záruky: Každá strana týmto prehlasuje a zaručuje "
+"druhej strane, že (i) má všetky potrebné právomoci na to, aby mohla plniť a "
+"plniť svoje záväzky podľa tejto dohody bez súhlasu akejkoľvek tretej strany "
+"alebo porušenia akejkoľvek zmluvy alebo dohody s ňou. akákoľvek tretia "
+"strana, (ii) všetky osoby, ktoré plnia akékoľvek povinnosti podľa tejto "
+"zmluvy, uzavreli všetky potrebné dohody, aby splnili podmienky tejto dohody,"
+" a (iii) vo všetkých významných hľadiskách dodržiava všetky právne predpisy,"
+" ktoré sa vzťahujú na: Služby."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Ďalšie prehlásenia a záruky: Zaručujete, prehlasujete a zaväzujete sa, "
+"že budete Služby používať iba na zákonné účely v súlade so Zmluvou a "
+"všetkými príslušnými zásadami a usmerneniami CaseActive."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Zrieknutie sa záruk: S VÝNIMKOU VÝSLOVNÝCH ZÁRUK UVEDENÝCH V TEJTO ČASTI"
+" DO MAXIMÁLNEHO ROZSAHU POVOLENÝCH UPLATNITEĽNÝMI PRÁVNYMI PREDPISMI, "
+"NEPRIJÍMAME ŽIADNE ZÁRUKY, VÝSLOVNÉ, IMPLIKOVANÉ, ŠTATUTÁRNE ALEBO Z KURZU "
+"OBCHODU ALEBO POUŽITIA OBCHODU AKO KTORÉKOĽVEK ZÁLEŽITOSTI VRÁTANE TÝCHTO "
+"OBCHODOVATEĽNOSTÍ, SPOKOJNOSTI KVALITY, NÁZOV, VHODNOSTI NA KONKRÉTNY ÚČEL "
+"ALEBO NEPORÚŠANIA. NEZARUČUJEME, ŽE SOFTVÉR ALEBO SLUŽBY SPLŇUJE VŠETKY VAŠE"
+" POŽIADAVKY, VRÁTANE ÚČTOVNÝCH POŽIADAVIEK, ALEBO ŽE POUŽÍVANIE SOFTVÉRU "
+"ALEBO SLUŽIEB NEBUDE NEPRERUŠENÉ ALEBO BEZ CHYBY. SOFTVÉR A SLUŽBY SA "
+"POSKYTUJÚ NA ZÁKLADE „AKO JE“ A VAŠE POUŽÍVANIE SOFTVÉRU A SLUŽIEB JE NA "
+"VLASTNÉ RIZIKO, VRÁTANE BEZ OBMEDZENIA, SÚLAD S INÝMI ZÁKONMI. ZMLUVNÉ "
+"STRANY VÝSLOVNE UZNÁVAJÚ, ŽE ZRIEKNUTIE ZÁRUK ZARUČUJE ZÁKLADNÚ ČASŤ DOHODY."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"ZRIEKAME SA ŽIADNE ZASTÚPENIA ALEBO ZÁRUKY, ŽE VAŠE POUŽÍVANIE SLUŽIEB "
+"SPOKOJÍ SPOKOJNOSŤ ALEBO ZABEZPEČIŤ SÚLAD S AKÝMIKOĽVEK ZÁKONNÝMI "
+"POVINNOSŤMI, ZÁKONMI ALEBO NARIADENIAM. TOTO ZRIEKNUTIE SA VZŤAHUJE NA, ALE "
+"NIE JE OBMEDZENÉ NA ŽIADNE FEDERÁLNE ALEBO ŠTÁTNE ŠTÁTY ALEBO NARIADENIA, "
+"KTORÉ SA MÔŽU NA VÁS VZŤAHOVAŤ. JSEM ZODPOVEDNÝ ZA ZAISTENIE, ŽE VAŠE "
+"VYUŽITIE SLUŽIEB JE V SÚLADE S PRÍSLUŠNÝMI PRÁVNYMI PREDPISMI."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"POKIAĽ SA NEROZDELÍTE SO SLUŽBAMI ALEBO TÁTO DOHODOU, VAŠE SOLÉ A VÝHRADNÉ "
+"NÁPRAVNÉ PROSTRIEDKY ZASTAVUJÚ POUŽÍVANIE SLUŽIEB."
+
+msgid "9. Confidential Information:"
+msgstr "9. Dôverné informácie:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Pokiaľ to druhá strana výslovne nepovolí, žiadna zo strán neposkytne žiadnej"
+" tretej strane akékoľvek informácie alebo materiály poskytnuté druhou "
+"stranou podľa dohody a odôvodnene považované za dôverné („dôverné "
+"informácie“), alebo ich použije akýmkoľvek iným spôsobom. ako plniť svoje "
+"povinnosti podľa dohody. Predchádzajúce obmedzenia sa nevzťahujú na "
+"informácie, ktoré sú verejne dostupné alebo už sú v držbe prijímajúcej "
+"strany, boli známe prijímajúcej strane pred dátumom zverejnenia alebo sa o "
+"nich prijímajúcej strane dozvedeli od tretej strany, ktorá má zjavné bona "
+"fide právo sprístupniť informácie alebo Dôverné informácie, ktoré je "
+"prijímajúca strana povinná predložiť na základe príkazu súdu s príslušnou "
+"jurisdikciou alebo platného správneho predvolania, za predpokladu, že "
+"prijímajúca strana poskytne poskytujúcej strane včas oznámenie o takomto "
+"súde objednávka alebo predvolanie. Okrem toho zaistíte, aby vaši oprávnení "
+"používatelia prísne dôverovali všetky heslá a ďalšie informácie o prístupe k"
+" Službám. Tento oddiel 9 zostáva v platnosti aj po ukončení alebo vypršaní "
+"platnosti tejto dohody."
+
+msgid "10. Indemnification:"
+msgstr "10. Odškodnenie:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Odškodnenie za porušenie: S výhradou oddielu 10.4 vás budeme na svoje "
+"náklady obhajovať pred akýmkoľvek nárokom tretej strany vzneseným proti vám,"
+" ktorý tvrdí, že Služby porušujú akýkoľvek americký patent vydaný tretej "
+"strane ku dňu účinnosti; alebo porušujú akékoľvek autorské práva, ochranné "
+"známky alebo obchodné tajomstvá akejkoľvek tretej strany (ďalej spoločne len"
+" „duševné vlastníctvo, na ktorom sú založené služby“). V prípade, že sa bude"
+" požadovať alebo získať súdny príkaz proti použitiu služieb duševného "
+"vlastníctva, ktoré sú základom služieb alebo podľa nášho názoru, "
+"pravdepodobne sa vyžiadame alebo získame, podľa našej voľby a na náklady "
+"vynaložíme (i) pre vás a vaše meno oprávnení používatelia majú právo "
+"pokračovať v používaní Služieb alebo (ii) nahrádzať alebo upravovať Služby "
+"tak, aby ich používanie neporušovalo ich platnosť a zároveň mohli podstatne "
+"vykonávať rovnakú funkciu. V prípade, že vyššie uvedené pododseky i) a ii) "
+"nie sú komerčne uskutočniteľné, môžeme ukončiť poskytovanie služieb a vrátiť"
+" akékoľvek predplatené, ale nevyužité poplatky za služby. Nebudeme povinní "
+"hájiť alebo zodpovedať za akékoľvek náklady alebo škody podľa tohto oddielu "
+"10.1, ak údajné porušenie vyplýva z alebo je akokoľvek spôsobiteľné (i) "
+"akoukoľvek úpravou akýchkoľvek Služieb vami (alebo akoukoľvek z vašich "
+"oprávnených alebo určení používatelia) alebo (ii) používanie Služieb v "
+"kombinácii so službami a produktmi, ktoré neposkytuje CaseActive, ak by sa "
+"takémuto porušeniu zabránilo bez takejto úpravy alebo kombinácie, alebo "
+"(iii) súladu s vašimi návrhmi alebo pokynmi alebo (iv) tvrdením, že výslovne"
+" neuvádza, že Služby sú predmetom reklamácie (každá je „Vylúčená "
+"reklamácia“). Povinnosti odškodnenia obsiahnuté v tomto oddiele 10.1 "
+"zostávajú v platnosti aj po ukončení alebo vypršaní platnosti tejto dohody."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Odškodnenie za bezpečnosť údajov a ochranu osobných údajov: S výhradou "
+"ustanovení oddielu 10.4 a počas obdobia vášho prihlásenia sa na služby vás "
+"budeme na svoje náklady brániť pred akýmkoľvek nárokom tretej strany "
+"vzneseným proti vám, ktorý sa týka našej hrubej nedbanlivosti pri zabránení "
+"neoprávnenému prístupu. na naše úmyselné zneužitie úradnej moci pri "
+"zverejňovaní osobných údajov vašich zákazníkov, ktoré máme v držbe alebo pod"
+" kontrolou. Toto odškodnenie sa nebude vzťahovať na rozsah, v akom takýto "
+"nárok vyplýva z vašej nedbanlivosti alebo úmyselného zneužitia úradnej moci "
+"alebo zo strany vašich agentov alebo zástupcov alebo sa na ňu vzťahuje, ani "
+"do rozsahu, v akom je ktorákoľvek zo strán podľa dohody vylúčená alebo "
+"obmedzená na zodpovednosť. Povinnosti týkajúce sa odškodnenia stanovené v "
+"tejto časti sú podmienené tým, že preukážete, že naša hrubá nedbanlivosť "
+"alebo úmyselné zneužitie úradnej moci viedli priamo a bezprostredne k "
+"neoprávnenému prístupu k osobným identifikačným údajom vašich zákazníkov, "
+"ktoré máme k dispozícii alebo pod ich kontrolou."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Vaše odškodnenie: Súhlasíte s tým, že odškodníte, budete neškodne "
+"chrániť a obhajujete nás a všetkých našich zamestnancov, vedúcich "
+"pracovníkov, riaditeľov a agentov pred akýmikoľvek nárokmi, požiadavkami, "
+"súdnymi spormi, konaniami, vyšetrovaniami, škodami, nákladmi, výdavkami, "
+"stratami a akýmikoľvek inými. záväzky (vrátane primeraných poplatkov za "
+"právne zastúpenie, súdnych nákladov a výdavkov), ktoré vyplývajú z alebo "
+"súvisia s (i) vaším používaním Služieb v rozpore s touto Zmluvou, (ii) "
+"Vylúčenou pohľadávkou, (iii) akýmkoľvek skutočným alebo údajným porušením "
+"vami o akejkoľvek reprezentácii, záruke, zmluve alebo záväzku podľa tejto "
+"dohody, alebo (iv) hrubej nedbanlivosti alebo úmyselnom zneužití úradnej "
+"moci. Vaše záväzky týkajúce sa odškodnenia podľa tohto oddielu 10.3 zostanú "
+"v platnosti aj po ukončení alebo ukončení platnosti tejto dohody."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Oznamovanie a spolupráca: Záväzky odškodňujúcej strany voči odškodnenej"
+" strane podľa tohto oddielu 10 vyššie sú podmienené: (i) odškodnenou "
+"stranou, ktorá okamžite informuje o odškodnenej strane písomne, na základe "
+"vedomia akýchkoľvek nárokov, za ktoré môže mať nárok na odškodnenie podľa "
+"dohody ; (ii) v uplatniteľnom rozsahu odškodnená strana, ktorá prestane "
+"používať nárokované Služby porušujúce práva po prijatí jej oznámenia; (iii) "
+"odškodnená strana, ktorá umožňuje odškodňujúcej strane výlučné právo "
+"kontrolovať obranu a urovnanie akejkoľvek takejto pohľadávky (za "
+"predpokladu, že odškodňujúca strana nemôže uspokojiť akýkoľvek nárok bez "
+"súhlasu odškodnenej strany, ibaže vyrovnanie bezpodmienečne zbavuje "
+"odškodnenú stranu akejkoľvek zodpovednosti); (iv) odškodnená strana "
+"poskytujúca primeranú pomoc odškodnenej strane na náklady odškodnenej strany"
+" pri obhajobe tohto nároku; v) odškodnená strana, ktorá neuzavrie žiadnu "
+"dohodu o urovnaní alebo inak nevyrieši takúto pohľadávku bez výslovného "
+"predchádzajúceho písomného súhlasu alebo žiadosti odškodňujúcej strany; a "
+"(vi) odškodnená strana, ktorá dodržiava akýkoľvek zmier alebo súdny príkaz "
+"vydaný v súvislosti s pohľadávkou (týkajúca sa budúceho použitia akýchkoľvek"
+" materiálov porušujúcich autorské práva). Odškodnená strana sa môže "
+"zúčastňovať na obhajobe alebo urovnaní pohľadávky s právnym zástupcom podľa "
+"vlastného výberu a na svoje vlastné náklady."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Výhradné opravné prostriedky: V tomto oddiele 10 sa uvádza výlučná "
+"zodpovednosť odškodňujúcej strany a výhradné opravné prostriedky odškodnenej"
+" strany voči druhej strane za akýkoľvek typ nároku opísaný v tomto oddiele."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Obmedzenie zodpovednosti:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"S VÝNIMKOU, KTORÉ SA VZŤAHUJÚ NA ŠKODY V SÚVISLOSTI S PORUŠKOU ODDIELOV 5.3 "
+"ALEBO 12, NA MAXIMÁLNY ROZSAH POVOLENÝ ZÁKONOM, V ŽIADNEJ PRÍPADE NEBUDÚ "
+"SPOLOČNÉ ZÁVÄZKY ZMLUVY VYPLÝVAJÚCE ZO STRANY ZMLUVY ZA SLUŽBY, KTORÉ "
+"POSKYTUJÚ RIZIKO ZODPOVEDNOSTI POČAS JEDEN ROČNÉHO OBDOBIA OKAMŽITE "
+"PREDCHÁDZAJÚCEHO DÁTUMU PRÍČINA OPATRENIA AROSE."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"S VÝNIMKOU, KTORÉ SA VZŤAHUJÚ NA ŠKODY V SÚVISLOSTI S PORUŠENÍM ODDIELOV 5.3"
+" ALEBO 12, NA MAXIMÁLNY ROZSAH POVOLENÝ ZÁKONOM, V ŽIADNEJ PRÍPADE "
+"NEŠPECIFIKUJÚ LICENCIU ALEBO DODÁVATEĽA, NIE JE LICENCIA ALEBO DODÁVATEĽI "
+"ŽIADNE ZODPOVEDNÉ ZA INÉ STRATY ALEBO ZISKY NÁKLADY NA ZÍSKAVANIE NÁHRADNÝCH"
+" TOVAROV ALEBO SLUŽIEB ALEBO ZA AKÉKOĽVEK NEPRIAME, ŠPECIÁLNE, NÁSLEDNÉ, "
+"EXEMPLÁRNE ALEBO NÁHODNÉ ŠKODY, AKO SÚ PRÍČINY A SÚVISIACE S JEDNOU TEÓRIOU "
+"ZODPOVEDNOSTI, VYPLÝVAJÚCE Z DOHODY ALEBO ZMLUVY ALEBO ZMLUVY JEHO "
+"POVINNOSTI TÝKAJÚCE SA INFORMÁCIÍ O TAKÝCHTO STRANÁCH, KTORÉ AKO NIE SÚ TAKÉ"
+" STRANY, PORADENÁ O MOŽNOSTI TÝCHTO ŠKÔD."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"Pretože NIEKTORÉ ŠTÁTY / JURISDIKCIE NEDOVOĽUJÚ VYLÚČENIE ALEBO OBMEDZENIE "
+"ZODPOVEDNOSTI ZA NÁSLEDNÉ ALEBO NÁHODNÉ POŠKODENIA, NAŠEJ OBMEDZENIA SA NA "
+"VÁS NEMUSÍ VZŤAHOVAŤ NA MAXIMÁLNE ROZSAH POVOLENIE."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Osobné informácie a prehlásenie o ochrane osobných údajov:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Budete dodržiavať všetky príslušné zákony o ochrane súkromia a ďalšie "
+"zákony, pravidlá, nariadenia a usmernenia týkajúce sa ochrany, "
+"zhromažďovania, použitia a distribúcie Osobne identifikovateľných informácií"
+" (ako sú definované nižšie) akejkoľvek osoby. Na stránku, na ktorej "
+"zhromažďujete informácie umožňujúce identifikáciu osôb (ďalej len "
+"„vyhlásenie o ochrane osobných údajov“), zverejníte vyhlásenie o ochrane "
+"osobných údajov, ktoré je v súlade so všetkými platnými zákonmi, pravidlami,"
+" predpismi a usmerneniami a minimálne upozorňuje používateľov na zhromaždené"
+" informácie umožňujúce identifikáciu osôb, ako ich zhromažďujú. bude použitý"
+" a ako bude zabezpečený a ktorý identifikuje spôsob zberu (cookies, webové "
+"majáky alebo iné použiteľné prostriedky) a použitie informácií zhromaždených"
+" v súvislosti so Službami, získanie predchádzajúceho informovaného súhlasu "
+"(opt-in) pred použitím akýchkoľvek sledovacie technológie v rozsahu "
+"vyžadovanom platnými zákonmi a predpismi. Takéto vyhlásenie o ochrane "
+"osobných údajov obsahuje aj technické informácie týkajúce sa zhromažďovania,"
+" prenosu a uchovávania informácií umožňujúcich identifikáciu osôb, ktoré "
+"poskytujeme prostredníctvom Služieb. Ak to vyžadujú platné právne predpisy o"
+" ochrane údajov alebo iné právne predpisy alebo nariadenia, budete "
+"informovať tretie strany, že nám poskytujete svoje informácie umožňujúce "
+"identifikáciu osôb na spracovanie, a zaistíte, aby všetky požadované tretie "
+"strany dali súhlas s takýmto zverejnením a spracovaním. Súhlasíte s tým, že "
+"budete dodržiavať opisy a ustanovenia Vyhlásenia o ochrane osobných údajov. "
+"„Informácie umožňujúce identifikáciu osôb“ sú akékoľvek informácie, ktoré je"
+" možné priradiť alebo vystopovať k jednotlivcovi vrátane mena, adresy, "
+"telefónneho čísla, e-mailovej adresy, informácií o kreditnej karte, čísla "
+"sociálneho zabezpečenia alebo iných podobných konkrétnych faktických "
+"informácií, bez ohľadu na nosič, na ktorom sú tieto informácie uložené "
+"(napr. na papieri alebo elektronicky)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Rôzne:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Nezávislé strany: Vy a CaseActive ste nezávislí dodávatelia. Táto "
+"dohoda nevytvára žiadne spoločné podniky, partnerstvá, agentúry alebo "
+"pracovné vzťahy medzi stranami. Za riadenie svojich zamestnancov a za všetky"
+" kompenzácie, dane, výhody a záväzky voči svojim zamestnancom a všetkým "
+"vašim ďalším zástupcom alebo poskytovateľom služieb nesiete výhradnú "
+"zodpovednosť. Vy ani žiaden z vašich zamestnancov, zástupcov alebo "
+"poskytovateľov služieb neposkytujete žiadne vyhlásenia, záruky alebo záruky,"
+" pokiaľ ide o nás, dohodu alebo služby, ktoré nie sú výslovne písomne "
+"schválené nami."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Postúpenie: Zmluvu ani žiadne z vašich práv alebo povinností "
+"vyplývajúcich zo zmluvy nemožno postúpiť alebo previesť na základe zákona "
+"alebo inak, bez nášho predchádzajúceho písomného súhlasu, pokiaľ nie sú "
+"pridelené právnemu nástupcovi alebo v prípade zlúčenia alebo splynutia "
+"reorganizácie alebo predaja alebo prevodu všetkých alebo v podstate všetkých"
+" vašich aktív, o ktorých nám poskytnete oznámenie najmenej tridsať (30) dní "
+"pred uskutočnením transakcie. Zadanie, ktoré ste vykonali na základe "
+"akýchkoľvek iných okolností, si vyžaduje náš predchádzajúci súhlas, ktorý sa"
+" nesmie bezdôvodne odoprieť. Túto dohodu môžeme slobodne prideliť bez vášho "
+"súhlasu. S výhradou vyššie uvedeného je táto dohoda záväzná a záväzná v "
+"prospech strán, ich príslušných nástupcov a povolených postupníkov."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Vyššia moc: Žiadna zo strán nebude zodpovedná za akékoľvek omeškanie, "
+"prerušenie alebo iné neplnenie povinností vyplývajúcich z tejto dohody v "
+"dôsledku konania, ktoré nie je pod kontrolou zodpovednej strany, ale iba "
+"dovtedy, kým tieto podmienky pretrvávajú. Medzi prípady vyššej moci patria "
+"okrem iného: prírodné katastrofy (napr. Blesky, zemetrasenia, hurikány, "
+"povodne); vojny, nepokoje, teroristické aktivity a občianske nepokoje; "
+"činnosti miestneho výmenného dopravcu a iné činy tretích strán; výbuchy a "
+"požiare; embarga, štrajky a pracovné spory; vládne nariadenia; zlyhania "
+"poskytovateľov telekomunikačných služieb alebo poskytovateľov internetových "
+"služieb; zlyhania dodávateľov, poskytovateľov služieb alebo predajcov "
+"tretích strán; a akékoľvek iné príčiny mimo primeranú kontrolu strany."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Voľba práva: Zmluva a akýkoľvek spor, ktorý vznikne z tejto dohody "
+"alebo v súvislosti s ňou, sa bude riadiť a vykladať podľa zákonov štátu "
+"Kalifornia bez ohľadu na kolízne normy. Všetky spory vyplývajúce z dohody "
+"alebo súvisiace s touto dohodou podliehajú výlučnej jurisdikcii a miestnemu "
+"konaniu kalifornských štátnych a federálnych súdov v Santa Barbare v "
+"Kalifornii a strany súhlasia s osobnou a výlučnou jurisdikciou týchto súdov."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-mail a oznámenia: Ďalej súhlasíte s tým, že vám môžeme poskytnúť "
+"všetky oznámenia, vyhlásenia a ďalšie oznámenia prostredníctvom e-mailu, "
+"pošty, expresnej doručovacej služby alebo doručené uznávaným komerčným "
+"dopravcom adresovaným na poslednú určenú adresu. o dohode. Ste zodpovedný za"
+" to, že nám poskytnete akékoľvek aktualizované kontaktné informácie."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Žiadne vzdanie sa; Kumulatívne nápravné opatrenia: Žiadne zlyhanie "
+"alebo oneskorenie niektorej zo strán pri uplatnení ktoréhokoľvek práva podľa"
+" tejto dohody nepredstavuje zrieknutie sa tohto práva. Okrem tých, ktoré sú "
+"výslovne uvedené v tomto dokumente, opravné prostriedky poskytnuté v tomto "
+"dokumente sú okrem akýchkoľvek iných nápravných prostriedkov zmluvnej "
+"strany, ktoré nie sú právne vylúčené alebo majetkové, vylúčené."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Oddeliteľnosť: Ak je podľa niektorého ustanovenia tejto dohody súd, "
+"ktorý má právomoc, v rozpore so zákonom, súd ho zmení a vyloží tak, aby čo "
+"najlepšie splnil ciele pôvodného ustanovenia v maximálnom rozsahu povolenom "
+"a zostávajúce ustanovenia tejto dohody zostávajú v plnej platnosti a "
+"účinnosti."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Úplná dohoda: V maximálnom rozsahu povolenom platným zákonom "
+"predstavuje táto dohoda spolu s dokumentmi uvedenými v tejto zmluve a "
+"všetkými objednávkovými formulármi a postupmi registrácie úplnú dohodu medzi"
+" stranami o jej predmete a nahrádza všetky predchádzajúce a súčasné dohody, "
+"návrhy alebo vyhlásenia, písomné alebo ústne, týkajúce sa predmetu tejto "
+"dohody. Zastúpenie, záväzok alebo prísľub sa nebudú považovať za vyjadrené "
+"ani nevyplývajú z ničoho, čo bolo povedané alebo napísané pri rokovaniach "
+"medzi stranami pred touto dohodou, s výnimkou prípadov výslovne uvedených v "
+"tejto dohode. Žiadna zo strán nemá žiadne opravné prostriedky v súvislosti s"
+" akýmkoľvek nepravdivým vyhlásením druhej strany, na ktoré sa táto strana "
+"odvolávala pri uzatváraní tejto dohody (pokiaľ takéto nepravdivé vyhlásenie "
+"nebolo podané podvodne), a že jediným opravným prostriedkom strany v "
+"súvislosti s akýmkoľvek nepravdivým vyhlásením je porušenie zmluvy podľa "
+"tejto dohody. Beriete na vedomie a súhlasíte s tým, že vaša dohoda podľa "
+"tejto dohody nie je podmienená poskytnutím akýchkoľvek budúcich funkcií "
+"alebo funkcií, ktoré nie sú uvedené v tomto dokumente alebo v objednávkovom "
+"formulári, ani závisia od akýchkoľvek ústnych alebo písomných, verejných "
+"alebo súkromných pripomienok, ktoré poskytneme v súvislosti s budúcimi "
+"funkciami alebo prvkami. za Služby. V prípade akéhokoľvek rozporu medzi "
+"ustanoveniami týchto Všeobecných podmienok služby a akýmkoľvek Objednávkovým"
+" formulárom alebo Doplnkovými zmluvnými podmienkami majú v takomto rozsahu "
+"prednosť podmienky tohto Objednávkového formulára alebo Dodatočných "
+"zmluvných podmienok. Žiadne podmienky uvedené v objednávke ani v žiadnej "
+"inej dokumentácii k objednávke nebudú začlenené do tejto zmluvy ani s ňou "
+"nebudú tvoriť súčasť tejto zmluvy. Všetky takéto podmienky sú neplatné."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Vývoz: Obidve strany sa dohodli, že budú dodržiavať platné zákony a "
+"nariadenia týkajúce sa vývozu a dovozu USA. Svojim používateľom nedovolíte "
+"prístup k službám alebo ich využívanie v rozpore s akýmkoľvek vývozným "
+"embargom, zákazom alebo obmedzením USA."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publicita: Nesmieme vás bez vášho písomného súhlasu označiť za "
+"používateľa Služieb."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Odkazy na stránky tretích strán: Služby alebo naša webová stránka môžu"
+" obsahovať odkazy na stránky tretích strán (ďalej len „prepojené stránky“). "
+"Prepojené stránky nie sú pod našou kontrolou a nenesieme zodpovednosť za "
+"obsah žiadnych prepojených stránok vrátane, okrem iného, akéhokoľvek odkazu "
+"obsiahnutého na prepojených stránkach alebo akýchkoľvek zmien alebo "
+"aktualizácií prepojených stránok alebo služieb poskytovaných prostredníctvom"
+" prepojených stránok. Tieto odkazy vám poskytujeme iba z dôvodu pohodlia a "
+"zahrnutie akéhokoľvek odkazu neznamená, že sme stránku schválili alebo s ňou"
+" spojené súvisiace služby."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Súhlasíte s prijímaním e-mailov, telefónnych hovorov a SMS správ od "
+"spoločnosti CaseActive s cieľom poskytovať aktualizácie vašej objednávky "
+"alebo na marketingové účely. Frekvencia správ závisí od vašej aktivity. "
+"Deaktiváciu môžete zrušiť zrušením začiarknutia upozornení z účtu alebo "
+"odstránením účtu. Môžu sa účtovať poplatky za správy a dáta."
+
+msgid "An error occurred"
+msgstr "Nastala chyba"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Niečo sa pokazilo. Naši inžinieri boli informovaní. Pre opätovné načítanie "
+"stlačte tlačidlo reload."
+
+msgid "Reload"
+msgstr "Znovu načítať"

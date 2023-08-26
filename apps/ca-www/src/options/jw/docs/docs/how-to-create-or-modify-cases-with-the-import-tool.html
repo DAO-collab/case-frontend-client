@@ -1,0 +1,88 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">Cara Nggawe utawa Ngowahi Kasus nganggo Alat Impor</h1>
+<p>Artikel iki nuduhake admin carane nggawe utawa ngowahi kasus sing wis ana nganggo alat Impor.</p>
+<h2 id="opening-the-import-tool">Mbukak alat Impor</h2>
+<ol style="list-style-type: decimal">
+  <li>Mlebu menyang akun admin.</li>
+  <li>Goleki app ing kaca Aplikasi banjur klik tombol ADMIN.</li>
+  <li>Ing panel Admin, klik tab Integrasi banjur IMPOR ing submenu.</li>
+  <li>Klik tombol NEW. Kothak dialog Tambah Impor ditampilake ing tab browser anyar.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Nggawe kasus</h2>
+<p>Sawise kothak dialog Tambah Impor mbukak:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik kolom Tipe banjur pilih opsi (ndeleng ngisor). A link ditampilake.</li>
+  <li>Klik link Download Sample. File CSV diundhuh menyang piranti sampeyan.</li>
+</ol>
+<p>Sabanjure, bukak file lan tambahake kasus.</p>
+<h2 id="type">Jinis</h2>
+<p>
+  Nalika sampeyan ngeklik kolom <strong>Tipe</strong> , menu gulung mudhun ditampilake. Pilih salah siji saka rong opsi
+  kanggo ngimpor kasus massal.
+</p>
+<ul>
+  <li>
+    <strong>Cathetan</strong> Menu gulung mudhun nduweni akeh pilihan, nanging mung loro sing ana gandhengane karo
+    ngatur kasus. Saben opsi duwe file CSV sampel sing beda.
+  </li>
+</ul>
+<h3 id="add-cases">Tambah kasus</h3>
+<ul>
+  <li>Pilih opsi iki kanggo upload akeh kasus prasaja.</li>
+  <li>Klik link Download Sample kanggo mbukak file CSV kanthi judhul kolom kanggo jinis impor Gawe kasus.</li>
+</ul>
+<h3 id="modify-cases">Ngowahi kasus</h3>
+<ul>
+  <li>Pilih opsi iki kanggo nganyari kasus saiki.</li>
+  <li>Klik link Download Sample kanggo mbukak file CSV kanthi judhul kolom kanggo jinis impor Modify case.</li>
+</ul>
+<h2 id="uploading-the-file">Ngunggah file</h2>
+<p>
+  Sampeyan bisa langsung ngunggah file utawa bali menyang kothak dialog Tambah Impor mengko lan ngrampungake
+  langkah-langkah iki.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Bukak kothak dialog Tambah Impor.</li>
+  <li>Ketik jeneng unik kanggo file CSV.</li>
+  <li>Klik lambang plus (+) kanggo ngunggah file saka piranti sampeyan.</li>
+  <li>Klik kolom Tipe banjur pilih opsi. (ndeleng ndhuwur)</li>
+  <li>Klik SAVE.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Formatting</h2>
+<p>
+  Iki minangka lapangan sing dibutuhake lan syarat pisanan. Klik
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">kene</a> kanggo mriksa
+  rincian format.
+</p>
+<p><strong>tag_id (utawa case_ID)</strong> pengenal unik (nggunakake karakter alfanumerik, hyphens ditampa)</p>
+<p><strong>case_status</strong> 0 = ditutup 1 = aktif</p>
+<p><strong>tanggal_dibukak</strong> sasi/dina/taun mm/dd/tttt</p>
+<p><strong>babagan</strong> katrangan unik babagan kasus kasebut (nggunakake karakter alfanumerik, hyphens ditampa)</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Ngolah</h2>
+<p>
+  Gumantung saka jumlah cathetan ing file lan beban sistem, platform bisa njupuk sawetara menit kanggo proses impor.
+</p>
+<div class="figure"><img src="/images/create-case-9.png" alt="img" /></div>
+<p>Nalika impor rampung, platform nyetel cathetan cilik (yaiku nambah utawa ngowahi) ing dashboard Kasus admin.</p>
+<h2 id="failure">Gagal</h2>
+<p>Yen operasi impor gagal, platform ngasilake pesen Gagal. Umume kasus, panyebab kegagalan yaiku format data.</p>
+<div class="figure"><img src="/images/create-case-10.png" alt="img" /></div>
+<p>Kanggo ndeleng sabab saka kegagalan:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik View ing judhul ACTION.</li>
+  <li>Ing kaca sabanjure, kisaran mouse ing lambang Gagal. Tooltip nampilake kesalahan.</li>
+  <li>Pindhah menyang file CVS lan atur lan ndandani kesalahan kasebut.</li>
+  <li>Upload file maneh.</li>
+</ol>
+<div class="figure"><img src="/images/create-case-11.png" alt="img" /></div>

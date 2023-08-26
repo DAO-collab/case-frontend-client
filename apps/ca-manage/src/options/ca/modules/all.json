@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Llegir tot el camp de cas especificar al rol",
+    "write": "Escriu tot el camp de cas especificat en rol"
+  },
+  "convos": {
+    "read_all": "Veure l&#39;estat actual de convos.",
+    "manage_own": "Uniu-vos i desconnecteu la conversa.",
+    "moderate_others": "Inicia la conversa, acaba la conversa i elimina el participant.",
+    "read_all_submissions": "Llegeix tots els convos gravats."
+  },
+  "events": {
+    "read_all": "Llegeix tots els esdeveniments.",
+    "manage_own": "Crear, actualitzar i eliminar el propi esdeveniment.",
+    "moderate_others": "Actualitza i suprimeix l&#39;esdeveniment d&#39;altres persones.",
+    "read_all_submissions": "Llegeix totes les confirmacions de l&#39;esdeveniment.",
+    "submit_own": "Confirmeu la sol\u00b7licitud d&#39;assist\u00e8ncia a l&#39;esdeveniment."
+  },
+  "posts": {
+    "read_all": "Llegeix totes les publicacions.",
+    "manage_own": "Crea, actualitza i elimina la teva pr\u00f2pia publicaci\u00f3.",
+    "moderate_others": "Actualitza i elimina la publicaci\u00f3 d&#39;altres persones."
+  },
+  "forms": {
+    "read_all": "Llegeix tots els formularis.",
+    "manage_own": "Crear, actualitzar i eliminar el propi formulari.",
+    "moderate_others": "Actualitza i elimina el formulari d&#39;altres persones.",
+    "read_all_submissions": "Llegeix tots els formularis enviats.",
+    "submit_own": "Envieu el formulari de sol\u00b7licitud."
+  },
+  "invoices": {
+    "read_all": "Llegeix totes les factures.",
+    "manage_own": "Crear, actualitzar i eliminar la pr\u00f2pia factura.",
+    "moderate_others": "Actualitza i elimina la factura d&#39;altres persones.",
+    "read_all_submissions": "Llegiu tots els enviaments de factures.",
+    "submit_own": "Envieu la sol\u00b7licitud de factura."
+  },
+  "notes": {
+    "read_all": "Llegeix totes les notes.",
+    "manage_own": "Crear, actualitzar i eliminar la pr\u00f2pia nota.",
+    "moderate_others": "Actualitza i elimina la nota de l&#39;altre."
+  },
+  "signs": {
+    "read_all": "Llegeix tots els r\u00e8tols electr\u00f2nics.",
+    "manage_own": "Crear, actualitzar i eliminar el propi signe electr\u00f2nic.",
+    "moderate_others": "Actualitza i elimina el signe electr\u00f2nic d&#39;altres persones.",
+    "read_all_submissions": "Llegiu tots els enviaments de signes electr\u00f2nics.",
+    "submit_own": "Envieu la sol\u00b7licitud de camp."
+  },
+  "tasks": {
+    "read_all": "Llegeix totes les tasques.",
+    "manage_own": "Crear, actualitzar i eliminar la pr\u00f2pia tasca.",
+    "moderate_others": "Actualitza i elimina la tasca d&#39;altres persones.",
+    "read_all_submissions": "Llegeix totes les tasques enviades.",
+    "submit_own": "Envieu la sol\u00b7licitud de tasca."
+  },
+  "team": { "read_all": "Llegeix l&#39;equip per si de cas" }
+}

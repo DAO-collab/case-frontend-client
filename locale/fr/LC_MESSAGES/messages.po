@@ -1,0 +1,4582 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.342567\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.369187\n"
+"Language: fr\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Vous devez choisir un fichier image."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Téléchargez un document, marquez-le pour signature, puis le client se "
+"connecte et le signe. Tout se fait sans que le client n&#39;entre dans notre"
+" immeuble. C&#39;est pratique avec les clients qui ne sont pas proches "
+"d&#39;un bureau ou qui vivent hors de l&#39;État."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Directeur des opérations de Capital Insurance"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Nos associés peuvent se connecter et voir des informations de base sur le "
+"déroulement de leur cas référé. Cela a considérablement augmenté nos renvois"
+" de cas ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Associé du cabinet d&#39;avocats de Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Nous n&#39;avons plus besoin de voir des clients au bureau pour des "
+"réunions, et la signature de documents est entièrement effectuée en ligne - "
+"génial!."
+
+msgid "CEO of EL Passion"
+msgstr "PDG d&#39;EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"En utilisant l&#39;API, nous avons complètement automatisé ce qui était "
+"affiché dans le flux de cas, en fonction de déclencheurs spécifiques dans "
+"notre système existant. Assez pratique .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Responsable informatique de Carter Mario Injury Lawyers"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Nous avons beaucoup de clients multilingues qui utilisent la fonction de "
+"traduction. Nous publions des messages avec la certitude qu&#39;ils seront "
+"compris par tout le monde. Cela nous permet de passer du travail local au "
+"travail global."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "PDG de Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Les clients l&#39;adorent! Cela leur facilite tellement la vie. Ils peuvent "
+"discuter des problèmes avec nous en ligne, télécharger des photos et des "
+"documents, et tout est stocké où l&#39;équipe et le client peuvent le voir."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Partenaire d&#39;Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Nous aimons la facturation de cas car elle permet aux clients de voir "
+"exactement ce qu&#39;ils paient."
+
+msgid "Vice President of Sky Digital"
+msgstr "Vice-président de Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"La communication croisée, c&#39;est comme avoir tous vos médias sociaux et "
+"outils de collaboration au même endroit."
+
+msgid "Director Of Complaint Management"
+msgstr "Directeur de la gestion des plaintes"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Les formulaires de cas nous permettent d&#39;écouter et d&#39;apprendre, "
+"nous aidant ainsi à augmenter les ventes grâce aux commentaires des clients."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Directeur des ventes de Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"L&#39;interface utilisateur est très similaire à Facebook. C&#39;est "
+"extrêmement facile à utiliser .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Partenaire de Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Une épingle a été envoyée à"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Send New Pin"
+msgstr "Envoyer une nouvelle épingle"
+
+msgid "Need Help?"
+msgstr "Besoin d'aide?"
+
+msgid "Click here to contact us"
+msgstr "Cliquez ici pour nous contacter"
+
+msgid "Next"
+msgstr "Prochain"
+
+msgid "Login or Signup"
+msgstr "Identifiez-vous ou inscrivez-vous"
+
+msgid "Invalid email entered"
+msgstr "E-mail saisi invalide"
+
+msgid "Processing..."
+msgstr "En traitement..."
+
+msgid "Made with"
+msgstr "Fabriqué avec"
+
+msgid "love"
+msgstr "amour"
+
+msgid "in New York City"
+msgstr "a New York"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Tous les droits sont réservés"
+
+msgid "Terms of Use"
+msgstr "Conditions d&#39;utilisation"
+
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+msgid "Username"
+msgstr "Nom d&#39;utilisateur"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "New Password"
+msgstr "nouveau mot de passe"
+
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"
+
+msgid "Set Your New Password"
+msgstr "Définissez votre nouveau mot de passe"
+
+msgid "A code has been sent to"
+msgstr "Un code a été envoyé à"
+
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+msgid "Changing..."
+msgstr "En changeant..."
+
+msgid "Login"
+msgstr "S&#39;identifier"
+
+msgid "Forgot password?"
+msgstr "Mot de passe oublié?"
+
+msgid "Help"
+msgstr "Aider"
+
+msgid "Email or Phone"
+msgstr "Email ou téléphone"
+
+msgid "Reset Password"
+msgstr "réinitialiser le mot de passe"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Saisissez l&#39;adresse e-mail ou le numéro de téléphone associé à votre "
+"compte, puis cliquez sur soumettre. Nous vous enverrons par e-mail ou par "
+"SMS un lien vers une page où vous pourrez facilement créer un nouveau mot de"
+" passe."
+
+msgid "Request Code"
+msgstr "Code requis"
+
+msgid "Requesting..."
+msgstr "Demander ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE ARRIVE BIENTÔT"
+
+msgid "Create a free account"
+msgstr "Créer un compte gratuit"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Nous y mettons la touche finale. Nous vous informerons quand il sera prêt!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Vous n'êtes qu'à quelques minutes d'une meilleure collaboration."
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Company"
+msgstr "Compagnie"
+
+msgid "No language selected"
+msgstr "Aucune langue sélectionnée"
+
+msgid "I agree with"
+msgstr "je suis d'accord avec"
+
+msgid "Terms of Service"
+msgstr "Conditions d'utilisation"
+
+msgid "Language"
+msgstr "La langue"
+
+msgid "Have at least one lower case character"
+msgstr "Avoir au moins un caractère minuscule"
+
+msgid "Have at least one capital letter"
+msgstr "Avoir au moins une lettre majuscule"
+
+msgid "Have at least one number"
+msgstr "Avoir au moins un numéro"
+
+msgid "Have at least 8 characters in length"
+msgstr "Avoir au moins 8 caractères de long"
+
+msgid "Type your current password"
+msgstr "Tapez votre mot de passe actuel"
+
+msgid "Passwords must match"
+msgstr "les mots de passe doivent correspondre"
+
+msgid "Domains"
+msgstr "Domaines"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript est désactivé. Veuillez l&#39;activer."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Les cookies sont désactivés. Veuillez l&#39;activer."
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Create A New App"
+msgstr "Créer une nouvelle application"
+
+msgid "Apps"
+msgstr "applications"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Connectez - Out"
+
+msgid "Hi"
+msgstr "salut"
+
+msgid "View your account"
+msgstr "Afficher votre compte"
+
+msgid "View page"
+msgstr "Voir page"
+
+msgid "You don’t have any apps"
+msgstr "Vous n'avez aucune application"
+
+msgid "App"
+msgstr "Application"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "No notifications yet."
+msgstr "Aucune notification pour le moment."
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "Last Week"
+msgstr "La semaine dernière"
+
+msgid "No timezone selected"
+msgstr "Aucun fuseau horaire sélectionné"
+
+msgid "Complete profile to continue"
+msgstr "Profil complet pour continuer"
+
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Website:"
+msgstr "Site Internet:"
+
+msgid "Homepage:"
+msgstr "Page d&#39;accueil:"
+
+msgid "Approve Access"
+msgstr "Approuver l&#39;accès"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Permissions"
+msgstr "Autorisations"
+
+msgid "Billing"
+msgstr "Facturation"
+
+msgid "Payment Plan"
+msgstr "Plan de paiement"
+
+msgid "Edit"
+msgstr "Éditer"
+
+msgid "Save"
+msgstr "sauvegarder"
+
+msgid "has access to your information below:"
+msgstr "a accès à vos informations ci-dessous:"
+
+msgid "has invited you to their client portal."
+msgstr "vous a invité sur son portail client."
+
+msgid "want access to the following information:"
+msgstr "souhaitez avoir accès aux informations suivantes:"
+
+msgid "Decline"
+msgstr "Déclin"
+
+msgid "Remove Access"
+msgstr "Supprimer l&#39;accès"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Invites"
+msgstr "Invite"
+
+msgid "Disabled"
+msgstr "Handicapé"
+
+msgid "No apps found"
+msgstr "Aucune application trouvée"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "utilisateur"
+
+msgid "manager"
+msgstr "directeur"
+
+msgid "active"
+msgstr "actif"
+
+msgid "inactive"
+msgstr "inactif"
+
+msgid "Company Name"
+msgstr "Nom de la compagnie"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Invitation"
+msgstr "Invitation"
+
+msgid "About App"
+msgstr "À propos de l'application"
+
+msgid "Billing Info"
+msgstr "Informations de facturation"
+
+msgid "Your Company Name"
+msgstr "Le nom de votre société"
+
+msgid "Your Company Website"
+msgstr "Le site Web de votre entreprise"
+
+msgid "Saving..."
+msgstr "Économie..."
+
+msgid "Billing Information"
+msgstr "détails de facturation"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Veuillez ajouter l'ID APP fourni par l'entreprise"
+
+msgid "Select an option"
+msgstr "Choisir une option"
+
+msgid "Join an existing app as a client"
+msgstr "Rejoindre une application existante en tant que client"
+
+msgid "Create a new app for my business"
+msgstr "Créer une nouvelle application pour mon entreprise"
+
+msgid "Create Domain"
+msgstr "Créer un domaine"
+
+msgid "Select enterprise app"
+msgstr "Sélectionnez l'application d'entreprise"
+
+msgid "No item selected"
+msgstr "Aucun élément sélectionné"
+
+msgid "Domain name"
+msgstr "Nom de domaine"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "No enterprise app found"
+msgstr "Aucune application d'entreprise trouvée"
+
+msgid "Pending"
+msgstr "En attente"
+
+msgid "No domains found"
+msgstr "Aucun domaine trouvé"
+
+msgid "Domain"
+msgstr "Domaine"
+
+msgid "Txt Value"
+msgstr "Valeur texte"
+
+msgid "Enterprise Host ID"
+msgstr "ID d'hôte d'entreprise"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Allow Manual Sign In"
+msgstr "Autoriser la connexion manuelle"
+
+msgid "Exclude Emails From SSO"
+msgstr "Exclure les e-mails du SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Métadonnées du fournisseur d'identité SAML"
+
+msgid "Submit"
+msgstr "Nous faire parvenir"
+
+msgid "Profile photo"
+msgstr "Photo de profil"
+
+msgid "Uploading..."
+msgstr "Téléchargement..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "a été réclamé par un autre compte, veuillez le modifier ou"
+
+msgid "reclaim"
+msgstr "récupérer"
+
+msgid "it"
+msgstr "il"
+
+msgid "pending verification:"
+msgstr "En Attente de Vérification:"
+
+msgid "verify"
+msgstr "Vérifier"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+msgid "Change password"
+msgstr "Changer le mot de passe"
+
+msgid "No gender selected"
+msgstr "Aucun genre sélectionné"
+
+msgid "Company Title"
+msgstr "Titre de l&#39;entreprise"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address 2"
+msgstr "Adresse 2"
+
+msgid "City/Locality"
+msgstr "Ville / Localité"
+
+msgid "State/Region"
+msgstr "État / Région"
+
+msgid "No country selected"
+msgstr "Aucun pays sélectionné"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / code postal"
+
+msgid "Basic"
+msgstr "De base"
+
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+msgid "Gender"
+msgstr "Le genre"
+
+msgid "Occupation"
+msgstr "Occupation"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Address is not valid"
+msgstr "L'adresse n'est pas valide"
+
+msgid "City/Locality is not valid"
+msgstr "La ville / localité n'est pas valide"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "State/Region is not valid"
+msgstr "L'état / la région n'est pas valide"
+
+msgid "Contact Info"
+msgstr "Informations de contact"
+
+msgid "Language & Region"
+msgstr "Langue et région"
+
+msgid "Saving"
+msgstr "Économie"
+
+msgid "Verify Your"
+msgstr "Vérifier votre"
+
+msgid "Verification Code"
+msgstr "Code de vérification"
+
+msgid "Resend Code"
+msgstr "Renvoyer le code"
+
+msgid "Resending"
+msgstr "Renvoyer"
+
+msgid "Verify"
+msgstr "Vérifier"
+
+msgid "Verifying..."
+msgstr "Vérification ..."
+
+msgid "Later"
+msgstr "Plus tard"
+
+msgid "We're here to help"
+msgstr "Nous sommes là pour vous aider"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Merci de nous contacter. Votre message a été envoyé avec succès. Nous vous "
+"contacterons très bientôt!"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "characters left"
+msgstr "caractères restants"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Sending..."
+msgstr "Envoi..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Vous ne recevrez plus de marketing par e-mail de la liste."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Si vous avez un moment, veuillez nous indiquer pourquoi vous vous êtes "
+"désabonné :"
+
+msgid "Return to our website"
+msgstr "Revenir à notre site Web"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Merci. Votre réponse a été envoyée."
+
+msgid "No Cases"
+msgstr "Aucun cas"
+
+msgid "Layout"
+msgstr "Disposition"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "Speaker"
+msgstr "Conférencier"
+
+msgid "This case has been closed"
+msgstr "Ce dossier a été clos"
+
+msgid "Feed"
+msgstr "Alimentation"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Docs"
+msgstr "Docs"
+
+msgid "Audios"
+msgstr "Audios"
+
+msgid "Videos"
+msgstr "Vidéos"
+
+msgid "Files"
+msgstr "Des dossiers"
+
+msgid "Events"
+msgstr "Événements"
+
+msgid "Forms"
+msgstr "Formes"
+
+msgid "E-signs"
+msgstr "E-signes"
+
+msgid "Invoices"
+msgstr "Factures"
+
+msgid "Notes"
+msgstr "Remarques"
+
+msgid "Tasks"
+msgstr "Tâches"
+
+msgid "Convo"
+msgstr "Envoyer un message"
+
+msgid "Great job!"
+msgstr "Bon travail!"
+
+msgid "You did all"
+msgstr "Vous avez tout fait"
+
+msgid "the tasks"
+msgstr "les tâches"
+
+msgid "Media"
+msgstr "Médias"
+
+msgid "Skip to navigation (n)"
+msgstr "Passer à la navigation (n)"
+
+msgid "Skip to content (c)"
+msgstr "Aller au contenu (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Passer au pied de page (f)"
+
+msgid "Case"
+msgstr "Cas"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "Using Form Builder"
+msgstr "Utilisation de Form Builder"
+
+msgid "Using Forms Library"
+msgstr "Utilisation de la bibliothèque de formulaires"
+
+msgid "Using E-sign Builder"
+msgstr "Utiliser E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Utilisation de la bibliothèque de signes électroniques"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Create Note"
+msgstr "Créer une note"
+
+msgid "Edit Note"
+msgstr "Note éditée"
+
+msgid "End Convo"
+msgstr "Mettre fin à la conversation"
+
+msgid "Create Form"
+msgstr "Créer un formulaire"
+
+msgid "Create Sign"
+msgstr "Créer un signe"
+
+msgid "Event Create"
+msgstr "Événement Créer"
+
+msgid "Convo Videos"
+msgstr "Convo Vidéos"
+
+msgid "Convo Audios"
+msgstr "Messages audio"
+
+msgid "Cases"
+msgstr "Cas"
+
+msgid "Case categories"
+msgstr "Catégories de cas"
+
+msgid "Your team"
+msgstr "Ton équipe"
+
+msgid "To do"
+msgstr "Faire"
+
+msgid "To Do:"
+msgstr "Faire:"
+
+msgid "Case Categories"
+msgstr "Catégories de cas"
+
+msgid "Your Team"
+msgstr "Ton équipe"
+
+msgid "To Do"
+msgstr "Faire"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Visibility"
+msgstr "Visibilité"
+
+msgid "all"
+msgstr "tout"
+
+msgid "sign"
+msgstr "signe"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "de"
+
+msgid "Processing"
+msgstr "En traitement"
+
+msgid "failed."
+msgstr "échoué."
+
+msgid "Value should be greater or equal to 1"
+msgstr "La valeur doit être supérieure ou égale à 1"
+
+msgid "Repeat end:"
+msgstr "Fin de la répétition :"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Draw"
+msgstr "Dessiner"
+
+msgid "Write"
+msgstr "Écrire"
+
+msgid "Clear Signature"
+msgstr "Signature claire"
+
+msgid "Still processing video..."
+msgstr "Traitement de la vidéo en cours…"
+
+msgid "You"
+msgstr "Tu"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Vous êtes sur le point de supprimer le flux. Êtes-vous sûr?"
+
+msgid "No convo audios yet"
+msgstr "Aucun audio de conversation pour le moment"
+
+msgid "No convo videos yet"
+msgstr "Pas encore de vidéos de conversation"
+
+msgid "Start Convo"
+msgstr "Démarrer la conversation"
+
+msgid "Notify the Host"
+msgstr "Avertir l'hôte"
+
+msgid "is in the call"
+msgstr "est dans l'appel"
+
+msgid "and"
+msgstr "et"
+
+msgid "others are in the call"
+msgstr "d'autres sont dans l'appel"
+
+msgid "Audio call is being recorded"
+msgstr "L'appel audio est en cours d'enregistrement"
+
+msgid "Video call is being recorded"
+msgstr "L'appel vidéo est en cours d'enregistrement"
+
+msgid "Join now"
+msgstr "Adhérer maintenant"
+
+msgid "Dismiss"
+msgstr "Rejeter"
+
+msgid "Can’t find your "
+msgstr "Impossible de trouver votre"
+
+msgid "microphone"
+msgstr "microphone"
+
+msgid "Check your system settings to make sure that "
+msgstr "Vérifiez les paramètres de votre système pour vous assurer que"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"est disponible. Si ce n'est pas le cas, branchez-en un. Vous devrez peut-"
+"être redémarrer votre navigateur."
+
+msgid "web camera"
+msgstr "webcam"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Vous allez démarrer un appel Convo. Commencer avec:"
+
+msgid "Video & Audio"
+msgstr "Vidéo et audio"
+
+msgid "Audio Only"
+msgstr "Audio seulement"
+
+msgid "Record the meeting"
+msgstr "Enregistrer la réunion"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "En attente d'une personne autorisée à démarrer un appel Convo"
+
+msgid "Add Ticket"
+msgstr "Ajouter un billet"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Closed"
+msgstr "Fermé"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Vous êtes sur le point de fermer le ticket. Es-tu sûr?"
+
+msgid "Announcements"
+msgstr "Annonces"
+
+msgid "Support"
+msgstr "Soutien"
+
+msgid "Opened"
+msgstr "Ouvert"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "Locations"
+msgstr "Emplacements"
+
+msgid "You currently have no announcements."
+msgstr "Vous n'avez actuellement aucune annonce."
+
+msgid "You currently have no"
+msgstr "Vous n'avez actuellement aucun"
+
+msgid "open cases. Click"
+msgstr "dossiers ouverts. Cliquez sur"
+
+msgid "here"
+msgstr "ici"
+
+msgid "to contact support."
+msgstr "pour contacter l'assistance."
+
+msgid "closed cases."
+msgstr "dossiers clos."
+
+msgid "open tickets."
+msgstr "billets ouverts."
+
+msgid "closed tickets."
+msgstr "billets fermés."
+
+msgid "You currently have no locations."
+msgstr "Vous n'avez actuellement aucun emplacement."
+
+msgid "Write a comment...."
+msgstr "Écrire un commentaire...."
+
+msgid "Post"
+msgstr "Poster"
+
+msgid "Add Location"
+msgstr "Ajouter un emplacement"
+
+msgid "Save Event"
+msgstr "Enregistrer l'événement"
+
+msgid "Name"
+msgstr "prénom"
+
+msgid "Start Date"
+msgstr "Date de début"
+
+msgid "Start Time"
+msgstr "Heure de début"
+
+msgid "End Date"
+msgstr "Date de fin"
+
+msgid "End Time"
+msgstr "Heure de fin"
+
+msgid "Repeat"
+msgstr "Répéter"
+
+msgid "Attendees"
+msgstr "Participants"
+
+msgid "Event Location"
+msgstr "Lieu de l&#39;événement"
+
+msgid "Link"
+msgstr "Relier"
+
+msgid "Description"
+msgstr "La description"
+
+msgid "Attending"
+msgstr "Participer"
+
+msgid "Add to calendar"
+msgstr "Ajouter au calendrier"
+
+msgid "Details"
+msgstr "Des détails"
+
+msgid "Event by"
+msgstr "Événement par"
+
+msgid "Duration:"
+msgstr "Durée:"
+
+msgid "more"
+msgstr "plus"
+
+msgid "Maybe"
+msgstr "Peut être"
+
+msgid "Not Attending"
+msgstr "Ne pas participer"
+
+msgid "No"
+msgstr "Non"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Conférence vidéo"
+
+msgid "Event details"
+msgstr "Détails de l'évènement"
+
+msgid "You don't have permissions to view this page."
+msgstr "Vous n&#39;êtes pas autorisé à afficher cette page."
+
+msgid "Your Upcoming Events"
+msgstr "Vos prochains événements"
+
+msgid "Upcoming"
+msgstr "A venir"
+
+msgid "Your Past Events"
+msgstr "Vos événements passés"
+
+msgid "Past"
+msgstr "Passé"
+
+msgid "Your Events"
+msgstr "Vos événements"
+
+msgid "All"
+msgstr "Tous"
+
+msgid "All Events"
+msgstr "Tous les évènements"
+
+msgid "Directions"
+msgstr "instructions"
+
+msgid "Edit settings"
+msgstr "Modifier les paramètres"
+
+msgid "Delete event"
+msgstr "Supprimer l'événement"
+
+msgid "Attending?"
+msgstr "Participer?"
+
+msgid "No Events"
+msgstr "Pas d&#39;événements"
+
+msgid "more comment(s)"
+msgstr "plus de commentaires)"
+
+msgid "Loading comments"
+msgstr "Chargement des commentaires"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Vous êtes sur le point de supprimer le commentaire. Êtes-vous sûr?"
+
+msgid "task"
+msgstr "tâche"
+
+msgid "to do"
+msgstr "faire"
+
+msgid "tasks"
+msgstr "Tâches"
+
+msgid "Write something..."
+msgstr "Écris quelque chose..."
+
+msgid "Attach File"
+msgstr "Pièce jointe"
+
+msgid "From Template"
+msgstr "À partir du modèle"
+
+msgid "No feeds yet."
+msgstr "Aucun flux pour le moment."
+
+msgid "comments"
+msgstr "commentaires"
+
+msgid "comment"
+msgstr "commentaire"
+
+msgid "Add a comment"
+msgstr "Ajouter un commentaire"
+
+msgid "Template"
+msgstr "Modèle"
+
+msgid "No templates"
+msgstr "Aucun modèle"
+
+msgid "Done"
+msgstr "Terminé"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Sélectionnez les membres qui doivent remplir ce formulaire"
+
+msgid "Update Form"
+msgstr "Formulaire de mise à jour"
+
+msgid "Due Date"
+msgstr "Date d&#39;échéance"
+
+msgid "Due Time"
+msgstr "Échéance"
+
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "Save & Close"
+msgstr "Sauvegarder et fermer"
+
+msgid "Add an element"
+msgstr "Ajouter un élément"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Les médias se convertissent. Nous vous informerons quand il sera prêt"
+
+msgid "Add "
+msgstr "Ajouter"
+
+msgid "Field"
+msgstr "Champ"
+
+msgid "Edit "
+msgstr "Modifier"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Sub Text"
+msgstr "Sous-texte"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Le support n'a pas pu être converti. Veuillez supprimer et réessayer ou un "
+"autre."
+
+msgid "Pages"
+msgstr "pages"
+
+msgid "Saved"
+msgstr "Enregistré"
+
+msgid "Insert"
+msgstr "Insérer"
+
+msgid "Elements"
+msgstr "Éléments"
+
+msgid "Action Required"
+msgstr "Action requise"
+
+msgid "Add a new page"
+msgstr "Ajouter une nouvelle page"
+
+msgid "Blank page"
+msgstr "Page blanche"
+
+msgid "From PDF"
+msgstr "À partir du PDF"
+
+msgid "From image"
+msgstr "De l'image"
+
+msgid "Add PDF"
+msgstr "Ajouter un PDF"
+
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Column Names"
+msgstr "Noms de colonne"
+
+msgid "Option already exists."
+msgstr "L&#39;option existe déjà."
+
+msgid "options list is empty"
+msgstr "la liste des options est vide"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Le champ Cases à cocher ne prend en charge que 5 options. Vous pouvez "
+"changer de champ en liste déroulante pour ajouter plus d'options"
+
+msgid "columns list is empty"
+msgstr "la liste des colonnes est vide"
+
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+msgid "Delete row"
+msgstr "Supprimer la ligne"
+
+msgid "Add a new row"
+msgstr "Ajouter une nouvelle ligne"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Label"
+msgstr "Étiqueter"
+
+msgid "Question"
+msgstr "Question"
+
+msgid "Default answer"
+msgstr "Réponse par défaut"
+
+msgid "Media is converting"
+msgstr "Les médias se convertissent"
+
+msgid "Send Form"
+msgstr "Envoyer le formulaire"
+
+msgid "Form Submited."
+msgstr "Formulaire soumis."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Vous n&#39;êtes pas autorisé à soumettre des formulaires."
+
+msgid "You currently have no forms of your own"
+msgstr "Vous n'avez actuellement aucun formulaire personnel"
+
+msgid "Your Uncompleted Forms"
+msgstr "Vos formulaires non remplis"
+
+msgid "Uncompleted"
+msgstr "Inachevé"
+
+msgid "Your Completed Forms"
+msgstr "Vos formulaires complétés"
+
+msgid "Completed"
+msgstr "Complété"
+
+msgid "Your Forms"
+msgstr "Vos formulaires"
+
+msgid "All Forms"
+msgstr "Toutes les formes"
+
+msgid "Form Title"
+msgstr "Titre du formulaire"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Published"
+msgstr "Publié"
+
+msgid "Submissions"
+msgstr "Soumissions"
+
+msgid "No Forms"
+msgstr "Aucun formulaire"
+
+msgid "Upload Form Document"
+msgstr "Télécharger le document de formulaire"
+
+msgid "Forms Library"
+msgstr "Bibliothèque de formulaires"
+
+msgid "No Forms In Library"
+msgstr "Aucun formulaire dans la bibliothèque"
+
+msgid "Answers"
+msgstr "Réponses"
+
+msgid "Close - Status changed"
+msgstr "Fermer - Statut modifié"
+
+msgid "Change Status"
+msgstr "Changer le statut"
+
+msgid "Case Number"
+msgstr "Numéro de dossier"
+
+msgid "Tag Id"
+msgstr "Identifiant du tag"
+
+msgid "Date Opened"
+msgstr "Date d&#39;ouverture"
+
+msgid "Host Id"
+msgstr "Identifiant de l'hôte"
+
+msgid "User Id"
+msgstr "Identifiant d'utilisateur"
+
+msgid "Case Id"
+msgstr "Identifiant du cas"
+
+msgid "Confirm your details"
+msgstr "Confirmez vos coordonnées"
+
+msgid "Form Submitted."
+msgstr "Formulaire soumis."
+
+msgid "Invoice"
+msgstr "Facturer"
+
+msgid "PO No:"
+msgstr "Numéro de bon de commande :"
+
+msgid "Reference ID:"
+msgstr "Pièce d'identité:"
+
+msgid "Term:"
+msgstr "Terme:"
+
+msgid "Note:"
+msgstr "Noter:"
+
+msgid "QTY"
+msgstr "QTÉ"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Add more"
+msgstr "Ajouter plus"
+
+msgid "Subtotal($)"
+msgstr "Sous-total($)"
+
+msgid "Discount(%)"
+msgstr "Rabais(%)"
+
+msgid "TAX(%)"
+msgstr "IMPÔT(%)"
+
+msgid "Total($)"
+msgstr "Total($)"
+
+msgid "Invoice No"
+msgstr "Facture n°"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Sélectionnez les membres qui doivent consulter ou payer cette facture"
+
+msgid "Update Invoice"
+msgstr "Mettre à jour la facture"
+
+msgid "Create Invoice"
+msgstr "Créer une facture"
+
+msgid "PO No."
+msgstr "Numéro de bon de commande"
+
+msgid "Reference ID"
+msgstr "Pièce d'identité"
+
+msgid "Term"
+msgstr "Terme"
+
+msgid "Note"
+msgstr "Noter"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Price ($)"
+msgstr "Prix ($)"
+
+msgid "Subtotal ($)"
+msgstr "Sous-total ($)"
+
+msgid "Discount (%)"
+msgstr "Remise (%)"
+
+msgid "Tax (%)"
+msgstr "Impôt (%)"
+
+msgid "Total ($)"
+msgstr "Totale ($)"
+
+msgid "Pay Invoice"
+msgstr "Payer sa commande"
+
+msgid "Payment method"
+msgstr "Mode de paiement"
+
+msgid "Add a new payment method"
+msgstr "Ajouter un nouveau moyen de paiement"
+
+msgid "Summary"
+msgstr "Résumé"
+
+msgid "Payment:"
+msgstr "Paiement:"
+
+msgid "Total charge:"
+msgstr "Charge totale:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Vos factures impayées"
+
+msgid "Unpaid"
+msgstr "Non payé"
+
+msgid "Your Paid Invoices"
+msgstr "Vos factures payées"
+
+msgid "Paid"
+msgstr "Payé"
+
+msgid "Your Invoices"
+msgstr "Vos factures"
+
+msgid "All Invoices"
+msgstr "Toutes les factures"
+
+msgid "Invoice Title"
+msgstr "Titre de la facture"
+
+msgid "No Invoices"
+msgstr "Pas de factures"
+
+msgid "No Audios yet."
+msgstr "Pas encore d'audio."
+
+msgid "Loading failed."
+msgstr "Le chargement a échoué."
+
+msgid "retry"
+msgstr "recommencez"
+
+msgid "No documents yet."
+msgstr "Aucun document pour le moment."
+
+msgid "No Files yet."
+msgstr "Aucun fichier pour le moment."
+
+msgid "No Images yet."
+msgstr "Pas encore d'images."
+
+msgid "No Videos yet."
+msgstr "Pas encore de vidéos."
+
+msgid "Page Not Found"
+msgstr "Page non trouvée"
+
+msgid "Attachments"
+msgstr "Les pièces jointes"
+
+msgid "Note View"
+msgstr "Affichage des notes"
+
+msgid "No Notes"
+msgstr "Pas de notes"
+
+msgid "Select the person to answer this field"
+msgstr "Sélectionnez la personne pour répondre à ce champ"
+
+msgid "Create E-sign"
+msgstr "Créer une signature électronique"
+
+msgid "Update E-signs"
+msgstr "Mettre à jour les enseignes électroniques"
+
+msgid "Signs"
+msgstr "Panneaux"
+
+msgid "Add Field"
+msgstr "Ajouter le champ"
+
+msgid "Edit Field"
+msgstr "Modifier le champ"
+
+msgid "Send E-sign"
+msgstr "Envoyer un signe électronique"
+
+msgid "E-sign Submitted."
+msgstr "Signe électronique soumis."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Vous n'êtes pas autorisé à envoyer des e-signs."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Vous n'avez actuellement aucun signe E"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Vos enseignes électroniques inachevées"
+
+msgid "Your Completed E-signs"
+msgstr "Vos enseignes complétées"
+
+msgid "Your Signs"
+msgstr "Vos signes"
+
+msgid "All E-signs"
+msgstr "Tous les signes E"
+
+msgid "E-sign Title"
+msgstr "Titre de la signature électronique"
+
+msgid "No E-signs"
+msgstr "Pas de signes E"
+
+msgid "E-Signs Library"
+msgstr "Bibliothèque de signatures électroniques"
+
+msgid "No E-signs In Library"
+msgstr "Pas de signature électronique dans la bibliothèque"
+
+msgid "Upload E-sign Document"
+msgstr "Télécharger le document de signature électronique"
+
+msgid "Update Task"
+msgstr "Mettre à jour la tâche"
+
+msgid "Create Task"
+msgstr "Créer une tâche"
+
+msgid "You currently have no tasks of your own"
+msgstr "Vous n'avez actuellement aucune tâche personnelle"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Vos tâches inachevées"
+
+msgid "Your Completed Tasks"
+msgstr "Vos tâches terminées"
+
+msgid "Your Tasks"
+msgstr "Vos tâches"
+
+msgid "All Tasks"
+msgstr "Toutes les tâches"
+
+msgid "Task"
+msgstr "Tâche"
+
+msgid "Deadline"
+msgstr "Date limite"
+
+msgid "Assignees"
+msgstr "Cessionnaires"
+
+msgid "In Progress"
+msgstr "En cours"
+
+msgid "Delete task"
+msgstr "Supprimer la tâche"
+
+msgid "No Tasks"
+msgstr "Aucune tâche"
+
+msgid "wants access"
+msgstr "veut un accès"
+
+msgid "No Answers"
+msgstr "Pas de réponses"
+
+msgid "Select Field Type"
+msgstr "Sélectionnez le type de champ"
+
+msgid "Text Only"
+msgstr "Texte seulement"
+
+msgid "Multiple Line Text"
+msgstr "Texte à plusieurs lignes"
+
+msgid "Dropdown"
+msgstr "Menu déroulant"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Cases à cocher"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Rendez-vous amoureux"
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Yes/No"
+msgstr "Oui Non"
+
+msgid "Number"
+msgstr "Nombre"
+
+msgid "Access Denied"
+msgstr "Accès refusé"
+
+msgid "You don't have access to this case."
+msgstr "Vous n'avez pas accès à ce cas."
+
+msgid "Imports"
+msgstr "Importations"
+
+msgid "View import"
+msgstr "Afficher l'importation"
+
+msgid "Sessions"
+msgstr "Séances"
+
+msgid "Home"
+msgstr "Maison"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Library"
+msgstr "Une bibliothèque"
+
+msgid "Integration"
+msgstr "L'intégration"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Clés"
+
+msgid "Feed Templates"
+msgstr "Modèles de flux"
+
+msgid "Form Templates"
+msgstr "Modèles de formulaire"
+
+msgid "E-sign Templates"
+msgstr "Modèles de signature électronique"
+
+msgid "Task Templates"
+msgstr "Modèles de tâche"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Payments"
+msgstr "Paiements"
+
+msgid "From"
+msgstr "De"
+
+msgid "To"
+msgstr "À"
+
+msgid "System"
+msgstr "Système"
+
+msgid "User Intake"
+msgstr "Apport d'utilisateurs"
+
+msgid "Custom Fields"
+msgstr "Les champs personnalisés"
+
+msgid "After Actions"
+msgstr "Actions après"
+
+msgid "Advance Settings"
+msgstr "Paramètres avancés"
+
+msgid "Label Name"
+msgstr "Nom de l&#39;étiquette"
+
+msgid "Fields"
+msgstr "Des champs"
+
+msgid "Tag ID"
+msgstr "Tag ID"
+
+msgid "Have many users?"
+msgstr "Vous avez de nombreux utilisateurs ?"
+
+msgid "Import users"
+msgstr "Importer des utilisateurs"
+
+msgid "or"
+msgstr "ou"
+
+msgid "Send them a signup link."
+msgstr "Envoyez-leur un lien d'inscription."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Commençons par entrer l&#39;e-mail ou le numéro de téléphone"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Invalid phone number entered"
+msgstr "Numéro de téléphone non valide saisi"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr ""
+"Une étiquette pour trouver facilement un étui. il ne peut pas être modifié "
+"plus tard"
+
+msgid "Visibility:"
+msgstr "Visibilité:"
+
+msgid "Who can use this template"
+msgstr "Qui peut utiliser ce modèle"
+
+msgid "One time"
+msgstr "Une fois"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr ""
+"Veuillez entrer des informations de paiement valides avant de continuer"
+
+msgid "Add Payment"
+msgstr "Ajouter un paiement"
+
+msgid "Repeat every:"
+msgstr "Répétez tous les:"
+
+msgid "Let's get started"
+msgstr "Commençons"
+
+msgid "Take me there"
+msgstr "Emmenez-moi là-bas"
+
+msgid "Mark"
+msgstr "Marquer"
+
+msgid "Onboarding"
+msgstr "Intégration"
+
+msgid "Created on"
+msgstr "Créé sur"
+
+msgid "Expires on"
+msgstr "Expire le"
+
+msgid "No announcements yet."
+msgstr "Aucune annonce pour le moment."
+
+msgid "Add Announcement"
+msgstr "Ajouter une annonce"
+
+msgid "Edit Announcement"
+msgstr "Modifier l'annonce"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "La date et l'heure doivent être au moins une heure à l'avance"
+
+msgid "Delete Date"
+msgstr "Supprimer la date"
+
+msgid "Delete Time"
+msgstr "Supprimer l'heure"
+
+msgid "Back"
+msgstr "Arrière"
+
+msgid "No Users Found"
+msgstr "Aucun utilisateur trouvé"
+
+msgid "No role selected"
+msgstr "Aucun rôle sélectionné"
+
+msgid "No permissions added!"
+msgstr "Aucune autorisation ajoutée!"
+
+msgid "ASSIGNED USERS"
+msgstr "UTILISATEURS ASSIGNÉS"
+
+msgid "CASE PERMISSIONS"
+msgstr "AUTORISATIONS DE CAS"
+
+msgid "User ID"
+msgstr "Identifiant d&#39;utilisateur"
+
+msgid "Role"
+msgstr "Rôle"
+
+msgid "remove"
+msgstr "retirer"
+
+msgid "Assign User"
+msgstr "Assigner un utilisateur"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "ADD USER"
+msgstr "AJOUTER UN UTILISATEUR"
+
+msgid "Email user about case assignment"
+msgstr "Envoyer un e-mail à propos de l&#39;affectation d&#39;un dossier"
+
+msgid "Keyword"
+msgstr "Mot-clé"
+
+msgid "No cases found."
+msgstr "Aucun cas trouvé."
+
+msgid "Create a case for a business"
+msgstr "Créer un dossier pour une entreprise"
+
+msgid "Case ID"
+msgstr "ID de cas"
+
+msgid "Created On"
+msgstr "Créé sur"
+
+msgid "Case Status"
+msgstr "État de cas"
+
+msgid "Case Type"
+msgstr "Type de cas"
+
+msgid "Assign Users"
+msgstr "Attribuer des utilisateurs"
+
+msgid "No cases found"
+msgstr "Aucun cas trouvé"
+
+msgid "Have many cases?"
+msgstr "Vous avez de nombreux cas ?"
+
+msgid "Click here to import cases."
+msgstr "Cliquez ici pour importer des cas."
+
+msgid "No status selected"
+msgstr "Aucun statut sélectionné"
+
+msgid "No type selected"
+msgstr "Aucun type sélectionné"
+
+msgid "Case Info"
+msgstr "Infos sur le cas"
+
+msgid "About"
+msgstr "Sur"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Une étiquette permanente pour retrouver facilement un étui. (a-z, 0-9, -, /)"
+" sont autorisés"
+
+msgid "Case Types"
+msgstr "Types de cas"
+
+msgid "Click"
+msgstr "Cliquez sur"
+
+msgid "to edit case types"
+msgstr "pour modifier les types de cas"
+
+msgid "No Type selected"
+msgstr "Aucun type sélectionné"
+
+msgid "Case not found!"
+msgstr "Case introuvable!"
+
+msgid "Media Size"
+msgstr "Taille du support"
+
+msgid "All statistics"
+msgstr "Toutes les statistiques"
+
+msgid "Import not found."
+msgstr "Importation introuvable."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Le traitement du fichier a échoué. Assurez-vous qu'il s'agit d'un type de "
+"fichier CSV et qu'il contient les en-têtes corrects"
+
+msgid "Data"
+msgstr "Données"
+
+msgid "No Imports yet."
+msgstr "Pas encore d'importations."
+
+msgid "Source"
+msgstr "La source"
+
+msgid "Stats"
+msgstr "Statistiques"
+
+msgid "Passed:"
+msgstr "Passé:"
+
+msgid "Failed:"
+msgstr "Manqué:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Add Imports"
+msgstr "Ajouter des importations"
+
+msgid "Download Sample"
+msgstr "Télécharger un échantillon"
+
+msgid "Choose a file"
+msgstr "Choisissez un fichier"
+
+msgid "Edit Key"
+msgstr "Modifier la clé"
+
+msgid "Add Key"
+msgstr "Ajouter une clé"
+
+msgid "No Keys yet."
+msgstr "Pas encore de clés."
+
+msgid "Source CIDR"
+msgstr "CIDR source"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "is invalid."
+msgstr "est invalide."
+
+msgid "Secret Key"
+msgstr "Clef secrète"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Assurez-vous de copier votre nouvelle clé secrète maintenant. Vous ne "
+"pourrez plus le revoir!"
+
+msgid "Edit Webhook"
+msgstr "Modifier le Webhook"
+
+msgid "Add Webhook"
+msgstr "Ajouter un Webhook"
+
+msgid "No event selected"
+msgstr "Aucun événement sélectionné"
+
+msgid "No Webhooks yet."
+msgstr "Pas encore de Webhooks."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Webhook secret"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Assurez-vous de copier votre nouveau webhook secret maintenant. Vous ne "
+"pourrez plus le revoir!"
+
+msgid "Sign In"
+msgstr "Se connecter"
+
+msgid "Login in account page."
+msgstr "Connectez-vous sur la page du compte."
+
+msgid "Edit form builder"
+msgstr "Modifier le générateur de formulaire"
+
+msgid "Delete form"
+msgstr "Supprimer le formulaire"
+
+msgid "No forms yet."
+msgstr "Pas encore de formulaires"
+
+msgid "Intake Forms"
+msgstr "Formulaires d'admission"
+
+msgid "Upload Intake Form Document"
+msgstr "Télécharger le document du formulaire d'admission"
+
+msgid "Add Intake Form"
+msgstr "Ajouter un formulaire d'admission"
+
+msgid "Edit Intake Form"
+msgstr "Modifier le formulaire d'admission"
+
+msgid "Show Media"
+msgstr "Montrer le média"
+
+msgid "Add Post"
+msgstr "Ajouter un message"
+
+msgid "Edit Post"
+msgstr "Modifier le message"
+
+msgid "Files Amount"
+msgstr "Fichiers Montant"
+
+msgid "No Feed Templates yet."
+msgstr "Aucun modèle de flux pour le moment."
+
+msgid "Post Name"
+msgstr "Après le nom"
+
+msgid "Post Message"
+msgstr "Poster un message"
+
+msgid "Processing media ..."
+msgstr "Traitement des supports ..."
+
+msgid "Download original file"
+msgstr "Télécharger le fichier original"
+
+msgid "Could not display media"
+msgstr "Impossible d&#39;afficher le média"
+
+msgid "No locations found."
+msgstr "Aucun emplacement trouvé."
+
+msgid "Main Office"
+msgstr "Bureau principal"
+
+msgid "Location Name"
+msgstr "Nom de la localisation"
+
+msgid "Delete e-sign"
+msgstr "Supprimer le signe électronique"
+
+msgid "No e-signs yet."
+msgstr "Pas encore de signes électroniques."
+
+msgid "Subtasks Count"
+msgstr "Nombre de sous-tâches"
+
+msgid "No tasks yet."
+msgstr "Aucune tâche pour le moment."
+
+msgid "Invoice ID"
+msgstr "Numéro de facture"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Refund"
+msgstr "Remboursement"
+
+msgid "No invoices yet."
+msgstr "Pas encore de factures."
+
+msgid "Refund Reason"
+msgstr "Motif du remboursement"
+
+msgid "Duplicate charge"
+msgstr "Facturation en double"
+
+msgid "Fraudulent charge"
+msgstr "Frais frauduleux"
+
+msgid "Requested by customer"
+msgstr "Demandé par le client"
+
+msgid "On Board"
+msgstr "À bord"
+
+msgid "Stripe"
+msgstr "Bande"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Informations sur le rôle"
+
+msgid "It cannot be changed later"
+msgstr "Il ne peut pas être modifié plus tard"
+
+msgid "Role Permissions"
+msgstr "Autorisations de rôle"
+
+msgid "e-signs"
+msgstr "e-signes"
+
+msgid "on"
+msgstr "sur"
+
+msgid "Allowed File Sizes"
+msgstr "Taille de fichier autorisée"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Creating..."
+msgstr "Créer ..."
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "Roles"
+msgstr "Rôles"
+
+msgid "Profile information"
+msgstr "Informations sur le profil"
+
+msgid "No role found."
+msgstr "Aucun rôle trouvé."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Lorsqu'un cas est créé, attribuez automatiquement ces utilisateurs"
+
+msgid "Remove All"
+msgstr "Enlever tout"
+
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+msgid "Notify"
+msgstr "Notifier"
+
+msgid "Host User"
+msgstr "Utilisateur hôte"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Lorsqu'un utilisateur est affecté à un cas, ajouter automatiquement des "
+"modèles"
+
+msgid "No post selected"
+msgstr "Aucune publication sélectionnée"
+
+msgid "No form selected"
+msgstr "Aucun formulaire sélectionné"
+
+msgid "No e-sign selected"
+msgstr "Aucun signe électronique sélectionné"
+
+msgid "Templates"
+msgstr "Modèles"
+
+msgid "Add Templates"
+msgstr "Ajouter des modèles"
+
+msgid "Idle Cases"
+msgstr "Cas inactifs"
+
+msgid "When a case is idle, post this message"
+msgstr "Lorsqu'un dossier est inactif, publiez ce message"
+
+msgid "No case type selected"
+msgstr "Aucun type de dossier sélectionné"
+
+msgid "Idle Days"
+msgstr "Jours d'inactivité"
+
+msgid "Post Id"
+msgstr "Identifiant de publication"
+
+msgid "Set Idle Message"
+msgstr "Définir le message d'inactivité"
+
+msgid "No task selected"
+msgstr "Aucune tâche sélectionnée"
+
+msgid "No operation order selected"
+msgstr "Aucun ordre d'opération sélectionné"
+
+msgid "Operation Order"
+msgstr "Ordre d'opération"
+
+msgid "Add Templates to Assign Users"
+msgstr "Ajouter des modèles pour affecter des utilisateurs"
+
+msgid "CaseType"
+msgstr "Type de cas"
+
+msgid "Case Form"
+msgstr "Formulaire de cas"
+
+msgid "User Form"
+msgstr "Formulaire utilisateur"
+
+msgid "Notes Form"
+msgstr "Formulaire de remarques"
+
+msgid "Defaults"
+msgstr "Par défaut"
+
+msgid "Required"
+msgstr "Champs obligatoires"
+
+msgid "Public User Signup link:"
+msgstr "Lien d'inscription de l'utilisateur public :"
+
+msgid "Design Settings"
+msgstr "Paramètres de conception"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Changer de fichier"
+
+msgid "Delete Favicon"
+msgstr "Supprimer Favicon"
+
+msgid "Logo:"
+msgstr "Logo:"
+
+msgid "Delete Logo"
+msgstr "Supprimer le logo"
+
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+msgid "Recommended Colors:"
+msgstr "Couleurs recommandées:"
+
+msgid "RGB:"
+msgstr "RVB:"
+
+msgid "reset"
+msgstr "réinitialiser"
+
+msgid "Background Color"
+msgstr "Couleur de l&#39;arrière plan"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Information d'entreprise"
+
+msgid "Website"
+msgstr "Site Internet"
+
+msgid "Terms of Use URL"
+msgstr "URL des conditions d'utilisation"
+
+msgid "User Signup"
+msgstr "Inscription de l'utilisateur"
+
+msgid "Allow Signup"
+msgstr "Autoriser l'inscription"
+
+msgid "Auto Create Case"
+msgstr "Créer automatiquement un cas"
+
+msgid "Case User Role"
+msgstr "Rôle d'utilisateur de cas"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Clé Analytics"
+
+msgid "delete"
+msgstr "supprimer"
+
+msgid "Crop Image"
+msgstr "Recadrer l&#39;image"
+
+msgid "No Filter"
+msgstr "Pas de filtre"
+
+msgid "No logs requested."
+msgstr "Aucun journal demandé."
+
+msgid "Logs list is empty."
+msgstr "La liste des journaux est vide."
+
+msgid "Download CSV"
+msgstr "Télécharger le CSV"
+
+msgid "Request Logs"
+msgstr "Demander des journaux"
+
+msgid "Log Type"
+msgstr "Type de journal"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Select a case"
+msgstr "Sélectionnez un cas"
+
+msgid "Enter the email address"
+msgstr "Entrez l&#39;adresse email"
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Header (3 max)"
+msgstr "En-tête (3 max)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Lorsqu'un utilisateur rejoint l'application, demandez-lui de partager les "
+"éléments suivants"
+
+msgid "No user intake found."
+msgstr "Aucune prise d'utilisateur trouvée."
+
+msgid "User Type"
+msgstr "Type d&#39;utilisateur"
+
+msgid "Intake Form"
+msgstr "Formulaire d'admission"
+
+msgid "Complete After"
+msgstr "Terminer après"
+
+msgid "No user type selected"
+msgstr "Aucun type d'utilisateur sélectionné"
+
+msgid "No intake form selected"
+msgstr "Aucun formulaire d'admission sélectionné"
+
+msgid "Complete After Date"
+msgstr "Terminer après la date"
+
+msgid "Complete After Time"
+msgstr "Terminer après le temps"
+
+msgid "Date and time should be less or equal to now"
+msgstr "La date et l'heure doivent être inférieures ou égales à maintenant"
+
+msgid "Comment ct"
+msgstr "Commentaire"
+
+msgid "View Ticket"
+msgstr "Voir le billet"
+
+msgid "Ticket"
+msgstr "Billet"
+
+msgid "No tickets yet."
+msgstr "Pas encore de billets."
+
+msgid "User not found."
+msgstr "Utilisateur non trouvé."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"L'utilisateur peut modifier les informations de son compte, à l'exception de"
+" la section des attributs de l'utilisateur hôte."
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+msgid "Zip Postal Code"
+msgstr "Zip / code postal"
+
+msgid "Host User Attributes"
+msgstr "Attributs de l'utilisateur hôte"
+
+msgid "User Status"
+msgstr "Statut de l&#39;utilisateur"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Une étiquette permanente pour retrouver facilement un utilisateur. (a-z, "
+"0-9, -, /) sont autorisés"
+
+msgid "App only User Intake Fields"
+msgstr "Champs de saisie utilisateur de l'application uniquement"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APPLICATION UNIQUEMENT DES CHAMPS PERSONNALISÉS"
+
+msgid "s found."
+msgstr "est trouvé."
+
+msgid "Created Date"
+msgstr "Date de création"
+
+msgid "View Cases"
+msgstr "Voir les cas"
+
+msgid "VIEW CASES"
+msgstr "VOIR LES CAS"
+
+msgid "Get Started"
+msgstr "Commencer"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Email is not valid."
+msgstr "L&#39;email n&#39;est pas valide."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive vous permet, à vous et à votre client"
+
+msgid "work together"
+msgstr "travailler ensemble"
+
+msgid "at any time, in any place."
+msgstr "à tout moment, en tout lieu."
+
+msgid "Explore"
+msgstr "Explorer"
+
+msgid "Pricing"
+msgstr "Tarification"
+
+msgid "Support & Docs"
+msgstr "Assistance et documentation"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to validate if you are human"
+msgstr "Impossible de valider si vous êtes humain"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "NOTIFIEZ-MOI QUAND C&#39;EST PRÊT!"
+
+msgid "Thank You!"
+msgstr "Merci!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Nous vous informerons lorsque l&#39;application sera prête"
+
+msgid "Most popular"
+msgstr "Le plus populaire"
+
+msgid "All languages"
+msgstr "Toutes les langues"
+
+msgid "Oops, Something went wrong."
+msgstr "Oups, quelque chose s&#39;est mal passé."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Oups, quelque chose s&#39;est mal passé. Notre équipe a été prévenue. "
+"Veuillez réessayer plus tard."
+
+msgid "Support Documentation"
+msgstr "Documents d'assistance"
+
+msgid "All Categories"
+msgstr "toutes catégories"
+
+msgid "Contents"
+msgstr "Contenu"
+
+msgid "Related Articles"
+msgstr "Articles Liés"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Démarrez : processus, meilleures pratiques, guides de configuration, et plus"
+" encore !"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr ""
+"Trouvez tout ce dont vous avez besoin pour vous mettre au travail dans "
+"CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Toutes les communications de cas en un seul endroit"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Echangez, publiez des mises à jour, répondez aux questions, prenez des "
+"notes, commentez et faites en sorte que toutes les discussions soient "
+"marquées par des notifications par e-mail et SMS en temps réel."
+
+msgid "Share with confidence"
+msgstr "Partager en toute confiance"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Partagez des documents et des photos entre les clients et les membres de "
+"l&#39;équipe sur tous les appareils, afin que tout le monde soit à jour."
+
+msgid "Take it on the go"
+msgstr "À emporter"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Utilisez des appareils mobiles tels que des tablettes et des smartphones "
+"pour collaborer sur des détails clés, discuter de problèmes majeurs, "
+"échanger des documents et suivre la progression du cas en temps réel."
+
+msgid "Immediate records access"
+msgstr "Accès immédiat aux enregistrements"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Les utilisateurs autorisés peuvent accéder rapidement aux données des "
+"clients et aux informations sur les cas (y compris les cas actuels, passés, "
+"ouverts, fermés et en attente), le tout via un seul portail."
+
+msgid "Automatic timezone conversion"
+msgstr "Conversion automatique du fuseau horaire"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Que vous voyagiez ou séjourniez dans un autre endroit, vous serez en phase "
+"avec notre système de gestion des conversations de fuseau horaire."
+
+msgid "Track Events"
+msgstr "Les épreuves de piste"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Planifiez rapidement des réunions, surveillez les événements à venir et "
+"invitez des clients et des membres de l’équipe en tant que participants."
+
+msgid "Video Conferencing"
+msgstr "Vidéo conférence"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Connectez-vous avec les clients et les membres de l&#39;équipe via des "
+"discussions vidéo en direct pour encore plus d&#39;interactivité."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatisez les tâches lorsqu'un cas est créé ou qu'un utilisateur est "
+"affecté à un cas."
+
+msgid "Automated Alerts"
+msgstr "Alertes Automatisées"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Vous souhaitez souhaiter à vos clients un joyeux anniversaire? Configurez un"
+" message automatique pour les clients passés et actuels pour leur journée "
+"spéciale!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Garder les détails du client à jour"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Les clients peuvent modifier leurs profils avec des données, des photos, des"
+" mots de passe et des paramètres de compte mis à jour."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Posez des questions, obtenez des réponses."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Créez des formulaires personnalisés et envoyez-les aux clients pour "
+"qu&#39;ils soient complétés. Rassemblez les informations essentielles, "
+"fournissez des enquêtes de sortie et obtenez toutes les données dont vous "
+"avez besoin pour bien faire votre travail!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Directeur des Ventes de Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Rendez la facturation client aussi simple que possible avec les factures et "
+"les paiements en ligne."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Nous adorons la facturation des cas car elle permet aux clients de savoir "
+"exactement ce pour quoi ils paient."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Vice-président de Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Profitez de la facilité de la signature électronique"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Déconnectez électroniquement tous les documents via DocSign, en utilisant "
+"les documents téléchargés et les demandes et confirmations de signature "
+"client numérique."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Téléchargez un document, marquez-le pour signature, puis le client se "
+"connecte et le signe électroniquement. Tout se fait sans que le client n'ait"
+" à entrer dans notre bâtiment. Ceci est pratique pour les clients qui ne "
+"sont pas proches d'un bureau ou qui vivent à l'extérieur de l'État."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Directeur des opérations de Capital Insurance"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Améliorez votre système. Moins de travail, plus de résultats."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Utiliser la fonctionnalité administrative libre-service"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Prenez le contrôle total de votre suite de gestion CaseActive depuis la "
+"plateforme elle-même."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Liez sans effort votre système existant avec CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Intégrez notre API propriétaire pour créer automatiquement des cas, affecter"
+" des utilisateurs et générer des rapports en fonction de vos entrées "
+"système."
+
+msgid "Acting as a"
+msgstr "Agissant en tant que"
+
+msgid "virtual administrative assistant"
+msgstr "assistant administratif virtuel"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive vous permet de gérer les documents et les supports de manière "
+"simplifiée,"
+
+msgid "client-to-customer communications"
+msgstr "communications client à client"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "planification d&#39;événements et traitement étape par étape des cas."
+
+msgid "Self-Serve Administration"
+msgstr "Administration libre-service"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"En tant qu&#39;assistant administratif virtuel, CaseActive vous offre une "
+"gestion rationalisée des documents et des supports, des communications "
+"privées de client à client, la planification d&#39;événements et le "
+"traitement étape par étape des cas."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Gérer les connexions utilisateur et la création de cas"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Supervisez directement la création de comptes utilisateurs tout en "
+"autorisant leurs autorisations d&#39;accès au cas par cas. Gérez la "
+"création, la progression et la clôture des dossiers, avec des rapports "
+"complets à chaque étape."
+
+msgid "View Caseactive Analytics"
+msgstr "Voir Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Voyez exactement comment un dossier progresse, le nombre de dossiers "
+"clôturés avec succès et consultez les temps de réponse via le module "
+"d&#39;analyse approfondie de CaseActive. La connaissance c&#39;est le "
+"pouvoir, et nous vous avons donné tout ce qu&#39;il faut savoir sur vos "
+"propres projets."
+
+msgid "Monitor User Logs"
+msgstr "Surveiller les journaux d&#39;utilisateurs"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Gardez un œil sur les connexions des clients et des membres de l&#39;équipe "
+"et sur l&#39;activité de la plateforme pour vous assurer que toutes leurs "
+"actions sont autorisées dans les paramètres du dossier et que tous les "
+"membres remplissent leurs fonctions comme requis."
+
+msgid "Employ Advanced Searches"
+msgstr "Employer des recherches avancées"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Trouvez exactement ce dont vous avez besoin quand vous en avez besoin. "
+"Recherchez des cas par nom d&#39;utilisateur et de client, mots clés, "
+"chronologie, documents téléchargés et bien plus encore!"
+
+msgid "Create Custom Fields"
+msgstr "Créer des champs personnalisés"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Générez des champs de cas spécialisés pour la saisie des clients et des "
+"membres de l&#39;équipe et collectez les données dont vous avez besoin "
+"auprès de toutes les personnes impliquées. Rendez l&#39;interface du boîtier"
+" unique à votre entreprise et à votre marque!"
+
+msgid "Create Custom Templates"
+msgstr "Créer des modèles personnalisés"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Développez une énorme gamme de formulaires et de modèles personnalisés pour "
+"la distribution et l&#39;achèvement pendant et après un cas (comme les "
+"enquêtes de sortie des clients). Quelle que soit la forme dont vous avez "
+"besoin, vous pouvez créer!"
+
+msgid "Violet Cherry"
+msgstr "Cerise violette"
+
+msgid "As-You-Go Invoicing"
+msgstr "Facturation au fur et à mesure"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Nous sommes là pour vous aider! Contactez-nous si vous avez encore des "
+"questions et nous vous répondrons dans les deux jours ouvrables."
+
+msgid "* Email is not valid."
+msgstr "* L&#39;email n&#39;est pas valide."
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "High"
+msgstr "Haute"
+
+msgid "Critical"
+msgstr "Critique"
+
+msgid "Choose Importance"
+msgstr "Choisissez l&#39;importance"
+
+msgid "Department"
+msgstr "département"
+
+msgid "Sales"
+msgstr "Ventes"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Choose Department"
+msgstr "Choisissez un département"
+
+msgid "Loading"
+msgstr "Chargement"
+
+msgid "Importance"
+msgstr "Importance"
+
+msgid "Send A New Message"
+msgstr "Envoyer un nouveau message"
+
+msgid "Send message"
+msgstr "Envoyer le message"
+
+msgid "Answers to Questions"
+msgstr "Réponses aux questions"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Avez-vous des questions? Lisez davantage de conseils dans nos réponses aux "
+"questions des clients et trouvez les réponses aux vôtres."
+
+msgid "How secure is CaseActive?"
+msgstr "À quel point CaseActive est-il sécurisé ?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive utilise un cryptage SSL 128 bits de qualité militaire et bancaire"
+" pour la transmission des données et un cryptage AES 256 bits pour les "
+"données au repos. Chaque instance CaseActive a une clé unique générée, "
+"offrant une couche de sécurité supplémentaire pour votre entreprise. Nous "
+"n'autoriserons jamais une autre entreprise à accéder à votre base de données"
+" ou à votre système de stockage."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"J'ai un système existant en place, CaseActive peut-il fonctionner avec mon "
+"système existant ?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Oui, vous pouvez intégrer notre API propriétaire ou module d'importation "
+"pour créer automatiquement des cas, affecter des utilisateurs et générer des"
+" rapports en fonction de votre entrée système."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Nous avons des clients partout dans le monde. CaseActive est-il disponible "
+"dans d'autres langues ?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Oui, l'application et la communication CaseActive peuvent être traduites "
+"dans plus de 60 langues, dont le chinois mandarin, l'espagnol, l'hindi et le"
+" russe ainsi que l'anglais."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Puis-je ajouter un logo ou personnaliser CaseActive de quelque manière que "
+"ce soit ?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Absolument! CaseActive a été conçu en pensant à vous. Sur la page de "
+"configuration du panneau d'administration, vous pouvez télécharger votre "
+"propre couleur personnelle et choisir les couleurs de votre entreprise."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"CaseActive est-il compatible avec n'importe quel appareil (PC, Mac, Tablette"
+" et Mobile) ?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive est une application Web réactive. Il fonctionne dans n'importe "
+"quel navigateur Web comme Internet Explorer, Firefox, Safari ou Chrome, etc."
+" Cela signifie que le type d'appareil (PC, Mac, tablette et mobile) que vous"
+" utilisez ne fait aucune différence. Ouvrez simplement le navigateur Web, "
+"connectez-vous à votre compte CaseActive et vous êtes prêt."
+
+msgid "How many clients can I have?"
+msgstr "Combien de clients puis-je avoir ?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Vous êtes facturé par siège de personnel, par mois. Vous pouvez avoir un "
+"nombre illimité d'utilisateurs clients."
+
+msgid "Enhance User Experience"
+msgstr "Améliorer l'expérience utilisateur"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Il n'y a pas de frais minimum et aucun engagement initial. Vous ne payez que"
+" par siège de personnel, par mois."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "par mois"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Tout ce dont vous avez besoin pour commencer. 3 sièges sont inclus."
+
+msgid "Business"
+msgstr "Entreprise"
+
+msgid "Popular"
+msgstr "Populaire"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Notre plan le plus populaire. 4 sièges sont inclus."
+
+msgid "Enterprise"
+msgstr "Entreprise"
+
+msgid "Contact sales for pricing"
+msgstr "Contactez le service commercial pour connaître les tarifs"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Tarification personnalisée, fonctionnalités avancées, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Contacter le service commercial"
+
+msgid "Overview"
+msgstr "Aperçu"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Communiquez et partagez des documents avec vos clients"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Planifier des événements et des réunions récurrents"
+
+msgid "Fully customize your form to generate data"
+msgstr "Personnalisez entièrement votre formulaire pour générer des données"
+
+msgid "Keep track of case progression"
+msgstr "Suivre l'évolution du dossier"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr ""
+"Demander des signatures électroniques conformes à plusieurs utilisateurs"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Générez une facture que votre client pourra consulter ou payer"
+
+msgid "ToDos"
+msgstr "À faire"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Permet à chacun de savoir ce qui arrive et ce qui est dû"
+
+msgid "Auto notify the user when something is due"
+msgstr "Avertir automatiquement l'utilisateur lorsque quelque chose est dû"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Ajoutez des champs de cas personnalisés pour tous vos cas"
+
+msgid "Custom Branding"
+msgstr "Image de marque personnalisée"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Rendez votre application unique avec des styles de logo et de couleur"
+
+msgid "Access to customer support"
+msgstr "Accès au support client"
+
+msgid "Storage"
+msgstr "Stockage"
+
+msgid "Unlimited"
+msgstr "Illimité"
+
+msgid "Additional Users Seats"
+msgstr "Sièges d'utilisateurs supplémentaires"
+
+msgid "N/A"
+msgstr "N / A"
+
+msgid "$83.34"
+msgstr "$83.34"
+
+msgid "Convo with recording"
+msgstr "Convo avec enregistrement"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Chat vidéo ou audio avec enregistrement enregistré dans le boîtier"
+
+msgid "API Access"
+msgstr "Accès API"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatisez les tâches avec accès à l'API"
+
+msgid "Module Templates"
+msgstr "Modèles de modules"
+
+msgid "Create a standard template and reuse it"
+msgstr "Créer un modèle standard et le réutiliser"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Exécuter automatiquement une action lorsqu'un cas ou un cas attribué est "
+"déclenché"
+
+msgid "Newsletter"
+msgstr "Bulletin"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Envoyer des messages généraux, d'anniversaire ou de vacances aux clients (à "
+"venir)"
+
+msgid "Encryption at rest"
+msgstr "Chiffrement au repos"
+
+msgid "Protects your data from system compromise"
+msgstr "Protège vos données contre la compromission du système"
+
+msgid "Encryption in transit"
+msgstr "Chiffrement en transit"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Protège vos données si les communications sont interceptées"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Authentification unique (SSO) basée sur SAML"
+
+msgid "Respond realtime to events"
+msgstr "Répondre en temps réel aux événements"
+
+msgid "Seamless Collaboration"
+msgstr "Collaboration fluide"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive rationalise la collaboration numérique entre votre entreprise et "
+"vos clients - de la consultation à la résolution, le tout sur une seule "
+"plateforme."
+
+msgid "Take a tour"
+msgstr "Faire un tour"
+
+msgid "Stay Connected"
+msgstr "Rester connecté"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Maintenez un contact instantané avec les membres de l&#39;équipe en "
+"utilisant l&#39;interface conviviale de CaseActive comme centre unique pour "
+"la gestion des clients et des cas."
+
+msgid "Connect"
+msgstr "Relier"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed vous permet de rester à jour avec vos clients."
+
+msgid "Schedule"
+msgstr "Programme"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Créez des événements, invitez des participants et surveillez votre "
+"calendrier."
+
+msgid "Call"
+msgstr "Appel"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Participer à des appels de vidéoconférence en direct à tout moment, "
+"n&#39;importe où."
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr ""
+"Téléchargez des fichiers en toute sécurité, discutez-en et partagez-les."
+
+msgid "Powerful Case Management"
+msgstr "Gestion de cas puissante"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Fonctionnalité prête à l&#39;emploi"
+
+msgid "Easily assign individuals"
+msgstr "Assigner facilement des individus"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "ou des équipes à un cas et collaborer avec les clients."
+
+msgid "Manage user groups"
+msgstr "Gérer les groupes d&#39;utilisateurs"
+
+msgid "and customize access permissions."
+msgstr "et personnaliser les autorisations d&#39;accès."
+
+msgid "All data is automatically backed up"
+msgstr "Toutes les données sont automatiquement sauvegardées"
+
+msgid "in case a recovery is ever needed."
+msgstr "au cas où une récupération est nécessaire."
+
+msgid "All information"
+msgstr "Toutes les informations"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr ""
+"est crypté en toute sécurité, garantissant votre confidentialité absolue."
+
+msgid "Customize"
+msgstr "Personnaliser"
+
+msgid "with your own colors and logo."
+msgstr "avec vos propres couleurs et logo."
+
+msgid "can be enabled/disabled at any time."
+msgstr "peut être activé / désactivé à tout moment."
+
+msgid "Benefits of "
+msgstr "Bénéfices de"
+
+msgid "Reduction in time "
+msgstr "Réduction du temps"
+
+msgid "to intake new clients"
+msgstr "pour accueillir de nouveaux clients"
+
+msgid "Minimize "
+msgstr "Minimiser"
+
+msgid "the chance of "
+msgstr "la chance de"
+
+msgid "malpractice"
+msgstr "faute professionnelle"
+
+msgid "Better experience "
+msgstr "Meilleure expérience"
+
+msgid "for your client"
+msgstr "pour votre client"
+
+msgid "Increase in caseload capacity "
+msgstr "Augmentation de la capacité de charge de travail"
+
+msgid "per staff"
+msgstr "par personnel"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Commencez avec nos applications intégrées"
+
+msgid "All you need in one place."
+msgstr "Tout ce dont vous avez besoin au même endroit."
+
+msgid "Case Feed"
+msgstr "Flux de cas"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Attribuez facilement un client, du personnel et des associés à un dossier et"
+" engagez-vous dans un espace sécurisé qui vous permet de publier la "
+"progression du dossier, d&#39;avoir des conversations en temps réel et des "
+"conversations vidéo, ainsi que de planifier des événements, de signer / "
+"télécharger / télécharger des documents par e-mail et beaucoup plus."
+
+msgid "Case Invoices"
+msgstr "Factures de cas"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Avec la facturation au fur et à mesure, la facturation client est à portée "
+"de clic et vous permet d&#39;envoyer des demandes de fonds générées "
+"automatiquement et de recevoir des paiements directs en retour."
+
+msgid "Case Events"
+msgstr "Événements de cas"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Gardez votre calendrier de cas organisé en tout temps, planifiez des "
+"événements, invitez des participants, envoyez des rappels d&#39;événements "
+"et assurez-vous que tout reste sur la bonne voie."
+
+msgid "Case Convo"
+msgstr "Message de cas"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Rencontrez les clients et les membres de l&#39;équipe pratiquement «en face "
+"à face» grâce à la vidéoconférence intégrée afin que vous puissiez parler "
+"directement avec toutes les personnes impliquées."
+
+msgid "Case Forms & E-signs"
+msgstr "Formulaires de cas et signes électroniques"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Personnalisez entièrement votre formulaire de cas pour générer des modèles "
+"uniques qui répondent à vos besoins spécifiques. Ces modèles peuvent ensuite"
+" être distribués aux clients et aux membres de l&#39;équipe pour remplir et "
+"signer"
+
+msgid "Case notes"
+msgstr "Notes de cas"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Conservez des notes avec des champs personnalisés et des pièces jointes sur "
+"la progression du dossier pour les membres actuels et futurs de l'équipe"
+
+msgid "Case Media"
+msgstr "Cas Médias"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Téléchargez, partagez, commentez et téléchargez des fichiers relatifs à "
+"l'affaire afin que chacun ait une référence sur tous les détails, personnes "
+"et situations importants."
+
+msgid "About Case"
+msgstr "À propos de cas"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Laissez les clients et le personnel afficher les détails généraux des "
+"dossiers dans lesquels ils sont impliqués. Vous pouvez ensuite fermer le "
+"dossier une fois que tout est terminé, ou autoriser un membre de "
+"l&#39;équipe à le faire."
+
+msgid "Plus Many More Features"
+msgstr "Plus de nombreuses autres fonctionnalités"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Utilisez la fonction d&#39;administration libre-service Prenez le contrôle "
+"total de votre suite de gestion CaseActive à partir de la plateforme elle-"
+"même."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Reliez sans effort votre système existant à CaseActive Intégrez notre API "
+"propriétaire pour créer automatiquement des cas, affecter des utilisateurs "
+"et générer des rapports en fonction de vos entrées système."
+
+msgid "Multi-Language Enabled:"
+msgstr "Multi-langue activée:"
+
+msgid "Interact with clients in"
+msgstr "Interagir avec les clients de"
+
+msgid "70+ languages"
+msgstr "Plus de 70 langues"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Que vous travailliez localement ou dans le monde entier, vous pouvez "
+"traduire la langue maternelle de votre client à travers celle de CaseActive."
+
+msgid "language management system"
+msgstr "système de gestion de la langue"
+
+msgid "No more confusion or limits."
+msgstr "Plus de confusion ou de limites."
+
+msgid "Let's see what others are saying"
+msgstr "Voyons ce que disent les autres"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Découvrez comment nos formidables clients, des petites entreprises aux "
+"entreprises, ont accru leur avantage concurrentiel en devenant des guerriers"
+" CaseActive."
+
+msgid "SUPPORT"
+msgstr "SOUTIEN"
+
+msgid "Everything at Your Fingertips."
+msgstr "Tout à portée de main."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Commencez avec votre application CaseActive en suivant notre guide vidéo et "
+"personnalisez-le en fonction de vos besoins."
+
+msgid "What are you looking for..."
+msgstr "Que cherchez-vous..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Dernière mise à jour : 7 juin 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive se réserve le droit, à tout moment et à sa seule discrétion, de "
+"mettre à jour et de modifier tout ou partie de ces Conditions "
+"d&#39;utilisation. Lorsque CaseActive modifie ces conditions "
+"d&#39;utilisation, CaseActive modifie la date de «dernière mise à jour» ci-"
+"dessus. Vous êtes responsable de la révision régulière de la version la plus"
+" récente du service. Votre utilisation continue des Services après que de "
+"telles modifications ont été apportées constituera votre consentement à être"
+" lié par ces modifications. Si vous vous opposez à toute modification des "
+"présentes Conditions d&#39;utilisation, votre seul et unique recours sera de"
+" résilier les Services conformément aux présentes conditions."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Ces conditions générales de service s&#39;appliquent aux services en "
+"général. Les conditions supplémentaires applicables à chaque service offert "
+"sont énoncées dans les liens fournis ci-dessous (les «Conditions "
+"d&#39;utilisation supplémentaires»)."
+
+msgid "1. Services:"
+msgstr "1. Services:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Notre logiciel propriétaire est une plateforme de services que nous "
+"hébergeons pour nos clients afin d&#39;offrir les services détaillés ci-"
+"dessous. Pour vous abonner à un service, vous devez exécuter un bon de "
+"commande pour ce service et / ou compléter le flux d&#39;inscription pour ce"
+" service. Vous êtes uniquement autorisé à utiliser les Services pour "
+"lesquels vous avez souscrit et payé, et votre utilisation des Services est "
+"soumise à votre respect de toutes les conditions générales du Contrat. Vous "
+"reconnaissez et acceptez que nous nous réservons le droit de modifier les "
+"Services (ou toute partie de ceux-ci) de temps à autre et que nous ne serons"
+" pas responsables envers vous ou envers un tiers de toute modification des "
+"Services."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Description du service CaseActive: CaseActive Service est la suite de "
+"services logiciels hébergés pour la gestion de la collaboration client en "
+"ligne offerte par CaseActive LLC. Le flux d'inscription que vous avez "
+"accepté, ou le Bon de commande que vous avez exécuté, identifie le Service "
+"CaseActive auquel vous avez souscrit, la durée de l'abonnement et les frais "
+"que vous devez payer pour le Service CaseActive. Les conditions générales "
+"supplémentaires applicables à votre utilisation du Service CaseActive sont "
+"énoncées à l'adresse suivante:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Élargir les services:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Vous pouvez vous abonner à tout service supplémentaire, y compris les "
+"nouveaux services qui peuvent être mis à disposition par CaseActive de temps"
+" à autre, ou augmenter vos services existants en exécutant un bon de "
+"commande ou un flux d&#39;inscription supplémentaire, dans le cadre des "
+"services. Chaque nouveau flux d&#39;inscription ou bon de commande "
+"comprendra le prix et la ou les dates de facturation des services ajoutés à "
+"ce moment. Tous les nouveaux services sont soumis aux présentes conditions "
+"générales de service et à toute condition supplémentaire pouvant "
+"s&#39;appliquer spécifiquement à ces services supplémentaires."
+
+msgid "3. Customer Support:"
+msgstr "3. Support client:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"À condition que vous ayez payé tous les frais que vous devez payer pour les "
+"Services, nous déploierons des efforts commercialement raisonnables pour "
+"vous fournir, sans frais, des services de support technique à vous et à vos "
+"utilisateurs autorisés qui ont souscrit aux Services. Un représentant du "
+"service client sera affecté à vos dossiers. Des cas illimités sont acceptés "
+"des utilisateurs autorisés. Notre support standard est disponible 24h / 24 "
+"et 7j / 7, à l&#39;exception des jours fériés majeurs, qui comprennent le "
+"Memorial Day, le Jour de l&#39;Indépendance, la Fête du Travail, "
+"l&#39;Action de grâces, Noël et le Nouvel An. Vous pouvez contacter le "
+"service client en utilisant notre"
+
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Notre délai de réponse ne doit pas dépasser deux jours ouvrables."
+
+msgid "4. Training:"
+msgstr "4. formation:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Pourvu que vous ayez payé tous les frais que vous devez payer pour les "
+"Services, nous mettrons à disposition des sessions de formation à distance, "
+"en direct ou enregistrées à vos utilisateurs désignés, nommés et autorisés, "
+"ainsi que des tutoriels accessibles via la section Aide et formation de "
+"notre site Web à l&#39;adresse sans frais supplémentaires. Pour certains "
+"services, nous fournissons une formation sur site sur demande et moyennant "
+"des frais supplémentaires. Veuillez nous contacter en utilisant notre"
+
+msgid "for more information about on-site training."
+msgstr "pour plus d&#39;informations sur la formation sur site."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Vos droits et restrictions:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Licence: sous réserve des termes et conditions de l&#39;accord, et lors "
+"du paiement en temps opportun de tous les frais applicables énoncés dans le "
+"formulaire de commande ou le flux d&#39;inscription, nous vous accordons par"
+" la présente un droit limité non exclusif, non transférable et licence pour "
+"utiliser (et permettre à vos utilisateurs autorisés d&#39;utiliser) les "
+"Services auxquels vous êtes abonné, uniquement à des fins commerciales "
+"internes."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Utilisateurs autorisés: vous (i) êtes responsable de la conformité de "
+"vos utilisateurs autorisés avec le Contrat, et (ii) déploierez des efforts "
+"commercialement raisonnables pour empêcher tout accès ou utilisation non "
+"autorisés des Services et nous aviserez immédiatement de tout accès non "
+"autorisé ou utilisation. Il est de votre responsabilité de supprimer "
+"l&#39;accès aux Services si le statut autorisé d&#39;un utilisateur ou "
+"d&#39;un employé désigné change."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Vos responsabilités et restrictions: Vous êtes responsable de toutes les"
+" activités qui se produisent sous vos comptes d&#39;utilisateur ou par vos "
+"utilisateurs autorisés. Vous devez: (i) être seul responsable de "
+"l&#39;exactitude, de la qualité, de l&#39;intégrité, de la légalité, de la "
+"fiabilité et de la pertinence de toutes les données que vous soumettez aux "
+"Services; (ii) déployer des efforts commercialement raisonnables pour "
+"empêcher tout contrôle ou toute altération non autorisés ou tout autre accès"
+" ou utilisation non autorisés des Services et nous informer rapidement de "
+"toute utilisation non autorisée ou violation de la sécurité; (iii) se "
+"conformer à toutes les lois locales, étatiques, fédérales et étrangères "
+"applicables (y compris les lois concernant la confidentialité et la "
+"protection des informations personnelles ou des consommateurs) lors de "
+"l&#39;utilisation des Services; (iv) dans la mesure applicable, se conformer"
+" à toutes les règles applicables des associations de cartes de crédit (y "
+"compris American Express, MasterCard et Visa); et (v) obtenir et entretenir "
+"tout le matériel informatique, les logiciels et le matériel de communication"
+" nécessaires pour accéder aux Services, et payer tous les frais d&#39;accès "
+"(par exemple les frais de FAI) encourus par vous dans le cadre de votre "
+"utilisation des Services."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Vous ne pouvez pas, et vous devez vous assurer que vos utilisateurs "
+"autorisés ne (i) désassemblent pas, désossent, décompilent ou tentent de "
+"toute autre manière de déchiffrer un code en relation avec les Services, ou "
+"de modifier, adapter, créer des œuvres dérivées basées sur, ou traduire le "
+"Prestations de service; (ii) concéder sous licence, sous-licencier, vendre, "
+"louer, céder, distribuer, transférer en multipropriété, louer, prêter, "
+"revendre à des fins lucratives, distribuer ou autrement exploiter "
+"commercialement, octroyer des droits ou mettre les Services à la disposition"
+" de tout tiers; (iii) utiliser les Services, sauf autorisation expresse en "
+"vertu des présentes ou en violation de toute loi applicable; (iv) "
+"s&#39;engager dans des pratiques commerciales illégales ou trompeuses en ce "
+"qui concerne les Services; (v) contourner ou désactiver toute sécurité ou "
+"toute autre caractéristique technique ou mesure des Services ou tout autre "
+"aspect du Logiciel ou, de quelque manière que ce soit, tenter d&#39;obtenir "
+"ou d&#39;obtenir un accès non autorisé aux Services ou aux systèmes ou "
+"réseaux informatiques associés; (vi) utiliser les Services pour transmettre "
+"du matériel contrefait, diffamatoire, obscène, menaçant ou autrement "
+"illégal, dangereux, malveillant, abusif ou délictueux, ou pour stocker ou "
+"transmettre du matériel en violation des droits de confidentialité des "
+"tiers; (vii) utiliser le Service pour stocker ou transmettre des virus, "
+"vers, bombes à retardement, chevaux de Troie et autres codes, fichiers, "
+"scripts, agents ou programmes nuisibles ou malveillants, ou pour envoyer du "
+"spam ou des messages duplicatifs ou non sollicités en violation des lois "
+"applicables ; ou (viii) interférer avec ou perturber l&#39;intégrité ou la "
+"performance des Services ou des données de tiers qui y sont contenues."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Réserve de droits: aucun autre droit n&#39;est accordé, sauf dans les "
+"cas expressément prévus dans l&#39;accord. L&#39;Accord n&#39;est pas une "
+"vente et ne confère aucun droit ni aucune propriété sur les Services ou tout"
+" logiciel sous-jacent, ni sur ces derniers. Nous détenons tous les droits, "
+"titres et intérêts, y compris tous les droits de propriété intellectuelle, "
+"sur les Services et le logiciel sous-jacent et toutes les mises à jour, "
+"mises à niveau, modifications, améliorations, améliorations ou travaux "
+"dérivés de ceux-ci, et en toute idée, comment et les programmes développés "
+"par nous ou nos concédants de licence au cours de l&#39;exécution des "
+"Services."
+
+msgid "6. Term and Termination:"
+msgstr "6. Durée et résiliation:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Durée: La durée des Services varie en fonction du Service auquel vous "
+"avez souscrit et doit être indiquée sur le Bon de commande ou acceptée dans "
+"le flux d&#39;inscription et sera renouvelée comme suit:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Durée du service CaseActive: votre abonnement au service CaseActive "
+"sera automatiquement renouvelé pour des périodes successives d&#39;un mois "
+"ou d&#39;un an, comme indiqué sur le bon de commande ou le flux "
+"d&#39;inscription, sauf si nous interrompons le service que vous nous "
+"fournissez avec un avis de non-renouvellement au moins trente (30) jours "
+"avant l&#39;expiration de la période alors en cours."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Durée des services du site Web CaseActive: votre abonnement aux "
+"services du site Web CaseActive sera automatiquement renouvelé pour des "
+"périodes successives d&#39;un mois ou d&#39;un an, comme indiqué sur le bon "
+"de commande ou le flux d&#39;inscription, sauf si nous interrompons le "
+"service ou si vous nous fournissez. avec un avis de non-renouvellement au "
+"moins trente (30) jours avant l&#39;expiration de la période alors en cours."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Un avis écrit de non-renouvellement de votre part doit être soumis à "
+"CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Résiliation: Chaque partie peut résilier le Contrat et tous les "
+"abonnements au Service (i) si l&#39;autre partie manque à l&#39;une de ses "
+"obligations matérielles en vertu du Contrat et que cette violation n&#39;est"
+" pas corrigée dans les trente (30) jours suivant la réception de l&#39;avis "
+"de non-violation ou (ii) si l&#39;autre partie devient insolvable ou en "
+"faillite, liquidée ou dissoute, ou cesse la quasi-totalité de ses activités."
+" Nous pouvons résilier le contrat immédiatement en cas de violation de la "
+"section 5.3 ci-dessus. En cas de résiliation du Contrat, vous cesserez "
+"immédiatement toute utilisation des Services, cesserez de déclarer sous "
+"quelque forme que ce soit que vous êtes un utilisateur des Services, et de "
+"détruire toutes nos Informations confidentielles en votre possession. Aucune"
+" des parties ne sera responsable des dommages résultant de la résiliation du"
+" Contrat ou des abonnements aux Services tels que prévus aux présentes; "
+"étant entendu, cependant, que la résiliation du Contrat n&#39;affectera "
+"aucune réclamation née avant cette résiliation."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Traitement de vos données en cas de résiliation: Vous reconnaissez et "
+"acceptez qu&#39;à la suite de l&#39;expiration ou de la résiliation de "
+"l&#39;un de vos abonnements aux Services, nous pouvons immédiatement "
+"désactiver les Services concernés et que, après un délai raisonnable "
+"d&#39;au moins quatre-vingt-dix (90) ) jours, peut supprimer votre compte et"
+" vos données. Cependant, dans le cas où nous résilierions les Services, nous"
+" vous accorderons un accès temporaire et limité aux Services, ne dépassant "
+"pas trente (30) jours, dans le seul but de vous permettre de récupérer vos "
+"données propriétaires, à condition que: vous avez payé intégralement tous "
+"les montants non contestés de bonne foi qui nous sont dus. Vous acceptez en "
+"outre que nous ne serons pas responsables envers vous ou envers un tiers de "
+"la résiliation de votre accès aux Services ou de la suppression de vos "
+"données, à condition que nous respections les termes de cette section 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Frais:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Frais de service: Vous devrez payer les frais non remboursables pour les"
+" services selon le montant indiqué dans le processus d&#39;inscription ou le"
+" formulaire de commande (`` frais de service &#39;&#39;) et selon la "
+"fréquence de facturation indiquée dans le processus d&#39;inscription ou la "
+"commande. Forme. Les frais de service sont dus et payables à la date de la "
+"facture. Les frais de service peuvent être augmentés en fonction de nos "
+"frais alors en vigueur. Les frais de service ne sont pas remboursables même "
+"si vous résiliez votre abonnement prématurément."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Frais supplémentaires: Vous pouvez encourir d&#39;autres frais ou frais "
+"non remboursables pour votre utilisation des Services en plus des frais "
+"indiqués dans le Bon de commande et / ou le flux d&#39;inscription. Les "
+"frais et frais supplémentaires non remboursables sont définis dans les "
+"conditions supplémentaires du service applicable."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Paiements en retard: Vous reconnaissez que votre non-paiement de tous "
+"frais ou charges à leur échéance peut entraîner la suspension ou la "
+"résiliation de vos abonnements aux produits CaseActive. Si vous ne payez "
+"aucun des frais ou charges dus en vertu des présentes, CaseActive se réserve"
+" le droit d&#39;engager une agence de recouvrement pour percevoir les frais "
+"et charges et vous devrez payer tous les frais encourus par CaseActive dans "
+"le cadre de la collecte de ces montants en souffrance, y compris , sans "
+"limitation, les honoraires raisonnables d&#39;avocats et d&#39;agences de "
+"recouvrement plus les intérêts d&#39;un montant égal au moindre de 1,0% par "
+"mois ou du taux maximum autorisé par la loi applicable."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Taxes: Vous serez responsable de toutes les taxes de vente, taxes "
+"d&#39;utilisation, taxes sur la valeur ajoutée, retenues à la source et "
+"toutes autres taxes et charges similaires de toute nature imposées par les "
+"entités gouvernementales fédérales, étatiques ou locales sur les "
+"transactions envisagées par l&#39;accord. Lorsque nous avons "
+"l&#39;obligation légale de payer ou de percevoir les taxes dont vous êtes "
+"responsable, conformément à la présente section, le montant approprié doit "
+"vous être facturé et payé, à moins que vous ne nous fournissiez un "
+"certificat d&#39;exonération fiscale valide autorisé par l&#39;autorité "
+"fiscale compétente."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Déclarations et garanties:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Déclarations et garanties mutuelles: chaque partie déclare et garantit à"
+" l&#39;autre partie que (i) elle a tous les pouvoirs nécessaires pour "
+"conclure et exécuter ses obligations en vertu de l&#39;accord sans le "
+"consentement d&#39;un tiers ou la violation de tout contrat ou accord avec "
+"tout tiers, (ii) toutes les personnes qui s&#39;acquittent de toute "
+"obligation aux termes des présentes ont conclu tous les accords nécessaires "
+"pour se conformer aux termes et conditions de l&#39;accord, et (iii) il doit"
+" se conformer dans tous ses aspects matériels à toutes les lois applicables "
+"aux les services."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Déclarations et garanties supplémentaires: Vous nous garantissez, "
+"déclarez et vous engagez à n&#39;utiliser les Services qu&#39;à des fins "
+"légales conformément à l&#39;Accord et à toutes les politiques et directives"
+" applicables de CaseActive."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Déni de garantie: SAUF LES GARANTIES EXPRESSES ÉNONCÉES DANS CETTE "
+"SECTION 8, DANS LA MESURE MAXIMALE AUTORISÉE PAR LA LOI APPLICABLE, NOUS NE "
+"FOURNISSONS AUCUNE AUTRE GARANTIE, EXPRESSE, IMPLICITE, LÉGALE OU AUTRE, EN "
+"LOI OU PAR UN COURS DE TRAITEMENT OU D&#39;UTILISATION DU COMMERCE, POUR "
+"TOUTE QUESTION, Y COMPRIS CEUX DE QUALITÉ MARCHANDE, DE QUALITÉ "
+"SATISFAISANTE, DE TITRE, D&#39;ADAPTATION À UN USAGE PARTICULIER OU DE NON-"
+"CONTREFAÇON. NOUS NE GARANTISSONS PAS QUE LE LOGICIEL OU LES SERVICES "
+"RÉPONDRE À TOUTES VOS EXIGENCES, Y COMPRIS LES EXIGENCES COMPTABLES, OU QUE "
+"L&#39;UTILISATION DU LOGICIEL OU DES SERVICES SERA ININTERROMPUE OU SANS "
+"ERREUR. LE LOGICIEL ET LES SERVICES VOUS SONT FOURNIS «TELS QUELS» ET VOTRE "
+"UTILISATION DU LOGICIEL ET DES SERVICES EST À VOS PROPRES RISQUES, Y "
+"COMPRIS, SANS LIMITATION, LE RESPECT DE TOUTES LOIS. LES PARTIES "
+"RECONNAISSENT EXPRESSÉMENT QUE LA DÉNI DE GARANTIE CONSTITUE UNE PARTIE "
+"ESSENTIELLE DU CONTRAT."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"NOUS DÉCLINONS TOUTE DÉCLARATION OU GARANTIE QUE VOTRE UTILISATION DES "
+"SERVICES SERA SATISFAIT OU ASSURERA LE RESPECT DE TOUTES OBLIGATIONS, LOIS "
+"OU RÈGLEMENTS JURIDIQUES. CET AVIS DE NON-RESPONSABILITÉ S&#39;APPLIQUE MAIS"
+" N&#39;EST PAS LIMITÉ À TOUT STATUT OU RÉGLEMENTATION FÉDÉRALE OU D&#39;ÉTAT"
+" QUI PEUT VOUS ÊTRE APPLICABLE. VOUS ÊTES SEUL RESPONSABLE D&#39;ASSURER QUE"
+" VOTRE UTILISATION DES SERVICES EST CONFORME À LA LOI APPLICABLE."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"SI VOUS N&#39;ÊTES PAS SATISFAIT DES SERVICES OU DU PRÉSENT CONTRAT, VOTRE "
+"SEUL ET UNIQUE RECOURS EST DE CESSER D&#39;UTILISER LES SERVICES."
+
+msgid "9. Confidential Information:"
+msgstr "9. Informations confidentielles:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Sauf autorisation expresse de l&#39;autre partie, aucune des parties ne "
+"divulguera à un tiers les informations ou documents fournis par l&#39;autre "
+"partie dans le cadre du contrat et raisonnablement considérés comme "
+"confidentiels (`` informations confidentielles &#39;&#39;), ou "
+"n&#39;utilisera ces informations confidentielles de quelque manière que ce "
+"soit d&#39;autre que d&#39;exécuter ses obligations en vertu de "
+"l&#39;Accord. Les restrictions ci-dessus ne s&#39;appliquent à aucune "
+"information qui est dans le domaine public ou déjà en la possession de la "
+"partie destinataire, était connue de la partie destinataire avant la date de"
+" divulgation ou devient par la suite connue de la partie destinataire par un"
+" tiers ayant une droit de bonne foi de divulguer les informations ou les "
+"informations confidentielles que la partie destinataire est tenue de "
+"produire conformément à une ordonnance d&#39;un tribunal compétent ou à une "
+"assignation administrative valide, à condition que la partie destinataire "
+"fournisse à la partie divulgatrice un avis en temps opportun d&#39;un tel "
+"tribunal ordre ou assignation. En outre, vous vous assurerez que vos "
+"utilisateurs autorisés conserveront en toute confidentialité tous les mots "
+"de passe et autres informations d&#39;accès aux Services. Cette section 9 "
+"survivra à la résiliation ou à l&#39;expiration de cet accord."
+
+msgid "10. Indemnification:"
+msgstr "10. Indemnisation:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Indemnisation pour violation: sous réserve de la section 10.4, nous "
+"vous défendrons, à nos frais, contre toute réclamation de tiers intentée "
+"contre vous qui allègue que les services enfreignent tout brevet américain "
+"délivré à un tiers à la date d&#39;entrée en vigueur; ou enfreindre tout "
+"droit d&#39;auteur, marque commerciale ou secret commercial d&#39;un tiers "
+"(collectivement dénommé la «propriété intellectuelle sous-jacente aux "
+"services»). Dans le cas où une injonction est demandée ou obtenue contre "
+"l&#39;utilisation de la propriété intellectuelle sous-jacente aux services "
+"ou, à notre avis, est susceptible d&#39;être demandée ou obtenue, nous "
+"allons, à notre choix et à nos frais, soit (i) vous procurer pour vous et "
+"votre les utilisateurs autorisés ont le droit de continuer à utiliser les "
+"Services, ou (ii) de remplacer ou de modifier les Services pour rendre leur "
+"utilisation non-violente tout en étant en mesure d&#39;exécuter sensiblement"
+" la même fonction. Dans le cas où les sous-sections (i) et (ii) ci-dessus ne"
+" sont pas commercialement réalisables, nous pouvons résilier les services et"
+" rembourser les frais de service prépayés, mais non utilisés. Nous ne serons"
+" pas obligés de défendre ou d&#39;être responsables de tout coût ou dommage "
+"en vertu de la présente section 10.1 si l&#39;infraction alléguée découle ou"
+" est imputable de quelque manière que ce soit à (i) toute modification de "
+"tout service par vous (ou l&#39;un de vos utilisateurs désignés) ou (ii) "
+"l&#39;utilisation des Services en combinaison avec des services et produits "
+"non fournis par CaseActive si une telle violation aurait été évitée sans une"
+" telle modification ou combinaison, ou (iii) le respect de vos conceptions "
+"ou instructions ou (iv) une réclamation qui n&#39;indique pas avec précision"
+" que les Services font l&#39;objet de la réclamation (chacun étant une "
+"«réclamation exclue»). Les obligations d&#39;indemnisation contenues dans la"
+" présente section 10.1 survivront à toute résiliation ou expiration de cet "
+"accord."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Indemnisation pour la sécurité et la confidentialité des données: sous "
+"réserve de l&#39;article 10.4, et pendant la durée de votre abonnement aux "
+"services, nous vous défendrons, à nos frais, contre toute réclamation de "
+"tiers contre vous alléguant notre négligence grave dans la prévention "
+"d&#39;un accès non autorisé. à, ou notre faute intentionnelle dans la "
+"divulgation, des informations personnellement identifiables de vos clients "
+"en notre possession ou sous notre contrôle. Cette indemnité ne "
+"s&#39;appliquera pas dans la mesure où une telle réclamation découle ou se "
+"rapporte à votre négligence ou faute intentionnelle ou à celle de vos agents"
+" ou représentants, ou dans la mesure où la responsabilité est rejetée ou "
+"limitée par l&#39;une ou l&#39;autre des parties en vertu de l&#39;Accord. "
+"Les obligations d&#39;indemnisation énoncées dans cette section dépendent de"
+" votre preuve que notre négligence grave ou notre faute intentionnelle a "
+"entraîné directement et de manière immédiate l&#39;accès non autorisé ou la "
+"divulgation d&#39;informations personnellement identifiables de vos clients "
+"en notre possession ou sous notre contrôle."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Votre indemnisation: Vous vous engagez à indemniser, dégager de toute "
+"responsabilité et nous défendre ainsi que tous nos employés, dirigeants, "
+"administrateurs et agents contre toutes réclamations, demandes, poursuites, "
+"procédures, enquêtes, dommages, coûts, dépenses, pertes et tout autre les "
+"responsabilités (y compris les honoraires raisonnables d&#39;avocat, les "
+"frais de justice et les frais de justice) découlant de ou liées à (i) votre "
+"utilisation des Services en violation du Contrat, (ii) une Réclamation "
+"exclue, (iii) toute violation réelle ou alléguée de votre part de toute "
+"représentation, garantie, engagement ou obligation en vertu de l&#39;Accord,"
+" ou (iv) votre négligence grave ou faute intentionnelle. Vos obligations "
+"d&#39;indemnisation en vertu de la présente section 10.3 survivront à toute "
+"résiliation ou expiration de l&#39;accord."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Notification et coopération: Les obligations de la partie indemnisante "
+"envers la partie indemnisée en vertu de la présente section 10 ci-dessus "
+"sont subordonnées à (i) la partie indemnisée notifiant la partie "
+"indemnisante rapidement par écrit, dès la connaissance de toute réclamation,"
+" pour laquelle elle peut avoir droit à une indemnisation en vertu du Contrat"
+" ; (ii) dans la mesure applicable, la partie indemnisée cessant "
+"d&#39;utiliser les Services contrefaits revendiqués dès réception de la "
+"notification de ceux-ci; (iii) partie indemnisée permettant à la partie "
+"indemnisante d&#39;avoir le droit exclusif de contrôler la défense et le "
+"règlement d&#39;une telle réclamation (à condition que la partie "
+"indemnisante ne puisse régler aucune réclamation sans le consentement de la "
+"partie indemnisée à moins que le règlement dégage inconditionnellement la "
+"partie indemnisée de toute responsabilité); (iv) partie indemnisée "
+"fournissant une assistance raisonnable à la partie indemnisante, aux frais "
+"de la partie indemnisante, pour la défense d&#39;une telle réclamation; (v) "
+"la partie indemnisée ne concluant aucun accord de règlement ou ne réglant "
+"autrement une telle réclamation sans le consentement ou la demande écrite "
+"préalable expresse de la partie indemnisante; et (vi) la partie indemnisée "
+"se conformant à tout règlement ou ordonnance du tribunal rendue en relation "
+"avec la réclamation (liée à l&#39;utilisation future de tout matériel "
+"contrefait). La partie indemnisée peut participer à la défense ou au "
+"règlement d&#39;une réclamation avec l&#39;avocat de son choix et à ses "
+"frais."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Recours exclusif: Cet article 10 énonce la seule responsabilité de la "
+"partie indemnisante envers l&#39;autre partie et le recours exclusif de la "
+"partie indemnisée contre tout type de réclamation décrit dans la présente "
+"section."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Limite de responsabilité:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"SAUF EN CE QUI CONCERNE LES DOMMAGES LIÉS À UNE VIOLATION DES ARTICLES 5.3 "
+"OU 12, DANS LA MESURE MAXIMALE AUTORISÉE PAR LA LOI, EN AUCUN CAS, LA "
+"RESPONSABILITÉ CUMULATIVE TOTALE DE LA PARTIE DÉCOULANT OU LIÉE À "
+"L&#39;ACCORD DÉPASSERA LA SOMME DES MONTANTS PAYÉS PAR VOUS POUR LES "
+"SERVICES ACCUSANT LA RESPONSABILITÉ PENDANT LA PÉRIODE D&#39;UN AN PRÉCÉDANT"
+" IMMÉDIATEMENT LA DATE DE LA CAUSE DE L&#39;ACTION AROSE."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"SAUF EN CE QUI CONCERNE LES DOMMAGES LIÉS À UNE VIOLATION DES ARTICLES 5.3 "
+"OU 12, DANS LA MESURE MAXIMALE AUTORISÉE PAR LA LOI, EN AUCUN CAS, PARTIE "
+"HERETO, SES CONCÉDANTS DE LICENCE OU SES FOURNISSEURS, N&#39;ONT TOUTE "
+"RESPONSABILITÉ ENVERS L&#39;AUTRE PARTIE POUR TOUT PROFIT PERDU OU COÛT "
+"D&#39;APPROVISIONNEMENT DE BIENS OU DE SERVICES DE REMPLACEMENT OU POUR TOUT"
+" DOMMAGE INDIRECT, SPÉCIAL, CONSÉCUTIF, EXEMPLAIRE OU ACCESSOIRE, TOUTEFOIS "
+"CAUSÉ ET FONDÉ SUR TOUTE THÉORIE DE LA RESPONSABILITÉ (Y COMPRIS LA "
+"NÉGLIGENCE), DÉCOULANT DE L&#39;ACCORD, DE L&#39;EXÉCUTION OU DE LA NON-"
+"EXÉCUTION DE LA PART D&#39;UNE AUTRE PARTIE SES OBLIGATIONS CI-DESSOUS, QUE "
+"CETTE PARTIE SOIT OU NON INFORMÉE DE LA POSSIBILITÉ DE TELS DOMMAGES."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"PARCE QUE CERTAINS ÉTATS / JURIDICTIONS N&#39;AUTORISENT PAS L&#39;EXCLUSION"
+" OU LA LIMITATION DE RESPONSABILITÉ POUR LES DOMMAGES INDIRECTS OU "
+"ACCESSOIRES, LA LIMITATION CI-DESSUS PEUT NE PAS S&#39;APPLIQUER À VOUS, "
+"DANS CE CAS, NOTRE RESPONSABILITÉ SERA LIMITÉE À LA MESURE MAXIMALE "
+"AUTORISÉE PAR LA LOI."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Informations personnelles et déclaration de confidentialité:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Vous vous conformerez à toutes les lois, règles, réglementations et "
+"directives applicables en matière de confidentialité et autres concernant la"
+" protection, la collecte, l&#39;utilisation et la distribution des "
+"informations personnellement identifiables (telles que définies ci-dessous) "
+"de toute personne. Vous publierez une déclaration de confidentialité sur la "
+"page où vous collectez des informations personnellement identifiables (`` "
+"déclaration de confidentialité &#39;&#39;) qui est conforme à toutes les "
+"lois, règles, réglementations et directives applicables et, au minimum, "
+"informe les utilisateurs des informations personnellement identifiables "
+"collectées, comment elles sera utilisé et comment il sera sécurisé, et qui "
+"identifie la méthode de collecte (cookies, balises Web ou autres moyens "
+"applicables) et l&#39;utilisation des informations collectées dans le cadre "
+"des Services, en obtenant un consentement préalable en connaissance de cause"
+" (opt-in) avant d&#39;utiliser tout les technologies de suivi, dans la "
+"mesure requise par les lois et règlements applicables. Une telle déclaration"
+" de confidentialité comprend également des informations techniques liées à "
+"la collecte, à la transmission et au stockage des informations "
+"personnellement identifiables fournies par nous via les Services. Si la "
+"législation applicable en matière de protection des données ou toute autre "
+"loi ou réglementation l&#39;exige, vous informerez les tiers que vous nous "
+"fournissez leurs informations personnellement identifiables à des fins de "
+"traitement et vous vous assurerez que tout tiers requis a donné son "
+"consentement à une telle divulgation et traitement. Vous acceptez de vous "
+"conformer aux descriptions et aux dispositions de la déclaration de "
+"confidentialité. `` Informations personnellement identifiables &#39;&#39; "
+"désigne toute information qui peut être associée ou retracée à une personne,"
+" y compris le nom, l&#39;adresse, le numéro de téléphone, l&#39;adresse "
+"e-mail, les informations de carte de crédit, le numéro de sécurité sociale "
+"ou d&#39;autres informations factuelles spécifiques similaires, "
+"indépendamment de le support sur lequel ces informations sont stockées (par "
+"exemple sur papier ou par voie électronique)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Divers:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Parties indépendantes: vous et CaseActive êtes des entrepreneurs "
+"indépendants. L&#39;Accord ne crée aucune coentreprise, partenariat, agence "
+"ou relation d&#39;emploi entre les parties. Vous serez seul responsable de "
+"la gestion de vos employés et de toutes les rémunérations, taxes, avantages "
+"et responsabilités envers vos employés et l&#39;un de vos autres "
+"représentants ou prestataires de services. Ni vous, ni aucun de vos "
+"employés, représentants ou prestataires de services ne devez faire de "
+"déclarations, de garanties ou de garanties à notre égard, le Contrat ou les "
+"Services autrement que ce que nous avons expressément autorisé par écrit."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Cession: Ni l&#39;accord ni aucun de vos droits ou obligations en vertu"
+" de l&#39;accord ne peuvent être cédés ou transférés, en vertu de la loi ou "
+"autrement, sans notre consentement écrit préalable, sauf si cédés à un "
+"successeur dans l&#39;intérêt, ou en vertu d&#39;une fusion, entreprise une "
+"réorganisation, ou une vente ou un transfert de la totalité ou de la quasi-"
+"totalité de vos actifs dont vous nous fournissez un avis au moins trente "
+"(30) jours avant la réalisation de la transaction. Une cession de votre "
+"part, fondée sur toute autre circonstance, nécessite notre consentement "
+"préalable, lequel consentement ne doit pas être refusé sans motif "
+"raisonnable. Nous pouvons librement céder le présent accord sans votre "
+"consentement. Sous réserve de ce qui précède, le présent accord lie et prend"
+" effet au profit des parties, de leurs successeurs respectifs et ayants "
+"droit autorisés."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force Majeure: Aucune des parties ne sera responsable de tout retard, "
+"interruption ou autre manquement à l&#39;exécution en vertu du Contrat en "
+"raison d&#39;actes indépendants de la volonté de la partie responsable, mais"
+" uniquement aussi longtemps que ces conditions persistent. Les événements de"
+" force majeure comprennent, sans s&#39;y limiter: les catastrophes "
+"naturelles (par exemple, foudre, tremblements de terre, ouragans, "
+"inondations); guerres, émeutes, activités terroristes et troubles civils; "
+"les activités d&#39;un opérateur local et d&#39;autres actes de tiers; "
+"explosions et incendies; embargos, grèves et conflits du travail; décrets "
+"gouvernementaux; les défaillances des fournisseurs de télécommunications ou "
+"des fournisseurs de services Internet; les défaillances de fournisseurs, "
+"prestataires de services ou vendeurs tiers; et toute autre cause échappant "
+"au contrôle raisonnable d&#39;une partie."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Choix de la loi: L&#39;accord et tout litige découlant de ou en "
+"relation avec l&#39;accord seront régis et interprétés en vertu des lois de "
+"l&#39;État de Californie, sans égard aux principes de conflit de lois. Tous "
+"les litiges découlant de ou liés à l&#39;accord seront soumis à la "
+"juridiction et au lieu exclusifs des tribunaux d&#39;État et fédéraux de "
+"Californie à Santa Barbara, en Californie, et les parties consentent à la "
+"compétence personnelle et exclusive de ces tribunaux."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-mail et avis: Vous acceptez en outre que nous puissions vous fournir "
+"tous les avis, déclarations et autres communications par e-mail, courrier, "
+"service de livraison express ou livrés par un transporteur commercial "
+"reconnu adressé à la dernière adresse désignée sur l&#39;accord. Vous êtes "
+"responsable de nous fournir toute information de contact mise à jour."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Aucune renonciation; Recours cumulatifs: Aucun manquement ou retard de "
+"l&#39;une ou l&#39;autre des parties dans l&#39;exercice d&#39;un droit en "
+"vertu du présent Accord ne constituera une renonciation à ce droit. À "
+"l&#39;exception de ce qui est expressément indiqué dans les présentes, les "
+"recours prévus aux présentes s&#39;ajoutent et ne sont pas exclusifs à tout "
+"autre recours d&#39;une partie en droit ou en équité."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Divisibilité: si une disposition du présent accord est jugée contraire "
+"à la loi par un tribunal compétent, la disposition sera modifiée par le "
+"tribunal et interprétée de manière à atteindre au mieux les objectifs de la "
+"disposition d&#39;origine dans toute la mesure permise par et les autres "
+"dispositions du présent accord resteront pleinement en vigueur."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Intégralité de l&#39;accord: dans toute la mesure permise par la loi "
+"applicable, le présent accord, ainsi que les documents référencés dans le "
+"présent document et tous les bons de commande et les flux d&#39;inscription,"
+" constituent l&#39;intégralité de l&#39;accord entre les parties quant à son"
+" objet et remplacent tous les précédents et accords, propositions ou "
+"représentations contemporains, écrits ou oraux, concernant l&#39;objet du "
+"présent accord. Aucune représentation, engagement ou promesse ne doit être "
+"considérée comme ayant été donnée ou implicite de quoi que ce soit dit ou "
+"écrit dans les négociations entre les parties avant le présent accord, sauf "
+"indication expresse contraire dans le présent accord. Aucune des parties "
+"n&#39;aura de recours en ce qui concerne toute déclaration fausse faite par "
+"l&#39;autre sur laquelle cette partie s&#39;est appuyée pour conclure le "
+"présent accord (à moins qu&#39;une telle déclaration fausse n&#39;ait été "
+"faite frauduleusement) et que le seul recours d&#39;une partie en ce qui "
+"concerne toute déclaration fausse sera de rupture de contrat conformément au"
+" présent accord. Vous reconnaissez et acceptez que votre accord ci-dessous "
+"ne dépend pas de la livraison de fonctionnalités ou fonctionnalités futures "
+"non spécifiées ici ou dans un bon de commande ou dépend de tout commentaire "
+"oral ou écrit, public ou privé que nous faisons à l&#39;égard de "
+"fonctionnalités ou fonctionnalités futures pour les Services. En cas de "
+"conflit entre les dispositions des présentes conditions générales de service"
+" et tout formulaire de commande ou conditions de service supplémentaires, "
+"les conditions de ce formulaire de commande ou des conditions de service "
+"supplémentaires prévaudront, dans la mesure d&#39;un tel conflit. Aucune "
+"modalité ou condition énoncée dans votre bon de commande ou dans tout autre "
+"document de votre commande ne doit être incorporée ou faire partie de cet "
+"accord, et toutes ces modalités ou conditions seront nulles et non avenues."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Exportation: Les deux parties conviennent de se conformer aux lois et "
+"réglementations américaines applicables en matière d&#39;exportation et "
+"d&#39;importation. Vous ne devez pas autoriser vos utilisateurs à accéder "
+"aux Services ou à les utiliser en violation de tout embargo, interdiction ou"
+" restriction d&#39;exportation des États-Unis."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publicité: Nous ne pouvons pas vous nommer en tant qu&#39;utilisateur "
+"des Services sans votre consentement écrit."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Liens vers des sites tiers: les services ou notre site Web peuvent "
+"inclure des liens vers des sites tiers («sites liés»). Les sites liés ne "
+"sont pas sous notre contrôle et nous ne sommes pas responsables du contenu "
+"de tout site lié, y compris, sans s&#39;y limiter, tout lien contenu dans un"
+" site lié, ou toute modification ou mise à jour d&#39;un site lié ou des "
+"services fournis via un site lié. Nous vous fournissons ces liens uniquement"
+" pour votre commodité, et l&#39;inclusion de tout lien n&#39;implique pas "
+"l&#39;approbation par nous du site ou des services associés fournis par le "
+"site."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Vous consentez à recevoir des e-mails, des appels téléphoniques et des"
+" messages SMS de CaseActive pour fournir des mises à jour sur votre commande"
+" et/ou à des fins de marketing. La fréquence des messages dépend de votre "
+"activité. Vous pouvez vous désinscrire en décochant les notifications de "
+"votre compte ou en supprimant votre compte. Des messages et débits de "
+"données peuvent être appliqués."
+
+msgid "An error occurred"
+msgstr "Une erreur s'est produite"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Quelque chose s'est mal passé. Nos ingénieurs ont été prévenus. Appuyez sur "
+"le bouton de rechargement pour recharger."
+
+msgid "Reload"
+msgstr "Recharger"

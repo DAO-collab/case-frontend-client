@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Bala likarolo tsohle tsa linyeoe ka botlalo",
+    "write": "Ngola sebaka sa linyeoe tsohle ka botlalo"
+  },
+  "convos": {
+    "read_all": "Sheba boemo ba hona joale ba convos.",
+    "manage_own": "Kopanya le ho tlosa convo.",
+    "moderate_others": "Qala puisano, emisa convo, &#39;me u tlose monka-karolo.",
+    "read_all_submissions": "Bala convos tsohle tse rekotiloeng."
+  },
+  "events": {
+    "read_all": "Bala liketsahalo tsohle.",
+    "manage_own": "Theha, ntlafatsa le ho hlakola ketsahalo ea hau.",
+    "moderate_others": "Ntlafatsa le ho hlakola ketsahalo ea ba bang.",
+    "read_all_submissions": "Bala litiiso tsohle tsa ketsahalo.",
+    "submit_own": "Netefatsa kopo ea ho ba teng ketsahalong."
+  },
+  "posts": {
+    "read_all": "Bala lintlha tsohle.",
+    "manage_own": "Iketsetse, ntlafatsa le ho hlakola poso ea hau.",
+    "moderate_others": "Ntlafatsa le ho hlakola poso ea ba bang."
+  },
+  "forms": {
+    "read_all": "Bala liforomo tsohle.",
+    "manage_own": "Iketsetse, ntlafatsa le ho hlakola foromo ea hau.",
+    "moderate_others": "Ntlafatsa le ho hlakola foromo ea ba bang.",
+    "read_all_submissions": "Bala litlhahiso tsohle tsa foromo.",
+    "submit_own": "Kenya kopo ea foromo."
+  },
+  "invoices": {
+    "read_all": "Bala li-invoice tsohle.",
+    "manage_own": "Theha, ntlafatsa le ho hlakola invoice ea hau.",
+    "moderate_others": "Ntlafatsa le ho hlakola invoice ea ba bang.",
+    "read_all_submissions": "Bala tlhahiso eohle ea li-invoice.",
+    "submit_own": "Kenya kopo ea invoice."
+  },
+  "notes": {
+    "read_all": "Bala lintlha tsohle.",
+    "manage_own": "Theha, ntlafatsa le ho hlakola molaetsa oa hau.",
+    "moderate_others": "Ntlafatsa le ho hlakola molaetsa oa ba bang."
+  },
+  "signs": {
+    "read_all": "Bala mat\u0161oao ohle a elektronike.",
+    "manage_own": "Iketsetse, nchafatsa, &#39;me u hlakole e-sign ea hau.",
+    "moderate_others": "Ntlafatsa le ho hlakola e-sign ea ba bang.",
+    "read_all_submissions": "Bala litlhahiso tsohle tsa e-sign.",
+    "submit_own": "Kenya kopo ea sebaka."
+  },
+  "tasks": {
+    "read_all": "Bala mesebetsi eohle.",
+    "manage_own": "Iketsetse, ntlafatsa le ho hlakola mosebetsi oa hau.",
+    "moderate_others": "Ntlafatsa le ho hlakola mesebetsi ea ba bang.",
+    "read_all_submissions": "Bala litlhaloso tsohle tsa mosebetsi.",
+    "submit_own": "Kenya kopo ea mosebetsi."
+  },
+  "team": { "read_all": "Bala sehlopha haeba ho le joalo" }
+}

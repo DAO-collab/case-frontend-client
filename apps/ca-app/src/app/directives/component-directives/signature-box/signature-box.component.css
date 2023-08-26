@@ -1,0 +1,98 @@
+canvas {
+  border: 1px dashed #818181;
+  cursor: crosshair;
+  border-radius: 5px;
+  background: #fcfdfe;
+}
+
+.box-inner {
+  margin-bottom: 0 !important;
+  padding-bottom: 30px !important;
+  width: 700px !important;
+}
+
+div.tabs {
+  border: 0;
+  margin: 0;
+  padding-top: 30px;
+}
+
+div.tabs ul {
+  border: 0;
+  margin-bottom: 5px;
+  background-color: transparent;
+}
+
+.custom-fields-group h2 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.tabs > ul > li > a {
+  cursor: auto;
+}
+
+.draw-tab {
+  display: flex;
+  flex-direction: column;
+}
+
+.canvas-color {
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+}
+
+.canvas-color-item-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.canvas-color-item {
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  padding: 3px;
+}
+
+.canvas-color-item.selected-item {
+  border: 4px solid blue;
+}
+
+.top-item-wrapper {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.submit {
+  margin-bottom: 0;
+}
+
+.clear-signature-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+
+.clear-signature {
+  margin-bottom: 20px;
+}
+
+.signature-text-input {
+  text-align: center;
+  font-size: 16px !important;
+}

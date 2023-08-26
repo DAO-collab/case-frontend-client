@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Read all case field specify in role", "write": "Write all case field specify in role" },
+  "convos": {
+    "read_all": "View current status of convos.",
+    "manage_own": "Join and unjoin convo.",
+    "moderate_others": "Start convo, end convo, and remove participant.",
+    "read_all_submissions": "Read all recorded convos."
+  },
+  "events": {
+    "read_all": "Read all events.",
+    "manage_own": "Create, update and delete own event.",
+    "moderate_others": "Update and delete other's event.",
+    "read_all_submissions": "Read all event confirmations.",
+    "submit_own": "Confirm event attendance request."
+  },
+  "posts": {
+    "read_all": "Read all posts.",
+    "manage_own": "Create, update and delete own post.",
+    "moderate_others": "Update and delete other's post."
+  },
+  "forms": {
+    "read_all": "Read all forms.",
+    "manage_own": "Create, update and delete own form.",
+    "moderate_others": "Update and delete other's form.",
+    "read_all_submissions": "Read all form submissions.",
+    "submit_own": "Submit form request."
+  },
+  "invoices": {
+    "read_all": "Read all invoices.",
+    "manage_own": "Create, update and delete own invoice.",
+    "moderate_others": "Update and delete other's invoice.",
+    "read_all_submissions": "Read all invoice submissions.",
+    "submit_own": "Submit invoice request."
+  },
+  "notes": {
+    "read_all": "Read all notes.",
+    "manage_own": "Create, update and delete own note.",
+    "moderate_others": "Update and delete other's note."
+  },
+  "signs": {
+    "read_all": "Read all e-signs.",
+    "manage_own": "Create, update and delete own e-sign.",
+    "moderate_others": "Update and delete other's e-sign.",
+    "read_all_submissions": "Read all e-sign submissions.",
+    "submit_own": "Submit field request."
+  },
+  "tasks": {
+    "read_all": "Read all tasks.",
+    "manage_own": "Create, update and delete own task.",
+    "moderate_others": "Update and delete other's task.",
+    "read_all_submissions": "Read all task submissions.",
+    "submit_own": "Submit task request."
+  },
+  "team": { "read_all": "Read team in case" }
+}

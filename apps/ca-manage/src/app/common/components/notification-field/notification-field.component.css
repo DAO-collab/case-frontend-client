@@ -1,0 +1,40 @@
+.ntf-item {
+  display: inline-block;
+  vertical-align: top;
+  width: 110px;
+  max-height: 40px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.ntf-item input {
+  height: 39px;
+  max-width: 100%;
+}
+
+.line-block {
+  padding: 4px 4px;
+  background: #fff;
+  margin: 0;
+}
+
+.ntf-item > span {
+  font-size: 15px;
+  line-height: 40px;
+  padding: 0 3px;
+  display: block;
+  min-width: 100px;
+}
+
+.ntf-item.input-remove {
+  min-height: 40px;
+  max-width: 30px;
+}
+
+.ntf-item:nth-child(2) {
+  width: 56px;
+}
+
+.margin-10px {
+  margin-left: 10px;
+}

@@ -1,0 +1,124 @@
+.unsubscribe-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 0 !important;
+  align-items: center;
+}
+
+.company-name {
+  display: inline-block;
+  width: 60%;
+}
+
+.unsubscribe-img {
+  margin: 0;
+}
+
+.introductory-text {
+  max-width: 398px;
+  margin: 23px 27px 24px 0;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: #667074;
+}
+
+.unsubscribe-submit {
+  margin-bottom: 19px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.submit button {
+  float: none;
+  display: inline;
+  margin: 0 0 0 25px;
+}
+
+.reasons-content {
+  margin-bottom: 46px;
+}
+
+.reason-body {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.unsubscribe-radio {
+  height: 20px !important;
+  width: 20px !important;
+  margin: 0 12px 0 0;
+  border: solid 1px #dbdbdb;
+  background-color: #f8fafb;
+  display: inline-block;
+}
+
+.unsubscribe-radio:focus {
+  box-shadow: none !important;
+}
+
+.unsubscribe-reason-text {
+  width: 277px;
+  height: 14px;
+  margin: 3px 0 3px 0;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4b5153;
+}
+
+.unsubscribe-radio:checked:after {
+  background-color: #16b0c5;
+  border-color: #16b0c5;
+}
+
+.unsubscribe-radio {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  outline: none;
+  padding: 0 !important;
+}
+
+.unsubscribe-radio:before {
+  content: '';
+  display: block;
+  width: 60%;
+  height: 60%;
+  margin: 3.5px 4px;
+  border-radius: 50%;
+}
+
+.unsubscribe-radio:checked:before {
+  background-color: #16b0c5;
+  border-color: #16b0c5;
+}
+
+.position-fixed {
+  position: fixed;
+}
+
+.thank-you-page-wrapper {
+  height: 202.4px;
+  margin-bottom: 46px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-width: 47.5em) {
+  .unsubscribe-submit button[type='submit'] {
+    width: 76.8625px !important;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Wanneer &#39;n plasing by stroom gevoeg word",
+  "app_confirmation_events": "Event rsvp word van my versoek",
+  "app_submission_events": "My gebeurtenis rsvp is beantwoord",
+  "app_requested_forms": "Vorm indiening word van my versoek",
+  "app_submission_forms": "My vorm word deur iemand ingedien",
+  "app_requested_signs": "Handtekening indiening word van my versoek",
+  "app_submission_signs": "My dokument is deur iemand onderteken",
+  "app_requested_tasks": "Taak word van my versoek",
+  "app_submission_tasks": "My taak word deur iemand voltooi",
+  "app_requested_invoices": "Inhandiging van faktuur word van my versoek",
+  "app_submission_invoices": "My faktuur word deur iemand betaal"
+}

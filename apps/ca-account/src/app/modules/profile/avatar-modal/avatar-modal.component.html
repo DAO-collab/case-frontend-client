@@ -1,0 +1,23 @@
+<ng-template #content let-c="close" let-d="dismiss">
+  <form (submit)="uploadAvatar()">
+    <image-cropper
+      [imageChangedEvent]="imageChangedEvent"
+      [resizeToWidth]="200"
+      [cropperMinWidth]="200"
+      format="png"
+      (imageCropped)="imageCropped($event)"
+      (imageLoaded)="imageLoaded()"
+      (loadImageFailed)="loadImageFailed()"
+    ></image-cropper>
+
+    <img [src]="croppedImage" />
+
+    <p class="submit">
+      <button class="btn" type="submit">
+        <span *ngIf="!saving" translate>Save</span>
+        <span *ngIf="saving" translate>Saving...</span>
+      </button>
+      <a (click)="cancelAction()" translate>Cancel</a>
+    </p>
+  </form>
+</ng-template>

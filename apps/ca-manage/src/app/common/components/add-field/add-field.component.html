@@ -1,0 +1,31 @@
+<h3 class="a" translate>Fields</h3>
+
+<p class="input-a">
+  <label>Field Type</label>
+  <ng-container>
+    <div class="select-wrap">
+      <ng-select
+        id="newFieldType"
+        class="cform-types cursor-pointer select-padding-left"
+        name="new-field-type"
+        bindLabel="text"
+        bindValue="value"
+        placeholder="Select Field Type"
+        [items]="ngSelectValues"
+        [formControl]="fieldType"
+        (change)="onFormTypeChange()"
+      ></ng-select>
+    </div>
+  </ng-container>
+  <a
+    class="btn cform-type-add"
+    [ngClass]="{
+      'disabled-link': !fieldType.value,
+      'add-field-button': fieldType.value
+    }"
+    (click)="addField()"
+    translate
+    >Add Field</a
+  >
+  <img src="/images/illustrations/create_custom_fields.svg" alt="Placeholder" width="160" height="102" />
+</p>

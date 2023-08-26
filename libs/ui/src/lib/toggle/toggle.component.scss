@@ -1,0 +1,48 @@
+$default-color: rgb(23, 176, 196);
+$half-color: rgb(23, 176, 196, 0.5);
+$disabled: #b6bdc9;
+
+
+
+mat-slide-toggle {
+  --default-color: var(--host-background-color, $default-color);
+  --opacity: 0.5;
+  border-color: var(--host-background-color, $default-color);
+  background-color: transparent;
+  color: var(--host-text-color, $default-color);
+  // padding: 6px 16px;
+  // margin-top: 0;
+  // margin: var(--margin);
+  // font-size: 14px;
+  // line-height: 14px;
+  // font-weight: inherit;
+  // border-radius: 4px;
+  // display: flex;
+  // align-items: flex-end;
+  // gap: 8px;
+  // text-transform: none;
+  // height: 30px;
+  transition: all .7s;
+  --mdc-switch-selected-track-color: var(--host-background-color, $half-color)!important;
+  --mdc-switch-selected-focus-state-layer-color: var(--host-background-color, $default-color) !important;;
+  --mdc-switch-selected-handle-color: var(--host-background-color, $default-color) !important;;
+  --mdc-switch-selected-hover-state-layer-color: var(--host-background-color, $default-color) !important;;
+  --mdc-switch-selected-pressed-state-layer-color: var(--host-background-color, $default-color) !important;;
+  --mdc-switch-selected-focus-handle-color: var(--host-background-color, $default-color) !important;;
+  --mdc-switch-selected-hover-handle-color: var(--host-background-color, $default-color) !important;;
+  --mdc-switch-selected-pressed-handle-color: var(--host-background-color, $default-color) !important;;
+  --mdc-switch-selected-focus-track-color: var(--host-background-color, $half-color) !important;;
+  --mdc-switch-selected-hover-track-color: var(--host-background-color, $half-color) !important;;
+  --mdc-switch-selected-pressed-track-color: var(--host-background-color, $half-color) !important;;
+
+  @media (max-width: 1000px) {
+    font-size: 12px;
+
+    .icon-plus {
+      font-size: 15px;
+    }
+  }
+}
+.mat-mdc-slide-toggle .mdc-form-field{
+    color: red!important;
+}

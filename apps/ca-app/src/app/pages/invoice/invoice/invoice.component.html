@@ -1,0 +1,279 @@
+<article *ngIf="permissions && !permissions['read_all'] && !loading">
+  <p class="notice-a" *ngIf="permissions && !loading && !permissions['read_all']" translate>
+    You don't have permissions to view this page.
+  </p>
+  <div *ngIf="loading" class="loading-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<div class="module-d" *ngIf="!permissions && loading">
+  <div>
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</div>
+<div class="invoice-wrap" *ngIf="permissions && permissions['read_all']">
+  <div class="module-d tabs custom-tabs-text-color">
+    <ul class="tabs-ul">
+      <li [ngClass]="{ active: showTypeInvoices === 'unpaid' }">
+        <a class="desktop-show" (click)="loadInvoices('unpaid')" translate>Your Unpaid Invoices</a>
+        <a class="mobile-show" (click)="loadInvoices('unpaid')" translate>Unpaid</a>
+      </li>
+      <li [ngClass]="{ active: showTypeInvoices === 'paid' }">
+        <a class="desktop-show" (click)="loadInvoices('paid')" translate>Your Paid Invoices</a>
+        <a class="mobile-show" (click)="loadInvoices('paid')" translate>Paid</a>
+      </li>
+      <li
+        class="mobile-show-last-tab"
+        [ngClass]="{ active: showTypeInvoices === $any('all') }"
+        *ngIf="!permissions['moderate_others']"
+      >
+        <a class="desktop-show" (click)="loadInvoices('all')" translate>Your Invoices</a>
+        <a class="mobile-show" (click)="loadInvoices('all')" translate>All</a>
+      </li>
+      <li
+        class="mobile-show-last-tab"
+        [ngClass]="{ active: showTypeInvoices === $any('all') }"
+        *ngIf="permissions['moderate_others']"
+      >
+        <a class="desktop-show" (click)="loadInvoices('all')" translate>All Invoices</a>
+        <a class="mobile-show" (click)="loadInvoices('all')" translate>All</a>
+      </li>
+    </ul>
+
+    <div *ngIf="allInvoices">
+      <div class="news-d" *ngIf="allInvoices.items?.length && !loading">
+        <div>
+          <article>
+            <div class="table-wrapper">
+              <table class="table-b a">
+                <tbody>
+                  <tr>
+                    <th translate>Invoice Title</th>
+                    <th translate>Author</th>
+                    <th translate>Due Date</th>
+                    <th translate>Status</th>
+                    <th
+                      *ngIf="
+                        showTypeInvoices === $any('all') && (permissions['manage_own'] || permissions['moderate_others'])
+                      "
+                      translate
+                    >
+                      Published
+                    </th>
+                    <!--                  <th *ngIf="showAllForms" translate>Submissions</th>-->
+                    <th translate>Action</th>
+                  </tr>
+                  <tr *ngFor="let invoice of allInvoices.items; let ind = index">
+                    <td class="truncate">{{ invoice.name }}</td>
+                    <td>
+                      {{
+                        teamData[invoice.user_id]
+                          ? teamData[invoice.user_id].given_name + ' ' + teamData[invoice.user_id].family_name
+                          : ''
+                      }}
+                    </td>
+                    <td>{{ invoice.due_date | date : 'fullDate' }}</td>
+                    <td class="status" [ngClass]="'status-' + invoice.status">
+                      <app-svg-icon class="status-icon" [icon]="'status-' + invoice.status" [height]="18" [width]="18">
+                      </app-svg-icon>
+                      <span>{{ invoice.status | titlecase }}</span>
+                    </td>
+                    <td *ngIf="showTypeInvoices === $any('all')">
+                      <!--                    <label-->
+                      <!--                      style="width: 20px"-->
+                      <!--                      class="checkbox-container centered-checkbox"-->
+                      <!--                      *ngIf="(permissions['manage_own'] && invoice.user_id === userData.user_id) || permissions['moderate_others']"-->
+                      <!--                    >-->
+                      <!--                      <input-->
+                      <!--                        #publishedCheckbox-->
+                      <!--                        type="checkbox"-->
+                      <!--                        [(ngModel)]="invoice.published"-->
+                      <!--                        [disabled]="!invoice?.transactions?.transactions?.length || publishingInvoice"-->
+                      <!--                        [title]="!invoice?.transactions?.transactions?.length ? 'Please finish building the invoice first' : ''"-->
+                      <!--                        (change)="togglePublished(publishedCheckbox, invoice)"-->
+                      <!--                      />-->
+                      <!--                      <span style="margin: 0" class="checkmark"></span>-->
+                      <!--                    </label>-->
+
+                      <!-- <material-slide-toggle
+                        class="material-switch-with-checkmark"
+                        #publishedCheckbox
+                        [ngClass]="{
+                          'material-switch-disabled':
+                            !invoice?.transactions?.transactions?.length || publishingInvoice || invoice?.published
+                        }"
+                        [name]="'slideToggle'"
+                        [checked]="invoice.published"
+                        [disabled]="
+                          !(currentCaseStatus$ | async) ||
+                          !invoice?.transactions?.transactions?.length || publishingInvoice || invoice?.published
+                        "
+                        [title]="
+                          !invoice?.transactions?.transactions?.length ? 'Please finish building the invoice first' : ''
+                        "
+                        [aria-label]="'Toggle On/Off'"
+                        [aria-labelledby]="'Some Other Text'"
+                        appPublishPopUp
+                        [canClick]="invoice.published === 0 && invoice?.transactions?.transactions?.length"
+                        (publish)="togglePublished(publishedCheckbox, invoice)"
+                        (later)="dontPublish(publishedCheckbox, invoice)"
+                        (close)="dontPublish(publishedCheckbox, invoice)"
+                        [title]="'Publish Invoice'"
+                        [message]="
+                          'Are you sure you want to publish? Once published, the action is irreversible, and the invoice can\'t be deleted.'
+                        "
+                      ></material-slide-toggle> -->
+                      <ca-toggle
+                        class="material-switch-with-checkmark"
+                        #publishedCheckbox
+                        [ngClass]="{
+                          'material-switch-disabled':
+                            !invoice?.transactions?.transactions?.length || publishingInvoice || invoice?.published
+                        }"
+                        [checked]="invoice.published"
+                        [disabled]="
+                          !(currentCaseStatus$ | async) ||
+                          !invoice?.transactions?.transactions?.length || publishingInvoice || invoice?.published
+                        "
+                        [title]="
+                          !invoice?.transactions?.transactions?.length ? 'Please finish building the invoice first' : ''
+                        "
+                        appPublishPopUp
+                        [canClick]="invoice.published === 0 && invoice?.transactions?.transactions?.length"
+                        (publish)="togglePublished(publishedCheckbox, invoice)"
+                        (later)="dontPublish($any(publishedCheckbox), invoice)"
+                        (close)="dontPublish($any(publishedCheckbox), invoice)"
+                        [title]="'Publish Invoice'"
+                        [message]="
+                          'Are you sure you want to publish? Once published, the action is irreversible, and the invoice can\'t be deleted.'
+                        "
+                      ></ca-toggle>
+                    </td>
+                    <td width="160">
+                      <span class="drop-a">
+                        <span class="value"> --</span>
+                        <span class="drop" *ngIf="(currentCaseStatus$ | async) || invoice?.published">
+                          <a
+                            *ngIf="showTypeInvoices === 'paid' || showTypeInvoices === 'unpaid' || invoice.published"
+                            (click)="openSubmitInvoice(invoice)"
+                            class="drop-item-option"
+                          >
+                            <ng-container
+                              *ngIf="
+                                showTypeInvoices === 'unpaid' && (whoami$ | async)?.data?.host as whoami;
+                                else viewInvoice
+                              "
+                            >
+                              <ng-container
+                                *ngIf="
+                                  whoami.stripe_connect_active && whoami.stripe_onboard_completed;
+                                  else viewInvoice
+                                "
+                              >
+                                <img class="drop-item-option-img" src="images/item-submit.svg" alt="" />
+                                 Pay Invoice
+                              </ng-container>
+                            </ng-container>
+
+                            <ng-template #viewInvoice>
+                              <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                               View Invoice
+                            </ng-template>
+                          </a>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="
+                                showTypeInvoices === $any('all') &&
+                                permissions['manage_own'] &&
+                                invoice.status !== 'paid' &&
+                                invoice.status !== 'void'
+                              "
+                              (click)="openModal(invoice)"
+                              class="drop-item-option"
+                            >
+                              <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                               Edit settings
+                            </a>
+                          </ng-container>
+                          <a
+                            *ngIf="
+                              showTypeInvoices === $any('all') &&
+                              !invoice.published &&
+                              (permissions['manage_own'] || permissions['moderate_others'])
+                            "
+                            (click)="openInvoiceBuilder(invoice)"
+                          >
+                            <i class="icon-edit"></i> Edit invoice builder
+                          </a>
+                          <a
+                            *ngIf="
+                              showTypeInvoices === $any('all') &&
+                              !invoice.published &&
+                              (permissions['manage_own'] || permissions['moderate_others'])
+                            "
+                            appConfirmationPopUp
+                            (yes)="deleteInvoice(ind, invoice)"
+                            title="Delete Invoice"
+                            [message]="'You are about to delete invoice. Are you sure?'"
+                          >
+                            <i class="icon-trash"></i> Delete invoice
+                          </a>
+                        </span>
+                      </span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              
+              <ca-load-more *ngIf="allInvoices?.nextLink" [isLoading]="newElementsSectionIsLoading" (loadMorePressed)="loadMoreInvoices()"></ca-load-more>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div *ngIf="!allInvoices.items?.length && !loading">
+        <p class="text-center" translate>No Invoices</p>
+      </div>
+      <div *ngIf="loading">
+        <p class="text-center" translate>
+          <span class="loader loader-bubbles">
+            <span></span>
+          </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="permissions && permissions['read_all']"
+  [ngClass]="{ shown: showModal }"
+>
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2>Add Invoice</h2>
+
+      <app-invoice-create
+        (afterChange)="closeModal()"
+        (afterSave)="loadInvoices('all')"
+        [caseId]="caseId"
+      ></app-invoice-create>
+
+      <p>
+        <a (click)="closeModal()"></a>
+      </p>
+      <a class="close" (click)="closeModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeModal()">Close</a>
+  </div>
+</form>

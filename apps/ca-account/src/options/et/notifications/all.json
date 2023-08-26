@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Kui postitus lisatakse voogu",
+  "app_confirmation_events": "Minult k\u00fcsitakse s\u00fcndmuse rsvp-d",
+  "app_submission_events": "Minu \u00fcrituse rsvp on vastatud",
+  "app_requested_forms": "Vormi esitamist n\u00f5utakse minult",
+  "app_submission_forms": "Minu vormi on keegi esitanud",
+  "app_requested_signs": "Minult n\u00f5utakse allkirja esitamist",
+  "app_submission_signs": "Minu dokumendile on keegi alla kirjutanud",
+  "app_requested_tasks": "\u00dclesannet k\u00fcsitakse minult",
+  "app_submission_tasks": "Minu \u00fclesande t\u00e4idab keegi",
+  "app_requested_invoices": "Minult n\u00f5utakse arve esitamist",
+  "app_submission_invoices": "Minu arve maksab keegi"
+}

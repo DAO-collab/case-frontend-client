@@ -1,0 +1,11 @@
+{
+  "post_user": "Kullan\u0131c\u0131 ekle",
+  "put_user": "Kullan\u0131c\u0131lar\u0131 de\u011fi\u015ftir",
+  "put_user_status": "Kullan\u0131c\u0131 durumunu de\u011fi\u015ftir",
+  "post_case": "Vaka olu\u015ftur",
+  "put_case": "Vakalar\u0131 de\u011fi\u015ftir",
+  "post_case_permission": "Kullan\u0131c\u0131lar\u0131 vakalara atay\u0131n",
+  "put_case_permission": "Vakalara atanan kullan\u0131c\u0131lar\u0131 de\u011fi\u015ftirin",
+  "post_case_post": "Vaka g\u00f6nderileri olu\u015fturun",
+  "delete_case_permission": "Vakalara atanan kullan\u0131c\u0131lar\u0131 kald\u0131r\u0131n"
+}

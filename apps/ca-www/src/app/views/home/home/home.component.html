@@ -1,0 +1,310 @@
+<article id="featured">
+  <div class="inner middle">
+    <h2 [innerHTML]="'Seamless Collaboration' | translate"></h2>
+    <p class="subtitle">
+      <!--      <span id="spin" translate></span>-->
+      <span
+        class="inner-article-subtitle-text"
+        [innerHTML]="
+          'CaseActive streamlines digital collaboration between your company and clients - from consultation to resolution, all on one platform.'
+            | translate
+        "
+      ></span>
+    </p>
+
+    <p class="link-a">
+      <a target="_blank" [href]="signupUrl" [innerHTML]="'Get Started' | translate"></a>
+      <a class="a mobile-hide" routerLink="/explore" [innerHTML]="'Take a tour' | translate"></a>
+    </p>
+  </div>
+</article>
+
+<section id="content" xmlns="http://www.w3.org/1999/html">
+  <div class="news-b a">
+    <article appScrollSlides>
+      <h3 [innerHTML]="'Stay Connected' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Maintain instant contact with team members using CaseActive\'s user-friendly interface as your one-stop hub for client and case management.'
+            | translate
+        "
+      ></p>
+      <figure>
+        <img src="/images/content/a.jpg" alt="" width="974" height="690" />
+      </figure>
+      <ul class="list-a">
+        <li>
+          <span class="img"><img src="/images/icons/connect.svg" alt="" width="28" height="28" /></span>
+          <span class="title" [innerHTML]="'Connect' | translate"></span>
+          <span [innerHTML]="'Case Feed keeps you up-to-date with your clients.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"><img src="/images/icons/schedule.svg" alt="" width="33" height="33" /></span>
+          <span class="title" [innerHTML]="'Schedule' | translate"></span>
+          <span [innerHTML]="'Create events, invite attendees, and monitor your calendar.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"><img src="/images/icons/call.svg" alt="" width="33" height="21" /></span>
+          <span class="title" [innerHTML]="'Call' | translate"></span>
+          <span [innerHTML]="'Engage in live video conference calls any time, anywhere.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"><img src="/images/icons/share.svg" alt="" width="20" height="26" /></span>
+          <span class="title" [innerHTML]="'Share' | translate"></span>
+          <span [innerHTML]="'Securely upload files, discuss them, and share.' | translate"></span>
+        </li>
+      </ul>
+    </article>
+    <article appScrollSlides>
+      <h3 [innerHTML]="'Powerful Case Management' | translate"></h3>
+      <p [innerHTML]="'Out-of-the-Box Functionality' | translate"></p>
+      <figure>
+        <img src="/images/content/b.jpg" alt="" width="974" height="690" />
+      </figure>
+      <ul class="list-a">
+        <li>
+          <span class="img"
+            ><img src="/images/icons/easily_assign_individuals.svg" alt="" width="31" height="30"
+          /></span>
+          <span class="title" [innerHTML]="'Easily assign individuals' | translate"></span>
+          <span [innerHTML]="'or teams to a case and collaborate with clients.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"><img src="/images/icons/manage_user_groups.svg" alt="" width="32" height="24" /></span>
+          <span class="title" [innerHTML]="'Manage user groups' | translate"></span>
+          <span [innerHTML]="'and customize access permissions.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"
+            ><img src="/images/icons/all_data_is_automatically_backed_up.svg" alt="" width="29" height="22"
+          /></span>
+
+          <span class="title" [innerHTML]="'All data is automatically backed up' | translate"></span>
+          <span [innerHTML]="'in case a recovery is ever needed.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"><img src="/images/icons/all_information.svg" alt="" width="26" height="29" /></span>
+          <span class="title" [innerHTML]="'All information' | translate"></span>
+          <span [innerHTML]="'is securely encrypted, ensuring your absolute privacy.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"><img src="/images/icons/customize.svg" alt="" width="32" height="30" /></span>
+          <span class="title" [innerHTML]="'Customize' | translate"></span>
+          <span [innerHTML]="'with your own colors and logo.' | translate"></span>
+        </li>
+        <li>
+          <span class="img"><img src="/images/icons/apps.svg" alt="" width="26" height="27" /></span>
+          <span class="title" [innerHTML]="'Apps' | translate"></span>
+          <span [innerHTML]="'can be enabled/disabled at any time.' | translate"></span>
+        </li>
+      </ul>
+    </article>
+  </div>
+
+  <div class="news-b a benefits-container">
+    <h2 class="header-a benefits-h2">{{ 'Benefits of ' | translate }} CaseActive</h2>
+    <div class="benefits-wrapper">
+      <div class="benefits-circle-item-wrapper">
+        <div class="benefits-circle-item">
+          50%
+          <strong>{{ 'Reduction in time ' | translate }}</strong>
+          {{ 'to intake new clients' | translate }}
+        </div>
+      </div>
+      <div class="benefits-circle-item-wrapper">
+        <div class="benefits-circle-item">
+          <strong>{{ 'Minimize ' | translate }}</strong>
+          {{ 'the chance of ' | translate }}
+          <strong>{{ 'malpractice' | translate }}</strong>
+        </div>
+      </div>
+      <div class="benefits-circle-item-wrapper">
+        <div class="benefits-circle-item">
+          <strong>{{ 'Better experience ' | translate }}</strong>
+          {{ 'for your client' | translate }}
+        </div>
+      </div>
+      <div class="benefits-circle-item-wrapper">
+        <div class="benefits-circle-item benefits-second-circle-item">
+          25%
+          <strong>{{ 'Increase in caseload capacity ' | translate }}</strong>
+          {{ 'per staff' | translate }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="header-a" [innerHTML]="'Get Started with our Built-in Apps' | translate"></h2>
+  <p class="size-a" [innerHTML]="'All you need in one place.' | translate"></p>
+  <div class="news-c a">
+    <article style="height: 563px; border-left: 1px solid #d8d8d8">
+      <figure>
+        <img src="/images/illustrations/case_feed.svg" alt="" width="143" height="115" />
+      </figure>
+      <h3 [innerHTML]="'Case Feed' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Easily assign a client, staff, and associates to a case and engage in a secure space that lets you post case progress, have real-time chat and video conversations, as well as schedule events, e-sign/upload/download documents, and much more.'
+            | translate
+        "
+      ></p>
+    </article>
+    <article style="height: 563px">
+      <figure>
+        <img src="/images/illustrations/case_invoice.svg" alt="" width="147" height="131" />
+      </figure>
+      <h3 [innerHTML]="'Case Invoices' | translate"></h3>
+      <p
+        [innerHTML]="
+          'With as-you-go invoicing, client billing is just a click away, and lets you send automatically-generated fund requests and receive direct payments in return.'
+            | translate
+        "
+      ></p>
+    </article>
+    <article style="height: 563px">
+      <figure>
+        <img src="/images/illustrations/case_cal.svg" alt="" width="158" height="121" />
+      </figure>
+      <h3 [innerHTML]="'Case Events' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Keep your case calendar organized at all times, scheduling events, inviting attendees, sending event reminders, and ensuring everything remains on-track.'
+            | translate
+        "
+      ></p>
+    </article>
+    <article style="height: 472px; border-left: 1px solid #d8d8d8">
+      <figure>
+        <img src="/images/illustrations/case_call.svg" alt="" width="190" height="108" />
+      </figure>
+      <h3 [innerHTML]="'Case Convo' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Meet with the clients and team members virtually \'face-to-face\' through built-in video conferencing so you can speak directly with everyone involved.'
+            | translate
+        "
+      ></p>
+    </article>
+    <article style="height: 472px">
+      <figure>
+        <img src="/images/illustrations/case_forms.svg" alt="" width="129" height="120" />
+      </figure>
+      <h3 [innerHTML]="'Case Forms & E-signs' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Fully customize your case form to generate unique templates that serve your specific needs. These templates can then be distributed to clients and team members to fill and sign'
+            | translate
+        "
+      ></p>
+    </article>
+    <article style="height: 472px">
+      <figure>
+        <img src="/images/illustrations/case_docs.svg" alt="" width="102" height="116" />
+      </figure>
+      <h3 [innerHTML]="'Case notes' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Keep notes with custom fields and attachments on case progression for current and future team members'
+            | translate
+        "
+      ></p>
+    </article>
+    <article style="height: 502px; border-left: 1px solid #d8d8d8">
+      <figure>
+        <img src="/images/illustrations/case_photos.svg" alt="" width="146" height="131" />
+      </figure>
+      <h3 [innerHTML]="'Case Media' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Upload, share, comment on, and download files pertaining to the case so everyone has a reference on all the important details, people, and situations.'
+            | translate
+        "
+      ></p>
+    </article>
+    <article style="height: 502px">
+      <figure>
+        <img src="/images/illustrations/case_about.svg" alt="" width="118" height="112" />
+      </figure>
+      <h3 [innerHTML]="'About Case' | translate"></h3>
+      <p
+        [innerHTML]="
+          'Let clients and staff view general details for the cases they\'re involved in. You can then close the case once everything is wrapped up, or give a team member authorization to do so.'
+            | translate
+        "
+      ></p>
+    </article>
+    <p class="link-a" style="height: 502px">
+      <a
+        (click)="scrollPageToTop()"
+        class="title"
+        routerLink="/explore"
+        [innerHTML]="'Plus Many More Features' | translate"
+      ></a>
+      <a style="margin-left: 0" target="_blank" [href]="signupUrl" [innerHTML]="'Get Started' | translate"></a>
+    </p>
+  </div>
+  <article class="module-a a">
+    <h2 [innerHTML]="'Enhance Your System. Less Work, More Results.' | translate"></h2>
+    <figure>
+      <img src="/images/illustrations/desktop.svg" alt="" width="1140" height="493" />
+    </figure>
+    <ul class="list-a a">
+      <li>
+        <span class="img"><img src="/images/icons/self_servey.svg" alt="" width="24" height="24" /></span>
+        <span
+          class="title"
+          [innerHTML]="
+            'Use the Self-Serve Administrative Feature Take total control of your CaseActive management suite from the platform itself.'
+              | translate
+          "
+        ></span>
+      </li>
+      <li>
+        <span class="img"><img src="/images/icons/effortlessly.svg" alt="" width="23" height="23" /></span>
+        <span
+          class="title"
+          [innerHTML]="
+            'Effortlessly link your existing system with CaseActive Integrate our proprietary API to automatically create cases, assign users, and generate reports based on your system input.'
+              | translate
+          "
+        ></span>
+      </li>
+    </ul>
+  </article>
+
+  <div class="scheme-a b">
+    <span class="inner">
+      <span class="small" [innerHTML]="'Multi-Language Enabled:' | translate"></span>
+      <span [innerHTML]="'Interact with clients in' | translate"></span>&nbsp;
+      <span class="u" [innerHTML]="'70+ languages' | translate"></span>.
+      <span
+        [innerHTML]="
+          'Whether working locally or globally, you can translate your client\'s native tongue through CaseActive\'s'
+            | translate
+        "
+      ></span
+      >&nbsp;<span class="u" [innerHTML]="'language management system' | translate"></span>.
+      <br />
+      <span [innerHTML]="'No more confusion or limits.' | translate"></span>
+    </span>
+    <!--<div class = "fit a"></div>-->
+    <!--    <div class="fit b"></div>-->
+    <div class="left-side-wrapper"></div>
+    <div class="bottom-image-gradient"></div>
+  </div>
+
+  <header class="module-b" style="padding-top: 115px">
+    <h2 class="header-a" [innerHTML]="'Let\'s see what others are saying' | translate"></h2>
+    <p
+      class="size-a"
+      [innerHTML]="
+        'Discover how our awesome customers - from small businesses to corporate enterprises - boosted their competitive advantage by becoming CaseActive warriors.'
+          | translate
+      "
+    ></p>
+  </header>
+
+  <ul class="list-b">
+    <app-testimonials-carousel></app-testimonials-carousel>
+  </ul>
+</section>

@@ -1,0 +1,266 @@
+.content-wrapper {
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  margin-bottom: 50px;
+}
+
+.pricing-upper-title-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pricing-title-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pricing-title {
+  font-size: 62px;
+  line-height: 62px;
+  font-weight: 300;
+}
+
+.pricing-upper-title {
+  margin: 0 0 -1px;
+  color: #a0a0a0;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 14px;
+}
+
+.pricing-subtitle {
+  font-size: 18px;
+}
+
+.tariff-description-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 90px;
+  margin-bottom: 56px;
+}
+
+.tariff-description-div {
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 20%;
+  margin-right: 5%;
+}
+
+.last-div {
+  margin-right: 0;
+}
+
+.tariff-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.tariff-price-description {
+  font-size: 16px;
+}
+
+.price {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.tariff-description {
+  font-size: 16px;
+}
+
+.enterprise-description {
+  font-size: 16px;
+  color: #15afc5;
+}
+
+.tariff-name-and-popular-label-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.popular-label {
+  padding: 5px 12px;
+  border-radius: 4px;
+  background-color: #e8f7f9;
+}
+
+.popular-label-text {
+  color: #15afc5;
+  font-size: 14px;
+}
+
+.tariff-contact-button {
+  height: 40px;
+  margin: 30px 0 0;
+  padding: 0;
+}
+
+.overview-label {
+  width: 100%;
+  color: #15afc5;
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+.table-price-first-td {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  padding-left: 24px;
+}
+
+.table-price-first-td-title {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.table-price-first-td-description {
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.table-price > tr > td {
+  width: 25%;
+  vertical-align: middle;
+  border: none;
+}
+
+.table-price > tr {
+  height: 70px;
+  border: none;
+}
+
+.table-price-tariff-info {
+  text-align: center;
+}
+
+.table-price tr:nth-child(even) {
+  background-color: #f6f8f9;
+}
+
+.table-price-wrapper > .table-price {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.table-price tr td:last-child {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.table-price-header {
+  display: none;
+  height: 50px !important;
+}
+
+.table-price-header > th {
+  text-align: center;
+  vertical-align: middle;
+  border-bottom: none;
+  color: #3f3f3f;
+}
+
+.tariff-description-aligned-pro {
+  margin-bottom: 35px;
+}
+
+.description-aligned-enterprise {
+  margin-top: 20px;
+}
+
+.enterprise-description {
+  margin-top: 15px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .description-aligned-business {
+    margin-bottom: 35px;
+  }
+
+  .description-aligned-enterprise {
+    margin-bottom: 20px;
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .tariff-name {
+    font-size: 14px;
+  }
+
+  .popular-label-text {
+    font-size: 10px;
+  }
+
+  .price {
+    font-size: 20px;
+  }
+
+  .tariff-contact-button {
+    height: 30px;
+  }
+
+  .tariff-price-description,
+  .tariff-description,
+  .enterprise-description {
+    font-size: 14px;
+  }
+
+  .tariff-description-aligned-pro {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .description-aligned-enterprise {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .pricing-title {
+    line-height: 46px;
+    font-size: 46px;
+  }
+
+  .pricing-upper-title-wrapper {
+    align-items: initial;
+  }
+
+  .description-aligned-business {
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 755px) {
+  .no-content {
+    display: none;
+  }
+
+  .tariff-description-wrapper {
+    flex-direction: column;
+  }
+
+  .tariff-description-div {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .table-price-header {
+    display: table-row;
+  }
+
+  .last-div {
+    margin-bottom: 0;
+  }
+
+  .tariff-description-aligned-pro {
+    margin-bottom: 0;
+  }
+}

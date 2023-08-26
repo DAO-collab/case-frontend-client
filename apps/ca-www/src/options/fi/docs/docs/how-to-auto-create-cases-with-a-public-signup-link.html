@@ -1,0 +1,49 @@
+<h1 id="how-to-auto-create-cases-with-a-public-signup-link">
+  Tapausten automaattinen luominen julkisen kirjautumislinkin avulla
+</h1>
+<p>
+  Tässä artikkelissa järjestelmänvalvojat voivat luoda tapauksen (ja lisätä samalla käyttäjän) lähettämällä yhden
+  kirjautumislinkin.
+</p>
+<h2 id="locating-the-link">Linkin paikantaminen</h2>
+<ol style="list-style-type: decimal">
+  <li>Kirjaudu sisään järjestelmänvalvojan tilille.</li>
+  <li>Etsi sovellus Sovellukset-sivulta ja napsauta JÄRJESTELMÄNVALVOJA-painiketta.</li>
+  <li>Napsauta hallintapaneelissa Asetukset-valikkovälilehteä.</li>
+  <li>Varmista, että JÄRJESTELMÄN ASETUS-alivalikko on valittuna.</li>
+</ol>
+<div class="figure">
+  <img src="/images/case-link-1.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="configuring-settings">Asetusten määrittäminen</h2>
+<p>Vieritä alas USER SIGNUP -otsikon kohdalle.</p>
+<p>
+  Varmista, että Salli kirjautuminen -kentän arvo on Käytössä. (pakollinen) Kun tämä ominaisuus on käytössä, Case Active
+  luo yksilöllisen linkin.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Napsauta Automaattinen tapaus -kenttää ja valitse Päällä. Tapauskäyttäjän rooli -kenttä tulee näkyviin.</li>
+  <li>Valitse rooli. (Katso alempaa)</li>
+</ol>
+<div class="figure">
+  <img src="/images/case-link-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h3 id="case-user-roles">Tapauskäyttäjien roolit</h3>
+<p>Tapauskäyttäjärooleja on kolme.</p>
+<ul>
+  <li>asiakkaat (suositus)</li>
+  <li>oletuksena</li>
+  <li>henkilöstöä</li>
+</ul>
+<h2 id="sending-the-link">Linkin lähettäminen</h2>
+<p>
+  Jaa linkki yhdelle tai useammalle henkilölle. Jokainen käyttäjä, joka napsauttaa linkkiä ja suorittaa kirjautumisen
+  loppuun, käynnistää alustan luomaan uuden tapauksen tapaussivulle ja määrittämään käyttäjän tapaukseen
+  automaattisesti.
+</p>
+<div class="figure">
+  <img src="/images/case-link-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>

@@ -1,0 +1,184 @@
+<article id="content" class="module-d">
+  <div class="table-wrapper">
+    <table class="table-a" *ngIf="feedPosts.length > 0 && !loading">
+      <tr>
+        <th translate>Tag Id</th>
+        <th translate>Created On</th>
+        <th translate>Files Amount</th>
+        <th translate>Permissions</th>
+        <th translate>Status</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let post of feedPosts; let i = index">
+        <td>{{ post.tag_id }}</td>
+        <td>{{ post.created_on | date : 'longDate' }}</td>
+        <td>
+          {{ post.media_ct
+          }}<i
+            class="icon-eye"
+            title="{{ 'Show Media' | translate }}"
+            *ngIf="post.media_ct"
+            (click)="openViewer(post)"
+          ></i>
+        </td>
+        <td>{{ post.permissions ? normilizeRolesList(post.permissions) : 'All' }}</td>
+        <td>{{ post.status }}</td>
+        <td>
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="activateEditing(post)">
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit
+              </a>
+              <a
+                appConfirmationPopUp
+                (yes)="removeRecord(post?.asset_id!)"
+                title="Delete Feed Media"
+                [message]="'You are about to delete feed media. Are you sure?'"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Delete
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <app-loader [active]="loading"></app-loader>
+
+  <p *ngIf="feedPosts.length === 0 && !loading" class="text-center" translate>No Feed Templates yet.</p>
+</article>
+
+<form
+  class="popup-a a form-d shown"
+  method="post"
+  title="upload-document"
+  *ngIf="shownPopUp"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="feedPostForm"
+  (submit)="savePost()"
+>
+  <div class="box-outer">
+    <div class="box-inner add-post-popup">
+      <div class="relative-block">
+        <h2>
+          {{ (newRecordActive ? 'Add Post' : 'Edit Post') | translate }}
+          <span class="eventId" *ngIf="!newRecordActive"> > {{ assetId }}</span>
+        </h2>
+
+        <p class="half-width">
+          <label for="tag_id" class="required" translate>Post Name</label>
+          <input #tagIdF type="text" name="tag-id" formControlName="tag_id" />
+          <app-error
+            [fieldValue]="feedPostForm.get('tag_id')?.value"
+            [field]="tagIdF"
+            [validation]="{ required: true }"
+          ></app-error>
+        </p>
+
+        <p class="half-width">
+          <label for="permissions" class="required" translate>Who can use this template</label>
+          <app-checkbox-select
+            [outputValue]="feedPostForm.get('permissions')?.value"
+            [items]="rolesList"
+            [hideLable]="true"
+            (valueChange)="setPermissions($event)"
+          ></app-checkbox-select>
+          <app-error
+            [fieldValue]="feedPostForm.get('permissions')?.value?.length"
+            [regularHtmlElementName]="'permissions'"
+            [validation]="{ required: true }"
+          ></app-error>
+        </p>
+
+        <p>
+          <span>
+            <label for="name" class="required" translate>Post Message</label>
+            <textarea
+              required
+              #descr
+              type="text"
+              name="message"
+              id="message"
+              class="form-control"
+              formControlName="message"
+            ></textarea>
+          </span>
+
+          <app-error
+            [fieldValue]="feedPostForm.get('message')?.value"
+            [field]="descr"
+            [validation]="{ required: true }"
+          ></app-error>
+        </p>
+
+        <p>
+          <label for="">Post Media</label>
+        </p>
+        <p class="file-c">
+          <label for="fdo">
+            <input
+              #fileInput
+              id="fdo"
+              type="file"
+              name="file_extension"
+              [disabled]="uploadingFiles"
+              [accept]="acceptedFileExtensions"
+              (change)="handleFileUpload($any($event.target).files, $any($event.target))"
+            />
+          </label>
+
+          <span class="notice-a b" *ngFor="let attachment of mediaAttachments; let index = index">
+            <i class="icon-x remove-att" *ngIf="!uploadingFiles" (click)="removeFile(index)"></i>
+            <i
+              class="icon-edit"
+              appPopupfield
+              *ngIf="!uploadingFiles"
+              [hidden]="attachment.progress === undefined"
+              [appendTo]="'.relative-block'"
+              [inputValue]="attachment.tag_id"
+              (saved)="onFieldNameSave($event, attachment, 'tag_id')"
+            ></i>
+            <span class="file-title-box" *ngIf="!uploadProgress[index]">{{
+              shortFileName(attachment.tag_id, 12)
+            }}</span>
+            <img *ngIf="attachment.status !== 'RUNNING'" [src]="attachment.src" width="80" height="80" />
+            <span class="file-title-box text-center" *ngIf="uploadProgress[index]">{{
+              uploadProgress[index] + '%'
+            }}</span>
+            <span class="progress-bar" *ngIf="uploadProgress[index]" [style.width.%]="uploadProgress[index]"></span>
+          </span>
+
+          <app-error [regularHtmlElementName]="fileErrorType"></app-error>
+        </p>
+
+        <p class="submit">
+          <button type="submit" class="f-right" [disabled]="uploadingFiles">
+            {{ 'Save' | translate }}
+          </button>
+        </p>
+      </div>
+      <a class="close" (click)="cancelAddingFile()">Close</a>
+    </div>
+    <a class="close" (click)="cancelAddingFile()">Close</a>
+  </div>
+</form>
+
+<app-viewer
+  *ngIf="showViewer"
+  [activeItem]="viewerIndx"
+  [viewingItems]="viewingItems!"
+  (viewerClose)="viewerClosed()"
+></app-viewer>

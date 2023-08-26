@@ -1,0 +1,20 @@
+.background-img-none {
+  background: none !important;
+}
+
+.background-img-available {
+  background: url(/images/dots/a.svg) center 0 repeat-x !important;
+}
+
+:host ::ng-deep ca-chunk-loading-error-modal .submit {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+:host ::ng-deep ca-chunk-loading-error-modal .submit button[type='submit'] {
+  margin-right: 0; 
+}
+
+:host ::ng-deep ca-chunk-loading-error-modal .submit a {
+  margin-right: 20px; 
+}

@@ -1,0 +1,19 @@
+.retry-button {
+  cursor: pointer;
+}
+
+.retry-disabled {
+  pointer-events: none;
+  cursor: none;
+}
+
+:host ::ng-deep .import-loader > div > div > p {
+  text-align: left;
+  margin-left: 24px;
+}
+
+@media only screen and (max-width: 443px) {
+  :host ::ng-deep .import-loader > div > div > p {
+    margin-left: 0;
+  }
+}

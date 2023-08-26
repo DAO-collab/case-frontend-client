@@ -1,0 +1,68 @@
+<div
+  id="root"
+  root-fixer
+  [ngClass]="{
+    'logged-in': isLoggedIn$ | async,
+    'logged-out': (isLoggedIn$ | async) === false,
+    'background-img-none': this.router.url.includes('unsubscribe'),
+    'background-img-available':
+      (isLoggedIn$ | async) && (this.router.url.includes('support') || this.router.url.includes('confirm-support'))
+  }"
+  class="body-content"
+>
+  <noscript>
+    <div style="text-align: center; padding: 10px; background: red; color: #fff" translate>
+      Javascript are disabled. Please enable it.
+    </div>
+  </noscript>
+  <div id="cookie-msg" style="display: none; text-align: center; padding: 10px; background: red; color: #fff" translate>
+    Cookies are disabled. Please enable it.
+  </div>
+
+  <app-navigation
+    [isLoggedIn]="(isLoggedIn$ | async)!"
+    [user]="(user$ | async)!"
+    [logo]="logo"
+    [avatarUrl]="avatarUrl"
+    [activeMobileMenu]="activeMobileMenu"
+    (logout)="logout()"
+  ></app-navigation>
+
+  <div id="systemErrorException">
+    <div class="exception" *ngIf="systemErrorException">
+      <p class="notice-a" ca-translate="systemErrorException"></p>
+    </div>
+  </div>
+
+  <div class="main-container">
+    <ng-content></ng-content>
+  </div>
+
+  <app-footer
+    [logo]="logo"
+    *ngIf="
+      (isLoggedIn$ | async) &&
+      !this.router.url.includes('unsubscribe') &&
+      !this.router.url.includes('support') &&
+      !this.router.url.includes('confirm-support')
+    "
+  >
+  </app-footer>
+</div>
+
+<app-pop-in-box></app-pop-in-box>
+<app-server-error-modal *ngIf="showServerErrorModal === true"></app-server-error-modal>
+
+<ng-container *ngIf="{ options: profileOptions$ | async, user: user$ | async } as data">
+  <app-profile-modal
+    *ngIf="data.options && data.user && isIncompleteProfile"
+    [options]="data.options"
+    [user]="data.user"
+    (update)="updateProfile($event)"
+  ></app-profile-modal>
+</ng-container>
+
+<app-modal *ngIf="globalModalService.isChunkErrorModalShowed" (close)="globalModalService.isChunkErrorModalShowed = false">
+  <ca-chunk-loading-error-modal (closeModal)="globalModalService.isChunkErrorModalShowed = false"></ca-chunk-loading-error-modal> 
+</app-modal>
+

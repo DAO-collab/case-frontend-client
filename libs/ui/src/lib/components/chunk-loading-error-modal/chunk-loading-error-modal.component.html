@@ -1,0 +1,17 @@
+  <h2 translate>An error occurred</h2>
+
+  <div class="form">
+    <div class="form-container">
+      <div class="form-block">
+        <p translate>Something went wrong. Our engineers have been notified. Press reload button to reload.</p>
+      </div>
+    </div>
+  </div>
+
+  <p class="submit">
+    <button type="submit" (click)="reloadPage()">
+      <span translate>Reload</span>
+    </button>
+
+    <a (click)="close()" translate>Later</a>
+  </p>

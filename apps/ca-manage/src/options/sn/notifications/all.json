@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Kana positi yawedzerwa kuFeed",
+  "app_confirmation_events": "Chiitiko rsvp chinokumbirwa kubva kwandiri",
+  "app_submission_events": "Chiitiko changu rsvp chinopindurwa",
+  "app_requested_forms": "Kutumira fomu kunokumbirwa kwandiri",
+  "app_submission_forms": "Fomu rangu rinotumirwa nemumwe munhu",
+  "app_requested_signs": "Kutumira siginicha kunokumbirwa kwandiri",
+  "app_submission_signs": "Gwaro rangu rakasainwa nemumwe munhu",
+  "app_requested_tasks": "Basa rakumbirwa kwandiri",
+  "app_submission_tasks": "Basa rangu rinopedzwa nemumwe munhu",
+  "app_requested_invoices": "Ini ndinokumbira kutumira inivoice",
+  "app_submission_invoices": "Invoice yangu inobhadharwa nemunhu"
+}

@@ -1,0 +1,18 @@
+{
+  "family_name": "Last name",
+  "given_name": "First name",
+  "locale": "Preferred language",
+  "zoneinfo": "Timezone",
+  "email": "Email address",
+  "phone": "Phone number",
+  "address1": "Street Address",
+  "address2": "Apt# or Unit#",
+  "locality": "City or Locality",
+  "region": "State or Region",
+  "postal_code": "Postal or Zip Code",
+  "country": "Country",
+  "birthdate": "Birthdate",
+  "gender": "Gender",
+  "company": "Company",
+  "title": "Name Title"
+}

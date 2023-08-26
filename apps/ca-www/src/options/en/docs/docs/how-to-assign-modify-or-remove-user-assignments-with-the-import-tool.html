@@ -1,0 +1,89 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  How to Assign, Modify or Remove User Assignments with the Import Tool
+</h1>
+<p>This article shows admins how to manage case users with the Import tool.</p>
+<p>Admins can:</p>
+<ul>
+  <li>assign users to a case</li>
+  <li>modify users already assigned to a case</li>
+  <li>remove users assigned to a case</li>
+</ul>
+<h2 id="opening-the-import-tool">Opening the Import tool</h2>
+<ol style="list-style-type: decimal">
+  <li>Log in to the admin account.</li>
+  <li>Locate an app on the Apps page and click the ADMIN button.</li>
+  <li>Click the Integration tab and then IMPORTS on the submenu.</li>
+  <li>Click the NEW button. The Add Imports dialog box displays.</li>
+</ol>
+<h2 id="creating-records">Creating records</h2>
+<p>
+  Download one or more CSV files. Use these files to add, modify, or remove case users. After the Add Imports dialog box
+  opens:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Click the Type field.</li>
+  <li>Scroll through the drop-down menu and select an option (see below). A link displays.</li>
+  <li>Click the Download Sample link. A CSV file downloads to your device.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-1.png" alt="img" />
+</div>
+<p>Open the file and add records. Click here to learn how to use format data in the CSV file.</p>
+<h3 id="file-options">File options</h3>
+<p>
+  <strong>Assign users to cases</strong> * Choose this option to add users to a case. * Leave the case_role_order cell
+  blank. * Go to the Users page and copy the Tag ID for this person. If the Tag ID field is blank, enter a unique ID,
+  click Save, and then copy the ID to the CSV file.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-2.png" alt="img" />
+</div>
+<p>
+  <strong>Modify users assigned to cases</strong> * Choose this option to update data for current users assigned to a
+  case. * Use the Case Tag ID for the case_ID column.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-3.png" alt="img" />
+</div>
+<p><strong>Remove users assigned to cases</strong> * Choose this option to remove users assigned to a case.</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="img" />
+</div>
+<h2 id="uploading-the-file">Uploading the file</h2>
+<p>
+  You can upload a file right away or return to the Add Imports dialog box at a later date and complete these steps.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Open the Add Imports dialog box.</li>
+  <li>Enter a unique name for the CSV file.</li>
+  <li>Click the plus (+) icon to upload the file from your device.</li>
+  <li>Click the Type field and select an option. (see above)</li>
+  <li>Click SAVE.</li>
+</ol>
+<h2 id="processing">Processing</h2>
+<p>
+  Depending on the number of records in the file and system load, the platform can take several minutes to process the
+  import.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-5.png" alt="img" />
+</div>
+<p>When the import completes, the platform adjusts user records (i.e. adds, modifies, or removes) on the Cases page.</p>
+<h2 id="failure">Failure</h2>
+<p>
+  If the import operation fails, the platform returns a Failed message. In most cases, the cause of failure is data
+  formatting.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-6.png" alt="img" />
+</div>
+<p>To see the cause of the failure:</p>
+<ol style="list-style-type: decimal">
+  <li>Click View under the Action heading.</li>
+  <li>On the next page, hover the mouse on the Failed icon. The tooltip displays the error.</li>
+  <li>Go to the CVS file and adjust and fix the error.</li>
+  <li>Upload the file again.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-7.png" alt="img" />
+</div>

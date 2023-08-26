@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Chaidh an App a chruthachadh gu soirbheachail.",
+  "AvatarDeleted": "Chaidh Avatar a sguabadh \u00e0s gu soirbheachail.",
+  "AvatarUpdated": "Chaidh Avatar a shoirbheachadh gu h-\u00e0rd.",
+  "CodeSent": "Chaidh c\u00f2d dearbhaidh a chuir chun uidheam agad.",
+  "DeviceVerified": "Chaidh an inneal a dhearbhadh.",
+  "GlobalLogout": "Log a-mach air gach inneal. Ch\u00ec mi thu a dh\u2019 aithghearr.",
+  "LocalLogout": "Log a-mach air an uidheam seo. Ch\u00ec mi thu a dh\u2019 aithghearr.",
+  "PasswordUpdated": "Chaidh facal-faire \u00f9rachadh gu soirbheachail.",
+  "ProfileUpdated": "Chaidh an \u00ecomhaigh \u00f9rachadh gu soirbheachail.",
+  "SignupPassword": "Chaidh cunntas a chruthachadh gu soirbheachail.",
+  "TicketSent": "Chaidh post-d a chur chun sgioba taic."
+}

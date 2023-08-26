@@ -1,0 +1,91 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Paano Magtalaga, Magbago o Mag-alis ng Mga Assignment ng User gamit ang Tool sa Pag-import
+</h1>
+<p>
+  Ipinapakita ng artikulong ito sa mga admin kung paano pamahalaan ang mga user ng kaso gamit ang tool sa Pag-import.
+</p>
+<p>Ang mga admin ay maaaring:</p>
+<ul>
+  <li>magtalaga ng mga user sa isang case</li>
+  <li>baguhin ang mga user na nakatalaga na sa isang case</li>
+  <li>alisin ang mga user na nakatalaga sa isang case</li>
+</ul>
+<h2 id="opening-the-import-tool">Binubuksan ang tool sa Pag-import</h2>
+<ol style="list-style-type: decimal">
+  <li>Mag-log in sa admin account.</li>
+  <li>Maghanap ng app sa page ng Apps at i-click ang ADMIN button.</li>
+  <li>I-click ang tab na Integration at pagkatapos ay IMPORTS sa submenu.</li>
+  <li>I-click ang BAGONG button. Nagpapakita ang dialog box ng Add Imports.</li>
+</ol>
+<h2 id="creating-records">Paglikha ng mga talaan</h2>
+<p>
+  Mag-download ng isa o higit pang CSV file. Gamitin ang mga file na ito upang magdagdag, magbago, o mag-alis ng mga
+  user ng case. Pagkatapos magbukas ang dialog box ng Add Imports:
+</p>
+<ol style="list-style-type: decimal">
+  <li>I-click ang Uri ng field.</li>
+  <li>Mag-scroll sa drop-down na menu at pumili ng opsyon (tingnan sa ibaba). Nagpapakita ang isang link.</li>
+  <li>I-click ang link na I-download ang Sample. Nagda-download ang isang CSV file sa iyong device.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>
+  Buksan ang file at magdagdag ng mga tala. Mag-click dito upang matutunan kung paano gamitin ang data ng format sa CSV
+  file.
+</p>
+<h3 id="file-options">Mga pagpipilian sa file</h3>
+<p>
+  <strong>Magtalaga ng mga user sa mga case</strong> * Piliin ang opsyong ito para magdagdag ng mga user sa isang case.
+  * Iwanang blangko ang case_role_order cell. * Pumunta sa page ng Mga User at kopyahin ang Tag ID para sa taong ito.
+  Kung blangko ang field ng Tag ID, maglagay ng natatanging ID, i-click ang I-save, at pagkatapos ay kopyahin ang ID sa
+  CSV file.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Baguhin ang mga user na nakatalaga sa mga case</strong> * Piliin ang opsyong ito para i-update ang data para
+  sa mga kasalukuyang user na nakatalaga sa isang case. * Gamitin ang Case Tag ID para sa case_ID column.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Alisin ang mga user na nakatalaga sa mga case</strong> * Piliin ang opsyong ito para alisin ang mga user na
+  nakatalaga sa isang case.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="uploading-the-file">Pag-upload ng file</h2>
+<p>
+  Maaari kang mag-upload kaagad ng file o bumalik sa dialog box na Magdagdag ng Mga Pag-import sa ibang araw at
+  kumpletuhin ang mga hakbang na ito.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Buksan ang dialog box na Magdagdag ng Mga Import.</li>
+  <li>Maglagay ng natatanging pangalan para sa CSV file.</li>
+  <li>I-click ang icon na plus (+) upang i-upload ang file mula sa iyong device.</li>
+  <li>I-click ang field na Uri at pumili ng opsyon. (tingnan sa itaas)</li>
+  <li>I-click ang I-SAVE.</li>
+</ol>
+<h2 id="processing">Pinoproseso</h2>
+<p>
+  Depende sa bilang ng mga tala sa pag-load ng file at system, maaaring tumagal ng ilang minuto ang platform upang
+  maproseso ang pag-import.
+</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>
+  Kapag nakumpleto ang pag-import, inaayos ng platform ang mga talaan ng user (ibig sabihin, nagdaragdag, nagbabago, o
+  nag-aalis) sa pahina ng Mga Kaso.
+</p>
+<h2 id="failure">Kabiguan</h2>
+<p>
+  Kung nabigo ang pagpapatakbo ng pag-import, magbabalik ang platform ng isang Nabigong mensahe. Sa karamihan ng mga
+  kaso, ang sanhi ng pagkabigo ay ang pag-format ng data.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Upang makita ang sanhi ng pagkabigo:</p>
+<ol style="list-style-type: decimal">
+  <li>I-click ang View sa ilalim ng Action heading.</li>
+  <li>Sa susunod na pahina, i-hover ang mouse sa icon na Nabigo. Ipinapakita ng tooltip ang error.</li>
+  <li>Pumunta sa CVS file at ayusin at ayusin ang error.</li>
+  <li>I-upload muli ang file.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

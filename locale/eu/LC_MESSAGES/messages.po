@@ -1,0 +1,4472 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.333030\n"
+"PO-Revision-Date: 2017-11-15T09:43:35.481359\n"
+"Language: eu\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Irudi fitxategia aukeratu beharko zenuke."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Kargatu dokumentu bat, sinatu markatu eta gero bezeroak saioa hasi eta "
+"sinatzen du. Dena gauzatzen da bezeroak gure eraikinera sartu beharrik izan "
+"gabe. Hori erabilgarria da bulego batetik hurbil ez dauden edo kanpoko "
+"egoeran dauden bezeroekin."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Kapital Aseguruen Eragiketen Zuzendaria"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Gure kideek saioa egin dezakete eta aipatutako kasuari buruzko oinarrizko "
+"informazioa ikusi ahal izango dute. Horrek asko handitu ditu gure kasuen "
+"aipamenak ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Christianson &amp; Bayles Zuzenbide Bulegoko bazkidea"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Jada ez dugu bulegoan bezeroak ikusi behar bileretarako. Dokumentuen "
+"sinadura linean bukatuta dago. Liluragarria !."
+
+msgid "CEO of EL Passion"
+msgstr "EL Passioneko zuzendari nagusia"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"APIa erabiliz, automatizatu genuen kasu-jarioan agertzen zena, gure "
+"sistemako abiarazle zehatzetan oinarrituta. Nahiko erosoa .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Carter Mario Lesioko Abokatuak zuzendari informatikoa"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Itzulpen funtzioa erabiltzen duten eleanitz bezero asko ditugu. Mezuak "
+"argitaratzen ditugu denek ulertuko duten konfiantzarekin. Horrek tokiko "
+"lanetik globalera pasatzea ahalbidetzen digu .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Solid Rock Designs-eko zuzendari nagusia"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Bezeroek maite dute! Bizitza askoz ere errazten du. Gurekin lineako gaiak "
+"eztabaidatu ditzakete, argazkiak eta dokumentuak kargatu, eta dena gordetzen"
+" da, bai taldeak bai bezeroak ikusi dezakeen."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Ashley &amp; Ashley PCko bazkidea"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Kasua fakturatzea maite dugu. Bezeroei zer ordaintzen ari diren ikusteko "
+"aukera ematen du .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Sky Digital-eko presidenteordea"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Elkarrizketa gurutzatua komunikabide eta lankidetza tresna guztiak toki "
+"bakarrean edukitzea bezalakoa da."
+
+msgid "Director Of Complaint Management"
+msgstr "Kexa Kudeatzeko Zuzendaria"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Kasuen formak entzun eta ikasi dezakegu, salmentak handitzen laguntzen digu "
+"bezeroen iritzien bidez .."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Cain &amp; Company enpresako salmenten zuzendaria"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Erabiltzaile interfazea Facebooken oso antzekoa da. Oso erraza da erabiltzea"
+" .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Wong Medical Group LLCko bazkidea"
+
+msgid "A pin has been sent to"
+msgstr "Pin bat bidali da"
+
+msgid "Cancel"
+msgstr "Utzi"
+
+msgid "Send New Pin"
+msgstr "Bidali Pin berria"
+
+msgid "Need Help?"
+msgstr "Laguntza behar?"
+
+msgid "Click here to contact us"
+msgstr "Egin klik hemen gurekin harremanetan jartzeko"
+
+msgid "Next"
+msgstr "Hurrengoa"
+
+msgid "Login or Signup"
+msgstr "Hasi saioa edo erregistratu"
+
+msgid "Invalid email entered"
+msgstr "Helbide elektroniko baliogabea sartu da"
+
+msgid "Processing..."
+msgstr "Prozesatzeko ..."
+
+msgid "Made with"
+msgstr "Made with"
+
+msgid "love"
+msgstr "maite"
+
+msgid "in New York City"
+msgstr "New Yorken"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Eskubide guztiak erreserbatuak"
+
+msgid "Terms of Use"
+msgstr "Erabilera baldintzak"
+
+msgid "Contact Us"
+msgstr "Jarri gurekin harremanetan"
+
+msgid "Username"
+msgstr "Erabiltzaile izena"
+
+msgid "Code"
+msgstr "kodea"
+
+msgid "New Password"
+msgstr "pasahitz berria"
+
+msgid "Confirm Password"
+msgstr "pasahitza baieztatu"
+
+msgid "Set Your New Password"
+msgstr "Ezarri zure pasahitz berria"
+
+msgid "A code has been sent to"
+msgstr "Kode bat bidali zaio"
+
+msgid "Change Password"
+msgstr "Aldatu pasahitza"
+
+msgid "Changing..."
+msgstr "Aldatzen ..."
+
+msgid "Login"
+msgstr "Saioa hasi"
+
+msgid "Forgot password?"
+msgstr "Pasahitza ahaztua?"
+
+msgid "Help"
+msgstr "Laguntza"
+
+msgid "Email or Phone"
+msgstr "Posta elektronikoa edo telefonoa"
+
+msgid "Reset Password"
+msgstr "Berrezarri pasahitza"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Idatzi zure kontuarekin lotutako helbide elektronikoa edo telefonoa eta "
+"ondoren egin klik Bidali botoian. Pasahitz berria erraz sortzeko aukera duen"
+" orri batera esteka bidaliko dizugu."
+
+msgid "Request Code"
+msgstr "Eskaeraren kodea"
+
+msgid "Requesting..."
+msgstr "Eskatzen ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE Laster DAGO"
+
+msgid "Create a free account"
+msgstr "Sortu doako kontu bat"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Azken ukituak ematen ari gara. Prest dagoenean jakinaraziko dizugu!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Lankidetza hobea lortzeko minutu gutxira zaude."
+
+msgid "First Name"
+msgstr "Izena"
+
+msgid "Last Name"
+msgstr "Abizena"
+
+msgid "Email"
+msgstr "Emaila"
+
+msgid "Company"
+msgstr "Enpresa"
+
+msgid "No language selected"
+msgstr "Ez da hizkuntza hautatu"
+
+msgid "I agree with"
+msgstr "Bat nator"
+
+msgid "Terms of Service"
+msgstr "Zerbitzu-baldintzak"
+
+msgid "Language"
+msgstr "Hizkuntza"
+
+msgid "Have at least one lower case character"
+msgstr "Gutxienez minuskulazko karaktererik izan"
+
+msgid "Have at least one capital letter"
+msgstr "Gutxienez maiuskula bat izan"
+
+msgid "Have at least one number"
+msgstr "Gutxienez zenbaki bat izan"
+
+msgid "Have at least 8 characters in length"
+msgstr "Gutxienez 8 karaktereko luzera dute"
+
+msgid "Type your current password"
+msgstr "Idatzi zure uneko pasahitza"
+
+msgid "Passwords must match"
+msgstr "Pasahitzek bat etorri behar dute"
+
+msgid "Domains"
+msgstr "Domeinuak"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript desgaituta daude. Gaitu ezazu."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookiak desgaituta daude. Gaitu ezazu."
+
+msgid "New"
+msgstr "Berria"
+
+msgid "Create A New App"
+msgstr "Sortu Aplikazio Berria"
+
+msgid "Apps"
+msgstr "Apps"
+
+msgid "Profile"
+msgstr "Profila"
+
+msgid "Logout"
+msgstr "Saioa amaitu"
+
+msgid "Hi"
+msgstr "Kaixo"
+
+msgid "View your account"
+msgstr "Ikusi zure kontua"
+
+msgid "View page"
+msgstr "Ikusi orria"
+
+msgid "You don’t have any apps"
+msgstr "Ez duzu inolako aplikaziorik"
+
+msgid "App"
+msgstr "Aplikazioa"
+
+msgid "Admin"
+msgstr "admin"
+
+msgid "Notifications"
+msgstr "Jakinarazpenak"
+
+msgid "No notifications yet."
+msgstr "Oraindik ez dago jakinarazpenik."
+
+msgid "Today"
+msgstr "Gaur"
+
+msgid "Last Week"
+msgstr "Lehengo astean"
+
+msgid "No timezone selected"
+msgstr "Ez da ordu-zona hautatuta"
+
+msgid "Complete profile to continue"
+msgstr "Jarraitzeko profila"
+
+msgid "Timezone"
+msgstr "Eremua"
+
+msgid "Update"
+msgstr "eguneratzearen"
+
+msgid "Website:"
+msgstr "Webgunea:"
+
+msgid "Homepage:"
+msgstr "Hasiera:"
+
+msgid "Approve Access"
+msgstr "Onartu Sarbidea"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Permissions"
+msgstr "Baimenak"
+
+msgid "Billing"
+msgstr "Fakturazioa"
+
+msgid "Payment Plan"
+msgstr "Ordainketa Plana"
+
+msgid "Edit"
+msgstr "Editatu"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "has access to your information below:"
+msgstr "Zure informazioa eskuratzeko baimena du:"
+
+msgid "has invited you to their client portal."
+msgstr "bere bezeroen atarira gonbidatu zaitu."
+
+msgid "want access to the following information:"
+msgstr "informazio honetarako sarbidea nahi duzu:"
+
+msgid "Decline"
+msgstr "Ukatu"
+
+msgid "Remove Access"
+msgstr "Kendu Sarbidea"
+
+msgid "Active"
+msgstr "Aktiboa"
+
+msgid "Invites"
+msgstr "Gonbidapenak"
+
+msgid "Disabled"
+msgstr "Desgaituta"
+
+msgid "No apps found"
+msgstr "Ez da aplikaziorik aurkitu"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "erabiltzaile"
+
+msgid "manager"
+msgstr "kudeatzailea"
+
+msgid "active"
+msgstr "aktibo"
+
+msgid "inactive"
+msgstr "inactive"
+
+msgid "Company Name"
+msgstr "Enpresaren izena"
+
+msgid "Type"
+msgstr "Mota"
+
+msgid "Status"
+msgstr "Egoera"
+
+msgid "Invitation"
+msgstr "Gonbidapena"
+
+msgid "About App"
+msgstr "Aplikazioari buruz"
+
+msgid "Billing Info"
+msgstr "Fakturazio informazioa"
+
+msgid "Your Company Name"
+msgstr "Zure enpresaren izena"
+
+msgid "Your Company Website"
+msgstr "Enpresaren webgunea"
+
+msgid "Saving..."
+msgstr "Gordetzen ..."
+
+msgid "Billing Information"
+msgstr "Fakturazio informazioa"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Mesedez, gehitu enpresak emandako APP IDa"
+
+msgid "Select an option"
+msgstr "Hautatu aukera bat"
+
+msgid "Join an existing app as a client"
+msgstr "Sartu lehendik dagoen aplikazio batean bezero gisa"
+
+msgid "Create a new app for my business"
+msgstr "Sortu aplikazio berri bat nire negoziorako"
+
+msgid "Create Domain"
+msgstr "Sortu domeinua"
+
+msgid "Select enterprise app"
+msgstr "Hautatu enpresa-aplikazioa"
+
+msgid "No item selected"
+msgstr "Ez da elementurik hautatu"
+
+msgid "Domain name"
+msgstr "Domeinu-izena"
+
+msgid "Add"
+msgstr "Gehitu"
+
+msgid "No enterprise app found"
+msgstr "Ez da aurkitu enpresa-aplikaziorik"
+
+msgid "Pending"
+msgstr "Zain"
+
+msgid "No domains found"
+msgstr "Ez da domeinurik aurkitu"
+
+msgid "Domain"
+msgstr "Domeinua"
+
+msgid "Txt Value"
+msgstr "Txt balioa"
+
+msgid "Enterprise Host ID"
+msgstr "Enpresa ostalariaren IDa"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Ekintza"
+
+msgid "Delete"
+msgstr "Ezabatu"
+
+msgid "Reset"
+msgstr "Berrezarri"
+
+msgid "Allow Manual Sign In"
+msgstr "Baimendu eskuzko saioa hastea"
+
+msgid "Exclude Emails From SSO"
+msgstr "Baztertu SSO-tik mezu elektronikoak"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML identitate hornitzailearen metadatuak"
+
+msgid "Submit"
+msgstr "Bidali"
+
+msgid "Profile photo"
+msgstr "Profileko argazkia"
+
+msgid "Uploading..."
+msgstr "Kargatzen ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "beste kontu batek eskatu du, mesedez, aldatu edo"
+
+msgid "reclaim"
+msgstr "aldarrikatu"
+
+msgid "it"
+msgstr "da"
+
+msgid "pending verification:"
+msgstr "egiaztapen zain dago:"
+
+msgid "verify"
+msgstr "egiaztatzeko"
+
+msgid "Phone Number"
+msgstr "Telefono zenbakia"
+
+msgid "Current Password"
+msgstr "oraingo pasahitza"
+
+msgid "Change password"
+msgstr "Aldatu pasahitza"
+
+msgid "No gender selected"
+msgstr "Ez dago genero hautatuta"
+
+msgid "Company Title"
+msgstr "Enpresaren izenburua"
+
+msgid "Address"
+msgstr "Helbidea"
+
+msgid "Address 2"
+msgstr "Helbidea 2"
+
+msgid "City/Locality"
+msgstr "Hiria / Herria"
+
+msgid "State/Region"
+msgstr "Estatua / eskualdea"
+
+msgid "No country selected"
+msgstr "Ez da herrialde hautatu"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / Posta Kodea"
+
+msgid "Basic"
+msgstr "Oinarrizko"
+
+msgid "Date of Birth"
+msgstr "Jaioteguna"
+
+msgid "Gender"
+msgstr "Generoa"
+
+msgid "Occupation"
+msgstr "Lanbidea"
+
+msgid "Location"
+msgstr "Kokalekua"
+
+msgid "Address is not valid"
+msgstr "Helbideak ez du balio"
+
+msgid "City/Locality is not valid"
+msgstr "Hiriak / Herriak ez du balio"
+
+msgid "Country"
+msgstr "Herria"
+
+msgid "State/Region is not valid"
+msgstr "Estatuak / eskualdeak ez du balio"
+
+msgid "Contact Info"
+msgstr "Harremanetarako informazioa"
+
+msgid "Language & Region"
+msgstr "Hizkuntza eta eskualdea"
+
+msgid "Saving"
+msgstr "Gorde"
+
+msgid "Verify Your"
+msgstr "Egiaztatu zure"
+
+msgid "Verification Code"
+msgstr "Egiaztapen Kodea"
+
+msgid "Resend Code"
+msgstr "Berrezarri kodea"
+
+msgid "Resending"
+msgstr "berriz bidaltzea"
+
+msgid "Verify"
+msgstr "Ziurtatu"
+
+msgid "Verifying..."
+msgstr "Egiaztatzen ..."
+
+msgid "Later"
+msgstr "Beranduago"
+
+msgid "We're here to help"
+msgstr "Hemen gaude laguntzeko"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Eskerrik asko gurekin harremanetan jartzeko. Zure mezua ondo bidali da. "
+"Zurekin harremanetan jarriko gara oso laster!"
+
+msgid "Message"
+msgstr "Mezua"
+
+msgid "characters left"
+msgstr "karaktereak utzi"
+
+msgid "Recaptcha"
+msgstr "recaptcha"
+
+msgid "Send"
+msgstr "Bidali"
+
+msgid "Sending..."
+msgstr "Bidaltzen ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Jada ez duzu posta elektroniko bidezko marketina jasoko zerrendatik."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Une bat baduzu, esan iezaguzu zergatik kendu zenuen harpidetza:"
+
+msgid "Return to our website"
+msgstr "Itzuli gure webgunera"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Eskerrik asko. Zure erantzuna bidali da."
+
+msgid "No Cases"
+msgstr "Ez dago kasurik"
+
+msgid "Layout"
+msgstr "Diseinua"
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Speaker"
+msgstr "Hizlaria"
+
+msgid "This case has been closed"
+msgstr "Kasu hau itxi egin da"
+
+msgid "Feed"
+msgstr "feed"
+
+msgid "Images"
+msgstr "Irudiak"
+
+msgid "Docs"
+msgstr "Docs"
+
+msgid "Audios"
+msgstr "audioak"
+
+msgid "Videos"
+msgstr "Bideoak"
+
+msgid "Files"
+msgstr "Fitxategiak"
+
+msgid "Events"
+msgstr "Ekitaldiak"
+
+msgid "Forms"
+msgstr "Inprimakiak"
+
+msgid "E-signs"
+msgstr "E-seinaleak"
+
+msgid "Invoices"
+msgstr "Fakturak"
+
+msgid "Notes"
+msgstr "Oharrak"
+
+msgid "Tasks"
+msgstr "Zereginak"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Lan handia!"
+
+msgid "You did all"
+msgstr "Guztiak egin dituzu"
+
+msgid "the tasks"
+msgstr "zereginak"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Skip to navigation (n)"
+msgstr "Salto egin nabigazioara (n)"
+
+msgid "Skip to content (c)"
+msgstr "Edukinera joan (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Saltatu orri-oina (f)"
+
+msgid "Case"
+msgstr "Kasua"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Using Form Builder"
+msgstr "Formularioa erabiltzea"
+
+msgid "Using Forms Library"
+msgstr "Formularioen liburutegia erabiltzea"
+
+msgid "Using E-sign Builder"
+msgstr "E-sign Builder erabiliz"
+
+msgid "Using E-signs Library"
+msgstr "E-seinaleen liburutegia erabiltzea"
+
+msgid "Documents"
+msgstr "Dokumentuak"
+
+msgid "Create Note"
+msgstr "Sortu oharra"
+
+msgid "Edit Note"
+msgstr "Editatu oharra"
+
+msgid "End Convo"
+msgstr "Amaitu konboa"
+
+msgid "Create Form"
+msgstr "Sortu formularioa"
+
+msgid "Create Sign"
+msgstr "Sortu kontua"
+
+msgid "Event Create"
+msgstr "Gertaera Sortu"
+
+msgid "Convo Videos"
+msgstr "Elkarrizketa bideoak"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Kasuak"
+
+msgid "Case categories"
+msgstr "Kasuen kategoriak"
+
+msgid "Your team"
+msgstr "Zure taldea"
+
+msgid "To do"
+msgstr "Egin"
+
+msgid "To Do:"
+msgstr "Egin:"
+
+msgid "Case Categories"
+msgstr "Kasu Kategoriak"
+
+msgid "Your Team"
+msgstr "Zure taldea"
+
+msgid "To Do"
+msgstr "Egin"
+
+msgid "Yes"
+msgstr "Bai"
+
+msgid "Close"
+msgstr "Itxi"
+
+msgid "Publish"
+msgstr "Argitaratu"
+
+msgid "Visibility"
+msgstr "ikusgarritasuna"
+
+msgid "all"
+msgstr "guztiak"
+
+msgid "sign"
+msgstr "sinatu"
+
+msgid "Page"
+msgstr "page"
+
+msgid "of"
+msgstr "de"
+
+msgid "Processing"
+msgstr "Prozesamendua"
+
+msgid "failed."
+msgstr "huts egin du."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Balioa 1en handiagoa edo berdina izan behar da"
+
+msgid "Repeat end:"
+msgstr "Errepikatu amaiera:"
+
+msgid "Signature"
+msgstr "Sinadura"
+
+msgid "Draw"
+msgstr "Marraztu"
+
+msgid "Write"
+msgstr "Idatzi"
+
+msgid "Clear Signature"
+msgstr "Garbitu sinadura"
+
+msgid "Still processing video..."
+msgstr "Oraindik bideoa prozesatzen ..."
+
+msgid "You"
+msgstr "Zuk"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Jarioa ezabatzera zoaz. Ziur zaude?"
+
+msgid "No convo audios yet"
+msgstr "Ez dago elkarrizketa-audiorik oraindik"
+
+msgid "No convo videos yet"
+msgstr "Ez dago elkarrizketa-bideorik oraindik"
+
+msgid "Start Convo"
+msgstr "Hasi Convo"
+
+msgid "Notify the Host"
+msgstr "Jakinarazi ostalariari"
+
+msgid "is in the call"
+msgstr "deialdian dago"
+
+msgid "and"
+msgstr "eta"
+
+msgid "others are in the call"
+msgstr "beste batzuk deialdian daude"
+
+msgid "Audio call is being recorded"
+msgstr "Audio-deia grabatzen ari da"
+
+msgid "Video call is being recorded"
+msgstr "Bideo-deia grabatzen ari da"
+
+msgid "Join now"
+msgstr "Sartu orain"
+
+msgid "Dismiss"
+msgstr "Baztertu"
+
+msgid "Can’t find your "
+msgstr "Ezin da aurkitu zure"
+
+msgid "microphone"
+msgstr "mikrofonoa"
+
+msgid "Check your system settings to make sure that "
+msgstr "Egiaztatu zure sistemaren ezarpenak hori ziurtatzeko"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"eskuragarri dago. Hala ez bada, konektatu bat. Baliteke arakatzailea "
+"berrabiarazi behar izatea."
+
+msgid "web camera"
+msgstr "web kamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Convo dei bat hasiko zara. Hasi:"
+
+msgid "Video & Audio"
+msgstr "Bideoa eta Audioa"
+
+msgid "Audio Only"
+msgstr "Audioa soilik"
+
+msgid "Record the meeting"
+msgstr "Grabatu bilera"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Convo dei bat hasteko baimena duen norbaiten zain"
+
+msgid "Add Ticket"
+msgstr "Gehitu txartela"
+
+msgid "Title"
+msgstr "Izenburua"
+
+msgid "Open"
+msgstr "Ireki"
+
+msgid "Closed"
+msgstr "itxita"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Tiketa ixtear zaude. Ziur zaude?"
+
+msgid "Announcements"
+msgstr "Iragarkiak"
+
+msgid "Support"
+msgstr "Laguntza"
+
+msgid "Opened"
+msgstr "Irekita"
+
+msgid "View"
+msgstr "ikusi"
+
+msgid "Locations"
+msgstr "Kokalekuak"
+
+msgid "You currently have no announcements."
+msgstr "Une honetan ez duzu iragarkirik."
+
+msgid "You currently have no"
+msgstr "Momentuz ez duzu"
+
+msgid "open cases. Click"
+msgstr "kasu irekiak. Egin klik"
+
+msgid "here"
+msgstr "hemen"
+
+msgid "to contact support."
+msgstr "laguntzarekin harremanetan jartzeko."
+
+msgid "closed cases."
+msgstr "kasu itxiak."
+
+msgid "open tickets."
+msgstr "sarrerak irekita."
+
+msgid "closed tickets."
+msgstr "sarrerak itxita."
+
+msgid "You currently have no locations."
+msgstr "Une honetan ez duzu kokapenik."
+
+msgid "Write a comment...."
+msgstr "Iruzkin bat idatzi ...."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Gehitu kokapena"
+
+msgid "Save Event"
+msgstr "Gorde gertaera"
+
+msgid "Name"
+msgstr "izena"
+
+msgid "Start Date"
+msgstr "Hasiera data"
+
+msgid "Start Time"
+msgstr "Hasiera ordua"
+
+msgid "End Date"
+msgstr "Amaiera data"
+
+msgid "End Time"
+msgstr "Amaierako ordua"
+
+msgid "Repeat"
+msgstr "Errepikatu"
+
+msgid "Attendees"
+msgstr "Bertaratutakoak"
+
+msgid "Event Location"
+msgstr "Gertaeraren kokapena"
+
+msgid "Link"
+msgstr "Esteka"
+
+msgid "Description"
+msgstr "deskribapena"
+
+msgid "Attending"
+msgstr "Han izango dira"
+
+msgid "Add to calendar"
+msgstr "Gehitu egutegian"
+
+msgid "Details"
+msgstr "Xehetasunak"
+
+msgid "Event by"
+msgstr "Ekitaldia"
+
+msgid "Duration:"
+msgstr "Iraupena:"
+
+msgid "more"
+msgstr "gehiago"
+
+msgid "Maybe"
+msgstr "Agian"
+
+msgid "Not Attending"
+msgstr "Ez bertara joaten"
+
+msgid "No"
+msgstr "Ez"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Bideo Jardunaldia"
+
+msgid "Event details"
+msgstr "Ekitaldiaren xehetasunak"
+
+msgid "You don't have permissions to view this page."
+msgstr "Ez duzu baimenik orri hau ikusteko."
+
+msgid "Your Upcoming Events"
+msgstr "Zure Datozen Ekitaldiak"
+
+msgid "Upcoming"
+msgstr "Datorren"
+
+msgid "Your Past Events"
+msgstr "Zure iraganeko gertaerak"
+
+msgid "Past"
+msgstr "Iragana"
+
+msgid "Your Events"
+msgstr "Zure Gertaerak"
+
+msgid "All"
+msgstr "Guztiak"
+
+msgid "All Events"
+msgstr "Ekitaldi guztiak"
+
+msgid "Directions"
+msgstr "Directions"
+
+msgid "Edit settings"
+msgstr "Editatu ezarpenak"
+
+msgid "Delete event"
+msgstr "Ezabatu gertaera"
+
+msgid "Attending?"
+msgstr "Bertaratu?"
+
+msgid "No Events"
+msgstr "Ez dago gertaerarik"
+
+msgid "more comment(s)"
+msgstr "iruzkin gehiago (k)"
+
+msgid "Loading comments"
+msgstr "Iruzkinak kargatzen"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Iruzkina ezabatzekotan zaude. Ziur zaude?"
+
+msgid "task"
+msgstr "zeregina"
+
+msgid "to do"
+msgstr "egin"
+
+msgid "tasks"
+msgstr "zereginak"
+
+msgid "Write something..."
+msgstr "Idatzi zerbait ..."
+
+msgid "Attach File"
+msgstr "Erantsi fitxategia"
+
+msgid "From Template"
+msgstr "Txantiloitik"
+
+msgid "No feeds yet."
+msgstr "Ez dago jarioik oraindik."
+
+msgid "comments"
+msgstr "iruzkinak"
+
+msgid "comment"
+msgstr "iruzkin"
+
+msgid "Add a comment"
+msgstr "Gehitu iruzkin bat"
+
+msgid "Template"
+msgstr "Txantiloia"
+
+msgid "No templates"
+msgstr "Ez dago txantiloirik"
+
+msgid "Done"
+msgstr "Eginda"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Hautatu formulario hau bete behar duten kideak"
+
+msgid "Update Form"
+msgstr "Eguneratzeko formularioa"
+
+msgid "Due Date"
+msgstr "Data ordaindua"
+
+msgid "Due Time"
+msgstr "Due Time"
+
+msgid "Loading..."
+msgstr "Lanean ..."
+
+msgid "Preview"
+msgstr "Aurrebista"
+
+msgid "Save & Close"
+msgstr "Gorde eta Itxi"
+
+msgid "Add an element"
+msgstr "Gehitu elementu bat"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Media bihurtzen ari da. Prest dagoenean jakinaraziko dizugu"
+
+msgid "Add "
+msgstr "Gehitu"
+
+msgid "Field"
+msgstr "Eremua"
+
+msgid "Edit "
+msgstr "Editatu"
+
+msgid "Text"
+msgstr "Testua"
+
+msgid "Sub Text"
+msgstr "Azpi-testua"
+
+msgid "Format"
+msgstr "Formatua"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Multimediak huts egin du bihurtzean. Ezabatu eta saiatu berriro edo beste "
+"bat."
+
+msgid "Pages"
+msgstr "Orriak"
+
+msgid "Saved"
+msgstr "Gordeta"
+
+msgid "Insert"
+msgstr "Txertatu"
+
+msgid "Elements"
+msgstr "Elementuak"
+
+msgid "Action Required"
+msgstr "Beharrezko ekintza"
+
+msgid "Add a new page"
+msgstr "Gehitu orri berri bat"
+
+msgid "Blank page"
+msgstr "Orri hutsik"
+
+msgid "From PDF"
+msgstr "PDFtik"
+
+msgid "From image"
+msgstr "Iruditik"
+
+msgid "Add PDF"
+msgstr "Gehitu PDFa"
+
+msgid "Add Image"
+msgstr "Gehitu irudia"
+
+msgid "Options"
+msgstr "Aukerak"
+
+msgid "Column Names"
+msgstr "Zutabeen izenak"
+
+msgid "Option already exists."
+msgstr "Aukera dagoeneko existitzen da."
+
+msgid "options list is empty"
+msgstr "aukerak zerrenda hutsik dago"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Kontrol-laukiak eremuak 5 aukera soilik onartzen ditu. Aukera gehiago "
+"gehitzeko goitibeherako eremua alda dezakezu"
+
+msgid "columns list is empty"
+msgstr "zutabeen zerrenda hutsik dago"
+
+msgid "Default Value"
+msgstr "Balio lehenetsia"
+
+msgid "Delete row"
+msgstr "Ezabatu errenkada"
+
+msgid "Add a new row"
+msgstr "Gehitu errenkada berri bat"
+
+msgid "Download"
+msgstr "Deskargatu"
+
+msgid "Label"
+msgstr "Etiketa"
+
+msgid "Question"
+msgstr "Galdera"
+
+msgid "Default answer"
+msgstr "Lehenetsitako erantzuna"
+
+msgid "Media is converting"
+msgstr "Media bihurtzen ari da"
+
+msgid "Send Form"
+msgstr "Bidali inprimakia"
+
+msgid "Form Submited."
+msgstr "Aurkeztutako formularioa."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Ez duzu inprimakiak bidaltzeko baimenik."
+
+msgid "You currently have no forms of your own"
+msgstr "Momentuz ez duzu forma propiorik"
+
+msgid "Your Uncompleted Forms"
+msgstr "Osatu gabeko formularioak"
+
+msgid "Uncompleted"
+msgstr "Osatu gabea"
+
+msgid "Your Completed Forms"
+msgstr "Bete dituzun inprimakiak"
+
+msgid "Completed"
+msgstr "Osatuta"
+
+msgid "Your Forms"
+msgstr "Zure inprimakiak"
+
+msgid "All Forms"
+msgstr "Inprimaki guztiak"
+
+msgid "Form Title"
+msgstr "Inprimakiaren izenburua"
+
+msgid "Author"
+msgstr "Egilea"
+
+msgid "Published"
+msgstr "Argitaratua"
+
+msgid "Submissions"
+msgstr "Aurkezpenak"
+
+msgid "No Forms"
+msgstr "Inprimakirik ez"
+
+msgid "Upload Form Document"
+msgstr "Kargatu inprimakiaren dokumentua"
+
+msgid "Forms Library"
+msgstr "Inprimakien liburutegia"
+
+msgid "No Forms In Library"
+msgstr "Liburutegian inprimakirik ez"
+
+msgid "Answers"
+msgstr "Erantzunak"
+
+msgid "Close - Status changed"
+msgstr "Itxi - Egoera aldatu da"
+
+msgid "Change Status"
+msgstr "Aldatu egoera"
+
+msgid "Case Number"
+msgstr "Kasu kopurua"
+
+msgid "Tag Id"
+msgstr "Etiketa Id"
+
+msgid "Date Opened"
+msgstr "Data irekita"
+
+msgid "Host Id"
+msgstr "Ostalariaren ID"
+
+msgid "User Id"
+msgstr "Erabiltzaile ID"
+
+msgid "Case Id"
+msgstr "Kasuaren ID"
+
+msgid "Confirm your details"
+msgstr "Berretsi zure datuak"
+
+msgid "Form Submitted."
+msgstr "Aurkeztutako formularioa."
+
+msgid "Invoice"
+msgstr "Faktura"
+
+msgid "PO No:"
+msgstr "PO zenbakia:"
+
+msgid "Reference ID:"
+msgstr "Erreferentzia ID:"
+
+msgid "Term:"
+msgstr "Epea:"
+
+msgid "Note:"
+msgstr "Ohar:"
+
+msgid "QTY"
+msgstr "KOT"
+
+msgid "Price"
+msgstr "Prezioa"
+
+msgid "Add more"
+msgstr "Gehitu gehiago"
+
+msgid "Subtotal($)"
+msgstr "Azpi-totala ($)"
+
+msgid "Discount(%)"
+msgstr "Deskontua (%)"
+
+msgid "TAX(%)"
+msgstr "ZERGA (%)"
+
+msgid "Total($)"
+msgstr "Guztira ($)"
+
+msgid "Invoice No"
+msgstr "Faktura zk"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Hautatu faktura hau ikusi edo ordaindu behar duten kideak"
+
+msgid "Update Invoice"
+msgstr "Eguneratu faktura"
+
+msgid "Create Invoice"
+msgstr "Sortu faktura"
+
+msgid "PO No."
+msgstr "PO zk."
+
+msgid "Reference ID"
+msgstr "Erreferentzia ID"
+
+msgid "Term"
+msgstr "Epea"
+
+msgid "Note"
+msgstr "Ohar"
+
+msgid "Quantity"
+msgstr "Kantitatea"
+
+msgid "Price ($)"
+msgstr "Prezioa ($)"
+
+msgid "Subtotal ($)"
+msgstr "Azpi-totala ($)"
+
+msgid "Discount (%)"
+msgstr "Deskontua (%)"
+
+msgid "Tax (%)"
+msgstr "Zerga (%)"
+
+msgid "Total ($)"
+msgstr "Guztira ($)"
+
+msgid "Pay Invoice"
+msgstr "Ordaindu faktura"
+
+msgid "Payment method"
+msgstr "Ordainketa modua"
+
+msgid "Add a new payment method"
+msgstr "Gehitu ordainketa-metodo berri bat"
+
+msgid "Summary"
+msgstr "Laburpen"
+
+msgid "Payment:"
+msgstr "Ordainketa:"
+
+msgid "Total charge:"
+msgstr "Karga osoa:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Ordaindu gabeko zure fakturak"
+
+msgid "Unpaid"
+msgstr "Ordaindu gabe"
+
+msgid "Your Paid Invoices"
+msgstr "Zure Ordaindutako Fakturak"
+
+msgid "Paid"
+msgstr "Ordaindua"
+
+msgid "Your Invoices"
+msgstr "Zure fakturak"
+
+msgid "All Invoices"
+msgstr "Faktura guztiak"
+
+msgid "Invoice Title"
+msgstr "Fakturaren titulua"
+
+msgid "No Invoices"
+msgstr "Fakturarik ez"
+
+msgid "No Audios yet."
+msgstr "Oraindik ez dago audiorik."
+
+msgid "Loading failed."
+msgstr "Kargatu egin da."
+
+msgid "retry"
+msgstr "Berriro saiatu"
+
+msgid "No documents yet."
+msgstr "Oraindik ez dago dokumenturik."
+
+msgid "No Files yet."
+msgstr "Oraindik ez dago fitxategirik."
+
+msgid "No Images yet."
+msgstr "Irudirik ez oraindik."
+
+msgid "No Videos yet."
+msgstr "Oraindik ez dago bideorik."
+
+msgid "Page Not Found"
+msgstr "Ez da orria aurkitu"
+
+msgid "Attachments"
+msgstr "eranskinak"
+
+msgid "Note View"
+msgstr "Oharren ikuspegia"
+
+msgid "No Notes"
+msgstr "Oharrik ez"
+
+msgid "Select the person to answer this field"
+msgstr "Hautatu eremu honi erantzuteko pertsona"
+
+msgid "Create E-sign"
+msgstr "Sortu E-seinalea"
+
+msgid "Update E-signs"
+msgstr "Eguneratu E-seinaleak"
+
+msgid "Signs"
+msgstr "Seinaleak"
+
+msgid "Add Field"
+msgstr "Gehitu eremua"
+
+msgid "Edit Field"
+msgstr "Editatu eremua"
+
+msgid "Send E-sign"
+msgstr "Bidali e-seinalea"
+
+msgid "E-sign Submitted."
+msgstr "E-seinalea aurkeztu da."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Ez duzu seinale elektronikoak bidaltzeko baimenik."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Momentu honetan ez duzu zure e-seinalerik"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Osatu gabeko zure E-seinaleak"
+
+msgid "Your Completed E-signs"
+msgstr "Zure E-seinaleak osatuta"
+
+msgid "Your Signs"
+msgstr "Zure Errotuluak"
+
+msgid "All E-signs"
+msgstr "E-seinale guztiak"
+
+msgid "E-sign Title"
+msgstr "Izenburu elektronikoa"
+
+msgid "No E-signs"
+msgstr "E-seinalerik ez"
+
+msgid "E-Signs Library"
+msgstr "E-Seinaleen Liburutegia"
+
+msgid "No E-signs In Library"
+msgstr "Liburutegian ez dago seinale elektronikorik"
+
+msgid "Upload E-sign Document"
+msgstr "Kargatu sinadura elektronikoaren dokumentua"
+
+msgid "Update Task"
+msgstr "Eguneratu zeregina"
+
+msgid "Create Task"
+msgstr "Sortu Ataza"
+
+msgid "You currently have no tasks of your own"
+msgstr "Une honetan ez duzu zeregin propiorik"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Amaitu gabeko zereginak"
+
+msgid "Your Completed Tasks"
+msgstr "Egin dituzun zereginak"
+
+msgid "Your Tasks"
+msgstr "Zure Zereginak"
+
+msgid "All Tasks"
+msgstr "Zeregin guztiak"
+
+msgid "Task"
+msgstr "Zeregin"
+
+msgid "Deadline"
+msgstr "Epemuga"
+
+msgid "Assignees"
+msgstr "Esleipendunak"
+
+msgid "In Progress"
+msgstr "Eraikitzen"
+
+msgid "Delete task"
+msgstr "Ezabatu zeregina"
+
+msgid "No Tasks"
+msgstr "Zereginik ez"
+
+msgid "wants access"
+msgstr "sarbidea nahi du"
+
+msgid "No Answers"
+msgstr "Erantzunik ez"
+
+msgid "Select Field Type"
+msgstr "Hautatu eremua Mota"
+
+msgid "Text Only"
+msgstr "Testua soilik"
+
+msgid "Multiple Line Text"
+msgstr "Lerro anitzeko testua"
+
+msgid "Dropdown"
+msgstr "goitibehera"
+
+msgid "Multi Dropdown"
+msgstr "Multiple Dropdown"
+
+msgid "Checkboxes"
+msgstr "koadrotxo"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "data"
+
+msgid "Time"
+msgstr "Ordua"
+
+msgid "Yes/No"
+msgstr "Bai Ez"
+
+msgid "Number"
+msgstr "zenbakia"
+
+msgid "Access Denied"
+msgstr "Sarrera debekatua"
+
+msgid "You don't have access to this case."
+msgstr "Ez duzu kasu honetarako sarbiderik."
+
+msgid "Imports"
+msgstr "Inportazioak"
+
+msgid "View import"
+msgstr "Ikusi inportazioa"
+
+msgid "Sessions"
+msgstr "Saioak"
+
+msgid "Home"
+msgstr "Hasiera"
+
+msgid "Users"
+msgstr "erabiltzaileak"
+
+msgid "Library"
+msgstr "Liburutegia"
+
+msgid "Integration"
+msgstr "Integrazioa"
+
+msgid "Settings"
+msgstr "ezarpenak"
+
+msgid "Webhooks"
+msgstr "Web-kakoak"
+
+msgid "Keys"
+msgstr "Giltzak"
+
+msgid "Feed Templates"
+msgstr "Feed txantiloiak"
+
+msgid "Form Templates"
+msgstr "Inprimakien txantiloiak"
+
+msgid "E-sign Templates"
+msgstr "E-seinaleen txantiloiak"
+
+msgid "Task Templates"
+msgstr "Zereginen txantiloiak"
+
+msgid "Dashboard"
+msgstr "arbela"
+
+msgid "Payments"
+msgstr "Ordainketak"
+
+msgid "From"
+msgstr "aurrera"
+
+msgid "To"
+msgstr "to"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "User Intake"
+msgstr "Erabiltzaileen sarrera"
+
+msgid "Custom Fields"
+msgstr "Eremu pertsonalizatuak"
+
+msgid "After Actions"
+msgstr "Ekintzen ondoren"
+
+msgid "Advance Settings"
+msgstr "Aurreratu ezarpenak"
+
+msgid "Label Name"
+msgstr "Etiketa izena"
+
+msgid "Fields"
+msgstr "eremuak"
+
+msgid "Tag ID"
+msgstr "Etiketa IDa"
+
+msgid "Have many users?"
+msgstr "Erabiltzaile asko dituzu?"
+
+msgid "Import users"
+msgstr "Erabiltzaileak inportatu"
+
+msgid "or"
+msgstr "edo"
+
+msgid "Send them a signup link."
+msgstr "Bidali izena emateko esteka."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Hasi gaitezen posta elektronikoa edo telefono zenbakia sartuz"
+
+msgid "Phone"
+msgstr "Mugikorra"
+
+msgid "Invalid phone number entered"
+msgstr "Telefono zenbaki baliogabea sartu da"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Etiketa bat kasu bat erraz aurkitzeko. ezin da gero aldatu"
+
+msgid "Visibility:"
+msgstr "ikusgarritasuna:"
+
+msgid "Who can use this template"
+msgstr "Nork erabil dezake txantiloi hau"
+
+msgid "One time"
+msgstr "Behin"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Mesedez, idatzi baliozko ordainketa-informazioa jarraitu aurretik"
+
+msgid "Add Payment"
+msgstr "Gehitu Ordainketa"
+
+msgid "Repeat every:"
+msgstr "Errepikatu behin:"
+
+msgid "Let's get started"
+msgstr "Has gaitezen"
+
+msgid "Take me there"
+msgstr "Hara nazazu"
+
+msgid "Mark"
+msgstr "Markatu"
+
+msgid "Onboarding"
+msgstr "Sartzea"
+
+msgid "Created on"
+msgstr "urtean sortua"
+
+msgid "Expires on"
+msgstr "egunean iraungiko da"
+
+msgid "No announcements yet."
+msgstr "Oraindik ez dago iragarkirik."
+
+msgid "Add Announcement"
+msgstr "Gehitu iragarkia"
+
+msgid "Edit Announcement"
+msgstr "Editatu iragarkia"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Egunak eta orduak gutxienez ordubete lehenago izan behar dute"
+
+msgid "Delete Date"
+msgstr "Ezabatu data"
+
+msgid "Delete Time"
+msgstr "Ezabatu ordua"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "No Users Found"
+msgstr "Ez da erabiltzailerik aurkitu"
+
+msgid "No role selected"
+msgstr "Ez da eginkizunik aukeratu"
+
+msgid "No permissions added!"
+msgstr "Ez da baimenik gehitu!"
+
+msgid "ASSIGNED USERS"
+msgstr "ESLEITUTAKO ERABILTZAILEAK"
+
+msgid "CASE PERMISSIONS"
+msgstr "KASUAREN ONDORIOZ"
+
+msgid "User ID"
+msgstr "Erabiltzaile IDa"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "remove"
+msgstr "kendu"
+
+msgid "Assign User"
+msgstr "Esleitu erabiltzailea"
+
+msgid "User"
+msgstr "Erabiltzailea"
+
+msgid "ADD USER"
+msgstr "GEHITU ERABILTZAILEA"
+
+msgid "Email user about case assignment"
+msgstr "Posta elektronikoko erabiltzaileei kasuen esleipena bidaltzea"
+
+msgid "Keyword"
+msgstr "Hitz gakoa"
+
+msgid "No cases found."
+msgstr "Ez da kasurik aurkitu."
+
+msgid "Create a case for a business"
+msgstr "Sortu enpresa baten kasua"
+
+msgid "Case ID"
+msgstr "Kasuaren IDa"
+
+msgid "Created On"
+msgstr "Sortua"
+
+msgid "Case Status"
+msgstr "Kasuen egoera"
+
+msgid "Case Type"
+msgstr "Kasu mota"
+
+msgid "Assign Users"
+msgstr "Erabiltzaileak esleitu"
+
+msgid "No cases found"
+msgstr "Ez da kasurik aurkitu"
+
+msgid "Have many cases?"
+msgstr "Kasu asko dituzu?"
+
+msgid "Click here to import cases."
+msgstr "Egin klik hemen kasuak inportatzeko."
+
+msgid "No status selected"
+msgstr "Ez da egoera hautatu"
+
+msgid "No type selected"
+msgstr "Ez da motarik hautatu"
+
+msgid "Case Info"
+msgstr "Case Info"
+
+msgid "About"
+msgstr "About"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Etiketa iraunkorra kasu bat erraz aurkitzeko. (a-z, 0-9, -, /) onartzen dira"
+
+msgid "Case Types"
+msgstr "Kasu motak"
+
+msgid "Click"
+msgstr "Egin klik"
+
+msgid "to edit case types"
+msgstr "kasu motak editatzeko"
+
+msgid "No Type selected"
+msgstr "Ez dago motarik hautatu"
+
+msgid "Case not found!"
+msgstr "Ez da kasua aurkitu!"
+
+msgid "Media Size"
+msgstr "Media tamaina"
+
+msgid "All statistics"
+msgstr "Estatistika guztiak"
+
+msgid "Import not found."
+msgstr "Inportazioa ez da aurkitu."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Huts egin du fitxategia prozesatu. Ziurtatu CSV fitxategi mota bat dela eta "
+"goiburu egokiak dituela"
+
+msgid "Data"
+msgstr "Datuak"
+
+msgid "No Imports yet."
+msgstr "Inportaziorik ez oraindik."
+
+msgid "Source"
+msgstr "Iturria"
+
+msgid "Stats"
+msgstr "Estatistikak"
+
+msgid "Passed:"
+msgstr "Gaindituta:"
+
+msgid "Failed:"
+msgstr "Huts egin du:"
+
+msgid "Total:"
+msgstr "Guztira:"
+
+msgid "Add Imports"
+msgstr "Gehitu inportazioak"
+
+msgid "Download Sample"
+msgstr "Deskargatu lagina"
+
+msgid "Choose a file"
+msgstr "Aukeratu fitxategi bat"
+
+msgid "Edit Key"
+msgstr "Editatu gakoa"
+
+msgid "Add Key"
+msgstr "Gehitu gakoa"
+
+msgid "No Keys yet."
+msgstr "Giltzarik ez oraindik."
+
+msgid "Source CIDR"
+msgstr "CIDR iturria"
+
+msgid "Remove"
+msgstr "Kendu"
+
+msgid "is invalid."
+msgstr "baliogabea da."
+
+msgid "Secret Key"
+msgstr "Giltza sekretua"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Ziurtatu zure gako sekretu berria kopiatzen duzula orain. Ezin izango duzu "
+"berriro ikusi!"
+
+msgid "Edit Webhook"
+msgstr "Editatu Webhook"
+
+msgid "Add Webhook"
+msgstr "Gehitu Webhook"
+
+msgid "No event selected"
+msgstr "Ez da gertaerarik hautatu"
+
+msgid "No Webhooks yet."
+msgstr "Oraindik Webhook-ak ez."
+
+msgid "URL"
+msgstr "URLa"
+
+msgid "Secret Webhook"
+msgstr "Webhook sekretua"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Ziurtatu zure webhook sekretu berria kopiatzen duzula orain. Ezin izango "
+"duzu berriro ikusi!"
+
+msgid "Sign In"
+msgstr "Hasi saioa"
+
+msgid "Login in account page."
+msgstr "Hasi saioa kontu orrian."
+
+msgid "Edit form builder"
+msgstr "Editatu inprimaki-sortzailea"
+
+msgid "Delete form"
+msgstr "Ezabatu formularioa"
+
+msgid "No forms yet."
+msgstr "Formularik ez oraindik."
+
+msgid "Intake Forms"
+msgstr "Hartzeko formularioak"
+
+msgid "Upload Intake Form Document"
+msgstr "Kargatu Hartzeko Inprimakiaren Dokumentua"
+
+msgid "Add Intake Form"
+msgstr "Gehitu sarrera-inprimakia"
+
+msgid "Edit Intake Form"
+msgstr "Editatu sarrera-inprimakia"
+
+msgid "Show Media"
+msgstr "Erakutsi komunikazioa"
+
+msgid "Add Post"
+msgstr "Gehitu mezua"
+
+msgid "Edit Post"
+msgstr "Editatu Bidali"
+
+msgid "Files Amount"
+msgstr "Fitxategiak Zenbatekoa"
+
+msgid "No Feed Templates yet."
+msgstr "Ez dago jario txantiloiak oraindik."
+
+msgid "Post Name"
+msgstr "Bidalketaren izena"
+
+msgid "Post Message"
+msgstr "Mezua bidali"
+
+msgid "Processing media ..."
+msgstr "Komunikabideak prozesatzen ..."
+
+msgid "Download original file"
+msgstr "Deskargatu jatorrizko fitxategia"
+
+msgid "Could not display media"
+msgstr "Ezin izan da multimedia erakutsi"
+
+msgid "No locations found."
+msgstr "Ez da kokapenik aurkitu."
+
+msgid "Main Office"
+msgstr "Bulego Nagusia"
+
+msgid "Location Name"
+msgstr "Kokapenaren izena"
+
+msgid "Delete e-sign"
+msgstr "Ezabatu e-seinalea"
+
+msgid "No e-signs yet."
+msgstr "Oraindik ez dago seinale elektronikorik."
+
+msgid "Subtasks Count"
+msgstr "Azpizereginak zenbatzen dira"
+
+msgid "No tasks yet."
+msgstr "Oraindik ez dago zereginik."
+
+msgid "Invoice ID"
+msgstr "Fakturaren IDa"
+
+msgid "Total"
+msgstr "Guztira"
+
+msgid "Refund"
+msgstr "Itzulketa"
+
+msgid "No invoices yet."
+msgstr "Oraindik ez dago fakturarik."
+
+msgid "Refund Reason"
+msgstr "Itzulketaren arrazoia"
+
+msgid "Duplicate charge"
+msgstr "Karga bikoiztua"
+
+msgid "Fraudulent charge"
+msgstr "Iruzurrezko kargua"
+
+msgid "Requested by customer"
+msgstr "Bezeroak eskatuta"
+
+msgid "On Board"
+msgstr "Taula gainean"
+
+msgid "Stripe"
+msgstr "Marra"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Role Info"
+
+msgid "It cannot be changed later"
+msgstr "Ezin da aldatu geroago"
+
+msgid "Role Permissions"
+msgstr "Rolaren baimenak"
+
+msgid "e-signs"
+msgstr "e-seinaleak"
+
+msgid "on"
+msgstr "buruzko"
+
+msgid "Allowed File Sizes"
+msgstr "Onartutako fitxategien tamainak"
+
+msgid "Create"
+msgstr "Sortu"
+
+msgid "Creating..."
+msgstr "Sortzen ..."
+
+msgid "Modules"
+msgstr "moduluak"
+
+msgid "Roles"
+msgstr "rolak"
+
+msgid "Profile information"
+msgstr "Profilaren informazioa"
+
+msgid "No role found."
+msgstr "Ez da rolik aurkitu."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Kasu bat sortzen denean, automatikoki esleitu erabiltzaile hauek"
+
+msgid "Remove All"
+msgstr "Kendu guztiak"
+
+msgid "User Name"
+msgstr "Erabiltzaile izena"
+
+msgid "Notify"
+msgstr "Jakinarazi"
+
+msgid "Host User"
+msgstr "Ostalari Erabiltzailea"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Erabiltzaile bat kasu bati esleitzen zaionean, gehitu txantiloiak "
+"automatikoki"
+
+msgid "No post selected"
+msgstr "Ez da mezurik hautatu"
+
+msgid "No form selected"
+msgstr "Ez da inprimakirik hautatu"
+
+msgid "No e-sign selected"
+msgstr "Ez dago seinale elektronikorik hautatu"
+
+msgid "Templates"
+msgstr "Txantiloiak"
+
+msgid "Add Templates"
+msgstr "Gehitu txantiloiak"
+
+msgid "Idle Cases"
+msgstr "Idle Kasuak"
+
+msgid "When a case is idle, post this message"
+msgstr "Kasu bat inaktibo dagoenean, argitaratu mezu hau"
+
+msgid "No case type selected"
+msgstr "Ez da kasu motarik hautatu"
+
+msgid "Idle Days"
+msgstr "Idle Days"
+
+msgid "Post Id"
+msgstr "Argitalpenaren ID"
+
+msgid "Set Idle Message"
+msgstr "Ezarri mezu inaktiboa"
+
+msgid "No task selected"
+msgstr "Ez dago zereginik hautatu"
+
+msgid "No operation order selected"
+msgstr "Ez dago eragiketa-ordenarik hautatu"
+
+msgid "Operation Order"
+msgstr "Eragiketa Agindua"
+
+msgid "Add Templates to Assign Users"
+msgstr "Gehitu txantiloiak erabiltzaileak esleitzeko"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Kasu Inprimakia"
+
+msgid "User Form"
+msgstr "Erabiltzaile Inprimakia"
+
+msgid "Notes Form"
+msgstr "Oharren formularioa"
+
+msgid "Defaults"
+msgstr "lehenetsiak"
+
+msgid "Required"
+msgstr "Beharrezko"
+
+msgid "Public User Signup link:"
+msgstr "Erabiltzaile publikoa erregistratzeko esteka:"
+
+msgid "Design Settings"
+msgstr "Diseinuaren ezarpenak"
+
+msgid "Favicon:"
+msgstr "favicon:"
+
+msgid "Change file"
+msgstr "Aldatu fitxategia"
+
+msgid "Delete Favicon"
+msgstr "Ezabatu Favicon"
+
+msgid "Logo:"
+msgstr "Logo:"
+
+msgid "Delete Logo"
+msgstr "Logotipoa ezabatu"
+
+msgid "Text Color"
+msgstr "Testuaren kolorea"
+
+msgid "Recommended Colors:"
+msgstr "Gomendatutako koloreak:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "berrezarri"
+
+msgid "Background Color"
+msgstr "Atzeko planoko kolorea"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Enpresaren informazioa"
+
+msgid "Website"
+msgstr "Webgunea"
+
+msgid "Terms of Use URL"
+msgstr "Erabilera-baldintzak URL"
+
+msgid "User Signup"
+msgstr "Erabiltzaileen erregistroa"
+
+msgid "Allow Signup"
+msgstr "Baimendu izena ematea"
+
+msgid "Auto Create Case"
+msgstr "Sortu automatikoki kasuak"
+
+msgid "Case User Role"
+msgstr "Kasuaren erabiltzaile-rola"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Analytics gakoa"
+
+msgid "delete"
+msgstr "ezabatu"
+
+msgid "Crop Image"
+msgstr "Mozketa irudia"
+
+msgid "No Filter"
+msgstr "Filtrorik gabe"
+
+msgid "No logs requested."
+msgstr "Ez da erregistrorik eskatu."
+
+msgid "Logs list is empty."
+msgstr "Erregistroen zerrenda hutsik dago."
+
+msgid "Download CSV"
+msgstr "Deskargatu CSV"
+
+msgid "Request Logs"
+msgstr "Eskatu erregistroak"
+
+msgid "Log Type"
+msgstr "Log mota"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Select a case"
+msgstr "Aukeratu kasua"
+
+msgid "Enter the email address"
+msgstr "Sartu helbide elektronikoa"
+
+msgid "Module"
+msgstr "modulua"
+
+msgid "Header (3 max)"
+msgstr "Goiburua (3 gehienez)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Erabiltzaile bat aplikazioan sartzen denean, eskatu erabiltzaileari honako "
+"hauek partekatzeko"
+
+msgid "No user intake found."
+msgstr "Ez da aurkitu erabiltzaileen sarrerarik."
+
+msgid "User Type"
+msgstr "Erabiltzaile mota"
+
+msgid "Intake Form"
+msgstr "Hartzeko formularioa"
+
+msgid "Complete After"
+msgstr "Osatu ondoren"
+
+msgid "No user type selected"
+msgstr "Ez da hautatu erabiltzaile mota"
+
+msgid "No intake form selected"
+msgstr "Ez da hautatu inprimakirik"
+
+msgid "Complete After Date"
+msgstr "Osatu ondorengo data"
+
+msgid "Complete After Time"
+msgstr "Osatu After Time"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Eguna eta ordua orainaren berdina edo txikiagoa izan behar da"
+
+msgid "Comment ct"
+msgstr "Iruzkina ct"
+
+msgid "View Ticket"
+msgstr "Ikusi Sarrera"
+
+msgid "Ticket"
+msgstr "Txartela"
+
+msgid "No tickets yet."
+msgstr "Oraindik ez dago sarrerarik."
+
+msgid "User not found."
+msgstr "Ez da aurkitu erabiltzailea."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Erabiltzaileak bere kontuaren informazioa edita dezake ostalariaren "
+"erabiltzailearen atributuen atala izan ezik."
+
+msgid "Contact"
+msgstr "Harremanetarako"
+
+msgid "Phone number"
+msgstr "Telefono zenbakia"
+
+msgid "Zip Postal Code"
+msgstr "Zip / Posta Kodea"
+
+msgid "Host User Attributes"
+msgstr "Ostalariaren erabiltzailearen atributuak"
+
+msgid "User Status"
+msgstr "Erabiltzailearen egoera"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Etiketa iraunkor bat erabiltzailea erraz aurkitzeko. (a-z, 0-9, -, /) "
+"onartzen dira"
+
+msgid "App only User Intake Fields"
+msgstr "Aplikazioa soilik erabiltzaileak hartzeko eremuak"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APLIKAZIOA DOAKUEN EREMUAK"
+
+msgid "s found."
+msgstr "aurkitu da."
+
+msgid "Created Date"
+msgstr "Sortutako data"
+
+msgid "View Cases"
+msgstr "Ikusi kasuak"
+
+msgid "VIEW CASES"
+msgstr "KASUAK IKUSI"
+
+msgid "Get Started"
+msgstr "Hasi"
+
+msgid "Password"
+msgstr "Pasahitza"
+
+msgid "Email is not valid."
+msgstr "Posta elektronikoa ez da baliozkoa."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive-k zuk eta zure bezeroak ematen dizkizu"
+
+msgid "work together"
+msgstr "elkarrekin lan egin"
+
+msgid "at any time, in any place."
+msgstr "edozein unetan, edozein lekutan."
+
+msgid "Explore"
+msgstr "arakatu"
+
+msgid "Pricing"
+msgstr "Prezioak"
+
+msgid "Support & Docs"
+msgstr "Laguntza eta Dokumentuak"
+
+msgid "FAQ"
+msgstr "ohiko galderak"
+
+msgid "Failed to validate if you are human"
+msgstr "Huts egin du balioztatzerakoan gizakia bazara"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "AHAZTU NI ESKAINTZEN BILA!"
+
+msgid "Thank You!"
+msgstr "Eskerrik asko!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Aplikazioa prest dagoenean jakinaraziko dizugu"
+
+msgid "Most popular"
+msgstr "Ezagunena"
+
+msgid "All languages"
+msgstr "Hizkuntza guztiak"
+
+msgid "Oops, Something went wrong."
+msgstr "Ene, zerbait oker joan da."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Ene, zerbait oker joan da. Gure taldeari jakinarazi zaio. Saiatu berriro "
+"geroago."
+
+msgid "Support Documentation"
+msgstr "Laguntza Dokumentazioa"
+
+msgid "All Categories"
+msgstr "Kategoria guztiak"
+
+msgid "Contents"
+msgstr "Edukiak"
+
+msgid "Related Articles"
+msgstr "Lotutako artikuluak"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr "Hasi: prozesuak, praktika onenak, konfigurazio gidak eta gehiago!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Aurkitu lanera iristeko behar duzun guztia CaseActive-n."
+
+msgid "All case communication in one spot"
+msgstr "Kasu guztietako komunikazioa toki berean"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Alderatu, bidali eguneratzeak, erantzun galderak, oharrak hartu, iruzkinak "
+"egin eta denbora errealeko posta elektronikoa eta SMS jakinarazpenak "
+"etiketatu."
+
+msgid "Share with confidence"
+msgstr "Partekatu konfiantzaz"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Partekatu dokumentuak eta argazkiak bezeroen eta taldekideen artean edozein "
+"gailutan eta, beraz, denek eguneratuta egon zaitezen."
+
+msgid "Take it on the go"
+msgstr "Eraman zaitez"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Erabili gailu mugikorrak tabletak eta telefono mugikorrak bezalako gako "
+"xehetasunetan kolaboratzeko, arazo nagusiak eztabaidatzeko, dokumentuak "
+"trukatzeko eta kasuen bilakaera denbora errealean."
+
+msgid "Immediate records access"
+msgstr "Berehalako erregistroen sarbidea"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Baimendutako erabiltzaileek bezeroaren datu eta kasuen informazioa azkar sar"
+" dezakete (uneko, iraganeko, irekitako, itxitako eta zain dauden kasuak "
+"barne), guztiak atari bakarrean."
+
+msgid "Automatic timezone conversion"
+msgstr "Ordu-orduen bihurketa automatikoa"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Bidaiatu edo beste toki batean egon, sinkronizatuta egongo zara ordu-eremuko"
+" elkarrizketen kudeaketa sistemarekin."
+
+msgid "Track Events"
+msgstr "Jarraitu gertaerak"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Antolatu azkar bilerak, datozen gertaeren jarraipena egin eta gonbidatu "
+"bezeroei eta taldeko kideei parte-hartzaile gisa."
+
+msgid "Video Conferencing"
+msgstr "Bideokonferentzia"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Konektatu bezeroekin eta taldeko kideekin zuzeneko bideo bidezko "
+"elkarrizketen bidez interaktibitate handiagoa izateko."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatizatu zereginak kasu bat sortzen denean edo erabiltzaile bat kasu "
+"bati esleitzen zaionean."
+
+msgid "Automated Alerts"
+msgstr "Alertak automatizatuak"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Zure bezeroei zoriontsu urtebetetzea nahi al diezu? Konfiguratu mezu "
+"automatikoak lehengo eta oraingo bezeroentzat egun berezirako!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Bezeroaren xehetasunak eguneratuta mantentzea"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Bezeroek beren profilak alda ditzakete datu, argazki, pasahitz eta kontu "
+"ezarpenekin."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Egin Galderak, Erantzunak."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Sortu forma pertsonalizatuak eta bidali bezeroei osatzeko. Bildu funtsezko "
+"informazioa, eman irteera inkestak eta lortu zure lana ondo egiteko behar "
+"dituzun datu guztiak!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Cain &amp; Company enpresako salmenten zuzendaria"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Egin bezeroen fakturazioa ahalik eta zuzenena, lineako fakturen eta "
+"ordainketen bidez."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Kasu horien fakturazioa gustatzen zaigu bezeroei ordaintzen dion zehatz-"
+"mehatz ikusteko."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Sky Digitaleko presidenteordea"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Gozatu sinaduraren erraztasuna"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Elektronikoki sinatu dokumentu guztiak DocSign-en bidez, kargatutako "
+"dokumentuak eta bezero digitalaren sinadura eskaerak eta berrespena "
+"erabiliz."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Kargatu dokumentu bat, markatu sinadurarako, eta gero bezeroak saioa hasi "
+"eta elektronikoki sinatzen du. Dena egiten da bezeroa gure eraikinera sartu "
+"beharrik gabe. Hau erabilgarria da bulegotik gertu ez dauden edo estatutik "
+"kanpo bizi diren bezeroekin."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Capital Insurance Insurance Operazioen zuzendaria"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Hobetu zure sistema. Lan gutxiago, emaitza gehiago."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Erabili Zerbitzu Autonomikoaren funtzioa"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Hartu zure CaseActive kudeaketa-suite osoaren kontrola plataforma bera."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Erraz estekatu existitzen den CaseActive sistema"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integratu gure jabedun APIa kasuak automatikoki sortzeko, erabiltzaileak "
+"esleitzeko eta zure sistemako sarreran oinarritutako txostenak sortzeko."
+
+msgid "Acting as a"
+msgstr "Jarduera gisa"
+
+msgid "virtual administrative assistant"
+msgstr "administrazioko laguntzaile birtuala"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive-k dokumentu arrazionalak eta pribatutasunez kudeatzen ditu"
+
+msgid "client-to-customer communications"
+msgstr "bezero-bezeroaren komunikazioak"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "gertaeren planifikazioa eta kasu urratseko prozesatze prozesua."
+
+msgid "Self-Serve Administration"
+msgstr "Auto-zerbitzatzeko Administrazioa"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Administratzaile laguntzaile birtual gisa jarduten du. CaseActive-k "
+"dokumentu eta komunikabideen kudeaketa arindua, bezeroaren bezeroaren "
+"komunikazio pribatua, gertaeren planifikazioa eta kasuaren prozesaketa "
+"urratsak ematen dizkizu."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Kudeatu Erabiltzaileen Saioa &amp; Kasuen Sorkuntza"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Erabiltzaileen kontuen sorrera zuzenean gainbegiratu, sarbide baimenak kasu "
+"bakoitzeko baimena emanez. Kudeatu kasuak sortzea, aurrera egitea eta ixtea,"
+" txosten guztian zehar."
+
+msgid "View Caseactive Analytics"
+msgstr "Ikusi Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Ikusi kasu bat nola egiten den aurrera, kasu kopurua ondo itxita eta ikusi "
+"erantzun-aldiak CaseActive-ren analisi sakonen moduluaren bidez. Ezagutza "
+"boterea da, eta zure proiektuei buruz jakin beharreko guztia eman diegu."
+
+msgid "Monitor User Logs"
+msgstr "Erabiltzaile erregistroen jarraipena"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Begiratu bezeroari eta taldeko kideei saioak eta plataformen jarduera, kasu "
+"guztiak parametroen barruan baimenduta daudela eta kide guztiek betebeharrak"
+" betetzen dituztela ziurtatzeko."
+
+msgid "Employ Advanced Searches"
+msgstr "Erabili Bilaketa Aurreratuak"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Aurkitu behar duzuna behar duzunean. Bilatu kasuak erabiltzailearen eta "
+"bezeroen izenak, gako-hitzak, denbora-lerroak, kargatutako dokumentuak eta "
+"askoz gehiago!"
+
+msgid "Create Custom Fields"
+msgstr "Sortu eremu pertsonalizatuak"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Sortu bezeroaren eta taldekideen sarrera kasuetarako eremu espezializatuak, "
+"eta bildu behar dituzun datuak biltzen dituzten guztien artean. Egin ezazu "
+"kasu interfazea zure negozio eta marka bakarrarentzat!"
+
+msgid "Create Custom Templates"
+msgstr "Sortu txantiloiak"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Garatu inprimaki eta txantiloi pertsonalizatuak sorta izugarria garatzeko, "
+"bai kasuetan nola ondoren banatzeko eta osatzeko (bezeroen irteera inkestak "
+"bezala). Edozein forma behar duzunean sor dezakezu!"
+
+msgid "Violet Cherry"
+msgstr "Cherry morea"
+
+msgid "As-You-Go Invoicing"
+msgstr "As-You-Go Faktura"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Hemen gaude laguntza! Jar zaitez harremanetan galderarik baduzu eta bi "
+"lanegunetan erantzungo diogu."
+
+msgid "* Email is not valid."
+msgstr "* Posta elektronikoa ez da baliozkoa."
+
+msgid "Low"
+msgstr "Behe"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "High"
+msgstr "High"
+
+msgid "Critical"
+msgstr "kritikoa"
+
+msgid "Choose Importance"
+msgstr "Aukeratu garrantzia"
+
+msgid "Department"
+msgstr "Sail"
+
+msgid "Sales"
+msgstr "salmentak"
+
+msgid "Other"
+msgstr "Beste"
+
+msgid "Choose Department"
+msgstr "Aukeratu Saila"
+
+msgid "Loading"
+msgstr "Lanean"
+
+msgid "Importance"
+msgstr "Garrantzia"
+
+msgid "Send A New Message"
+msgstr "Bidali mezu berria"
+
+msgid "Send message"
+msgstr "Mezua bidali"
+
+msgid "Answers to Questions"
+msgstr "Galderen erantzunak"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Edozein galdera? Irakurri orientazio gehiago gure bezeroen kontsultaei "
+"buruzko erantzunetan eta bilatu zeure erantzunak."
+
+msgid "How secure is CaseActive?"
+msgstr "Zenbateko segurua da CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive-k 128 biteko SSL enkriptatzea erabiltzen du datuen transmisiorako"
+" eta 256 biteko AES enkriptatzea atsedenerako datuetarako. CaseActive "
+"instantzia bakoitzak gako esklusibo bat sortzen du, zure negozioari "
+"segurtasun-geruza gehigarri bat eskaintzen diona. Inoiz ez dugu utziko beste"
+" enpresa bati zure datu-base edo biltegiratze sistema sartzen."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Lehendik dagoen sistema bat daukat, CaseActive-k nire sistemarekin funtziona"
+" dezake?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Bai, gure jabedun API edo inportazio modulua integra dezakezu kasuak "
+"automatikoki sortzeko, erabiltzaileak esleitzeko eta zure sistemaren "
+"sarreran oinarrituta txostenak sortzeko."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Mundu osoko bezeroak ditugu. CaseActive beste hizkuntza batzuetan "
+"eskuragarri al dago?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Bai, CaseActive aplikazioa eta komunikazioa 60 hizkuntza baino gehiagotara "
+"itzul daitezke, mandarin txinera, gaztelania, hindia eta errusiera eta "
+"ingelesera barne."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Logotipo bat gehi al dezaket edo CaseActive pertsonalizatu inola ere?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Erabat! CaseActive zuretzat diseinatu da. Admin panelaren ezarpen-orrian, "
+"zure kolore pertsonala igo dezakezu eta zure enpresaren koloreak hauta "
+"ditzakezu."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"CaseActive bateragarria al da edozein gailurekin (PC, Mac, Tablet eta "
+"Mugikorrekin)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive erantzuneko web aplikazioa da. Edozein web arakatzailetan "
+"exekutatzen da, hala nola Internet Explorer, Firefox, Safari edo Chrome, "
+"etab. Horrek esan nahi du erabiltzen ari zaren gailu motak (PC, Mac, Tableta"
+" eta Mugikorra) ez duela alderik. Ireki web arakatzailea, hasi saioa zure "
+"CaseActive kontuan eta prest zaude."
+
+msgid "How many clients can I have?"
+msgstr "Zenbat bezero izan ditzaket?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Langileen eserleku bakoitzeko fakturatuko zaizu hilean. Bezero erabiltzaile "
+"mugagabeak izan ditzakezu."
+
+msgid "Enhance User Experience"
+msgstr "Hobetu Erabiltzaileen Esperientzia"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Ez dago gutxieneko kuotarik eta ez dago aurretiazko konpromisorik. Langileen"
+" eserleku bakoitzeko bakarrik ordaintzen duzu, hilean."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "Hilean"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Hasteko behar duzun guztia. 3 eserleku sartzen dira."
+
+msgid "Business"
+msgstr "Negozioak"
+
+msgid "Popular"
+msgstr "Herrikoia"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Gure plan ezagunena. 4 eserleku sartzen dira."
+
+msgid "Enterprise"
+msgstr "Enpresa"
+
+msgid "Contact sales for pricing"
+msgstr "Jarri harremanetan salmentarekin prezioak lortzeko"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Prezio pertsonalizatuak, Ezaugarri aurreratuak, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Jarri harremanetan Salmenta"
+
+msgid "Overview"
+msgstr "Ikuspegi orokorra"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Komunikatu eta partekatu dokumentuak zure bezeroekin"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Antolatu behin eta berriro gertaerak eta bilerak"
+
+msgid "Fully customize your form to generate data"
+msgstr "Erabat pertsonalizatu zure inprimakia datuak sortzeko"
+
+msgid "Keep track of case progression"
+msgstr "Jarrai kasuaren progresioaren jarraipena"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Eskatu hainbat erabiltzaileri sinadura elektronikoak"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Sortu faktura zure bezeroak ikusteko edo ordaintzeko"
+
+msgid "ToDos"
+msgstr "Zereginak"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Etortzen dena eta zer datorren jakiteko aukera ematen du"
+
+msgid "Auto notify the user when something is due"
+msgstr "Auto jakinarazpena erabiltzaileari zerbait behar denean"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Gehitu kasu-eremu pertsonalizatuak zure kasu guztietarako"
+
+msgid "Custom Branding"
+msgstr "Marka pertsonalizatua"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Egin zure aplikazioa bakarra logo eta kolore estiloekin"
+
+msgid "Access to customer support"
+msgstr "Bezeroarentzako arretarako sarbidea"
+
+msgid "Storage"
+msgstr "Biltegiratzea"
+
+msgid "Unlimited"
+msgstr "Mugagabea"
+
+msgid "Additional Users Seats"
+msgstr "Erabiltzaileen eserleku osagarriak"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "83,34 $"
+
+msgid "Convo with recording"
+msgstr "Elkarrizketa grabaketarekin"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Bideo- edo audio-txata, grabazioa kasuan gordeta"
+
+msgid "API Access"
+msgstr "API sarbidea"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatizatu zereginak APIrako sarbidearekin"
+
+msgid "Module Templates"
+msgstr "Modulu txantiloiak"
+
+msgid "Create a standard template and reuse it"
+msgstr "Sortu txantiloi estandar bat eta berrerabili"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Esleitutako kasu edo kasu bat abiarazten denean ekintza bat automatikoki "
+"exekutatu"
+
+msgid "Newsletter"
+msgstr "Buletina"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Bidali mezu orokorrak, urtebetetzeak edo oporretakoak bezeroei (laster)"
+
+msgid "Encryption at rest"
+msgstr "Enkriptatzea atsedenean"
+
+msgid "Protects your data from system compromise"
+msgstr "Zure datuak sistemaren arriskuetatik babesten ditu"
+
+msgid "Encryption in transit"
+msgstr "Enkriptatzea garraioan"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Zure datuak babesten ditu komunikazioak atzematen badira"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAMLn oinarritutako saio-hasiera bakarra (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Erantzun denbora errealean gertaerei"
+
+msgid "Seamless Collaboration"
+msgstr "Lankidetza ezin hobea"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive-k zure enpresaren eta bezeroen arteko lankidetza digitala "
+"errazten du - kontsultatik ebazpenera, dena plataforma bakarrean."
+
+msgid "Take a tour"
+msgstr "Egin bira bat"
+
+msgid "Stay Connected"
+msgstr "Konektatu"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Mantendu taldekideekin berehalako harremana CaseActive-ren interfaze "
+"erabilerraza zure bezero eta kasuen kudeaketarako gune bakarreko gunea "
+"erabiliz."
+
+msgid "Connect"
+msgstr "Lotu"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed-ak zure bezeroekin eguneratuta mantentzen ditu."
+
+msgid "Schedule"
+msgstr "Ordutegiak"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Sortu gertaerak, gonbidatu parte-hartzaileak eta zure egutegia "
+"kontrolatzeko."
+
+msgid "Call"
+msgstr "Call"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Bideokonferentzia zuzeneko deietan parte har dezakezu edozein lekutan eta "
+"edozein lekutan."
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Kargatu erabat fitxategiak, eztabaidatu eta partekatu."
+
+msgid "Powerful Case Management"
+msgstr "Kasuen kudeaketa indartsua"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Kutxa funtzionaltasuna"
+
+msgid "Easily assign individuals"
+msgstr "Banatu erraz pertsonak"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "edo kasu batera taldeak eta bezeroekin lankidetzan."
+
+msgid "Manage user groups"
+msgstr "Kudeatu erabiltzaile taldeak"
+
+msgid "and customize access permissions."
+msgstr "eta sarbide baimenak pertsonalizatu."
+
+msgid "All data is automatically backed up"
+msgstr "Datu guztiak automatikoki babesten dira"
+
+msgid "in case a recovery is ever needed."
+msgstr "berreskuratzea beharrezkoa bada."
+
+msgid "All information"
+msgstr "Informazio guztia"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "segurtasunez enkriptatuta dago, zure pribatutasuna bermatuz."
+
+msgid "Customize"
+msgstr "Pertsonalizatu"
+
+msgid "with your own colors and logo."
+msgstr "zure kolore eta logotipo propioa."
+
+msgid "can be enabled/disabled at any time."
+msgstr "edozein momentutan gaitu / desgaitu daiteke."
+
+msgid "Benefits of "
+msgstr "-ren onurak"
+
+msgid "Reduction in time "
+msgstr "Denboraren murrizketa"
+
+msgid "to intake new clients"
+msgstr "bezero berriak hartzeko"
+
+msgid "Minimize "
+msgstr "Minimizatu"
+
+msgid "the chance of "
+msgstr "aukera"
+
+msgid "malpractice"
+msgstr "praktika okerra"
+
+msgid "Better experience "
+msgstr "Esperientzia hobea"
+
+msgid "for your client"
+msgstr "zure bezeroarentzat"
+
+msgid "Increase in caseload capacity "
+msgstr "Karga-ahalmena handitzea"
+
+msgid "per staff"
+msgstr "langile bakoitzeko"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Hasi gure Eraikitako Aplikazioekin"
+
+msgid "All you need in one place."
+msgstr "Leku bakar batean behar duzun guztia."
+
+msgid "Case Feed"
+msgstr "Kasuen jarioa"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Bezeroak, langileak eta bazkideak erraz esleitu eta kasu bat aurrera eraman,"
+" denbora errealean elkarrizketak eta bideo elkarrizketak izan ditzazun. "
+"Gainera gertaerak programatzeko, e-sinatzeko / kargatzeko / deskargatzeko "
+"dokumentuak antolatzeko. askoz gehiago."
+
+msgid "Case Invoices"
+msgstr "Kasuaren fakturak"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Noizbehinkako fakturazioarekin, bezeroaren fakturazioa klik bakarrera dago "
+"eta automatikoki sortutako fondo eskaerak bidaltzeko eta ordainketa zuzenak "
+"jasotzeko aukera ematen dizu."
+
+msgid "Case Events"
+msgstr "Kasu Gertaerak"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Mantendu zure kasuen egutegia uneoro antolatuta, gertaerak antolatuz, "
+"bertaratuak gonbidatuz, gertaeren abisuak bidaliz eta dena jarrai dezan "
+"ziurtatuz."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Bilatu bezeroekin eta taldekideekin ia &quot;aurrez aurre&quot; bideo-"
+"konferentzia integratuen bidez, parte hartzen duten guztiekin zuzenean hitz "
+"egin ahal izateko."
+
+msgid "Case Forms & E-signs"
+msgstr "Kasu-inprimakiak eta seinale elektronikoak"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Erabat pertsonalizatu zure kasuaren inprimakia zure behar espezifikoetara "
+"egokitzen diren txantilo bakarrak sortzeko. Txantiloi hauek bezeroei eta "
+"taldekideei banatu ahal izango dizkiete bete eta sinatzeko"
+
+msgid "Case notes"
+msgstr "Kasuen oharrak"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Gorde oharrak eremu pertsonalizatuekin eta eranskinekin kasuen progresioari "
+"buruz egungo eta etorkizuneko taldekideentzat"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Kargatu, partekatu, iruzkindu eta deskargatu kasuari dagozkion fitxategiak, "
+"denek xehetasun, pertsona eta egoera garrantzitsu guztien erreferentzia izan"
+" dezaten."
+
+msgid "About Case"
+msgstr "Kasuari buruz"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Utzi bezeroei eta langileei ikuspegi orokorra eskuratzen duten kasuetarako. "
+"Kasua itxi dezakezu dena bilduta dagoenean edo taldekideari baimena eman."
+
+msgid "Plus Many More Features"
+msgstr "Plus Ezaugarri gehiago"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Erabili norbere buruari funtzio administratiboa Eraiki zure CaseActive "
+"kudeaketa-suitearen kontrol osoa plataformatik."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Ahaztu ezazu lehendik duzun sistema CaseActive-rekin integratu gure jabea "
+"den APIa kasuak automatikoki sortzeko, erabiltzaileak esleitzeko eta zure "
+"sistemaren sarreran oinarritutako txostenak sortzeko."
+
+msgid "Multi-Language Enabled:"
+msgstr "Hizkuntza anitzeko gaitasuna:"
+
+msgid "Interact with clients in"
+msgstr "Interaktatu bezeroekin"
+
+msgid "70+ languages"
+msgstr "70 hizkuntza gehiago"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Lokalki edo mundu osoan lan egiten duen ala ez, zure bezeroaren ama-"
+"hizkuntza itzuli ahal izango duzu CaseActive-ren bidez"
+
+msgid "language management system"
+msgstr "hizkuntz kudeaketa sistema"
+
+msgid "No more confusion or limits."
+msgstr "Ez dago nahasmendurik edo mugarik."
+
+msgid "Let's see what others are saying"
+msgstr "Ikus dezagun besteek zer esaten duten"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Ezagutu gure bezero izugarriek - enpresa txikietatik enpresa "
+"korporatiboetara - nola irabazi zuten lehiakortasun abantaila CaseActive "
+"gudari bihurtuz."
+
+msgid "SUPPORT"
+msgstr "LAGUNTZA"
+
+msgid "Everything at Your Fingertips."
+msgstr "Zure esku guztiak."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Hasi zure CaseActive aplikazioarekin gure bideo gida jarraituz eta "
+"pertsonalizatu zure beharren arabera."
+
+msgid "What are you looking for..."
+msgstr "Zer ari zara bilatzen..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Azken eguneratzea: 2021eko ekainaren 7a"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive-k eskubidea du, edozein unetan eta nahi duenean, Zerbitzu "
+"Baldintza hauek edo guztiak aldatzeko eta aldatzeko. CaseActive-ek Zerbitzu "
+"Baldintza hauek aldatzen dituenean, CaseActive-k goiko &quot;Azken "
+"eguneraketa&quot; data aldatuko du. Zerbitzuaren bertsio berriena aldizka "
+"berrikusteaz arduratzen zara. Aldaketak egin ondoren Zerbitzuak erabiltzen "
+"jarraitzea zure baimena izango da aldaketa horiek lotzeko. Zerbitzu "
+"Baldintza hauetan aldaketarik egiten baduzu, zure erremedio bakarra eta "
+"esklusiboa Zerbitzuak bertan behera uztea izango da, baldintzen arabera."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Zerbitzu Baldintza Orokor hauek Zerbitzuetan orokorrean aplikatzen dira. "
+"Eskaintzen diren Zerbitzu bakoitzari dagozkion baldintza gehigarriak "
+"jarraian ematen diren esteketan ageri dira (&quot;Zerbitzu Baldintza "
+"Osagarriak&quot;)."
+
+msgid "1. Services:"
+msgstr "1. Zerbitzuak:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Gure jabedun softwarea beheko xehetasunak eskaintzen dituzten zerbitzuak "
+"eskaintzeko gure bezeroentzat ostatatzen dugun zerbitzu plataforma da. "
+"Zerbitzua harpidetzeko, Zerbitzu horretarako eskaera orria bete behar duzu "
+"eta / edo Zerbitzu horretan izena emateko fluxua bete. Harpidetu eta "
+"ordaindu dituzun Zerbitzuak erabiltzeko eskubidea duzu bakarrik eta "
+"Zerbitzuen erabilera zure Hitzarmenaren baldintza guztiak betetzen "
+"dituzunean bete beharko duzu. Onartzen eta onartzen duzu Zerbitzuak (edo "
+"horien zati bat) aldatzeko eskubidea dugula noizean behin eta ez dugula zure"
+" erantzule edo hirugarrenen aurrean Zerbitzuetara aldatuko."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 CaseActive Zerbitzuaren deskribapena: CaseActive Zerbitzua CaseActive "
+"LLC-k eskaintzen duen lineako bezeroen lankidetza kudeatzeko software "
+"zerbitzuen multzoa da. Onartu duzun erregistratze-fluxua edo gauzatu duzun "
+"eskaera-orria identifikatzen ditu harpidetu duzun CaseActive Zerbitzua, "
+"harpidetza-epea eta CaseActive Zerbitzuak ordaindu ditzakezun tasak. "
+"CaseActive Zerbitzua erabiltzeko aplika dakizkiokeen baldintza eta baldintza"
+" gehigarriak honako hauek zehazten dira:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Zerbitzuak zabalduz:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Zerbitzu osagarriak har ditzakezu Zerbitzu osagarrietara, zerbitzu berriak "
+"barne CaseActive-k noizean behin eskuragarri jarri ditzakezun edo are "
+"gehiago dauden zerbitzuak areagotzeko. Izena emateko fluxu edo Eskaera "
+"Inprimaki bakoitzean Zerbitzuen prezioa eta fakturazio data sartuko dira une"
+" horretan. Zerbitzu berri guztiak Zerbitzu Baldintza Orokor hauen menpe "
+"daude eta zerbitzu gehigarri horiei berariaz aplikatu ahal zaizkien "
+"baldintza eta baldintza gehiago."
+
+msgid "3. Customer Support:"
+msgstr "3. Bezeroaren arreta:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Zerbitzuengatik ordaindu beharreko kuota guztiak ordainduta baldin badaude, "
+"komertzialki zentzuzko ahaleginak erabiliko ditugu, kargurik gabe, zerbitzu "
+"teknikoetarako zuri eta zerbitzuetara harpidetu zareten zure erabiltzaile "
+"baimenduei. Bezeroentzako zerbitzuen ordezkari bat zure kasuetara bideratuko"
+" da. Mugarik gabeko kasuak onartzen dira erabiltzaile baimenduengandik. Gure"
+" laguntza estandarra 24 eta 7an dago eskuragarri, jai nagusiak izan ezik, "
+"Memoriaren Eguna, Independentzia Eguna, Lan Eguna, Eskerrak, Gabonak eta "
+"Urte Berri Eguna barne. Gure bezeroarekin harremanetan jar zaitezke "
+"bezeroaren laguntzarekin"
+
+msgid "Contact Form"
+msgstr "Harremanetarako formularioa"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Gure erantzuteko denbora ez da bi lanegun baino handiagoa izango."
+
+msgid "4. Training:"
+msgstr "4. Prestakuntza:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Zerbitzuengatik ordaindu beharreko kuota guztiak ordainduta baldin badituzu,"
+" urruneko, zuzeneko edo grabatutako prestakuntza saioak erabilgarri jarriko "
+"dizkiegu izendatutako, izendatutako eta baimendutako erabiltzaileei, baita "
+"gure webguneko Laguntza eta Prestakuntza atalaren bidez eskuragarri dauden "
+"tutorialak ere. kargurik gabe. Zerbitzu batzuei begira, tokiko prestakuntza "
+"eskaintzen dugu eskaera eta karga gehigarria. Mesedez, jarri gurekin "
+"harremanetan gure bidez"
+
+msgid "for more information about on-site training."
+msgstr "gunean prestakuntzaren inguruko informazio gehiago lortzeko."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Zure eskubideak eta mugak:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Lizentzia: Hitzarmenaren baldintza eta baldintza guztiak bete ondoren "
+"eta eskaera-formularioan edo erregistratze-fluxuan ezarritako kuota "
+"aplikagarri guztiak ordaintzeko garaian, onartzen dugu eskubide esklusibo "
+"eta esklusiboa ez den eskualdatzea eta mugatua. Zerbitzua erabiltzeko "
+"baimena (eta baimendutako erabiltzaileei baimendu) Zerbitzuak harpidetu "
+"dituzun zerbitzuak erabiltzeko, soilik zure negozioetarako."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Erabiltzaile baimenduak: Zuek (i) zure baimendutako erabiltzaileek "
+"Hitzarmena betetzen dutela arduratzen zara eta (ii) komertzialki zentzuzko "
+"ahaleginak egin beharko dituzu baimenik gabe sartzea edo Zerbitzuak "
+"erabiltzea saihesteko eta berehala jakinaraziko digu baimenik gabeko "
+"sarbidea edo erabili. Zerbitzuetarako sarbidea kentzea zure erantzukizuna "
+"da, erabiltzaile edo baimendutako langile baten egoera baimendua aldatzen "
+"bada."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Zure Erantzukizunak eta Murrizketak: Zure erabiltzaile kontuen edo "
+"baimendutako erabiltzaileen azpian gertatzen diren jarduera guztien "
+"erantzulea zara. Zerbitzuei bidaltzen dizkizuten datu guztien zehaztasun, "
+"kalitate, osotasun, legalitate, fidagarritasun eta egokitasunaren "
+"erantzukizun bakarra izango duzu; (ii) komertzialki zentzuzko ahaleginak "
+"egitea baimendu gabeko kontrolak edo manipulazioak eragoztea edo baimenik "
+"gabeko beste edozein zerbitzuetarako edo zerbitzuetarako erabiltzea "
+"saihesteko eta berehala jakinarazten digu baimenik gabeko erabilera edo "
+"segurtasun urratze bat; (iii) Tokiko, estatuko, federazioko eta atzerriko "
+"lege aplikagarriak bete (Zerbitzuak erabiltzerakoan pribatutasunari eta "
+"informazio pertsonala babesteko legeei buruzkoak); (iv) ahal den neurrian, "
+"kreditu txartelen elkarteen araudi aplikagarriak bete (American Express, "
+"MasterCard eta Visa barne); eta (v) Zerbitzuak sartzeko beharrezkoak diren "
+"ordenagailu, software eta komunikazio ekipamendu guztiak eskuratu eta "
+"mantentzea eta ordaindu dituzun sarbide-gastu guztiak (adibidez ISP tasak) "
+"ordaintzea Zerbitzuak erabiltzeagatik."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Ezingo duzu, eta ziurtatuko duzu zure baimendutako erabiltzaileek ez "
+"dituztela, (i) desmuntatzen, alderantzizko ingeniari, deskonpilatzen edo "
+"bestela saiatzen Zerbitzuekin lotura duten edozein kode deszifratzen edo "
+"aldatzen, moldatzen, sortzen dituzten lanak eratorri edo itzultzen. "
+"Zerbitzuak; (ii) lizentzia eman, lizentziatu, saldu, alokatu, esleitu, "
+"banatu, denbora partekatzeko transferentzia, errentamendua, mailegua, "
+"birsortu irabazien truke, banatu edo beste modu komertzial batean ustiatu, "
+"eskubideak eman edo Zerbitzuak hirugarrenen eskura jarri; (iii) Zerbitzuak "
+"erabili espresuki baimen gisa edo ezarritako edozein lege urratzen; (iv) "
+"Zerbitzuei dagokienez merkataritzako legez kanpoko edo engainuzko "
+"praktiketan parte hartzea; (v) segurtasun edo bestelako ezaugarri edo neurri"
+" teknikoen edo Softwareko beste edozein alderdi saihestu edo ezgaitu edo, "
+"nolanahi ere, saiatzea baimenik gabe sartzeko edo zerbitzuetara edo hauei "
+"lotutako sistema informatiko edo sareetara sartzeko edo lortzen; (vi) "
+"Zerbitzuak erabili urratzailea, askea, iluna, mehatxagarria edo, bestela, "
+"legez kanpokoa, segurua, maltzurra, gehiegikeria edo kaltegarria den "
+"materiala transmititzeko, edo materiala hirugarrenen pribatutasun eskubideen"
+" urraketa transmititzeko; (vii) Zerbitzua erabili birusak, zizareak, "
+"denborazko bonbak, Troiako zaldiak eta beste kode, fitxategi, script edo "
+"agente edo programa kaltegarri edo maltzurrak gordetzeko edo spam edo "
+"bestelako mezu bikoizgarriak edo eskatu gabekoak bidaltzeko, lege "
+"aplikagarriak urratuz. ; edo (viii) Zerbitzuen edo hirugarrenen datuen "
+"osotasuna edo errendimendua oztopatu edo oztopatzea."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Eskubideak erreserbatzea: ez da beste eskubiderik ematen Hitzarmenean "
+"berariaz zehazten ez bada. Hitzarmena ez da salmenta eta ez du inolako "
+"eskubide edo jabetza transmititzen, ezta Zerbitzuetan edo azpian dagoen "
+"software batean ere. Eskubide, izenburu eta interes guztien jabe gara, "
+"jabetza intelektualaren eskubide guztiak barne, Zerbitzuetan eta azpian "
+"dagoen softwarean eta horien eguneratze, berritze, aldaketa, hobekuntza, "
+"hobekuntza edo lan eratorritako eta edozein ideietan, edozein dela ere, "
+"jakitea. nola, eta guk edo gure baimenek Zerbitzuak gauzatzean garatutako "
+"programak."
+
+msgid "6. Term and Termination:"
+msgstr "6. Iraupena eta amaiera:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Epea: Zerbitzuen epea aldatu egin zara harpidetu zaren zerbitzuaren "
+"arabera eta eskaera formularioan edo erregistratzean hitzartutakoa adostuko "
+"da eta honela berrituko da:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive Zerbitzuaren epea: CaseActive Zerbitzuko zure harpidetza "
+"automatikoki berrituko da hilabeteko edo urtebeteko ondoz ondoko "
+"baldintzetarako, Eskaera Inprimakian edo erregistratze-fluxuan ezarritako "
+"moduan, baldin eta zuk eskaintzen digun Zerbitzua bertan behera uzten ez "
+"badugu. ez berritzea gutxienez hogeita hamar (30) egun lehenago iraungitzen "
+"zen epea igaro baino lehen."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 CaseActive Webguneen Zerbitzuaren epea: CaseActive webgunearen "
+"zerbitzuetara zure harpidetzak automatikoki berrituko ditu hilabeteko edo "
+"urtebeteko jarraibideen arabera, Eskaera Inprimakian edo erregistratze-"
+"fluxuan ezarritako moduan, Zerbitzua eten edo ematen ez badiguzu. gutxienez "
+"berritu ez dadin, gutxienez hogeita hamar (30) egun lehenago iraungitzen zen"
+" epea igaro baino lehen."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Berriztatu ez izanaren jakinarazpen idatzia CaseActive, LLC, 1107 W. "
+"6th Ave, Ste B. Cheyenne, WY 82003 helbidera bidali behar da."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Baja: Alderen batek Hitzarmena eta Zerbitzuaren harpidetzak bertan "
+"behera utzi ditzake (i) beste alderdiak Hitzarmenean ezarritako betebehar "
+"materialren bat hausten badu, eta arau-haustea ez bada urratzen hogeita "
+"hamar (30) egunen buruan ez-betetzeagatik. alderdia, edo (ii) beste alderdia"
+" konkurtsoa edo porrota, likidatu edo desegiten bada edo bere negozioaren "
+"funtsean uzten badu. Hitzarmena berehala bertan behera utzi dezakegu aurreko"
+" 5.3 atala hausten bada. Hitzarmena amaitzean, berehala zerbitzuen erabilera"
+" behin betiko utziko duzu, Zerbitzuaren erabiltzaile zaren edozein forma "
+"ordezkatzen utziko duzu eta zure jabetzako informazio konfidentzial guztia "
+"suntsituko duzu. Inork ez du inolako erantzukizunik izango Hitzarmena "
+"amaitzean edo Zerbitzuetarako harpidetzak eragindako kalteengatik; hala ere,"
+" Hitzarmena indargabetzeak ez du eragotziko baja hori gertatu baino lehen."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Zure Datuak Kudeatzeko Irteeraren kasuan: onartzen duzu eta onartzen "
+"duzu Zerbitzuetarako harpidetzak iraungi edo amaitu ondoren, kaltetutako "
+"Zerbitzuak berehala desaktiba ditzakegula eta, horren ondorioz, laurogeita "
+"hamar urtetik beherako zentzuzko epea igaro ondoren (90) ) egun, zure kontua"
+" eta datuak ezaba ditzake. Hala ere, Zerbitzuak gurekin amaitzen badira, "
+"zerbitzuetarako sarbide mugatua eta aldi baterakoa emango diogu, hogeita "
+"hamar (30) egun baino gehiago ez gainditzeko, zure jabedun datuak "
+"berreskuratzeko baimena ematearen helburu bakarrarekin; Guk zor zaizkigun "
+"fede on ukaezinak ordaindu dizkiote oso-osorik. Gainera, onartzen duzu ez "
+"dugula zure erantzule izango Zerbitzuetara sartzeko edo zure datuak "
+"ezabatzeagatik inolako erantzukizunik, baldin eta 6.3 atal honetako "
+"baldintzak betetzen baditugu."
+
+msgid "7. Fees:"
+msgstr "7. Tasak:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Zerbitzu-tasak: Zerbitzuengatik ordaindu gabeko diru-sarrerak ordaindu "
+"beharko dituzu erregistratze-fluxuan edo Eskaera Inprimakian "
+"(&quot;Zerbitzu-tasak&quot;) eta erregistratze-fluxuan edo Aginduan "
+"adierazitako fakturazio-maiztasunaren arabera. Formulario. Zerbitzu-tasak "
+"fakturaren egunean ordaindu eta ordaindu beharko dira. Zerbitzu-tarifak "
+"handitu egin daitezke ordurako gure tasen arabera. Zerbitzuaren tasak ez "
+"dira itzulgarriak, baita zure harpidetza lehenago amaitzen baduzu ere."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Tarifa Osagarriak: Zerbitzuak erabiltzeagatik itzul daitezkeen beste "
+"kuota edo gasturen bat ere eska dezakezu, eskaera-formularioan eta / edo "
+"erregistratze-fluxuan ezarritako tasa horiez gain. Itzuli ez diren kuota eta"
+" gastu gehigarriak Zerbitzu aplikagarriaren baldintza osagarrietan zehazten "
+"dira."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Beranduko Kuotak: onartzen duzunean kuotak edo gastuak ordaindu izanak "
+"CaseActive produktuaren harpidetzak etetea edo amaitzea eragin dezake. Hemen"
+" azaltzen diren tasarik edo tasarik ordaindu ezean, CaseActive-k eskubidea "
+"du bildumako agentzia bat konprometitzeko tasak eta gastuak kobratzeko, eta "
+"CaseActive-k sortutako gastu guztiak ordaindu beharko dituzu iraganeko "
+"zenbatekoen bilketarekin lotuta, besteak beste. , mugarik gabe, abokatuen "
+"eta bildumako agentzien tasak, hilean% 1,0 gutxiago edo legeria "
+"aplikagarriak onartzen duen gehieneko tasa."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Zergak: salmenten gaineko zergaren, erabilera zergaren, balio "
+"erantsiaren gaineko zergen, atxikipenen gaineko zergak eta beste edozein "
+"antzeko zerga eta gastu kargudunek hitzarmenak aurreikusten dituen "
+"transakzioen gaineko edozein zerga eta erantzukizun izango duzu. Atal honen "
+"arabera zergak ordaindu edo kobratzeko legezko betebeharra dugunean, atal "
+"honen arabera, dagokion zenbatekoa fakturatu egingo zaizu eta zerga-organoak"
+" baimendutako zerga-salbuespen ziurtagiririk ematen ez badiguzu."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Ordezkaritzak eta bermeak:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Elkarrekiko ordezkaritzak eta bermeak: Alderdi bakoitzak ordezkatzen du "
+"eta bermatzen dio beste alderdiari (i) Hitzarmenean bere betebeharrak bete "
+"eta betetzeko beharrezko aginte guztia duela hirugarrenen baimenik gabe edo "
+"inolako kontraturik edo akordiorik hautsi gabe. edozein hirugarrenek, (ii) "
+"azpian betebeharrak betetzen dituzten pertsona guztiak akordioaren baldintza"
+" guztiak betetzeko beharrezkoak diren hitzarmenak egin dituzte, eta (iii) "
+"errespetu material guztiak aplikatuko zaizkio lege guztiekin. Zerbitzuak"
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Ordezkaritza osagarriak eta bermeak: Zerbitzua helburu legaletarako "
+"bakarrik erabiliko duzula onartzen duzu, Hitzarmenaren eta CaseActive "
+"politika eta jarraibide aplikagarri guztien arabera."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Bermeen uko egitea: 8. ATAL HONETAN ERABAKI DUTEN GARANTZIAK ERABAKI "
+"DITUEN ERABAKI MUGIKORAREN ARABERAKO LEGEA APLIKATUAREN ARABERA, BAKARRIK EZ"
+" DITUGU BAKARRIK, ERABAKI, ERABILI, ERABAKI EDO BESTE AURKEZTU, LORTU DIRA "
+"AURKEZTUTAKOA edo ERABAKI AURREAN. MERKATARITZA, EDUKI BATZUK ERABAKITZEN "
+"DITU, ERANTZUKIZUNAK, SATISFAKTORIOAREN KALITATEA, IZENBURUA, HELBURU PARTE "
+"HARTZAILEAREN, EDO EZ-HARTZEKO. Ez dugu ziurtatzen SOFTWARE-A edo ZERBITZUAK"
+" ZURE ESKAKIZUNAK BETEKO DITU, KONTUAREN BETEBEHARRAK BETE DITU, edo "
+"SOFTWAREAREN ERABILERA EDO ZERBITZUAK ERABAKI EZ DITUZTENAK edo EZERAKO "
+"ERREKLAMAZIOAK. SOFTWARE-A ETA ZERBITZUAK ZUEK OINARRIZ AURKITZEN DIRA, "
+"SOFTWARE ETA ZERBITZUAK ERABILTZEN DITU ZURE ARRISKU PROPIOAN DAUDE, "
+"MUGATZEN EZ, ERABAKI ZENBAKI. PARTEAK ESKAERA EZAGUTZEN DU GARANTZAREN "
+"ZAINTZAILEAK HITZARMENAREN PARTE ESENTZIALA BETEKO DUELA."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"ZERBITZUAK ERABILTZEN DITUZTEN AURKAKOAK edo BERMEAK ERABAKI DITUGU BETETZEN"
+" DITUEN BETEBEHAR BETEBEHAR BETEBEHARREKO ARAZOAK edo ARAUAK edo ARAUTEGIAK."
+" ERABAKI HONEN ARABERA AURKITUKO DA, EZ DA ERABAKI DAITEKE ERABAKI DITUZTEN "
+"ETA ESTATUTUEN ARABERA EDO ARAUTEGIK. ZERBITZUAK ERABILTZEN DITUEN ARABERA "
+"ARABAKO ZUZENBIDEAREN ARABERA DA."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"ZERBITZUAK edo HITZARMENDUAREKIN ERABAKITZEN BADUZU, ZURE ZERBITZU BAKARRIK "
+"ETA ESKLUSIBOAK ZERBITZUAK ERABILTZEA DA."
+
+msgid "9. Confidential Information:"
+msgstr "9. Isilpeko informazioa:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Beste alderdiak berariaz baimendu ezean, alderdiek ez die hirugarrenei "
+"jakinaraziko beste alderdiak Hitzarmenean emandako informazio edo "
+"materialik, eta zentzuz ulertuko da isilpekoa dela (&quot;Konfidentziazko "
+"informazioa&quot;), edo Konfidentziazko informazioa erabiliko duen beste "
+"edozein modutan erabiltzea. Akordioaren arabera dituen betebeharrak betetzea"
+" baino. Aurreko murrizketak ez dira aplikatzen jabari publikoan dagoen edo "
+"dagoeneko hartzailearen jabetzakoa den informaziorako, parte hartzaileari "
+"jakinarazten zitzaion eguna baino lehen, edo gero hartzaileari jakinarazten "
+"zaio hirugarren batek itxurazko edukia duela bona fide eskubidea ezagutzera "
+"emateko informazioa edo alderdi konfidentziala hartzailea derrigortuta "
+"dagoela jurisdikzio eskuduneko auzitegi baten edo baliozko administrazio-"
+"auzitegi baten aginduaren arabera ekoizteko, baldin eta parte hartzaileak "
+"auzitegiaren jakinarazpen puntuala jakinarazten badu. agindua edo menpekoa. "
+"Gainera, zure baimendutako erabiltzaileek segurtasun osoz gordeko dituzu "
+"pasahitzak eta zerbitzuetarako sarbide informazioa. 9. Atal honek Hitzarmen "
+"hau amaitu edo iraungitzen jarraituko du."
+
+msgid "10. Indemnification:"
+msgstr "10. Indemnizazioa:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Arau-hausteengatiko kalte-ordaina: 10.4 atalaren menpe, gure kontura "
+"defendatuko dugu zure aurka aurkeztutako hirugarrenen aurka, Zerbitzuak "
+"ondorioztatzen dituen AEBetako hirugarren patentea urratzen duela "
+"ondorioztatzen duenetik; edo hirugarrenen edozein copyright, marka "
+"komertzial edo merkataritza sekretu urratzen (kolektiboki &quot;Zerbitzuen "
+"azpian Jabetza Intelektuala&quot;). Zerbitzuen azpian dagoen jabetza "
+"intelektuala erabiltzearen aurkako agindua lortu edo lortu nahi izanez gero,"
+" edo gure ustez, bilatu edo lortu nahi izanez gero, gure aukera eta kontura "
+"izango ditugu (i) zuretzako eta zure izenean eskuratuko ditugu. erabiltzaile"
+" baimenduek Zerbitzuak erabiltzen jarraitzeko eskubidea dute, edo (ii) "
+"Zerbitzuak ordezkatu edo aldatzeko, erabilera horiek urratzen ez dituzten "
+"bitartean funtzio bera burutzeko gai badira. Aurreko (i) eta (ii) "
+"azpiataletan komertzialki praktikagarriak ez badira, Zerbitzuak bertan "
+"behera utzi eta aurrez ordaindu gabeko baina erabili gabeko Zerbitzuak "
+"ordaindu beharko ditugu. Ez gara behartuta egongo 10.1 atal honen araberako "
+"kostuak edo kalteak defendatzera edo erantzule izatera, ustezko arau-haustea"
+" sortzen bada edo (edozein modutan) egotzita edozein zerbitzuk (edo zure "
+"baimendutako edozer). erabiltzaile izendatuak) edo (ii) Zerbitzuak "
+"CaseActivek eskaintzen ez dituen zerbitzuekin eta produktuekin batera "
+"erabiltzea, arau-hauste hori aldaketarik edo konbinaziorik gabe saihestuko "
+"balitz edo, (iii) zure diseinu edo argibideak betetzea edo (iv) "
+"erreklamazioa. ez du adierazten Zerbitzuak erreklamazioaren gaia denik "
+"(bakoitza &quot;Baztertutako Erreklamazioa&quot;). 10.1 atal honetan "
+"jasotako kalte-ordainen betebeharrak Hitzarmen hau amaitzen edo iraungitzen "
+"denean iraungo dute."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Datuen segurtasunerako eta pribatutasunarentzako kalte-ordainak: 10.4 "
+"atalean ezarritakoa, eta Zerbitzuetara harpidetzeko epean, gure kontura, "
+"defendatuko zaituztegu, zure baimenik gabe sarbidea galarazteko gure "
+"arduragabekeria larria alegatzen duen edozein hirugarrenen aurka. edo gure "
+"bezeroen informazioa gure jabetza edo kontrolean ezagutzera ematea oker "
+"jokatzea. Kalte-ordaina ez da aplikatuko erreklamazioa zure "
+"arduragabekeriarekin edo jokabide okerrekin edo zure eragileekin edo "
+"ordezkariengandik datorren neurrian, edo erantzukizuna bi aldeek ez badute "
+"edo hitzarmenaren arabera mugatzen. Atal honetan zehaztutako kalte-ordainak "
+"gure arduragabekeria larria edo nahigabeko jokabidea zuzenean eta hurbiletik"
+" zure bezeroen informazio pertsonalizagarria gure jabetza edo kontrolean "
+"sartu edo baimendu dela frogatzearen araberakoa da."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Zure Kalte-ordaina: kalteak, kostuak, gastuak, galerak eta beste "
+"edozein kaltegabe, kostu, gastu, galera eta beste guztietatik babestea "
+"onartzen duzu. erantzukizunak (abokatuen tasak, epaitegiaren kostuak eta "
+"gastuak barne) edo Zerbitzuak erabiltzea Hitzarmena urratzeari lotutakoak "
+"(ii) Baztertutako erreklamazioa, (iii) benetako edo ustezko arau-hausteak. "
+"edozein hitzarmenaren edo ordezkaritzaren, bermeen, itunen edo betebeharren "
+"edo (iv) zure arduragabekeria larria edo nahigabea. 10.3 atal honetan "
+"jasotako kalte-ordainen betebeharrak Hitzarmena amaitu edo iraungitzen "
+"denean iraungo du."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Jakinarazpena eta Lankidetza: Goian aipatutako 10. atal honen arabera "
+"alderdi indemnizatzailearen betebeharrak baldintzatzen dira (i) alderdi "
+"indemnizatzaileari berehala idatziz jakinarazten bazaio, edozein "
+"erreklamazioren berri izan dezaten, eta horretarako eskubidea izan dezake "
+"indemnizazioa Akordioaren arabera. ; (ii) aplikagarria den neurrian, "
+"aldarrikatutako arau-hausleak zerbitzuen erabilera uzten duenean, "
+"jakinarazpena jaso ondoren; (iii) alderdi indemnizatzaileak alderdi "
+"kaltegabeari horrelako erreklamazioaren defentsa eta konponbidea "
+"kontrolatzeko eskubide bakarra izatea baimentzen dio (baldin eta alderdi "
+"kaltegabeak ezin badu inolako erreklamaziorik egin kalte-ordainen baimenik "
+"gabe, likidazioa baldintzarik gabe alderdiaren erantzukizun guztietatik "
+"askatzen ez bada); (iv) alderdi indemnizatua alderdiaren kalte-ordainak "
+"zentzuzko laguntza eskaintzen duena, alderdiaren kalte-ordaina ordainduta, "
+"erreklamazio horren defentsan; (v) alderdi kaltegabeak ez dituela inolako "
+"likidazio-hitzarmenetan sartu edo bestela horrelako erreklamaziorik egin "
+"gabe alderdiaren berariazko eta idatzizko baimen edo eskaera konpentsatu "
+"gabe; eta (vi) erreklamazioarekin (edozein arau-hausteren etorkizuneko "
+"erabilerarekin lotutako) edozein konponbide edo epaitegiren agindua betetzen"
+" duen kalteordaina. Kaltetuak aldez aurretik erreklamazio baten defentsan "
+"edo konponketan parte hartu ahal izango du bere aukerako abokatuekin eta "
+"bere kontura."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Salbuespen esklusiboa: 10. atal honek atal honetan deskribatutako "
+"erantzukizun bakarra eta atal honetan deskribatutako edozein motatako "
+"erreklamazioen aurkako erantzukizun esklusiboa adierazten du."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Erantzukizunaren muga:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"5.3 EDA 12. ATALAREN ARAZOAREKIN ERABAKI DITUEN KALTEAK ERABAKI DUTE, LEHIAK"
+" BETETZEKO MUGIMENDU MUGIMENDUARI EZ, EZ BAKARRI, PARTEAREN GUZTIRA "
+"KONPLEBATZEKO ERANTZUNAK ERABAKI DITU ORAIN BETEKO ARAZOA BETATUTAKO "
+"BETEBEAN. ZERBITZUAK IZANGO DITUEN URTEKO URTEKO ERABAKIAREN ARABERA ERABAKI"
+" ZEN."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"5.3 EDA 12. ATALAREN ARAZOAREKIN ERABAKI DITUEN KALTEAK ERABAKI DUTE, LEHIAK"
+" BETETZEN DITUEN ERABAKI MUGIMENARI, EZ DU ERABAKI HERIOTZAREN PARTE "
+"HONETAN, BERE LIZENTZIAREN EDO HORNITZAILEEN ARABERA, BESTE PARTE BATZUK "
+"BETETZEN DITUZTE. ONDASUN edo ZERBITZU SUBSTITUTUEN ERABAKIAREN KOSTUA EDO "
+"KALTE INDIRETAKOAK, BEREZIAK, BAKARRAK edo ERABAKI DITUENAK, NOLA EGIN "
+"DITUZTEN ERANTZUKIZUNAREN TEORIAREN OINARRIAK (NEGLIGENTZIA ERABAKI DITU), "
+"ORAINAK BETETZEA. HEMEN DUZUE BETEBEHAR BETETZEN DITUEN ZERBATZUAK EZ DITUZU"
+" AURKAKO KALAK AURKITU."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"BATZUK ERE ESTATUAK / JURISDIKZIOAK EZ DU ERABAKI ERANTZUKIZUNAREN ERABAKI "
+"EDO MUGIKORTZEKO KALTE BATZUK EDO ZERBATZEKO BALIABIDEAK, GEHIENEZKO MUGIKOA"
+" EZ DA BETE ESKARRI, ZUEN KASUAREN MUGIMENDUAREN MUGIMENDUAREN AURREAN BETI."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Informazio Pertsonalak eta Pribatutasun Adierazpena:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Pribatutasun aplikagarria eta beste edozein lege, arau, araudi eta "
+"jarraibide beteko dituzu, Pertsonak identifikatzeko Informazioa babestea, "
+"biltzea, erabiltzea eta banatzea (aurrerago definitzen den moduan). "
+"Pribatutasun adierazpen bat argitaratuko duzu Pertsonalki identifikatzeko "
+"informazioa (&#39;Pribatutasun aitorpena&#39;) aplikatzen dituen lege, arau,"
+" araudi eta jarraibide guztiak betetzen dituen eta, gutxienez, jakinarazten "
+"duen Pertsonalki identifikatu daitekeen informazioa jakinarazten diete "
+"erabiltzaileei. nola erabiliko den eta nola ziurtatuko den, eta bilketa "
+"metodoa (cookieak, web balizak edo aplikagarriak diren beste bitarteko "
+"batzuk) eta Zerbitzuekin lotuta bildutako informazioa erabiltzea, aldez "
+"aurretik informatutako baimena (opt-in) lortzea identifikatzen duena. "
+"jarraipen teknologiak, lege eta araudi aplikagarriek eskatzen duten "
+"neurrian. Pribatutasun Deklarazio honek Zerbitzuen bidez guk emandako "
+"Nortasun Pertsonaleko informazioa biltzeari, bidaltzeari eta biltegiratzeari"
+" buruzko informazio teknikoa ere sartuko da. Datuak babesteko legeria "
+"aplikagarriak edo beste lege edo erregelamendu batek eskatzen badu, "
+"hirugarrenei jakinaraziko diezu pertsonalki identifikatzeko informazioa "
+"ematen ari zaigula prozesatzeko eta ziurtatuko zaituztegun hirugarrenek "
+"baimena eman dutela. Pribatutasun aitorpenaren deskribapenak eta xedapenak "
+"betetzea onartzen duzu. &quot;Pertsonalki identifikagarria den "
+"informazioa&quot;, edozein pertsonarenarekin erlazionatu edo atzeman "
+"daitekeen informazioa, hala nola, norbanakoaren izena, helbidea, telefono "
+"zenbakia, helbide elektronikoa, kreditu txartelaren informazioa, gizarte "
+"segurantzako zenbakia edo antzeko informazio zehatz bat, edozein dela ere. "
+"Informazio hori gordetzen duten euskarriak (adibidez paperean edo "
+"elektronikoki)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Denetarik:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Alderdi independenteak: Zu eta CaseActive kontratugile independenteak "
+"dira. Hitzarmenak ez du alderdien arteko lankidetza, lankidetza, agentzia "
+"edo lan harremanik sortzen. Zure enplegatuen erantzulea eta langileei eta "
+"beste edozein ordezkari edo zerbitzu hornitzaileren kalte-ordaina, zergak, "
+"onurak eta erantzukizunak erantsi ahal izango dizkizu. Ez zuk eta ez zure "
+"langile, ordezkari edo zerbitzu hornitzaileren batek ez du adierazpenik, "
+"inolako bermerik edo bermerik egingo, gurekin, Hitzarmena edo Zerbitzuak guk"
+" idatziz baimendutakoaz gain."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Esleipena: ez da Hitzarmena, ezta Hitzarmenean jasotako zure eskubide "
+"edo betebeharrik ere, legearen funtzionamendua edo bestela, ezin da aldez "
+"aurretik idatzizko baimenik eman, intereseko oinordeko bati esleitu ezean, "
+"edo fusio baten arabera. berrantolaketa edo transakzioa amaitu aurretik "
+"gutxienez hogeita hamar (30) egun lehenago jakinarazten dizkiguzu. Zuen "
+"zereginak, beste edozein egoeratan oinarrituta, beharrezkoa da gure baimena "
+"ematea, baimen hori ezin izango da zentzuzkoa izan. Hitzarmen hau "
+"askatasunez eman dezakegu zure baimenik gabe. Esandako guztiarekin bat "
+"etorriz, Akordio honek alderdien, dagozkien ondorengoen eta baimendutako "
+"zereginen onurarako eta loturarik ez du izango."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Indar Maiatza: inor ez da inolako erantzukizunik izango Hitzarmenaren "
+"pean egin beharreko atzerapen, eten edo bestelako eginkizunen erantzulearen "
+"erantzulearen kontroletik kanpo dauden ekintzengatik, baina horrelako "
+"baldintzek irauten duten bitartean. Indar handieneko gertaerak honakoak "
+"dira, baina ez dira soilik hondamendi naturalak (adibidez tximistak, "
+"lurrikarak, urakanak, uholdeak); gerrak, matxinadak, ekintza terroristak eta"
+" mugimendu zibilak; tokiko truke-garraiatzaileen jarduerak, eta hirugarrenen"
+" egintzak; leherketak eta suteak; enbargak, grebak eta lan gatazkak; "
+"gobernuko dekretuak; telekomunikazio hornitzaileen edo Interneteko zerbitzu "
+"hornitzaileen hutsak; hirugarrenen hornitzaileen, zerbitzu hornitzaileen edo"
+" saltzaileen hutsak; eta alderdi baten zentzuzko kontroletik kanpo dagoen "
+"beste edozein kausa."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Zuzenbidea aukeratzea: Hitzarmena edo Hitzarmenarekin edo horrekin "
+"zerikusia duen edozein gatazka Kaliforniako Estatuaren legeek arautuko dute "
+"eta interpretatuko da, legeen gatazkaren printzipioak kontuan hartu gabe. "
+"Hitzarmenaren ondorioz edo horrekin zerikusia duten auzi guztiek "
+"Kaliforniako estatuko eta federazioko auzitegien jurisdikzio esklusiboa eta "
+"egoitza izango dituzte Santa Barbara, Kalifornian, eta alderdiek baimendu "
+"egiten dute auzitegi horien jurisdikzio pertsonala eta esklusiboa."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 Posta elektronikoa eta oharrak: onartzen duzue edozein ohar, adierazpen"
+" eta bestelako komunikazioen berri eman diezagula, posta elektronikoz, posta"
+" elektronikoz, espresuki bidalitako zerbitzua edo aitortutako merkataritza "
+"operadore batek bidalitako azken helbidera zuzenduta. Hitzarmenari buruz. "
+"Harremanetarako eguneratutako edozein informazio eskaintzen diguzu."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Salbuespenik gabe; Errekurtso metagarriak: alde batek ez du Hitzarmen "
+"honen babesean eskubideren bat gauzatzearen ondorioz atzerapenik edo "
+"atzerapenik ekarriko. Espresuki adierazten denez, hemen ematen diren "
+"erremedioak alderdiaren legearen edo ondare-ondarearen gaineko beste edozein"
+" erremedio ere badira eta ez dira baztertzen."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Zatigarritasuna: Hitzarmen honen xedapen bat jurisdikzio eskuduneko "
+"auzitegi batek legearen aurkakoa bada, xedapena auzitegiak aldatu eta "
+"interpretatu egingo du jatorrizko xedapenaren helburuak ahalik eta gehien "
+"betetzeko. legea, eta Hitzarmen honen gainerako xedapenak indarrean eta "
+"indarrean egongo dira."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Akordio Osoa: Lege aplikagarriak ahalbidetzen duen gehieneko neurrian, "
+"Hitzarmen honek, hemen aipatzen diren dokumentuekin eta Agindu Inprimaki "
+"guztiekin eta erregistratze-fluxuekin, alderdien arteko hitzarmen osoa "
+"osatzen dute bere gaiari dagokionez, eta aurretiko guztia ordezkatzen dute. "
+"Hitzarmen honen gaiari buruzko hitzarmen, proposamen edo irudikapen "
+"garaikideak, idatziz edo ahoz. Ez da inolako ordezkaritzarik, konpromisorik "
+"edo konpromisorik hartuko, hitzarmen hau baino lehen alderdien arteko "
+"negoziazioetan esandakoa edo inolako erantzukizunik eman ez zaionik. Bi "
+"alderdik ez dute inolako erremediorik izango alderdiak hitzarmen hau egitean"
+" oinarritu den beste adierazpen faltsu baten aurrean (gezurrezko "
+"adierazpenik iruzurrez egin ez bada behintzat) eta alderdiaren kontrako "
+"erremediorik ez dela izango. Hitzarmen honetan aurreikusitako kontratua "
+"haustea. Onartzen duzu eta onartzen duzu zure hitzarmena ez dela "
+"etorkizunean funtzionaltasun edo ezaugarriei buruz guk egindako ahozko edo "
+"idatzizko, publiko edo pribatuko iruzkinen menpekoa, inolako funtzionaltasun"
+" edo funtzioen entregaren araberakoa. Zerbitzuetarako. Zerbitzu Baldintza "
+"Orokor hauetan eta Agindu Inprimaki edo Zerbitzu Baldintza Osagarrietan "
+"aurreikusitakoen arteko gatazkaren bat izanez gero, Eskaera Inprimakia edo "
+"Zerbitzu Baldintza Osagarriak izango dira nagusi, gatazkaren neurrian. "
+"Erosketa aginduan edo zure eskaeraren edozein dokumentazioan adierazitako "
+"baldintzak edo baldintzak ez dira sartuko edo eratuko dira Hitzarmen honen "
+"zatirik, eta baldintza edo baldintza guztiak bertan behera utziko dira."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Esportazioa: Bi aldeek AEBetako esportazio eta inportazioei buruzko "
+"legeak eta arauak betetzea onartzen dute. Ez diezu zure erabiltzaileei "
+"Zerbitzura sartu edo erabili ahal izango AEBetako esportazio, debeku edo "
+"murrizketarik urratuz."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publizitatea: Baliteke Zerbitzuen erabiltzaile gisa izendatzea zure "
+"idatzizko baimenik gabe."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Hirugarrenen guneetarako estekak: Zerbitzuak edo gure webguneak "
+"hirugarrenen guneetarako estekak (&#39;Estekatutako guneak&#39;) izan "
+"ditzake. Lotutako Guneak ez daude gure kontrolpean eta ez gara inolako "
+"erantzukizunik lotzen Guneetako edukiengatik, estekatutako Webgune bateko "
+"estekarik, ezta Estekatutako Webgune baten edo Zerbitzuen bidez emandako "
+"zerbitzuen aldaketarik edo eguneratzeak ere. Esteka hauek erosotasun gisa "
+"soilik eskaintzen dizkizugu, eta estekak sartzeak ez dakar gurekin gunearen "
+"edo webgunearen zerbitzuekin lotutako zerbitzuen oniritzia."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 CaseActive-ren mezu elektronikoak, telefono deiak eta SMS mezuak "
+"jasotzeko baimena ematen duzu zure eskaera eta / edo marketin helburuetarako"
+" eguneratzeak emateko. Mezuaren maiztasuna zure jardueraren araberakoa da. "
+"Zure kontuko jakinarazpenak desautatuz edo zure kontua ezabatuz aukeratu "
+"dezakezu. Baliteke mezuen eta datuen tarifak aplikatzea."
+
+msgid "An error occurred"
+msgstr "Akats bat gertatu da"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Zerbait gaizki joan da. Gure ingeniariei jakinarazi zaie. Sakatu birkargatu "
+"botoia berriro kargatzeko."
+
+msgid "Reload"
+msgstr "Berriz kargatu"

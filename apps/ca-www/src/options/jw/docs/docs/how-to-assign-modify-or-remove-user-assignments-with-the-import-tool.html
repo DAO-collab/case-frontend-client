@@ -1,0 +1,79 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Cara Nemtokake, Ngowahi utawa Mbusak Tugas Panganggo nganggo Alat Impor
+</h1>
+<p>Artikel iki nuduhake admin carane ngatur pangguna kasus nganggo alat Impor.</p>
+<p>Admin bisa:</p>
+<ul>
+  <li>nemtokake pangguna menyang kasus</li>
+  <li>ngowahi pangguna sing wis ditugasake kanggo kasus</li>
+  <li>mbusak pangguna sing ditugasake kanggo kasus</li>
+</ul>
+<h2 id="opening-the-import-tool">Mbukak alat Impor</h2>
+<ol style="list-style-type: decimal">
+  <li>Mlebu menyang akun admin.</li>
+  <li>Goleki app ing kaca Aplikasi banjur klik tombol ADMIN.</li>
+  <li>Klik tab Integrasi banjur IMPOR ing submenu.</li>
+  <li>Klik tombol NEW. Kothak dialog Tambah Impor ditampilake.</li>
+</ol>
+<h2 id="creating-records">Nggawe cathetan</h2>
+<p>
+  Ngundhuh siji utawa luwih file CSV. Gunakake file kasebut kanggo nambah, ngowahi, utawa mbusak pangguna cilik. Sawise
+  kothak dialog Tambah Impor mbukak:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Klik kolom Tipe.</li>
+  <li>Gulung menu gulung mudhun lan pilih pilihan (ndeleng ngisor). A link ditampilake.</li>
+  <li>Klik link Download Sample. File CSV diundhuh menyang piranti sampeyan.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-1.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Mbukak file lan nambah cathetan. Klik kene kanggo mangerteni carane nggunakake data format ing file CSV.</p>
+<h3 id="file-options">Pilihan file</h3>
+<p>
+  <strong>Temtokake pangguna menyang kasus</strong> * Pilih pilihan iki kanggo nambah pangguna menyang kasus. *
+  Ninggalake sel case_role_order kosong. * Bukak kaca Pangguna lan salin ID Tag kanggo wong iki. Yen kolom Tag ID
+  kosong, ketik ID unik, klik Simpen, banjur salin ID menyang file CSV.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  <strong>Ngowahi pangguna sing ditugasake kanggo kasus</strong> * Pilih pilihan iki kanggo nganyari data kanggo
+  pangguna saiki sing ditugasake kanggo kasus. * Gunakake ID Tag Case kanggo kolom case_ID.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Mbusak pangguna sing ditugasake kanggo kasus</strong> * Pilih pilihan iki kanggo mbusak pangguna sing
+  ditugasake kanggo kasus.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Ngunggah file</h2>
+<p>
+  Sampeyan bisa langsung ngunggah file utawa bali menyang kothak dialog Tambah Impor mengko lan ngrampungake
+  langkah-langkah iki.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Bukak kothak dialog Tambah Impor.</li>
+  <li>Ketik jeneng unik kanggo file CSV.</li>
+  <li>Klik lambang plus (+) kanggo ngunggah file saka piranti sampeyan.</li>
+  <li>Klik kolom Tipe banjur pilih opsi. (ndeleng ndhuwur)</li>
+  <li>Klik SAVE.</li>
+</ol>
+<h2 id="processing">Ngolah</h2>
+<p>Gumantung saka jumlah rekaman ing file lan beban sistem, platform bisa njupuk sawetara menit kanggo proses impor.</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>Nalika impor rampung, platform nyetel cathetan pangguna (yaiku nambah, ngowahi, utawa mbusak) ing kaca Kasus.</p>
+<h2 id="failure">Gagal</h2>
+<p>Yen operasi impor gagal, platform ngasilake pesen Gagal. Umume kasus, panyebab kegagalan yaiku format data.</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Kanggo ndeleng sabab saka kegagalan:</p>
+<ol style="list-style-type: decimal">
+  <li>Klik Ndeleng ing judhul Tindakan.</li>
+  <li>Ing kaca sabanjure, kisaran mouse ing lambang Gagal. Tooltip nampilake kesalahan.</li>
+  <li>Pindhah menyang file CVS lan atur lan ndandani kesalahan kasebut.</li>
+  <li>Upload file maneh.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

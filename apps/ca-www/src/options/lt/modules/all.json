@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Skaityti vis\u0105 atvej\u012f nurodykite vaidmenyje",
+    "write": "\u012era\u0161ykite visus atvejo lauke nurodyt\u0105 vaidmen\u012f"
+  },
+  "convos": {
+    "read_all": "Per\u017ei\u016br\u0117kite dabartin\u0119 konvos b\u016bsen\u0105.",
+    "manage_own": "Prisijunkite ir atsijunkite nuo pokalbio.",
+    "moderate_others": "Prad\u0117ti pokalb\u012f, baigti pokalb\u012f ir pa\u0161alinti dalyv\u012f.",
+    "read_all_submissions": "Skaityti visus \u012fra\u0161ytus pokalbius."
+  },
+  "events": {
+    "read_all": "Skaityti visus \u012fvykius.",
+    "manage_own": "Kurti, atnaujinti ir i\u0161trinti savo \u012fvyk\u012f.",
+    "moderate_others": "Atnaujinkite ir i\u0161trinkite kito \u012fvyk\u012f.",
+    "read_all_submissions": "Perskaitykite visus renginio patvirtinimus.",
+    "submit_own": "Patvirtinkite pra\u0161ym\u0105 dalyvauti renginyje."
+  },
+  "posts": {
+    "read_all": "Skaityti visus \u012fra\u0161us.",
+    "manage_own": "Sukurkite, atnaujinkite ir i\u0161trinkite savo \u012fra\u0161\u0105.",
+    "moderate_others": "Atnaujinkite ir i\u0161trinkite kito \u012fra\u0161\u0105."
+  },
+  "forms": {
+    "read_all": "Skaityti visas formas.",
+    "manage_own": "Sukurti, atnaujinti ir i\u0161trinti savo form\u0105.",
+    "moderate_others": "Atnaujinkite ir i\u0161trinkite kit\u0173 form\u0105.",
+    "read_all_submissions": "Perskaitykite visus pateiktus formos duomenis.",
+    "submit_own": "Pateikite formos pra\u0161ym\u0105."
+  },
+  "invoices": {
+    "read_all": "Skaityti visas s\u0105skaitas fakt\u016bras.",
+    "manage_own": "Sukurti, atnaujinti ir i\u0161trinti savo s\u0105skait\u0105 fakt\u016br\u0105.",
+    "moderate_others": "Atnaujinkite ir i\u0161trinkite kito s\u0105skait\u0105 fakt\u016br\u0105.",
+    "read_all_submissions": "Skaityti visas pateiktas s\u0105skaitas fakt\u016bras.",
+    "submit_own": "Pateikite s\u0105skaitos fakt\u016bros pra\u0161ym\u0105."
+  },
+  "notes": {
+    "read_all": "Perskaitykite visas pastabas.",
+    "manage_own": "Sukurkite, atnaujinkite ir i\u0161trinkite savo u\u017era\u0161\u0105.",
+    "moderate_others": "Atnaujinkite ir i\u0161trinkite kito pastab\u0105."
+  },
+  "signs": {
+    "read_all": "Perskaitykite visus el. \u017eenklus.",
+    "manage_own": "Kurti, atnaujinti ir i\u0161trinti savo el.",
+    "moderate_others": "Atnaujinkite ir i\u0161trinkite kit\u0173 el.",
+    "read_all_submissions": "Perskaitykite visus pateiktus el. para\u0161us.",
+    "submit_own": "Pateikite lauko u\u017eklaus\u0105."
+  },
+  "tasks": {
+    "read_all": "Perskaitykite visas u\u017eduotis.",
+    "manage_own": "Sukurkite, atnaujinkite ir i\u0161trinkite savo u\u017eduot\u012f.",
+    "moderate_others": "Atnaujinkite ir i\u0161trinkite kito u\u017eduot\u012f.",
+    "read_all_submissions": "Perskaitykite visus pateiktus u\u017edavinius.",
+    "submit_own": "Pateikite u\u017eduoties u\u017eklaus\u0105."
+  },
+  "team": { "read_all": "Tuo atveju skaitykite komand\u0105" }
+}

@@ -1,0 +1,112 @@
+<header appScrollNav #header id="top" class="a has-a" [nav]="nav" [class.light-background]="!isHomePage">
+  <h1>
+    <a class="top-icon" accesskey="h" routerLink="home" (click)="scrollPageToTop()">
+      <img class="top-logo" [src]="logoTopSrc" />
+    </a>
+  </h1>
+  <nav id="skip">
+    <ul>
+      <li>
+        <a href="#nav" accesskey="n" [innerHTML]="'Skip to navigation (n)' | translate"></a>
+      </li>
+      <li>
+        <a href="#content" accesskey="c" [innerHTML]="'Skip to content (c)' | translate"></a>
+      </li>
+      <li>
+        <a href="#footer" accesskey="f" [innerHTML]="'Skip to footer (f)' | translate"> </a>
+      </li>
+    </ul>
+  </nav>
+  <nav #nav id="nav">
+    <ul>
+      <li>
+        <a
+          class="menu-item"
+          routerLink="home"
+          [innerHTML]="'Home' | translate"
+          (click)="toggleMobileMenu(); scrollPageToTop()"
+        ></a>
+      </li>
+      <li class="has-icon">
+        <a accesskey="1" class="menu-item" routerLink="explore" (click)="toggleMobileMenu(); scrollPageToTop()">
+          <span [innerHTML]="'Explore' | translate"></span>
+          <i class="icon-grid"></i>
+        </a>
+        <em>(1)</em>
+      </li>
+      <li class="has-icon">
+        <a accesskey="2" class="menu-item" routerLink="pricing" (click)="toggleMobileMenu(); scrollPageToTop()">
+          <span [innerHTML]="'Pricing' | translate"></span>
+        </a>
+        <em>(1)</em>
+      </li>
+      <li class="sub has-icon dropdown-icon">
+        <a accesskey="3">
+          <span [innerHTML]="'Support & Docs' | translate"></span>
+          <i class="icon-support"></i>
+        </a>
+        <em>(2)</em>
+        <ul>
+          <li>
+            <a
+              class="menu-item"
+              routerLink="pricing"
+              fragment="faq"
+              [innerHTML]="'FAQ' | translate"
+              (click)="toggleMobileMenu(); scrollPageToTop()"
+            ></a>
+          </li>
+          <li>
+            <a
+              class="menu-item"
+              routerLink="docs"
+              [innerHTML]="'Docs' | translate"
+              (click)="toggleMobileMenu(); scrollPageToTop()"
+            ></a>
+          </li>
+          <li>
+            <a
+              class="menu-item"
+              routerLink="pricing"
+              fragment="contact-us"
+              [innerHTML]="'Contact Us' | translate"
+              (click)="toggleMobileMenu()"
+            ></a>
+          </li>
+        </ul>
+      </li>
+      <li class="a">
+        <a
+          accesskey="3"
+          class="menu-item outline"
+          target="_blank"
+          [innerHTML]="'Login' | translate"
+          [href]="loginUrl"
+          (click)="toggleMobileMenu()"
+        ></a>
+      </li>
+      <li class="a">
+        <a
+          accesskey="4"
+          class="menu-item"
+          target="_blank"
+          [innerHTML]="'Get Started' | translate"
+          [href]="signupUrl"
+          (click)="toggleMobileMenu()"
+        ></a>
+        <em>(4)</em>
+      </li>
+      <li
+        app-select-language
+        id="language"
+        class="switchLanguage"
+        [locale]="locale"
+        [filteredLanguages]="filteredLanguages"
+        [popularLanguages]="popularLanguages"
+        (languageChange)="onLanguageChange()"
+      ></li>
+    </ul>
+    <div appMobileMenu class="menu" [target]="header"></div>
+  </nav>
+  <div appMobileMenu class="menu" [target]="header"></div>
+</header>

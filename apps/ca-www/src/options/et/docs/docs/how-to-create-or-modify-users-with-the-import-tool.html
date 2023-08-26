@@ -1,0 +1,92 @@
+<h1 id="how-to-create-or-modify-users-with-the-import-tool">
+  Kuidas importimise tööriistaga kasutajaid luua või muuta
+</h1>
+<p>See artikkel näitab administraatoritele, kuidas luua importimise tööriistaga kasutajaid.</p>
+<h2 id="opening-the-import-tool">Importimise tööriista avamine</h2>
+<p>
+  Administraatorid saavad kasutada imporditööriista uute kasutajate hulgiüleslaadimiseks ja olemasolevate
+  kasutajakirjete muutmiseks.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Logige sisse administraatori kontole.</li>
+  <li>Leidke rakenduste lehelt rakendus ja klõpsake nuppu ADMIN.</li>
+  <li>Klõpsake administraatoripaneelil vahekaarti Integratsioon ja seejärel alammenüüs IMPORTID.</li>
+  <li>Klõpsake nuppu UUS. Dialoogiboks Import Import kuvatakse uuel brauseri vahekaardil.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-records">Kirjete loomine</h2>
+<p>Pärast dialoogiboksi Import Imports avanemist:</p>
+<ol style="list-style-type: decimal">
+  <li>Klõpsake väljal <strong>Tüüp</strong> ja tehke valik (vt allpool). Kuvatakse link.</li>
+  <li>Klõpsake linki <strong>Laadi näidis alla</strong> . CSV-fail laaditakse teie seadmesse alla.</li>
+</ol>
+<p>
+  Järgmisena avage fail ja lisage kirjed. Klõpsake <a href="docs/how-to-format-csv-data" target="_blank">siin</a> , et
+  saada teavet selle kohta, kuidas kasutada CSV-failis vorminguandmeid.
+</p>
+<div class="figure">
+  <img src="/images/import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="type">Tüüp</h2>
+<p>Kui klõpsate väljal Tüüp, kuvatakse rippmenüü. Valige hulgiimpordiks üks kahest võimalusest.</p>
+<p>
+  :exlamation: <strong>MÄRKUS</strong> . Rippmenüüs on palju valikuid, kuid ainult kaks on seotud tööriistaga Import.
+  Igal valikul on erinev CSV-faili näidis.
+</p>
+<h3 id="add-users">Lisa kasutajaid</h3>
+<ul>
+  <li>Valige see suvand kasutajakirjete lihtsaks hulgiüleslaadimiseks.</li>
+  <li>Klõpsake linki Laadi näidis alla, et avada CSV-fail veerupäistega tüübi Lisa kasutajaid impordi jaoks.</li>
+</ul>
+<h3 id="modify-users">Muutke kasutajaid</h3>
+<ul>
+  <li>Valige see suvand praeguste kasutajate andmete värskendamiseks.</li>
+  <li>Klõpsake linki Laadi näidis alla, et avada CSV-fail veerupäistega kasutajate importimise tüübi jaoks.</li>
+</ul>
+<h2 id="uploading-the-file">Faili üleslaadimine</h2>
+<p>Saate faili kohe üles laadida või hiljem naasta dialoogiboksi Importimise lisamine ja need sammud lõpule viia.</p>
+<ol style="list-style-type: decimal">
+  <li>Avage dialoogiboks Impordi lisamine.</li>
+  <li>Sisestage CSV-faili kordumatu nimi.</li>
+  <li>Faili seadmest üleslaadimiseks klõpsake plussmärgi (+) ikoonil.</li>
+  <li>Klõpsake väljal <strong>Tüüp</strong> ja tehke valik. (vt eespool)</li>
+  <li>Klõpsake SAVE.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Töötlemine</h2>
+<p>
+  Sõltuvalt failis olevate kirjete arvust ja süsteemi laadimisest võib platvormil impordi töötlemiseks kuluda mitu
+  minutit.
+</p>
+<div class="figure">
+  <img src="/images/import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Kui importimine on lõppenud, kohandab platvorm kasutajakirjeid (st lisab, muudab või keelab) administraatori
+  <strong>kasutajate</strong> armatuurlaual.
+</p>
+<h2 id="failure">Ebaõnnestumine</h2>
+<p>Kui importimine ebaõnnestub, tagastab platvorm Failed teate. Enamasti on rikke põhjuseks andmete vormindamine.</p>
+<div class="figure">
+  <img src="/images/import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Rikke põhjuse nägemiseks tehke järgmist.</p>
+<ol style="list-style-type: decimal">
+  <li>Klõpsake jaotise Toiming all nuppu <strong>Vaade</strong> .</li>
+  <li>Järgmisel lehel hõljutage kursorit ebaõnnestunud ikoonil. Tööriistaspikker kuvab vea.</li>
+  <li>Minge CVS-faili ning korrigeerige ja parandage viga.</li>
+  <li>Laadige fail uuesti üles.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>

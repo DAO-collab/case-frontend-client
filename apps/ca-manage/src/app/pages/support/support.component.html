@@ -1,0 +1,83 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item" [ngClass]="ticketStatus === status.Open ? 'active-btn' : 'disable-btn'">
+      <a (click)="toggleTicketStatus(status.Open)" translate>Open</a>
+    </p>
+    <p class="link-a a btn-item" [ngClass]="ticketStatus === status.Closed ? 'active-btn' : 'disable-btn'">
+      <a (click)="toggleTicketStatus(status.Closed)" translate>Closed</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <div class="table-wrapper">
+    <table class="table-a" *ngIf="tickets.length && !isLoading">
+      <tr>
+        <th translate></th>
+        <th translate>Name</th>
+        <th translate>Username</th>
+        <th translate>Title</th>
+        <th translate>Created on</th>
+        <th translate>Status</th>
+        <th translate>Comment ct</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let ticket of tickets; let index = index">
+        <td>
+          <img [src]="getUserAvatar(ticket.created_by)" alt="" />
+        </td>
+        <td>{{ showUserName(ticket.created_by) }}</td>
+        <td>{{ showUserEmail(ticket.created_by) }}</td>
+        <td class="title-cell">{{ ticket.title }}</td>
+        <td>{{ showLocalDate(ticket.created_on) | date : 'longDate' }}</td>
+        <td>
+          <ng-container *ngIf="ticket.status" translate>Open</ng-container>
+          <ng-container *ngIf="!ticket.status" translate>Closed</ng-container>
+        </td>
+        <td>{{ ticket.comments_ct }}</td>
+        <td>
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="viewTicket(ticket)" translate>
+                <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                View Ticket
+              </a>
+              <a (click)="closeTicket(ticket)" translate>
+                <ng-container *ngIf="ticket.status">
+                  <img class="drop-item-option-img" src="images/item-close-element.svg" alt="" />
+                  Close
+                </ng-container>
+                <ng-container *ngIf="!ticket.status">
+                  <img class="drop-item-option-img" src="images/item-open-element.svg" alt="" />
+                  Open
+                </ng-container>
+                Ticket
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <app-loader [active]="isLoading"></app-loader>
+
+  <p *ngIf="tickets.length === 0 && !isLoading" class="text-center" translate>No tickets yet.</p>
+</article>
+
+<app-create-ticket-modal
+  *ngIf="ticketsService.isCreatePopupOpened | async"
+  [ticket]="ticket"
+  [users]="users"
+  (submitTicket)="saveNewTicket($event)"
+  (closeModal)="closeModal()"
+></app-create-ticket-modal>
+
+<app-view-ticket-modal
+  *ngIf="ticket"
+  [ticket]="ticket"
+  [users]="users"
+  (closeModal)="closeViewTicketModal()"
+  (postCommentEvent)="postTicketComment($event)"
+></app-view-ticket-modal>

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Feld f\u00fcr alle F\u00e4lle lesen, das in der Rolle angegeben ist",
+    "write": "Schreiben Sie alle Fallfelder, die in der Rolle angegeben sind"
+  },
+  "convos": {
+    "read_all": "Zeigen Sie den aktuellen Status von Convos an.",
+    "manage_own": "Convo beitreten und abmelden.",
+    "moderate_others": "Convo starten, Convo beenden und Teilnehmer entfernen.",
+    "read_all_submissions": "Lesen Sie alle aufgezeichneten Gespr\u00e4che."
+  },
+  "events": {
+    "read_all": "Lesen Sie alle Veranstaltungen.",
+    "manage_own": "Eigene Veranstaltung erstellen, aktualisieren und l\u00f6schen.",
+    "moderate_others": "Aktualisieren und l\u00f6schen Sie das Ereignis eines anderen.",
+    "read_all_submissions": "Lesen Sie alle Veranstaltungsbest\u00e4tigungen.",
+    "submit_own": "Best\u00e4tigen Sie die Teilnahmeanfrage f\u00fcr die Veranstaltung."
+  },
+  "posts": {
+    "read_all": "Lesen Sie alle Beitr\u00e4ge.",
+    "manage_own": "Eigenen Beitrag erstellen, aktualisieren und l\u00f6schen.",
+    "moderate_others": "Aktualisieren und l\u00f6schen Sie den Beitrag anderer."
+  },
+  "forms": {
+    "read_all": "Lesen Sie alle Formulare.",
+    "manage_own": "Eigenes Formular erstellen, aktualisieren und l\u00f6schen.",
+    "moderate_others": "Aktualisieren und l\u00f6schen Sie das Formular eines anderen.",
+    "read_all_submissions": "Lesen Sie alle Formulareinsendungen.",
+    "submit_own": "Formularanfrage senden."
+  },
+  "invoices": {
+    "read_all": "Lesen Sie alle Rechnungen.",
+    "manage_own": "Eigene Rechnung erstellen, aktualisieren und l\u00f6schen.",
+    "moderate_others": "Aktualisieren und l\u00f6schen Sie die Rechnung anderer.",
+    "read_all_submissions": "Lesen Sie alle Rechnungseinreichungen.",
+    "submit_own": "Rechnungsanforderung senden."
+  },
+  "notes": {
+    "read_all": "Lesen Sie alle Notizen.",
+    "manage_own": "Eigene Notiz erstellen, aktualisieren und l\u00f6schen.",
+    "moderate_others": "Aktualisieren und l\u00f6schen Sie die Notiz eines anderen."
+  },
+  "signs": {
+    "read_all": "Lesen Sie alle E-Signaturen.",
+    "manage_own": "Eigene E-Signatur erstellen, aktualisieren und l\u00f6schen.",
+    "moderate_others": "Aktualisieren und l\u00f6schen Sie die E-Signatur anderer.",
+    "read_all_submissions": "Lesen Sie alle E-Signatur-\u00dcbermittlungen.",
+    "submit_own": "Feldanfrage senden."
+  },
+  "tasks": {
+    "read_all": "Lesen Sie alle Aufgaben.",
+    "manage_own": "Eigene Aufgabe erstellen, aktualisieren und l\u00f6schen.",
+    "moderate_others": "Aktualisieren und l\u00f6schen Sie die Aufgabe eines anderen.",
+    "read_all_submissions": "Lesen Sie alle Aufgaben\u00fcbermittlungen.",
+    "submit_own": "Aufgabenanfrage senden."
+  },
+  "team": { "read_all": "Lesen Sie Team f\u00fcr den Fall" }
+}

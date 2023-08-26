@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Akhri dhammaan goobta kiiska ku qeex doorka",
+    "write": "Qor dhammaan goobta kiiska ku qeex doorka"
+  },
+  "convos": {
+    "read_all": "Eeg heerka hadda ee convos",
+    "manage_own": "Ku biir oo ka saar convo",
+    "moderate_others": "Bilow convo, dhame convo, oo ka saar ka qaybqaataha.",
+    "read_all_submissions": "Akhri dhammaan convos la duubay"
+  },
+  "events": {
+    "read_all": "Akhri dhammaan dhacdooyinka",
+    "manage_own": "Abuur, cusboonaysii oo tirtir dhacdo u gaar ah.",
+    "moderate_others": "Cusbooneysii oo tirtir dhacdada kale",
+    "read_all_submissions": "Akhri dhammaan xaqiijinta dhacdada.",
+    "submit_own": "Xaqiiji codsiga imaanshaha dhacdada."
+  },
+  "posts": {
+    "read_all": "Akhri dhammaan qoraallada.",
+    "manage_own": "Abuur, cusboonaysii oo tirtir qoraalkaaga",
+    "moderate_others": "Cusbooneysii oo tirtir qoraalada kale"
+  },
+  "forms": {
+    "read_all": "Akhri dhammaan foomamka.",
+    "manage_own": "Abuur, cusboonaysii oo tirtir foom u gaar ah.",
+    "moderate_others": "Cusbooneysii oo tirtir foomka kale.",
+    "read_all_submissions": "Akhri dhammaan foomamka la soo gudbiyay.",
+    "submit_own": "Soo gudbi codsiga foomka."
+  },
+  "invoices": {
+    "read_all": "Akhri dhammaan qaansheegyada",
+    "manage_own": "Abuur, cusboonaysii oo tirtir qaansheegta adiga kuu gaar ah.",
+    "moderate_others": "Cusbooneysii oo tirtir qaansheegta kale",
+    "read_all_submissions": "Akhri dhammaan soo gudbinta qaansheegta.",
+    "submit_own": "Soo gudbi codsiga qaansheegta."
+  },
+  "notes": {
+    "read_all": "Akhri dhammaan qoraallada.",
+    "manage_own": "Abuur, cusboonaysii oo tirtir qoraalkaaga.",
+    "moderate_others": "Cusbooneysii oo tirtir qoraalka kale."
+  },
+  "signs": {
+    "read_all": "Akhri dhammaan calaamadaha elektaroonigga ah.",
+    "manage_own": "Abuur, cusboonaysii oo tirtir calaamadda elektrooniga ah.",
+    "moderate_others": "Cusbooneysii oo tirtir calaamada elektaroonigga ah ee kale.",
+    "read_all_submissions": "Akhri dhammaan calaamadaha elektaroonigga ah ee la soo gudbiyay.",
+    "submit_own": "Soo gudbi codsiga goobta"
+  },
+  "tasks": {
+    "read_all": "Akhri dhammaan hawlaha",
+    "manage_own": "Abuur, cusboonaysii oo tirtir hawsha gaarka ah.",
+    "moderate_others": "Cusbooneysii oo tirtir hawsha kuwa kale",
+    "read_all_submissions": "Akhri dhammaan soo gudbinta hawsha.",
+    "submit_own": "Gudbi codsiga hawsha"
+  },
+  "team": { "read_all": "Kooxda akhri haddii ay dhacdo" }
+}

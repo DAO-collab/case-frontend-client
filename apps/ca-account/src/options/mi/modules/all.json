@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Panuihia nga waahanga katoa e tohuhia ana i te waahi",
+    "write": "Tuhia nga waahi katoa e tohuhia ana ki te waahi"
+  },
+  "convos": {
+    "read_all": "Tirohia te ahua o nga korero o naianei.",
+    "manage_own": "Hono me te whakakore i te convo.",
+    "moderate_others": "T\u012bmatahia te convo, mutu te convo, ka tango i te kaiuru.",
+    "read_all_submissions": "Panuihia nga korerorero katoa kua tuhia."
+  },
+  "events": {
+    "read_all": "Panuihia nga huihuinga katoa.",
+    "manage_own": "Waihanga, whakahou me te muku i a koe ake kaupapa.",
+    "moderate_others": "Whakahou me te muku i te takahanga a etahi atu.",
+    "read_all_submissions": "Panuihia nga whakapumautanga huihuinga katoa.",
+    "submit_own": "Whakapumautia te tono tae atu ki nga huihuinga."
+  },
+  "posts": {
+    "read_all": "Panuihia nga panui katoa.",
+    "manage_own": "Waihanga, whakahou me te whakakore i a koe ake pou.",
+    "moderate_others": "Whakahou me te muku i te whakairinga a etahi atu."
+  },
+  "forms": {
+    "read_all": "P\u0101nuihia ng\u0101 puka katoa.",
+    "manage_own": "Waihanga, whakahou me te muku i to ake ahua.",
+    "moderate_others": "Whakahou me te muku i te ahua o etahi atu.",
+    "read_all_submissions": "P\u0101nuihia ng\u0101 tukunga puka katoa.",
+    "submit_own": "Tuku puka tono."
+  },
+  "invoices": {
+    "read_all": "P\u0101nuihia nga nama katoa.",
+    "manage_own": "Waihanga, whakahou me te muku i a koe ake nama.",
+    "moderate_others": "Whakahou me te muku i te nama a etahi atu.",
+    "read_all_submissions": "Panuitia nga tukunga nama katoa.",
+    "submit_own": "Tuku tono nama."
+  },
+  "notes": {
+    "read_all": "Panuihia nga korero katoa.",
+    "manage_own": "Waihanga, whakahou me te muku i a koe ake tuhipoka.",
+    "moderate_others": "Whakahou me te muku i te tuhipoka a etahi atu."
+  },
+  "signs": {
+    "read_all": "Panuihia nga tohu-e katoa.",
+    "manage_own": "Waihanga, whakahou me te whakakore i a koe ake tohu-e.",
+    "moderate_others": "Whakahou me te muku i te tohu-e a etahi atu.",
+    "read_all_submissions": "Panuitia nga tukunga tohu-e katoa.",
+    "submit_own": "Tuku tono mara."
+  },
+  "tasks": {
+    "read_all": "Panuitia nga mahi katoa.",
+    "manage_own": "Waihanga, whakahou me te muku i a koe ake mahi.",
+    "moderate_others": "Whakahou me te muku i te mahi a etahi atu.",
+    "read_all_submissions": "Panuitia nga tuku mahi katoa.",
+    "submit_own": "Tuku tono mahi."
+  },
+  "team": { "read_all": "P\u0101nuihia te kapa i roto i te take" }
+}

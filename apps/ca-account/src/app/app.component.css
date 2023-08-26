@@ -1,0 +1,11 @@
+.loader-wrapper {
+  background-color: #fff;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

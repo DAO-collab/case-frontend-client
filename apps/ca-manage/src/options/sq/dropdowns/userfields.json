@@ -1,0 +1,18 @@
+{
+  "family_name": "Mbiemri",
+  "given_name": "Emri",
+  "locale": "Gjuha e Preferuar",
+  "zoneinfo": "Ora",
+  "email": "Adresa e post\u00ebs elektronike",
+  "phone": "Numri i telefonit",
+  "address1": "Adresa e rrug\u00ebs",
+  "address2": "Apt # ose Nj\u00ebsia #",
+  "locality": "Qyteti ose lokaliteti",
+  "region": "Shteti ose rajoni",
+  "postal_code": "Kodi Postar ose Zip",
+  "country": "vend",
+  "birthdate": "Data e lindjes",
+  "gender": "gjini",
+  "company": "kompani",
+  "title": "Titulli i emrit"
+}

@@ -1,0 +1,8 @@
+{
+  "add_post": "il post \u00e8 stato creato",
+  "modify_post": "il post \u00e8 stato modificato",
+  "delete_post": "il post viene eliminato",
+  "add_post_comment": "il commento al post viene creato",
+  "modify_post_comment": "il commento al post \u00e8 stato modificato",
+  "delete_post_comment": "il commento al post viene eliminato"
+}

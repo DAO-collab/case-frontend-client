@@ -1,0 +1,107 @@
+<article id="content" [ngClass]="{ touchedSubmit: formTouched }" *ngIf="!loading">
+  <div class="form">
+    <div class="form-container">
+      <div class="form-block right-margin">
+        <div class="form-block-item bottom-split">
+          <h3>About</h3>
+          <div>
+            <p class="full-width">
+              <span class="full-width no-float">
+                <label class="required">{{ 'Title' | translate }}</label>
+                <input type="text" name="name" [(ngModel)]="taskModel.name" #nameF />
+                <app-error
+                  [fieldValue]="taskModel.name"
+                  [field]="nameF"
+                  [validationErrors]="validationErrors"
+                  [validation]="{ required: true }"
+                ></app-error>
+              </span>
+            </p>
+
+            <p class="full-width no-float">
+              <span class="half-width">
+                <label for="dueDate" class="required" translate>Due Date</label>
+                <input
+                  mwlFlatpickr
+                  dateFormat="m/d/Y"
+                  type="text"
+                  name="dueDate"
+                  id="dueDate"
+                  class="form-control"
+                  [(ngModel)]="taskModel.duration.due_date"
+                  required
+                />
+              </span>
+
+              <span class="half-width">
+                <label class="required" translate>Due Time</label>
+                <ca-time-selector
+                  #selectDueTime
+                  [enabled]="true"
+                  (open)="setDropDownSelectedPosition(selectDueTime)"
+                  (selected)="activeDueTime = $event; toggleTime()"
+                  [selectedTime]="activeDueTime"
+                ></ca-time-selector>
+              </span>
+
+              <span style="display: inline-block" class="margin-top-15">
+                <label class="left-label" for="recurring">Repeat</label>
+                <label class="checkbox-container centered-checkbox">
+                  <input
+                    type="checkbox"
+                    id="recurring"
+                    [disabled]="false"
+                    [checked]="recurring"
+                    (change)="toggleRecurring()"
+                  />
+                  <span class="checkmark"></span>
+                </label>
+              </span>
+
+              <app-rrule
+                *ngIf="recurring"
+                [(rrule)]="taskModel.duration.rrule"
+                [startDate]="rruleStartDate"
+                [endDate]="rruleEndDate"
+                [endTime]="'11:59 PM'"
+                [enabled]="true"
+              ></app-rrule>
+            </p>
+          </div>
+        </div>
+        <div class="form-block-item mobile-bottom-split">
+          <h3>Details</h3>
+          <div>
+            <p class="full-width">
+              <label>{{ 'Description' | translate }}</label>
+              <textarea type="text" name="description" [(ngModel)]="taskModel.description"></textarea>
+            </p>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="form-block left-margin">
+        <!-- Notifications -->
+        <h3>Notifications</h3>
+        <app-notification-field
+          [notitficationsList]="notifications"
+          (changed)="onNotificationChange($event)"
+          (defaultNofify)="onDefaultNotificationChange()"
+          [enabled]="true"
+        ></app-notification-field>
+      </div>
+    </div>
+
+    <p class="submit">
+      <ca-button class="float-right" [text]="taskModel.task_id ? ('Update Task' | translate) : ('Create Task' | translate)" [isDisabled]="isInvalid()" [isFilled]="true" (btnClick)="validationErrors?.length > 0 ? (formTouched = true) : sendTask()" [fontWeight]="600" [isUpperCase]="false"></ca-button>
+      <a (click)="afterChangeEmit()">Close</a>
+    </p>
+  </div>
+</article>
+
+<article class="module-d" *ngIf="loading">
+  <div>
+    <p class="text-center" translate>Loading...</p>
+  </div>
+</article>

@@ -1,0 +1,302 @@
+.drop-a {
+    display: block;
+    position: relative;
+    z-index: 1;
+    max-width: 137px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+
+.drop-a > * {
+    display: block;
+    overflow: hidden;
+    position: relative;
+  }
+
+.drop-a > .value {
+    padding: 5px 40px 4px 10px;
+    color: #fff;
+    cursor: pointer;
+    background: #16b0c5;
+    border-radius: 4px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.drop-a > .value:before,
+.drop-a > .value:after {
+    display: block;
+    position: absolute;
+    right: 0;
+    width: 30px;
+    background: #119db0;
+    color: #fff;
+    font-size: 18px;
+    font-family: i;
+    font-weight: 400;
+    text-align: center;
+}
+
+.drop-a > .value:before {
+    content: '';
+    top: 0;
+    z-index: 1;
+    height: 100%;
+}
+
+.drop-a:hover > .drop,
+.drop-a.toggle > .drop {
+    top: 100%;
+    z-index: 99;
+}
+
+.drop-a:hover,
+.drop-a.toggle {
+  z-index: 20;
+}
+
+.drop-a > .value:after {
+    content: '\e918';
+    top: 50%;
+    z-index: 2;
+    margin: -20px 0 0;
+    line-height: 40px;
+}
+
+.no-mobile .drop-a:hover,
+.mobile .drop-a.toggle {
+    z-index: 20;
+}
+
+.no-mobile .drop-a:hover > .drop,
+.mobile .drop-a.toggle > .drop {
+    top: 100%;
+}
+
+.drop-a > .drop {
+    overflow: visible;
+    position: absolute;
+    left: -12px;
+    top: -3000em;
+    right: -12px;
+    z-index: 10;
+    margin: 0;
+    padding: 9px;
+    box-shadow: 0 0 13px rgba(0, 0, 0, 0.17);
+    border-radius: 4px;
+    background: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: none;
+}
+
+.drop-a > .drop:before {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 11px;
+    top: -17px;
+    width: 32px;
+    height: 17px;
+    background: url(/images/sprite.png) no-repeat;
+}
+
+.drop-a > .drop a {
+    display: block;
+    margin: 0 0 1px;
+    padding: 4px 10px;
+    border-radius: 4px;
+    color: #667074;
+    text-decoration: none;
+}
+
+.drop-a > .drop a:hover {
+    background: #f0f3f5;
+}
+
+.drop-a > .drop a i {
+    position: relative;
+    left: -5px;
+    top: 2px;
+    margin: 0 2px 0 0;
+    font-size: 15px;
+}
+
+.drop-b {
+    display: inline-block;
+    position: relative;
+}
+
+.drop-b {
+    overflow-wrap: normal;
+    word-wrap: normal;
+    -ms-word-break: normal;
+    word-break: normal;
+    white-space: nowrap;
+}
+
+.drop-b > a {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    padding: 6px 13px;
+    border-radius: 4px;
+    border: 1px solid #e4e4e4;
+    color: #667074;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.3;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.drop-b > .drop {
+    position: absolute;
+    right: 0;
+    top: -3000em;
+    z-index: 2;
+    min-width: 183px;
+    margin: -9px 0 0;
+    padding: 26px 17px 24px;
+    box-shadow: 0 0 13px rgba(0, 0, 0, 0.17);
+    border-radius: 4px;
+    border: 1px solid #e4e4e4;
+    background: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.3;
+    text-transform: none;
+    text-align: left;
+}
+
+.drop-b > .drop a {
+    display: block;
+    position: relative;
+    margin: 0 0 22px;
+    padding: 0 0 0 30px;
+    color: #667074;
+}
+
+.drop-b > .drop a:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: -2px;
+    z-index: 1;
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    border: 1px solid #dbdbdb;
+    background: #f8fafb;
+    cursor: pointer;
+}
+
+.drop-b > .drop a.active:after {
+    content: '\ea18';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: -2px;
+    z-index: 2;
+    width: 20px;
+    height: 20px;
+    color: #16b0c5;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: i;
+    line-height: 18px;
+    text-align: center;
+}
+
+.drop-b > .drop:before {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 21px;
+    top: -19px;
+    width: 32px;
+    height: 19px;
+    background: url(/images/sprite.png) 0 -38px no-repeat;
+}
+
+.no-mobile .drop-b:hover > .drop,
+.mobile .drop-b.toggle > .drop {
+    top: 100%;
+}
+
+table .drop-a {
+    margin-top: -5px;
+    margin-bottom: -2px;
+}
+
+.table-a tr > *:last-child,
+td.has-drop-a {
+    width: 137px;
+}
+
+.table-b .drop-a {
+    margin: 0;
+}
+
+#root .table-b-4m p.has-input > .label,
+#root .table-b-4m p.has-drop-a > .label {
+    padding:
+        /*5px*/
+        0 0;
+}
+
+.table-b-4m .drop-a {
+    max-width: none;
+}
+
+// .drop-a > .drop {
+//     left: auto;
+//     min-width: 157px;
+// }
+
+// table .drop-a {
+//     display: inline-block;
+// }
+
+table .drop-a > .value {
+    padding-right: 10px;
+}
+
+// table .drop-a > .value:before,
+// table .drop-a > .value:after {
+//     position: absolute;
+//     left: -3000em;
+//     top: 0;
+//     bottom: inherit;
+//     right: inherit;
+// }
+
+td.has-drop-a {
+    width: auto;
+}
+
+.drop-a.disabled .value,
+.drop-a.disabled .value:before,
+.drop-a.disabled .value:after {
+    background: #b6bdc9 !important;
+    border-color: #b6bdc9 !important;
+    color: white !important;
+}
+
+.drop-a.disabled {
+    pointer-events: none;
+}
+.drop-a.dropform .drop {
+    left: 0;
+}
+
+@media only screen and (max-width: 25em) {
+    .drop-a {
+        max-width: 120px;
+    }
+}

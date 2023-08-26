@@ -1,0 +1,121 @@
+.invoice-preview-header-title {
+  font-size: 26px;
+  font-style: normal;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  overflow-wrap: break-word !important;
+}
+
+.invoice-preview-line {
+  color: #dbdbdb;
+  height: 1px;
+  margin-top: 15px;
+  margin-bottom: 24px;
+}
+
+.invoice-preview-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.invoice-preview-flex-one-row {
+  display: flex;
+}
+
+.invoice-preview-title {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #4b5153;
+  margin-bottom: 8px;
+}
+
+.invoice-preview-info {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  overflow-wrap: break-word !important;
+}
+
+.mt-item {
+  margin-top: 18px;
+}
+
+.mb-title-0 {
+  margin-bottom: 0;
+}
+
+.invoice-preview-PO-No {
+  margin-right: 130px;
+  max-width: 40%;
+  min-width: 20%;
+}
+
+.invoice-preview-table-th {
+  padding-top: 16px;
+  padding-bottom: 12px;
+}
+
+.builder-table-cell-1 {
+  padding-left: 16px;
+}
+
+.builder-table-cell-head-1 {
+  padding-left: 16px;
+}
+
+.builder-table-cell-1 {
+  width: 20%;
+  padding-right: 2.5%;
+}
+
+.builder-table-cell-2 {
+  width: 42.5%;
+  padding-right: 2.5%;
+}
+
+.builder-table-cell-3 {
+  width: 10%;
+  padding-right: 2.5%;
+}
+
+.builder-table-cell-4 {
+  width: 10%;
+  padding-right: 2.5%;
+}
+
+.invoice-preview-table {
+  background: #f7f9fb;
+  border-radius: 4px;
+}
+
+.invoice-preview-table tr:last-child > td {
+  border-bottom: 0;
+}
+
+.invoice-preview-last-hr {
+  margin-bottom: 0;
+}
+
+.invoice-preview-last-block-mb {
+  margin-bottom: 50px;
+}
+
+.invoice-preview-reference-id {
+  max-width: 40%;
+}
+
+@media only screen and (max-width: 761px) {
+  .builder-table-cell-1 {
+    padding-left: 5px;
+  }
+
+  .builder-table-cell-head-1 {
+    padding-left: 5px;
+  }
+
+  .invoice-preview-PO-No {
+    margin-right: 90px;
+  }
+}

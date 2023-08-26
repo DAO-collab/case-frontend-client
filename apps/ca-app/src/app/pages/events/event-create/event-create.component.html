@@ -1,0 +1,274 @@
+<article id="content" [ngClass]="{ touchedSubmit: formTouched }">
+  <div *ngIf="loading">
+    <div>
+      <p class="text-center">
+        <span class="loader loader-bubbles">
+          <span></span>
+        </span>
+      </p>
+    </div>
+  </div>
+
+  <div *ngIf="!loading">
+    <form [formGroup]="eventForm!" [ngClass]="{ touchedSubmit: formTouched }">
+      <div class="form">
+        <div class="form-container">
+          <div class="form-block right-margin bottom-split">
+            <h3>About</h3>
+            <div class="custom-fields-group triple a">
+              <p class="full-width no-float">
+                <span class="permissions-field half-width">
+                  <label for="name" class="required" translate>Name</label>
+                  <input required #nameField id="name" type="text" class="form-control" formControlName="name" />
+                  <app-error
+                    [field]="nameField"
+                    [fieldValue]="eventForm?.controls?.['name']?.value"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+
+                <span class="permissions-field half-width">
+                  <label class="required" translate>Visibility</label>
+                  <app-checkbox-select
+                    #permissionsField
+                    [outputValue]="eventForm?.get('permissions')?.value"
+                    [items]="rolesList"
+                    [hideLable]="true"
+                    [enabled]="isEventEdit"
+                    (valueChange)="setPermissions($event)"
+                  ></app-checkbox-select>
+                  <app-error
+                    regularHtmlElementName="permissions"
+                    [field]="permissionsField"
+                    [fieldValue]="eventForm?.get('permissions')?.value?.length"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+              </p>
+
+              <div class="full-width no-float" formGroupName="duration">
+                <span class="half-width">
+                  <label for="startDate" class="required" translate>Start Date</label>
+                  <input
+                    required
+                    mwlFlatpickr
+                    type="text"
+                    id="startDate"
+                    class="form-control"
+                    [altInput]="true"
+                    altFormat="m/d/Y"
+                    [formControl]="defaultStartDate"
+                    (flatpickrChange)="toggleDate('start_date', $event)"
+                  />
+                </span>
+
+                <span class="half-width">
+                  <label class="required" translate>Start Time</label>
+                  <ca-time-selector
+                    #selectStartTime
+                    [enabled]="isEventEdit"
+                    [selectedTime]="activeStartTime!"
+                    (open)="setDropDownSelectedPosition(selectStartTime)"
+                    (selected)="activeStartTime = $event; toggleTime()"
+                    (resetTime)="toggleDate('', $event)"
+                  >
+                  </ca-time-selector>
+                  <app-error
+                    class="notice-a"
+                    [fieldValue]="activeStartTime"
+                    [field]="selectStartTime"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+
+                <span class="half-width">
+                  <label for="endDate" class="required" translate>End Date</label>
+                  <input
+                    required
+                    mwlFlatpickr
+                    type="text"
+                    id="endDate"
+                    class="form-control"
+                    [altInput]="true"
+                    altFormat="m/d/Y"
+                    [formControl]="defaultEndDate"
+                    (flatpickrChange)="toggleDate('end_date', $event)"
+                  />
+                </span>
+
+                <span class="half-width">
+                  <label class="required" translate>End Time</label>
+                  <ca-time-selector
+                    #selectEndTime
+                    [enabled]="isEventEdit"
+                    [selectedTime]="activeEndTime!"
+                    (open)="setDropDownSelectedPosition(selectEndTime)"
+                    (selected)="activeEndTime = $event; toggleTime()"
+                    (resetTime)="toggleDate('', $event)"
+                  >
+                  </ca-time-selector>
+                  <app-error
+                    class="notice-a"
+                    [fieldValue]="activeEndTime"
+                    [field]="selectEndTime"
+                    [validationErrors]="validationErrors"
+                    [validation]="{ required: true }"
+                  ></app-error>
+                </span>
+
+                <span class="half-width margin-top-15">
+                  <label class="left-label" translate>Repeat</label>
+                  <label class="checkbox-container centered-checkbox">
+                    <input
+                      type="checkbox"
+                      name="eventRecurring"
+                      [checked]="eventRecurring"
+                      [disabled]="!isEventEdit"
+                      (change)="toggleRepeatData()"
+                    />
+                    <span class="checkmark"></span>
+                  </label>
+                </span>
+
+                <app-rrule
+                  #rruleChild
+                  *ngIf="eventRecurring"
+                  [startDate]="rruleStartDate"
+                  [endTime]="activeEndTime"
+                  [endDate]="rruleEndDate"
+                  [enabled]="isEventEdit"
+                  [rrule]="duration.controls['rrule'].value"
+                  (rruleChange)="setRrule($event)"
+                ></app-rrule>
+              </div>
+            </div>
+          </div>
+          <div class="form-block left-margin bottom-split">
+            <h3>Participants</h3>
+            <div class="custom-fields-group triple a">
+              <p class="full-width no-float">
+                <span class="attendees">
+                  <label translate>Attendees</label>
+                  <app-checkbox-select
+                    [outputValue]="eventForm?.get('participants_ids')?.value || []"
+                    [items]="initialParicipants || []"
+                    [hideLable]="true"
+                    [enabled]="true"
+                    (valueChange)="setParticipant($event)"
+                  ></app-checkbox-select>
+                </span>
+              </p>
+              <br />
+            </div>
+
+            <div *ngIf="activeParticipants.length" class="participants-list">
+              <ul class="list-h">
+                <li *ngFor="let participant of activeParticipants; let i = index">
+                  <a>
+                    <img
+                      width="30"
+                      height="30"
+                      alt="Placeholder"
+                      [src]="utilsService.userAvatarUrl(participant.user_id, 50, participant.uuid)"
+                    />
+                    <span
+                      >{{ participant.sync_info ? participant.sync_info.given_name : participant.given_name }}
+                      {{ participant.sync_info ? participant.sync_info.family_name : participant.family_name }}</span
+                    >
+                    <span>{{ roleNamesById[participant.case_role_id] }}</span>
+                  </a>
+                  <div class="ntf-item input-remove" *ngIf="isEventEdit">
+                    <a (click)="removeParticipant(i)"></a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="form-container">
+          <div class="form-block right-margin mobile-bottom-split">
+            <h3>Details</h3>
+            <div class="full-width no-float form-block-item" formGroupName="location">
+              <p>
+                <label translate>Event Location</label>
+                <ng-select
+                  bindLabel="type"
+                  bindValue="id"
+                  formControlName="location_type"
+                  [virtualScroll]="true"
+                  [searchable]="false"
+                  [clearable]="false"
+                  [items]="locationTypes"
+                  (change)="deleteAddress()"
+                ></ng-select>
+              </p>
+
+              <span class="fix-field-margins" *ngIf="location.controls?.['location_type']?.value === 'suggested_address'">
+                <ng-select
+                  class="location-input"
+                  bindLabel="name"
+                  bindValue="address"
+                  formControlName="address"
+                  [virtualScroll]="true"
+                  [searchable]="false"
+                  [clearable]="false"
+                  [placeholder]="'Add Location' | translate"
+                  [items]="locations"
+                >
+                </ng-select>
+              </span>
+
+              <p *ngIf="location.controls?.['location_type']?.value === 'custom_address'">
+                <span>
+                  <label for="address" translate>Address</label>
+                  <input
+                    ngx-google-places-autocomplete
+                    #placesRef="ngx-places"
+                    id="address"
+                    class="form-control"
+                    [value]="location.controls['address'].value"
+                    (onAddressChange)="handleAddressChange($event)"
+                  />
+                </span>
+              </p>
+
+              <p *ngIf="location.controls?.['location_type']?.value === 'video_conference'">
+                <span>
+                  <label for="address" translate>Link</label>
+                  <input class="form-control" formControlName="address" />
+                </span>
+              </p>
+            </div>
+
+            <p class="full-width no-float">
+              <span>
+                <label translate>Description</label>
+                <textarea type="text" class="form-control" formControlName="description"></textarea>
+              </span>
+            </p>
+
+          </div>
+          <div class="form-block left-margin">
+            <h3>Notifications</h3>
+            <app-notification-field
+              [notitficationsList]="notifications"
+              [enabled]="isEventEdit"
+              (changed)="setNotifications($event)"
+              (defaultNofify)="onDefaultNotificationChange()"
+            ></app-notification-field>
+          </div>
+        </div>
+
+        <p class="submit">
+          <ng-container *ngIf="isEventEdit">
+            <ca-button class="float-right" [text]="'Save Event' | translate" [isDisabled]="isInvalid()" [isFilled]="true" (btnClick)="validationErrors.length > 0 ? (formTouched = true) : eventId ? updateEvent() : createEvent()" [fontWeight]="700" [isUpperCase]="false"></ca-button>
+          </ng-container>
+          <a (click)="afterChangeEmit()">Close</a>
+        </p>
+      </div>
+    </form>
+  </div>
+</article>

@@ -1,0 +1,13 @@
+{
+  "AppSignup": "La aplicaci\u00f3n se cre\u00f3 correctamente.",
+  "AvatarDeleted": "Avatar ha sido eliminado.",
+  "AvatarUpdated": "Avatar se ha cargado correctamente.",
+  "CodeSent": "Se ha enviado un c\u00f3digo de confirmaci\u00f3n al dispositivo.",
+  "DeviceVerified": "El dispositivo ha sido verificado.",
+  "GlobalLogout": "Salga de todos los dispositivos. Te veo pronto.",
+  "LocalLogout": "Salga de este dispositivo. Te veo pronto.",
+  "PasswordUpdated": "Contrase\u00f1a actualizada exitosamente.",
+  "ProfileUpdated": "El perfil se actualiz\u00f3 correctamente.",
+  "SignupPassword": "La cuenta se cre\u00f3 correctamente.",
+  "TicketSent": "Se ha enviado un correo electr\u00f3nico al equipo de asistencia."
+}

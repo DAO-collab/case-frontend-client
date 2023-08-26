@@ -1,0 +1,11 @@
+{
+  "post_user": "Lis\u00e4\u00e4 k\u00e4ytt\u00e4ji\u00e4",
+  "put_user": "Muokkaa k\u00e4ytt\u00e4ji\u00e4",
+  "put_user_status": "Muokkaa k\u00e4ytt\u00e4jien tilaa",
+  "post_case": "Luo tapauksia",
+  "put_case": "Muokkaa tapauksia",
+  "post_case_permission": "M\u00e4\u00e4rit\u00e4 k\u00e4ytt\u00e4ji\u00e4 tapauksiin",
+  "put_case_permission": "Muokkaa tapauksiin m\u00e4\u00e4ritettyj\u00e4 k\u00e4ytt\u00e4ji\u00e4",
+  "post_case_post": "Luo tapauspostauksia",
+  "delete_case_permission": "Poista tapauksiin m\u00e4\u00e4r\u00e4tyt k\u00e4ytt\u00e4j\u00e4t"
+}

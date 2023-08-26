@@ -1,0 +1,406 @@
+.items-wrapper {
+  margin-bottom: 64px;
+  overflow: hidden;
+}
+
+.items-head-wrapper {
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.dashboard-wrapper {
+  max-width: 1140px;
+  margin: 48px auto;
+}
+
+.items-head-wrapper-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 16px;
+  line-height: inherit;
+}
+
+.list-item-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.list-item {
+  height: 164px;
+  width: 370px;
+  background: white;
+  border-radius: 10px;
+  padding: 24px;
+  margin-right: 8px;
+}
+
+.announcement {
+  min-width: 370px;
+}
+
+.list-item:last-child {
+  margin-right: 0;
+}
+
+.list-item-title {
+  font-size: 16px;
+  color: #4b5153;
+  font-weight: bold;
+  margin-bottom: 8px;
+  line-height: initial;
+  word-wrap: break-word;
+  min-width: 10px;
+}
+
+.list-item-description {
+  font-size: 14px;
+  word-wrap: break-word;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  white-space: pre-wrap;
+}
+
+.case-item {
+  display: flex;
+  align-items: center;
+  min-width: 370px;
+}
+
+.left-side-item {
+  background: white;
+  height: auto;
+  margin-bottom: 8px;
+  padding: 24px;
+  border-radius: 10px;
+}
+
+.left-side-item:last-child {
+  margin-bottom: 0;
+}
+
+.left-side-item-head-description-title {
+  margin-right: 8px;
+  margin-bottom: 0;
+  font-size: 14px;
+  word-wrap: break-word;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+}
+
+.left-side-item-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.left-side-item-head-description {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.left-side-status {
+  border-radius: 16px;
+  padding: 3px 6px;
+  height: fit-content;
+  color: white;
+  font-weight: normal;
+  font-size: 13px;
+}
+
+.left-side-item-head-description-open {
+  background: #09c5ab;
+}
+
+.left-side-item-head-description-close {
+  background: #eec75e;
+}
+
+.left-side-item-head-date {
+  font-size: 14px;
+  color: #667074;
+  min-width: fit-content;
+}
+
+.left-side-item-head-description {
+  font-size: 16px;
+  font-weight: bold;
+  color: #667074;
+  max-width: 50vw;
+}
+
+.items-wrapper-two-columns {
+  display: grid;
+  grid-template-columns: 50% 1fr;
+  grid-gap: 24px;
+}
+
+.no-items-wrapper {
+  padding: 50px 24px;
+  width: 100%;
+  background: white;
+  font-size: 20px;
+}
+
+.arrow-wrapper {
+  cursor: pointer;
+  border-radius: 50%;
+  padding: 12px 14.5px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  border: 1px solid #d8d8d8;
+}
+
+.arrow-right-wrapper {
+  margin-left: 8px;
+}
+
+.arrow-right {
+  transform: scale(-1, 1);
+}
+
+.items-head-left-side {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.m-b-24 {
+  margin-bottom: 24px;
+}
+
+.arrow-tabs {
+  display: flex;
+}
+
+.view-broadcast {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.items-head-left-side-elements {
+  display: flex;
+  align-items: center;
+}
+
+.items-button {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 16px;
+}
+
+.btn-item {
+  text-transform: none;
+  padding-left: 10px !important;
+}
+
+.btn-item a {
+  padding: 5px 12px;
+}
+
+.active-btn a {
+  border: 1px solid #16b0c5;
+  color: white;
+}
+
+.active-badge {
+  background: white;
+  color: #16b0c5;
+}
+
+.disabled-btn a {
+  background-color: white !important;
+  border: 1px solid #dbdbdb;
+  color: #9ba1a3;
+}
+
+.badge {
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: 500;
+  display: inline-block;
+  line-height: 18px;
+}
+
+.disabled-badge {
+  background: #9ba1a3;
+  color: white;
+}
+
+.link-a {
+  margin-bottom: 0 !important;
+}
+
+.badge-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  font-size: 12px;
+  line-height: 1px;
+}
+
+.row-direction {
+  flex-direction: row;
+}
+
+app-dashboard-search {
+  display: flex;
+}
+
+.location {
+  width: fit-content;
+  cursor: pointer;
+}
+
+.location-head {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ticket-description {
+  max-width: initial;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+.add-support-icon {
+  cursor: pointer;
+}
+
+.tickets-buttons {
+  margin-right: 5px;
+}
+
+.ticket-title {
+  max-width: 160px;
+}
+
+.case-title {
+  font-size: 20px;
+  max-width: 100%;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  white-space: pre-wrap;
+}
+
+.case-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.m-r-10 {
+  margin-right: 10px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .items-wrapper {
+    margin-bottom: 32px;
+  }
+
+  .items-wrapper-two-columns {
+    grid-gap: 12px;
+  }
+
+  .no-items-wrapper {
+    padding: 25px 12px;
+    font-size: 16px;
+  }
+
+  .dashboard-wrapper {
+    margin: 20px 50px;
+  }
+
+  .items-head-wrapper {
+    margin-bottom: 12px;
+  }
+
+  .arrow-wrapper {
+    padding: 6px 8.5px;
+  }
+
+  .list-item {
+    height: 120px;
+    width: 250px;
+  }
+
+  .announcement,
+  .case-item {
+    min-width: 250px;
+  }
+
+  .case-title {
+    font-size: 16px;
+  }
+
+  .list-item-description {
+    -webkit-line-clamp: 1;
+  }
+
+  .items-wrapper-two-columns {
+    grid-template-columns: 100%;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .dashboard-wrapper {
+    margin: 10px 25px;
+  }
+
+  .items-head-wrapper-title {
+    font-size: 16px;
+  }
+
+  .list-item,
+  .left-side-item {
+    padding: 12px;
+  }
+
+  .list-item-title,
+  .no-items-wrapper {
+    font-size: 14px;
+  }
+
+  .list-item-description,
+  .left-side-item-head-description-title,
+  .left-side-item-head-date,
+  .left-side-item-head-description,
+  .view-broadcast,
+  .search-input {
+    font-size: 12px;
+  }
+
+  .left-side-status {
+    padding: 1px 2px;
+    font-size: 10px;
+  }
+}

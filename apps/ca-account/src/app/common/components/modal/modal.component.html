@@ -1,0 +1,11 @@
+<div class="popup-a a form-d shown">
+  <div class="box-outer">
+    <div class="box-inner" [style.width.px]="width" [style.height.px]="height" [style.position]="position">
+      <!-- Modal content -->
+      <ng-content></ng-content>
+
+      <a class="close" *ngIf="!isLocked" (click)="onClose()"></a>
+    </div>
+    <div class="close backdrop" [ngClass]="{ 'cursor-default': isLocked }" (click)="onClose()"></div>
+  </div>
+</div>

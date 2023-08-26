@@ -1,0 +1,13 @@
+div.close.backdrop.cursor-default {
+  cursor: default !important;
+}
+
+.box-inner {
+  padding-bottom: 20px !important;
+}
+
+@media only screen and (max-width: 761px) {
+  .box-inner {
+    width: auto !important;
+  }
+}

@@ -1,0 +1,368 @@
+<article *ngIf="permissions && !permissions['read_all'] && !loading">
+  <p class="notice-a" *ngIf="permissions && !loading && !permissions['read_all']" translate>
+    You don't have permissions to view this page.
+  </p>
+  <div *ngIf="loading" class="loading-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<div class="module-d" *ngIf="!permissions && loading">
+  <div>
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</div>
+
+<div class="form-wrap" *ngIf="permissions && permissions['read_all']">
+  <div class="module-d tabs custom-tabs-text-color">
+    <ul class="tabs-ul">
+      <li [ngClass]="{ active: showPendingForms }">
+        <a class="desktop-show" (click)="loadIncompleteForms()" translate>Your Uncompleted Forms</a>
+        <a class="mobile-show" (click)="loadIncompleteForms()" translate>Uncompleted</a>
+      </li>
+      <li [ngClass]="{ active: showConfirmedForms }">
+        <a class="desktop-show" (click)="loadCompleteForms()" translate>Your Completed Forms</a>
+        <a class="mobile-show" (click)="loadCompleteForms()" translate>Completed</a>
+      </li>
+      <li class="mobile-show-last-tab" *ngIf="!permissions['moderate_others']" [ngClass]="{ active: showMyForms }">
+        <a (click)="loadMyForms()" translate>Your Forms</a>
+      </li>
+      <li
+        class="mobile-show-last-tab"
+        *ngIf="permissions['moderate_others']"
+        [ngClass]="{ active: showAllForms || showMyForms }"
+      >
+        <a (click)="loadAllForms()" translate>All Forms</a>
+        <!-- <a class="mobile-show" (click)="loadAllForms()" translate>All</a> -->
+      </li>
+    </ul>
+
+    <!--    <div *ngIf="showAllForms && showCreatedByMe && !showFormBuilder" class="filters-box">-->
+    <!--      <p>-->
+    <!--        <a translate>-->
+    <!--          Created by me-->
+    <!--          <label for="createdByMeCheckbox" class="checkbox-container centered-checkbox filter-checkbox">-->
+    <!--            <input type="checkbox" id="createdByMeCheckbox" [formControl]="createdByMeFormsControl" />-->
+    <!--            <span class="checkmark"></span>-->
+    <!--          </label>-->
+    <!--        </a>-->
+    <!--      </p>-->
+    <!--    </div>-->
+    <!-- <app-form-builder
+      *ngIf="showFormBuilder"
+      [form]="selectedForm"
+      [caseId]="caseId"
+      (close)="onFormClose(); loadForms()"
+    ></app-form-builder> -->
+
+    <div *ngIf="!selectedForm">
+      <div class="news-d" *ngIf="!loading && upcomingForms.length !== 0">
+        <div>
+          <article>
+            <div class="table-wrapper">
+              <table class="table-b a">
+                <tbody>
+                  <tr>
+                    <th translate>Form Title</th>
+                    <th translate>Author</th>
+                    <th translate>Due Date</th>
+                    <th>
+                      <span
+                        *ngIf="
+                          (showAllForms || showMyForms) && (permissions['manage_own'] || permissions['moderate_others'])
+                        "
+                        translate
+                        >Published</span
+                      >
+                    </th>
+                    <th *ngIf="showAllForms" translate>Submissions</th>
+                    <th translate>Action</th>
+                  </tr>
+                  <tr *ngFor="let form of upcomingForms; let ind = index">
+                    <td class="truncate">{{ form.name }}</td>
+                    <td>
+                      {{
+                        teamData[form.user_id]
+                          ? teamData[form.user_id].given_name + ' ' + teamData[form.user_id].family_name
+                          : ''
+                      }}
+                    </td>
+                    <td>{{ form.due_date | date : 'fullDate' }}</td>
+                    <td>
+                      <label
+                        style="width: 20px"
+                        class="checkbox-container centered-checkbox"
+                        *ngIf="
+                          (showAllForms || showMyForms) &&
+                          ((permissions['manage_own'] && form.user_id === userData.user_id) ||
+                            permissions['moderate_others'])
+                        "
+                      >
+                        <ca-toggle 
+                          class="material-switch-with-checkmark"
+                          [ngClass]="{
+                            'material-switch-disabled': publishingForm || form.responses_ct > 0 || !form.pages?.length
+                          }"
+                          #publishedCheckbox
+                          [checked]="form.published"
+                          [disabled]="publishingForm || form.responses_ct > 0 || !form.pages?.length || form?.published === 1"
+                          [title]="!form.pages?.length ? 'Please finish building the form first' : ''"
+                          (toggle)="togglePublished(publishedCheckbox, form, ind)"
+                        ></ca-toggle>
+                      </label>
+                    </td>
+                    <td *ngIf="showAllForms">
+                      <a
+                        (click)="
+                          showAnswersModal = true; answers = form.responses; formId = form.form_id; formType = form.type
+                        "
+                        >{{ utilsService.convertObjectKeysToArray(form.responses).length }}
+                        <span translate>of</span>
+                        {{ (form.participants_ids && form.participants_ids.length) || 0 }}</a
+                      >
+                    </td>
+                    <td width="150">
+                      <span class="drop-a">
+                        <span class="value"> --</span>
+                        <span class="drop">
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="showPendingForms && permissions['submit_own']"
+                              (click)="runFormSubmit(form)"
+                              class="drop-item-option"
+                            >
+                              <img class="drop-item-option-img" src="images/item-submit.svg" alt="" />
+                              Submit Form
+                            </a>
+                          </ng-container>
+                          <a *ngIf="showConfirmedForms" (click)="runFormView(form, true)" class="drop-item-option">
+                            <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                            View Form
+                          </a>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="(showMyForms || showAllForms) && permissions['manage_own'] && !form?.published"
+                              (click)="openModal(form)"
+                              class="drop-item-option"
+                            >
+                              <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                              Edit settings
+                            </a>
+                          </ng-container>
+                          <ng-container *ngIf="!!utilsService.convertObjectKeysToArray(form.responses).length">
+                            <a
+                              *ngIf="
+                                (showMyForms || showAllForms) &&
+                                ((permissions['manage_own'] && form.createdByMe) ||
+                                  (permissions['moderate_others'] && !form.createdByMe))
+                              "
+                              (click)="runFormView(form)"
+                              class="drop-item-option"
+                            >
+                              <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                              View form
+                            </a>
+                          </ng-container>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <ng-container *ngIf="!utilsService.convertObjectKeysToArray(form.responses).length">
+                              <a
+                                *ngIf="
+                                  (showMyForms || showAllForms) &&
+                                  ((permissions['manage_own'] && form.createdByMe) ||
+                                    (permissions['moderate_others'] && !form.createdByMe))
+                                    && !form?.published
+                                "
+                                (click)="openFormBuilder(form)"
+                              >
+                                <i class="icon-edit"></i> Edit form builder
+                              </a>
+                            </ng-container>
+                          </ng-container>
+                          <a
+                            *ngIf="
+                              (showMyForms || showAllForms) &&
+                              utilsService.convertObjectKeysToArray(form.responses).length
+                            "
+                            (click)="
+                              showAnswersModal = true;
+                              answers = form.responses;
+                              formId = form.form_id;
+                              formType = form.type
+                            "
+                            class="drop-item-option"
+                          >
+                            <img class="drop-item-option-img" src="images/item-view-answers.svg" alt="" />
+                            View Answers</a
+                          >
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="
+                                (showMyForms || showAllForms) &&
+                                ((permissions['manage_own'] && form.createdByMe) ||
+                                  (permissions['moderate_others'] && !form.createdByMe))
+                              "
+                              appConfirmationPopUp
+                              (yes)="deleteForm(ind, upcomingForms)"
+                              title="Delete Form"
+                              [message]="'You are about to delete form. Are you sure?'"
+                            >
+                              <i class="icon-trash"></i> Delete form</a
+                            >
+                          </ng-container>
+                          <ng-container *ngIf="currentCaseStatus$ | async">
+                            <a
+                              *ngIf="
+                                (showMyForms || showAllForms) &&
+                                ((permissions['manage_own'] && form.createdByMe) ||
+                                  (permissions['moderate_others'] && !form.createdByMe))
+                              "
+                              (click)="copyForm(form)"
+                            >
+                              <img class="copy-icon--img" src="images/copy-icon-inactive.svg" /> Copy form
+                            </a>
+                          </ng-container>
+                        </span>
+                      </span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <ca-load-more *ngIf="showLoadMore" [isLoading]="newElementsSectionIsLoading" (loadMorePressed)="loadMoreForms()"></ca-load-more>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div *ngIf="upcomingForms.length === 0 && !loading">
+        <p *ngIf="!permissions['moderate_others'] && showMyForms; else defaultEmptyForms" class="text-center">{{ 'You currently have no forms of your own' | translate }}</p>
+        <ng-template #defaultEmptyForms>
+          <p class="text-center" translate>No Forms</p>
+        </ng-template>
+      </div>
+      <div *ngIf="loading">
+        <p class="text-center" translate>
+          <span class="loader loader-bubbles">
+            <span></span>
+          </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="permissions && permissions['read_all']"
+  [ngClass]="{ shown: showUploadModal }"
+>
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2 translate>Upload Form Document</h2>
+      <app-doc-form-uploader
+        *ngIf="showUploadModal"
+        [form]="uploadingForm"
+        [currentCaseId]="caseId"
+        (afterChange)="closeUploadModal()"
+        (afterSave)="openDocFormBuilder($event)"
+      ></app-doc-form-uploader>
+      <p>
+        <a (click)="closeUploadModal()"></a>
+      </p>
+      <a class="close" (click)="closeUploadModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeUploadModal()">Close</a>
+  </div>
+</form>
+
+<form
+  method="post"
+  class="popup-a a form-d library-popup"
+  [ngClass]="{ shown: showFormsList }"
+  (submit)="showFormsList = false; stylesService.popUpDisactivated()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Forms Library</h2>
+      <ul class="checklist-c a" *ngIf="!libraryFormsLoading">
+        <li *ngFor="let form of libraryFormsList" (click)="submitLibraryForm(form)">
+          <label class="file-title-box"
+            >{{ form.tag_id }}<span>{{ form.description }}</span></label
+          >
+        </li>
+
+        <li class="text-center" *ngIf="!libraryFormsLoading && !libraryFormsList.length" translate>
+          No Forms In Library
+        </li>
+      </ul>
+
+      <div class="module-d" *ngIf="libraryFormsLoading">
+        <div>
+          <p class="text-center">
+            <span class="loader loader-bubbles">
+              <span></span>
+            </span>
+          </p>
+        </div>
+      </div>
+
+      <p class="submit">
+        <button type="submit" translate>Done</button>
+        <a (click)="closeFilesPopUp()" translate>Cancel</a>
+      </p>
+      <a class="close" (click)="closeFilesPopUp()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeFilesPopUp()" translate>Close</a>
+  </div>
+</form>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="permissions && permissions['read_all']"
+  [ngClass]="{ shown: showModal }"
+>
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2 translate>{{ addFormTitle }}</h2>
+      <app-create-form (afterChange)="closeModal()" (afterSave)="loadAllForms()"></app-create-form>
+      <p>
+        <a (click)="closeModal()"></a>
+      </p>
+      <a class="close" (click)="closeModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeModal()">Close</a>
+  </div>
+</form>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="permissions && permissions['read_all']"
+  [ngClass]="{ shown: showAnswersModal }"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Answers</h2>
+      <app-answers-view
+        [teamData]="teamData"
+        [answers]="answers"
+        [formId]="formId"
+        [formType]="formType"
+      ></app-answers-view>
+      <p>
+        <a (click)="showAnswersModal = false"></a>
+      </p>
+      <a class="close" (click)="showAnswersModal = false" translate>Close</a>
+    </div>
+    <a class="close" (click)="showAnswersModal = false" translate>Close</a>
+  </div>
+</form>

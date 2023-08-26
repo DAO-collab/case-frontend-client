@@ -1,0 +1,13 @@
+{
+  "AppSignup": "App blev oprettet med succes.",
+  "AvatarDeleted": "Avatar blev slettet med succes.",
+  "AvatarUpdated": "Avatar blev uploadet succesfuldt.",
+  "CodeSent": "En bekr\u00e6ftelseskode er blevet sendt til din enhed.",
+  "DeviceVerified": "Enheden er blevet verificeret.",
+  "GlobalLogout": "Log ud p\u00e5 alle enheder. Vi ses snart.",
+  "LocalLogout": "Log ud p\u00e5 denne enhed. Vi ses snart.",
+  "PasswordUpdated": "Adgangskode opdateret med succes.",
+  "ProfileUpdated": "Profilen blev opdateret med succes.",
+  "SignupPassword": "Kontoen blev oprettet med succes.",
+  "TicketSent": "Der er sendt en email til supportteamet."
+}

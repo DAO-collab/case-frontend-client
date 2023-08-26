@@ -1,0 +1,4524 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.363857\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.632707\n"
+"Language: ro\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Ar trebui să alegeți fișierul de imagine."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Încărcați un document, marcați-l pentru semnătură, apoi clientul se "
+"conectează și îl semnează. Totul se face fără ca clientul să fie nevoit să "
+"intre în clădirea noastră. Acest lucru este util cu clienții care nu sunt "
+"aproape de un birou sau care locuiesc în afara statului."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Directorul operațiunilor asigurărilor de capital"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Asociații noștri se pot autentifica și pot vedea informații de bază cu "
+"privire la modul în care merge cazul lor. Acest lucru a sporit considerabil "
+"trimiterile noastre de caz ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Partener al Biroului de Drept al Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Nu mai trebuie să vedem clienți la birou pentru întâlniri, iar semnarea "
+"documentelor este completată online - genial !."
+
+msgid "CEO of EL Passion"
+msgstr "CEO al EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Folosind API-ul, am automatizat complet ceea ce a fost afișat în fluxul de "
+"cazuri, pe baza unor declanșatoare specifice din sistemul nostru existent. "
+"Destul de convenabil .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Director IT al avocaților Carter Mario"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Avem o mulțime de clienți multilingve care folosesc funcția de traducere. "
+"Postăm mesaje cu încrederea că vor fi înțeleși de toată lumea. Acest lucru "
+"ne permite să trecem de la munca locală la cea globală."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "CEO al Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Clienților le place! Le face viața mult mai ușoară. Aceștia pot discuta "
+"problemele cu noi online, pot încărca fotografii și documente și totul este "
+"stocat acolo unde atât echipa, cât și clientul o pot vizualiza."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Partener al Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Ne place facturarea cazului, deoarece permite clienților să vadă exact "
+"pentru ce plătesc .."
+
+msgid "Vice President of Sky Digital"
+msgstr "Vicepreședinte Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Comunicarea reticulată este ca și cum ai avea toate mijloacele de "
+"socializare și instrumentele de colaborare într-un singur loc."
+
+msgid "Director Of Complaint Management"
+msgstr "Director de gestionare a reclamațiilor"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Formularele de caz ne permit să ascultăm și să învățăm, ajutându-ne să "
+"creștem vânzările prin feedback-ul clientului."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Director Vânzări Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Interfața de utilizator este foarte asemănătoare cu Facebook. Este extrem de"
+" ușor de utilizat .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Partener al Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "A fost trimis un pin către"
+
+msgid "Cancel"
+msgstr "Anulare"
+
+msgid "Send New Pin"
+msgstr "Trimiteți PIN nou"
+
+msgid "Need Help?"
+msgstr "Nevoie de ajutor?"
+
+msgid "Click here to contact us"
+msgstr "Click aici pentru a ne contacta"
+
+msgid "Next"
+msgstr "Următorul"
+
+msgid "Login or Signup"
+msgstr "Autentificare sau înscriere"
+
+msgid "Invalid email entered"
+msgstr "E-mail introdus nevalid"
+
+msgid "Processing..."
+msgstr "Prelucrare..."
+
+msgid "Made with"
+msgstr "Facut cu"
+
+msgid "love"
+msgstr "dragoste"
+
+msgid "in New York City"
+msgstr "În New York City"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Toate drepturile rezervate"
+
+msgid "Terms of Use"
+msgstr "Termeni de utilizare"
+
+msgid "Contact Us"
+msgstr "Contactează-ne"
+
+msgid "Username"
+msgstr "Nume de utilizator"
+
+msgid "Code"
+msgstr "Cod"
+
+msgid "New Password"
+msgstr "Parolă Nouă"
+
+msgid "Confirm Password"
+msgstr "confirma parola"
+
+msgid "Set Your New Password"
+msgstr "Setați noua dvs. parolă"
+
+msgid "A code has been sent to"
+msgstr "Un cod a fost trimis la"
+
+msgid "Change Password"
+msgstr "Schimbaţi parola"
+
+msgid "Changing..."
+msgstr "Schimbarea ..."
+
+msgid "Login"
+msgstr "Logare"
+
+msgid "Forgot password?"
+msgstr "Ați uitat parola?"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Email or Phone"
+msgstr "Email sau telefon"
+
+msgid "Reset Password"
+msgstr "Reseteaza parola"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Introduceți adresa de e-mail sau numărul de telefon asociat contului dvs., "
+"apoi faceți clic pe Trimiteți. Vă vom trimite prin e-mail sau vă vom trimite"
+" un link către o pagină unde puteți crea cu ușurință o nouă parolă."
+
+msgid "Request Code"
+msgstr "Codul solicitării"
+
+msgid "Requesting..."
+msgstr "Se solicită ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE SE APARĂ ÎN curând"
+
+msgid "Create a free account"
+msgstr "Creaza un cont gratuit"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Îi punem ultimele atingeri. Vă vom anunța când este gata!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Sunteți la câteva minute distanță de o colaborare mai bună."
+
+msgid "First Name"
+msgstr "Nume"
+
+msgid "Last Name"
+msgstr "Numele de familie"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Company"
+msgstr "Companie"
+
+msgid "No language selected"
+msgstr "Nu a fost selectată nici o limbă"
+
+msgid "I agree with"
+msgstr "Sunt de acord cu"
+
+msgid "Terms of Service"
+msgstr "Termenii serviciului"
+
+msgid "Language"
+msgstr "Limba"
+
+msgid "Have at least one lower case character"
+msgstr "Aveți cel puțin un caracter minuscul"
+
+msgid "Have at least one capital letter"
+msgstr "Să aibă cel puțin o majusculă"
+
+msgid "Have at least one number"
+msgstr "Au cel puțin un număr"
+
+msgid "Have at least 8 characters in length"
+msgstr "Aveți cel puțin 8 caractere în lungime"
+
+msgid "Type your current password"
+msgstr "Introduceți parola curentă"
+
+msgid "Passwords must match"
+msgstr "Parolele trebuie să se potrtivească"
+
+msgid "Domains"
+msgstr "Domenii"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript sunt dezactivate. Activați-l."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookie-urile sunt dezactivate. Activați-l."
+
+msgid "New"
+msgstr "Nou"
+
+msgid "Create A New App"
+msgstr "Creați o nouă aplicație"
+
+msgid "Apps"
+msgstr "Aplicații"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Deconectare"
+
+msgid "Hi"
+msgstr "Salut"
+
+msgid "View your account"
+msgstr "Vizualizați-vă contul"
+
+msgid "View page"
+msgstr "Vezi pagina"
+
+msgid "You don’t have any apps"
+msgstr "Nu aveți nicio aplicație"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "admin"
+
+msgid "Notifications"
+msgstr "Notificări"
+
+msgid "No notifications yet."
+msgstr "Nicio notificare încă."
+
+msgid "Today"
+msgstr "Azi"
+
+msgid "Last Week"
+msgstr "Săptămâna trecută"
+
+msgid "No timezone selected"
+msgstr "Fusul orar nu a fost selectat"
+
+msgid "Complete profile to continue"
+msgstr "Profil complet pentru a continua"
+
+msgid "Timezone"
+msgstr "Fus orar"
+
+msgid "Update"
+msgstr "Actualizați"
+
+msgid "Website:"
+msgstr "Site:"
+
+msgid "Homepage:"
+msgstr "Pagina principala:"
+
+msgid "Approve Access"
+msgstr "Aprobă accesul"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Permissions"
+msgstr "Permisiuni"
+
+msgid "Billing"
+msgstr "Facturare"
+
+msgid "Payment Plan"
+msgstr "Plan de plată"
+
+msgid "Edit"
+msgstr "Editați | ×"
+
+msgid "Save"
+msgstr "Salvați"
+
+msgid "has access to your information below:"
+msgstr "are acces la informațiile de mai jos:"
+
+msgid "has invited you to their client portal."
+msgstr "v-a invitat pe portalul lor de clienți."
+
+msgid "want access to the following information:"
+msgstr "doriți acces la următoarele informații:"
+
+msgid "Decline"
+msgstr "Declin"
+
+msgid "Remove Access"
+msgstr "Eliminați Accesul"
+
+msgid "Active"
+msgstr "Activ"
+
+msgid "Invites"
+msgstr "Invită"
+
+msgid "Disabled"
+msgstr "Dezactivat"
+
+msgid "No apps found"
+msgstr "Nu au fost găsite aplicații"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "utilizator"
+
+msgid "manager"
+msgstr "administrator"
+
+msgid "active"
+msgstr "activ"
+
+msgid "inactive"
+msgstr "inactiv"
+
+msgid "Company Name"
+msgstr "Numele Companiei"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Status"
+msgstr "stare"
+
+msgid "Invitation"
+msgstr "Invitație"
+
+msgid "About App"
+msgstr "Despre aplicație"
+
+msgid "Billing Info"
+msgstr "Informații factură"
+
+msgid "Your Company Name"
+msgstr "Numele companiei tale"
+
+msgid "Your Company Website"
+msgstr "Site-ul companiei dvs."
+
+msgid "Saving..."
+msgstr "Economisire..."
+
+msgid "Billing Information"
+msgstr "Informații de facturare"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Vă rugăm să adăugați ID-ul aplicației furnizat de companie"
+
+msgid "Select an option"
+msgstr "Selecteaza o optiune"
+
+msgid "Join an existing app as a client"
+msgstr "Alăturați-vă unei aplicații existente ca client"
+
+msgid "Create a new app for my business"
+msgstr "Creează o nouă aplicație pentru afacerea mea"
+
+msgid "Create Domain"
+msgstr "Creați un domeniu"
+
+msgid "Select enterprise app"
+msgstr "Selectați aplicația pentru întreprinderi"
+
+msgid "No item selected"
+msgstr "Niciun articol selectat"
+
+msgid "Domain name"
+msgstr "Numele domeniului"
+
+msgid "Add"
+msgstr "Adăuga"
+
+msgid "No enterprise app found"
+msgstr "Nu a fost găsită nicio aplicație pentru întreprinderi"
+
+msgid "Pending"
+msgstr "In asteptarea"
+
+msgid "No domains found"
+msgstr "Nu s-au găsit domenii"
+
+msgid "Domain"
+msgstr "Domeniu"
+
+msgid "Txt Value"
+msgstr "Valoarea Txt"
+
+msgid "Enterprise Host ID"
+msgstr "ID-ul gazdei Enterprise"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Acțiune"
+
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "Reset"
+msgstr "Resetați"
+
+msgid "Allow Manual Sign In"
+msgstr "Permite conectarea manuală"
+
+msgid "Exclude Emails From SSO"
+msgstr "Excludeți e-mailurile din SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Metadatele furnizorului de identitate SAML"
+
+msgid "Submit"
+msgstr "Trimite"
+
+msgid "Profile photo"
+msgstr "Fotografie de profil"
+
+msgid "Uploading..."
+msgstr "Se încarcă ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "a fost revendicat de un alt cont, vă rog, schimbați-l sau"
+
+msgid "reclaim"
+msgstr "revendica"
+
+msgid "it"
+msgstr "aceasta"
+
+msgid "pending verification:"
+msgstr "Verificare in Asteptare:"
+
+msgid "verify"
+msgstr "verifica"
+
+msgid "Phone Number"
+msgstr "Numar de telefon"
+
+msgid "Current Password"
+msgstr "Parola actuală"
+
+msgid "Change password"
+msgstr "Schimbați parola"
+
+msgid "No gender selected"
+msgstr "Nu a fost selectat sexul"
+
+msgid "Company Title"
+msgstr "Titlul companiei"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Address 2"
+msgstr "Adresa 2"
+
+msgid "City/Locality"
+msgstr "Oraș / Localitate"
+
+msgid "State/Region"
+msgstr "Stat / Regiune"
+
+msgid "No country selected"
+msgstr "Nici o țară selectată"
+
+msgid "Zip/Postal Code"
+msgstr "Zip / Cod Poştal"
+
+msgid "Basic"
+msgstr "De bază"
+
+msgid "Date of Birth"
+msgstr "Data de nastere"
+
+msgid "Gender"
+msgstr "Gen"
+
+msgid "Occupation"
+msgstr "Ocupaţie"
+
+msgid "Location"
+msgstr "Locație"
+
+msgid "Address is not valid"
+msgstr "Adresa nu este validă"
+
+msgid "City/Locality is not valid"
+msgstr "Orașul / localitatea nu este valid"
+
+msgid "Country"
+msgstr "Țară"
+
+msgid "State/Region is not valid"
+msgstr "Statul / regiunea nu este valid"
+
+msgid "Contact Info"
+msgstr "Informatii de contact"
+
+msgid "Language & Region"
+msgstr "Limba și regiunea"
+
+msgid "Saving"
+msgstr "Economisire"
+
+msgid "Verify Your"
+msgstr "Verificați-vă"
+
+msgid "Verification Code"
+msgstr "Cod de verificare"
+
+msgid "Resend Code"
+msgstr "Retrimite codul"
+
+msgid "Resending"
+msgstr "retrimiteți"
+
+msgid "Verify"
+msgstr "Verifica"
+
+msgid "Verifying..."
+msgstr "Se verifică ..."
+
+msgid "Later"
+msgstr "Mai tarziu"
+
+msgid "We're here to help"
+msgstr "Suntem aici pentru a vă ajuta"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Mulțumim că ne-ai contactat. Mesajul tau a fost trimis cu succes. Vă vom "
+"contacta foarte curând!"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "characters left"
+msgstr "Caractere rămase"
+
+msgid "Recaptcha"
+msgstr "reCAPTCHA"
+
+msgid "Send"
+msgstr "Trimite"
+
+msgid "Sending..."
+msgstr "Se trimite ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Nu veți mai primi marketing prin e-mail din listă."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Dacă aveți un moment, vă rugăm să ne spuneți de ce v-ați dezabonat:"
+
+msgid "Return to our website"
+msgstr "Reveniți pe site-ul nostru"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Mulțumesc. Răspunsul dvs. a fost trimis."
+
+msgid "No Cases"
+msgstr "Fără cazuri"
+
+msgid "Layout"
+msgstr "Aspect"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "Speaker"
+msgstr "Difuzor"
+
+msgid "This case has been closed"
+msgstr "Acest caz a fost închis"
+
+msgid "Feed"
+msgstr "A hrani"
+
+msgid "Images"
+msgstr "Imagini"
+
+msgid "Docs"
+msgstr "Documente"
+
+msgid "Audios"
+msgstr "fișiere audio"
+
+msgid "Videos"
+msgstr "Videoclipuri"
+
+msgid "Files"
+msgstr "Fișiere"
+
+msgid "Events"
+msgstr "Evenimente"
+
+msgid "Forms"
+msgstr "Formulare"
+
+msgid "E-signs"
+msgstr "Semne electronice"
+
+msgid "Invoices"
+msgstr "Facturi"
+
+msgid "Notes"
+msgstr "notițe"
+
+msgid "Tasks"
+msgstr "Sarcini"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Buna treaba!"
+
+msgid "You did all"
+msgstr "Ai făcut totul"
+
+msgid "the tasks"
+msgstr "misiunile"
+
+msgid "Media"
+msgstr "Mass-media"
+
+msgid "Skip to navigation (n)"
+msgstr "Salt la navigare (n)"
+
+msgid "Skip to content (c)"
+msgstr "Salt la conținut (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Treceți la subsol (f)"
+
+msgid "Case"
+msgstr "Caz"
+
+msgid "Search"
+msgstr "Căutare"
+
+msgid "Using Form Builder"
+msgstr "Folosind Form Builder"
+
+msgid "Using Forms Library"
+msgstr "Utilizarea Bibliotecii de formulare"
+
+msgid "Using E-sign Builder"
+msgstr "Folosind E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Utilizarea bibliotecii de semne electronice"
+
+msgid "Documents"
+msgstr "Documente"
+
+msgid "Create Note"
+msgstr "Creați Notă"
+
+msgid "Edit Note"
+msgstr "Editați Notă"
+
+msgid "End Convo"
+msgstr "Încheiați Convo"
+
+msgid "Create Form"
+msgstr "Creați formularul"
+
+msgid "Create Sign"
+msgstr "Creați semnătura"
+
+msgid "Event Create"
+msgstr "Evenimentul Creează"
+
+msgid "Convo Videos"
+msgstr "Convo Videos"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Cazuri"
+
+msgid "Case categories"
+msgstr "Categorii de cazuri"
+
+msgid "Your team"
+msgstr "Echipa ta"
+
+msgid "To do"
+msgstr "A face"
+
+msgid "To Do:"
+msgstr "A face:"
+
+msgid "Case Categories"
+msgstr "Categorii de cazuri"
+
+msgid "Your Team"
+msgstr "Echipa ta"
+
+msgid "To Do"
+msgstr "A face"
+
+msgid "Yes"
+msgstr "da"
+
+msgid "Close"
+msgstr "Închide"
+
+msgid "Publish"
+msgstr "Publica"
+
+msgid "Visibility"
+msgstr "Vizibilitate"
+
+msgid "all"
+msgstr "toate"
+
+msgid "sign"
+msgstr "semn"
+
+msgid "Page"
+msgstr "Pagină"
+
+msgid "of"
+msgstr "de"
+
+msgid "Processing"
+msgstr "Prelucrare"
+
+msgid "failed."
+msgstr "a eșuat."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Valoarea ar trebui să fie mai mare sau egală cu 1"
+
+msgid "Repeat end:"
+msgstr "Repetați sfârșitul:"
+
+msgid "Signature"
+msgstr "Semnătură"
+
+msgid "Draw"
+msgstr "A desena"
+
+msgid "Write"
+msgstr "Scrie"
+
+msgid "Clear Signature"
+msgstr "Ștergeți semnătura"
+
+msgid "Still processing video..."
+msgstr "Se procesează în continuare videoclipul ..."
+
+msgid "You"
+msgstr "Tu"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Sunteți pe cale să ștergeți feedul. Esti sigur?"
+
+msgid "No convo audios yet"
+msgstr "Nicio convo audio încă"
+
+msgid "No convo videos yet"
+msgstr "Niciun videoclip de convo încă"
+
+msgid "Start Convo"
+msgstr "Începeți Convo"
+
+msgid "Notify the Host"
+msgstr "Notificați gazda"
+
+msgid "is in the call"
+msgstr "este în apel"
+
+msgid "and"
+msgstr "și"
+
+msgid "others are in the call"
+msgstr "alții sunt în apel"
+
+msgid "Audio call is being recorded"
+msgstr "Apelul audio este în curs de înregistrare"
+
+msgid "Video call is being recorded"
+msgstr "Apelul video este în curs de înregistrare"
+
+msgid "Join now"
+msgstr "Alătură-te acum"
+
+msgid "Dismiss"
+msgstr "Respingeți"
+
+msgid "Can’t find your "
+msgstr "Nu vă pot găsi"
+
+msgid "microphone"
+msgstr "microfon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Verificați setările sistemului pentru a vă asigura că"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"este disponibil. Dacă nu, conectați unul. Poate fi necesar să reporniți "
+"browserul."
+
+msgid "web camera"
+msgstr "camera web"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Veți începe un apel Convo. Începe cu:"
+
+msgid "Video & Audio"
+msgstr "Video și audio"
+
+msgid "Audio Only"
+msgstr "Doar audio"
+
+msgid "Record the meeting"
+msgstr "Înregistrați întâlnirea"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Aștept pe cineva cu permisiunea de a începe un apel Convo"
+
+msgid "Add Ticket"
+msgstr "Adăugați un bilet"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Open"
+msgstr "Deschis"
+
+msgid "Closed"
+msgstr "Închis"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Ești pe cale să închizi biletul. Esti sigur?"
+
+msgid "Announcements"
+msgstr "Anunturi"
+
+msgid "Support"
+msgstr "A sustine"
+
+msgid "Opened"
+msgstr "Deschis"
+
+msgid "View"
+msgstr "Vedere"
+
+msgid "Locations"
+msgstr "Locații"
+
+msgid "You currently have no announcements."
+msgstr "Momentan nu aveți anunțuri."
+
+msgid "You currently have no"
+msgstr "Momentan nu ai"
+
+msgid "open cases. Click"
+msgstr "cazuri deschise. Clic"
+
+msgid "here"
+msgstr "Aici"
+
+msgid "to contact support."
+msgstr "pentru a contacta suportul."
+
+msgid "closed cases."
+msgstr "cazuri închise."
+
+msgid "open tickets."
+msgstr "bilete deschise."
+
+msgid "closed tickets."
+msgstr "bilete închise."
+
+msgid "You currently have no locations."
+msgstr "Momentan nu aveți locații."
+
+msgid "Write a comment...."
+msgstr "Scrie un comentariu...."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Adaugă locație"
+
+msgid "Save Event"
+msgstr "Salvare eveniment"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Start Date"
+msgstr "Data de început"
+
+msgid "Start Time"
+msgstr "Timpul de începere"
+
+msgid "End Date"
+msgstr "Data de încheiere"
+
+msgid "End Time"
+msgstr "Ora de terminare"
+
+msgid "Repeat"
+msgstr "Repeta"
+
+msgid "Attendees"
+msgstr "Participanți"
+
+msgid "Event Location"
+msgstr "Locația evenimentului"
+
+msgid "Link"
+msgstr "Legătură"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Attending"
+msgstr "Participarea"
+
+msgid "Add to calendar"
+msgstr "Adăugați în calendar"
+
+msgid "Details"
+msgstr "Detalii"
+
+msgid "Event by"
+msgstr "Eveniment de"
+
+msgid "Duration:"
+msgstr "Durată:"
+
+msgid "more"
+msgstr "Mai Mult"
+
+msgid "Maybe"
+msgstr "Poate"
+
+msgid "Not Attending"
+msgstr "Nu participă"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Conferințe video"
+
+msgid "Event details"
+msgstr "Detaliile evenimentului"
+
+msgid "You don't have permissions to view this page."
+msgstr "Nu aveți permisiuni pentru a vedea această pagină."
+
+msgid "Your Upcoming Events"
+msgstr "Evenimentele viitoare"
+
+msgid "Upcoming"
+msgstr "În viitor"
+
+msgid "Your Past Events"
+msgstr "Evenimentele tale anterioare"
+
+msgid "Past"
+msgstr "Trecut"
+
+msgid "Your Events"
+msgstr "Evenimentele dvs"
+
+msgid "All"
+msgstr "Toate"
+
+msgid "All Events"
+msgstr "Toate Evenimentele"
+
+msgid "Directions"
+msgstr "Directii"
+
+msgid "Edit settings"
+msgstr "Editeaza setarile"
+
+msgid "Delete event"
+msgstr "Ștergeți evenimentul"
+
+msgid "Attending?"
+msgstr "Participați?"
+
+msgid "No Events"
+msgstr "Nu există evenimente"
+
+msgid "more comment(s)"
+msgstr "mai multe comentarii"
+
+msgid "Loading comments"
+msgstr "Se încarcă comentarii"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Ești pe cale să ștergi comentariul. Esti sigur?"
+
+msgid "task"
+msgstr "sarcină"
+
+msgid "to do"
+msgstr "a face"
+
+msgid "tasks"
+msgstr "sarcini"
+
+msgid "Write something..."
+msgstr "Scrie ceva..."
+
+msgid "Attach File"
+msgstr "Ataseaza fisier"
+
+msgid "From Template"
+msgstr "Din șablon"
+
+msgid "No feeds yet."
+msgstr "Nu există feeduri încă."
+
+msgid "comments"
+msgstr "comentarii"
+
+msgid "comment"
+msgstr "cometariu"
+
+msgid "Add a comment"
+msgstr "Adauga un comentariu"
+
+msgid "Template"
+msgstr "Șablon"
+
+msgid "No templates"
+msgstr "Fără șabloane"
+
+msgid "Done"
+msgstr "Terminat"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Selectați membrii care trebuie să completeze acest formular"
+
+msgid "Update Form"
+msgstr "Actualizare formular"
+
+msgid "Due Date"
+msgstr "Data scadentă"
+
+msgid "Due Time"
+msgstr "Timp cuvenit"
+
+msgid "Loading..."
+msgstr "Se incarca..."
+
+msgid "Preview"
+msgstr "previzualizare"
+
+msgid "Save & Close"
+msgstr "Salvați și închideți"
+
+msgid "Add an element"
+msgstr "Adăugați un element"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Media se convertește. Vă vom anunța când este gata"
+
+msgid "Add "
+msgstr "Adăuga"
+
+msgid "Field"
+msgstr "Camp"
+
+msgid "Edit "
+msgstr "Editați | ×"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Sub Text"
+msgstr "Subtext"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Media nu a reușit conversia. Vă rugăm să ștergeți și să încercați din nou "
+"sau altul."
+
+msgid "Pages"
+msgstr "Pagini"
+
+msgid "Saved"
+msgstr "Salvat"
+
+msgid "Insert"
+msgstr "Introduce"
+
+msgid "Elements"
+msgstr "Elemente"
+
+msgid "Action Required"
+msgstr "Actiune ceruta"
+
+msgid "Add a new page"
+msgstr "Adăugați o pagină nouă"
+
+msgid "Blank page"
+msgstr "Pagină goală"
+
+msgid "From PDF"
+msgstr "Din PDF"
+
+msgid "From image"
+msgstr "Din imagine"
+
+msgid "Add PDF"
+msgstr "Adăugați PDF"
+
+msgid "Add Image"
+msgstr "Adauga imagine"
+
+msgid "Options"
+msgstr "Opțiuni"
+
+msgid "Column Names"
+msgstr "Numele coloanelor"
+
+msgid "Option already exists."
+msgstr "Opțiunea există deja."
+
+msgid "options list is empty"
+msgstr "lista de opțiuni este goală"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Câmpul Casete de selectare acceptă doar 5 opțiuni. Puteți schimba câmpul în "
+"meniul drop-down pentru a adăuga mai multe opțiuni"
+
+msgid "columns list is empty"
+msgstr "lista de coloane este goală"
+
+msgid "Default Value"
+msgstr "Valoare implicită"
+
+msgid "Delete row"
+msgstr "Ștergeți rândul"
+
+msgid "Add a new row"
+msgstr "Adăugați un rând nou"
+
+msgid "Download"
+msgstr "Descarca"
+
+msgid "Label"
+msgstr "Eticheta"
+
+msgid "Question"
+msgstr "Întrebare"
+
+msgid "Default answer"
+msgstr "Răspuns implicit"
+
+msgid "Media is converting"
+msgstr "Media se convertește"
+
+msgid "Send Form"
+msgstr "Trimiteți formularul"
+
+msgid "Form Submited."
+msgstr "Formularul trimis."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Nu aveți permisiuni de a trimite formulare."
+
+msgid "You currently have no forms of your own"
+msgstr "În prezent, nu aveți formulare proprii"
+
+msgid "Your Uncompleted Forms"
+msgstr "Formularele dvs. incomplete"
+
+msgid "Uncompleted"
+msgstr "Nefinalizat"
+
+msgid "Your Completed Forms"
+msgstr "Formularele dvs. completate"
+
+msgid "Completed"
+msgstr "Efectuat"
+
+msgid "Your Forms"
+msgstr "Formularele dvs."
+
+msgid "All Forms"
+msgstr "Toate Formularele"
+
+msgid "Form Title"
+msgstr "Titlul formularului"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Published"
+msgstr "Publicat"
+
+msgid "Submissions"
+msgstr "Trimiteri"
+
+msgid "No Forms"
+msgstr "Nu există formulare"
+
+msgid "Upload Form Document"
+msgstr "Încărcați documentul formular"
+
+msgid "Forms Library"
+msgstr "Biblioteca de formulare"
+
+msgid "No Forms In Library"
+msgstr "Nu există formulare în bibliotecă"
+
+msgid "Answers"
+msgstr "Răspunsuri"
+
+msgid "Close - Status changed"
+msgstr "Închidere - Starea modificată"
+
+msgid "Change Status"
+msgstr "Schimba starea"
+
+msgid "Case Number"
+msgstr "Numărul cazului"
+
+msgid "Tag Id"
+msgstr "Etichetă Id"
+
+msgid "Date Opened"
+msgstr "Data deschiderii"
+
+msgid "Host Id"
+msgstr "Id. gazdă"
+
+msgid "User Id"
+msgstr "ID-ul de utilizator"
+
+msgid "Case Id"
+msgstr "Id. caz"
+
+msgid "Confirm your details"
+msgstr "Confirmați-vă detaliile"
+
+msgid "Form Submitted."
+msgstr "Formularul trimis."
+
+msgid "Invoice"
+msgstr "Factura fiscala"
+
+msgid "PO No:"
+msgstr "Nr PO:"
+
+msgid "Reference ID:"
+msgstr "ID de referinta:"
+
+msgid "Term:"
+msgstr "Termen:"
+
+msgid "Note:"
+msgstr "Notă:"
+
+msgid "QTY"
+msgstr "CANTITATE"
+
+msgid "Price"
+msgstr "Preț"
+
+msgid "Add more"
+msgstr "Adăuga mai mult"
+
+msgid "Subtotal($)"
+msgstr "Subtotal($)"
+
+msgid "Discount(%)"
+msgstr "Reducere(%)"
+
+msgid "TAX(%)"
+msgstr "IMPOZIT(%)"
+
+msgid "Total($)"
+msgstr "Total($)"
+
+msgid "Invoice No"
+msgstr "Factura nu"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr ""
+"Selectați membrii care trebuie să vadă sau să plătească această factură"
+
+msgid "Update Invoice"
+msgstr "Actualizați factura"
+
+msgid "Create Invoice"
+msgstr "Creați factura"
+
+msgid "PO No."
+msgstr "PO nr."
+
+msgid "Reference ID"
+msgstr "ID de referinta"
+
+msgid "Term"
+msgstr "Termen"
+
+msgid "Note"
+msgstr "Notă"
+
+msgid "Quantity"
+msgstr "Cantitate"
+
+msgid "Price ($)"
+msgstr "Preț ($)"
+
+msgid "Subtotal ($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount (%)"
+msgstr "Reducere (%)"
+
+msgid "Tax (%)"
+msgstr "Impozit (%)"
+
+msgid "Total ($)"
+msgstr "Total ($)"
+
+msgid "Pay Invoice"
+msgstr "Plătiți Factura"
+
+msgid "Payment method"
+msgstr "Modalitate de plată"
+
+msgid "Add a new payment method"
+msgstr "Adăugați o nouă metodă de plată"
+
+msgid "Summary"
+msgstr "rezumat"
+
+msgid "Payment:"
+msgstr "Plată:"
+
+msgid "Total charge:"
+msgstr "Taxa totala:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Facturile dvs. neplătite"
+
+msgid "Unpaid"
+msgstr "Neplătit"
+
+msgid "Your Paid Invoices"
+msgstr "Facturile dvs. plătite"
+
+msgid "Paid"
+msgstr "Plătit"
+
+msgid "Your Invoices"
+msgstr "Facturile dvs"
+
+msgid "All Invoices"
+msgstr "Toate facturile"
+
+msgid "Invoice Title"
+msgstr "Titlul facturii"
+
+msgid "No Invoices"
+msgstr "Fara facturi"
+
+msgid "No Audios yet."
+msgstr "Nu există încă audio."
+
+msgid "Loading failed."
+msgstr "Nu a reușit încărcarea."
+
+msgid "retry"
+msgstr "reîncerca"
+
+msgid "No documents yet."
+msgstr "Încă nu există documente."
+
+msgid "No Files yet."
+msgstr "Nu există încă fișiere."
+
+msgid "No Images yet."
+msgstr "Nicio imagine încă."
+
+msgid "No Videos yet."
+msgstr "Niciun videoclip încă."
+
+msgid "Page Not Found"
+msgstr "Pagina nu a fost gasita"
+
+msgid "Attachments"
+msgstr "Fișiere atașate"
+
+msgid "Note View"
+msgstr "Vizualizare notă"
+
+msgid "No Notes"
+msgstr "Nu există note"
+
+msgid "Select the person to answer this field"
+msgstr "Selectați persoana pentru a răspunde la acest câmp"
+
+msgid "Create E-sign"
+msgstr "Creați un semn electronic"
+
+msgid "Update E-signs"
+msgstr "Actualizați semnele electronice"
+
+msgid "Signs"
+msgstr "Semne"
+
+msgid "Add Field"
+msgstr "Adăugați câmpul"
+
+msgid "Edit Field"
+msgstr "Editați câmpul"
+
+msgid "Send E-sign"
+msgstr "Trimiteți semnul electronic"
+
+msgid "E-sign Submitted."
+msgstr "Semn electronic trimis."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Nu aveți permisiunea de a trimite semne electronice."
+
+msgid "You currently have no E-signs of your own"
+msgstr "În prezent, nu aveți semne electronice proprii"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Semnele dvs. electronice necompletate"
+
+msgid "Your Completed E-signs"
+msgstr "Semnele dvs. electronice completate"
+
+msgid "Your Signs"
+msgstr "Semnele tale"
+
+msgid "All E-signs"
+msgstr "Toate semnele E"
+
+msgid "E-sign Title"
+msgstr "Titlul semnului electronic"
+
+msgid "No E-signs"
+msgstr "Fără semne electronice"
+
+msgid "E-Signs Library"
+msgstr "Biblioteca E-Signs"
+
+msgid "No E-signs In Library"
+msgstr "Fără semne electronice în bibliotecă"
+
+msgid "Upload E-sign Document"
+msgstr "Încărcați documentul de semnare electronică"
+
+msgid "Update Task"
+msgstr "Actualizare sarcină"
+
+msgid "Create Task"
+msgstr "Creați sarcină"
+
+msgid "You currently have no tasks of your own"
+msgstr "În prezent, nu aveți sarcini proprii"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Sarcinile dvs. nefinalizate"
+
+msgid "Your Completed Tasks"
+msgstr "Sarcinile dvs. finalizate"
+
+msgid "Your Tasks"
+msgstr "Sarcinile dvs"
+
+msgid "All Tasks"
+msgstr "Toate sarcinile"
+
+msgid "Task"
+msgstr "Sarcină"
+
+msgid "Deadline"
+msgstr "Termen limită"
+
+msgid "Assignees"
+msgstr "Cesionarii"
+
+msgid "In Progress"
+msgstr "În curs"
+
+msgid "Delete task"
+msgstr "Ștergeți sarcina"
+
+msgid "No Tasks"
+msgstr "Fără sarcini"
+
+msgid "wants access"
+msgstr "vrea acces"
+
+msgid "No Answers"
+msgstr "Nu există răspunsuri"
+
+msgid "Select Field Type"
+msgstr "Selectați tipul câmpului"
+
+msgid "Text Only"
+msgstr "Doar text"
+
+msgid "Multiple Line Text"
+msgstr "Text cu mai multe linii"
+
+msgid "Dropdown"
+msgstr "Scapă jos"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Casetele de selectare"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Time"
+msgstr "Timp"
+
+msgid "Yes/No"
+msgstr "Da nu"
+
+msgid "Number"
+msgstr "Număr"
+
+msgid "Access Denied"
+msgstr "Acces interzis"
+
+msgid "You don't have access to this case."
+msgstr "Nu aveți acces la acest caz."
+
+msgid "Imports"
+msgstr "Importurile"
+
+msgid "View import"
+msgstr "Vedeți importul"
+
+msgid "Sessions"
+msgstr "Sesiuni"
+
+msgid "Home"
+msgstr "Acasă"
+
+msgid "Users"
+msgstr "Utilizatori"
+
+msgid "Library"
+msgstr "Bibliotecă"
+
+msgid "Integration"
+msgstr "Integrare"
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Taste"
+
+msgid "Feed Templates"
+msgstr "Feed Templates"
+
+msgid "Form Templates"
+msgstr "Formulare de șabloane"
+
+msgid "E-sign Templates"
+msgstr "Șabloane de semne electronice"
+
+msgid "Task Templates"
+msgstr "Șabloane de sarcini"
+
+msgid "Dashboard"
+msgstr "Bord"
+
+msgid "Payments"
+msgstr "Plăți"
+
+msgid "From"
+msgstr "Din"
+
+msgid "To"
+msgstr "La"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "User Intake"
+msgstr "Admisia utilizatorilor"
+
+msgid "Custom Fields"
+msgstr "câmpuri customizate"
+
+msgid "After Actions"
+msgstr "După Acțiuni"
+
+msgid "Advance Settings"
+msgstr "Setări avansate"
+
+msgid "Label Name"
+msgstr "Numele etichetei"
+
+msgid "Fields"
+msgstr "Câmpuri"
+
+msgid "Tag ID"
+msgstr "ID-ul etichetei"
+
+msgid "Have many users?"
+msgstr "Ai mulți utilizatori?"
+
+msgid "Import users"
+msgstr "Importă utilizatori"
+
+msgid "or"
+msgstr "sau"
+
+msgid "Send them a signup link."
+msgstr "Trimite-le un link de înscriere."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Să începem prin introducerea e-mailului sau a numărului de telefon"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Invalid phone number entered"
+msgstr "A fost introdus un număr de telefon nevalid"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr ""
+"O etichetă pentru a găsi cu ușurință un caz. nu poate fi schimbat ulterior"
+
+msgid "Visibility:"
+msgstr "Vizibilitate:"
+
+msgid "Who can use this template"
+msgstr "Cine poate folosi acest șablon"
+
+msgid "One time"
+msgstr "O data"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr ""
+"Vă rugăm să introduceți informații de plată valide înainte de a continua"
+
+msgid "Add Payment"
+msgstr "Adăugați o plată"
+
+msgid "Repeat every:"
+msgstr "Repetați fiecare:"
+
+msgid "Let's get started"
+msgstr "Să începem"
+
+msgid "Take me there"
+msgstr "Du-mă acolo"
+
+msgid "Mark"
+msgstr "marcă"
+
+msgid "Onboarding"
+msgstr "La imbarcare"
+
+msgid "Created on"
+msgstr "Creat in"
+
+msgid "Expires on"
+msgstr "Expira la"
+
+msgid "No announcements yet."
+msgstr "Niciun anunt inca."
+
+msgid "Add Announcement"
+msgstr "Adăugați anunț"
+
+msgid "Edit Announcement"
+msgstr "Editați anunțul"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Data și ora ar trebui să fie cu cel puțin o oră înainte"
+
+msgid "Delete Date"
+msgstr "Șterge data"
+
+msgid "Delete Time"
+msgstr "Ștergeți Ora"
+
+msgid "Back"
+msgstr "Înapoi"
+
+msgid "No Users Found"
+msgstr "Niciun utilizator găsit"
+
+msgid "No role selected"
+msgstr "Nu a fost selectat niciun rol"
+
+msgid "No permissions added!"
+msgstr "Nu s-au adăugat permisiuni!"
+
+msgid "ASSIGNED USERS"
+msgstr "UTILIZATORI ALOCATI"
+
+msgid "CASE PERMISSIONS"
+msgstr "PERMISII DE CAZ"
+
+msgid "User ID"
+msgstr "numele de utilizator"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "remove"
+msgstr "elimina"
+
+msgid "Assign User"
+msgstr "Alocați utilizator"
+
+msgid "User"
+msgstr "Utilizator"
+
+msgid "ADD USER"
+msgstr "ADĂUGAȚI UTILIZATOR"
+
+msgid "Email user about case assignment"
+msgstr "Trimiteți un e-mail utilizatorului despre atribuirea cazului"
+
+msgid "Keyword"
+msgstr "cuvinte cheie"
+
+msgid "No cases found."
+msgstr "Nu au fost găsite cazuri."
+
+msgid "Create a case for a business"
+msgstr "Creați un caz pentru o afacere"
+
+msgid "Case ID"
+msgstr "ID-ul cazului"
+
+msgid "Created On"
+msgstr "Creat in"
+
+msgid "Case Status"
+msgstr "Starea cazului"
+
+msgid "Case Type"
+msgstr "Tip de caz"
+
+msgid "Assign Users"
+msgstr "Atribuiți utilizatorii"
+
+msgid "No cases found"
+msgstr "Nu au fost găsite cazuri"
+
+msgid "Have many cases?"
+msgstr "Ai multe cazuri?"
+
+msgid "Click here to import cases."
+msgstr "Faceți clic aici pentru a importa cazuri."
+
+msgid "No status selected"
+msgstr "Nu a fost selectat niciun statut"
+
+msgid "No type selected"
+msgstr "Niciun tip selectat"
+
+msgid "Case Info"
+msgstr "Informații despre caz"
+
+msgid "About"
+msgstr "Despre"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"O etichetă permanentă pentru a găsi cu ușurință un caz. (a-z, 0-9, -, /) "
+"sunt permise"
+
+msgid "Case Types"
+msgstr "Tipuri de cazuri"
+
+msgid "Click"
+msgstr "Clic"
+
+msgid "to edit case types"
+msgstr "pentru a edita tipurile de cazuri"
+
+msgid "No Type selected"
+msgstr "Niciun tip selectat"
+
+msgid "Case not found!"
+msgstr "Cazul nu a fost găsit!"
+
+msgid "Media Size"
+msgstr "Media dimensiune"
+
+msgid "All statistics"
+msgstr "Toate statisticile"
+
+msgid "Import not found."
+msgstr "Importul nu a fost găsit."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Procesarea fișierului a eșuat. Asigurați-vă că este un tip de fișier CSV și "
+"conține anteturile corecte"
+
+msgid "Data"
+msgstr "Date"
+
+msgid "No Imports yet."
+msgstr "Nu există importuri încă."
+
+msgid "Source"
+msgstr "Sursă"
+
+msgid "Stats"
+msgstr "Statistici"
+
+msgid "Passed:"
+msgstr "A trecut:"
+
+msgid "Failed:"
+msgstr "A eșuat:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Add Imports"
+msgstr "Adăugați importuri"
+
+msgid "Download Sample"
+msgstr "Descărcați eșantionul"
+
+msgid "Choose a file"
+msgstr "Alegeți un fișier"
+
+msgid "Edit Key"
+msgstr "Editați cheia"
+
+msgid "Add Key"
+msgstr "Adăugați cheie"
+
+msgid "No Keys yet."
+msgstr "Nu există încă chei."
+
+msgid "Source CIDR"
+msgstr "Sursă CIDR"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "is invalid."
+msgstr "este invalid."
+
+msgid "Secret Key"
+msgstr "Cheie secreta"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Asigurați-vă că copiați noua cheie secretă acum. Nu îl veți mai putea vedea!"
+
+msgid "Edit Webhook"
+msgstr "Editați Webhook"
+
+msgid "Add Webhook"
+msgstr "Adăugați Webhook"
+
+msgid "No event selected"
+msgstr "Nu a fost selectat niciun eveniment"
+
+msgid "No Webhooks yet."
+msgstr "Nu există încă webhooks."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Webhook secret"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Asigurați-vă că copiați noul dvs. webhook secret acum. Nu îl veți mai putea "
+"vedea!"
+
+msgid "Sign In"
+msgstr "Conectare"
+
+msgid "Login in account page."
+msgstr "Conectați-vă în cont."
+
+msgid "Edit form builder"
+msgstr "Editați generatorul de formulare"
+
+msgid "Delete form"
+msgstr "Ștergeți formularul"
+
+msgid "No forms yet."
+msgstr "Nu există încă formulare."
+
+msgid "Intake Forms"
+msgstr "Formulare de admisie"
+
+msgid "Upload Intake Form Document"
+msgstr "Încărcați documentul formularului de admitere"
+
+msgid "Add Intake Form"
+msgstr "Adăugați formularul de admitere"
+
+msgid "Edit Intake Form"
+msgstr "Editați formularul de admitere"
+
+msgid "Show Media"
+msgstr "Afișați materiale media"
+
+msgid "Add Post"
+msgstr "Adăugați postarea"
+
+msgid "Edit Post"
+msgstr "Editează postarea"
+
+msgid "Files Amount"
+msgstr "Suma fișierelor"
+
+msgid "No Feed Templates yet."
+msgstr "Nu există încă șabloane de feed."
+
+msgid "Post Name"
+msgstr "Numele postului"
+
+msgid "Post Message"
+msgstr "Mesaj postat"
+
+msgid "Processing media ..."
+msgstr "Prelucrarea suportului ..."
+
+msgid "Download original file"
+msgstr "Descărcați fișierul original"
+
+msgid "Could not display media"
+msgstr "Nu a putut fi afișat suportul"
+
+msgid "No locations found."
+msgstr "Nu s-au găsit locații."
+
+msgid "Main Office"
+msgstr "Biroul principal"
+
+msgid "Location Name"
+msgstr "Numele locatiei"
+
+msgid "Delete e-sign"
+msgstr "Ștergeți semnul electronic"
+
+msgid "No e-signs yet."
+msgstr "Nu există încă semne electronice."
+
+msgid "Subtasks Count"
+msgstr "Subsarcinile numără"
+
+msgid "No tasks yet."
+msgstr "Nicio sarcină încă."
+
+msgid "Invoice ID"
+msgstr "Numărul de indentificare al facturii"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Refund"
+msgstr "Restituire"
+
+msgid "No invoices yet."
+msgstr "Încă nu există facturi."
+
+msgid "Refund Reason"
+msgstr "Motivul rambursării"
+
+msgid "Duplicate charge"
+msgstr "Încărcare duplicat"
+
+msgid "Fraudulent charge"
+msgstr "Taxa frauduloasa"
+
+msgid "Requested by customer"
+msgstr "Solicitat de client"
+
+msgid "On Board"
+msgstr "La bord"
+
+msgid "Stripe"
+msgstr "Dunga"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Informații despre rol"
+
+msgid "It cannot be changed later"
+msgstr "Nu poate fi schimbat mai târziu"
+
+msgid "Role Permissions"
+msgstr "Permisiuni pentru roluri"
+
+msgid "e-signs"
+msgstr "semne electronice"
+
+msgid "on"
+msgstr "pe"
+
+msgid "Allowed File Sizes"
+msgstr "Dimensiunile fișierelor acceptate"
+
+msgid "Create"
+msgstr "Crea"
+
+msgid "Creating..."
+msgstr "Crearea..."
+
+msgid "Modules"
+msgstr "module"
+
+msgid "Roles"
+msgstr "roluri"
+
+msgid "Profile information"
+msgstr "Informații de profil"
+
+msgid "No role found."
+msgstr "Nu sa găsit niciun rol."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Când este creat un caz, atribuiți automat acești utilizatori"
+
+msgid "Remove All"
+msgstr "Inlătură tot"
+
+msgid "User Name"
+msgstr "Nume de utilizator"
+
+msgid "Notify"
+msgstr "Notifică"
+
+msgid "Host User"
+msgstr "Utilizator gazdă"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "Când un utilizator este atribuit unui caz, adăugați automat șabloane"
+
+msgid "No post selected"
+msgstr "Nicio postare selectată"
+
+msgid "No form selected"
+msgstr "Niciun formular selectat"
+
+msgid "No e-sign selected"
+msgstr "Niciun semn electronic selectat"
+
+msgid "Templates"
+msgstr "Șabloane"
+
+msgid "Add Templates"
+msgstr "Adăugați șabloane"
+
+msgid "Idle Cases"
+msgstr "Cazuri inactiv"
+
+msgid "When a case is idle, post this message"
+msgstr "Când un caz este inactiv, postați acest mesaj"
+
+msgid "No case type selected"
+msgstr "Nu a fost selectat niciun tip de caz"
+
+msgid "Idle Days"
+msgstr "Zilele inactiv"
+
+msgid "Post Id"
+msgstr "ID post"
+
+msgid "Set Idle Message"
+msgstr "Setați mesajul inactiv"
+
+msgid "No task selected"
+msgstr "Nicio sarcină selectată"
+
+msgid "No operation order selected"
+msgstr "Nu a fost selectată nicio comandă de operare"
+
+msgid "Operation Order"
+msgstr "Ordin de operare"
+
+msgid "Add Templates to Assign Users"
+msgstr "Adăugați șabloane pentru a atribui utilizatori"
+
+msgid "CaseType"
+msgstr "Tip de caz"
+
+msgid "Case Form"
+msgstr "Formular de caz"
+
+msgid "User Form"
+msgstr "Formular de utilizator"
+
+msgid "Notes Form"
+msgstr "Formular de note"
+
+msgid "Defaults"
+msgstr "valori prestabilite"
+
+msgid "Required"
+msgstr "Necesar"
+
+msgid "Public User Signup link:"
+msgstr "Link pentru înregistrarea utilizatorului public:"
+
+msgid "Design Settings"
+msgstr "Setări de proiectare"
+
+msgid "Favicon:"
+msgstr "favicon:"
+
+msgid "Change file"
+msgstr "Schimbă fișierul"
+
+msgid "Delete Favicon"
+msgstr "Ștergeți Favicon"
+
+msgid "Logo:"
+msgstr "Siglă:"
+
+msgid "Delete Logo"
+msgstr "Ștergeți logo-ul"
+
+msgid "Text Color"
+msgstr "Culoarea textului"
+
+msgid "Recommended Colors:"
+msgstr "Culori recomandate:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "restabili"
+
+msgid "Background Color"
+msgstr "Culoare de fundal"
+
+msgid "Hex:"
+msgstr "hex:"
+
+msgid "Company Info"
+msgstr "Informații despre companie"
+
+msgid "Website"
+msgstr "Site-ul web"
+
+msgid "Terms of Use URL"
+msgstr "Termenii de utilizare URL"
+
+msgid "User Signup"
+msgstr "Înregistrare utilizator"
+
+msgid "Allow Signup"
+msgstr "Permite înregistrarea"
+
+msgid "Auto Create Case"
+msgstr "Creare automată a cazului"
+
+msgid "Case User Role"
+msgstr "Rolul de utilizator al cazului"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Cheia Analytics"
+
+msgid "delete"
+msgstr "șterge"
+
+msgid "Crop Image"
+msgstr "Crop Image"
+
+msgid "No Filter"
+msgstr "Fără filtru"
+
+msgid "No logs requested."
+msgstr "Nu au fost solicitate jurnale."
+
+msgid "Logs list is empty."
+msgstr "Lista de jurnale este goală."
+
+msgid "Download CSV"
+msgstr "Descărcați CSV"
+
+msgid "Request Logs"
+msgstr "Solicitați jurnale"
+
+msgid "Log Type"
+msgstr "Tipul de jurnal"
+
+msgid "Filter"
+msgstr "Filtru"
+
+msgid "Select a case"
+msgstr "Selectați un caz"
+
+msgid "Enter the email address"
+msgstr "Introduceți adresa de e-mail"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Header (3 max)"
+msgstr "Antet (maxim 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Când un utilizator se alătură aplicației, cereți utilizatorului să partajeze"
+" următoarele"
+
+msgid "No user intake found."
+msgstr "Nu s-a găsit niciun consum de utilizatori."
+
+msgid "User Type"
+msgstr "Tip de utilizator"
+
+msgid "Intake Form"
+msgstr "Formular de admisie"
+
+msgid "Complete After"
+msgstr "Completează După"
+
+msgid "No user type selected"
+msgstr "Niciun tip de utilizator selectat"
+
+msgid "No intake form selected"
+msgstr "Nu a fost selectat niciun formular de admitere"
+
+msgid "Complete After Date"
+msgstr "Completează după data"
+
+msgid "Complete After Time"
+msgstr "Completează după timp"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Data și ora ar trebui să fie mai mici sau egale cu acum"
+
+msgid "Comment ct"
+msgstr "Comentariu ct"
+
+msgid "View Ticket"
+msgstr "Vezi bilet"
+
+msgid "Ticket"
+msgstr "Bilet"
+
+msgid "No tickets yet."
+msgstr "Încă nu există bilete."
+
+msgid "User not found."
+msgstr "Utilizator nu a fost găsit."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Utilizatorul își poate edita informațiile contului, cu excepția secțiunii cu"
+" atributele utilizatorului gazdă."
+
+msgid "Contact"
+msgstr "a lua legatura"
+
+msgid "Phone number"
+msgstr "Numar de telefon"
+
+msgid "Zip Postal Code"
+msgstr "Zip / Cod Poștal"
+
+msgid "Host User Attributes"
+msgstr "Atributele utilizatorului gazdă"
+
+msgid "User Status"
+msgstr "Starea utilizatorului"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"O etichetă permanentă pentru a găsi cu ușurință un utilizator. (a-z, 0-9, -,"
+" /) sunt permise"
+
+msgid "App only User Intake Fields"
+msgstr "Câmpuri de admisie de utilizatori numai pentru aplicație"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP NUMAI DOMENIU PERSONALIZAT"
+
+msgid "s found."
+msgstr "am găsit."
+
+msgid "Created Date"
+msgstr "data creata"
+
+msgid "View Cases"
+msgstr "Vizualizați cazuri"
+
+msgid "VIEW CASES"
+msgstr "VEZI CAZURI"
+
+msgid "Get Started"
+msgstr "Incepe"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Email is not valid."
+msgstr "E-mailul nu este valid."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive vă permite să vă și clientul dumneavoastră"
+
+msgid "work together"
+msgstr "lucram impreuna"
+
+msgid "at any time, in any place."
+msgstr "în orice moment, în orice loc."
+
+msgid "Explore"
+msgstr "Explora"
+
+msgid "Pricing"
+msgstr "Prețuri"
+
+msgid "Support & Docs"
+msgstr "Asistență și documente"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to validate if you are human"
+msgstr "Nu a reușit să se valideze dacă ești om"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "NOTIFICAȚI-L CÂND ESTE GĂSIT!"
+
+msgid "Thank You!"
+msgstr "Mulțumesc!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Vă vom anunța când aplicația va fi gata"
+
+msgid "Most popular"
+msgstr "Cel mai popular"
+
+msgid "All languages"
+msgstr "Toate limbile"
+
+msgid "Oops, Something went wrong."
+msgstr "Ups! Ceva a mers prost."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Ups! Ceva a mers prost. Echipa noastră a fost anunțată. Vă rugăm să "
+"încercați din nou mai târziu."
+
+msgid "Support Documentation"
+msgstr "Documentatie suport"
+
+msgid "All Categories"
+msgstr "toate categoriile"
+
+msgid "Contents"
+msgstr "Cuprins"
+
+msgid "Related Articles"
+msgstr "Articole similare"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Începeți: procese, bune practici, ghiduri de configurare și multe altele!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Găsiți tot ce aveți nevoie pentru a ajunge la muncă în CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Toate cazurile de comunicare într-un singur loc"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Conversează, postează actualizări, răspunde la întrebări, ia notițe, "
+"comentează și poartă toate discuțiile etichetate prin e-mailuri și "
+"notificări SMS în timp real."
+
+msgid "Share with confidence"
+msgstr "Împărtășește cu încredere"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Partajează documente și fotografii între clienți și membrii echipei de pe "
+"orice dispozitiv, astfel încât toată lumea să fie la curent."
+
+msgid "Take it on the go"
+msgstr "Luați-o în mișcare"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Utilizați dispozitive mobile precum tablete și smartphone-uri pentru a "
+"colabora la detalii cheie, pentru a discuta probleme majore, pentru a "
+"schimba documente și a graficului evoluția cazurilor în timp real."
+
+msgid "Immediate records access"
+msgstr "Acces rapid la înregistrări"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Utilizatorii autorizați pot accesa rapid datele clientului și informațiile "
+"despre cazuri (inclusiv cazuri actuale, trecute, deschise, închise și în "
+"așteptare), toate printr-un singur portal."
+
+msgid "Automatic timezone conversion"
+msgstr "Conversia automată a fusului orar"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Indiferent dacă călătorești sau stai într-o altă locație, vei fi în "
+"sincronizare cu sistemul nostru de gestionare a conversațiilor din zona "
+"orară."
+
+msgid "Track Events"
+msgstr "Urmăriți evenimente"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Redactați întâlniri rapide, monitorizați evenimentele viitoare și invitați "
+"clienții și membrii echipei ca participanți."
+
+msgid "Video Conferencing"
+msgstr "Videoconferinta"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Conectați-vă cu clienții și membrii echipei prin chat-uri video live pentru "
+"o mai mare interactivitate."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatizați sarcinile atunci când un caz este creat sau un utilizator este "
+"alocat unui caz."
+
+msgid "Automated Alerts"
+msgstr "Alerte automate"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Vrei să dorești clienților tăi la mulți ani? Configurați un mesaj automat "
+"atât pentru clienții trecuți cât și pentru cei actuali pentru ziua lor "
+"specială!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Păstrarea actualizată a detaliilor clientului"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Clienții își pot modifica profilurile cu date, fotografii, parole și setări "
+"de cont actualizate."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Pune întrebări, primește răspunsuri."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Creați formulare personalizate și trimiteți-le clienților pentru completare."
+" Adunați informații esențiale, oferiți sondaje de ieșire și obțineți toate "
+"datele de care aveți nevoie pentru a vă face treaba bine!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Director Vânzări Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Faceți facturarea clientului cât mai simplă posibil cu facturile și plățile "
+"online."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Îți place facturarea cazului deoarece permite clienților să vadă exact ce "
+"plătesc."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Vicepreședinte al companiei Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Bucurați-vă de ușurința semnării electronice"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Deconectați electronic toate documentele prin DocSign, folosind documente "
+"încărcate și cereri și confirmare de semnătură digitală a clientului."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Încărcați un document, marcați-l pentru semnare, apoi clientul se conectează"
+" și îl semnează electronic. Totul se face fără ca clientul să fie nevoit să "
+"intre în clădirea noastră. Acest lucru este util pentru clienții care nu "
+"sunt aproape de un birou sau care locuiesc în afara statului."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Director de Operațiuni de Asigurări de Capital"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Îmbunătățiți sistemul. Mai puțină muncă, mai multe rezultate."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Utilizați caracteristica de administrare auto-servire"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Luați control total asupra suitei de management CaseActive de pe platforma "
+"însăși."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Legați cu ușurință sistemul dvs. existent cu CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integrează API-ul nostru proprietar pentru a crea automat cazuri, pentru a "
+"aloca utilizatori și pentru a genera rapoarte bazate pe intrarea dvs. de "
+"sistem."
+
+msgid "Acting as a"
+msgstr "Acționând ca a"
+
+msgid "virtual administrative assistant"
+msgstr "asistent administrativ virtual"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive vă împuternicește să vă familiarizați cu documentele și "
+"materialele media, private"
+
+msgid "client-to-customer communications"
+msgstr "comunicarea client-cu-client"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "planificarea evenimentului și procesarea pas cu pas a cazurilor."
+
+msgid "Self-Serve Administration"
+msgstr "Administrarea cu auto-servire"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Acționând ca asistent administrativ virtual, CaseActive vă oferă abilități "
+"de gestionare simplificată de documente și media, comunicații private de la "
+"client la client, programare de evenimente și procesare pas cu pas."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Gestionați conectările utilizatorului și crearea cazurilor"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Supraveghează direct crearea de conturi de utilizator în timp ce autorizează"
+" permisiunile de acces de la caz la caz. Gestionați crearea, progresul și "
+"închiderea cazurilor, cu raportare completă la fiecare pas."
+
+msgid "View Caseactive Analytics"
+msgstr "Vizualizați analizele caseactive"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Vedeți exact cum progresează un caz, numărul de cazuri închise cu succes și "
+"vedeți timpii de răspuns prin intermediul modulului de analiză amănunțită de"
+" CaseActive. Cunoașterea este putere și v-am oferit tot ce trebuie să știți "
+"despre propriile proiecte."
+
+msgid "Monitor User Logs"
+msgstr "Monitorizați jurnalele utilizatorilor"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Urmăriți conectările clientului și ale membrilor echipei și activitatea "
+"platformei pentru a vă asigura că toate acțiunile lor sunt autorizate în "
+"parametrii cazului și că toți membrii își îndeplinesc sarcinile, după cum "
+"este necesar."
+
+msgid "Employ Advanced Searches"
+msgstr "Folosiți căutări avansate"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Găsiți exact ce aveți nevoie atunci când aveți nevoie. Căutați cazuri după "
+"nume de utilizator și client, cuvinte cheie, linii de timp, documente "
+"încărcate și multe altele!"
+
+msgid "Create Custom Fields"
+msgstr "Creați câmpuri personalizate"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Generați câmpuri de caz specializate pentru intrarea clientului și a "
+"membrilor echipei și strângeți datele de care aveți nevoie de la toți cei "
+"implicați. Faceți interfața carcasei unică pentru afacerea și marca dvs.!"
+
+msgid "Create Custom Templates"
+msgstr "Creați șabloane personalizate"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Dezvoltați o gamă enormă de formulare și șabloane personalizate pentru "
+"distribuire și completare atât în timpul cât și după un caz (cum ar fi "
+"sondajele de ieșire ale clienților). Indiferent de forma de care aveți "
+"nevoie, puteți crea!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Facturare As-You-Go"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Suntem aici pentru a vă ajuta! Luați legătura dacă aveți încă întrebări și "
+"vom răspunde în termen de două zile lucrătoare."
+
+msgid "* Email is not valid."
+msgstr "* E-mailul nu este valid."
+
+msgid "Low"
+msgstr "Scăzut"
+
+msgid "Medium"
+msgstr "Mediu"
+
+msgid "High"
+msgstr "Înalt"
+
+msgid "Critical"
+msgstr "Critic"
+
+msgid "Choose Importance"
+msgstr "Alegeți importanța"
+
+msgid "Department"
+msgstr "Departament"
+
+msgid "Sales"
+msgstr "Vânzări"
+
+msgid "Other"
+msgstr "Alte"
+
+msgid "Choose Department"
+msgstr "Alegeți departamentul"
+
+msgid "Loading"
+msgstr "se incarca"
+
+msgid "Importance"
+msgstr "Importanţă"
+
+msgid "Send A New Message"
+msgstr "Trimite un mesaj nou"
+
+msgid "Send message"
+msgstr "Trimite mesaj"
+
+msgid "Answers to Questions"
+msgstr "Răspunsuri la întrebări"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Aveți întrebări? Citiți mai multe îndrumări în răspunsurile noastre la "
+"întrebările clienților și găsiți răspunsurile proprii."
+
+msgid "How secure is CaseActive?"
+msgstr "Cât de sigur este CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive folosește criptare SSL de 128 de biți de grad militar și bancar "
+"pentru transmiterea datelor și criptare AES de 256 de biți pentru datele în "
+"repaus. Fiecare instanță CaseActive are o cheie unică generată, oferind un "
+"nivel suplimentar de securitate pentru afacerea dvs. Nu vom permite "
+"niciodată unei alte companii să vă acceseze baza de date sau sistemul de "
+"stocare."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Am un sistem existent, CaseActive poate funcționa cu sistemul meu existent?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Da, puteți integra API-ul nostru proprietar sau modulul de importare pentru "
+"a crea automat cazuri, a atribui utilizatori și a genera rapoarte pe baza "
+"datelor introduse de sistem."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Avem clienți în toată lumea. CaseActive este disponibil în alte limbi?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Da, aplicația și comunicarea CaseActive pot fi traduse în peste 60 de limbi,"
+" inclusiv în chineză mandarină, spaniolă, hindi și rusă, precum și în "
+"engleză."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Pot adăuga un logo sau pot personaliza CaseActive în vreun fel?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Absolut! CaseActive a fost conceput pentru tine. Pe pagina de setări a "
+"panoului de administrare, puteți încărca propria culoare personală și puteți"
+" alege culorile companiei."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Este CaseActive compatibil cu orice dispozitiv (PC, Mac, tabletă și mobil)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive este o aplicație web receptivă. Acesta rulează în orice browser "
+"web, cum ar fi Internet Explorer, Firefox, Safari sau Chrome, etc. Aceasta "
+"înseamnă că tipul de dispozitiv (PC, Mac, tabletă și mobil) pe care îl "
+"utilizați nu are nicio diferență. Pur și simplu deschideți browserul web, "
+"conectați-vă la contul dvs. CaseActive și sunteți gata."
+
+msgid "How many clients can I have?"
+msgstr "Câți clienți pot avea?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Sunteți facturat pe loc de personal, pe lună. Puteți avea utilizatori "
+"clienți nelimitați."
+
+msgid "Enhance User Experience"
+msgstr "Îmbunătățiți experiența utilizatorului"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Nu există taxe minime și nici angajamente inițiale. Plătești doar pe loc de "
+"personal, pe lună."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "pe luna"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Tot ce ai nevoie pentru a începe. Sunt incluse 3 locuri."
+
+msgid "Business"
+msgstr "Afaceri"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Cel mai popular plan al nostru. Sunt incluse 4 locuri."
+
+msgid "Enterprise"
+msgstr "Afacere"
+
+msgid "Contact sales for pricing"
+msgstr "Contactați vânzările pentru prețuri"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Prețuri personalizate, Funcții avansate, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Contactați vânzări"
+
+msgid "Overview"
+msgstr "Prezentare generală"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Comunicați și distribuiți documente cu clienții dvs"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Programați evenimente și întâlniri recurente"
+
+msgid "Fully customize your form to generate data"
+msgstr "Personalizați-vă complet formularul pentru a genera date"
+
+msgid "Keep track of case progression"
+msgstr "Urmăriți evoluția cazului"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Solicitați semnături electronice conforme de la mai mulți utilizatori"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Generați o factură pentru ca clientul dvs. să o vadă sau să plătească"
+
+msgid "ToDos"
+msgstr "ToDos"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Permite tuturor să știe ce urmează și ce urmează"
+
+msgid "Auto notify the user when something is due"
+msgstr "Notifică automat utilizatorul când se datorează ceva"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Adăugați câmpuri de caz personalizate pentru toate cazurile dvs"
+
+msgid "Custom Branding"
+msgstr "Branding personalizat"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Faceți-vă aplicația unică cu logo-ul și stilurile de culoare"
+
+msgid "Access to customer support"
+msgstr "Acces la suport pentru clienți"
+
+msgid "Storage"
+msgstr "Depozitare"
+
+msgid "Unlimited"
+msgstr "Nelimitat"
+
+msgid "Additional Users Seats"
+msgstr "Locuri suplimentare pentru utilizatori"
+
+msgid "N/A"
+msgstr "N / A"
+
+msgid "$83.34"
+msgstr "83,34 USD"
+
+msgid "Convo with recording"
+msgstr "Convo cu înregistrare"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Chat video sau audio cu înregistrarea salvată în carcasă"
+
+msgid "API Access"
+msgstr "Acces API"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatizați sarcinile cu acces la API"
+
+msgid "Module Templates"
+msgstr "Șabloane de module"
+
+msgid "Create a standard template and reuse it"
+msgstr "Creați un șablon standard și reutilizați-l"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Executați automat o acțiune atunci când este declanșat un caz sau un caz "
+"atribuit"
+
+msgid "Newsletter"
+msgstr "Buletin informativ"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Trimiteți clienților mesaje generale, de zi de naștere sau de sărbători (în "
+"curând)"
+
+msgid "Encryption at rest"
+msgstr "Criptare în repaus"
+
+msgid "Protects your data from system compromise"
+msgstr "Vă protejează datele împotriva compromisului sistemului"
+
+msgid "Encryption in transit"
+msgstr "Criptare în tranzit"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Vă protejează datele dacă comunicațiile sunt interceptate"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Conectare unică (SSO) bazată pe SAML"
+
+msgid "Respond realtime to events"
+msgstr "Răspundeți în timp real la evenimente"
+
+msgid "Seamless Collaboration"
+msgstr "Colaborare fără întreruperi"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive eficientizează colaborarea digitală între compania dumneavoastră "
+"și clienți - de la consultare la rezoluție, totul pe o singură platformă."
+
+msgid "Take a tour"
+msgstr "Faceți un tur"
+
+msgid "Stay Connected"
+msgstr "Rămâi conectat"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Mențineți contactul instant cu membrii echipei utilizând interfața "
+"prietenoasă a utilizatorului CaseActive ca hub-ul dvs. unic pentru "
+"gestionarea clientului și a cazurilor."
+
+msgid "Connect"
+msgstr "Conectați"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed vă ține la curent cu clienții dvs."
+
+msgid "Schedule"
+msgstr "Programa"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Creați evenimente, invitați participanți și monitorizați calendarul."
+
+msgid "Call"
+msgstr "Apel"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "Angajați-vă în apeluri de conferințe video live oriunde și oriunde."
+
+msgid "Share"
+msgstr "Acțiune"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Încărcați în siguranță fișierele, discutați-le și împărtășiți-le."
+
+msgid "Powerful Case Management"
+msgstr "Gestionarea eficientă a cazurilor"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Out-of-the-Box funcționalitate"
+
+msgid "Easily assign individuals"
+msgstr "Atribuiți cu ușurință persoane"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "sau echipe la un caz și să colaboreze cu clienții."
+
+msgid "Manage user groups"
+msgstr "Gestionați grupurile de utilizatori"
+
+msgid "and customize access permissions."
+msgstr "și să personalizați permisiunile de acces."
+
+msgid "All data is automatically backed up"
+msgstr "Toate datele sunt copiate automat"
+
+msgid "in case a recovery is ever needed."
+msgstr "în cazul în care este necesară o recuperare."
+
+msgid "All information"
+msgstr "Toate informațiile"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "este criptat în siguranță, asigurând intimitatea dvs. absolută."
+
+msgid "Customize"
+msgstr "Personalizați"
+
+msgid "with your own colors and logo."
+msgstr "cu propriile culori și logo-uri."
+
+msgid "can be enabled/disabled at any time."
+msgstr "pot fi activate / dezactivate în orice moment."
+
+msgid "Benefits of "
+msgstr "Beneficiile"
+
+msgid "Reduction in time "
+msgstr "Reducerea timpului"
+
+msgid "to intake new clients"
+msgstr "pentru a capta noi clienti"
+
+msgid "Minimize "
+msgstr "Minimizați"
+
+msgid "the chance of "
+msgstr "sansa de a"
+
+msgid "malpractice"
+msgstr "malpraxis"
+
+msgid "Better experience "
+msgstr "Experiență mai bună"
+
+msgid "for your client"
+msgstr "pentru clientul dvs"
+
+msgid "Increase in caseload capacity "
+msgstr "Creșterea capacității de încărcare"
+
+msgid "per staff"
+msgstr "pe personal"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Începeți cu aplicațiile noastre încorporate"
+
+msgid "All you need in one place."
+msgstr "Tot ce ai nevoie într-un singur loc."
+
+msgid "Case Feed"
+msgstr "Cazul de alimentare"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Alocați cu ușurință un client, personal și asociați unui caz și angajați-vă "
+"într-un spațiu securizat care vă permite să postați progresul cazului, să "
+"aveți conversații video și chat în timp real, precum și să programați "
+"evenimente, să semnați / încărcați / descărcați documente și mult mai mult."
+
+msgid "Case Invoices"
+msgstr "Facturi de caz"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Cu facturarea din timp, facturarea clientului este la doar un clic și vă "
+"permite să trimiteți cereri de fond generate automat și să primiți plăți "
+"directe în schimb."
+
+msgid "Case Events"
+msgstr "Caz Evenimente"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Mențineți-vă în permanență calendarul de caz organizat, programând "
+"evenimente, invitând participanții, trimitând mementouri de evenimente și "
+"asigurați-vă că totul rămâne pe cale."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Întâlnește-te cu clienții și membrii echipei practic „față în față” prin "
+"videoconferință încorporată, astfel încât să poți vorbi direct cu toți cei "
+"implicați."
+
+msgid "Case Forms & E-signs"
+msgstr "Forme de caz și semne electronice"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Personalizați complet formularul dvs. de caz pentru a genera șabloane unice "
+"care răspund nevoilor dvs. specifice. Aceste șabloane pot fi apoi "
+"distribuite clienților și membrilor echipei pentru a le completa și semna"
+
+msgid "Case notes"
+msgstr "Note de caz"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Păstrați notițe cu câmpuri personalizate și atașamente cu privire la "
+"progresul cazurilor pentru membrii actuali și viitori ai echipei"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Încărcați, distribuiți, comentați și descărcați fișiere referitoare la caz, "
+"astfel încât toată lumea să aibă o referință cu privire la toate detaliile, "
+"oamenii și situațiile importante."
+
+msgid "About Case"
+msgstr "Despre caz"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Permiteți clienților și personalului să vizualizeze detalii generale pentru "
+"cazurile în care sunt implicați. Puteți apoi să închideți cazul odată ce "
+"totul este încheiat sau să acordați autorizației unui membru al echipei în "
+"acest sens."
+
+msgid "Plus Many More Features"
+msgstr "Plus multe mai multe funcții"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Utilizați funcția administrativă de servire proprie Puneți controlul total "
+"asupra suitei dvs. de gestionare CaseActive de pe platforma în sine."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Conectați fără efort sistemul dvs. existent cu CaseActive Integrați API-ul "
+"nostru proprietar pentru a crea automat cazuri, pentru a atribui utilizatori"
+" și pentru a genera rapoarte bazate pe intrarea dvs. de sistem."
+
+msgid "Multi-Language Enabled:"
+msgstr "Activarea mai multor limbi:"
+
+msgid "Interact with clients in"
+msgstr "Interacționează cu clienții în"
+
+msgid "70+ languages"
+msgstr "70 de limbi"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Fie că lucrați la nivel local sau global, puteți traduce limba maternă a "
+"clientului prin intermediul CaseActive"
+
+msgid "language management system"
+msgstr "sistem de management al limbii"
+
+msgid "No more confusion or limits."
+msgstr "Nu mai există confuzii sau limite."
+
+msgid "Let's see what others are saying"
+msgstr "Să vedem ce spun ceilalți"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Descoperiți cum clienții noștri minunați - de la întreprinderi mici la "
+"întreprinderi corporative - și-au sporit avantajul competitiv devenind "
+"războinici CaseActive."
+
+msgid "SUPPORT"
+msgstr "A SUSTINE"
+
+msgid "Everything at Your Fingertips."
+msgstr "Totul la vârfurile degetului."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Începeți cu aplicația dvs. CaseActive urmând ghidul nostru video și "
+"personalizați-l pentru a vă satisface nevoile."
+
+msgid "What are you looking for..."
+msgstr "Ce cauti..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Ultima actualizare: 7 iunie 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive își rezervă dreptul, în orice moment și la discreția sa, de a "
+"actualiza și modifica oricare sau toți acești Termeni și condiții. Când "
+"CaseActive modifică acești Termeni și condiții, CaseActive va modifica data "
+"„Ultima actualizare” de mai sus. Sunteți responsabil pentru examinarea "
+"periodică a celei mai recente versiuni a Serviciului. Utilizarea dvs. "
+"continuă a Serviciilor după ce au fost efectuate astfel de modificări va "
+"constitui consimțământul dvs. de a fi legat de aceste modificări. Dacă vă "
+"opuneți oricărei modificări ale acestor Termeni de serviciu, remedierea dvs."
+" exclusivă și exclusivă va fi încetarea Serviciilor în conformitate cu "
+"termenii de aici."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Acești Termeni și condiții generale se aplică serviciilor în general. "
+"Condițiile suplimentare aplicabile fiecărui Serviciu oferit sunt stabilite "
+"în linkurile furnizate mai jos („Condițiile suplimentare de furnizare a "
+"serviciului”)."
+
+msgid "1. Services:"
+msgstr "1. Servicii:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Software-ul nostru proprietar este o platformă de servicii pe care o găzduim"
+" pentru clienții noștri pentru a oferi serviciile detaliate mai jos. Pentru "
+"a vă abona la un serviciu, trebuie să executați un formular de comandă "
+"pentru acel serviciu și / sau să completați fluxul de înscriere pentru "
+"serviciul respectiv. Aveți dreptul să utilizați Serviciile pentru care v-ați"
+" abonat și plătit, iar utilizarea dvs. a Serviciilor este supusă respectării"
+" de către dvs. a tuturor termenilor și condițiilor din Acord. Vă "
+"recunoașteți și sunteți de acord că ne rezervăm dreptul de a modifica "
+"Serviciile (sau orice părți ale acestora) din când în când și că nu vom fi "
+"răspunzători pentru dvs. sau față de terți pentru nicio modificare a "
+"Serviciilor."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Descrierea serviciului CaseActive: Serviciul CaseActive este suita de "
+"servicii software găzduite pentru managementul colaborării online a "
+"clienților oferit de CaseActive LLC. Fluxul de înscriere la care ați "
+"acceptat sau Formularul de comandă pe care l-ați executat identifică "
+"Serviciul CaseActive pentru care v-ați abonat, termenul de abonare și taxele"
+" plătite de dvs. pentru Serviciul CaseActive. Termenii și condițiile "
+"suplimentare aplicabile utilizării dvs. de către serviciul CaseActive sunt "
+"stabilite la:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Extinderea serviciilor:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Vă puteți abona la orice Servicii suplimentare, inclusiv la Servicii noi, "
+"care pot fi puse la dispoziție de CaseActive din când în când sau puteți "
+"mări Serviciile existente prin executarea unui Formular de comandă "
+"suplimentar sau a fluxului de înscriere, ca parte a Serviciilor. Fiecare nou"
+" flux de înscriere sau Formular de comandă va include prețul și data "
+"(datele) de facturare a Serviciilor adăugate la acel moment. Toate "
+"serviciile noi sunt supuse acestor Termeni generali de serviciu și orice "
+"termeni și condiții suplimentare care se pot aplica în mod special pentru "
+"astfel de servicii suplimentare."
+
+msgid "3. Customer Support:"
+msgstr "3. Asistență pentru clienți:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Cu condiția să plătiți toate taxele plătite de dvs. pentru servicii, vom "
+"depune eforturi rezonabile din punct de vedere comercial pentru a vă oferi, "
+"fără taxă, servicii de asistență tehnică pentru dvs. și utilizatorii dvs. "
+"autorizați care s-au abonat la servicii. Un reprezentant de servicii pentru "
+"clienți va fi alocat cazurilor dvs. Cazurile nelimitate sunt acceptate de la"
+" utilizatorii autorizați. Asistența noastră standard este disponibilă 24/7, "
+"cu excepția sărbătorilor majore, care includ Ziua Memorialului, Ziua "
+"Independenței, Ziua Muncii, Ziua Recunoștinței, Crăciun și Ziua Anului Nou. "
+"Puteți contacta asistența clienților utilizând serviciul nostru"
+
+msgid "Contact Form"
+msgstr "Formular de contact"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Timpul nostru de răspuns nu va fi mai mare de două zile lucrătoare."
+
+msgid "4. Training:"
+msgstr "4. Formare:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Cu condiția să plătiți toate taxele plătite de dvs. pentru servicii, vom "
+"pune la dispoziția utilizatorilor desemnați, numiți și autorizați, sesiuni "
+"de formare la distanță, în direct sau înregistrate, precum și oferim "
+"tutoriale accesibile prin secțiunea Ajutor și instruire a site-ului nostru "
+"web la fără taxe suplimentare. Pentru unele servicii, oferim instruire la "
+"fața locului la cerere și la un cost suplimentar. Vă rugăm să ne contactați "
+"folosind site-ul nostru"
+
+msgid "for more information about on-site training."
+msgstr "pentru mai multe informații despre instruirea la fața locului."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Drepturile și restricțiile:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Licență: Sub rezerva termenilor și condițiilor din acord și la plata în "
+"timp util a tuturor taxelor aplicabile prevăzute în Formularul de comandă "
+"sau în fluxul de înscriere, vă acordăm prin prezenta un drept neexclusiv, "
+"netransmisibil, limitat și licența de a utiliza (și permite utilizatorilor "
+"dvs. autorizați să utilizeze) Serviciile la care v-ați abonat, exclusiv în "
+"scopuri de afaceri interne."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Utilizatori autorizați: (i) sunteți responsabil pentru respectarea de "
+"către utilizatorii dvs. autorizați a acordului și (ii) trebuie să faceți "
+"eforturi rezonabile din punct de vedere comercial pentru a împiedica accesul"
+" neautorizat la sau a utiliza serviciile și ne va anunța imediat orice acces"
+" neautorizat sau utilizare. Este responsabilitatea dvs. să eliminați accesul"
+" la Servicii dacă statutul autorizat al unui utilizator sau al unui angajat "
+"desemnat se modifică."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Responsabilitățile și restricțiile dvs.: sunteți responsabil pentru "
+"toate activitățile care se desfășoară în conturile de utilizator sau de "
+"către utilizatorii autorizați. Voi: (i) aveți responsabilitatea exclusivă "
+"pentru acuratețea, calitatea, integritatea, legalitatea, fiabilitatea și "
+"adecvarea tuturor datelor pe care le transmiteți Serviciilor; (ii) să "
+"utilizeze eforturi rezonabile din punct de vedere comercial pentru a preveni"
+" controlul sau alterarea neautorizată sau orice alt acces neautorizat la sau"
+" utilizarea serviciilor și să ne anunțe prompt despre orice utilizare "
+"neautorizată sau încălcare a securității; (iii) să respecte toate legile "
+"locale, de stat, federale și străine aplicabile (inclusiv legile privind "
+"confidențialitatea și protecția informațiilor personale sau ale "
+"consumatorului) în utilizarea Serviciilor; (iv) în măsura în care se aplică,"
+" să respecte toate normele aplicabile asociațiilor de carduri de credit "
+"(inclusiv American Express, MasterCard și Visa); și (v) obține și întreține "
+"toate echipamentele hardware, software și comunicații ale computerului "
+"necesare pentru accesarea Serviciilor și plătește toate taxele de acces (de "
+"ex. comisioane ISP) suportate de dvs. în legătură cu utilizarea serviciilor."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Nu puteți și vă veți asigura că utilizatorii dvs. autorizați nu (i) "
+"dezasamblați, inversați, decompilați sau încercați altfel să descifrați "
+"orice cod în legătură cu Serviciile sau să modificați, adaptați, creați "
+"lucrări derivate bazate pe sau traduse Servicii; (ii) licență, licențiere, "
+"vânzare, închiriere, atribuire, distribuire, transfer pe durată de timp, "
+"închiriere, împrumut, revânzare pentru profit, distribuire sau exploatare "
+"comercială, acordare de drepturi sau punerea la dispoziție a serviciilor "
+"oricărui terț; (iii) să utilizeze Serviciile, cu excepția cazului în care "
+"sunt autorizate în mod expres în baza prezentului regulament sau cu "
+"încălcarea oricărei legi aplicabile; (iv) să se angajeze în orice practici "
+"comerciale ilegale sau înșelătoare cu privire la servicii; (v) evită sau "
+"dezactivează orice securitate sau alte caracteristici sau măsuri tehnice ale"
+" Serviciilor sau orice alt aspect al Software-ului sau, în orice mod, "
+"încearcă să obțină sau să obțină acces neautorizat la Servicii sau la "
+"sistemele sau rețelele informatice aferente; (vi) să utilizeze Serviciile "
+"pentru a transmite materiale încălcatoare, calomnioase, obscene, "
+"amenințatoare sau ilegale, nesigure, dăunătoare, abuzive sau delicte sau "
+"pentru a stoca sau transmite materiale cu încălcarea drepturilor de "
+"confidențialitate ale unei terțe părți; (vii) utilizează Serviciul pentru a "
+"stoca sau transmite viruși, viermi, bombe de timp, cai troieni și alte "
+"coduri, fișiere, scripturi, agenți sau programe dăunătoare sau dăunătoare, "
+"sau pentru a trimite spam sau mesaje duplicatorii sau nesolicitate, cu "
+"încălcarea legilor aplicabile ; sau (viii) să interfereze sau să perturbe "
+"integritatea sau performanța Serviciilor sau a datelor terță parte conținute"
+" de acestea."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Rezervarea drepturilor: Nu se acordă alte drepturi decât cele prevăzute "
+"în acord. Acordul nu este o vânzare și nu transmite niciun drept sau "
+"proprietate asupra Serviciilor sau a oricăror programe software care stau la"
+" baza acestora. Deținem toate drepturile, titlul și interesul, inclusiv "
+"toate drepturile de proprietate intelectuală, în și către Serviciile și "
+"software-ul de bază și orice actualizări, actualizări, modificări, "
+"îmbunătățiri, îmbunătățiri sau lucrări derivate ale acestora, și în orice "
+"idee, cunoaștere cum și programele dezvoltate de noi sau de autorizații "
+"noștri în timpul executării serviciilor."
+
+msgid "6. Term and Termination:"
+msgstr "6. Termen și terminare:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Termen: Termenul Serviciilor variază în funcție de Serviciul la care "
+"v-ați abonat și va fi stabilit pe Formularul de comandă sau convenit în "
+"fluxul de înscriere și se reînnoiește după cum urmează:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Termenul serviciului CaseActive: Abonamentul dvs. la Serviciul "
+"CaseActive se reînnoiește automat pentru termeni succesivi de o lună sau un "
+"an, așa cum este stabilit în Formularul de comandă sau fluxul de înscriere, "
+"cu excepția cazului în care întrerupeți Serviciul pe care ni-l furnizați cu "
+"o notificare de neînnoire cu cel puțin treizeci (30) zile înainte de "
+"expirarea termenului actual."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Termenul serviciilor site-ului CaseActive: abonamentul dvs. la "
+"serviciile site-ului CaseActive se reînnoiește automat pentru termeni "
+"succesivi de o lună sau un an, așa cum sunt prevăzuți în Formularul de "
+"comandă sau fluxul de înscriere, cu excepția cazului în care întrerupeți "
+"Serviciul sau ne oferiți cu o notificare de neînnoire cu cel puțin treizeci "
+"(30) de zile înainte de expirarea termenului actual."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Notificare scrisă de neînnoire de către dumneavoastră trebuie să fie "
+"depusă la CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Reziliere: Fiecare parte poate rezilia Acordul și toate abonamentele "
+"Serviciului (i) în cazul în care cealaltă parte încalcă oricare dintre "
+"obligațiile sale materiale din Acord și această încălcare nu este vindecată "
+"în termen de treizeci (30) de zile de la primirea notificării de la "
+"neîndeplinirea obligațiilor o parte sau (ii) dacă cealaltă parte devine "
+"insolvabilă sau falimentară, lichidată sau este dizolvată sau încetează "
+"substanțial toate activitățile sale. Putem rezilia acordul imediat în cazul "
+"încălcării secțiunii 5.3 de mai sus. După încetarea acordului, veți "
+"întrerupe imediat orice utilizare a Serviciilor, veți înceta să reprezentați"
+" în orice formă că sunteți un utilizator al Serviciilor și să distrugeți "
+"toate informațiile noastre confidențiale aflate în posesia dvs. Niciuna "
+"dintre părți nu răspunde pentru daunele care rezultă din rezilierea "
+"Contractului sau din abonamentele la Servicii prevăzute în prezentul "
+"document; cu toate acestea, cu condiția ca rezilierea acordului să nu "
+"afecteze nicio pretenție apărută înainte de această reziliere."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Manipularea datelor dvs. în caz de încheiere: Dvs. recunoașteți și "
+"sunteți de acord că, după expirarea sau încetarea oricăruia dintre "
+"abonamentele dvs. la Servicii, putem dezactiva imediat Serviciile afectate "
+"și că, după o perioadă rezonabilă de cel puțin nouăzeci (90) ) zile, vă pot "
+"șterge contul și datele. Cu toate acestea, în cazul în care Serviciile sunt "
+"reziliate de noi, vă vom acorda acces temporar și limitat la Servicii, care "
+"să nu depășească treizeci (30) de zile, în scopul exclusiv de a vă permite "
+"să vă preluați datele de proprietate, cu condiția ca ne-ați plătit integral "
+"toate sumele nediscutate de bună credință datorate nouă. De asemenea, "
+"sunteți de acord că nu vom fi responsabili pentru dvs. sau față de terți "
+"pentru nicio încetare a accesului dvs. la Servicii sau ștergerea datelor "
+"dvs., cu condiția să respectăm termenii din această secțiune 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Taxe:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Taxe de serviciu: Veți plăti taxele nerambursabile pentru Servicii în "
+"suma stabilită în fluxul de înscriere sau Formularul de comandă („Taxe de "
+"serviciu”) și în funcție de frecvența de facturare menționată în fluxul de "
+"înscriere sau Comandă Formă. Taxele de serviciu trebuie scadente și "
+"plătibile la data facturii. Taxele de servicii pot fi majorate pe baza "
+"taxelor noastre curente. Taxele de serviciu sunt nerambursabile, chiar dacă "
+"încetați abonamentul din timp."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Taxe suplimentare: Puteți suporta alte taxe sau taxe nerambursabile "
+"pentru utilizarea Serviciilor, pe lângă aceste taxe prevăzute în Formularul "
+"de comandă și / sau fluxul de înscriere. Taxele și taxele suplimentare "
+"nerambursabile sunt stabilite în termenii suplimentari pentru Serviciul "
+"aplicabil."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Plăți tardive: Dvs. recunoașteți că neplata taxe sau comisioane datorate"
+" poate duce la suspendarea sau încetarea abonamentelor (produselor) "
+"CaseActive. Dacă nu plătiți oricare dintre comisioane sau taxe datorate în "
+"temeiul prezentului document, CaseActive își rezervă dreptul de a angaja o "
+"agenție de colectare pentru a percepe comisioanele și taxele și veți plăti "
+"toate costurile suportate de CaseActive în legătură cu încasarea acestor "
+"sume scadente, inclusiv , fără limitare, onorariile rezonabile ale "
+"avocaților și agențiilor de colectare, plus dobânda în sumă egală cu minusul"
+" de 1,0% pe lună sau rata maximă permisă de legislația în vigoare."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Impozite: Veți fi responsabil pentru toată impozitul pe vânzări, "
+"impozitul pe utilizare, impozitele pe valoarea adăugată, impozitele de "
+"reținere și orice alte impozite și taxe similare de orice fel impuse de "
+"entitățile guvernamentale federale, de stat sau locale pe tranzacțiile "
+"prevăzute în acord. Atunci când avem obligația legală de a plăti sau de a "
+"colecta impozite pentru care sunteți responsabil, în conformitate cu această"
+" secțiune, suma corespunzătoare va fi facturată și plătită de dvs., cu "
+"excepția cazului în care ne furnizați un certificat de scutire de impozit "
+"valabil autorizat de autoritatea fiscală corespunzătoare."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Reprezentări și garanții:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Reprezentări reciproce și garanții: Fiecare parte reprezintă și "
+"garantează celeilalte părți că (i) are toate autoritățile necesare pentru "
+"a-și asuma și a-și îndeplini obligațiile în temeiul acordului, fără acordul "
+"vreunui terț sau încălcarea vreunui contract sau acord cu orice terță parte "
+"(ii) toate persoanele care îndeplinesc orice obligații de mai jos au "
+"încheiat toate acordurile necesare pentru ca acesta să respecte termenii și "
+"condițiile acordului și (iii) trebuie să respecte în toate aspectele "
+"materiale toate legile aplicabile Serviciile."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Reprezentări și garanții suplimentare: Dvs. garantați, reprezentați și "
+"legământul pentru noi că veți utiliza serviciile numai în scopuri legale în "
+"conformitate cu acordul și cu toate politicile și orientările aplicabile "
+"CaseActive."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Renunțarea la garanții: EXCEPT PENTRU GARANȚIILE EXPRIME SETATE ÎN FORMA"
+" DIN ACEST SECȚIUNE 8, LA EXTINȚIA MAXIMĂ PERMISĂ DE LEGEA APLICABILĂ, NU "
+"FĂM ALTE GARANȚII, EXPRIM, IMPLICATE, STATUTARE SAU OTRĂ DE LA O CUMPĂRĂ O "
+"ORĂ COMERCIALUL, CA NICIUN MATERIU, INCLUSIV CELE DE MERCANTABILITATE, "
+"CALITATE SATISFACTORIE, TITLU, CONFORMITATE PENTRU UN SCOP PARTICULAR, SAU "
+"NON-INFRINGERE. NU GARANȚIAZĂ CĂ SOFTWARE-ul SAU SERVICIILE ÎNTREȚIN TOATE "
+"CERINȚELE DVS., INCLUSIV CERINȚELE CONTABILITĂȚII, SAU FOLOSIREA SOFTWARE-"
+"ului SAU A SERVICIILOR NU ESTE NECUPRATE SAU FĂRĂ EROARE. SOFTWARE-ul ȘI "
+"SERVICIILE SUNT FURNIZATE PENTRU DUMNEAVOASTRĂ „ASTEA” ESTE ȘI UTILIZAREA "
+"Dumneavoastră a SOFTWARE-ului ȘI SERVICIILOR ESTE LA RISCURI PROPRIE, "
+"INCLUS, FĂRĂ LIMITARE, CONFORMITĂȚII CU NICIUNE LEGI. PĂRȚILE CONSTATĂ "
+"EXPRIM PENTRU CĂ DECLARAREA GARANȚIEI CONSTITUIE O PARTE ESENȚIALĂ A "
+"ACORDULUI."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"DECLAMAM ORICE REPREZENTANȚE SAU GARANȚII CARE UTILIZEAZĂ-TE DE SERVICII "
+"SATISFIE SA ASIGURĂ CONFORMITATEA CU NICIUNE OBLIGAȚII JURIDICE SAU LEGI SAU"
+" REGULAMENTE. ACEST DECLAMATOR SE SOLICITĂ, DAR NU ESTE LIMITAT LA NICIUN "
+"STATUTUL FEDERAL SAU STATUTULUI SAU A REGULAMENTELOR CARE POT FI APLICABILE."
+" DUMNEAVOASTRĂ SUNT RESPONSABIL PENTRU ASIGURAREA CĂ UTILIZAREA "
+"DUMNEAVOASTRĂ A SERVICIILOR ESTE ÎN conformitate cu LEGEA APLICABILĂ."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"DACĂ ESTE DIFUZAT CU SERVICIILE SAU ACEST ACORD, RĂSPUNSUL DUMNEAVOASTRĂ ȘI "
+"EXCLUSIVULUI ESTE DE ÎNCEPUT UTILIZAREA SERVICIILOR."
+
+msgid "9. Confidential Information:"
+msgstr "9. Informații confidențiale:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Cu excepția cazului în care este autorizat expres de cealaltă parte, niciuna"
+" dintre părți nu dezvăluie oricărei terțe informații sau materiale furnizate"
+" de cealaltă parte în temeiul Acordului și înțeles în mod rezonabil a fi "
+"confidențiale („Informații confidențiale”) sau să folosească aceste "
+"informații confidențiale în orice alt mod. decât să-și îndeplinească "
+"obligațiile în temeiul acordului. Restricțiile de mai sus nu se aplică "
+"informațiilor care se află în domeniul public sau care deja se află în "
+"posesia părții primitoare, erau cunoscute părții primitoare înainte de data "
+"dezvăluirii sau devin cunoscute părții primitoare de la un terț care are un "
+"aspect aparent dreptul de bună credință de a dezvălui informațiile sau "
+"informațiile confidențiale pe care partea destinatară este obligată să le "
+"furnizeze în conformitate cu un ordin al unei instanțe de jurisdicție "
+"competentă sau al unei cesiuni administrative valabile, cu condiția ca "
+"partea destinatară să furnizeze părții divulgatoare o notificare în timp "
+"util a unei astfel de instanțe ordin sau citatie. În plus, vă veți asigura "
+"că utilizatorii dvs. autorizați vor păstra în strictă încredere toate "
+"parolele și alte informații de acces la Servicii. Această secțiune 9 va "
+"supraviețui încetării sau expirării prezentului acord."
+
+msgid "10. Indemnification:"
+msgstr "10. Despăgubiri:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Despăgubire pentru încălcări: Sub rezerva secțiunii 10.4, vă vom apăra "
+"împotriva oricărei pretenții ale unei terțe părți îndreptate împotriva "
+"dumneavoastră, care susține că Serviciile încalcă orice brevet american "
+"eliberat unui terț de la data intrării în vigoare; sau încalcă orice drept "
+"de autor, marcă comercială sau secret comercial al oricărei terțe părți "
+"(denumit în mod colectiv „Proprietate intelectuală care stă la baza "
+"serviciilor”). În cazul în care este solicitată sau obținută o ordonanță "
+"împotriva utilizării proprietății intelectuale care stă la baza serviciilor "
+"sau, după părerea noastră, este probabil căutată sau obținută, vom face, "
+"după opțiunea și cheltuielile noastre, (i) să vă procurăm pentru dvs. și "
+"pentru numele dvs. utilizatorii autorizați dreptul de a continua să "
+"utilizeze Serviciile sau (ii) să înlocuiască sau să modifice Serviciile "
+"pentru a face ca utilizarea lor să nu încalce în timp ce este capabilă să "
+"îndeplinească substanțial aceeași funcție. În cazul în care subsecțiunile "
+"(i) și (ii) de mai sus nu sunt practicabile din punct de vedere comercial, "
+"putem înceta Serviciile și rambursăm orice Taxe de plată preplătite, dar "
+"neutilizate. Nu vom fi obligați să apărăm sau să fim răspunzători pentru "
+"niciun cost sau daune în temeiul acestei secțiuni 10.1 dacă încălcarea "
+"presupusă rezultă din sau este în vreun fel atribuibilă (i) oricărei "
+"modificări a oricăror Servicii de către dvs. (sau a oricărui autorizat sau "
+"utilizatori desemnați) sau (ii) utilizarea serviciilor în combinație cu "
+"serviciile și produsele care nu sunt furnizate de CaseActive dacă o astfel "
+"de încălcare ar fi fost evitată fără o astfel de modificare sau combinație "
+"sau (iii) respectarea desenelor sau instrucțiunilor dvs. sau (iv) o "
+"afirmație că nu precizează cu specific că Serviciile fac obiectul "
+"revendicării (fiecare „Revendicare exclusă”). Obligațiile de despăgubire "
+"cuprinse în prezenta secțiune 10.1 supraviețuiesc oricărei rezilieri sau "
+"expirări ale prezentului acord."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Despăgubire pentru securitatea datelor și confidențialitate: Sub "
+"rezerva secțiunii 10.4 și pe durata abonamentului dvs. la servicii, vă vom "
+"apăra, pe cheltuiala noastră, împotriva oricărei cereri de la terți "
+"înaintate împotriva dvs. care invocă neglijența noastră grea în prevenirea "
+"accesului neautorizat. sau către comportamentul nostru incorect în "
+"dezvăluirea informațiilor personale identificabile ale clienților dvs. în "
+"posesia sau controlul nostru. Această despăgubire nu se va aplica în măsura "
+"în care o astfel de reclamație rezultă din sau se referă la neglijența dvs. "
+"sau la o conduită incorectă voluntară sau la cea a agenților sau "
+"reprezentanților dvs., sau în măsura în care răspunderea este respinsă sau "
+"limitată de oricare dintre părți în baza acordului. Obligațiile de "
+"despăgubire prevăzute în această secțiune depind de dvs. care dovedesc "
+"neglijența noastră greșită sau o conduită incorectă voluntară a dus direct "
+"și proxim la accesul neautorizat la sau dezvăluirea informațiilor personale "
+"identificabile ale clienților dvs. în posesia sau controlul nostru."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Despăgubirea dvs.: Sunteți de acord să despăgubiți, să păstrați "
+"inofensiv și să ne apărați pe noi și pe toți angajații, ofițerii, directorii"
+" și agenții noștri de orice cerere, cerere, proces, procedură, investigație,"
+" daune, cheltuieli, cheltuieli, pierderi și orice alte obligații (inclusiv "
+"onorarii rezonabile ale avocaților, cheltuieli de judecată și cheltuieli) "
+"care rezultă din sau în legătură cu (i) utilizarea serviciilor dvs. cu "
+"încălcarea acordului, (ii) o revendicare exclusă (iii) orice încălcare reală"
+" sau presupusă a oricărei reprezentări, garanții, acorduri sau obligații în "
+"temeiul acordului sau (iv) neglijența dvs. gravă sau conduita incorectă. "
+"Obligațiile dvs. de despăgubire în conformitate cu prezenta secțiune 10.3 "
+"vor supraviețui oricărei rezilieri sau expirări a acordului."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Notificare și cooperare: Obligațiile părții despăgubitoare față de "
+"partea indemnizată în temeiul prezentei secțiuni 10 de mai sus sunt "
+"condiționate de (i) partea indemnizată să notifice părții despăgubiri prompt"
+" în scris, la cunoștința oricărei creanțe, pentru care poate fi îndreptățită"
+" la despăgubire în temeiul acordului. ; (ii) în măsura aplicabilă, partea "
+"despăgubită care încetează utilizarea Serviciilor care încalcă pretins la "
+"primirea notificării acestora; (iii) partea despăgubită care permite părții "
+"despăgubiri să aibă singurul drept de a controla apărarea și soluționarea "
+"oricărei astfel de creanțe (cu condiția ca partea despăgubitoare să nu poată"
+" soluționa nicio cerere fără acordul părții despăgubite, cu excepția cazului"
+" în care soluționarea eliberează necondiționat partea indemnizată de toată "
+"răspunderea); (iv) partea despăgubită care oferă asistență rezonabilă părții"
+" despăgubitoare, pe cheltuiala despăgubirii părții, în apărarea unei cereri;"
+" (v) partea despăgubită care nu a încheiat vreun acord de soluționare sau să"
+" soluționeze în niciun fel o astfel de cerere fără a despăgubi acordul sau "
+"cererea scrisă prealabilă a părții; și (vi) parte despăgubită care se "
+"conformează oricărei soluționări sau hotărâri judecătorești făcute în "
+"legătură cu cererea (legată de utilizarea viitoare a oricăror materiale "
+"încălcatoare). Partea despăgubită poate participa la apărarea sau "
+"soluționarea unei cereri cu avocatul la alegere și pe cheltuiala proprie."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Remediu exclusiv: Această secțiune 10 declară răspunderea exclusivă a "
+"părții despăgubitoare față de cealaltă parte și remedierea exclusivă a "
+"părții despăgubite pentru orice tip de creanță descrisă în această secțiune."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Limitarea răspunderii:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"EXCEPȚI CU RESPECT DE DANĂRILE APARATE ÎN CONECTARE CU O ÎNCĂLCARE A "
+"SECȚIUNII 5.3 SAU 12, LA EXTINȚIA MAXIMĂ PERMISĂ DE DREPT, FĂRĂ EVENIMENT, "
+"NICI O EVENIMENTĂ NICI O RESPONSABILITATE CUMULATIVĂ TOTALĂ A PERSOANEI ESTE"
+" EXCEPTATĂ DE SUMAT DE LA ACORDUL EXECUTAT DUMNEZEU PENTRU SERVICIILE CĂRĂ "
+"RĂSPUNSURI ÎN PERIOADA DE UN AN DE AN PRECEDENT IMEDIAT LA DATA CAUZEI "
+"ACȚIUNII S-A APĂRUT."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"EXCEPȚI CU RESPECT DE DAUNE provenite din CONECTAREA CU O ÎNCĂLCARE A "
+"SECȚIUNII 5.3 SAU 12, LA EXTINȚIA MAXIMĂ PERMISĂ DE DREPT, FĂRĂ EVENIMENT, "
+"NICI UN EVENIȚI NICI UN PARTE HERETO, LICENȚIILE SAU FURNIZORII, AU ORICE "
+"RESPONSABILITATE PENTRU ALTE PĂRȚI PENTRU UNUI PERSOANĂ COSTUL DE PROCURARE "
+"A MĂRFURILOR SAU A SERVICIILOR SUBSTITUTE SAU PENTRU ORICE DANĂURI "
+"INDIRECTE, SPECIALE, CONSECUȚIONALE, EXEMPLARE SAU INCIDENȚALE, DUPĂ CAZATE "
+"ȘI BAZATE PE NICIUNE TEORIE A RESPONSABILITĂȚII (INCLUI NEGLIGENȚA), FĂRÂND "
+"OAMENĂ OBLIGAȚIILE DE AICI, DUPĂ CARE NU S-A FĂCUT ACEASTA PĂRȚIE A "
+"POSIBILITĂȚII ACESTUI DAUNE."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"DUPĂ UNOR STATE / JURISDICȚII NU PERMIS EXCLUSIA SAU LIMITAREA "
+"RESPONSABILITĂȚII PENTRU DAUNE CONSECVENȚIONALE SAU INCIDENTALE, LIMITAREA "
+"SUPLIMENTARĂ NU POATE FI APLICATĂ PENTRU DUMNEAVOASTRĂ, ÎN CARE CELUI NOSTRU"
+" RESPONSABILITATEA NOSTRĂ ESTE LIMITATĂ LA MULTIMITATEA PERMISĂ."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr ""
+"12. Informații cu caracter personal și declarație de confidențialitate:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Veți respecta toate condițiile de confidențialitate aplicabile și alte legi,"
+" reguli, regulamente și linii directoare referitoare la protecția, "
+"colectarea, utilizarea și distribuirea informațiilor personale de "
+"identificare (așa cum sunt definite mai jos) ale oricărei persoane. Veți "
+"posta o declarație de confidențialitate pe pagina în care colectați "
+"informații de identificare personală („Declarație de confidențialitate”) "
+"care respectă toate legile, regulile, regulile și regulile aplicabile și, "
+"cel puțin, notifică utilizatorilor informațiile de identificare personală "
+"colectate, cum se va fi utilizat și cum va fi securizat, și care identifică "
+"metoda de colectare (cookie-uri, balize web sau alte mijloace aplicabile) și"
+" utilizarea informațiilor colectate în legătură cu Serviciile, obținând "
+"acordul prealabil informat (opt-in) înainte de a utiliza orice tehnologii de"
+" urmărire, în măsura cerută de legile și reglementările aplicabile. O "
+"asemenea declarație de confidențialitate include, de asemenea, informații "
+"tehnice legate de colectarea, transmiterea și stocarea informațiilor de "
+"identificare personală furnizate de noi prin intermediul serviciilor. Dacă "
+"vi se solicită legislația aplicabilă în materie de protecție a datelor sau "
+"alte legi sau reglementări, veți informa terțe părți că ne furnizați "
+"informațiile lor de identificare personală pentru prelucrare și vă veți "
+"asigura că orice terți solicitați și-au dat consimțământul pentru divulgarea"
+" și prelucrarea acestora. Sunteți de acord să respectați descrierile și "
+"prevederile Declarației de confidențialitate. „Informații personale "
+"identificabile” înseamnă orice informație care poate fi asociată sau "
+"urmărită oricărei persoane, inclusiv numele, adresa, numărul de telefon, "
+"adresa de e-mail, informațiile cardului de credit, numărul de securitate "
+"socială sau alte informații specifice faptice similare, indiferent de "
+"suportul pe care sunt stocate astfel de informații (de exemplu, pe hârtie "
+"sau electronic)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Diverse:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Părți independente: Dvs. și CaseActive sunteți contractanți "
+"independenți. Acordul nu creează niciun parteneriat, parteneriat, agenție "
+"sau relație de muncă între părți. Veți fi singurul responsabil pentru "
+"gestionarea angajaților dvs. și pentru toate compensațiile, impozitele, "
+"beneficiile și datoriile față de angajații dvs. și de oricare dintre "
+"ceilalți reprezentanți sau furnizori de servicii. Nici dvs., niciunul dintre"
+" angajații, reprezentanții sau furnizorii dvs. de servicii nu vă faceți "
+"nicio reprezentare, garanție sau garanție cu privire la noi, la Acord sau la"
+" Servicii, altele decât cele autorizate în scris de noi."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Cesiune: Nici Acordul, nici unul dintre drepturile sau obligațiile dvs."
+" în temeiul Acordului nu pot fi atribuite sau transferate, în funcție de "
+"lege sau altfel, fără acordul nostru scris prealabil, cu excepția cazului în"
+" care sunt atribuite unui succesor în interes sau în baza unei fuziuni, "
+"societatea corporativă. reorganizare, sau o vânzare sau transfer a tuturor "
+"sau substanțial a tuturor bunurilor dvs., pe care ni le furnizați o "
+"notificare cu cel puțin treizeci (30) de zile înainte de finalizarea "
+"tranzacției. O misiune de către dumneavoastră, bazată pe orice alte "
+"circumstanțe, necesită acordul nostru prealabil, care nu va fi reținut în "
+"mod nerezonabil. Putem atribui în mod liber acest Acord fără consimțământul "
+"dumneavoastră. Sub rezerva celor de mai sus, prezentul acord se obligă și va"
+" asigura beneficiile părților, ale succesorilor acestora și ale misiunilor "
+"permise."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Forța majoratului: Niciuna dintre părți nu va fi responsabilă pentru "
+"nicio întârziere, întrerupere sau altă neîndeplinire a contractului din "
+"cauza unor acte care nu sunt sub controlul părții responsabile, dar numai "
+"atât timp cât aceste condiții persistă. Evenimentele de forță majoră includ,"
+" dar nu se limitează la: dezastre naturale (de exemplu, fulgere, cutremure, "
+"uragane, inundații); războaie, revolte, activități teroriste și agitații "
+"civile; activitățile unui operator de schimb local și alte acte ale "
+"terților; explozii și incendii; embargouri, greve și dispute privind munca; "
+"decrete guvernamentale; eșecurile furnizorilor de telecomunicații sau ale "
+"furnizorilor de servicii de internet; eșecuri ale furnizorilor terți, "
+"furnizorilor de servicii sau furnizorilor; și orice altă cauză în afara "
+"controlului rezonabil al unei părți."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Alegerea legii: Acordul și orice litigiu care decurg din sau în "
+"legătură cu Acordul sunt reglementate și interpretate în conformitate cu "
+"legile statului California, fără a ține cont de principiile conflictului de "
+"legi. Toate litigiile care decurg din acord sau sunt legate de Acord vor fi "
+"supuse jurisdicției și locului exclusiv al instanțelor de stat și federale "
+"din California pentru Santa Barbara, California, iar părțile consimt la "
+"competența personală și exclusivă a acestor instanțe."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-mail și notificări: Sunteți de acord cu privire la faptul că vă putem"
+" furniza orice notificări, declarații și alte comunicări, fie prin e-mail, "
+"poștă, servicii de livrare expresă, fie livrate de către un operator "
+"comercial recunoscut, adresat la ultima adresă desemnată privind acordul. "
+"Sunteți responsabil pentru furnizarea informațiilor de contact actualizate."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Fără renunțare; Remedii cumulative: Niciunul dintre cele două părți nu "
+"are ca întârziere sau întârziere să-și exercite dreptul în temeiul "
+"prezentului acord nu constituie o renunțare la acest drept. În afară de cele"
+" specificate în acest document, căile de atac furnizate aici sunt pe lângă "
+"și nu sunt exclusiv de orice alte remedii ale unei părți la drept sau în "
+"capitaluri proprii."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Separabilitate: În cazul în care o dispoziție a prezentului acord este "
+"deținută de o instanță de jurisdicție competentă contrare legii, dispoziția "
+"este modificată de către instanță și interpretată astfel încât să "
+"îndeplinească cât mai bine obiectivele dispoziției inițiale în măsura "
+"permisă de către legea și dispozițiile rămase din prezentul acord vor rămâne"
+" în vigoare și efect."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Acord în întregime: În măsura maximă permisă de legea aplicabilă, "
+"prezentul Acord, împreună cu documentele menționate aici și toate "
+"Formularele de comandă și fluxurile de înscriere, constituie întregul acord "
+"între părți în ceea ce privește obiectul său și înlocuiesc toate cele "
+"anterioare și acorduri, propuneri sau reprezentări contemporane, scrise sau "
+"orale, referitoare la obiectul prezentului acord. Nici o reprezentare, "
+"angajament sau promisiune nu va fi luată sau implicată din nimic menționat "
+"sau scris în negocierile dintre părți înainte de prezentul acord, cu "
+"excepția cazului în care este specificat în mod expres în prezentul acord. "
+"Niciuna dintre părți nu va avea nicio cale de remediere pentru orice "
+"declarație falsă făcută de cealaltă parte pe care s-a bazat acea parte "
+"pentru a încheia prezentul acord (cu excepția cazului în care această "
+"declarație neadevărată a fost făcută în mod fraudulos) și că singurul "
+"remediu al unei părți pentru orice declarație neadevărată este pentru "
+"încălcarea contractului prevăzută în prezentul acord. Dumneavoastră "
+"recunoașteți și sunteți de acord că acordul dvs. de mai jos nu este supus "
+"livrării vreunei funcționalități sau funcții viitoare care nu sunt "
+"specificate aici sau într-un Formular de Comandă sau care depinde de orice "
+"comentarii orale sau scrise, publice sau private făcute de noi cu privire la"
+" funcționalitățile sau funcțiile viitoare. pentru Servicii. În cazul în care"
+" există vreun conflict între dispozițiile din prezentele Condiții generale "
+"de serviciu și orice Formular de comandă sau Termeni de furnizare "
+"suplimentari, termenii acestui Formular de Comandă sau Termeni de Servicii "
+"Adiționali prevalează, în măsura în care există acest conflict. Niciunii "
+"termeni sau condiții menționate în comanda dvs. de cumpărare sau în oricare "
+"altă documentație a comenzii dvs. nu vor fi încorporate sau formate în nici "
+"o parte a prezentului acord și toți acești termeni sau condiții vor fi nule."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Export: Ambele părți convin să respecte legile și reglementările "
+"aplicabile în materie de export și import din SUA. Nu veți permite "
+"utilizatorilor dvs. să acceseze sau să utilizeze Serviciile cu încălcarea "
+"oricărui embargo, interdicție sau restricție la exportul SUA."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publicitate: Este posibil să nu vă numim ca utilizator al Serviciilor "
+"fără consimțământul dvs. scris."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Link-uri către site-uri terțe: Serviciile sau site-ul nostru web pot "
+"include link-uri către site-uri terțe („Site-uri conexe”). Site-urile legate"
+" nu sunt sub controlul nostru și nu suntem responsabili pentru conținutul "
+"niciunui Site Link, inclusiv fără limitare orice legătură conținută într-un "
+"Site Link, sau modificări sau actualizări la un Site Link sau la Serviciile "
+"furnizate prin intermediul unui Site Link. Vă oferim aceste link-uri doar ca"
+" comoditate, iar includerea oricărui link nu implică aprobarea de către noi "
+"a site-ului sau a oricăror servicii asociate furnizate de site."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Sunteți de acord să primiți e-mailuri, apeluri telefonice și mesaje "
+"SMS de la CaseActive pentru a oferi actualizări privind comanda dvs. și / "
+"sau în scopuri de marketing. Frecvența mesajelor depinde de activitatea dvs."
+" Puteți renunța prin debifarea notificărilor din contul dvs. sau ștergerea "
+"contului. Se pot aplica tarife pentru mesaje și date."
+
+msgid "An error occurred"
+msgstr "A aparut o eroare"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Ceva n-a mers bine. Inginerii noștri au fost anunțați. Apăsați butonul de "
+"reîncărcare pentru a reîncărca."
+
+msgid "Reload"
+msgstr "Reîncărcați"

@@ -1,0 +1,87 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Kaip priskirti, modifikuoti arba pašalinti vartotojo priskyrimus naudojant importavimo įrankį
+</h1>
+<p>Šiame straipsnyje administratoriams parodyta, kaip valdyti atvejo naudotojus naudojant importavimo įrankį.</p>
+<p>Administratoriai gali:</p>
+<ul>
+  <li>priskirti vartotojus prie bylos</li>
+  <li>keisti vartotojus, jau priskirtus bylai</li>
+  <li>pašalinti vartotojus, priskirtus bylai</li>
+</ul>
+<h2 id="opening-the-import-tool">Importavimo įrankio atidarymas</h2>
+<ol style="list-style-type: decimal">
+  <li>Prisijunkite prie administratoriaus paskyros.</li>
+  <li>Programų puslapyje suraskite programą ir spustelėkite mygtuką ADMINISTRATORIUS.</li>
+  <li>Spustelėkite skirtuką Integracija, tada submeniu spustelėkite IMPORTUOTI.</li>
+  <li>Spustelėkite mygtuką NAUJAS. Rodomas dialogo langas Add Imports.</li>
+</ol>
+<h2 id="creating-records">Įrašų kūrimas</h2>
+<p>
+  Atsisiųskite vieną ar daugiau CSV failų. Naudokite šiuos failus, kad pridėtumėte, keistumėte arba pašalintumėte
+  vartotojus. Atsidarius dialogo langui Add Imports:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Spustelėkite lauką Tipas.</li>
+  <li>Slinkite per išskleidžiamąjį meniu ir pasirinkite parinktį (žr. toliau). Rodoma nuoroda.</li>
+  <li>Spustelėkite nuorodą Atsisiųsti pavyzdį. CSV failas atsisiunčiamas į jūsų įrenginį.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-1.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Atidarykite failą ir pridėkite įrašus. Spustelėkite čia, kad sužinotumėte, kaip naudoti formato duomenis CSV faile.
+</p>
+<h3 id="file-options">Failų parinktys</h3>
+<p>
+  <strong>Priskirkite vartotojus prie atvejų</strong> * Pasirinkite šią parinktį, jei norite pridėti vartotojų prie
+  bylos. * Laukelį Case_role_order palikite tuščią. * Eikite į puslapį Vartotojai ir nukopijuokite šio asmens žymos ID.
+  Jei žymos ID laukas tuščias, įveskite unikalų ID, spustelėkite Išsaugoti, tada nukopijuokite ID į CSV failą.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Modifikuoti atvejams priskirtus vartotojus</strong> * Pasirinkite šią parinktį, jei norite atnaujinti
+  dabartinių vartotojų, priskirtų bylai, duomenis. * Stulpelyje „case_ID“ naudokite atvejo žymos ID.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Pašalinti byloms priskirtus vartotojus</strong> * Pasirinkite šią parinktį, jei norite pašalinti bylai
+  priskirtus vartotojus.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Failo įkėlimas</h2>
+<p>Galite iš karto įkelti failą arba vėliau grįžti į dialogo langą Pridėti importą ir atlikti šiuos veiksmus.</p>
+<ol style="list-style-type: decimal">
+  <li>Atidarykite dialogo langą Pridėti importą.</li>
+  <li>Įveskite unikalų CSV failo pavadinimą.</li>
+  <li>Spustelėkite pliuso (+) piktogramą, kad įkeltumėte failą iš savo įrenginio.</li>
+  <li>Spustelėkite lauką Tipas ir pasirinkite parinktį. (pažiūrėkite aukščiau)</li>
+  <li>Spustelėkite IŠSAUGOTI.</li>
+</ol>
+<h2 id="processing">Apdorojimas</h2>
+<p>
+  Atsižvelgiant į įrašų skaičių faile ir sistemos įkėlimą, platforma gali užtrukti kelias minutes, kol bus apdorotas
+  importavimas.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Kai importavimas baigiamas, platforma koreguoja vartotojų įrašus (ty prideda, modifikuoja arba pašalina) puslapyje
+  Atvejai.
+</p>
+<h2 id="failure">Nesėkmė</h2>
+<p>
+  Jei importavimo operacija nepavyksta, platforma grąžina pranešimą Nepavyko. Daugeliu atvejų gedimo priežastis yra
+  duomenų formatavimas.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Norėdami sužinoti gedimo priežastį:</p>
+<ol style="list-style-type: decimal">
+  <li>Po antrašte Veiksmas spustelėkite Rodyti.</li>
+  <li>Kitame puslapyje užveskite pelės žymeklį ant Nepavyko piktogramos. Patarimas rodo klaidą.</li>
+  <li>Eikite į CVS failą ir pakoreguokite bei ištaisykite klaidą.</li>
+  <li>Įkelkite failą dar kartą.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

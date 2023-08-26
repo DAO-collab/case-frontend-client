@@ -1,0 +1,81 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Ako priradiť, upraviť alebo odstrániť priradenia používateľov pomocou nástroja na import
+</h1>
+<p>Tento článok ukazuje správcom, ako spravovať používateľov prípadov pomocou nástroja Import.</p>
+<p>Správcovia môžu:</p>
+<ul>
+  <li>priradiť používateľov k prípadu</li>
+  <li>upraviť používateľov už priradených k prípadu</li>
+  <li>odstrániť používateľov priradených k prípadu</li>
+</ul>
+<h2 id="opening-the-import-tool">Otvorenie nástroja Import</h2>
+<ol style="list-style-type: decimal">
+  <li>Prihláste sa do účtu správcu.</li>
+  <li>Vyhľadajte aplikáciu na stránke Aplikácie a kliknite na tlačidlo SPRÁVCA.</li>
+  <li>Kliknite na kartu Integrácia a potom v podponuke IMPORTY.</li>
+  <li>Kliknite na tlačidlo NOVÝ. Zobrazí sa dialógové okno Pridať importy.</li>
+</ol>
+<h2 id="creating-records">Vytváranie záznamov</h2>
+<p>
+  Stiahnite si jeden alebo viac súborov CSV. Pomocou týchto súborov môžete pridať, upraviť alebo odstrániť používateľov
+  s prípadom. Po otvorení dialógového okna Pridať importy:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite na pole Typ.</li>
+  <li>Rolujte v rozbaľovacej ponuke a vyberte možnosť (pozri nižšie). Zobrazí sa odkaz.</li>
+  <li>Kliknite na odkaz Stiahnuť vzorku. Do vášho zariadenia sa stiahne súbor CSV.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>Otvorte súbor a pridajte záznamy. Kliknutím sem sa dozviete, ako používať údaje formátu v súbore CSV.</p>
+<h3 id="file-options">Možnosti súboru</h3>
+<p>
+  <strong>Priradiť používateľov k prípadom</strong> * Túto možnosť vyberte, ak chcete pridať používateľov k prípadu. *
+  Bunku case_role_order nechajte prázdnu. * Prejdite na stránku Používatelia a skopírujte ID značky pre túto osobu. Ak
+  je pole ID značky prázdne, zadajte jedinečné ID, kliknite na tlačidlo Uložiť a potom skopírujte ID do súboru CSV.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Upraviť používateľov priradených k prípadom</strong> * Túto možnosť vyberte, ak chcete aktualizovať údaje pre
+  aktuálnych používateľov priradených k prípadu. * Pre stĺpec case_ID použite ID značky prípadu.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Odstrániť používateľov priradených k prípadom</strong> * Túto možnosť vyberte, ak chcete odstrániť
+  používateľov priradených k prípadu.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="uploading-the-file">Nahráva sa súbor</h2>
+<p>Súbor môžete nahrať ihneď alebo sa neskôr vrátiť do dialógového okna Pridať importy a vykonať tieto kroky.</p>
+<ol style="list-style-type: decimal">
+  <li>Otvorte dialógové okno Pridať importy.</li>
+  <li>Zadajte jedinečný názov súboru CSV.</li>
+  <li>Kliknutím na ikonu plus (+) nahrajte súbor zo svojho zariadenia.</li>
+  <li>Kliknite na pole Typ a vyberte možnosť. (viď vyššie)</li>
+  <li>Kliknite na ULOŽIŤ.</li>
+</ol>
+<h2 id="processing">Spracovanie</h2>
+<p>
+  V závislosti od počtu záznamov v súbore a zaťažení systému môže platforme spracovanie importu trvať niekoľko minút.
+</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>Po dokončení importu platforma upraví záznamy používateľov (tj pridá, upraví alebo odstráni) na stránke Prípady.</p>
+<h2 id="failure">Neúspech</h2>
+<p>
+  Ak operácia importu zlyhá, platforma vráti správu Failed. Vo väčšine prípadov je príčinou zlyhania formátovanie
+  údajov.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Ak chcete zistiť príčinu zlyhania:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite na položku Zobraziť pod nadpisom Akcia.</li>
+  <li>Na ďalšej stránke umiestnite kurzor myši na ikonu Zlyhanie. Popis zobrazuje chybu.</li>
+  <li>Prejdite do súboru CVS a upravte a opravte chybu.</li>
+  <li>Nahrajte súbor znova.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>

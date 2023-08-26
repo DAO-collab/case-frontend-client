@@ -1,0 +1,11 @@
+{
+  "post_user": "Felhaszn\u00e1l\u00f3k hozz\u00e1ad\u00e1sa",
+  "put_user": "Felhaszn\u00e1l\u00f3k m\u00f3dos\u00edt\u00e1sa",
+  "put_user_status": "Felhaszn\u00e1l\u00f3i \u00e1llapot m\u00f3dos\u00edt\u00e1sa",
+  "post_case": "Hozzon l\u00e9tre eseteket",
+  "put_case": "Esetek m\u00f3dos\u00edt\u00e1sa",
+  "post_case_permission": "Felhaszn\u00e1l\u00f3k hozz\u00e1rendel\u00e9se esetekhez",
+  "put_case_permission": "Az esetekhez rendelt felhaszn\u00e1l\u00f3k m\u00f3dos\u00edt\u00e1sa",
+  "post_case_post": "Hozzon l\u00e9tre esetbejegyz\u00e9seket",
+  "delete_case_permission": "Az esetekhez rendelt felhaszn\u00e1l\u00f3k elt\u00e1vol\u00edt\u00e1sa"
+}

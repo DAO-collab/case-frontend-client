@@ -1,0 +1,348 @@
+<div
+  class="d-field-wrapper"
+  mwlResizable
+  #wrapper
+  [enableGhostResize]="true"
+  [ghostElementPositioning]="'absolute'"
+  (resizeStart)="onResizeStart()"
+  (resizeEnd)="onResizeEnd($event, wrapper)"
+  (mouseover)="changeStyle($event)"
+  (mouseout)="changeStyle($event)"
+>
+  <ng-container *ngIf="this.fieldData.fieldType !== 'text-only'">
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerTop
+      class="resize-handler resize-handle-top"
+      mwlResizeHandle
+      [resizeEdges]="{ top: true }"
+    ></div>
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerLeftTop
+      class="resize-handler resize-handle-top-left"
+      mwlResizeHandle
+      [resizeEdges]="{ top: true, left: true }"
+    ></div>
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerRightTop
+      class="resize-handler resize-handle-top-right"
+      mwlResizeHandle
+      [resizeEdges]="{ top: true, right: true }"
+    ></div>
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerLeft
+      class="resize-handler resize-handle-left"
+      mwlResizeHandle
+      [resizeEdges]="{ left: true }"
+    ></div>
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerRight
+      class="resize-handler resize-handle-right"
+      mwlResizeHandle
+      [resizeEdges]="{ right: true }"
+    ></div>
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerBot
+      class="resize-handler resize-handle-bottom"
+      mwlResizeHandle
+      [resizeEdges]="{ bottom: true }"
+    ></div>
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerLeftBot
+      class="resize-handler resize-handle-bottom-left"
+      mwlResizeHandle
+      [resizeEdges]="{ bottom: true, left: true }"
+    ></div>
+    <div
+      *ngIf="showResizeHandlers"
+      [attr.key]="fieldData.key"
+      #resizeHandlerRightBot
+      class="resize-handler resize-handle-bottom-right"
+      mwlResizeHandle
+      [resizeEdges]="{ bottom: true, right: true }"
+    ></div>
+    <div *ngIf="showResizeHandlers" [attr.key]="fieldData.key" #resizeHandlerBorder class="resize-handler-border"></div>
+  </ng-container>
+  <div
+    class="field-body"
+    (mousedown)="disableDragging || startChangePosition($event, wrapper)"
+    (touchstart)="disableDragging || startMobileChangePosition($event, wrapper)"
+  >
+    <ng-container *ngIf="!!fieldData.displayText && fieldData.fieldType !== 'text-only'">
+      <span [ngStyle]="{ position: isPreparing ? 'absolute' : 'initial', opacity: isPreparing ? 0 : 'initial' }" class="field-text">
+        {{ fieldData.title || '' }}</span
+      >
+    </ng-container>
+    <ng-container *ngIf="!!fieldData.displayText">
+      <span
+        [ngStyle]="{ position: isPreparing ? 'absolute' : 'initial', opacity: isPreparing ? 0 : 'initial' }"
+        class="field-text"
+        style="font-size: 0.8em"
+        >{{ fieldData.subText || '' }}</span
+      >
+    </ng-container>
+    <span
+      [ngSwitch]="fieldData.fieldType"
+      [ngClass]="{ listing: fieldData.fieldType === 'checkboxes' || fieldData.fieldType === 'options' }"
+    >
+      <ng-container *ngSwitchCase="'dropdown'">
+        <ng-select
+          name="dropdown-items"
+          [items]="fieldData.enum"
+          class="custom-select hide-visually form-control-bg"
+          bindLabel="text"
+          bindValue="id"
+          [disabled]="true"
+          [(ngModel)]="fieldData.description"
+          [clearable]="false"
+          appendTo="body"
+        >
+        </ng-select>
+      </ng-container>
+      <ng-container *ngSwitchCase="'text-only'">
+        <mat-formio #formioEditor [form]="editorConfig"></mat-formio>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'text'">
+        <input
+          type="text"
+          class="form-control form-control-bg"
+          [disabled]="true"
+          name="saveModeli"
+          [(ngModel)]="fieldData.description"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'multi-text'">
+        <input
+          type="text"
+          class="form-control form-control-bg"
+          [disabled]="true"
+          name="saveModeli"
+          [(ngModel)]="fieldData.description"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'textarea'">
+        <textarea name="saveModeli" [disabled]="true" [(ngModel)]="fieldData.description"></textarea>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'multidropdown'">
+        <ng-select
+          name="multi-dropdown-items"
+          class="custom-select hide-visually form-control-bg multi-dropdown-2"
+          [items]="fieldData.items.enum"
+          bindLabel="text"
+          bindValue="id"
+          [disabled]="true"
+          [(ngModel)]="fieldData.description"
+          [clearable]="false"
+          [multiple]="true"
+          appendTo="body"
+        >
+        </ng-select>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'checkboxes'">
+        <span class="checkboxes-group">
+          <span *ngFor="let opt of fieldData.items.enum" class="cb-item">
+            <label class="container cg-box single">
+              <input
+                type="checkbox"
+                class="form-control form-control-bg"
+                [disabled]="fieldData.readonly"
+                (change)="
+                  generateActiveItems(fieldData.description).indexOf(opt) > -1
+                    ? fieldData.description.splice(fieldData.description.indexOf(opt), 1)
+                    : fieldData.description.push(opt)
+                "
+                [checked]="generateActiveItems(fieldData.description).indexOf(opt) > -1"
+              />
+              <span class="checkmark form-control-bg"></span>
+            </label>
+            <span class="cg-label" translate>{{ opt }}</span>
+          </span>
+        </span>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'options'">
+        <ng-container *ngIf="!fieldData?.positions; else radioButtons">
+          <ng-select
+            name="multi-options-items"
+            class="custom-select hide-visually form-control-bg"
+            [items]="fieldData.enum"
+            bindLabel="text"
+            bindValue="id"
+            [disabled]="true"
+            [(ngModel)]="fieldData.description"
+            [clearable]="false"
+            [multiple]="true"
+            appendTo="body"
+          >
+          </ng-select>
+        </ng-container>
+        <ng-template #radioButtons>
+          <ul class="checklist-d form-control-bg" style="z-index: 9" [attr.disabled]="fieldData.readonly">
+            <ng-container *ngFor="let opt of fieldData.enum; let i = index">
+              <li *ngIf="i === (fieldData.childIndex === undefined ? i : fieldData.childIndex)">
+                <label [for]="fieldData.key" class="radio" [class.radio-left]="fieldData?.displayText">
+                  <input
+                    type="radio"
+                    id="{{ fieldData.key }}-{{ i }}"
+                    [name]="fieldData.key"
+                    [value]="opt"
+                    [(ngModel)]="saveModel[fieldData.key]"
+                  />
+                  &nbsp;&nbsp;<ng-container *ngIf="fieldData.displayText">{{ opt }}</ng-container>
+                  <div class="input"></div>
+                </label>
+              </li>
+            </ng-container>
+          </ul>
+        </ng-template>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'checkbox-options'">
+        <ng-container *ngFor="let opt of fieldData.items.enum; let i = index">
+          <span class="cb-item single">
+            <label
+              class="container cg-box single"
+              *ngIf="i === (fieldData.childIndex === undefined ? i : fieldData.childIndex)"
+            >
+              <input
+                type="checkbox"
+                class="form-control form-control-bg"
+                [disabled]="fieldData.readonly"
+                [checked]="generateActiveItems(fieldData.description).indexOf(opt) > -1"
+                (click)="restrictChange($event)"
+              />
+              <span class="checkmark form-control-bg"></span>
+            </label>
+            <span
+              class="cg-label"
+              *ngIf="i === (fieldData.childIndex === undefined ? i : fieldData.childIndex) && fieldData.displayText"
+              >{{ opt }}</span
+            >
+          </span>
+        </ng-container>
+      </ng-container>
+
+      <ng-container class="boolen-field clear-after" *ngSwitchCase="'boolean'">
+        <label class="container">
+          <input
+            type="checkbox"
+            class="form-control form-control-bg"
+            [(ngModel)]="fieldData.description"
+            [checked]="saveModel[fieldData.name]"
+            [disabled]="true"
+          />
+          <span class="checkmark"></span>
+        </label>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'number'">
+        <input
+          type="number"
+          class="form-control form-control-bg"
+          [disabled]="true"
+          name="saveModel[fieldData.name]i"
+          [(ngModel)]="fieldData.description"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'date'">
+        <input
+          mwlFlatpickr
+          [altInput]="true"
+          [convertModelValue]="true"
+          altFormat="m/d/Y"
+          type="text"
+          [disabled]="true"
+          name="saveModel[fieldData.name]"
+          class="form-control form-control-bg"
+          [(ngModel)]="fieldData.description"
+          required
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'time'">
+        <input
+          mwlFlatpickr
+          altFormat="G:i:S K"
+          dateFormat="G:i:S K"
+          [disabled]="true"
+          type="text"
+          name="saveModel[fieldData.name]"
+          [(ngModel)]="fieldData.description"
+          timeValidator
+          class="form-control form-control-bg"
+        />
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'table'">
+        <table>
+          <thead>
+            <tr>
+              <th *ngFor="let col of fieldData.cols">{{ col }}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let row of fieldData.rows; let rowInd = index">
+              <td class="form-control-bg" *ngFor="let col of fieldData.cols; let colInd = index">
+                {{ fieldData.rows[rowInd][colInd] }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'list'">
+        <ul class="checklist-d list form-control-bg">
+          <li [class.active]="row === fieldData.description" *ngFor="let row of fieldData.enum">{{ row }}</li>
+        </ul>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'signature-box'">
+        <div class="signature-box-wrapper">
+          <span class="signature-sign" translate>sign</span>
+          <img [src]="fieldData.description" alt="" *ngIf="fieldData.description" />
+        </div>
+      </ng-container>
+    </span>
+  </div>
+  <div class="shadow" [hidden]="disableEditing"></div>
+
+  <div
+    *ngIf="!disableDragging"
+    class="top-left dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'top', 'left')"
+  ></div>
+  <div
+    *ngIf="!disableDragging"
+    class="top-right dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'top', 'right')"
+  ></div>
+  <div
+    *ngIf="!disableDragging"
+    class="bottom-left dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'bottom', 'left')"
+  ></div>
+  <div
+    *ngIf="!disableDragging"
+    class="bottom-right dot"
+    (mousedown)="disableDragging || startDraging($event, wrapper, 'bottom', 'right')"
+  ></div>
+</div>

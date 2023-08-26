@@ -1,0 +1,102 @@
+<h1 id="how-to-create-or-modify-users-with-the-import-tool">
+  Kā izveidot vai modificēt lietotājus, izmantojot importēšanas rīku
+</h1>
+<p>Šajā rakstā administratoriem ir parādīts, kā izveidot lietotājus, izmantojot importēšanas rīku.</p>
+<h2 id="opening-the-import-tool">Importēšanas rīka atvēršana</h2>
+<p>
+  Administratori var izmantot importēšanas rīku, lai masveidā augšupielādētu jaunus lietotājus un mainītu esošos
+  lietotāju ierakstus.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Piesakieties administratora kontā.</li>
+  <li>Lietojumprogrammu lapā atrodiet lietotni un noklikšķiniet uz pogas ADMINISTORS.</li>
+  <li>Administrēšanas panelī noklikšķiniet uz cilnes Integrācija un pēc tam apakšizvēlnē noklikšķiniet uz IMPORTĒT.</li>
+  <li>Noklikšķiniet uz pogas JAUNS. Jaunā pārlūkprogrammas cilnē tiek parādīts dialoglodziņš Importa pievienošana.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-records">Ierakstu veidošana</h2>
+<p>Kad tiek atvērts dialoglodziņš Importa pievienošana:</p>
+<ol style="list-style-type: decimal">
+  <li>Noklikšķiniet uz lauka <strong>Tips</strong> un atlasiet opciju (skatiet tālāk). Tiek parādīta saite.</li>
+  <li>Noklikšķiniet uz saites <strong>Lejupielādēt paraugu</strong> . CSV fails tiek lejupielādēts jūsu ierīcē.</li>
+</ol>
+<p>
+  Pēc tam atveriet failu un pievienojiet ierakstus. Noklikšķiniet
+  <a href="docs/how-to-format-csv-data" target="_blank">šeit</a> , lai uzzinātu, kā izmantot formāta datus CSV failā.
+</p>
+<div class="figure">
+  <img src="/images/import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="type">Tips</h2>
+<p>
+  Noklikšķinot uz lauka Tips, tiek parādīta nolaižamā izvēlne. Lielapjoma importēšanai izvēlieties vienu no divām
+  iespējām.
+</p>
+<p>
+  :exclamation: <strong>PIEZĪME</strong> Nolaižamajā izvēlnē ir daudz iespēju, taču tikai divas ir saistītas ar rīku
+  Importēt. Katrai opcijai ir atšķirīgs CSV faila paraugs.
+</p>
+<h3 id="add-users">Pievienojiet lietotājus</h3>
+<ul>
+  <li>Izvēlieties šo opciju vienkāršai lietotāju ierakstu lielapjoma augšupielādei.</li>
+  <li>
+    Noklikšķiniet uz saites Lejupielādēt paraugu, lai atvērtu CSV failu ar sleju virsrakstiem, kas atbilst veidam
+    Pievienot lietotājus.
+  </li>
+</ul>
+<h3 id="modify-users">Modificēt lietotājus</h3>
+<ul>
+  <li>Izvēlieties šo opciju, lai atjauninātu pašreizējo lietotāju datus.</li>
+  <li>
+    Noklikšķiniet uz saites Lejupielādēt paraugu, lai atvērtu CSV failu ar sleju virsrakstiem, kas atbilst veidam
+    Modificēt lietotājus, importēt.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Notiek faila augšupielāde</h2>
+<p>
+  Varat augšupielādēt failu uzreiz vai vēlāk atgriezties dialoglodziņā Importa pievienošana un izpildīt šīs darbības.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Atveriet dialoglodziņu Importa pievienošana.</li>
+  <li>Ievadiet unikālu CSV faila nosaukumu.</li>
+  <li>Noklikšķiniet uz plusa (+) ikonas, lai augšupielādētu failu no savas ierīces.</li>
+  <li>Noklikšķiniet uz lauka <strong>Tips</strong> un atlasiet opciju. (Skatīt iepriekš)</li>
+  <li>Noklikšķiniet uz SAGLABĀT.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Apstrāde</h2>
+<p>
+  Atkarībā no ierakstu skaita failā un sistēmas ielādes, platformas importēšanas apstrāde var aizņemt vairākas minūtes.
+</p>
+<div class="figure">
+  <img src="/images/import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Kad importēšana ir pabeigta, platforma pielāgo lietotāju ierakstus (ti, pievieno, maina vai atspējo) administratora
+  <strong>lietotāju</strong> informācijas panelī.
+</p>
+<h2 id="failure">Neveiksme</h2>
+<p>
+  Ja importēšanas darbība neizdodas, platforma atgriež ziņojumu Failed. Vairumā gadījumu kļūmes cēlonis ir datu
+  formatēšana.
+</p>
+<div class="figure"><img src="/images/import-7.png" alt="img" /></div>
+<p>Lai noskaidrotu neveiksmes cēloni:</p>
+<ol style="list-style-type: decimal">
+  <li>Zem virsraksta Darbība noklikšķiniet uz <strong>Skatīt</strong> .</li>
+  <li>Nākamajā lapā virziet peles kursoru uz ikonas Neizdevās. Rīka padoms parāda kļūdu.</li>
+  <li>Dodieties uz CVS failu un pielāgojiet un izlabojiet kļūdu.</li>
+  <li>Augšupielādējiet failu vēlreiz.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>

@@ -1,0 +1,165 @@
+<form [formGroup]="fieldForm" (submit)="submitField()">
+  <h2 translate>Edit Field</h2>
+
+  <table [class.no-default]="editingField.fieldType === 'text-only'">
+    <td>
+      <label for="fieldTitle" class="required">{{ 'Label Name' | translate }}</label>
+      <input type="text" id="fieldTitle" formControlName="title" #titleF />
+      <app-error
+        [fieldValue]="editingField.title"
+        [field]="titleF"
+        [validationErrors]="validationErrors"
+        [validation]="{ required: true }"
+      ></app-error>
+    </td>
+    <td>
+      <label for="fieldDescription" class="required hide-required">
+        {{ 'Description' | translate }}
+      </label>
+      <input type="text" id="fieldDescription" formControlName="description" #descrF />
+    </td>
+  </table>
+
+  <div *ngIf="optionsSupport[editingField.fieldType]">
+    <div>
+      <p class="options-field">
+        <label translate>Options</label>
+        <input type="text" [formControl]="optionField" />
+        <button
+          [disabled]="!optionField.value?.trim()"
+          (click)="!editOptionAction ? addOption($event) : updateOption($event)"
+        >
+          {{ (editOptionAction ? 'Update' : 'Add') | translate }}
+        </button>
+      </p>
+      <p class="notice-a show" *ngIf="optionExistsError" translate>Option already exists.</p>
+
+      <div class="options-list">
+        <table *ngIf="editingField.items && editingField.items.enum.length !== 0">
+          <tr *ngFor="let opt of editingField.items.enum; let ind = index">
+            <td width="350px">
+              {{ opt }}
+            </td>
+            <td class="edit-and-delete">
+              <a translate (click)="editPropertyOption(ind)">Edit</a>
+              <a translate (click)="deletePropertyOption(ind)">Delete</a>
+            </td>
+          </tr>
+        </table>
+        <p *ngIf="editingField.items.enum.length === 0" class="centered-text no-options">
+          (
+          <span translate>options list is empty</span> )
+        </p>
+
+        <p class="notice-a show" *ngIf="optionsLimitError" translate>
+          Checkboxes field supports only 5 options. You can change field to dropdown to add more options
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="editCustomFields === true">
+    <p>
+      <label *ngIf="editingField.fieldType !== 'text-only'" [for]="editingField.fieldType">{{
+        'Default Value' | translate
+      }}</label>
+
+      <ng-container [ngSwitch]="editingField.fieldType">
+        <input *ngSwitchCase="'text'" type="text" class="form-control" formControlName="defaultValue" />
+
+        <textarea *ngSwitchCase="'textarea'" class="form-control" formControlName="defaultValue"></textarea>
+
+        <ng-select
+          *ngSwitchCase="'dropdown'"
+          formControlName="defaultValue"
+          [items]="editingField.items.enum"
+          [searchable]="false"
+        >
+        </ng-select>
+
+        <ng-select
+          *ngSwitchCase="'multidropdown'"
+          #multidropDownElem
+          formControlName="defaultValue"
+          [multiple]="true"
+          [items]="editingField.items.enum"
+        >
+        </ng-select>
+
+        <span *ngSwitchCase="'checkboxes'" class="checkboxes-group">
+          <ng-container *ngIf="editingField.items.enum">
+            <span *ngFor="let opt of editingField.items.enum" class="cb-item">
+              <span class="cg-label" translate>{{ opt }}</span>
+              <label class="container cg-box">
+                <input
+                  type="checkbox"
+                  [name]="customValues[editingField.name]"
+                  class="form-control"
+                  [checked]="defaultValue.value.includes(opt)"
+                  (change)="triggerSelectedCheckbox(opt)"
+                />
+                <span class="checkmark"></span>
+              </label>
+            </span>
+          </ng-container>
+        </span>
+
+        <label *ngSwitchCase="'boolean'" class="container">
+          <input type="checkbox" class="form-control" formControlName="defaultValue" />
+          <span class="checkmark"></span>
+        </label>
+
+        <input *ngSwitchCase="'number'" type="number" class="form-control" formControlName="defaultValue" />
+
+        <ng-container *ngSwitchCase="'date'">
+          <input
+            mwlFlatpickr
+            #customDateField
+            type="date"
+            dateFormat="m/d/Y"
+            class="form-control"
+            placeholder="mm/dd/yyyy"
+            formControlName="defaultValue"
+          />
+          <app-error
+            [fieldValue]="fieldForm.controls['defaultValue'].value"
+            [field]="customDateField"
+            [validationErrors]="validationDefaultsErrors"
+            [validation]="editingField.pattern ? { pattern: editingField.pattern ? editingField.pattern : '' } : {}"
+          >
+          </app-error>
+        </ng-container>
+
+        <ng-container *ngSwitchCase="'time'">
+          <input
+            #customTimeField
+            mwlFlatpickr
+            type="text"
+            [altInput]="true"
+            [convertModelValue]="true"
+            class="form-control"
+            placeholder="4:00:00 AM"
+            formControlName="defaultValue"
+            altFormat="G:i:S K"
+            dateFormat="G:i:S K"
+            [noCalendar]="true"
+            [enableSeconds]="true"
+            [enableTime]="true"
+            [dateFormat]="'G:i:S K'"
+          />
+          <app-error
+            [fieldValue]="fieldForm.controls['defaultValue'].value"
+            [field]="customTimeField"
+            [validationErrors]="validationDefaultsErrors"
+            [validation]="editingField.pattern ? { pattern: editingField.pattern ? editingField.pattern : '' } : {}"
+          >
+          </app-error>
+        </ng-container>
+      </ng-container>
+    </p>
+  </div>
+
+  <p class="submit" [ngClass]="{ 'none-top-border': !editCustomFields }">
+    <button type="submit" class="f-right" [disabled]="fieldForm.invalid">{{ 'Save' | translate }}</button>
+  </p>
+</form>

@@ -1,0 +1,31 @@
+::ng-deep .ng-select .ng-select-container .ng-value-container {
+  padding-left: 0px !important;
+  height: 40px;
+}
+
+::ng-deep .ng-select .ng-placeholder {
+  padding: 0px 19px !important;
+}
+
+::ng-deep #root .ng-select input {
+  width: calc(100% - 38px) !important;
+  padding-left: 19px !important;
+}
+
+::ng-deep #root .ng-select input:focus {
+  box-shadow: none !important;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.drop-a.dropform .drop {
+  margin-top: 0 !important;
+}

@@ -1,0 +1,29 @@
+{
+  "/proxy/*": {
+    "target": "https://develop-api-account.caseactive.net/v1",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/proxy": ""
+    }
+  },
+  "/self": {
+    "target": "https://develop-api-account.caseactive.net/v1",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/proxy": ""
+    }
+  },
+  "/session": {
+    "target": "https://develop-api-account.caseactive.net/v1",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/proxy": ""
+    }
+  }
+}

@@ -1,0 +1,93 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Si të caktoni, modifikoni ose hiqni detyrat e përdoruesve me mjetin e importit
+</h1>
+<p>Ky artikull u tregon administratorëve se si të menaxhojnë përdoruesit e rasteve me mjetin Import.</p>
+<p>Administratorët mund të:</p>
+<ul>
+  <li>caktoni përdoruesit në një rast</li>
+  <li>modifikoni përdoruesit e caktuar tashmë në një rast</li>
+  <li>hiqni përdoruesit e caktuar për një rast</li>
+</ul>
+<h2 id="opening-the-import-tool">Hapja e mjetit Import</h2>
+<ol style="list-style-type: decimal">
+  <li>Hyni në llogarinë e administratorit.</li>
+  <li>Gjeni një aplikacion në faqen e aplikacioneve dhe klikoni butonin ADMIN.</li>
+  <li>Klikoni skedën Integrimi dhe më pas IMPORTI në nënmenu.</li>
+  <li>Klikoni butonin NEW. Shfaqet kutia e dialogut Shto Importet.</li>
+</ol>
+<h2 id="creating-records">Krijimi i të dhënave</h2>
+<p>
+  Shkarkoni një ose më shumë skedarë CSV. Përdorni këto skedarë për të shtuar, modifikuar ose hequr përdoruesit e
+  rasteve. Pasi të hapet kutia e dialogut &quot;Shto Importet&quot;:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Klikoni në fushën Lloji.</li>
+  <li>Lëvizni nëpër menynë rënëse dhe zgjidhni një opsion (shih më poshtë). Shfaqet një lidhje.</li>
+  <li>Klikoni lidhjen Shkarko mostrën. Një skedar CSV shkarkohet në pajisjen tuaj.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>
+  Hapni skedarin dhe shtoni regjistrime. Klikoni këtu për të mësuar se si të përdorni të dhënat e formatit në skedarin
+  CSV.
+</p>
+<h3 id="file-options">Opsionet e skedarit</h3>
+<p>
+  <strong>Cakto përdoruesit për rastet</strong> * Zgjidhni këtë opsion për të shtuar përdorues në një rast. * Lëreni
+  bosh qelizën case_role_order. * Shkoni te faqja e përdoruesve dhe kopjoni ID-në e etiketës për këtë person. Nëse fusha
+  e ID-së së etiketës është bosh, futni një ID unike, klikoni Ruaj dhe më pas kopjoni ID-në në skedarin CSV.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Modifikoni përdoruesit e caktuar për rastet</strong> * Zgjidhni këtë opsion për të përditësuar të dhënat për
+  përdoruesit aktualë të caktuar për një rast. * Përdorni ID-në e etiketës së rastit për kolonën case_ID.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  <strong>Hiq përdoruesit e caktuar për rastet</strong> * Zgjidhni këtë opsion për të hequr përdoruesit e caktuar për
+  një rast.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Ngarkimi i skedarit</h2>
+<p>
+  Mund të ngarkoni një skedar menjëherë ose të ktheheni në kutinë e dialogut &quot;Shto Importet&quot; në një datë të
+  mëvonshme dhe të përfundoni këto hapa.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Hapni kutinë e dialogut Shto Importet.</li>
+  <li>Futni një emër unik për skedarin CSV.</li>
+  <li>Klikoni ikonën plus (+) për të ngarkuar skedarin nga pajisja juaj.</li>
+  <li>Klikoni në fushën Lloji dhe zgjidhni një opsion. (Shiko lart)</li>
+  <li>Klikoni SAVE.</li>
+</ol>
+<h2 id="processing">Përpunimi</h2>
+<p>
+  Në varësi të numrit të regjistrimeve në skedar dhe ngarkesës së sistemit, platformës mund t&#39;i duhen disa minuta
+  për të përpunuar importin.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Kur përfundon importimi, platforma rregullon të dhënat e përdoruesit (dmth. shton, modifikon ose heq) në faqen Rastet.
+</p>
+<h2 id="failure">Dështimi</h2>
+<p>
+  Nëse operacioni i importimit dështon, platforma kthen një mesazh Dështoi. Në shumicën e rasteve, shkaku i dështimit
+  është formatimi i të dhënave.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Për të parë shkakun e dështimit:</p>
+<ol style="list-style-type: decimal">
+  <li>Klikoni Shiko nën titullin Veprimi.</li>
+  <li>Në faqen tjetër, lëvizni miun në ikonën e Dështuar. Këshilla e veglave shfaq gabimin.</li>
+  <li>Shkoni te skedari CVS dhe rregulloni dhe rregulloni gabimin.</li>
+  <li>Ngarkoni sërish skedarin.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

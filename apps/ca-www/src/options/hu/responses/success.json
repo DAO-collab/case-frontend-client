@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Az alkalmaz\u00e1s sikeresen l\u00e9trej\u00f6tt.",
+  "AvatarDeleted": "Az avatarot sikeresen t\u00f6r\u00f6lt\u00e9k.",
+  "AvatarUpdated": "Az avatar sikeresen felt\u00f6lt\u00f6tte.",
+  "CodeSent": "Meger\u0151s\u00edt\u0151 k\u00f3dot k\u00fcldtek a k\u00e9sz\u00fcl\u00e9kre.",
+  "DeviceVerified": "Az eszk\u00f6z ellen\u0151rz\u00e9se megt\u00f6rt\u00e9nt.",
+  "GlobalLogout": "Kijelentkez\u00e9s az \u00f6sszes eszk\u00f6z\u00f6n. Hamarosan tal\u00e1lkozunk.",
+  "LocalLogout": "Kijelentkez\u00e9s az eszk\u00f6z\u00f6n. Hamarosan tal\u00e1lkozunk.",
+  "PasswordUpdated": "A jelsz\u00f3 sikeresen friss\u00fclt.",
+  "ProfileUpdated": "A profil sikeresen friss\u00fclt.",
+  "SignupPassword": "A fi\u00f3k sikeresen l\u00e9trehozva.",
+  "TicketSent": "E-mailt k\u00fcldtek a t\u00e1mogat\u00f3 csapatnak."
+}

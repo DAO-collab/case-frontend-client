@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Rakendus loodi edukalt.",
+  "AvatarDeleted": "Avatar on edukalt kustutatud.",
+  "AvatarUpdated": "Avatar laaditi edukalt \u00fcles.",
+  "CodeSent": "Teie seadmesse on saadetud kinnituskood.",
+  "DeviceVerified": "Seade on kinnitatud.",
+  "GlobalLogout": "Logige v\u00e4lja k\u00f5ikidel seadmetel. Varsti n\u00e4eme.",
+  "LocalLogout": "Logige sellest seadmest v\u00e4lja. Varsti n\u00e4eme.",
+  "PasswordUpdated": "Parool uuendati edukalt.",
+  "ProfileUpdated": "Profiili v\u00e4rskendati edukalt.",
+  "SignupPassword": "Konto loodi edukalt.",
+  "TicketSent": "Tugir\u00fchmale on saadetud e-kiri."
+}

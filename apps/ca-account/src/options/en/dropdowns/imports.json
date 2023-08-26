@@ -1,0 +1,11 @@
+{
+  "post_user": "Add users",
+  "put_user": "Modify users",
+  "put_user_status": "Modify users status",
+  "post_case": "Create cases",
+  "put_case": "Modify cases",
+  "post_case_permission": "Assign users to cases",
+  "put_case_permission": "Modify users assigned to cases",
+  "post_case_post": "Create case posts",
+  "delete_case_permission": "Remove users assigned to cases"
+}

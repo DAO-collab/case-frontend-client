@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Kapag nagdagdag ng post sa Feed",
+  "app_confirmation_events": "Hinihiling sa akin ang rsvp ng kaganapan",
+  "app_submission_events": "Ang aking kaganapan rsvp ay nasagot",
+  "app_requested_forms": "Ang pagsusumite ng form ay hinihiling mula sa akin",
+  "app_submission_forms": "Ang aking form ay isinumite ng isang tao",
+  "app_requested_signs": "Hinihiling sa akin ang pagsusumite ng lagda",
+  "app_submission_signs": "Ang aking dokumento ay pinirmahan ng isang tao",
+  "app_requested_tasks": "Hinihiling sa akin ang gawain",
+  "app_submission_tasks": "Ang aking gawain ay natapos ng isang tao",
+  "app_requested_invoices": "Hinihiling sa akin ang pagsusumite ng invoice",
+  "app_submission_invoices": "Ang aking invoice ay binayaran ng isang tao"
+}

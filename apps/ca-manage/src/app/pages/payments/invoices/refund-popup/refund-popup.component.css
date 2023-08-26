@@ -1,0 +1,80 @@
+.unsubscribe-submit {
+  margin-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.submit button {
+  float: none;
+  display: inline;
+  margin: 0 0 0 25px;
+}
+
+.reasons-content {
+  margin-bottom: 40px;
+}
+
+.reason-body {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.refund-radio {
+  height: 20px !important;
+  width: 20px !important;
+  margin: 0 12px 0 0;
+  border: solid 1px #dbdbdb;
+  background-color: #f8fafb;
+  display: inline-block;
+}
+
+.refund-radio:focus {
+  box-shadow: none !important;
+}
+
+.unsubscribe-reason-text {
+  width: 277px;
+  height: 14px;
+  margin: 3px 0 3px 0;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4b5153;
+  font-size: 14px;
+}
+
+.refund-radio:checked:after {
+  background-color: #16b0c5;
+  border-color: #16b0c5;
+}
+
+.refund-radio {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  outline: none;
+  padding: 0 !important;
+}
+
+.refund-radio:before {
+  content: '';
+  display: block;
+  width: 60%;
+  height: 60%;
+  margin: 3.5px 4px;
+  border-radius: 50%;
+}
+
+.refund-radio:checked:before {
+  background-color: #16b0c5;
+  border-color: #16b0c5;
+}
+
+.refund-radio:focus {
+  outline: none;
+}

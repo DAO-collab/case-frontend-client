@@ -1,0 +1,121 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">So erstellen oder ändern Sie Fälle mit dem Import-Tool</h1>
+<p>Dieser Artikel zeigt Administratoren, wie sie vorhandene Fälle mit dem Import-Tool erstellen oder ändern.</p>
+<h2 id="opening-the-import-tool">Öffnen des Import-Tools</h2>
+<ol style="list-style-type: decimal">
+  <li>Melden Sie sich beim Administratorkonto an.</li>
+  <li>Suchen Sie eine App auf der Seite Apps und klicken Sie auf die Schaltfläche ADMIN.</li>
+  <li>Klicken Sie im Admin-Bereich auf die Registerkarte Integration und dann im Untermenü auf IMPORTS.</li>
+  <li>
+    Klicken Sie auf die Schaltfläche NEU. Das Dialogfeld „Importe hinzufügen“ wird in einer neuen Browser-Registerkarte
+    angezeigt.
+  </li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<h2 id="creating-cases">Fälle erstellen</h2>
+<p>Nachdem das Dialogfeld Importe hinzufügen geöffnet wurde:</p>
+<ol style="list-style-type: decimal">
+  <li>Klicken Sie auf das Feld Typ und wählen Sie eine Option aus (siehe unten). Ein Link wird angezeigt.</li>
+  <li>Klicken Sie auf den Link Beispiel herunterladen. Eine CSV-Datei wird auf Ihr Gerät heruntergeladen.</li>
+</ol>
+<p>Als nächstes öffnen Sie die Datei und fügen Fälle hinzu.</p>
+<h2 id="type">Typ</h2>
+<p>
+  Wenn Sie auf das Feld <strong>Typ</strong> klicken, wird ein Dropdown-Menü angezeigt. Wählen Sie eine von zwei
+  Optionen für den Bulk-Case-Import aus.
+</p>
+<ul>
+  <li>
+    <strong>Hinweis</strong> Das Dropdown-Menü enthält viele Optionen, aber nur zwei beziehen sich auf die
+    Fallverwaltung. Jede Option hat eine andere Beispiel-CSV-Datei.
+  </li>
+</ul>
+<h3 id="add-cases">Fälle hinzufügen</h3>
+<ul>
+  <li>Wählen Sie diese Option für einen einfachen Bulk-Upload von Fällen.</li>
+  <li>
+    Klicken Sie auf den Link Beispiel herunterladen, um eine CSV-Datei mit Spaltenüberschriften für den Importtyp Fälle
+    erstellen zu öffnen.
+  </li>
+</ul>
+<h3 id="modify-cases">Fälle ändern</h3>
+<ul>
+  <li>Wählen Sie diese Option, um aktuelle Fälle zu aktualisieren.</li>
+  <li>
+    Klicken Sie auf den Link Beispiel herunterladen, um eine CSV-Datei mit Spaltenüberschriften für den Importtyp Fälle
+    ändern zu öffnen.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Hochladen der Datei</h2>
+<p>
+  Sie können eine Datei sofort hochladen oder zu einem späteren Zeitpunkt zum Dialogfeld „Importe hinzufügen“
+  zurückkehren und diese Schritte ausführen.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Öffnen Sie das Dialogfeld „Importe hinzufügen“.</li>
+  <li>Geben Sie einen eindeutigen Namen für die CSV-Datei ein.</li>
+  <li>Klicken Sie auf das Pluszeichen (+), um die Datei von Ihrem Gerät hochzuladen.</li>
+  <li>Klicken Sie auf das Feld Typ und wählen Sie eine Option aus. (siehe oben)</li>
+  <li>Klicken Sie auf SPEICHERN.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<h2 id="formatting">Formatierung</h2>
+<p>
+  Dies sind die Pflichtfelder und ersten Voraussetzungen. Klicken Sie
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">hier</a> , um die
+  Formatierungsdetails zu überprüfen.
+</p>
+<p>
+  <strong>tag_id (oder case_ID)</strong> eine eindeutige Kennung (verwenden Sie alphanumerische Zeichen, Bindestriche
+  werden akzeptiert)
+</p>
+<p><strong>case_status</strong> 0 = geschlossen 1 = aktiv</p>
+<p><strong>date_opened</strong> Monat/Tag/Jahr MM/TT/JJJJ</p>
+<p>
+  <strong>über</strong> eine eindeutige Beschreibung des Falls (alphanumerische Zeichen verwenden, Bindestriche werden
+  akzeptiert)
+</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<h2 id="processing">wird bearbeitet</h2>
+<p>
+  Abhängig von der Anzahl der Datensätze in der Datei und der Systemlast kann die Plattform mehrere Minuten benötigen,
+  um den Import zu verarbeiten.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<p>
+  Wenn der Import abgeschlossen ist, passt die Plattform Falldatensätze (dh fügt hinzu oder ändert) auf dem
+  Fall-Dashboard des Administrators an.
+</p>
+<h2 id="failure">Fehler</h2>
+<p>
+  Wenn der Importvorgang fehlschlägt, gibt die Plattform eine Fehlernachricht zurück. In den meisten Fällen ist die
+  Fehlerursache die Datenformatierung.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<p>So sehen Sie die Fehlerursache:</p>
+<ol style="list-style-type: decimal">
+  <li>Klicken Sie unter der Überschrift AKTION auf Ansicht.</li>
+  <li>
+    Bewegen Sie auf der nächsten Seite die Maus über das Symbol „Fehlgeschlagen“. Der Tooltip zeigt den Fehler an.
+  </li>
+  <li>Gehen Sie zur CVS-Datei und passen Sie den Fehler an und beheben Sie ihn.</li>
+  <li>Laden Sie die Datei erneut hoch.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>

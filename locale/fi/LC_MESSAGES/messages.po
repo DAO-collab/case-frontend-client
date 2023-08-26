@@ -1,0 +1,4497 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.342123\n"
+"PO-Revision-Date: 2019-03-13T10:04:22.292978\n"
+"Language: fi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Sinun tulisi valita kuvatiedosto."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Lataa asiakirja, merkitse se allekirjoitusta varten ja sitten asiakas "
+"kirjautuu sisään ja allekirjoittaa sen. Kaikki saadaan aikaan ilman, että "
+"asiakkaan on tultava rakennukseemme. Tämä on kätevää asiakkaille, jotka "
+"eivät ole lähellä toimistoa tai asuvat valtioiden ulkopuolella .."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Pääomavakuutustoiminnan johtaja"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Kumppanimme voivat kirjautua sisään ja nähdä perustiedot heidän tapauksensa "
+"etenemisestä. Tämä on lisännyt huomattavasti tapausten siirtämistä ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Christianson &amp; Baylesin lakitoimiston kumppani"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Meidän ei enää tarvitse nähdä asiakkaita toimistossa kokouksia varten, ja "
+"asiakirjojen allekirjoittaminen on kaikki valmis verkossa - loistava !."
+
+msgid "CEO of EL Passion"
+msgstr "EL Passionin toimitusjohtaja"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Sovellusliittymää käyttämällä automatisoimme täysin tapaussyötteessä näkyvät"
+" tiedot olemassa olevan järjestelmän nykyisten liipaisimien perusteella. "
+"Melko kätevä .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Carter Mario -vahinkolakimiesten IT-päällikkö"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Meillä on paljon monikielisiä asiakkaita, jotka käyttävät "
+"käännösominaisuutta. Lähetämme viestejä varmuudella siitä, että kaikki "
+"ymmärtävät ne. Tämän avulla voimme siirtyä paikallisesta työstä globaaliin "
+"työhön .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Solid Rock Designsin toimitusjohtaja"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Asiakkaat rakastavat sitä! Se tekee heidän elämästään paljon helpompaa. He "
+"voivat keskustella asioista kanssamme verkossa, ladata valokuvia ja "
+"asiakirjoja, ja kaikki tallennetaan, missä sekä tiimi että asiakas voivat "
+"nähdä sen."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Ashley &amp; Ashley PC: n kumppani"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Rakastamme tapauslaskutusta, koska sen avulla asiakkaat näkevät tarkalleen, "
+"mistä he maksavat."
+
+msgid "Vice President of Sky Digital"
+msgstr "Sky Digitalin varapuheenjohtaja"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Silloitettu viestintä on kuin kaikkien sosiaalisen median ja "
+"yhteistyövälineiden pitäminen yhdessä paikassa."
+
+msgid "Director Of Complaint Management"
+msgstr "Valitusten hallinnan johtaja"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Tapauslomakkeiden avulla voimme kuunnella ja oppia, mikä auttaa meitä "
+"lisäämään myyntiä asiakaspalautteen avulla."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Cain &amp; Companyn myyntijohtaja"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Käyttöliittymä on hyvin samanlainen kuin Facebook. Se on erittäin helppo "
+"käyttää .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Wong Medical Group LLC: n yhteistyökumppani"
+
+msgid "A pin has been sent to"
+msgstr "PIN-koodi on lähetetty osoitteeseen"
+
+msgid "Cancel"
+msgstr "Peruuttaa"
+
+msgid "Send New Pin"
+msgstr "Lähetä uusi PIN-koodi"
+
+msgid "Need Help?"
+msgstr "Tarvitsetko apua?"
+
+msgid "Click here to contact us"
+msgstr "Ota meihin yhteyttä napsauttamalla tätä"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Login or Signup"
+msgstr "Kirjaudu tai rekisteröidy"
+
+msgid "Invalid email entered"
+msgstr "Virheellinen sähköpostiosoite"
+
+msgid "Processing..."
+msgstr "Processing ..."
+
+msgid "Made with"
+msgstr "Valmistettu"
+
+msgid "love"
+msgstr "rakkaus"
+
+msgid "in New York City"
+msgstr "New Yorkissa"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Kaikki oikeudet pidätetään"
+
+msgid "Terms of Use"
+msgstr "Käyttöehdot"
+
+msgid "Contact Us"
+msgstr "Ota meihin yhteyttä"
+
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+msgid "Code"
+msgstr "Koodi"
+
+msgid "New Password"
+msgstr "uusi salasana"
+
+msgid "Confirm Password"
+msgstr "Vahvista salasana"
+
+msgid "Set Your New Password"
+msgstr "Aseta uusi salasana"
+
+msgid "A code has been sent to"
+msgstr "Koodi on lähetetty"
+
+msgid "Change Password"
+msgstr "Vaihda salasana"
+
+msgid "Changing..."
+msgstr "Vaihtaa..."
+
+msgid "Login"
+msgstr "Kirjaudu sisään"
+
+msgid "Forgot password?"
+msgstr "Unohtuiko salasana?"
+
+msgid "Help"
+msgstr "auta"
+
+msgid "Email or Phone"
+msgstr "Sähköposti tai puhelin"
+
+msgid "Reset Password"
+msgstr "Nollaa salasana"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Kirjoita tiliisi liitetty sähköpostiosoite tai puhelinnumero ja napsauta "
+"sitten Lähetä. Lähetämme sinulle sähköpostitse tai tekstiviestinä linkin "
+"sivulle, jolla voit luoda uuden salasanan helposti."
+
+msgid "Request Code"
+msgstr "Varauskoodi"
+
+msgid "Requesting..."
+msgstr "Pyytävän ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "TAPAHTUMA ON NOPEA"
+
+msgid "Create a free account"
+msgstr "Luo ilmainen tili"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Teemme siihen viimeisen silauksen. Ilmoitamme sinulle, kun se on valmis!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Olet muutaman minuutin päässä paremmasta yhteistyöstä."
+
+msgid "First Name"
+msgstr "Etunimi"
+
+msgid "Last Name"
+msgstr "Sukunimi"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "Company"
+msgstr "Yhtiö"
+
+msgid "No language selected"
+msgstr "Mitään kieltä ei ole valittu"
+
+msgid "I agree with"
+msgstr "olen samaa mieltä"
+
+msgid "Terms of Service"
+msgstr "Käyttöehdot"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Have at least one lower case character"
+msgstr "Onko sinulla vähintään yksi pienet kirjaimet"
+
+msgid "Have at least one capital letter"
+msgstr "Onko sinulla vähintään yksi iso kirjain"
+
+msgid "Have at least one number"
+msgstr "Onko sinulla vähintään yksi numero"
+
+msgid "Have at least 8 characters in length"
+msgstr "Pituus vähintään 8 merkkiä"
+
+msgid "Type your current password"
+msgstr "Kirjoita nykyinen salasanasi"
+
+msgid "Passwords must match"
+msgstr "Salasanojen täytyy täsmätä"
+
+msgid "Domains"
+msgstr "Verkkotunnukset"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript ei ole käytössä. Ota se käyttöön."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Evästeet eivät ole käytössä. Ota se käyttöön."
+
+msgid "New"
+msgstr "Uusi"
+
+msgid "Create A New App"
+msgstr "Luo uusi sovellus"
+
+msgid "Apps"
+msgstr "sovellukset"
+
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Logout"
+msgstr "Kirjautua ulos"
+
+msgid "Hi"
+msgstr "Hei"
+
+msgid "View your account"
+msgstr "Tarkastele tiliäsi"
+
+msgid "View page"
+msgstr "Näytä sivu"
+
+msgid "You don’t have any apps"
+msgstr "Sinulla ei ole sovelluksia"
+
+msgid "App"
+msgstr "Sovellus"
+
+msgid "Admin"
+msgstr "admin"
+
+msgid "Notifications"
+msgstr "Ilmoitukset"
+
+msgid "No notifications yet."
+msgstr "Ei vielä ilmoituksia."
+
+msgid "Today"
+msgstr "Tänään"
+
+msgid "Last Week"
+msgstr "Viime viikko"
+
+msgid "No timezone selected"
+msgstr "Ei aikaväliä valittu"
+
+msgid "Complete profile to continue"
+msgstr "Jatka täydellistä profiilia"
+
+msgid "Timezone"
+msgstr "Aikavyöhyke"
+
+msgid "Update"
+msgstr "Päivittää"
+
+msgid "Website:"
+msgstr "Verkkosivusto:"
+
+msgid "Homepage:"
+msgstr "kotisivu:"
+
+msgid "Approve Access"
+msgstr "Hyväksy käyttöoikeus"
+
+msgid "Info"
+msgstr "Tiedot"
+
+msgid "Permissions"
+msgstr "Käyttöoikeudet"
+
+msgid "Billing"
+msgstr "Laskutus"
+
+msgid "Payment Plan"
+msgstr "Maksusuunnitelma"
+
+msgid "Edit"
+msgstr "Muokata"
+
+msgid "Save"
+msgstr "Tallentaa"
+
+msgid "has access to your information below:"
+msgstr "on pääsy tietoihisi alla:"
+
+msgid "has invited you to their client portal."
+msgstr "on kutsunut sinut heidän asiakasportaaliin."
+
+msgid "want access to the following information:"
+msgstr "haluavat pääsyn seuraaviin tietoihin:"
+
+msgid "Decline"
+msgstr "aleneminen"
+
+msgid "Remove Access"
+msgstr "Poista käyttöoikeudet"
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgid "Invites"
+msgstr "Kutsut"
+
+msgid "Disabled"
+msgstr "Liikuntarajoitteinen"
+
+msgid "No apps found"
+msgstr "Ei sovelluksia"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "user"
+msgstr "käyttäjä"
+
+msgid "manager"
+msgstr "johtaja"
+
+msgid "active"
+msgstr "aktiivinen"
+
+msgid "inactive"
+msgstr "epäaktiivinen"
+
+msgid "Company Name"
+msgstr "Yrityksen nimi"
+
+msgid "Type"
+msgstr "Tyyppi"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Invitation"
+msgstr "Kutsu"
+
+msgid "About App"
+msgstr "Tietoja App"
+
+msgid "Billing Info"
+msgstr "Laskutustiedot"
+
+msgid "Your Company Name"
+msgstr "Yrityksesi nimi"
+
+msgid "Your Company Website"
+msgstr "Yrityksesi verkkosivusto"
+
+msgid "Saving..."
+msgstr "Tallentaa..."
+
+msgid "Billing Information"
+msgstr "laskutus tiedot"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Lisää yrityksen toimittama APP ID"
+
+msgid "Select an option"
+msgstr "Valitse vaihtoehto"
+
+msgid "Join an existing app as a client"
+msgstr "Liity olemassa olevaan sovellukseen asiakkaaksi"
+
+msgid "Create a new app for my business"
+msgstr "Luo uusi sovellus yritykselleni"
+
+msgid "Create Domain"
+msgstr "Luo verkkotunnus"
+
+msgid "Select enterprise app"
+msgstr "Valitse yrityssovellus"
+
+msgid "No item selected"
+msgstr "Kohdetta ei ole valittu"
+
+msgid "Domain name"
+msgstr "Verkkotunnus"
+
+msgid "Add"
+msgstr "Lisätä"
+
+msgid "No enterprise app found"
+msgstr "Yrityssovellusta ei löytynyt"
+
+msgid "Pending"
+msgstr "Odottaa"
+
+msgid "No domains found"
+msgstr "Verkkotunnuksia ei löytynyt"
+
+msgid "Domain"
+msgstr "Verkkotunnus"
+
+msgid "Txt Value"
+msgstr "Txt-arvo"
+
+msgid "Enterprise Host ID"
+msgstr "Yrityksen isäntätunnus"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Toiminta"
+
+msgid "Delete"
+msgstr "Poistaa"
+
+msgid "Reset"
+msgstr "Nollaa"
+
+msgid "Allow Manual Sign In"
+msgstr "Salli manuaalinen sisäänkirjautuminen"
+
+msgid "Exclude Emails From SSO"
+msgstr "Sulje sähköpostit pois SSO:sta"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML-identiteetin tarjoajan metatiedot"
+
+msgid "Submit"
+msgstr "Lähetä"
+
+msgid "Profile photo"
+msgstr "Profiilikuva"
+
+msgid "Uploading..."
+msgstr "Lataaminen ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "on toisella tilillä vaatinut, muuta sitä tai"
+
+msgid "reclaim"
+msgstr "pelastaa"
+
+msgid "it"
+msgstr "se"
+
+msgid "pending verification:"
+msgstr "odottava tarkistus:"
+
+msgid "verify"
+msgstr "tarkistaa"
+
+msgid "Phone Number"
+msgstr "Puhelinnumero"
+
+msgid "Current Password"
+msgstr "Nykyinen salasana"
+
+msgid "Change password"
+msgstr "Vaihda salasana"
+
+msgid "No gender selected"
+msgstr "Sukupuoli ei ole valittu"
+
+msgid "Company Title"
+msgstr "Yrityksen nimi"
+
+msgid "Address"
+msgstr "Osoite"
+
+msgid "Address 2"
+msgstr "Osoite 2"
+
+msgid "City/Locality"
+msgstr "Kaupunki / Paikkakunta"
+
+msgid "State/Region"
+msgstr "Osavaltio / alue"
+
+msgid "No country selected"
+msgstr "Valitusta maasta ei ole"
+
+msgid "Zip/Postal Code"
+msgstr "Postinumero"
+
+msgid "Basic"
+msgstr "perustiedot"
+
+msgid "Date of Birth"
+msgstr "Syntymäaika"
+
+msgid "Gender"
+msgstr "sukupuoli"
+
+msgid "Occupation"
+msgstr "ammatti"
+
+msgid "Location"
+msgstr "Sijainti"
+
+msgid "Address is not valid"
+msgstr "Osoite ei kelpaa"
+
+msgid "City/Locality is not valid"
+msgstr "Kaupunki / paikkakunta ei kelpaa"
+
+msgid "Country"
+msgstr "Maa"
+
+msgid "State/Region is not valid"
+msgstr "Osavaltio / alue ei kelpaa"
+
+msgid "Contact Info"
+msgstr "Yhteystiedot"
+
+msgid "Language & Region"
+msgstr "Kieli ja alue"
+
+msgid "Saving"
+msgstr "Tallentaa"
+
+msgid "Verify Your"
+msgstr "Vahvista"
+
+msgid "Verification Code"
+msgstr "Vahvistuskoodi"
+
+msgid "Resend Code"
+msgstr "Lähetä koodi uudelleen"
+
+msgid "Resending"
+msgstr "uudelleenlähetystä"
+
+msgid "Verify"
+msgstr "tarkistaa"
+
+msgid "Verifying..."
+msgstr "Tarkistetaan ..."
+
+msgid "Later"
+msgstr "Myöhemmin"
+
+msgid "We're here to help"
+msgstr "Olemme täällä auttamassa"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Kiitos yhteydenotostasi. Viestisi on lähetetty onnistuneesti. Ota yhteyttä "
+"sinuun pian!"
+
+msgid "Message"
+msgstr "Viesti"
+
+msgid "characters left"
+msgstr "merkkejä jäljellä"
+
+msgid "Recaptcha"
+msgstr "reCAPTCHA"
+
+msgid "Send"
+msgstr "Lähettää"
+
+msgid "Sending..."
+msgstr "Lähetetään ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Et enää saa sähköpostimarkkinointia luettelosta."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Jos sinulla on hetki aikaa, kerro meille, miksi peruutit tilauksen:"
+
+msgid "Return to our website"
+msgstr "Palaa sivuillemme"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Kiitos. Vastauksesi on lähetetty."
+
+msgid "No Cases"
+msgstr "Ei tapauksia"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Gallery"
+msgstr "Galleria"
+
+msgid "Speaker"
+msgstr "Kaiutin"
+
+msgid "This case has been closed"
+msgstr "Tämä tapaus on lopetettu"
+
+msgid "Feed"
+msgstr "rehu"
+
+msgid "Images"
+msgstr "kuvat"
+
+msgid "Docs"
+msgstr "Docs"
+
+msgid "Audios"
+msgstr "audiona"
+
+msgid "Videos"
+msgstr "Videot"
+
+msgid "Files"
+msgstr "Tiedostot"
+
+msgid "Events"
+msgstr "Tapahtumat"
+
+msgid "Forms"
+msgstr "Lomakkeet"
+
+msgid "E-signs"
+msgstr "E-kyltit"
+
+msgid "Invoices"
+msgstr "Laskut"
+
+msgid "Notes"
+msgstr "Huomautuksia"
+
+msgid "Tasks"
+msgstr "Tehtävät"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Hyvää työtä!"
+
+msgid "You did all"
+msgstr "Teit kaikki"
+
+msgid "the tasks"
+msgstr "tehtävät"
+
+msgid "Media"
+msgstr "tiedotusvälineet"
+
+msgid "Skip to navigation (n)"
+msgstr "Siirry navigointiin (n)"
+
+msgid "Skip to content (c)"
+msgstr "Siirry sisältöön (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Siirry alasivulle (f)"
+
+msgid "Case"
+msgstr "Asia"
+
+msgid "Search"
+msgstr "Hae"
+
+msgid "Using Form Builder"
+msgstr "Lomakkeiden rakennustyökalun käyttäminen"
+
+msgid "Using Forms Library"
+msgstr "Lomakekirjaston käyttäminen"
+
+msgid "Using E-sign Builder"
+msgstr "E-sign Builderin käyttö"
+
+msgid "Using E-signs Library"
+msgstr "E-merkkikirjaston käyttö"
+
+msgid "Documents"
+msgstr "asiakirjat"
+
+msgid "Create Note"
+msgstr "Luo huomautus"
+
+msgid "Edit Note"
+msgstr "Muokkaa huomautusta"
+
+msgid "End Convo"
+msgstr "Lopeta keskustelu"
+
+msgid "Create Form"
+msgstr "Luo lomake"
+
+msgid "Create Sign"
+msgstr "Luo merkki"
+
+msgid "Event Create"
+msgstr "Tapahtuman luonti"
+
+msgid "Convo Videos"
+msgstr "Keskusteluvideot"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Tapaukset"
+
+msgid "Case categories"
+msgstr "Tapausluokat"
+
+msgid "Your team"
+msgstr "Joukkueesi"
+
+msgid "To do"
+msgstr "Tehdä"
+
+msgid "To Do:"
+msgstr "Tehdä:"
+
+msgid "Case Categories"
+msgstr "Tapausluokat"
+
+msgid "Your Team"
+msgstr "Joukkueesi"
+
+msgid "To Do"
+msgstr "Tehdä"
+
+msgid "Yes"
+msgstr "Joo"
+
+msgid "Close"
+msgstr "kiinni"
+
+msgid "Publish"
+msgstr "Julkaista"
+
+msgid "Visibility"
+msgstr "näkyvyys"
+
+msgid "all"
+msgstr "kaikki"
+
+msgid "sign"
+msgstr "merkki"
+
+msgid "Page"
+msgstr "Sivu"
+
+msgid "of"
+msgstr "/"
+
+msgid "Processing"
+msgstr "Käsittely"
+
+msgid "failed."
+msgstr "epäonnistui."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Arvon tulee olla suurempi tai yhtä suuri kuin 1"
+
+msgid "Repeat end:"
+msgstr "Toista loppu:"
+
+msgid "Signature"
+msgstr "Allekirjoitus"
+
+msgid "Draw"
+msgstr "Piirrä"
+
+msgid "Write"
+msgstr "Kirjoittaa"
+
+msgid "Clear Signature"
+msgstr "Tyhjennä allekirjoitus"
+
+msgid "Still processing video..."
+msgstr "Videota käsitellään edelleen ..."
+
+msgid "You"
+msgstr "Sinä"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Olet poistamassa syötettä. Oletko varma?"
+
+msgid "No convo audios yet"
+msgstr "Ei vielä keskusteluääniä"
+
+msgid "No convo videos yet"
+msgstr "Ei keskusteluvideoita vielä"
+
+msgid "Start Convo"
+msgstr "Aloita Convo"
+
+msgid "Notify the Host"
+msgstr "Ilmoita isännöitsijälle"
+
+msgid "is in the call"
+msgstr "on puhelussa"
+
+msgid "and"
+msgstr "ja"
+
+msgid "others are in the call"
+msgstr "muut ovat puhelussa"
+
+msgid "Audio call is being recorded"
+msgstr "Äänipuhelua tallennetaan"
+
+msgid "Video call is being recorded"
+msgstr "Videopuhelua tallennetaan"
+
+msgid "Join now"
+msgstr "Liity nyt"
+
+msgid "Dismiss"
+msgstr "Hylkää"
+
+msgid "Can’t find your "
+msgstr "Omaasi ei löydy"
+
+msgid "microphone"
+msgstr "mikrofoni"
+
+msgid "Check your system settings to make sure that "
+msgstr "Tarkista järjestelmäasetukset varmistaaksesi sen"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"on käytettävissä. Jos ei, liitä sellainen. Sinun on ehkä käynnistettävä "
+"selain uudelleen."
+
+msgid "web camera"
+msgstr "nettikamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Aiot aloittaa Convo-puhelun. Aloita:"
+
+msgid "Video & Audio"
+msgstr "Video & Audio"
+
+msgid "Audio Only"
+msgstr "Vain ääni"
+
+msgid "Record the meeting"
+msgstr "Tallenna kokous"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Odotetaan jonkun, jolla on lupa aloittaa Convo-puhelu"
+
+msgid "Add Ticket"
+msgstr "Lisää lippu"
+
+msgid "Title"
+msgstr "otsikko"
+
+msgid "Open"
+msgstr "Avata"
+
+msgid "Closed"
+msgstr "Suljettu"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Olet sulkemassa lipun. Oletko varma?"
+
+msgid "Announcements"
+msgstr "Ilmoitukset"
+
+msgid "Support"
+msgstr "Tuki"
+
+msgid "Opened"
+msgstr "avattu"
+
+msgid "View"
+msgstr "näkymä"
+
+msgid "Locations"
+msgstr "Sijainnit"
+
+msgid "You currently have no announcements."
+msgstr "Sinulla ei ole tällä hetkellä ilmoituksia."
+
+msgid "You currently have no"
+msgstr "Sinulla ei tällä hetkellä ole"
+
+msgid "open cases. Click"
+msgstr "avoimia tapauksia. Klikkaus"
+
+msgid "here"
+msgstr "tässä"
+
+msgid "to contact support."
+msgstr "ottaa yhteyttä tukeen."
+
+msgid "closed cases."
+msgstr "suljetut tapaukset."
+
+msgid "open tickets."
+msgstr "avoimet liput."
+
+msgid "closed tickets."
+msgstr "suljetut liput."
+
+msgid "You currently have no locations."
+msgstr "Sinulla ei tällä hetkellä ole sijainteja."
+
+msgid "Write a comment...."
+msgstr "Kirjoita kommentti...."
+
+msgid "Post"
+msgstr "Lähettää"
+
+msgid "Add Location"
+msgstr "Lisää sijainti"
+
+msgid "Save Event"
+msgstr "Tallenna tapahtuma"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Start Date"
+msgstr "Aloituspäivämäärä"
+
+msgid "Start Time"
+msgstr "Aloitusaika"
+
+msgid "End Date"
+msgstr "Päättymispäivä"
+
+msgid "End Time"
+msgstr "Loppu aika"
+
+msgid "Repeat"
+msgstr "Toistaa"
+
+msgid "Attendees"
+msgstr "Osallistujat"
+
+msgid "Event Location"
+msgstr "Tapahtuman sijainti"
+
+msgid "Link"
+msgstr "Linkki"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "Attending"
+msgstr "hoitava"
+
+msgid "Add to calendar"
+msgstr "Lisää kalenteriin"
+
+msgid "Details"
+msgstr "Yksityiskohdat"
+
+msgid "Event by"
+msgstr "Tapahtuman tekijä"
+
+msgid "Duration:"
+msgstr "Kesto:"
+
+msgid "more"
+msgstr "lisää"
+
+msgid "Maybe"
+msgstr "Voi olla"
+
+msgid "Not Attending"
+msgstr "Ei osallistu"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Videoneuvottelu"
+
+msgid "Event details"
+msgstr "Tapahtuman Yksityiskohdat"
+
+msgid "You don't have permissions to view this page."
+msgstr "Sinulla ei ole oikeuksia tarkastella tätä sivua."
+
+msgid "Your Upcoming Events"
+msgstr "Tulevat tapahtumat"
+
+msgid "Upcoming"
+msgstr "Tuleva"
+
+msgid "Your Past Events"
+msgstr "Aiemmat tapahtumasi"
+
+msgid "Past"
+msgstr "Mennyt"
+
+msgid "Your Events"
+msgstr "Tapahtumasi"
+
+msgid "All"
+msgstr "Kaikki"
+
+msgid "All Events"
+msgstr "Kaikki tapahtumat"
+
+msgid "Directions"
+msgstr "ohjeet"
+
+msgid "Edit settings"
+msgstr "Muokkaa asetuksia"
+
+msgid "Delete event"
+msgstr "Poista tapahtuma"
+
+msgid "Attending?"
+msgstr "Läsnä?"
+
+msgid "No Events"
+msgstr "Ei tapahtumia"
+
+msgid "more comment(s)"
+msgstr "lisää kommentteja"
+
+msgid "Loading comments"
+msgstr "Ladataan kommentteja"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Olet poistamassa kommentin. Oletko varma?"
+
+msgid "task"
+msgstr "tehtävä"
+
+msgid "to do"
+msgstr "tehdä"
+
+msgid "tasks"
+msgstr "tehtäviä"
+
+msgid "Write something..."
+msgstr "Kirjoittaa jotain..."
+
+msgid "Attach File"
+msgstr "Liitä tiedosto"
+
+msgid "From Template"
+msgstr "Mallista"
+
+msgid "No feeds yet."
+msgstr "Ei syötteitä vielä."
+
+msgid "comments"
+msgstr "kommentteja"
+
+msgid "comment"
+msgstr "kommentti"
+
+msgid "Add a comment"
+msgstr "Lisää kommentti"
+
+msgid "Template"
+msgstr "Sapluuna"
+
+msgid "No templates"
+msgstr "Ei malleja"
+
+msgid "Done"
+msgstr "Tehty"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Valitse jäsenet, joiden on täytettävä tämä lomake"
+
+msgid "Update Form"
+msgstr "Päivitä lomake"
+
+msgid "Due Date"
+msgstr "Eräpäivä"
+
+msgid "Due Time"
+msgstr "Aika"
+
+msgid "Loading..."
+msgstr "Ladataan..."
+
+msgid "Preview"
+msgstr "Esikatselu"
+
+msgid "Save & Close"
+msgstr "Tallenna ja sulje"
+
+msgid "Add an element"
+msgstr "Lisää elementti"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Media muuntuu. Ilmoitamme, kun se on valmis"
+
+msgid "Add "
+msgstr "Lisätä"
+
+msgid "Field"
+msgstr "Ala"
+
+msgid "Edit "
+msgstr "Muokata"
+
+msgid "Text"
+msgstr "Teksti"
+
+msgid "Sub Text"
+msgstr "Alateksti"
+
+msgid "Format"
+msgstr "Muoto"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr "Median muuntaminen epäonnistui. Poista ja yritä uudelleen tai toista."
+
+msgid "Pages"
+msgstr "Sivut"
+
+msgid "Saved"
+msgstr "Tallennettu"
+
+msgid "Insert"
+msgstr "Lisää"
+
+msgid "Elements"
+msgstr "Elementit"
+
+msgid "Action Required"
+msgstr "Vaatii toimenpiteitä"
+
+msgid "Add a new page"
+msgstr "Lisää uusi sivu"
+
+msgid "Blank page"
+msgstr "Tyhjä sivu"
+
+msgid "From PDF"
+msgstr "PDF:stä"
+
+msgid "From image"
+msgstr "Kuvasta"
+
+msgid "Add PDF"
+msgstr "Lisää PDF"
+
+msgid "Add Image"
+msgstr "Lisää kuva"
+
+msgid "Options"
+msgstr "vaihtoehdot"
+
+msgid "Column Names"
+msgstr "Sarakkeiden nimet"
+
+msgid "Option already exists."
+msgstr "Vaihtoehto on jo olemassa."
+
+msgid "options list is empty"
+msgstr "vaihtoehtoluettelo on tyhjä"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Valintaruudut-kenttä tukee vain viittä vaihtoehtoa. Voit muuttaa kenttää "
+"avattavaksi lisätäksesi lisää vaihtoehtoja"
+
+msgid "columns list is empty"
+msgstr "sarakeluettelo on tyhjä"
+
+msgid "Default Value"
+msgstr "Oletusarvo"
+
+msgid "Delete row"
+msgstr "Poista rivi"
+
+msgid "Add a new row"
+msgstr "Lisää uusi rivi"
+
+msgid "Download"
+msgstr "ladata"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Question"
+msgstr "Kysymys"
+
+msgid "Default answer"
+msgstr "Oletusvastaus"
+
+msgid "Media is converting"
+msgstr "Media muuntuu"
+
+msgid "Send Form"
+msgstr "Lähetä lomake"
+
+msgid "Form Submited."
+msgstr "Ilmoitettu lomake."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Sinulla ei ole oikeuksia lähettää lomakkeita."
+
+msgid "You currently have no forms of your own"
+msgstr "Sinulla ei tällä hetkellä ole omia muotojasi"
+
+msgid "Your Uncompleted Forms"
+msgstr "Keskeneräiset lomakkeet"
+
+msgid "Uncompleted"
+msgstr "Keskeneräinen"
+
+msgid "Your Completed Forms"
+msgstr "Täytetyt lomakkeet"
+
+msgid "Completed"
+msgstr "Valmis"
+
+msgid "Your Forms"
+msgstr "Lomakkeet"
+
+msgid "All Forms"
+msgstr "Kaikki lomakkeet"
+
+msgid "Form Title"
+msgstr "Lomakkeen otsikko"
+
+msgid "Author"
+msgstr "Kirjoittaja"
+
+msgid "Published"
+msgstr "Julkaistu"
+
+msgid "Submissions"
+msgstr "Lausunnot"
+
+msgid "No Forms"
+msgstr "Ei lomakkeita"
+
+msgid "Upload Form Document"
+msgstr "Lataa lomakeasiakirja"
+
+msgid "Forms Library"
+msgstr "Lomakekirjasto"
+
+msgid "No Forms In Library"
+msgstr "Ei lomakkeita kirjastossa"
+
+msgid "Answers"
+msgstr "Vastaukset"
+
+msgid "Close - Status changed"
+msgstr "Sulje - tila muutettu"
+
+msgid "Change Status"
+msgstr "Vaihda tilaa"
+
+msgid "Case Number"
+msgstr "Tapaus numero"
+
+msgid "Tag Id"
+msgstr "Tag Id"
+
+msgid "Date Opened"
+msgstr "Avattu päivämäärä"
+
+msgid "Host Id"
+msgstr "Isäntätunnus"
+
+msgid "User Id"
+msgstr "Käyttäjätunnus"
+
+msgid "Case Id"
+msgstr "Tapaus tunnus"
+
+msgid "Confirm your details"
+msgstr "Vahvista tietosi"
+
+msgid "Form Submitted."
+msgstr "Lomake lähetetty."
+
+msgid "Invoice"
+msgstr "Lasku"
+
+msgid "PO No:"
+msgstr "PO nro:"
+
+msgid "Reference ID:"
+msgstr "Viitetunnus:"
+
+msgid "Term:"
+msgstr "Termi:"
+
+msgid "Note:"
+msgstr "Huomautus:"
+
+msgid "QTY"
+msgstr "Kpl"
+
+msgid "Price"
+msgstr "Hinta"
+
+msgid "Add more"
+msgstr "Lisää enemmän"
+
+msgid "Subtotal($)"
+msgstr "Välisumma ($)"
+
+msgid "Discount(%)"
+msgstr "Alennus(%)"
+
+msgid "TAX(%)"
+msgstr "VEROTTAA(%)"
+
+msgid "Total($)"
+msgstr "Yhteensä ($)"
+
+msgid "Invoice No"
+msgstr "Lasku nro"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Valitse jäsenet, joiden on katsottava tai maksettava tämä lasku"
+
+msgid "Update Invoice"
+msgstr "Päivitä lasku"
+
+msgid "Create Invoice"
+msgstr "Luo lasku"
+
+msgid "PO No."
+msgstr "PO nro"
+
+msgid "Reference ID"
+msgstr "Viitetunnus"
+
+msgid "Term"
+msgstr "Termi"
+
+msgid "Note"
+msgstr "Huomautus"
+
+msgid "Quantity"
+msgstr "Määrä"
+
+msgid "Price ($)"
+msgstr "Hinta ($)"
+
+msgid "Subtotal ($)"
+msgstr "Välisumma ($)"
+
+msgid "Discount (%)"
+msgstr "Alennus (%)"
+
+msgid "Tax (%)"
+msgstr "Vero (%)"
+
+msgid "Total ($)"
+msgstr "Yhteensä ($)"
+
+msgid "Pay Invoice"
+msgstr "Maksa lasku"
+
+msgid "Payment method"
+msgstr "Maksutapa"
+
+msgid "Add a new payment method"
+msgstr "Lisää uusi maksutapa"
+
+msgid "Summary"
+msgstr "Yhteenveto"
+
+msgid "Payment:"
+msgstr "Maksu:"
+
+msgid "Total charge:"
+msgstr "Kokonaisveloitus:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Maksamattomat laskusi"
+
+msgid "Unpaid"
+msgstr "Palkaton"
+
+msgid "Your Paid Invoices"
+msgstr "Maksetut laskusi"
+
+msgid "Paid"
+msgstr "Maksettu"
+
+msgid "Your Invoices"
+msgstr "Sinun laskusi"
+
+msgid "All Invoices"
+msgstr "Kaikki laskut"
+
+msgid "Invoice Title"
+msgstr "Laskun otsikko"
+
+msgid "No Invoices"
+msgstr "Ei laskuja"
+
+msgid "No Audios yet."
+msgstr "Ei ääniä vielä."
+
+msgid "Loading failed."
+msgstr "Lataus epäonnistui."
+
+msgid "retry"
+msgstr "uudelleen"
+
+msgid "No documents yet."
+msgstr "Ei asiakirjoja vielä."
+
+msgid "No Files yet."
+msgstr "Ei tiedostoja vielä."
+
+msgid "No Images yet."
+msgstr "Ei kuvia vielä."
+
+msgid "No Videos yet."
+msgstr "Ei videoita vielä."
+
+msgid "Page Not Found"
+msgstr "Sivua ei löydetty"
+
+msgid "Attachments"
+msgstr "Liitteet"
+
+msgid "Note View"
+msgstr "Huomautus Näytä"
+
+msgid "No Notes"
+msgstr "Ei huomautuksia"
+
+msgid "Select the person to answer this field"
+msgstr "Valitse henkilö, joka vastaa tähän kenttään"
+
+msgid "Create E-sign"
+msgstr "Luo sähköinen merkki"
+
+msgid "Update E-signs"
+msgstr "Päivitä e-kyltit"
+
+msgid "Signs"
+msgstr "Merkkejä"
+
+msgid "Add Field"
+msgstr "Lisää kenttää"
+
+msgid "Edit Field"
+msgstr "Muokkaa kenttää"
+
+msgid "Send E-sign"
+msgstr "Lähetä e-merkki"
+
+msgid "E-sign Submitted."
+msgstr "E-merkki lähetetty."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Sinulla ei ole oikeuksia lähettää sähköisiä kylttejä."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Sinulla ei tällä hetkellä ole omia E-merkkejä"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Keskeneräiset e-tunnuksesi"
+
+msgid "Your Completed E-signs"
+msgstr "Valmiit e-tunnuksesi"
+
+msgid "Your Signs"
+msgstr "Sinun merkkisi"
+
+msgid "All E-signs"
+msgstr "Kaikki e-merkit"
+
+msgid "E-sign Title"
+msgstr "E-merkin otsikko"
+
+msgid "No E-signs"
+msgstr "Ei e-merkkejä"
+
+msgid "E-Signs Library"
+msgstr "E-Signs kirjasto"
+
+msgid "No E-signs In Library"
+msgstr "Ei e-kylttejä kirjastossa"
+
+msgid "Upload E-sign Document"
+msgstr "Lataa sähköinen allekirjoitusasiakirja"
+
+msgid "Update Task"
+msgstr "Päivitä tehtävä"
+
+msgid "Create Task"
+msgstr "Luo tehtävä"
+
+msgid "You currently have no tasks of your own"
+msgstr "Sinulla ei tällä hetkellä ole omia tehtäviä"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Keskeneräiset tehtäväsi"
+
+msgid "Your Completed Tasks"
+msgstr "Suoritetut tehtäväsi"
+
+msgid "Your Tasks"
+msgstr "Sinun tehtäväsi"
+
+msgid "All Tasks"
+msgstr "Kaikki tehtävät"
+
+msgid "Task"
+msgstr "Tehtävä"
+
+msgid "Deadline"
+msgstr "Takaraja"
+
+msgid "Assignees"
+msgstr "Valtuutetut"
+
+msgid "In Progress"
+msgstr "Käynnissä"
+
+msgid "Delete task"
+msgstr "Poista tehtävä"
+
+msgid "No Tasks"
+msgstr "Ei tehtäviä"
+
+msgid "wants access"
+msgstr "haluaa pääsyn"
+
+msgid "No Answers"
+msgstr "Ei vastauksia"
+
+msgid "Select Field Type"
+msgstr "Valitse kentätyyppi"
+
+msgid "Text Only"
+msgstr "Vain tekstiä"
+
+msgid "Multiple Line Text"
+msgstr "Useiden rivien teksti"
+
+msgid "Dropdown"
+msgstr "Pudota alas"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "valintaruudut"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Treffi"
+
+msgid "Time"
+msgstr "Aika"
+
+msgid "Yes/No"
+msgstr "Kyllä ei"
+
+msgid "Number"
+msgstr "Määrä"
+
+msgid "Access Denied"
+msgstr "Pääsy evätty"
+
+msgid "You don't have access to this case."
+msgstr "Sinulla ei ole pääsyä tähän tapaukseen."
+
+msgid "Imports"
+msgstr "Tuonti"
+
+msgid "View import"
+msgstr "Näytä tuonti"
+
+msgid "Sessions"
+msgstr "Istunnot"
+
+msgid "Home"
+msgstr "Koti"
+
+msgid "Users"
+msgstr "käyttäjät"
+
+msgid "Library"
+msgstr "Kirjasto"
+
+msgid "Integration"
+msgstr "Liittäminen"
+
+msgid "Settings"
+msgstr "asetukset"
+
+msgid "Webhooks"
+msgstr "Verkkokoukut"
+
+msgid "Keys"
+msgstr "Avaimet"
+
+msgid "Feed Templates"
+msgstr "Feed-mallit"
+
+msgid "Form Templates"
+msgstr "Lomakemallit"
+
+msgid "E-sign Templates"
+msgstr "Sähköisen allekirjoituksen mallit"
+
+msgid "Task Templates"
+msgstr "Tehtävämallit"
+
+msgid "Dashboard"
+msgstr "kojelauta"
+
+msgid "Payments"
+msgstr "Maksut"
+
+msgid "From"
+msgstr "alkaen"
+
+msgid "To"
+msgstr "jotta"
+
+msgid "System"
+msgstr "Järjestelmä"
+
+msgid "User Intake"
+msgstr "Käyttäjän otto"
+
+msgid "Custom Fields"
+msgstr "Mukautetut kentät"
+
+msgid "After Actions"
+msgstr "Toimien jälkeen"
+
+msgid "Advance Settings"
+msgstr "Lisäasetukset"
+
+msgid "Label Name"
+msgstr "Label Name"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Tag ID"
+msgstr "Tunnisteen tunnus"
+
+msgid "Have many users?"
+msgstr "Onko paljon käyttäjiä?"
+
+msgid "Import users"
+msgstr "Tuo käyttäjät"
+
+msgid "or"
+msgstr "tai"
+
+msgid "Send them a signup link."
+msgstr "Lähetä heille ilmoittautumislinkki."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Aloitetaan antamalla sähköpostiosoite tai puhelinnumero"
+
+msgid "Phone"
+msgstr "Puhelin"
+
+msgid "Invalid phone number entered"
+msgstr "Annettu virheellinen puhelinnumero"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Tarra kotelon löytämiseksi helposti. sitä ei voi muuttaa myöhemmin"
+
+msgid "Visibility:"
+msgstr "näkyvyys:"
+
+msgid "Who can use this template"
+msgstr "Kuka voi käyttää tätä mallia"
+
+msgid "One time"
+msgstr "Kerran"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Anna voimassa olevat maksutiedot ennen kuin jatkat"
+
+msgid "Add Payment"
+msgstr "Lisää maksu"
+
+msgid "Repeat every:"
+msgstr "Toista jokainen:"
+
+msgid "Let's get started"
+msgstr "Aloitetaan"
+
+msgid "Take me there"
+msgstr "Vie minut sinne"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Onboarding"
+msgstr "Perehdytys"
+
+msgid "Created on"
+msgstr "Luotu"
+
+msgid "Expires on"
+msgstr "Vanhenee"
+
+msgid "No announcements yet."
+msgstr "Ei vielä ilmoituksia."
+
+msgid "Add Announcement"
+msgstr "Lisää ilmoitus"
+
+msgid "Edit Announcement"
+msgstr "Muokkaa ilmoitusta"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Päivämäärän ja kellonajan tulee olla vähintään tunti eteenpäin"
+
+msgid "Delete Date"
+msgstr "Poista päivämäärä"
+
+msgid "Delete Time"
+msgstr "Poista aika"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "No Users Found"
+msgstr "Käyttäjiä ei löytynyt"
+
+msgid "No role selected"
+msgstr "Ei roolia valittu"
+
+msgid "No permissions added!"
+msgstr "Lisenssiä ei lisätty!"
+
+msgid "ASSIGNED USERS"
+msgstr "MÄÄRÄTYT KÄYTTÄJÄT"
+
+msgid "CASE PERMISSIONS"
+msgstr "TAPAUKSEN SALLITTAMINEN"
+
+msgid "User ID"
+msgstr "käyttäjätunnus"
+
+msgid "Role"
+msgstr "Rooli"
+
+msgid "remove"
+msgstr "Poista"
+
+msgid "Assign User"
+msgstr "Määritä käyttäjä"
+
+msgid "User"
+msgstr "Käyttäjä"
+
+msgid "ADD USER"
+msgstr "LISÄÄ KÄYTTÄJÄ"
+
+msgid "Email user about case assignment"
+msgstr "Sähköpostin käyttäjää tapauksen määrityksestä"
+
+msgid "Keyword"
+msgstr "avainsana"
+
+msgid "No cases found."
+msgstr "Tapauksia ei löytynyt."
+
+msgid "Create a case for a business"
+msgstr "Luo tapaus yritykselle"
+
+msgid "Case ID"
+msgstr "Tapaus tunnus"
+
+msgid "Created On"
+msgstr "Luotu"
+
+msgid "Case Status"
+msgstr "Tapaustilanne"
+
+msgid "Case Type"
+msgstr "Asian tyyppi"
+
+msgid "Assign Users"
+msgstr "Määritä käyttäjät"
+
+msgid "No cases found"
+msgstr "Tapauksia ei löytynyt"
+
+msgid "Have many cases?"
+msgstr "Onko monta tapausta?"
+
+msgid "Click here to import cases."
+msgstr "Napsauta tästä tuodaksesi tapauksia."
+
+msgid "No status selected"
+msgstr "Valitusta tilasta ei ole"
+
+msgid "No type selected"
+msgstr "Tyyppiä ei ole valittu"
+
+msgid "Case Info"
+msgstr "Case Info"
+
+msgid "About"
+msgstr "Noin"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Pysyvä etiketti kotelon löytämiseksi helposti. (a-z, 0-9, -, /) ovat "
+"sallittuja"
+
+msgid "Case Types"
+msgstr "Tapaustyypit"
+
+msgid "Click"
+msgstr "Klikkaus"
+
+msgid "to edit case types"
+msgstr "tapaustyyppien muokkaamiseen"
+
+msgid "No Type selected"
+msgstr "Tyyppiä ei ole valittu"
+
+msgid "Case not found!"
+msgstr "Tapa ei löydy!"
+
+msgid "Media Size"
+msgstr "Median koko"
+
+msgid "All statistics"
+msgstr "Kaikki tilastot"
+
+msgid "Import not found."
+msgstr "Tuontia ei löydy."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Tiedoston käsittely epäonnistui. Varmista, että se on CSV-tiedostotyyppi ja "
+"sisältää oikeat otsikot"
+
+msgid "Data"
+msgstr "Tiedot"
+
+msgid "No Imports yet."
+msgstr "Ei vielä tuontia."
+
+msgid "Source"
+msgstr "Lähde"
+
+msgid "Stats"
+msgstr "Tilastot"
+
+msgid "Passed:"
+msgstr "Hyväksytty:"
+
+msgid "Failed:"
+msgstr "Epäonnistui:"
+
+msgid "Total:"
+msgstr "Kaikki yhteensä:"
+
+msgid "Add Imports"
+msgstr "Lisää tuonti"
+
+msgid "Download Sample"
+msgstr "Lataa näyte"
+
+msgid "Choose a file"
+msgstr "Valitse tiedosto"
+
+msgid "Edit Key"
+msgstr "Muokkaa avainta"
+
+msgid "Add Key"
+msgstr "Lisää avain"
+
+msgid "No Keys yet."
+msgstr "Ei vielä avaimia."
+
+msgid "Source CIDR"
+msgstr "Lähde CIDR"
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "is invalid."
+msgstr "on väärä."
+
+msgid "Secret Key"
+msgstr "Salainen avain"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr "Muista kopioida uusi salainen avain nyt. Et voi nähdä sitä uudelleen!"
+
+msgid "Edit Webhook"
+msgstr "Muokkaa Webhookia"
+
+msgid "Add Webhook"
+msgstr "Lisää Webhook"
+
+msgid "No event selected"
+msgstr "Ei tapahtumia valittu"
+
+msgid "No Webhooks yet."
+msgstr "Ei vielä verkkokoukkuja."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Salainen verkkokoukku"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Muista kopioida uusi salainen verkkokoukku nyt. Et voi nähdä sitä uudelleen!"
+
+msgid "Sign In"
+msgstr "Kirjaudu sisään"
+
+msgid "Login in account page."
+msgstr "Kirjaudu tilille -sivulla."
+
+msgid "Edit form builder"
+msgstr "Muokkaa lomakkeiden rakennustyökalua"
+
+msgid "Delete form"
+msgstr "Poista lomake"
+
+msgid "No forms yet."
+msgstr "Ei lomakkeita vielä."
+
+msgid "Intake Forms"
+msgstr "Saantilomakkeet"
+
+msgid "Upload Intake Form Document"
+msgstr "Lataa vastaanottolomake"
+
+msgid "Add Intake Form"
+msgstr "Lisää sisäänottolomake"
+
+msgid "Edit Intake Form"
+msgstr "Muokkaa sisäänottolomaketta"
+
+msgid "Show Media"
+msgstr "Näytä tiedotusvälineet"
+
+msgid "Add Post"
+msgstr "Lisää viesti"
+
+msgid "Edit Post"
+msgstr "Muokkaa viestiä"
+
+msgid "Files Amount"
+msgstr "Tiedostojen määrä"
+
+msgid "No Feed Templates yet."
+msgstr "Ei syöttömalleja vielä."
+
+msgid "Post Name"
+msgstr "Postin nimi"
+
+msgid "Post Message"
+msgstr "Lähetä viesti"
+
+msgid "Processing media ..."
+msgstr "Käsitellään mediaa ..."
+
+msgid "Download original file"
+msgstr "Lataa alkuperäinen tiedosto"
+
+msgid "Could not display media"
+msgstr "Mediaa ei voitu näyttää"
+
+msgid "No locations found."
+msgstr "Paikkoja ei löytynyt."
+
+msgid "Main Office"
+msgstr "Pääkonttori"
+
+msgid "Location Name"
+msgstr "Paikannimi"
+
+msgid "Delete e-sign"
+msgstr "Poista sähköinen merkki"
+
+msgid "No e-signs yet."
+msgstr "Ei vielä sähköisiä merkkejä."
+
+msgid "Subtasks Count"
+msgstr "Alatehtävien määrä"
+
+msgid "No tasks yet."
+msgstr "Ei vielä tehtäviä."
+
+msgid "Invoice ID"
+msgstr "Laskun tunnus"
+
+msgid "Total"
+msgstr "Kaikki yhteensä"
+
+msgid "Refund"
+msgstr "Maksun palautus"
+
+msgid "No invoices yet."
+msgstr "Ei vielä laskuja."
+
+msgid "Refund Reason"
+msgstr "Hyvityksen syy"
+
+msgid "Duplicate charge"
+msgstr "Kaksoisveloitus"
+
+msgid "Fraudulent charge"
+msgstr "Vilpillinen maksu"
+
+msgid "Requested by customer"
+msgstr "Asiakkaan pyynnöstä"
+
+msgid "On Board"
+msgstr "Kyydissä"
+
+msgid "Stripe"
+msgstr "Raita"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Roolitiedot"
+
+msgid "It cannot be changed later"
+msgstr "Sitä ei voi muuttaa myöhemmin"
+
+msgid "Role Permissions"
+msgstr "Rooliluvat"
+
+msgid "e-signs"
+msgstr "e-kyltit"
+
+msgid "on"
+msgstr "päällä"
+
+msgid "Allowed File Sizes"
+msgstr "Sallitut tiedostokoot"
+
+msgid "Create"
+msgstr "Luoda"
+
+msgid "Creating..."
+msgstr "Luominen ..."
+
+msgid "Modules"
+msgstr "moduulit"
+
+msgid "Roles"
+msgstr "roolit"
+
+msgid "Profile information"
+msgstr "Profiilin tiedot"
+
+msgid "No role found."
+msgstr "Roolia ei löytynyt."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Kun tapaus on luotu, määritä nämä käyttäjät automaattisesti"
+
+msgid "Remove All"
+msgstr "Poista kaikki"
+
+msgid "User Name"
+msgstr "Käyttäjänimi"
+
+msgid "Notify"
+msgstr "Ilmoittaa"
+
+msgid "Host User"
+msgstr "Isäntäkäyttäjä"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Kun käyttäjä on määritetty tapaukseen, mallit lisätään automaattisesti"
+
+msgid "No post selected"
+msgstr "Viestiä ei ole valittu"
+
+msgid "No form selected"
+msgstr "Lomaketta ei ole valittu"
+
+msgid "No e-sign selected"
+msgstr "Sähköistä kylttiä ei ole valittu"
+
+msgid "Templates"
+msgstr "Mallit"
+
+msgid "Add Templates"
+msgstr "Lisää malleja"
+
+msgid "Idle Cases"
+msgstr "Käyttämättömät kotelot"
+
+msgid "When a case is idle, post this message"
+msgstr "Kun tapaus on käyttämättömänä, lähetä tämä viesti"
+
+msgid "No case type selected"
+msgstr "Tapaustyyppiä ei ole valittu"
+
+msgid "Idle Days"
+msgstr "Tyhjäpäivät"
+
+msgid "Post Id"
+msgstr "Viestitunnus"
+
+msgid "Set Idle Message"
+msgstr "Aseta tyhjäkäynnistysviesti"
+
+msgid "No task selected"
+msgstr "Tehtävää ei ole valittu"
+
+msgid "No operation order selected"
+msgstr "Toimintajärjestystä ei ole valittu"
+
+msgid "Operation Order"
+msgstr "Toimintamääräys"
+
+msgid "Add Templates to Assign Users"
+msgstr "Lisää malleja käyttäjien määrittämiseen"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Tapauslomake"
+
+msgid "User Form"
+msgstr "Käyttäjälomake"
+
+msgid "Notes Form"
+msgstr "Muistiinpanot-lomake"
+
+msgid "Defaults"
+msgstr "Oletukset"
+
+msgid "Required"
+msgstr "Edellytetään"
+
+msgid "Public User Signup link:"
+msgstr "Julkinen käyttäjän kirjautumislinkki:"
+
+msgid "Design Settings"
+msgstr "Suunnitteluasetukset"
+
+msgid "Favicon:"
+msgstr "favicon:"
+
+msgid "Change file"
+msgstr "Vaihda tiedosto"
+
+msgid "Delete Favicon"
+msgstr "Poista Favicon"
+
+msgid "Logo:"
+msgstr "Logo:"
+
+msgid "Delete Logo"
+msgstr "Poista logo"
+
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+msgid "Recommended Colors:"
+msgstr "Suositellut värit:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "asettaa uudelleen"
+
+msgid "Background Color"
+msgstr "Taustaväri"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Yritystiedot"
+
+msgid "Website"
+msgstr "Verkkosivusto"
+
+msgid "Terms of Use URL"
+msgstr "Käyttöehdot URL"
+
+msgid "User Signup"
+msgstr "Käyttäjän kirjautuminen"
+
+msgid "Allow Signup"
+msgstr "Salli rekisteröityminen"
+
+msgid "Auto Create Case"
+msgstr "Luo kotelo automaattisesti"
+
+msgid "Case User Role"
+msgstr "Tapauksen käyttäjän rooli"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Analytics-avain"
+
+msgid "delete"
+msgstr "poistaa"
+
+msgid "Crop Image"
+msgstr "Rajaa kuvaa"
+
+msgid "No Filter"
+msgstr "Ei filtteriä"
+
+msgid "No logs requested."
+msgstr "Ei lokeja pyydetty."
+
+msgid "Logs list is empty."
+msgstr "Lokitietue on tyhjä."
+
+msgid "Download CSV"
+msgstr "Lataa CSV"
+
+msgid "Request Logs"
+msgstr "Pyydä lokit"
+
+msgid "Log Type"
+msgstr "Lokityyppi"
+
+msgid "Filter"
+msgstr "Suodattaa"
+
+msgid "Select a case"
+msgstr "Valitse tapaus"
+
+msgid "Enter the email address"
+msgstr "Anna sähköpostiosoite"
+
+msgid "Module"
+msgstr "Moduuli"
+
+msgid "Header (3 max)"
+msgstr "Otsikko (enintään 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Kun käyttäjä liittyy sovellukseen, pyydä häntä jakamaan seuraavat tiedot"
+
+msgid "No user intake found."
+msgstr "Käyttäjäkohtaa ei löytynyt."
+
+msgid "User Type"
+msgstr "Käyttäjätyyppi"
+
+msgid "Intake Form"
+msgstr "Saantilomake"
+
+msgid "Complete After"
+msgstr "Täydellinen jälkeen"
+
+msgid "No user type selected"
+msgstr "Käyttäjätyyppiä ei ole valittu"
+
+msgid "No intake form selected"
+msgstr "Saantimuotoa ei ole valittu"
+
+msgid "Complete After Date"
+msgstr "Täydellinen päivämäärä"
+
+msgid "Complete After Time"
+msgstr "Valmis Ajan jälkeen"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Päivämäärän ja kellonajan tulee olla pienempi tai yhtä suuri kuin nyt"
+
+msgid "Comment ct"
+msgstr "Kommentti ct"
+
+msgid "View Ticket"
+msgstr "Näytä lippu"
+
+msgid "Ticket"
+msgstr "Lippu"
+
+msgid "No tickets yet."
+msgstr "Ei vielä lippuja."
+
+msgid "User not found."
+msgstr "Käyttäjää ei löydy."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Käyttäjä voi muokata tilitietojaan isäntäkäyttäjän attribuutteja lukuun "
+"ottamatta."
+
+msgid "Contact"
+msgstr "Ottaa yhteyttä"
+
+msgid "Phone number"
+msgstr "Puhelinnumero"
+
+msgid "Zip Postal Code"
+msgstr "Postinumero"
+
+msgid "Host User Attributes"
+msgstr "Isäntäkäyttäjän attribuutit"
+
+msgid "User Status"
+msgstr "Käyttäjän tila"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Pysyvä tarra, jonka avulla käyttäjä löytyy helposti. (a-z, 0-9, -, /) ovat "
+"sallittuja"
+
+msgid "App only User Intake Fields"
+msgstr "Vain sovelluksen käyttäjien sisääntulokentät"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP VAIN MUKAUTETUT ALAT"
+
+msgid "s found."
+msgstr "löytyi."
+
+msgid "Created Date"
+msgstr "Luotu päivämäärä"
+
+msgid "View Cases"
+msgstr "Näytä tapaukset"
+
+msgid "VIEW CASES"
+msgstr "KATSO TAPAUKSET"
+
+msgid "Get Started"
+msgstr "Aloittaa"
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Email is not valid."
+msgstr "Sähköposti ei ole kelvollinen."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive antaa sinulle ja asiakkaallesi"
+
+msgid "work together"
+msgstr "työskennellä yhdessä"
+
+msgid "at any time, in any place."
+msgstr "milloin tahansa, missä tahansa paikassa."
+
+msgid "Explore"
+msgstr "Tutkia"
+
+msgid "Pricing"
+msgstr "Hinnoittelu"
+
+msgid "Support & Docs"
+msgstr "Tuki ja asiakirjat"
+
+msgid "FAQ"
+msgstr "Ohje"
+
+msgid "Failed to validate if you are human"
+msgstr "Ihmisen luominen epäonnistui"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "Ilmoita minulle, kun se on valmis!"
+
+msgid "Thank You!"
+msgstr "Kiitos!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Ilmoitamme sinulle, kun sovellus on valmis"
+
+msgid "Most popular"
+msgstr "Suosituin"
+
+msgid "All languages"
+msgstr "Kaikki kielet"
+
+msgid "Oops, Something went wrong."
+msgstr "Hups! Jotain meni pieleen."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Hups! Jotain meni pieleen. Tiimillemme on ilmoitettu. Yritä uudelleen "
+"myöhemmin."
+
+msgid "Support Documentation"
+msgstr "Tukidokumentaatio"
+
+msgid "All Categories"
+msgstr "kaikki kategoriat"
+
+msgid "Contents"
+msgstr "Sisällys"
+
+msgid "Related Articles"
+msgstr "Aiheeseen liittyvät artikkelit"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr "Aloita: prosessit, parhaat käytännöt, asennusoppaat ja paljon muuta!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Löydä kaikki mitä tarvitset töihin pääsemiseksi CaseActivesta."
+
+msgid "All case communication in one spot"
+msgstr "Kaikki tapausviestintä yhdessä paikassa"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Keskustele, lähetä päivityksiä, vastaa kysymyksiin, tee muistiinpanoja, "
+"kommentteja ja pidä kaikki keskustelut merkittyinä reaaliaikaisilla "
+"sähköposti- ja SMS-ilmoituksilla."
+
+msgid "Share with confidence"
+msgstr "Jaa luottamuksellisesti"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Jaa dokumentteja ja valokuvia asiakkaiden ja tiimin jäsenten välillä "
+"kaikilla laitteilla, joten kaikki ovat ajan tasalla."
+
+msgid "Take it on the go"
+msgstr "Ota se liikkeelle"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Käytä mobiililaitteita, kuten tablet-laitteita ja älypuhelimia, yhteistyöhön"
+" tärkeimmissä yksityiskohdissa, keskustelemaan tärkeimmistä ongelmista, "
+"vaihtamaan asiakirjoja ja kartoittamaan tapauksen etenemistä reaaliajassa."
+
+msgid "Immediate records access"
+msgstr "Välitön tallenteiden käyttö"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Valtuutetut käyttäjät pääsevät nopeasti asiakastietoihin ja tapaustietoihin "
+"(mukaan lukien nykyiset, aiemmat, avoimet, suljetut ja vireillä olevat "
+"tapaukset) - kaikki yhden portaalin kautta."
+
+msgid "Automatic timezone conversion"
+msgstr "Automaattinen aikavyöhykkeen muuntaminen"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Olit sitten matkalla vai oleskeletko toisessa paikassa, olet synkronoituna "
+"aikavyöhykekeskustelujen hallintajärjestelmämme kanssa."
+
+msgid "Track Events"
+msgstr "Seuraa tapahtumia"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Suunnittele kokoukset nopeasti, seuraa tulevia tapahtumia ja kutsu "
+"asiakkaita ja tiimin jäseniä osallistujiksi."
+
+msgid "Video Conferencing"
+msgstr "Videoneuvottelu"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Yhdistä asiakkaiden ja tiimin jäsenten kanssa live-chat-keskustelujen avulla"
+" entistä enemmän vuorovaikutteisuutta varten."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatisoi tehtävät, kun tapaus luodaan tai tapaukseen määrätään käyttäjä."
+
+msgid "Automated Alerts"
+msgstr "Automaattiset hälytykset"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Haluatko toivottaa asiakkaillesi hyvää syntymäpäivää? Aseta automaattinen "
+"viesti sekä entisille että nykyisille asiakkaille heidän erityisenä päivänä!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Asiakkaan tietojen pitäminen ajan tasalla"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Asiakkaat voivat muokata profiiliaan päivitetyillä tiedoilla, valokuvilla, "
+"salasanoilla ja tiliasetuksilla."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Kysy, saat vastauksia."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Luo mukautettuja lomakkeita ja lähetä ne asiakkaille täydentämistä varten. "
+"Kerää tärkeitä tietoja, lähetä poistumistutkimuksia ja hanki kaikki "
+"tarvitsemasi tiedot, jotta työtä voi tehdä hyvin!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Cain &amp; Companyn myyntijohtaja"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Tee asiakkaan laskutus mahdollisimman suoraviivaisesti verkkolaskujen ja "
+"maksujen avulla."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Rakastamme tapauksen laskutusta, koska sen avulla asiakkaat näkevät, mitä he"
+" maksavat."
+
+msgid ", Vice President of Sky Digital"
+msgstr "Sky Digitalin johtaja"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Nauti sähköisen allekirjoituksen helppoudesta"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Allekirjoita kaikki asiakirjat sähköisesti DocSignin kautta lataamien "
+"asiakirjojen ja digitaalisten asiakaspyyntöjen sekä vahvistusten avulla."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Lataa dokumentti, merkitse se allekirjoitettavaksi, jonka jälkeen asiakas "
+"kirjautuu sisään ja allekirjoittaa sen sähköisesti. Kaikki tehdään ilman, "
+"että asiakkaan tarvitse tulla rakennukseemme. Tämä on kätevää asiakkaille, "
+"jotka eivät ole lähellä toimistoa tai jotka asuvat ulkomailla."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Pääomasijoitustoiminnan johtaja"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Paranna järjestelmääsi. Vähemmän työtä, enemmän tuloksia."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Käytä itsepalvelun hallintatoimintoa"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Ota täydellinen hallinta CaseActive-hallintaohjelmistostasi itse alustalta."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr ""
+"Yhdistä vaivattomasti olemassa oleva järjestelmä CaseActive-laitteeseen"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integroi patentoitu sovellusliittymämme luodaksesi tapauksia "
+"automaattisesti, määrittääksesi käyttäjiä ja luodaksesi raportteja "
+"järjestelmän syötteiden perusteella."
+
+msgid "Acting as a"
+msgstr "Toimiminen a"
+
+msgid "virtual administrative assistant"
+msgstr "virtuaalinen hallinnollinen avustaja"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive antaa sinulle tehostetun asiakirjan ja median käsittelyn, "
+"yksityisen"
+
+msgid "client-to-customer communications"
+msgstr "asiakas-asiakas -viestintä"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "tapahtuman ajoitus ja vaiheittainen tapausprosessointi."
+
+msgid "Self-Serve Administration"
+msgstr "Itsepalveluhallinto"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Toimimalla virtuaalisena hallintoavustajana CaseActive antaa sinulle "
+"virtaviivaistetun asiakirjojen ja median käsittelyn, yksityisen "
+"asiakassuhdeviestinnän, tapahtumien ajoituksen ja vaiheittaisten tapausten "
+"käsittelyn."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Hallinnoi käyttäjän kirjautumisia ja tapausten luomista"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Valvo suoraan käyttäjätilien luomista valtuuttamalla heidän käyttöoikeutensa"
+" tapauskohtaisesti. Hallitse tapausten luomista, etenemistä ja lopettamista "
+"raportoimalla kaikin tavoin."
+
+msgid "View Caseactive Analytics"
+msgstr "Näytä Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Katso, miten tapaus etenee, tapausten lukumäärä on onnistuneesti lopetettu, "
+"ja katso vastausajat CaseActive-perusteellisen analyysimoduulin kautta. "
+"Tieto on voimaa, ja olemme antaneet sinulle kaiken, mitä sinun on oltava "
+"tietoinen omista projekteistasi."
+
+msgid "Monitor User Logs"
+msgstr "Seuraa käyttäjän lokit"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Pidä silmällä asiakkaan ja tiimin jäsenten kirjautumisia ja "
+"alustaympäristöä, jotta varmistetaan, että kaikki heidän toimintansa ovat "
+"sallittuja tapausparametrien sisällä ja että kaikki jäsenet suorittavat "
+"tehtävänsä vaatimusten mukaisesti."
+
+msgid "Employ Advanced Searches"
+msgstr "Käytä Tarkennettu hakuja"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Löydä juuri tarvitsemasi, kun tarvitset sitä. Etsi tapauksia käyttäjän ja "
+"asiakkaan nimien, avainsanojen, aikataulujen, ladattujen asiakirjojen ja "
+"paljon muun mukaan!"
+
+msgid "Create Custom Fields"
+msgstr "Luo mukautettuja kenttiä"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Luo erityisiä tapauskenttiä asiakkaan ja tiimin jäsenten syöttämistä varten "
+"ja kerää tarvitsemasi tiedot kaikilta osallistujilta. Tee kotelon "
+"käyttöliittymä ainutlaatuiseksi yrityksellesi ja brändillesi!"
+
+msgid "Create Custom Templates"
+msgstr "Luo mukautettuja malleja"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Kehitä valtava valikoima räätälöityjä lomakkeita ja malleja jakeluun ja "
+"täydentämiseen sekä tapauksen aikana että sen jälkeen (kuten asiakkaan "
+"poistumistutkimukset). Minkä tahansa muodon tarvitset, voit luoda!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "As-you-Go -laskutus"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Olemme täällä auttamassa! Ota yhteyttä, jos sinulla on vielä kysymyksiä, ja "
+"vastaamme kahden työpäivän kuluessa."
+
+msgid "* Email is not valid."
+msgstr "* Sähköposti ei ole kelvollinen."
+
+msgid "Low"
+msgstr "Matala"
+
+msgid "Medium"
+msgstr "keskikokoinen"
+
+msgid "High"
+msgstr "Korkea"
+
+msgid "Critical"
+msgstr "kriittinen"
+
+msgid "Choose Importance"
+msgstr "Valitse Tärkeys"
+
+msgid "Department"
+msgstr "osasto"
+
+msgid "Sales"
+msgstr "Myynti"
+
+msgid "Other"
+msgstr "muut"
+
+msgid "Choose Department"
+msgstr "Valitse osasto"
+
+msgid "Loading"
+msgstr "Ladataan"
+
+msgid "Importance"
+msgstr "Merkitys"
+
+msgid "Send A New Message"
+msgstr "Lähetä uusi viesti"
+
+msgid "Send message"
+msgstr "Lähetä viesti"
+
+msgid "Answers to Questions"
+msgstr "Vastauksia kysymyksiin"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Onko kysymyksiä? Lue lisäohjeita vastauksistamme asiakkaiden kyselyihin ja "
+"löydä vastaukset omiin."
+
+msgid "How secure is CaseActive?"
+msgstr "Kuinka turvallinen CaseActive on?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive käyttää sotilas- ja pankkitason 128-bittistä SSL-salausta "
+"tiedonsiirtoon ja 256-bittistä AES-salausta levossa oleville tiedoille. "
+"Jokaisella CaseActive-esiintymällä on luotu ainutlaatuinen avain, joka "
+"tarjoaa lisäsuojaustasoa yrityksellesi. Emme koskaan anna toisen yrityksen "
+"käyttää tietokantaasi tai tallennusjärjestelmääsi."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Minulla on olemassa järjestelmä. Voiko CaseActive toimia nykyisen "
+"järjestelmäni kanssa?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Kyllä, voit integroida patentoidun API- tai tuontimoduulimme luodaksesi "
+"automaattisesti tapauksia, määrittääksesi käyttäjiä ja luodaksesi raportteja"
+" järjestelmäsyötteesi perusteella."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Meillä on asiakkaita kaikkialla maailmassa. Onko CaseActive saatavilla "
+"muilla kielillä?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Kyllä, CaseActive-sovellus ja viestintä voidaan kääntää yli 60 kielelle, "
+"mukaan lukien mandariinikiinaksi, espanjaksi, hindiksi ja venäjäksi sekä "
+"englanniksi."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Voinko lisätä logon tai mukauttaa CaseActivea millään tavalla?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Ehdottomasti! CaseActive on suunniteltu sinua ajatellen. Hallintapaneelin "
+"asetussivulla voit ladata oman henkilökohtaisen värisi ja valita yrityksesi "
+"värit."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Onko CaseActive yhteensopiva minkä tahansa laitteen (PC, Mac, tabletti ja "
+"mobiili) kanssa?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive on responsiivinen verkkosovellus. Se toimii missä tahansa "
+"verkkoselaimessa, kuten Internet Explorerissa, Firefoxissa, Safarissa tai "
+"Chromessa jne. Tämä tarkoittaa, että käyttämäsi laitteen tyypillä (PC, Mac, "
+"tabletti ja mobiili) ei ole merkitystä. Avaa vain verkkoselain, kirjaudu "
+"sisään CaseActive-tilillesi ja olet valmis."
+
+msgid "How many clients can I have?"
+msgstr "Kuinka monta asiakasta minulla voi olla?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Sinulta laskutetaan henkilökunnan paikkakohtaisesti kuukaudessa. Sinulla voi"
+" olla rajattomasti asiakaskäyttäjiä."
+
+msgid "Enhance User Experience"
+msgstr "Paranna käyttökokemusta"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Ei ole vähimmäismaksuja eikä ennakkositoumuksia. Maksat vain henkilökunnan "
+"paikasta kuukaudessa."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "kuukaudessa"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Kaikki mitä tarvitset aloittaaksesi. 3 istuinta sisältyy hintaan."
+
+msgid "Business"
+msgstr "Liiketoimintaa"
+
+msgid "Popular"
+msgstr "Suosittu"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Suosituin suunnitelmamme. 4 istumapaikkaa sisältyy hintaan."
+
+msgid "Enterprise"
+msgstr "Yritys"
+
+msgid "Contact sales for pricing"
+msgstr "Ota yhteyttä myyntiin hintaa varten"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Mukautettu hinnoittelu, lisäominaisuudet, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Ota yhteyttä myyntiin"
+
+msgid "Overview"
+msgstr "Yleiskatsaus"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Kommunikoi ja jaa asiakirjoja asiakkaidesi kanssa"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Suunnittele toistuvat tapahtumat ja tapaamiset"
+
+msgid "Fully customize your form to generate data"
+msgstr "Mukauta lomake kokonaan tietojen luomiseksi"
+
+msgid "Keep track of case progression"
+msgstr "Seuraa tapauksen etenemistä"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Pyydä yhteensopivia sähköisiä allekirjoituksia useilta käyttäjiltä"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Luo lasku asiakkaasi tarkasteltavaksi tai maksettavaksi"
+
+msgid "ToDos"
+msgstr "Tehtävät"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Antaa jokaisen tietää, mitä on tulossa ja mitä on luvassa"
+
+msgid "Auto notify the user when something is due"
+msgstr "Ilmoita automaattisesti käyttäjälle, kun jokin on erääntynyt"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Lisää mukautettuja tapauskenttiä kaikkiin tapauksiin"
+
+msgid "Custom Branding"
+msgstr "Mukautettu brändäys"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Tee sovelluksestasi ainutlaatuinen logo- ja värityyleillä"
+
+msgid "Access to customer support"
+msgstr "Pääsy asiakastukeen"
+
+msgid "Storage"
+msgstr "Varastointi"
+
+msgid "Unlimited"
+msgstr "Rajoittamaton"
+
+msgid "Additional Users Seats"
+msgstr "Lisäkäyttäjien paikat"
+
+msgid "N/A"
+msgstr "Ei käytössä"
+
+msgid "$83.34"
+msgstr "83,34 dollaria"
+
+msgid "Convo with recording"
+msgstr "Keskustelu äänityksen kanssa"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video- tai äänikeskustelu ja tallenne koteloon"
+
+msgid "API Access"
+msgstr "API-käyttöoikeus"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatisoi tehtävät API:n avulla"
+
+msgid "Module Templates"
+msgstr "Moduulimallit"
+
+msgid "Create a standard template and reuse it"
+msgstr "Luo vakiomalli ja käytä sitä uudelleen"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Suorita toiminto automaattisesti, kun tapaus tai määritetty tapaus "
+"käynnistetään"
+
+msgid "Newsletter"
+msgstr "Uutiskirje"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Lähetä asiakkaille yleisiä, syntymäpäivä- tai lomaviestejä (tulossa pian)"
+
+msgid "Encryption at rest"
+msgstr "Salaus levossa"
+
+msgid "Protects your data from system compromise"
+msgstr "Suojaa tietosi järjestelmän vaarantumiselta"
+
+msgid "Encryption in transit"
+msgstr "Salaus siirrossa"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Suojaa tietojasi, jos viestintää siepataan"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "SAML-pohjainen kertakirjautuminen (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Vastaa tapahtumiin reaaliajassa"
+
+msgid "Seamless Collaboration"
+msgstr "Saumaton yhteistyö"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive virtaviivaistaa digitaalista yhteistyötä yrityksesi ja "
+"asiakkaiden välillä – konsultaatiosta ratkaisuun, kaikki yhdellä alustalla."
+
+msgid "Take a tour"
+msgstr "Tutustu kiertueeseen"
+
+msgid "Stay Connected"
+msgstr "Pysyä yhteydessä"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Pidä välitön yhteys tiimin jäseniin käyttämällä CaseActive-käyttäjän "
+"käyttäjäystävällistä käyttöliittymää yhden luukun keskittimenä asiakas- ja "
+"tapaushallinnassa."
+
+msgid "Connect"
+msgstr "Kytkeä"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed pitää sinut ajan tasalla asiakkaiden kanssa."
+
+msgid "Schedule"
+msgstr "Ajoittaa"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Luo tapahtumia, kutsu osallistujia ja seuraa kalenteriasi."
+
+msgid "Call"
+msgstr "Soittaa puhelimella"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Osallistu live-videoneuvottelupuheluihin milloin tahansa, missä tahansa."
+
+msgid "Share"
+msgstr "Jaa"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Lataa tiedostot turvallisesti, keskustele niistä ja jaa."
+
+msgid "Powerful Case Management"
+msgstr "Tehokas tapausten hallinta"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Out-of-the-Box-toiminnot"
+
+msgid "Easily assign individuals"
+msgstr "Määritä yksilöt helposti"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "tai tiimit ja toimimaan yhteistyössä asiakkaiden kanssa."
+
+msgid "Manage user groups"
+msgstr "Hallitse käyttäjäryhmiä"
+
+msgid "and customize access permissions."
+msgstr "ja muokkaa käyttöoikeuksia."
+
+msgid "All data is automatically backed up"
+msgstr "Kaikki tiedot varmuuskopioidaan automaattisesti"
+
+msgid "in case a recovery is ever needed."
+msgstr "jos elpymistä tarvitaan koskaan."
+
+msgid "All information"
+msgstr "Kaikki tiedot"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "on turvallisesti salattu, mikä takaa absoluuttisen yksityisyyden."
+
+msgid "Customize"
+msgstr "muokata"
+
+msgid "with your own colors and logo."
+msgstr "omilla väreillä ja logolla."
+
+msgid "can be enabled/disabled at any time."
+msgstr "voidaan ottaa käyttöön / poistaa käytöstä milloin tahansa."
+
+msgid "Benefits of "
+msgstr "Edut"
+
+msgid "Reduction in time "
+msgstr "Ajan vähentäminen"
+
+msgid "to intake new clients"
+msgstr "ottamaan vastaan uusia asiakkaita"
+
+msgid "Minimize "
+msgstr "Minimoida"
+
+msgid "the chance of "
+msgstr "mahdollisuus"
+
+msgid "malpractice"
+msgstr "väärinkäytöstä"
+
+msgid "Better experience "
+msgstr "Parempi kokemus"
+
+msgid "for your client"
+msgstr "asiakkaallesi"
+
+msgid "Increase in caseload capacity "
+msgstr "Kasvatuskapasiteettia"
+
+msgid "per staff"
+msgstr "henkilöä kohden"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Aloita sisäänrakennetut sovellukset"
+
+msgid "All you need in one place."
+msgstr "Kaikki mitä tarvitset yhdessä paikassa."
+
+msgid "Case Feed"
+msgstr "Tapaussyöttö"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Määritä asiakkaalle, henkilöstölle ja henkilölle helposti tapaus ja "
+"osallistu turvalliseen tilaan, jonka avulla voit lähettää tapauksen "
+"edistymistä, pitää reaaliaikaista keskustelua ja videopuheluita sekä "
+"ajoittaa tapahtumia, allekirjoittaa / lähettää / ladata asiakirjoja ja "
+"paljon enemmän."
+
+msgid "Case Invoices"
+msgstr "Asian laskut"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"As-you-go -laskutuksen avulla asiakkaan laskutus on vain napsautuksen "
+"päässä, ja sen avulla voit lähettää automaattisesti luodut rahapyynnöt ja "
+"vastaanottaa suoria maksuja."
+
+msgid "Case Events"
+msgstr "Tapaustapahtumat"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Pidä tapauskalenterisi jatkuvasti järjestettynä, ajoittamalla tapahtumia, "
+"kutsumalla osallistujia, lähettämällä muistutuksia tapahtumista ja "
+"varmistaen, että kaikki pysyy oikeilla reiteillä."
+
+msgid "Case Convo"
+msgstr "Asia Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Tapaa asiakkaita ja tiimin jäseniä käytännössä ”kasvotusten” "
+"sisäänrakennetun videoneuvottelun avulla, jotta voit puhua suoraan kaikkien "
+"osallistujien kanssa."
+
+msgid "Case Forms & E-signs"
+msgstr "Tapauslomakkeet ja E-kyltit"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Mukauta tapaus lomakkeesi luomaan ainutlaatuisia malleja, jotka palvelevat "
+"erityistarpeitasi. Nämä mallit voidaan sitten jakaa asiakkaille ja tiimin "
+"jäsenille täyttämistä ja allekirjoittamista varten"
+
+msgid "Case notes"
+msgstr "Tapauksen muistiinpanot"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Pidä muistiinpanoja mukautetuilla kentillä ja liitteillä tapauksen "
+"etenemisestä nykyisille ja tuleville tiimin jäsenille"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Lataa, jaa, kommentoi ja lataa tapaukseen liittyviä tiedostoja, jotta "
+"jokaisella on viite kaikista tärkeistä yksityiskohdista, ihmisistä ja "
+"tilanteista."
+
+msgid "About Case"
+msgstr "Tietoja Case"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Anna asiakkaiden ja henkilöstön tarkastella yleisiä yksityiskohtia "
+"tapauksista, joihin he ovat osallistuneet. Voit sitten sulkea tapauksen, kun"
+" kaikki on kääritty, tai antaa joukkueen jäsenelle valtuutus tehdä niin."
+
+msgid "Plus Many More Features"
+msgstr "Plus monia muita ominaisuuksia"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Käytä itsepalveltavaa hallintaominaisuutta. Ohjaa CaseActive-"
+"hallintaohjelmisto kokonaan itse alustaan."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Yhdistä nykyinen järjestelmä vaivattomasti CaseActive-integraattoriin, joka "
+"integroi patentoitu sovellusliittymämme, luodaksesi tapauksia "
+"automaattisesti, määrittääksesi käyttäjiä ja luodaksesi raportteja "
+"järjestelmäsi syötteiden perusteella."
+
+msgid "Multi-Language Enabled:"
+msgstr "Monikielinen käytössä:"
+
+msgid "Interact with clients in"
+msgstr "Vuorovaikutuksessa asiakkaiden kanssa"
+
+msgid "70+ languages"
+msgstr "70 + kieliä"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Voitko kääntää asiakkaan äidinkielen CaseActivein kautta riippumatta siitä, "
+"työskentelevätkö ne paikallisesti tai maailmanlaajuisesti"
+
+msgid "language management system"
+msgstr "kielenhallintajärjestelmä"
+
+msgid "No more confusion or limits."
+msgstr "Ei enää sekaannusta tai rajoituksia."
+
+msgid "Let's see what others are saying"
+msgstr "Katsotaanpa, mitä muut sanovat"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Tutustu siihen, kuinka mahtavat asiakkaamme - pienistä yrityksistä "
+"yrityksiin - lisäsivät kilpailuetuaan tullessaan CaseActive-sotureiksi."
+
+msgid "SUPPORT"
+msgstr "TUKI"
+
+msgid "Everything at Your Fingertips."
+msgstr "Kaikki käden ulottuvilla."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Käynnistä CaseActive-sovelluksesi noudattamalla videopalveluamme ja "
+"mukauttamalla se tarpeidesi mukaan."
+
+msgid "What are you looking for..."
+msgstr "Mitä etsit..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Viimeksi päivitetty: 7. kesäkuuta 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive pidättää oikeuden milloin tahansa ja oman harkintansa mukaan "
+"päivittää ja muuttaa kaikkia näitä palvelusehtoja. Kun CaseActive muuttaa "
+"näitä palvelusehtoja, CaseActive muuttaa yllä olevaa &#39;Viimeksi "
+"päivitetty&#39; -päivää. Olet vastuussa säännöllisestä palvelun "
+"tarkistamisesta. Jos jatkat Palvelujen käyttöä tällaisten muutosten "
+"tekemisen jälkeen, se tarkoittaa suostumustasi sitoutua muutoksiin. Jos "
+"vastustat näiden palvelusehtojen muuttamista, ainoa ja ainoa keino on "
+"lopettaa Palvelut näiden ehtojen mukaisesti."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Nämä yleiset palveluehdot koskevat Palveluita yleensä. Jokaiseen tarjottuun "
+"Palveluun sovellettavat lisäehdot esitetään alla olevissa linkkeissä "
+"(&#39;Palvelun lisäehdot&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Palvelut:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Omistamme ohjelmistomme on palvelualusta, jota isännöimme asiakkaillemme "
+"tarjotaksemme alla yksityiskohtaisia palveluja. Palvelun tilaamiseksi sinun "
+"on suoritettava kyseisen palvelun tilauslomake ja / tai suoritettava "
+"palvelun rekisteröintiprosessi. Sinulla on oikeus käyttää vain Palveluita, "
+"jotka olet tilannut ja maksanut, ja Palveluiden käyttö edellyttää, että "
+"noudatat kaikkia sopimuksen ehtoja. Hyväksyt ja suostut siihen, että "
+"pidätämme oikeuden muuttaa Palveluita (tai niiden osaa) ajoittain ja että "
+"emme ole vastuussa sinulle tai kolmannelle osapuolelle Palvelujen "
+"muutoksista."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 CaseActive-palvelun kuvaus: CaseActive Service on CaseActive LLC: n "
+"tarjoama isäntäohjelmistopaketti asiakkaiden online-yhteistyön hallintaan. "
+"Suostumallasi liittymisprosessilla tai suorittamallasi tilauslomakkeella "
+"määritetään tilaamasi CaseActive-palvelu, tilauksen voimassaoloaika ja "
+"palkkiot, jotka sinun on maksettava CaseActive-palvelusta. CaseActive-"
+"palvelun käyttöön sovellettavat lisäehdot esitetään:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Palvelujen laajentaminen:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Voit tilata lisäpalveluita, mukaan lukien uudet palvelut, jotka CaseActive "
+"voi ajoittain tarjota, tai lisätä nykyisiä palveluitasi toteuttamalla "
+"ylimääräisen tilauslomakkeen tai liittymisprosessin osana palveluita. "
+"Jokainen uusi liittymisprosessi tai tilauslomake sisältää siihen aikaan "
+"lisättävien Palvelujen hinnan ja laskutuspäivän. Kaikiin uusiin palveluihin "
+"sovelletaan näitä yleisiä palvelusehtoja ja lisäehtoja, joita voidaan "
+"erityisesti soveltaa tällaisiin lisäpalveluihin."
+
+msgid "3. Customer Support:"
+msgstr "3. Asiakastuki:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Edellyttäen, että olet maksanut kaikki palvelumaksusi, käytämme "
+"kaupallisesti kohtuullisia ponnistuksia tarjotaksemme sinulle maksutta "
+"teknisiä tukipalveluita sinulle ja valtuutetuille käyttäjille, jotka ovat "
+"tilanneet Palvelut. Asiakaspalvelun edustaja nimitetään tapauksiin. "
+"Rajoittamattomat tapaukset hyväksytään valtuutetuilta käyttäjiltä. "
+"Tavallinen tuki on saatavana ympäri vuorokauden, lukuun ottamatta suuria "
+"vapaapäiviä, joihin kuuluvat muistopäivä, itsenäisyyspäivä, työpäivä, "
+"kiitospäivä, joulu ja uudenvuodenpäivä. Voit ottaa yhteyttä asiakastukeen "
+"käyttämällä"
+
+msgid "Contact Form"
+msgstr "Yhteydenottolomake"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Vastausaika ei saa olla pidempi kuin kaksi arkipäivää."
+
+msgid "4. Training:"
+msgstr "4. Koulutus:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Edellyttäen, että olet maksanut kaikki palvelustasi maksettavat maksut, me "
+"järjestämme etä-, live- tai nauhoitetut koulutustilaisuudet nimetyille, "
+"nimetyille ja valtuutetuille käyttäjille sekä tarjoamme oppaita, joihin "
+"pääsee verkkosivustomme Ohje ja koulutus -osiossa osoitteessa ei "
+"lisäkustannuksia. Joillekin palveluille tarjoamme joitain paikan päällä "
+"tapahtuvia koulutuksia pyynnöstä ja lisämaksusta. Ota yhteyttä käyttämällä"
+
+msgid "for more information about on-site training."
+msgstr "lisätietoja paikan päällä tapahtuvasta koulutuksesta."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Oikeudet ja rajoitukset:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Lisenssi: Jollei sopimuksen ehdoista muuta johdu ja maksamalla ajoissa "
+"kaikki tilauslomakkeessa tai liittymisprosessissa vahvistetut sovellettavat "
+"maksut, myönnämme sinulle tämän ulkopuolella yksinoikeuden, jota ei voi "
+"siirtää, rajoitetun oikeuden ja lisenssin käyttää (ja antaa valtuutettujen "
+"käyttäjien käyttää) tilaamiasi Palveluita yksinomaan sisäisiin "
+"yritystarkoituksiin."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Valtuutetut käyttäjät: Sinä (i) olet vastuussa siitä, että valtuutetut "
+"käyttäjät noudattavat sopimusta, ja (ii) on toteutettava kaupallisesti "
+"kohtuullisia toimia estääksesi luvattoman pääsyn Palveluihin tai niiden "
+"käytön, ja ilmoitettava meille välittömästi kaikesta tällaisesta "
+"luvattomasta käytöstä tai käyttää. Sinun vastuullasi on poistaa palveluiden "
+"käyttöoikeudet, jos käyttäjän tai nimetyn työntekijän valtuutettu tila "
+"muuttuu."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Vastuut ja rajoitukset: Olet vastuussa kaikista toiminnoista, joita "
+"tapahtuu käyttäjätililläsi tai valtuutetuilla käyttäjilläsi. Sinulla: (i) on"
+" yksin vastuu kaikkien Palveluihin lähettämien tietojen oikeellisuudesta, "
+"laadusta, eheydestä, laillisuudesta, luotettavuudesta ja asianmukaisuudesta;"
+" (ii) käyttämään kaupallisesti kohtuullisia pyrkimyksiä estääksesi "
+"luvattoman hallinnan tai peukaloinnin tai muun luvattoman pääsyn palveluihin"
+" tai niiden käytön ja ilmoittamalla meille viipymättä luvattomasta käytöstä "
+"tai tietoturvaloukkauksista; (iii) noudattaa kaikkia sovellettavia "
+"paikallisia, osavaltioiden, liittovaltion ja ulkomaisia lakeja (mukaan "
+"lukien yksityisyyttä ja henkilökohtaisten tai kuluttaja-asioiden tietojen "
+"suojaamista koskevat lait) käytettäessä Palveluita; iv) noudatettava "
+"soveltuvissa tapauksissa kaikkia sovellettavia luottokorttiyhdistysten "
+"sääntöjä (mukaan lukien American Express, MasterCard ja Visa); ja (v) "
+"hankkia ja ylläpitää kaikkia palveluita käyttääkseen tarvittavia "
+"tietokonelaitteita, ohjelmistoja ja viestintälaitteita sekä maksaa kaikki "
+"pääsymaksut (esim. ISP-maksut), jotka sinulle aiheutuvat Palvelujen "
+"käytöstä."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Et saa, ja sinun on varmistettava, että valtuutetut käyttäjät eivät (i) "
+"pura, muokkaa suunnittelijaa, purka tai muulla tavoin yritä salata mitä "
+"tahansa palveluihin liittyvää koodia, tai muokata, mukauttaa, luoda "
+"johdannaisteoksia, jotka perustuvat tai kääntää Palvelut; (ii) lisensoida, "
+"alilisensoida, myydä, vuokrata, luovuttaa, jakaa, osa-aikaisesti siirtää, "
+"vuokrata, lainata, jälleenmyydä voittoa varten, jakaa tai muuten "
+"kaupallisesti hyödyntää, myöntää oikeuksia tai asettaa Palvelut kolmansien "
+"osapuolten saataville; (iii) käyttää Palveluita lukuun ottamatta alla "
+"nimenomaisesti annettua lupaa tai rikkomalla sovellettavia lakeja; (iv) "
+"harjoittaa kaikkia palveluihin liittyviä laittomia tai harhaanjohtavia "
+"kaupan käytäntöjä; (v) kiertää tai estää Palvelujen tai minkä tahansa muun "
+"Ohjelmiston suojauksen tai muiden teknisten ominaisuuksien tai "
+"toimenpiteiden toteuttamisen tai yrittää millään tavalla hankkia tai "
+"saavuttaa luvaton pääsy Palveluihin tai niihin liittyviin "
+"tietokonejärjestelmiin tai verkkoihin; (vi) käyttää Palveluita loukkaavan, "
+"loukkaavan, säädytöntä, uhkaavan tai muuten lainvastaisen, vaarallisen, "
+"haitallisen, väärinkäyttävän tai kiduttavan materiaalin välittämiseen tai "
+"materiaalin varastointiin tai siirtämiseen rikkoen kolmansien osapuolien "
+"yksityisyyden suojaa koskevia oikeuksia; (vii) käyttää Palvelua virusten, "
+"matojen, aikapommien, troijalaisten ja muiden haitallisten tai "
+"haittaohjelmien, tiedostojen, skriptien, edustajien tai ohjelmien "
+"tallentamiseen tai lähettämiseen tai roskapostin tai muuten kopioiden tai "
+"ei-toivottujen viestien lähettämiseen rikkoen sovellettavia lakeja ; tai "
+"(viii) häiritä tai häiritä Palvelujen tai niihin sisältyvien kolmansien "
+"osapuolten tietojen eheyttä tai suorituskykyä."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Oikeuksien varaaminen: Muita oikeuksia ei myönnetä, ellei sopimuksessa "
+"nimenomaisesti määrätä. Sopimus ei ole myynti eikä anna oikeuksia tai "
+"omistusoikeutta Palveluihin tai mihinkään niiden taustalla olevaan "
+"ohjelmistoon. Me omistamme kaikki oikeudet, omistusoikeudet ja edut, mukaan "
+"lukien kaikki immateriaalioikeudet, Palveluihin ja niihin liittyvään "
+"ohjelmistoon ja kaikkiin niihin liittyviin päivityksiin, päivityksiin, "
+"muutoksiin, parannuksiin, parannuksiin tai johdannaisiin sekä kaikkiin "
+"tietoihin, miten, ja ohjelmat, jotka olemme kehittäneet meille tai "
+"lisenssinantajillemme Palvelujen suorittamisen aikana."
+
+msgid "6. Term and Termination:"
+msgstr "6. Termi ja päättyminen:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Voimassaoloaika: Palveluiden voimassaoloaika vaihtelee tilaamasi "
+"Palvelun mukaan, ja se on ilmoitettava tilauslomakkeessa tai sovittu "
+"liittymisprosessissa, ja se uusitaan seuraavasti:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive-palvelusaika: Asiakkaan tilaaminen CaseActive-palveluun "
+"uusitaan automaattisesti peräkkäisillä yhden kuukauden tai yhden vuoden "
+"ehdoilla, kuten tilauslomakkeessa tai liittymisprosessissa esitetään, paitsi"
+" jos me lopetamme palvelun, jonka toimitat meille ilmoituksen uudistamatta "
+"jättäminen vähintään kolmekymmentä (30) päivää ennen nykyisen toimikauden "
+"päättymistä."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 CaseActive-verkkosivustopalvelun voimassaoloaika: Asiakkaan tilaukset "
+"CaseActive-verkkosivustopalveluihin uusitaan automaattisesti peräkkäisillä "
+"yhden kuukauden tai yhden vuoden ehdoilla, kuten tilauslomakkeessa tai "
+"liittymisprosessissa esitetään, paitsi jos lopetamme Palvelun tai sinä "
+"tarjoat meille ilmoittamatta uusimisesta vähintään kolmekymmentä (30) päivää"
+" ennen nykyisen toimikauden päättymistä."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Kirjallinen ilmoitus uusimatta jättämisestä on toimitettava "
+"CaseActive, LLC: lle, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Irtisanominen: Kumpi tahansa osapuoli voi irtisanoa sopimuksen ja kaikki"
+" palvelutilaukset (i), jos toinen osapuoli rikkoo jotakin sopimuksen "
+"mukaisista olennaisista velvoitteistaan ja tällainen rikkomus ei ole "
+"korjattu kolmenkymmenen (30) päivän kuluessa ilmoituksen vastaanottamisesta "
+"rikkomisesta tai (ii) jos toinen osapuoli tulee maksukyvyttömäksi tai "
+"konkurssiin, selvitystilaan tai puretaan tai lopettaa olennaisesti kaiken "
+"liiketoimintansa. Voimme irtisanoa sopimuksen heti, jos edellä olevaa 5.3 "
+"kohtaa rikotaan. Sopimuksen päättyessä lopetat heti kaiken Palvelujen "
+"käytön, lopetat edustaa missä tahansa muodossa Palveluita ja tuhoat kaikki "
+"hallussaan olevat luottamukselliset tietomme. Kumpikaan osapuoli ei ole "
+"vastuussa vahingoista, jotka johtuvat sopimuksen irtisanomisesta tai "
+"Palveluiden tilauksista tässä määräyksessä tarkoitetulla tavalla; "
+"edellyttäen kuitenkin, että sopimuksen irtisanominen ei vaikuta "
+"vaatimuksiin, jotka syntyvät ennen irtisanomista."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Tietosi käsitteleminen irtisanomistapauksessa: Tunnustat ja hyväksyt, "
+"että minkä tahansa Palveluidesi tilauksen voimassaolon päättymisen tai "
+"päättymisen jälkeen voimme välittömästi poistaa käytöstä kyseiset palvelut "
+"ja että kohtuullisen, vähintään yhdeksänkymmenen (90) ajanjakson jälkeen ) "
+"päivää, voi poistaa tilisi ja tietosi. Jos me kuitenkin lopetamme Palvelun, "
+"annamme sinulle väliaikaisen, rajoitetun pääsyn Palveluihin, joka ei ylitä "
+"30: tä (30) päivää, ainoana tarkoituksenaan antaa sinulle mahdollisuus hakea"
+" omistusoikeusluonteisia tietojasi edellyttäen, että olet maksanut kaikki "
+"vilpittömässä mielessä kiistattomat summat meille. Hyväksyt lisäksi, että "
+"emme ole vastuussa sinulle tai kolmannelle osapuolelle palvelun käytön "
+"lopettamisesta tai tietojen poistamisesta edellyttäen, että noudatamme tämän"
+" kohdan 6.3 ehtoja."
+
+msgid "7. Fees:"
+msgstr "7. Maksut:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Palvelumaksut: Maksat palveluista palautumattomat palkkiot "
+"ilmoittautumisprosessissa tai tilauslomakkeessa (&#39;Palvelumaksut&#39;) "
+"ilmoitetun määrän ja ilmoittautumisprosessissa tai tilauksessa ilmoitetun "
+"laskutustiheyden mukaisesti. muodostavat. Palvelumaksu erääntyy laskun "
+"päivämääränä. Palvelumaksuja voidaan korottaa nykyisten palkkioidemme "
+"perusteella. Palvelumaksuja ei palauteta, vaikka lopettaisit tilauksesi "
+"varhain."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Lisämaksut: Palvelun käytöstä voi aiheutua muita palkkioita, joita ei "
+"palauteta, tilauslomakkeessa ja / tai liittymisprosessissa vahvistettujen "
+"maksujen lisäksi. Lisämaksut, joita ei palauteta, esitetään sovellettavan "
+"Palvelun lisäehdoissa."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Maksuviivästykset: Asiakas myöntää, että maksujen suorittamatta "
+"jättäminen voi johtaa CaseActive-tuotetilauksen keskeyttämiseen tai "
+"lopettamiseen. Jos et maksa mitään jäljempänä mainittuja palkkioita tai "
+"maksuja, CaseActive pidättää itsellään oikeuden kutsua perintätoimisto "
+"keräämään palkkiot ja maksut, ja sinun on maksettava kaikki CaseActivelle "
+"aiheutuneet kulut erääntyneiden määrien perimisestä, mukaan lukien , ilman "
+"rajoitusta, kohtuulliset asianajajien ja perintätoimistojen palkkiot sekä "
+"korot, joiden määrä on yhtä suuri kuin 1,0% kuukaudessa tai sovellettavan "
+"lain sallima enimmäismäärä."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Verot: Olet vastuussa kaikesta myyntiverosta, käyttöverosta, "
+"arvonlisäverosta, lähdeverosta ja muista vastaavista veroista ja "
+"kaikenlaisista veroista ja maksuista, jotka liittovaltion, osavaltioiden tai"
+" paikallisten hallitusten yksiköt ovat asettaneet sopimuksessa "
+"tarkoitetuista liiketoimista. Kun meillä on tämän jakson nojalla laillinen "
+"velvoite maksaa tai periä veroja, joista olet vastuussa, sinulle laskutetaan"
+" ja maksetaan asianmukainen summa, ellet anna meille voimassa olevan "
+"verovapautustodistusta, jonka asianmukainen veroviranomainen on "
+"valtuuttanut."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Esitykset ja takuut:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Keskinäiset edustajat ja takuut: Kumpikin osapuoli edustaa ja takaa "
+"toiselle osapuolelle, että (i) sillä on kaikki tarvittavat valtuudet tehdä "
+"ja hoitaa sopimuksen mukaisia velvoitteitaan ilman minkään kolmannen "
+"osapuolen suostumusta tai minkään sopimuksen tai sopimuksen rikkomista "
+"kolmannet osapuolet, (ii) kaikki henkilöt, jotka täyttävät kaikki tämän "
+"sopimuksen mukaiset velvoitteet, ovat tehneet kaikki tarvittavat sopimukset "
+"voidakseen noudattaa sopimuksen ehtoja ja (iii) sen on noudatettava kaikilta"
+" olennaisilta osiltaan kaikkia Palvelut."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Lisäetuudet ja takuut: Vakuutat, edustat ja teet meille sopimuksen "
+"siitä, että käytät Palveluita vain laillisiin tarkoituksiin sopimuksen ja "
+"kaikkien sovellettavien CaseActive-käytäntöjen ja -ohjeiden mukaisesti."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Takuun epääminen: POIKKEEN TÄMÄN OSASTO 8 MÄÄRÄYTYT ILMAISET TAKUUT, "
+"SOVELLETTAVAN LAIN SALLITTUJEN MAKSIMIEN MAKSUJEN KANSSA, Emme tee muita, "
+"avoimia, implisiittisiä, lakisääteisiä takuita tai tavaroita, takuita tai "
+"takuita. KAUPAN MYÖNTÄMINEN KAIKKIIN ASIOIHIN, MUKAAN MYÖNNYT "
+"TUOTETTAVUUDEN, TYYTYVÄISEN LAATUN, NIMIEN, TIETTYYN TARKOITUKSEEN "
+"SOVELTUVUUDEN TAI RIKKOMATTOMUUDEN. Emme takaa, että ohjelmisto tai palvelut"
+" täyttävät kaikki vaatimuksesi, mukaan lukien kirjanpitovaatimukset, tai "
+"että ohjelmiston tai palveluiden käyttö on katkeamattomana tai "
+"virheettömänä. OHJELMISTO JA PALVELUT TARJOAAN SINULLE "
+"&quot;SELLAISENAAN&quot; PERUSTEEKSI, JOKA OHJELMISTON JA PALVELUJEN "
+"KÄYTTÄMINEN ON VAARALLISESTI, MUKAAN RAJOITTAMATTOMASTI, MITEN LAINEN. "
+"OSAPUOLET TUNNUSTAVAT selvästi, että TAKUUN VASTUUVAPAUSLAUSEKKI ON "
+"SOPIMUKSEN OLENNAINEN OSA."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"KIELTÄMÄT MIDEN EDUSTAJIEN TAI TAKUUT, JOTKA PALVELUJEN KÄYTTÄMINEN "
+"TYYTYVÄISESTI TOTEUTTAA TIETOA MITEN LAINSIDEN VELVOITTEIDEN TAI Lakien tai "
+"asetusten noudattamisesta. TÄMÄN VASTUUVAPAUSLAUSEKKEEN EI OLE RAJOITETTU "
+"MITÄÄN ALKUPERÄISET TAI VALTIOIDEN ASETUKSET TAI MÄÄRÄYKSET, JOITA VOIMAAN "
+"SINÄ SOVELLETTAVA. VASTUUT VASTUULLISESTI VASTUUVAPAUTTAMISESTA PALVELUJEN "
+"KÄYTTÖÖN SOVELLETTAVAN LAIN MUKAISESTI."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"JOS JULKISET PALVELUT TÄMÄN TÄMÄN SOPIMUKSEN KANSSA, SINUN JA POIKKEISEN "
+"KORJAUKSEN ON PYSÄYTY PALVELUJEN KÄYTTÖÖN."
+
+msgid "9. Confidential Information:"
+msgstr "9. Luottamukselliset tiedot:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Ellei toinen osapuoli ole nimenomaisesti valtuuttanut, kumpikaan osapuoli ei"
+" saa paljastaa kolmannelle osapuolelle mitään tietoja tai materiaaleja, "
+"jotka toinen osapuoli on toimittanut sopimuksen nojalla ja joiden voidaan "
+"kohtuudella pitää luottamuksellisina (&#39;luottamukselliset tiedot&#39;), "
+"tai käyttää sellaisia luottamuksellisia tietoja millään muulla tavalla. kuin"
+" suorittaa sopimuksen mukaiset velvoitteensa. Edellä olevat rajoitukset "
+"eivät koske mitään tietoja, jotka ovat julkisesti saatavilla tai jo "
+"vastaanottavan osapuolen hallussa, jotka olivat vastaanottavan osapuolen "
+"tiedossa ennen paljastamispäivää tai saavat sen jälkeen vastaanottavalle "
+"osapuolelle tiedossa kolmannelta osapuolelta, jolla on selvä vilpitön oikeus"
+" paljastaa tietoja tai luottamuksellisia tietoja, jotka vastaanottavan "
+"osapuolen on toimitettava toimivaltaisen tuomioistuimen määräyksen tai "
+"voimassa olevan hallinnollisen haasteen nojalla, edellyttäen, että "
+"vastaanottava osapuoli ilmoittaa paljastavalle osapuolelle hyvissä ajoin "
+"ilmoituksen tällaisesta tuomioistuimesta määräys tai haaste. Lisäksi "
+"varmistat, että valtuutetut käyttäjät pitävät luotettavasti kaikki "
+"palveluiden salasanat ja muut pääsytiedot. Tämä 9 kohta on voimassa tämän "
+"sopimuksen voimassaolon päättymisen tai voimassaolon päättymisen jälkeen."
+
+msgid "10. Indemnification:"
+msgstr "10. Korvaus:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Rikkomusten korvaaminen: Jollei 10.4 kohdasta muuta johdu, puolustamme "
+"kustannuksellamme sinua kolmansia osapuolia koskevilta vaatimuksilta, jotka "
+"väittävät, että Palvelut rikkovat mitä tahansa Yhdysvaltain patenttia, joka "
+"on myönnetty kolmannelle osapuolelle Voimaantulopäivästä lukien; tai loukkaa"
+" minkään kolmannen osapuolen tekijänoikeuksia, tavaramerkkejä tai "
+"liikesalaisuuksia (nimitystä kutsutaan yleisesti palveluiden perustana "
+"olevaksi immateriaalioikeudeksi). Jos haetaan tai saadaan kieltoa palvelujen"
+" perustana olevan immateriaalioikeuden käyttöä vastaan tai katsomme, että "
+"sitä todennäköisesti haetaan tai saadaan, meidän on omalla valinnallaan ja "
+"kustannuksella joko (i) hankittava sinulle ja nimeltään valtuutetuilla "
+"käyttäjillä on oikeus jatkaa Palvelujen käyttöä, tai (ii) korvata tai "
+"muokata Palveluita siten, että niiden käyttö ei loukkaa tekijöitä samalla "
+"kun ne pystyvät suorittamaan olennaisesti saman toiminnon. Jos yllä olevat "
+"kohdat (i) ja (ii) eivät ole kaupallisesti toteutettavissa, voimme lopettaa "
+"Palvelut ja palauttaa mahdolliset ennakkomaksut, mutta käyttämättömät "
+"Palvelumaksut. Meillä ei ole velvollisuutta puolustaa tai olla vastuussa "
+"tämän kohdan 10.1 mukaisista kustannuksista tai vahingoista, jos väitetty "
+"rikkomus johtuu tai johtuu millään tavalla (i) sinun (tai minkä tahansa "
+"valtuuttamasi tai nimetyt käyttäjät) tai (ii) Palveluiden käyttö yhdessä "
+"palveluiden ja tuotteiden kanssa, joita CaseActive ei tarjoa, jos tällainen "
+"loukkaaminen olisi välttynyt ilman tällaista muutosta tai yhdistämistä, tai "
+"(iii) mallejasi tai ohjeitasi noudattamalla tai (iv) väitettä, että ei "
+"ilmoita yksityiskohtaisesti, että palvelut ovat vaatimuksen kohteena (kukin "
+"&#39;poissuljettu vaate&#39;). Tähän 10.1 jaksoon sisältyvät "
+"korvausvelvollisuudet ovat voimassa tämän sopimuksen irtisanomisen tai "
+"voimassaolon päättymisen jälkeen."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Tietoturvan ja yksityisyyden korvaaminen: Jollei 10.4 kohdasta muuta "
+"johdu, ja Palvelujen tilaamisen aikana puolustamme teitä omalla "
+"kustannuksellamme teitä vastaan nostettujen kolmansien osapuolten "
+"vaatimuksilta, jotka väittävät meidän törkeän huolimattomuutemme luvattoman "
+"pääsyn estämisessä. tai tahallisesta väärinkäytöksestämme paljastaessamme "
+"hallussa tai hallussa oleville asiakkaillesi henkilökohtaisesti "
+"tunnistettavia tietoja. Tätä korvausta ei sovelleta siltä osin kuin "
+"tällainen vaatimus johtuu tai liittyy sinun tai edustajien tai edustajien "
+"huolimattomuuteen tai tahalliseen väärinkäyttöön, tai siltä osin kuin "
+"jompikumpi osapuoli on vastuun epääminen tai rajoittaminen sopimuksen "
+"perusteella. Tässä osassa esitetyt korvausvelvollisuudet riippuvat siitä, "
+"että olet todistanut törkeän huolimattomuutesi tai tahallisen "
+"väärinkäytöksesi, joka on suoraan ja läheisesti johtanut siihen, että "
+"hallitsemme tai hallitsemme asiakkaidesi henkilöllisyystodistukset ovat "
+"luvattomasti saatavissa tai paljastuneet."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Vakuutuksesi: Suostut korvaamaan, pitämään vaarattomana ja puolustamaan"
+" meitä ja kaikkia työntekijöitämme, virkamiehiä, johtajia ja edustajia "
+"kaikilta vaatimuksilta, vaatimuksilta, kanteilta, menettelyiltä, "
+"tutkimuksilta, vahingoista, kustannuksista, kuluista, menetyksistä ja muista"
+" vastuut (mukaan lukien kohtuulliset asianajajien palkkiot, "
+"oikeudenkäyntikulut ja kulut), jotka aiheutuvat tai liittyvät (i) "
+"Palveluiden käyttämiseen sopimuksen vastaisesti, (ii) Poissuljetun "
+"vaatimuksen, (iii) käyttäjän tosiasiallisen tai väitetyn rikkomuksen "
+"kaikista sopimuksen mukaisista edustuksista, takuista, sopimuksista tai "
+"velvoitteista tai (iv) törkeästä huolimattomuudestasi tai tahallisesta "
+"väärinkäytöksestäsi. Tämän kohdan 10.3 mukaiset korvausvelvoitteesi säilyvät"
+" sopimuksen irtisanomisen tai voimassaolon päättymisen jälkeen."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Ilmoittaminen ja yhteistyö: Korvauksen suorittaneen osapuolen edellä 10"
+" jaksossa tarkoitetut korvausvelvollisuudet edellyttävät, että (i) "
+"korvauksen saaja ilmoittaa korvauksen maksaneelle osapuolelle viipymättä "
+"kirjallisesti, saatuaan tiedon kaikista vaatimuksista, joista sillä voi olla"
+" oikeus sopimuksen mukaiseen korvaukseen ; (ii) siltä osin kuin korvausta "
+"maksetaan, osapuoli, joka lopettaa väitettyjen loukkaavien palvelujen käytön"
+" saatuaan ilmoituksen siitä; (iii) korvauskorvauksen osapuoli, joka antaa "
+"korvaus korvausosapuolelle yksinoikeuden hallita minkään tällaisen "
+"vaatimuksen puolustamista ja ratkaisemista (edellyttäen, että korvausta "
+"suorittava osapuoli ei voi ratkaista mitään vaatimuksia ilman korvauksen "
+"saajan suostumusta, jollei sovinto vapauta korvausvelvollisen ehdoitta "
+"kaikesta vastuusta); iv) vahingonkorvausvastuun osapuoli, joka tarjoaa "
+"kohtuullista apua korvauskorvauksen tekijälle korvauksena osapuolen "
+"kustannuksella tällaisen vaatimuksen puolustamisessa; (v) "
+"vahingonkorvausvastuun osapuoli, joka ei ole solminut sovittelusopimusta tai"
+" muuten ratkaise tällaista korvausvaatimusta vahingoittamatta osapuolen "
+"nimenomaista kirjallista suostumusta tai pyyntöä; ja (vi) korvauksen saaja, "
+"joka noudattaa kaikkia vaateen yhteydessä tehtyjä sovittelu- tai "
+"tuomioistuinpäätöksiä (jotka liittyvät loukkaavien materiaalien tulevaan "
+"käyttöön). Korvattu osapuoli voi osallistua vaateen puolustamiseen tai "
+"ratkaisemiseen valitsemallaan asianajajalla ja omalla kustannuksellaan."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Yksinoikeinen korvauskeino: Tässä 10 jaksossa todetaan "
+"korvausvelvollisen yksinomainen vastuu toiselle osapuolelle ja korvauksen "
+"saaneen osapuolen yksinomainen korvausvaatimus toiselle osapuolelle tässä "
+"jaksossa kuvatun tyyppisistä vaatimuksista."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Vastuunrajoitus:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"Lukuun ottamatta vahingonkorvausta, joka syntyy 5.3 tai 12 pykälän "
+"rikkomuksesta, lain sallittuun enimmäismäärään, EI missään tapauksessa "
+"OSAPUOLEN KOKONAISEN KUMULATTISEN VASTUUN, JOKA TÄYTYY SOPIMUKSEN YHTEISÖN "
+"SOPIMUSTA TEET PALVELUISTA, JOTKA VASTAAVAT VASTUULLISUUTTA YHTEEN VUOTEEN, "
+"JOTKA VAIKUTTAVAT VAIKUTTAVASTI PÄIVÄMÄÄRÄ PYSYVYYDEN SYY."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"Lukuun ottamatta vahingonkorvausta, joka syntyy 5.3 tai 12 pykälän "
+"rikkomuksesta, lain sallittuun enimmäismäärään nähden, EI missään "
+"tapauksessa HERETOA, LISENSSINVALTAJIA TAI TARJOAJIA, VASTUULLISESTI VASTAA "
+"MITÄÄN VAKUUTTA. RAKENNETTUJEN TAVAROIDEN TAI PALVELUJEN TAI KAIKKIEN "
+"Epäsuoran, erityisen, seurauksena olevan, esimerkinomaisen tai satunnaisen "
+"vahingon hankintakustannukset, jotka kuitenkin aiheutuvat ja perustuvat "
+"vastuuseen (mukaan lukien aikuiset), muodostuen muodossa, joka muodostuu "
+"kokoonpanosta. TÄMÄN VELVOLLISUUDET, JOTKA TÄMÄN OSASTEEN OSALLISTUMISEKSI "
+"ON NIIDENNEN NIIDEN VAHINKOJEN MAHDOLLISUUS."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"SEN KUIN TIETTY JOTKIN VALTIOT / JURISDIKTIOT, EI SALLI VASTUUJEN "
+"POISTAMISTA TAI RAJOITTAMISEKSI SEURAAVISTA TAI JÄLKEISISTÄ VAHINGOISTA, "
+"YRITTÄVÄÄ RAJOITETTA EI SAA soveltaa sinulle, koska tapaus, jolla vastuumme "
+"on rajoitettava suurimpaan sallittuun lupaan."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Henkilötietojen ja tietosuojatiedot:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Asiakas noudattaa kaikkia sovellettavia yksityisyyden suojaa koskevia ja "
+"muita lakeja, sääntöjä, määräyksiä ja ohjeita, jotka koskevat henkilöiden "
+"henkilökohtaisesti tunnistettavien tietojen (kuten määritelty alla) "
+"suojaamista, keräämistä, käyttöä ja jakelua. Postitat tietosuojalausunnon "
+"sivulle, josta kerät henkilökohtaisesti tunnistettavissa olevia tietoja "
+"(&#39;tietosuojalausunto&#39;), joka on kaikkien sovellettavien lakien, "
+"sääntöjen, asetusten ja ohjeiden mukainen, ja ilmoitat vähintään kerättyjen "
+"henkilökohtaisesti tunnistettavien tietojen käyttäjille, kuinka ne käytetään"
+" ja miten se varmistetaan, ja joka identifioi keräysmenetelmän (evästeet, "
+"verkkomajakat tai muut soveltuvat välineet) ja Palvelujen yhteydessä kerätyn"
+" tiedon käytön hankkimalla etukäteen tietoinen suostumus (opt-in) ennen "
+"minkään seurantatekniikoita sovellettavien lakien ja asetusten "
+"edellyttämässä laajuudessa. Tällainen tietosuojalausunto sisältää myös "
+"tekniset tiedot palveluiden kautta toimittamiemme henkilökohtaisesti "
+"tunnistettavien tietojen keräämiseen, lähettämiseen ja tallentamiseen. Jos "
+"sovellettava tietosuojalaki tai muu laki tai asetus vaatii, ilmoitat "
+"kolmansille osapuolille, että annat heidän henkilökohtaisia tietojaan meille"
+" käsittelyä varten, ja varmistat, että vaadittavat kolmannet osapuolet ovat "
+"antaneet suostumuksensa tällaiseen paljastamiseen ja käsittelyyn. Suostut "
+"noudattamaan tietosuojalausunnon kuvauksia ja säännöksiä. "
+"&#39;Henkilökohtaisesti tunnistettavilla tiedoilla&#39; tarkoitetaan mitä "
+"tahansa tietoja, jotka voidaan liittää mihin tahansa yksilöihin tai "
+"jäljittää niihin, mukaan lukien henkilön nimi, osoite, puhelinnumero, "
+"sähköpostiosoite, luottokorttitiedot, sosiaaliturvatunnus tai muut vastaavat"
+" erityiset tosiasiatiedot riippumatta tietoväline, jolle tällaisia tietoja "
+"tallennetaan (esim. paperille tai sähköisesti)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Muut:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Riippumattomat osapuolet: Sinä ja CaseActive olette itsenäisiä "
+"urakoitsijoita. Sopimus ei luo osapuolten välillä mitään yhteisyritystä, "
+"kumppanuutta, edustusta tai työsuhdetta. Olet yksin vastuussa "
+"työntekijöidesi johtamisesta ja kaikista korvauksista, veroista, eduista ja "
+"veloista työntekijöillesi ja muille edustajillesi tai palveluntarjoajillesi."
+" Sinä tai mikään työntekijöistäsi, edustajistasi tai palveluntarjoajista ei "
+"anna meille, sopimukselle tai Palveluille mitään huomautuksia, takuita tai "
+"takuita, lukuun ottamatta niitä, jotka olemme nimenomaisesti kirjallisesti "
+"valtuuttaneet."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Luovuttaminen: Sopimusta tai mitään sen mukaisia oikeuksiasi tai "
+"velvollisuuksiasi ei voida siirtää tai siirtää lailla tai muutoin ilman "
+"etukäteen annettua kirjallista suostumustamme, ellei sitä ole siirretty "
+"edunvalvojalle tai sulautumisen perusteella uudelleenjärjestely tai myynti "
+"kokonaan tai olennaisesti kaikki omaisuutesi, joista ilmoitat meille "
+"vähintään kolmekymmentä (30) päivää ennen kaupan toteutumista. Teidän "
+"toimeksianto, joka perustuu muihin olosuhteisiin, vaatii etukäteen "
+"suostumuksemme, jota ei saa peruuttaa kohtuuttomasti. Voimme luovuttaa tämän"
+" sopimuksen vapaasti ilman suostumustasi. Jollei edellä esitetystä muuta "
+"johdu, tämä sopimus sitoo ja takaa osapuolten, niiden seuraajien ja "
+"sallittujen toimeksiantojen hyödyn."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Ylivoimainen este: Kumpikaan osapuoli ei ole vastuussa sopimuksen "
+"mukaisista viivästyksistä, keskeytyksistä tai muista laiminlyönneistä, jotka"
+" johtuvat vastuuhenkilön ulkopuolella olevista teoista, mutta vain niin "
+"kauan kuin sellaiset olosuhteet jatkuvat. Ylivoimaisen esteen tapahtumia "
+"ovat muun muassa: luonnonkatastrofit (esim. Salamat, maanjäristykset, "
+"hurrikaanit, tulvat); sodat, mellakat, terroristitoimet ja siviililiikkeet; "
+"paikallisen pörssiyhtiön toiminta ja muut kolmansien osapuolten toimet; "
+"räjähdykset ja tulipalot; vientikiellot, lakot ja työriidat; valtioneuvoston"
+" asetukset; teletoimittajien tai Internet-palveluntarjoajien "
+"epäonnistumiset; kolmansien toimittajien, palveluntarjoajien tai myyjien "
+"epäonnistumiset; ja muut syyt, jotka eivät ole osapuolen kohtuullisessa "
+"määräysvallassa."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Lainvalinta: Sopimusta ja sopimuksesta johtuvia riitoja säännellään ja "
+"tulkitaan Kalifornian osavaltion laeissa, ottamatta huomioon "
+"lainvalintaperiaatteita. Kaikki sopimuksesta johtuvat tai siihen liittyvät "
+"riidat kuuluvat Kalifornian osavaltion ja Kalifornian Santa Barbaran "
+"liittovaltion tuomioistuinten yksinomaiseen toimivaltaan ja paikkaan, ja "
+"osapuolet suostuvat näiden tuomioistuinten henkilökohtaiseen ja "
+"yksinomaiseen toimivaltaan."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 Sähköposti ja ilmoitukset: Hyväksyt lisäksi, että voimme tarjota "
+"sinulle kaikki ilmoitukset, lausunnot ja muut viestit sähköpostitse, "
+"postitse, pikakuljetuspalveluna tai tunnetun kaupallisen harjoittajan "
+"toimittamana viimeksi osoitettuun osoitteeseen. sopimuksesta. Olet vastuussa"
+" siitä, että toimitat meille päivitetyt yhteystiedot."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Ei luopumista; Kumulatiiviset muutoksenhakukeinot: Se, että jompikumpi "
+"osapuoli ei laiminlyö tai viivästytä tämän sopimuksen mukaisten oikeuksien "
+"käyttämistä, ei ole luopumista tästä oikeudesta. Muut kuin kuin tässä "
+"nimenomaisesti todetaan, tässä tarjotut oikeussuojakeinot täydentävät ja "
+"eivät sulje pois kaikkia muita osapuolen oikeudellisia tai "
+"oikeussuojakeinoja."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Erotettavuus: Jos toimivaltaisen tuomioistuimen mukaan jokin tämän "
+"sopimuksen määräys on lain vastainen, tuomioistuimen on muutettava tätä "
+"määräystä ja tulkittava siten, että alkuperäisen määräyksen tavoitteet "
+"saavutetaan parhaalla mahdollisella tavalla, minkä laki sallii. Tämän lain "
+"muut määräykset pysyvät kokonaisuudessaan voimassa ja voimassa."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Koko sopimus: Sovellettavan lain sallimassa laajuudessa tämä sopimus, "
+"yhdessä siinä tarkoitettujen asiakirjojen sekä kaikkien tilauslomakkeiden ja"
+" allekirjoitusvirtojen kanssa, muodostaa osapuolten välisen sopimuksen "
+"kokonaisuudestaan aiheesta ja korvaa kaikki aiemmat ja samanaikaiset "
+"sopimukset, ehdotukset tai kirjalliset tai suulliset esitykset, jotka "
+"koskevat tämän sopimuksen aihetta. Minkään edustajan, sitoumuksen tai "
+"lupauksen ei katsota olevan annettu tai epäsuora mistään sanotusta tai "
+"kirjoitetusta osapuolten välisissä neuvotteluissa ennen tätä sopimusta, "
+"ellei tässä sopimuksessa nimenomaisesti todeta. Kummallakaan osapuolella ei "
+"ole oikeussuojakeinoja sellaisen toisen lausunnon suhteen, johon kyseinen "
+"osapuoli on vedonnut tekeessään tätä sopimusta (ellei tällaista virheellistä"
+" lausuntoa ole annettu vilpillisesti) ja että osapuolen ainoa "
+"oikeussuojakeino mitä tahansa virheellistä lausuntoa varten on sopimuksen "
+"rikkominen tämän sopimuksen mukaisesti. Hyväksyt ja hyväksyt, että alla "
+"oleva sopimus ei ole minkään tulevien toimintojen tai ominaisuuksien, joita "
+"ei ole määritelty tässä tai tilauslomakkeessa, toimittaminen tai "
+"riippuvainen mistään suullisista tai kirjallisista, julkisista tai "
+"yksityisistä kommentteista, joita olemme tehneet tulevien toimintojen tai "
+"ominaisuuksien suhteen. palveluille. Jos näiden yleisten palvelusehtojen "
+"määräysten ja tilauslomakkeen tai palvelun lisäehtojen välillä on "
+"ristiriitoja, tällaisen tilauslomakkeen tai palvelun lisäehtojen ehdot ovat "
+"etusijalla kyseisen ristiriidan laajuudessa. Mitään ostotilauksessa tai "
+"missään muussa tilauksesi asiakirjassa ilmoitettuja ehtoja ei saa "
+"sisällyttää mihinkään tähän sopimukseen tai muodostaa mitään osaa tästä "
+"sopimuksesta, ja kaikki tällaiset ehdot ovat mitättömiä."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Vienti: Molemmat osapuolet sitoutuvat noudattamaan Yhdysvaltojen "
+"sovellettavia vienti- ja tuontilakeja ja -määräyksiä. Et saa sallia "
+"käyttäjien pääsyä palveluihin tai käyttää niitä rikkoen Yhdysvaltojen "
+"vientikieltoa, kieltoa tai rajoitusta."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Julkisuus: Emme saa nimetä sinua Palvelujen käyttäjäksi ilman "
+"kirjallista suostumustasi."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Linkit kolmansien osapuolien sivustoille: Palvelut tai "
+"verkkosivustomme voivat sisältää linkkejä kolmansien osapuolien sivustoille "
+"(&#39;linkitetyt sivustot&#39;). Linkitetyt sivustot eivät ole "
+"valvonnassamme, emmekä ole vastuussa minkään linkitetyn sivuston sisällöstä,"
+" mukaan lukien rajoittamatta linkitetyn sivuston linkit tai linkitetyn "
+"sivuston tai linkitetyn sivuston kautta tarjottujen palveluiden muutokset "
+"tai päivitykset. Tarjoamme nämä linkit sinulle vain mukavuutena, ja minkään "
+"linkin sisällyttäminen ei tarkoita, että me hyväksymme sivuston tai sen "
+"tarjoamien palvelujen."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Suostut vastaanottamaan CaseActive-sähköpostiviestejä, puheluita ja "
+"tekstiviestejä päivitysten toimittamiseksi tilauksestasi ja / tai "
+"markkinointitarkoituksiin. Viestien taajuus riippuu toiminnastasi. Voit "
+"kieltäytyä poistamalla valinnan tilisi ilmoituksista tai poistamalla tilisi."
+" Viesti- ja tiedonsiirtomaksuja voidaan soveltaa."
+
+msgid "An error occurred"
+msgstr "Tapahtui virhe"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Jotain meni pieleen. Insinööreillemme on ilmoitettu. Lataa uudelleen "
+"painamalla latauspainiketta."
+
+msgid "Reload"
+msgstr "Lataa uudelleen"

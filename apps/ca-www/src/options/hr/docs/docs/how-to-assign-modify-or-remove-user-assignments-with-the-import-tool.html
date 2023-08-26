@@ -1,0 +1,80 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Kako dodijeliti, izmijeniti ili ukloniti korisničke dodjele pomoću alata za uvoz
+</h1>
+<p>Ovaj članak pokazuje administratorima kako upravljati korisnicima predmeta pomoću alata za uvoz.</p>
+<p>Administratori mogu:</p>
+<ul>
+  <li>dodijeliti korisnike slučaju</li>
+  <li>mijenjati korisnike koji su već dodijeljeni slučaju</li>
+  <li>ukloniti korisnike dodijeljene slučaju</li>
+</ul>
+<h2 id="opening-the-import-tool">Otvaranje alata za uvoz</h2>
+<ol style="list-style-type: decimal">
+  <li>Prijavite se na administratorski račun.</li>
+  <li>Pronađite aplikaciju na stranici s aplikacijama i kliknite gumb ADMIN.</li>
+  <li>Pritisnite karticu Integracija, a zatim UVOZI u podizborniku.</li>
+  <li>Pritisnite gumb NOVO. Prikazuje se dijaloški okvir Add Imports.</li>
+</ol>
+<h2 id="creating-records">Stvaranje zapisa</h2>
+<p>
+  Preuzmite jednu ili više CSV datoteka. Koristite ove datoteke za dodavanje, izmjenu ili uklanjanje korisnika slučaja.
+  Nakon što se otvori dijaloški okvir Add Imports:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Pritisnite polje Vrsta.</li>
+  <li>Pomičite se kroz padajući izbornik i odaberite opciju (pogledajte dolje). Prikazuje se poveznica.</li>
+  <li>Kliknite vezu Preuzmi uzorak. CSV datoteka preuzima se na vaš uređaj.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>
+  Otvorite datoteku i dodajte zapise. Kliknite ovdje da biste saznali kako koristiti podatke o formatu u CSV datoteci.
+</p>
+<h3 id="file-options">Opcije datoteke</h3>
+<p>
+  <strong>Dodijelite korisnike slučajevima</strong> * Odaberite ovu opciju za dodavanje korisnika slučaju. * Ostavite
+  ćeliju case_role_order praznu. * Idite na stranicu Korisnici i kopirajte ID oznake za ovu osobu. Ako je polje ID
+  oznake prazno, unesite jedinstveni ID, kliknite Spremi, a zatim kopirajte ID u CSV datoteku.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Izmjena korisnika dodijeljenih slučajevima</strong> * Odaberite ovu opciju za ažuriranje podataka za trenutne
+  korisnike dodijeljene slučaju. * Koristite ID oznake slučaja za stupac case_ID.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>Ukloni korisnike dodijeljene slučajevima</strong> * Odaberite ovu opciju za uklanjanje korisnika dodijeljenih
+  slučaju.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Prijenos datoteke</h2>
+<p>Možete odmah učitati datoteku ili se kasnije vratiti u dijaloški okvir Dodaj uvoze i izvršiti ove korake.</p>
+<ol style="list-style-type: decimal">
+  <li>Otvorite dijaloški okvir Dodaj uvoze.</li>
+  <li>Unesite jedinstveni naziv za CSV datoteku.</li>
+  <li>Pritisnite ikonu plus (+) za prijenos datoteke sa svog uređaja.</li>
+  <li>Pritisnite polje Vrsta i odaberite opciju. (vidi gore)</li>
+  <li>Pritisnite SPREMI.</li>
+</ol>
+<h2 id="processing">Obrada</h2>
+<p>Ovisno o broju zapisa u datoteci i opterećenju sustava, platformi može trebati nekoliko minuta da obradi uvoz.</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>
+  Kada uvoz završi, platforma prilagođava korisničke zapise (tj. dodaje, mijenja ili uklanja) na stranici Slučajevi.
+</p>
+<h2 id="failure">Neuspjeh</h2>
+<p>
+  Ako operacija uvoza ne uspije, platforma vraća poruku Neuspjelo. U većini slučajeva uzrok kvara je formatiranje
+  podataka.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Da biste vidjeli uzrok kvara:</p>
+<ol style="list-style-type: decimal">
+  <li>Pritisnite Pogled pod naslovom Akcija.</li>
+  <li>Na sljedećoj stranici zadržite pokazivač miša na ikoni Neuspjelo. Opis alata prikazuje pogrešku.</li>
+  <li>Idite na CVS datoteku i prilagodite i popravite grešku.</li>
+  <li>Ponovno prenesite datoteku.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

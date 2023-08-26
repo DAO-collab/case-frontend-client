@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Leggi tutto campo campo specifica in ruolo",
+    "write": "Scrivi tutti i campi del caso specificati nel ruolo"
+  },
+  "convos": {
+    "read_all": "Visualizza lo stato attuale dei convogli.",
+    "manage_own": "Unisciti e disconnettiti a convo.",
+    "moderate_others": "Avvia convo, termina convo e rimuovi partecipante.",
+    "read_all_submissions": "Leggi tutte le conversazioni registrate."
+  },
+  "events": {
+    "read_all": "Leggi tutti gli eventi.",
+    "manage_own": "Crea, aggiorna ed elimina il proprio evento.",
+    "moderate_others": "Aggiorna ed elimina l&#39;evento di altri.",
+    "read_all_submissions": "Leggi tutte le conferme di eventi.",
+    "submit_own": "Conferma la richiesta di partecipazione all&#39;evento."
+  },
+  "posts": {
+    "read_all": "Leggi tutti i post.",
+    "manage_own": "Crea, aggiorna ed elimina il tuo post.",
+    "moderate_others": "Aggiorna ed elimina il post di altri."
+  },
+  "forms": {
+    "read_all": "Leggi tutti i moduli.",
+    "manage_own": "Crea, aggiorna ed elimina il proprio modulo.",
+    "moderate_others": "Aggiorna ed elimina il modulo di altri.",
+    "read_all_submissions": "Leggi tutti gli invii dei moduli.",
+    "submit_own": "Invia richiesta modulo."
+  },
+  "invoices": {
+    "read_all": "Leggi tutte le fatture.",
+    "manage_own": "Crea, aggiorna ed elimina la propria fattura.",
+    "moderate_others": "Aggiorna ed elimina la fattura di altri.",
+    "read_all_submissions": "Leggi tutti gli invii delle fatture.",
+    "submit_own": "Invia richiesta fattura."
+  },
+  "notes": {
+    "read_all": "Leggi tutte le note.",
+    "manage_own": "Crea, aggiorna ed elimina la propria nota.",
+    "moderate_others": "Aggiorna ed elimina la nota di altri."
+  },
+  "signs": {
+    "read_all": "Leggi tutti i segnali elettronici.",
+    "manage_own": "Crea, aggiorna ed elimina il proprio segno elettronico.",
+    "moderate_others": "Aggiorna ed elimina il segno elettronico di altri.",
+    "read_all_submissions": "Leggi tutti gli invii di firma elettronica.",
+    "submit_own": "Invia richiesta campo."
+  },
+  "tasks": {
+    "read_all": "Leggi tutte le attivit\u00e0.",
+    "manage_own": "Crea, aggiorna ed elimina la tua attivit\u00e0.",
+    "moderate_others": "Aggiorna ed elimina l&#39;attivit\u00e0 di altri.",
+    "read_all_submissions": "Leggi tutti gli invii di attivit\u00e0.",
+    "submit_own": "Invia richiesta di attivit\u00e0."
+  },
+  "team": { "read_all": "Leggi la squadra nel caso" }
+}

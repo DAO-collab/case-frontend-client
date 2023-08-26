@@ -1,0 +1,5 @@
+{
+  "pro": { "name": "\ucc2c\uc131", "base_price": "125.00", "seat_included": "\uc0bc" },
+  "business": { "name": "\uc0ac\uc5c5", "base_price": "416.67", "seat_included": "4", "seat_price": "83.34" },
+  "enterprise": { "name": "\uae30\uc5c5", "base_price": "500.00", "seat_included": "4", "seat_price": "100.00" }
+}

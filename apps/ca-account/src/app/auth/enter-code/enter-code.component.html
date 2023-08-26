@@ -1,0 +1,38 @@
+<article class="module-f" id="content">
+  <figure>
+    <img alt="Placeholder" width="108" height="120" src="images/illustrations/monitor.svg" />
+  </figure>
+  <h2 translate>Check your {{ loginType }}</h2>
+
+  <header>
+    <p>
+      <span class="space-margin-after" translate>A pin has been sent to</span>
+      {{ userName }}
+    </p>
+  </header>
+
+  <code-input
+    #codeInput
+    [isCodeHidden]="false"
+    [codeLength]="6"
+    (codeChanged)="onCodeChanged($event)"
+    (codeCompleted)="onCodeCompleted($event)"
+  >
+  </code-input>
+
+  <ul class="list-e">
+    <li (click)="backToEmailPage()">
+      <a translate>Cancel</a>
+    </li>
+    <li (click)="sendNewPin()">
+      <a translate>Send New Pin</a>
+    </li>
+  </ul>
+
+  <footer>
+    <h3 translate>Need Help?</h3>
+    <p>
+      <a class="custom-text-color" [routerLink]="['/support']" translate>Click here to contact us</a>
+    </p>
+  </footer>
+</article>

@@ -1,0 +1,393 @@
+.viewer-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999999;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  overflow: auto;
+  overflow-y: scroll;
+  max-height: 100%;
+}
+
+.close-gallery-view {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.viwer-holder {
+  width: 920px;
+  margin: 0 auto;
+  height: 750px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  max-width: 100%;
+  background: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  position: relative;
+  z-index: 2;
+}
+
+.viewer-wrapper:not(.fullView) .viwer-holder {
+  max-width: calc(100% - 22px);
+}
+
+ul.viewer-slider {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  display: block;
+  height: 100px;
+  position: relative;
+  margin: 0 auto;
+}
+
+ul.viewer-slider > li {
+  display: inline-block;
+  width: 95px;
+  height: 95px;
+  text-align: center;
+  float: left;
+  position: relative;
+  margin: 0px 2px;
+}
+
+li.activeItem {
+  border: 1px solid #16b0c9;
+  bottom: 0;
+  padding: 2px;
+  border-radius: 3px;
+}
+
+ul.viewer-slider > li a > * {
+  text-align: center;
+  display: inline;
+  /* min-width: 100px;
+    min-height: 100px; */
+  max-width: none !important;
+  max-height: none !important;
+}
+
+ul.viewer-slider > li a {
+  display: block;
+  max-height: 100%;
+  text-align: center;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  height: 100px;
+  border-radius: 3px;
+  border: 1px solid #dbdbdb;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+ul.viewer-slider > li:not(:last-child) {
+  margin-right: 3px;
+}
+
+.slider-holder {
+  height: 100px;
+  overflow: hidden;
+  width: calc(100% - 100px);
+  margin: 0 auto;
+}
+
+.bx-wrapper {
+  height: 585px;
+  min-height: 585px;
+}
+
+.fullView .viwer-holder .bx-wrapper {
+  height: calc(100vh - 160px);
+}
+
+.viewer-wrapper.fullView {
+  background: #fff;
+}
+
+.bx-viewport {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  overflow: hidden;
+}
+
+.slider-a .bx-wrapper {
+  display: table;
+  padding: 5px;
+}
+
+.viewer-tools {
+  height: 30px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 100;
+}
+
+.viewer-tools > * {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  vertical-align: top;
+  text-align: center;
+  cursor: pointer;
+}
+
+.full-size-view:before {
+  line-height: 20px;
+}
+
+.item {
+  float: left;
+  position: relative;
+}
+
+.inner,
+.viewer-slider {
+  position: relative;
+  transition: 0.3s;
+  transition-timing-function: cubic-bezier(0.3, 0.1);
+}
+
+.slider-contoll > *:before {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: -50px;
+  width: 20px;
+  margin: -10px 0 0;
+  font-family: i;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  text-indent: 0;
+}
+
+.slider-contoll .bx-prev:before {
+  content: '\e607';
+  left: 10px;
+}
+
+.slider-contoll .bx-next:before {
+  content: '\e608';
+  right: 10px;
+  left: auto;
+}
+
+span.v-cjeck-mark {
+  position: absolute;
+  background: #18b1c5;
+  border-radius: 50%;
+  bottom: 0px;
+  min-width: 20px;
+  height: 20px;
+  color: #fff;
+  left: 2px;
+  bottom: 2px;
+  line-height: 22px;
+  font-size: 11px;
+}
+
+/* .zoom-in-tool:before, */
+
+.close-viewer:before {
+  display: block;
+  width: 25px;
+  height: 30px;
+  font-family: i;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  text-indent: 0;
+  color: #16b0c5;
+}
+
+/*
+.zoom-in-tool:before {
+    content: "\ea46";
+    right: 35px;
+    font-size: 24px;
+} */
+
+i.zoom-in-tool {
+  color: #16b0c5;
+  background: #fff;
+  padding: 3px 2px;
+  border-radius: 2px;
+  font-size: 22px;
+}
+
+.close-viewer:before {
+  content: '\e953';
+  font-size: 20px;
+}
+
+.slider-a .bx-wrapper {
+  border: 0;
+  border-bottom: 1px solid #dbdbdb;
+  border-radius: 0;
+}
+
+a.slider-icons:hover {
+  text-decoration: none;
+}
+
+a.slider-icons > * {
+  color: #adadad;
+  font-size: 24px;
+  line-height: 100px;
+}
+
+.just-item > i {
+  font-size: 27px;
+  color: #777;
+}
+
+.just-item {
+  position: absolute;
+  width: 200px;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 50%;
+  margin-top: -50px;
+  word-break: break-all;
+}
+
+.item .w-300,
+.item .w-300 audio {
+  width: 300px;
+}
+
+.audio-title {
+  text-align: left;
+}
+
+i.icon-download.download-doc {
+  color: #16b0c5;
+  right: 35px;
+  position: static;
+  line-height: 24px;
+  font-size: 21px;
+}
+
+.full-size-view {
+  /* position: absolute;
+    top: 4px;
+    right: 34px;*/
+  color: #16b0c5;
+  background: #fff;
+  padding: 5px;
+  border-radius: 2px;
+}
+
+.fullView .viwer-holder {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border-radius: 0px;
+}
+
+.slider-a > .bx-wrapper .zoomOn .img img {
+  /* width: 200% !important; */
+  max-height: none !important;
+  max-width: none !important;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  transform: translate(0, 0);
+  cursor: crosshair;
+  /* transition: .3s;
+    transition-timing-function: cubic-bezier(.3, .1); */
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='1/4x'] .img img,
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='1/3x'] .img img,
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='1/2x'] .img img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto !important;
+  left: 0 !important;
+  right: 0;
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='1/4x'] .img img {
+  max-width: 25% !important;
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='1/3x'] .img img {
+  max-width: 50% !important;
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='1/2x'] .img img {
+  max-width: 75% !important;
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='1x'] .img img {
+  width: auto !important;
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='2x'] .img img {
+  width: 200% !important;
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='3x'] .img img {
+  width: 300% !important;
+}
+
+.slider-a > .bx-wrapper .items-wrapper[zoomdistance='4x'] .img img {
+  width: 400% !important;
+}
+
+span.view-item.img.docView img {
+  height: auto !important;
+  box-shadow: 0px 0px 1px #00000047;
+  display: block;
+  margin: 0 auto !important;
+  margin-top: 1px !important;
+  -webkit-transform: translate(0%, 0%) !important;
+  transform: translate(0%, 0%) !important;
+  left: auto;
+}
+
+span.view-item.img.docView {
+  padding-bottom: 40px;
+}
+
+span.view-item.img.docView::-webkit-scrollbar-thumb {
+  background: #848484;
+}
+
+.items-wrapper:after,
+.inner:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.slider-icons {
+  line-height: 90px;
+}
+
+.slider-icons img {
+  margin: auto;
+  vertical-align: middle;
+  display: inline-block;
+  height: 51px !important;
+  object-fit: none;
+}
+
+.download-link {
+  cursor: pointer;
+  text-decoration: underline;
+}

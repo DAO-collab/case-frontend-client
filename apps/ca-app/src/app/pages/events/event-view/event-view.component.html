@@ -1,0 +1,237 @@
+<article id="content">
+  <div class="event-view-header-img">
+    <figure class="event-preview-location">
+      <img
+        alt="Event Location"
+        class="event-map-location cursor-pointer"
+        *ngIf="
+          event.location.location_type === 'suggested_address' || event.location.location_type === 'custom_address'
+        "
+        (click)="redirectGoogleMap(event.location.address)"
+        [src]="formatMapLink(event)"
+      />
+      <img
+        alt="Event Location"
+        class="default-img"
+        src="../../../../images/location.svg"
+        *ngIf="
+          event.location.location_type === 'video_conference' ||
+          event.location.location_type === 'no_location' ||
+          event.location.location_type === 'caseactive_convo'
+        "
+      />
+      <div
+        class="centered"
+        *ngIf="
+          event.location.location_type === 'video_conference' ||
+          event.location.location_type === 'no_location' ||
+          event.location.location_type === 'caseactive_convo'
+        "
+      >
+        <p class="day">{{ event.start_date | date : 'EE' | uppercase }}</p>
+        <p class="date">{{ event.start_date | date : 'dd' }}</p>
+      </div>
+    </figure>
+  </div>
+  <div class="event-view-header">
+    <div class="event-name">{{ event.name }}</div>
+    <div class="event-buttons">
+      <div class="event-view-attending-content">
+        <button
+          [disabled]="!(currentCaseStatus$ | async)"
+          class="primary-outline custom-color-builder-button event-view-button event-open-attending-button"
+          (click)="toggleAttendingDropdown()"
+          *ngIf="event.participants_ids && event.participants_ids.indexOf(userId) > -1"
+        >
+          {{ 'Attending' | translate }}
+          <span class="attending-arrow">›</span>
+        </button>
+
+        <div class="ins event-attending-item-custom-color-div" *ngIf="showAttending">
+          <div
+            class="event-attending-item event-attending-item-custom-color"
+            [ngClass]="{ selected: event.userAnswered === 'yes' }"
+            (click)="permissions?.['submit_own'] ? attendEvent('yes', event) : null"
+          >
+            <span translate>Yes</span>
+            <div class="radio-button">
+              <div></div>
+            </div>
+          </div>
+          <div
+            class="event-attending-item event-attending-item-custom-color"
+            [ngClass]="{ selected: event.userAnswered === 'no' }"
+            (click)="permissions?.['submit_own'] ? attendEvent('no', event) : false"
+          >
+            <span translate>No</span>
+            <div class="radio-button">
+              <div></div>
+            </div>
+          </div>
+          <div
+            class="event-attending-item event-attending-item-custom-color"
+            [ngClass]="{ selected: event.userAnswered === 'maybe' }"
+            (click)="permissions?.['submit_own'] ? attendEvent('maybe', event) : false"
+          >
+            <span translate>Maybe</span>
+            <div class="radio-button">
+              <div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="event-calendar-dropdown">
+        <button
+          [disabled]="!(currentCaseStatus$ | async)"
+          class="primary-outline custom-color-builder-button event-view-button event-view-calendar"
+          (click)="toggleCalendarDropdown()"
+        >
+          {{ 'Add to calendar' | translate }}
+        </button>
+        <div
+          class="ins event-attending-item-custom-color-div event-calendar-dropdown-content"
+          *ngIf="showAddToCalendar"
+        >
+          <div class="event-attending-item event-attending-item-custom-color ics-file event-view-row-flex">
+            <a class="event-add-to-calendar-a" [href]="icsCalendarLink" download="{{ event.name }}.event.ics">
+              <span class="event-add-to-calendar-span">iCal File (Universal)</span>
+            </a>
+          </div>
+          <div
+            class="event-attending-item event-attending-item-custom-color event-view-row-flex"
+            (click)="addToCalendar('google')"
+          >
+            <span>Google Calendar</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="event-view-details">
+    <div class="event-view-details-header">{{ 'Details' | translate }}</div>
+    <div class="event-view-details-item">
+      <img class="event-view-details-img" src="images/event-preview-created-by.svg" alt="" />
+      {{ 'Event by' | translate }}
+      <strong>
+        {{ teamData?.[event.user_id]?.given_name + ' ' + teamData?.[event.user_id]?.family_name }}
+      </strong>
+    </div>
+    <div class="event-view-details-item" *ngIf="event.location.address">
+      <img class="event-view-details-img event-icon-location" src="images/event-preview-location.svg" alt="" />
+      <strong>
+        <span
+          class="cursor-pointer"
+          *ngIf="
+            event.location.location_type !== 'custom_address' || event.location.location_type !== 'custom_address';
+            else showAddress
+          "
+          (click)="openLink(event.location.address)"
+        >
+          <span *ngIf="event.location.location_type === 'caseactive_convo'" translate>CaseActive Convo </span>
+          <span *ngIf="event.location.location_type === 'video_conference'" translate>Video Conference </span>
+        </span>
+
+        <ng-template #showAddress>
+          <span class="cursor-pointer" (click)="redirectGoogleMap(event.location.address)">
+            {{ event.location.address }}
+          </span>
+        </ng-template>
+      </strong>
+    </div>
+    <div class="event-view-details-item">
+      <img class="event-view-details-img" src="images/event-preview-date.svg" alt="" />
+      <span class="event-info-item">
+        {{ event.start_date | date : 'EEE, d MMMM y, h:mm a' }}
+        <span *ngIf="event.rrule_set || event.rrule"> (repetitive)</span>
+      </span>
+    </div>
+  </div>
+  <div class="event-view-details-item">
+    <img class="event-view-details-img event-icon-duration" src="images/event-preview-duration.svg" alt="" />
+    {{ 'Duration:' | translate }}
+    {{ calculateDuration() }}
+  </div>
+  <div class="event-view-details-item event-view-attending-section" *ngIf="event?.attending?.length">
+    <div class="event-view-attending">
+      <img class="event-view-details-img" src="images/event-preview-attending.svg" alt="" />
+      <strong>{{ event?.attending?.length }}</strong>
+      {{ 'Attending' | translate }}
+    </div>
+    <div class="event-view-attending-users">
+      <ul class="gallery-a">
+        <li *ngFor="let eventResponse of event.attending; let i = index">
+          <a *ngIf="i < 11">
+            <img
+              width="30"
+              height="30"
+              alt=""
+              [src]="utilsService.userAvatarUrl(eventResponse.user_id, 50)"
+              [title]="teamData?.[eventResponse.user_id]?.given_name + ' ' + teamData?.[eventResponse.user_id]?.family_name"
+            />
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="event-view-attending event-view-attending-more-users" *ngIf="event?.attending?.length > 10">
+      + {{ event?.attending?.length - 10 }} {{ 'more' | translate }}
+    </div>
+  </div>
+  <div class="event-view-details-item event-view-attending-section" *ngIf="event?.maybeattending?.length">
+    <div class="event-view-attending">
+      <img class="event-view-details-img" src="images/event-preview-maybe-attending.svg" alt="" />
+      <strong>{{ event?.maybeattending?.length }}</strong>
+      {{ 'Maybe' | translate }}
+    </div>
+    <div class="event-view-attending-users">
+      <ul class="gallery-a">
+        <li *ngFor="let eventResponse of event.maybeattending; let i = index">
+          <a *ngIf="i < 11">
+            <img
+              width="30"
+              height="30"
+              alt=""
+              [src]="utilsService.userAvatarUrl(eventResponse.user_id, 50)"
+              [title]="teamData?.[eventResponse.user_id]?.given_name + ' ' + teamData?.[eventResponse.user_id]?.family_name"
+            />
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="event-view-attending event-view-attending-more-users" *ngIf="event?.maybeattending?.length > 10">
+      + {{ event?.attending?.length - 10 }} {{ 'more' | translate }}
+    </div>
+  </div>
+  <div class="event-view-details-item event-view-attending-section" *ngIf="event?.notattending?.length">
+    <div class="event-view-attending">
+      <img class="event-view-details-img" src="images/event-preview-not-attending.svg" alt="" />
+      <strong> {{ event?.notattending?.length }}</strong>
+      {{ 'Not Attending' | translate }}
+    </div>
+    <div class="event-view-attending-users">
+      <ul class="gallery-a">
+        <li *ngFor="let eventResponse of event.notattending; let i = index">
+          <a *ngIf="i < 11">
+            <img
+              width="30"
+              height="30"
+              alt=""
+              [src]="utilsService.userAvatarUrl(eventResponse.user_id, 50)"
+              [title]="teamData?.[eventResponse.user_id]?.given_name + ' ' + teamData?.[eventResponse.user_id]?.family_name"
+            />
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="event-view-attending event-view-attending-more-users" *ngIf="event?.notattending?.length > 10">
+      + {{ event?.notattending?.length - 10 }} {{ 'more' | translate }}
+    </div>
+  </div>
+  <div class="event-view-details-item event-view-description" *ngIf="event.description">
+    {{ event.description }}
+  </div>
+  <hr class="event-preview-hr" />
+  <div class="event-preview-button">
+    <ca-button [text]="'Close' | translate" [isFilled]="true" (btnClick)="closeEventPreviewModal()" [fontWeight]="700" margin="0 0 10px"></ca-button>
+  </div>
+</article>

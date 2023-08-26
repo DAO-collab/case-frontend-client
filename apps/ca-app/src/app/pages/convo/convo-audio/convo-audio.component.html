@@ -1,0 +1,53 @@
+<div class="recording-label" *ngIf="convoList?.recorded">
+  <div class="red-circle"></div>
+  Audio call is being recorded
+</div>
+
+<div id="preview">
+  <div class="preview-audio">
+    <div
+      class="convo-participants"
+      #participants
+      [ngClass]="{
+        'convo-participants-row-elements-1': numberOfParticipants === 1,
+        'convo-participants-row-elements-2': numberOfParticipants === 2,
+        'convo-participants-row-elements-3-4': numberOfParticipants > 2 && numberOfParticipants < 5,
+        'convo-participants-row-elements-5-8': numberOfParticipants > 4 && numberOfParticipants < 9,
+        'convo-participants-row-elements-9-16': numberOfParticipants > 8 && numberOfParticipants < 17
+      }"
+    >
+      <div class="local-participant-div">
+        <img class="convo-avatar-icon" [src]="userAvatarSrc" alt="" />
+        <div class="local-participant-name">
+          <img
+            class="micro-disabled-image"
+            src="/images/convo-participant-audio-disabled.svg"
+            alt=""
+            *ngIf="isAudioMuted"
+          />
+          {{ 'You' | translate }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="convo-buttons">
+  <div
+    class="convo-button"
+    *ngIf="isPreviewOptionSet"
+    [ngClass]="{ 'convo-button-enabled-background': !isAudioMuted }"
+    (click)="muteAudio()"
+  >
+    <img class="convo-icon-audio" *ngIf="!isAudioMuted" src="/images/convo-audio-enabled.svg" alt="" />
+    <img class="convo-icon-audio" *ngIf="isAudioMuted" src="/images/convo-audio-disabled.svg" alt="" />
+  </div>
+
+  <div class="convo-button convo-option-button convo-button-enabled-background" (click)="expandMenuSettings()">
+    <app-svg-icon icon="convo-3-dots" [height]="16" [width]="4"></app-svg-icon>
+  </div>
+
+  <div class="convo-expanded-menu" *ngIf="isUserMenuExpanded">
+    <div class="convo-expanded-menu-option" (click)="leaveConvo()">Leave Convo</div>
+  </div>
+</div>

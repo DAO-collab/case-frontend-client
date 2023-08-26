@@ -1,0 +1,59 @@
+<article class="module-f login-page" id="content" *ngIf="!showConfirmCode">
+  <figure>
+    <img alt="Placeholder" width="150" height="119" src="images/illustrations/manage.svg" />
+  </figure>
+  <h2 translate>Login or Signup</h2>
+  <header></header>
+
+  <form
+    name="loginForm"
+    [formGroup]="form"
+    (submit)="form.valid && login()"
+    autocomplete="off"
+    class="form-e form-e-x"
+    novalidate
+  >
+    <div class="username-field-wrap">
+      <p *ngIf="usernameType === UsernameType.Email">
+        <input id="email" type="text" formControlName="username" placeholder="Email Address" />
+        <span *ngIf="form.invalid && saveButtonPressed" class="error-msg"
+          >&#8226;<span style="margin-left: 2px" translate>Invalid email entered</span></span
+        >
+      </p>
+    </div>
+
+    <p class="notice-a success" app-ca-translate [message]="message" *ngIf="message"></p>
+    <p app-ca-error [errors]="signInError"></p>
+
+    <p>
+      <button type="submit" [disabled]="form.invalid || loading">
+        <span *ngIf="!loading" [innerHTML]="'Next' | translate"></span>
+        <span *ngIf="loading" translate>Processing...</span>
+      </button>
+    </p>
+  </form>
+
+  <footer>
+    <h3 translate>Need Help?</h3>
+    <p>
+      <a class="custom-text-color" [routerLink]="['/support']" translate>Click here to contact us</a>
+    </p>
+  </footer>
+</article>
+<footer id="footer" *ngIf="!showConfirmCode">
+  <p>
+    <span translate>Made with</span> <i class="icon-heart overlay-a custom-text-color"></i>
+    <span class="hidden" translate>love</span> <span translate>in New York City</span><br />
+    &copy;<span translate> CaseActive </span><span class="date">{{ currentYear }}</span>
+    <span translate> All rights reserved </span> |
+    <a class="custom-text-color" target="_blank" [href]="termsOfUseUrl" translate>Terms of Use</a> |
+    <a class="custom-text-color" target="_blank" [href]="contactUs" translate>Contact Us</a>
+  </p>
+</footer>
+
+<app-enter-code
+  *ngIf="showConfirmCode"
+  [loginType]="usernameType"
+  [userName]="form.value.username"
+  (backToEmailEvent)="backToEmailEvent()"
+></app-enter-code>

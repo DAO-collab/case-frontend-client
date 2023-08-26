@@ -1,0 +1,18 @@
+$default-color: rgb(23, 176, 196);
+
+
+.popup-copy-icon-wrapper {
+    min-width: 26px;
+    position: relative;
+    margin-top: 2px;
+    display: inline;
+    .signup-copy-icon {
+        height: 16px;
+        width: 19px;
+        margin-left: 10px;
+        cursor: pointer;
+        &.custom-color {
+            fill: var(--host-background-color, $default-color);
+        }
+    }
+}

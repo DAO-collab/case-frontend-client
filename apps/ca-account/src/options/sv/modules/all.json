@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "L\u00e4s alla fallf\u00e4lt specificera i roll",
+    "write": "Skriv alla fallf\u00e4lt specificera i roll"
+  },
+  "convos": {
+    "read_all": "Se aktuell status f\u00f6r konvos.",
+    "manage_own": "G\u00e5 med och avslut konvo.",
+    "moderate_others": "Starta samtal, avsluta samtal och ta bort deltagare.",
+    "read_all_submissions": "L\u00e4s alla inspelade konvos."
+  },
+  "events": {
+    "read_all": "L\u00e4s alla h\u00e4ndelser.",
+    "manage_own": "Skapa, uppdatera och ta bort ett eget event.",
+    "moderate_others": "Uppdatera och ta bort andras h\u00e4ndelse.",
+    "read_all_submissions": "L\u00e4s alla evenemangsbekr\u00e4ftelser.",
+    "submit_own": "Bekr\u00e4fta beg\u00e4ran om n\u00e4rvaro vid evenemang."
+  },
+  "posts": {
+    "read_all": "L\u00e4s alla inl\u00e4gg.",
+    "manage_own": "Skapa, uppdatera och ta bort eget inl\u00e4gg.",
+    "moderate_others": "Uppdatera och ta bort andras inl\u00e4gg."
+  },
+  "forms": {
+    "read_all": "L\u00e4s alla blanketter.",
+    "manage_own": "Skapa, uppdatera och ta bort eget formul\u00e4r.",
+    "moderate_others": "Uppdatera och ta bort andras formul\u00e4r.",
+    "read_all_submissions": "L\u00e4s alla formul\u00e4rinl\u00e4mningar.",
+    "submit_own": "Skicka formul\u00e4rf\u00f6rfr\u00e5gan."
+  },
+  "invoices": {
+    "read_all": "L\u00e4s alla fakturor.",
+    "manage_own": "Skapa, uppdatera och radera egen faktura.",
+    "moderate_others": "Uppdatera och radera andras faktura.",
+    "read_all_submissions": "L\u00e4s alla fakturainl\u00e4mningar.",
+    "submit_own": "Skicka in fakturabeg\u00e4ran."
+  },
+  "notes": {
+    "read_all": "L\u00e4s alla anteckningar.",
+    "manage_own": "Skapa, uppdatera och ta bort en egen anteckning.",
+    "moderate_others": "Uppdatera och ta bort andras anteckning."
+  },
+  "signs": {
+    "read_all": "L\u00e4s alla e-skyltar.",
+    "manage_own": "Skapa, uppdatera och ta bort egen e-skylt.",
+    "moderate_others": "Uppdatera och ta bort andras e-skylt.",
+    "read_all_submissions": "L\u00e4s alla inl\u00e4mningar av e-skyltar.",
+    "submit_own": "Skicka f\u00e4ltf\u00f6rfr\u00e5gan."
+  },
+  "tasks": {
+    "read_all": "L\u00e4s alla uppgifter.",
+    "manage_own": "Skapa, uppdatera och ta bort egen uppgift.",
+    "moderate_others": "Uppdatera och ta bort andras uppgift.",
+    "read_all_submissions": "L\u00e4s alla uppgiftsinl\u00e4mningar.",
+    "submit_own": "Skicka uppgiftsbeg\u00e4ran."
+  },
+  "team": { "read_all": "L\u00e4s laget i fall" }
+}

@@ -1,0 +1,43 @@
+<div class="view-perimissions">
+  <div tabindex="0">
+    <div class="semantic-select-wrapper">
+      <div class="semantic-select" [class.active]="toggleActive">
+        <div class="input cursor-pointer" #checkboxLabel>
+          <div class="text"><span *ngIf="!hideLable" translate>Visibility:</span> {{ permissionsListStr }}</div>
+          <div class="ticker"></div>
+        </div>
+        <ul class="select-ffe" #checkboxList>
+          <li class="hidden" data-value="Activity">
+            <a translate>Visibility</a>
+          </li>
+          <li>
+            <a translate (click)="$event.preventDefault(); $event.stopPropagation()">all</a>
+            <label class="checkbox-container centered-checkbox">
+              <input
+                type="checkbox"
+                #toAll
+                [checked]="outputValue.length == items.length"
+                (change)="$event.preventDefault(); $event.stopPropagation(); toggleAllPermissions(toAll)"
+              />
+              <span class="checkmark"></span>
+            </label>
+          </li>
+          <li *ngFor="let role of items">
+            <a (click)="$event.preventDefault(); $event.stopPropagation()">{{ role.name }}</a>
+            <label class="checkbox-container centered-checkbox">
+              <input
+                type="checkbox"
+                [checked]="outputValue.includes(role.role_id)"
+                (change)="$event.preventDefault(); $event.stopPropagation(); togglePermission(role.role_id)"
+              />
+              <span
+                class="checkmark"
+                (click)="$event.stopPropagation(); $event.preventDefault(); togglePermission(role.role_id)"
+              ></span>
+            </label>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

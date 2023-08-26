@@ -1,0 +1,192 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="!webhooks?.length && !loading" class="text-center">
+    <p translate>No Webhooks yet.</p>
+  </div>
+
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="webhooks.length && !loading">
+      <tr>
+        <th translate>URL</th>
+        <th translate>Events</th>
+        <th translate>Description</th>
+        <th translate>Source CIDR</th>
+        <th translate>Active</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let webhook of webhooks">
+        <td>{{ webhook.url }}</td>
+        <td>
+          <span *ngFor="let event of webhook.events; let last = last"
+            >{{ webhookEvents[event] }}{{ last ? '' : ', ' }}</span
+          >
+        </td>
+        <td>{{ webhook.description }}</td>
+        <td>{{ webhook.source_cidr }}</td>
+        <td>{{ (webhook.active ? 'Yes' : 'No') | translate }}</td>
+        <td>
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="editWebhook(webhook)" translate>
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit
+              </a>
+              <a
+                appConfirmationPopUp
+                title="Delete Webhook"
+                message="You are about to delete webhook. Are you sure?"
+                (yes)="removeWebhook(webhook?.asset_id!)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Remove
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</article>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="activeWebhookPopUp"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="addWebhookForm"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2>
+        {{ (editingWebhook ? 'Edit Webhook' : 'Add Webhook') | translate }}
+        <span *ngIf="editingWebhook">
+          > {{ editingWebhook.asset_id?.slice(editingWebhook.asset_id!.lastIndexOf('-') + 1) }}</span
+        >
+      </h2>
+      <p class="half-width">
+        <label for="webhookUrl" class="required" translate>URL</label>
+        <input #webhookUrlInput type="text" id="webhookUrl" formControlName="url" />
+        <app-error
+          [fieldValue]="addWebhookForm.get('url')?.value"
+          [validationErrors]="validationErrors"
+          [field]="webhookUrlInput"
+          [validation]="{ required: true }"
+        ></app-error>
+        <span class="form-hint">http(s)://www.domain-sample.com</span>
+        <span
+          style="display: block; color: #d75a4a; line-height: 24px"
+          *ngIf="
+            addWebhookForm.controls['url'].invalid &&
+            addWebhookForm.controls['url'].touched &&
+            addWebhookForm.controls['url'].value
+          "
+          >&#8226;<span style="margin-left: 10px" translate>is invalid.</span></span
+        >
+      </p>
+
+      <p class="half-width">
+        <label for="webhookDescription" translate>Description</label>
+        <input #webhookDescriptionInput type="text" id="webhookDescription" formControlName="description" />
+      </p>
+
+      <p>
+        <label for="webhookEvents" class="required" translate>Events</label>
+        <ng-select
+          #webhookEventsSelect
+          id="webhookEvents"
+          bindValue="id"
+          bindLabel="text"
+          placeholder="{{ 'No event selected' | translate }}"
+          formControlName="events"
+          [multiple]="true"
+          [items]="webhookEventsOptions"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="addWebhookForm.get('events')?.value?.length"
+          [regularHtmlElementName]="webhookEventsSelect"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        >
+        </app-error>
+      </p>
+
+      <p class="half-width">
+        <label for="webhookSource" translate>Source CIDR</label>
+        <input #webhookSourceCidrInput type="text" id="webhookSource" formControlName="source_cidr" />
+        <app-error
+          [fieldValue]="addWebhookForm.get('source_cidr')?.value"
+          [validationErrors]="validationErrors"
+          [field]="webhookSourceCidrInput"
+          [validation]="{ required: false }"
+        ></app-error>
+        <span class="form-hint">0.0.0.0/32</span>
+        <span
+          style="display: block; color: #d75a4a; line-height: 24px"
+          *ngIf="
+            addWebhookForm.controls['source_cidr'].invalid &&
+            addWebhookForm.controls['source_cidr'].touched &&
+            addWebhookForm.controls['source_cidr'].value
+          "
+          >&#8226;<span style="margin-left: 10px" translate>is invalid.</span></span
+        >
+      </p>
+
+      <p class="half-width" style="display: flex; align-items: center">
+        <label class="left-label" style="margin-right: 10px" for="webhookActive" translate>Active</label>
+        <label class="checkbox-container">
+          <input type="checkbox" id="webhookActive" formControlName="active" />
+          <span class="checkmark"></span>
+        </label>
+      </p>
+
+      <p class="submit">
+        <button type="button" class="f-right" [disabled]="savingWebhook" (click)="saveWebhook()">
+          {{ 'Save' | translate }}
+        </button>
+      </p>
+      <a class="close" (click)="refreshModal()">Close</a>
+    </div>
+    <a class="close" (click)="refreshModal()">Close</a>
+  </div>
+</form>
+
+<form method="post" class="popup-a a form-d shown" *ngIf="activeSecretPopUp">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Secret Webhook</h2>
+
+      <p>
+        <label translate>Make sure to copy your new secret webhook now. You won’t be able to see it again!</label>
+        <span style="display: flex">
+          <input #secretWebhookInput type="text" [value]="secretWebhook" />
+          <button
+            type="button"
+            style="margin: 0 0 0 10px; padding: 0 10px 0 8px"
+            (click)="copySecretWebhook(secretWebhookInput)"
+          >
+            <i class="icon-clipboard" style="font-size: 21px; vertical-align: sub"></i>
+          </button>
+        </span>
+      </p>
+
+      <p class="submit">
+        <button type="button" class="f-right" (click)="refreshSecretModal(false)" translate>Save</button>
+      </p>
+      <a class="close" (click)="refreshSecretModal(false)">Close</a>
+    </div>
+    <a class="close" (click)="refreshSecretModal(false)">Close</a>
+  </div>
+</form>

@@ -1,0 +1,519 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-01-15T21:57:38.322712\n"
+"PO-Revision-Date: 2018-01-15T21:57:38.978246\n"
+"Language: pa\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/repo/src/cases/create-case.html:17
+#: /tmp/repo/src/cases/create-case.html:19
+#: /tmp/repo/src/cases/edit-case.html:21 /tmp/repo/src/cases/edit-case.html:23
+msgid "About"
+msgstr "ਇਸ ਬਾਰੇ"
+
+#: /tmp/repo/src/users/create-user.html:70
+msgid "Add"
+msgstr "ਜੋੜੋ"
+
+#: /tmp/repo/src/users/add-user.controller.js:14
+msgid "Add User"
+msgstr "ਯੂਜ਼ਰ ਜੋੜੋ"
+
+#: /tmp/repo/src/users/create-user.html:71
+msgid "Adding..."
+msgstr "ਜੋੜ ਰਿਹਾ ਹੈ ..."
+
+#: /tmp/repo/src/profile/profile.html:107
+#: /tmp/repo/src/profile/profile.html:119
+#: /tmp/repo/src/profile/profile.html:121
+#: /tmp/repo/src/profile/profile.html:122
+msgid "Address"
+msgstr "ਪਤਾ"
+
+#: /tmp/repo/src/profile/profile.html:110
+#: /tmp/repo/src/profile/profile.html:126
+#: /tmp/repo/src/profile/profile.html:128
+#: /tmp/repo/src/profile/profile.html:129
+msgid "Address 2"
+msgstr "ਪਤਾ 2"
+
+#: /tmp/repo/src/root/root.html:127
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ"
+
+#: /tmp/repo/src/login/login.html:21
+msgid ""
+"All rights\n"
+"        reserved"
+msgstr "ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ"
+
+#: /tmp/repo/src/cases/assign-user.controller.js:20
+msgid "Assign User"
+msgstr "ਯੂਜ਼ਰ ਨੂੰ ਸੌਂਪਣਾ"
+
+#: /tmp/repo/src/groups/create-group.html:24
+#: /tmp/repo/src/groups/create-group.html:26
+#: /tmp/repo/src/groups/edit-group.html:24
+#: /tmp/repo/src/groups/edit-group.html:26
+msgid "Audios"
+msgstr "ਔਡੀਓ"
+
+#: /tmp/repo/src/profile/profile.html:11
+msgid "Basic"
+msgstr "ਬੇਸਿਕ"
+
+#: /tmp/repo/src/cases/assign-case.html:37
+#: /tmp/repo/src/cases/create-case.html:50
+#: /tmp/repo/src/cases/edit-case.html:54
+#: /tmp/repo/src/groups/create-group.html:74
+#: /tmp/repo/src/groups/edit-group.html:78
+#: /tmp/repo/src/profile/profile.html:222 /tmp/repo/src/users/add-user.html:28
+#: /tmp/repo/src/users/create-user.html:73
+#: /tmp/repo/src/users/edit-user.html:45
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: /tmp/repo/src/cases/assign-case.html:17
+msgid "Case Assign <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+msgstr "ਕੇਸ ਅਸਾਈਨ <span class=\"float-right\">{{vm.actionCaseId}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform.controller.js:27
+msgid "Case Form Fields"
+msgstr "ਕੇਸ ਫਾਰਮ ਫੀਲਡਜ਼"
+
+#: /tmp/repo/src/cases/create-case.html:13
+msgid "Case Info"
+msgstr "ਕੇਸ ਜਾਣਕਾਰੀ"
+
+#: /tmp/repo/src/cases/edit-case.html:17
+msgid "Case Info <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+msgstr "ਕੇਸ ਜਾਣਕਾਰੀ <span class=\"float-right\">{{vm.editData.case_id}}</span>"
+
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:9
+msgid "Case form updated"
+msgstr "ਕੇਸ ਫਾਰਮ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ"
+
+#: /tmp/repo/src/cases/assign-case.html:8 /tmp/repo/src/cases/edit-case.html:8
+msgid "Case not found!"
+msgstr "ਕੇਸ ਨਹੀਂ ਮਿਲਿਆ!"
+
+#: /tmp/repo/src/index.html:5 /tmp/repo/src/login/login.html:21
+#: /tmp/repo/src/root/root.html:127
+msgid "CaseActive"
+msgstr "ਕੇਸਐਕਟਿਵ"
+
+#: /tmp/repo/src/cases/cases.controller.js:31 /tmp/repo/src/root/root.html:21
+msgid "Cases"
+msgstr "ਕੇਸ"
+
+#: /tmp/repo/src/profile/profile.html:113
+msgid ""
+"City\n"
+"                    /Locality"
+msgstr "ਸਿਟੀ / ਟਿਕਾਣਾ"
+
+#: /tmp/repo/src/profile/profile.html:133
+#: /tmp/repo/src/profile/profile.html:135
+#: /tmp/repo/src/profile/profile.html:136
+msgid "City/Locality"
+msgstr "ਸਿਟੀ / ਟਿਕਾਣਾ"
+
+#: /tmp/repo/src/profile/profile.html:82 /tmp/repo/src/profile/profile.html:90
+#: /tmp/repo/src/profile/profile.html:92 /tmp/repo/src/profile/profile.html:93
+msgid "Company Name"
+msgstr "ਕੰਪਨੀ ਦਾ ਨਾਂ"
+
+#: /tmp/repo/src/profile/profile.html:100
+#: /tmp/repo/src/profile/profile.html:85 /tmp/repo/src/profile/profile.html:97
+#: /tmp/repo/src/profile/profile.html:99
+msgid "Company Title"
+msgstr "ਕੰਪਨੀ ਦਾ ਸਿਰਲੇਖ"
+
+#: /tmp/repo/src/cases/cases.html:199
+msgid "Confirm Password"
+msgstr "ਪਾਸਵਰਡ ਪੱਕਾ ਕਰੋ"
+
+#: /tmp/repo/src/root/root.html:24
+msgid "Content"
+msgstr "ਸਮੱਗਰੀ"
+
+#: /tmp/repo/src/users/add-user.html:25
+msgid "Continue"
+msgstr "ਜਾਰੀ ਰੱਖੋ"
+
+#: /tmp/repo/src/root/root.html:7
+msgid "Cookies are disabled. Please enable it."
+msgstr "ਕੁਕੀਜ਼ ਅਯੋਗ ਹਨ ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਸਮਰੱਥ ਕਰੋ"
+
+#: /tmp/repo/src/profile/profile.html:145
+#: /tmp/repo/src/profile/profile.html:160
+#: /tmp/repo/src/profile/profile.html:162
+#: /tmp/repo/src/profile/profile.html:164
+#: /tmp/repo/src/profile/profile.html:166
+msgid "Country"
+msgstr "ਦੇਸ਼"
+
+#: /tmp/repo/src/cases/create-case.html:46
+#: /tmp/repo/src/groups/create-group.html:70
+msgid "Create"
+msgstr "ਬਣਾਓ"
+
+#: /tmp/repo/src/cases/create-case.controller.js:16
+msgid "Create Case"
+msgstr "ਕੇਸ ਬਣਾਓ"
+
+#: /tmp/repo/src/groups/create-group.controller.js:16
+msgid "Create Group"
+msgstr "ਗਰੁੱਪ ਬਣਾਓ"
+
+#: /tmp/repo/src/users/create-user.controller.js:16
+msgid "Create User"
+msgstr "ਯੂਜ਼ਰ ਬਣਾਓ"
+
+#: /tmp/repo/src/cases/cases.html:224
+msgid "Create a case for a business"
+msgstr "ਕਿਸੇ ਕਾਰੋਬਾਰ ਲਈ ਕੇਸ ਬਣਾਓ"
+
+#: /tmp/repo/src/users/users.html:9
+msgid "Create an user"
+msgstr "ਇੱਕ ਉਪਭੋਗਤਾ ਬਣਾਓ"
+
+#: /tmp/repo/src/cases/create-case.html:47
+#: /tmp/repo/src/groups/create-group.html:71
+msgid "Creating..."
+msgstr "ਬਣਾ ਰਿਹਾ ਹੈ ..."
+
+#: /tmp/repo/src/cases/cases.html:167
+msgid "Current Password"
+msgstr "ਵਰਤਮਾਨ ਪਾਸਵਰਡ"
+
+#: /tmp/repo/src/dashboard/dashboard.controller.js:25
+#: /tmp/repo/src/root/root.html:19
+msgid "Dashboard"
+msgstr "ਡੈਸ਼ਬੋਰਡ"
+
+#: /tmp/repo/src/cases/create-case.html:29
+#: /tmp/repo/src/cases/create-case.html:31
+#: /tmp/repo/src/cases/edit-case.html:33 /tmp/repo/src/cases/edit-case.html:35
+msgid "Date Opened"
+msgstr "ਖੁੱਲ੍ਹੀ ਤਾਰੀਖ"
+
+#: /tmp/repo/src/profile/profile.html:44 /tmp/repo/src/profile/profile.html:52
+#: /tmp/repo/src/profile/profile.html:54 /tmp/repo/src/profile/profile.html:55
+msgid "Date of Birth"
+msgstr "ਜਨਮ ਤਾਰੀਖ"
+
+#: /tmp/repo/src/settings/design/design.controller.js:33
+msgid "Design"
+msgstr "ਡਿਜ਼ਾਈਨ"
+
+#: /tmp/repo/src/groups/create-group.html:29
+#: /tmp/repo/src/groups/create-group.html:31
+#: /tmp/repo/src/groups/edit-group.html:29
+#: /tmp/repo/src/groups/edit-group.html:31
+msgid "Documents"
+msgstr "ਦਸਤਾਵੇਜ਼"
+
+#: /tmp/repo/src/cases/edit-case.controller.js:15
+msgid "Edit Case"
+msgstr "ਕੇਸ ਸੰਪਾਦਿਤ ਕਰੋ"
+
+#: /tmp/repo/src/groups/edit-group.controller.js:16
+msgid "Edit Group"
+msgstr "ਸਮੂਹ ਸੰਪਾਦਿਤ ਕਰੋ"
+
+#: /tmp/repo/src/users/edit-user.controller.js:16
+msgid "Edit User"
+msgstr "ਯੂਜ਼ਰ ਸੋਧ"
+
+#: /tmp/repo/src/cases/cases.html:78 /tmp/repo/src/users/add-user.html:15
+#: /tmp/repo/src/users/add-user.html:17
+#: /tmp/repo/src/users/create-user.html:28
+#: /tmp/repo/src/users/create-user.html:30
+msgid "Email"
+msgstr "ਈ - ਮੇਲ"
+
+#: /tmp/repo/src/users/create-user.html:16
+#: /tmp/repo/src/users/create-user.html:18
+msgid "Family Name"
+msgstr "ਖਾਨਦਾਨ ਦਾ ਨਾ"
+
+#: /tmp/repo/src/groups/create-group.html:36
+msgid "Fiels"
+msgstr "ਫਾਈਲਾਂ"
+
+#: /tmp/repo/src/groups/create-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:34
+#: /tmp/repo/src/groups/edit-group.html:36
+msgid "Files"
+msgstr "ਫਾਇਲਾਂ"
+
+#: /tmp/repo/src/profile/profile.html:20 /tmp/repo/src/profile/profile.html:28
+#: /tmp/repo/src/profile/profile.html:30 /tmp/repo/src/profile/profile.html:31
+msgid "First Name"
+msgstr "ਪਹਿਲਾ ਨਾਂ"
+
+#: /tmp/repo/src/profile/profile.html:47 /tmp/repo/src/profile/profile.html:63
+#: /tmp/repo/src/profile/profile.html:66 /tmp/repo/src/profile/profile.html:71
+msgid "Gender"
+msgstr "ਲਿੰਗ"
+
+#: /tmp/repo/src/users/create-user.html:21
+#: /tmp/repo/src/users/create-user.html:23
+msgid "Given Name"
+msgstr "ਦਿੱਤਾ ਗਿਆ ਨਾਮ"
+
+#: /tmp/repo/src/groups/create-group.html:13
+msgid "Group Info"
+msgstr "ਸਮੂਹ ਜਾਣਕਾਰੀ"
+
+#: /tmp/repo/src/groups/edit-group.html:13
+msgid "Group Info <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+msgstr "ਗਰੁੱਪ ਜਾਣਕਾਰੀ <span class=\"float-right\">{{vm.editData.group_id}}</span>"
+
+#: /tmp/repo/src/groups/create-group.html:53
+#: /tmp/repo/src/groups/edit-group.html:55
+msgid "Group Permissions"
+msgstr "ਗਰੁੱਪ ਅਧਿਕਾਰ"
+
+#: /tmp/repo/src/groups/groups.controller.js:27
+#: /tmp/repo/src/root/root.html:23
+msgid "Groups"
+msgstr "ਸਮੂਹ"
+
+#: /tmp/repo/src/root/root.html:34
+msgid "Hello"
+msgstr "ਸਤ ਸ੍ਰੀ ਅਕਾਲ"
+
+#: /tmp/repo/src/groups/create-group.html:42
+#: /tmp/repo/src/groups/create-group.html:44
+#: /tmp/repo/src/groups/edit-group.html:42
+#: /tmp/repo/src/groups/edit-group.html:44
+msgid "Images"
+msgstr "ਚਿੱਤਰ"
+
+#: /tmp/repo/src/root/root.html:3
+msgid "Javascript are disabled. Please enable it."
+msgstr "ਜਾਵਾਸਕਰਿਪਟ ਅਯੋਗ ਹਨ ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਸਮਰੱਥ ਕਰੋ"
+
+#: /tmp/repo/src/profile/profile.html:185
+#: /tmp/repo/src/profile/profile.html:187
+#: /tmp/repo/src/profile/profile.html:192
+#: /tmp/repo/src/users/create-user.html:35
+#: /tmp/repo/src/users/create-user.html:40
+#: /tmp/repo/src/users/create-user.html:46
+msgid "Language"
+msgstr "ਭਾਸ਼ਾ"
+
+#: /tmp/repo/src/profile/profile.html:181
+msgid "Language &amp; Region"
+msgstr "ਭਾਸ਼ਾ ਅਤੇ ਖੇਤਰ"
+
+#: /tmp/repo/src/profile/profile.html:23 /tmp/repo/src/profile/profile.html:35
+#: /tmp/repo/src/profile/profile.html:37 /tmp/repo/src/profile/profile.html:38
+msgid "Last Name"
+msgstr "ਆਖਰੀ ਨਾਂਮ"
+
+#: /tmp/repo/src/cases/assign-case.html:4 /tmp/repo/src/cases/cases.html:219
+#: /tmp/repo/src/cases/create-case.html:4 /tmp/repo/src/cases/edit-case.html:4
+#: /tmp/repo/src/groups/create-group.html:4
+#: /tmp/repo/src/groups/edit-group.html:4 /tmp/repo/src/groups/groups.html:4
+#: /tmp/repo/src/profile/profile.html:3
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:5
+#: /tmp/repo/src/settings/module/module-settings.html:4
+#: /tmp/repo/src/users/add-user.html:4 /tmp/repo/src/users/create-user.html:4
+#: /tmp/repo/src/users/edit-user.html:4 /tmp/repo/src/users/users.html:4
+msgid "Loading..."
+msgstr "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ ..."
+
+#: /tmp/repo/src/profile/profile.html:104
+msgid "Location"
+msgstr "ਸਥਾਨ"
+
+#: /tmp/repo/src/root/root.html:42
+msgid "Log out"
+msgstr "ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ"
+
+#: /tmp/repo/src/root/root.html:27
+msgid "Logout"
+msgstr "ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ"
+
+#: /tmp/repo/src/login/login.html:20 /tmp/repo/src/root/root.html:126
+msgid "Made with"
+msgstr "ਦੇ ਨਾਲ ਬਣੇ"
+
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Module"
+msgstr "ਮੋਡੀਊਲ"
+
+#: /tmp/repo/src/settings/module/module-settings.controller.js:33
+msgid "Modules"
+msgstr "ਮੋਡੀਊਲ"
+
+#: /tmp/repo/src/settings/module/module-settings.html:9
+msgid "Modules settings updated"
+msgstr "ਮੋਡੀਊਲ ਸੈਟਿੰਗਜ਼ ਨੂੰ ਅਪਡੇਟ ਕੀਤਾ"
+
+#: /tmp/repo/src/groups/create-group.html:17
+#: /tmp/repo/src/groups/create-group.html:19
+#: /tmp/repo/src/groups/edit-group.html:17
+#: /tmp/repo/src/groups/edit-group.html:19
+msgid "Name"
+msgstr "ਨਾਮ"
+
+#: /tmp/repo/src/cases/cases.html:180
+msgid "New Password"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ"
+
+#: /tmp/repo/src/cases/cases.html:223
+msgid "No cases found."
+msgstr "ਕੋਈ ਕੇਸ ਨਹੀਂ ਮਿਲੇ."
+
+#: /tmp/repo/src/groups/groups.html:8
+msgid "No group found."
+msgstr "ਕੋਈ ਸਮੂਹ ਨਹੀਂ ਮਿਲਿਆ"
+
+#: /tmp/repo/src/users/users.html:8
+msgid "No user found."
+msgstr "ਕੋਈ ਉਪਭੋਗਤਾ ਨਹੀਂ ਮਿਲਿਆ."
+
+#: /tmp/repo/src/profile/profile.html:79
+msgid "Occupation"
+msgstr "ਕਿੱਤਾ"
+
+#: /tmp/repo/src/groups/create-group.html:55
+#: /tmp/repo/src/groups/edit-group.html:53
+msgid "Permission"
+msgstr "ਅਧਿਕਾਰ"
+
+#: /tmp/repo/src/profile/profile.controller.js:30
+msgid "Profile Settings"
+msgstr "ਪ੍ਰੋਫਾਈਲ ਸੈਟਿੰਗਜ਼"
+
+#: /tmp/repo/src/cases/assign-case.html:33
+#: /tmp/repo/src/cases/edit-case.html:50
+#: /tmp/repo/src/groups/edit-group.html:74
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:60
+#: /tmp/repo/src/settings/module/module-settings.html:23
+#: /tmp/repo/src/users/edit-user.html:42
+msgid "Save"
+msgstr "ਸੇਵ ਕਰੋ"
+
+#: /tmp/repo/src/cases/assign-case.html:34
+#: /tmp/repo/src/cases/edit-case.html:51
+#: /tmp/repo/src/groups/edit-group.html:75
+#: /tmp/repo/src/settings/caseform/caseform-settings.html:61
+#: /tmp/repo/src/settings/module/module-settings.html:24
+#: /tmp/repo/src/users/edit-user.html:43
+msgid "Saving..."
+msgstr "ਸੇਵ ਕਰ ਰਿਹਾ ਹੈ ..."
+
+#: /tmp/repo/src/root/root.html:25
+msgid "Settings"
+msgstr "ਸੈਟਿੰਗਾਂ"
+
+#: /tmp/repo/src/login/login.html:10
+msgid "Sign In"
+msgstr "ਸਾਈਨ - ਇਨ"
+
+#: /tmp/repo/src/profile/profile.html:142
+#: /tmp/repo/src/profile/profile.html:155
+#: /tmp/repo/src/profile/profile.html:156
+msgid "State/Region"
+msgstr "ਰਾਜ / ਖੇਤਰ"
+
+#: /tmp/repo/src/cases/create-case.html:34
+#: /tmp/repo/src/cases/create-case.html:40
+#: /tmp/repo/src/cases/edit-case.html:38
+#: /tmp/repo/src/settings/module/module-settings.html:12
+msgid "Status"
+msgstr "ਸਥਿਤੀ"
+
+#: /tmp/repo/src/cases/edit-case.html:44
+msgid "Status Opened"
+msgstr "ਸਥਿਤੀ ਖੁਲ੍ਹੀ"
+
+#: /tmp/repo/src/cases/create-case.html:22
+#: /tmp/repo/src/cases/create-case.html:24
+#: /tmp/repo/src/cases/edit-case.html:26 /tmp/repo/src/cases/edit-case.html:28
+msgid "Tag ID"
+msgstr "ਟੈਗ ID"
+
+#: /tmp/repo/src/login/login.html:22 /tmp/repo/src/root/root.html:128
+msgid "Terms of Use"
+msgstr "ਵਰਤੋ ਦੀਆਂ ਸ਼ਰਤਾਂ"
+
+#: /tmp/repo/src/profile/profile.html:201
+#: /tmp/repo/src/profile/profile.html:203
+#: /tmp/repo/src/profile/profile.html:208
+#: /tmp/repo/src/users/create-user.html:51
+#: /tmp/repo/src/users/create-user.html:56
+#: /tmp/repo/src/users/create-user.html:62
+msgid "Timezone"
+msgstr "ਸਮਾਂ ਖੇਤਰ"
+
+#: /tmp/repo/src/profile/profile.html:219
+msgid "Update"
+msgstr "ਅੱਪਡੇਟ ਕਰੋ"
+
+#: /tmp/repo/src/profile/profile.html:220
+msgid "Updating"
+msgstr "ਅੱਪਡੇਟ ਕਰਨਾ"
+
+#: /tmp/repo/src/users/create-user.html:12
+msgid "User Info"
+msgstr "ਯੂਜ਼ਰ ਜਾਣਕਾਰੀ"
+
+#: /tmp/repo/src/users/edit-user.html:16
+msgid "User Info <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+msgstr "ਯੂਜ਼ਰ ਜਾਣਕਾਰੀ <span class=\"float-right\">{{vm.editData.user_id}}</span>"
+
+#: /tmp/repo/src/users/edit-user.html:29 /tmp/repo/src/users/edit-user.html:35
+msgid "User Status"
+msgstr "ਯੂਜ਼ਰ ਸਥਿਤੀ"
+
+#: /tmp/repo/src/users/edit-user.html:20 /tmp/repo/src/users/edit-user.html:26
+msgid "User Type"
+msgstr "ਯੂਜ਼ਰ ਕਿਸਮ"
+
+#: /tmp/repo/src/users/edit-user.html:8
+msgid "User not found."
+msgstr "ਯੂਜ਼ਰ ਨਹੀਂ ਮਿਲਿਆ."
+
+#: /tmp/repo/src/root/root.html:22 /tmp/repo/src/users/users.controller.js:31
+msgid "Users"
+msgstr "ਯੂਜ਼ਰ"
+
+#: /tmp/repo/src/groups/create-group.html:47
+#: /tmp/repo/src/groups/create-group.html:49
+#: /tmp/repo/src/groups/edit-group.html:47
+#: /tmp/repo/src/groups/edit-group.html:49
+msgid "Videos"
+msgstr "ਵੀਡੀਓ"
+
+#: /tmp/repo/src/users/add-user.html:26
+msgid "Working..."
+msgstr "ਕੰਮ ਕਰਨਾ ..."
+
+#: /tmp/repo/src/profile/profile.html:148
+#: /tmp/repo/src/profile/profile.html:174
+#: /tmp/repo/src/profile/profile.html:175
+#: /tmp/repo/src/profile/profile.html:176
+msgid "Zip/Postal Code"
+msgstr "ਜਿਪ / ਪੋਸਟਲ ਕੋਡ"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "in New York City"
+msgstr "ਨਿਊਯਾਰਕ ਸਿਟੀ ਵਿਚ"
+
+#: /tmp/repo/src/login/login.html:20
+msgid "love"
+msgstr "ਪਿਆਰ"
+
+#: /tmp/repo/src/cases/assign-case.html:22
+msgid "{{group.name}}"
+msgstr "{{group.name}}"

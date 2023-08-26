@@ -1,0 +1,11 @@
+{
+  "post_user": "Wedzera vashandisi",
+  "put_user": "Shandura vashandisi",
+  "put_user_status": "Shandura mamiriro evashandisi",
+  "post_case": "Gadzirai makesi",
+  "put_case": "Shandura makesi",
+  "post_case_permission": "Isa vashandisi kumakesi",
+  "put_case_permission": "Shandura vashandisi vakapihwa kumakesi",
+  "post_case_post": "Gadzira zvinyorwa zvenyaya",
+  "delete_case_permission": "Bvisa vashandisi vakapihwa kumakesi"
+}

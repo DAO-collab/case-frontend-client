@@ -1,0 +1,104 @@
+<article id="content" class="module-d" (mouseover)="closeSearchDropdownOutside($event)">
+  <form [formGroup]="caseSearchForm" (submit)="searchCasesRequest()" class="form-f form-casesearch" *ngIf="!loading">
+    <p class="full-width-input">
+      <label for="fcsa" class="hidden" translate>Keyword</label>
+      <span class="searchKey ticker" (click)="showSearchFilter = true">{{ searchKey.replace('_id', ' ID') }}</span>
+      <input
+        #searchF
+        type="text"
+        id="fcsa"
+        class="search-with-key"
+        (keyPress)="searchInputControl($event)"
+        (focus)="searchKey == $any('') ? (showSearchFilter = true) : (showSearchFilter = false)"
+        formControlName="searchVal"
+        autocomplete="off"
+        placeholder=""
+      />
+    </p>
+
+    <input type="hidden" name="type" value="user" />
+    <p class="submit">
+      <button type="submit">Search</button>
+    </p>
+    <div class="search-sub-filters" [ngClass]="{ on: showSearchFilter }" *ngIf="!loading">
+      <div class="filter-item" (click)="setSearchKey(CaseSearchAttribute.TagId)">Tag ID</div>
+      <!-- <div class="filter-item" (click)="setSearchKey('case_id');">Case ID</div> -->
+    </div>
+  </form>
+
+  <app-loader class="clear-both" [active]="loading"></app-loader>
+
+  <div *ngIf="notFound" class="text-center clear-both">
+    <p translate>No cases found.</p>
+    <a [routerLink]="['/cases/create']" translate> Create a case for a business </a>
+  </div>
+
+  <div *ngIf="nothingFound" class="text-center empty-search">
+    <p translate>No cases found.</p>
+  </div>
+
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="cases.length && !loading && !nothingFound">
+      <tr>
+        <th translate>Case ID</th>
+        <th translate>Tag ID</th>
+        <th translate>Created On</th>
+        <th translate>Case Status</th>
+        <th translate>Case Type</th>
+        <th translate>Action</th>
+      </tr>
+
+      <tr *ngFor="let case of cases | filter : { case_status: caseStatusFilter }; let index = index">
+        <td>
+          <div class="d-flex">
+            {{ case.case_id.split('-').pop() }}
+            <!-- <div class="popup-copy-icon-wrapper">
+              <img
+                class="signup-copy-icon copy-svg-icon"
+                src="images/copy-icon-inactive.svg"
+                alt=""
+                (click)="copyText(case)"
+              />
+            </div> -->
+            <ca-copy (click)="copyText(case)"></ca-copy>
+          </div>
+        </td>
+        <td>{{ case.tag_id }}</td>
+        <td>{{ case.created_on | date : 'MM/dd/yyyy' }}</td>
+        <td translate>{{ statusNameById[case.case_status] }}</td>
+        <td>{{ case.case_type ? case.case_type.charAt(0).toUpperCase() + case.case_type.slice(1) : '' }}</td>
+        <td class="action-cell">
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a [id]="'editCaseButton-' + index" [routerLink]="['/cases/edit/' + case.case_id]" translate>
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit
+              </a>
+              <a
+                [id]="'assignUserToCaseButton-' + index"
+                [routerLink]="['/cases/permissions/' + case.case_id]"
+                translate
+              >
+                <img src="images/item-assign-user.svg" alt="" />
+                Assign Users
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+      <tr *ngIf="!cases.length">
+        <td colspan="100%" translate>No cases found</td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</article>

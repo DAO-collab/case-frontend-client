@@ -1,0 +1,272 @@
+#accept-invitation-content button span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#accept-invitation-content input[type='checkbox'] {
+  width: 18px;
+  height: 18px;
+}
+
+label.checkbox-container {
+  height: 20px;
+  width: 20px;
+}
+
+.centered-checkbox {
+  width: 20px;
+  margin: 0 auto;
+}
+
+label.checkbox-container input[type='checkbox'] {
+  display: inline-block;
+  height: 20px !important;
+  width: 20px;
+  vertical-align: top;
+}
+
+.container input,
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  max-height: 100%;
+}
+
+.checkmark {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0px;
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 1px solid #dbdbdb;
+  background: #f8fafb;
+  cursor: pointer;
+}
+
+.container .checkmark:after,
+.checkbox-container .checkmark:after {
+  content: '\ea18';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: -3000em;
+  width: 18px;
+  height: 18px;
+  color: #16b0c5;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: i;
+  line-height: 18px;
+  text-align: center;
+}
+
+.checkmark:after {
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+.container input:checked ~ .checkmark:after,
+.checkbox-container input:checked ~ .checkmark:after {
+  top: 0;
+}
+
+.list-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list-group-item {
+  width: calc(50% - 20px);
+}
+
+p.submit button[type='submit'] {
+  float: right;
+  margin: 0;
+  line-height: 20px;
+}
+
+div.tabs {
+  border: 0;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+div.tabs ul {
+  border: 0;
+  margin-bottom: 5px;
+  background-color: transparent;
+}
+
+#payment-form {
+  margin: 30px 0 100px 0;
+}
+
+#card-container {
+  min-height: 90px;
+}
+
+@media screen and (max-width: 500px) {
+  #card-container {
+    min-height: 140px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .payment-container {
+    display: flex;
+  }
+}
+.custom-fields-group h2 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.payment-container > div {
+  flex: 1;
+  margin: 20px 10px 0 10px;
+}
+
+.payment-holder,
+.payment-address,
+.semantic-select-wrapper {
+  margin: 20px 10px 0 10px;
+}
+
+.payment-holder > input,
+.payment-address > input {
+  font-size: 14px;
+  padding: 10px;
+}
+
+.hide {
+  display: none;
+}
+
+figure {
+  display: flex;
+  margin: 0;
+}
+
+figure div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+figure div h6 {
+  text-transform: none;
+  margin: 0;
+}
+
+.figure {
+  text-align: right;
+  padding-right: 50px;
+}
+
+.notation-label {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.mb-notifications {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.read-only {
+  pointer-events: none;
+}
+
+.notifications-custom-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.notifications-label {
+  width: 100% !important;
+}
+
+.error-text {
+  color: #d75a4a;
+}
+
+::ng-deep .popup-a.a .box-inner {
+  width: 680px;
+}
+
+.notification-body {
+  padding-left: 10px;
+}
+
+.company-info-body {
+  padding: 10px 25px 10px 10px;
+  width: 50%;
+  border-right: 1px solid #dbdbdb;
+}
+
+.company-info-title {
+  display: inline-block;
+  padding-top: 20px;
+  color: #9ba1a3;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+}
+.company-info-content {
+  display: inline-block;
+  padding-top: 20px;
+  color: #4b5153;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.mb-40 {
+  margin-bottom: 40px;
+}
+.company-info-img {
+  width: 50%;
+  display: grid;
+  justify-content: center;
+  align-items: end;
+}
+
+.display-flex {
+  display: flex;
+}
+.display-none {
+  display: none;
+}
+
+.semantic-select-wrapper {
+  margin-bottom: 20px;
+}
+
+.only-for-preview {
+  pointer-events: none;
+}
+
+:host ::ng-deep .only-for-preview .ng-input::after {
+  display: none !important;
+}
+
+.edit-wrapper-p {
+  padding-right: 10px;
+}
+
+#payment-form {
+  margin: 20px 10px 10px 10px;
+}
+
+.no-events {
+  pointer-events: none;
+}

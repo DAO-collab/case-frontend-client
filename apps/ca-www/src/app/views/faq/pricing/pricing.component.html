@@ -1,0 +1,289 @@
+<div class="content-wrapper">
+  <div class="pricing-title-wrapper">
+    <div class="pricing-upper-title-wrapper" translate>
+      <div class="pricing-upper-title" translate>Pricing</div>
+      <div class="pricing-title" translate>Enhance User Experience</div>
+    </div>
+
+    <div class="pricing-subtitle" translate>
+      There are no minimum fees and no upfront commitments. You only pay per staff seat, per month.
+    </div>
+  </div>
+
+  <div class="tariff-description-wrapper">
+    <div class="tariff-description-div no-content"></div>
+
+    <div class="tariff-description-div">
+      <div class="tariff-name" translate>Pro</div>
+      <div class="tariff-price-description" translate><span class="price">$125 </span>per Month</div>
+      <div class="tariff-description" translate>Everything you need to get started. 3 seats are included.</div>
+      <button class="tariff-contact-button" (click)="navigateToSignupPage()" translate>Get Started</button>
+    </div>
+
+    <div class="tariff-description-div">
+      <div class="tariff-name-and-popular-label-wrapper">
+        <div class="tariff-name" translate>Business</div>
+        <div class="popular-label">
+          <span class="popular-label-text" translate>Popular</span>
+        </div>
+      </div>
+      <div class="tariff-price-description" translate><span class="price">$416.67 </span>per Month</div>
+      <div class="tariff-description description-aligned-business" translate>
+        Our most popular plan. 4 seats are included.
+      </div>
+      <button class="tariff-contact-button" (click)="navigateToSignupPage()" translate>Get Started</button>
+    </div>
+
+    <div class="tariff-description-div last-div">
+      <div class="tariff-name" translate>Enterprise</div>
+      <a class="enterprise-description" (click)="scrollToContactUsSection()" translate> Contact sales for pricing </a>
+      <div class="tariff-description description-aligned-enterprise" translate>
+        Custom Pricing, Advanced features, SSO, Webhooks.
+      </div>
+      <button class="tariff-contact-button" (click)="scrollToContactUsSection()" translate>Contact Sales</button>
+    </div>
+  </div>
+
+  <div class="overview-label" translate>Overview</div>
+
+  <div class="table-price-wrapper">
+    <table class="table-price">
+      <tr class="table-price-header">
+        <th></th>
+        <th translate>Pro</th>
+        <th translate>Business</th>
+        <th translate>Enterprise</th>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Feed</div>
+          <div class="table-price-first-td-description" translate>Communicate and share docs with your clients</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Events</div>
+          <div class="table-price-first-td-description" translate>Schedule recurring events and meetings</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Forms</div>
+          <div class="table-price-first-td-description" translate>Fully customize your form to generate data</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Notes</div>
+          <div class="table-price-first-td-description" translate>Keep track of case progression</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>E-signs</div>
+          <div class="table-price-first-td-description" translate>
+            Request compliant e-signatures from multiple users
+          </div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Invoices</div>
+          <div class="table-price-first-td-description" translate>Generate invoice for your client to view or pay</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>ToDos</div>
+          <div class="table-price-first-td-description" translate>
+            Allows everyone to know what is coming up and due
+          </div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Notifications</div>
+          <div class="table-price-first-td-description" translate>Auto notify the user when something is due</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Custom Fields</div>
+          <div class="table-price-first-td-description" translate>Add custom case fields for all your cases</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Custom Branding</div>
+          <div class="table-price-first-td-description" translate>Make your app unique with logo and color styles</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Access to customer support</div>
+        </td>
+        <td class="table-price-tariff-info" translate>Email</td>
+        <td class="table-price-tariff-info" translate>Email</td>
+        <td class="table-price-tariff-info" translate>Phone</td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Storage</div>
+        </td>
+        <td class="table-price-tariff-info" translate>Unlimited</td>
+        <td class="table-price-tariff-info" translate>Unlimited</td>
+        <td class="table-price-tariff-info" translate>Unlimited</td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Additional Users Seats</div>
+        </td>
+        <td class="table-price-tariff-info" translate>N/A</td>
+        <td class="table-price-tariff-info" translate>$83.34</td>
+        <td class="table-price-tariff-info" translate>
+          <a class="enterprise-description" (click)="scrollToContactUsSection()" translate> Contact Us </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Convo with recording</div>
+          <div class="table-price-first-td-description" translate>
+            Video or audio chat with recording saved to the case
+          </div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>API Access</div>
+          <div class="table-price-first-td-description" translate>Automate tasks with access to API</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Module Templates</div>
+          <div class="table-price-first-td-description" translate>Create a standard template and reuse it</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>After Actions</div>
+          <div class="table-price-first-td-description" translate>
+            Autorun an action when a case or case assigned is triggered
+          </div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Newsletter</div>
+          <div class="table-price-first-td-description" translate>
+            Send general, birthday, or holiday messages to clients (Coming Soon)
+          </div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Encryption at rest</div>
+          <div class="table-price-first-td-description" translate>Protects your data from system compromise</div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Encryption in transit</div>
+          <div class="table-price-first-td-description" translate>
+            Protects your data if communications are intercepted
+          </div>
+        </td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>SAML-based single sign-on (SSO)</div>
+        </td>
+        <td class="table-price-tariff-info"></td>
+        <td class="table-price-tariff-info"></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+
+      <tr>
+        <td class="table-price-first-td">
+          <div class="table-price-first-td-title" translate>Webhooks</div>
+          <div class="table-price-first-td-description" translate>Respond realtime to events</div>
+        </td>
+        <td class="table-price-tariff-info"></td>
+        <td class="table-price-tariff-info"></td>
+        <td class="table-price-tariff-info"><img src="images/icons/tick-mark.svg" alt="" /></td>
+      </tr>
+    </table>
+  </div>
+</div>

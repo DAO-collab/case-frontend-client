@@ -1,0 +1,803 @@
+<app-viewer
+  *ngIf="showViwer"
+  [activeItem]="viewerIndx"
+  [viewiengItems]="viewiengItems"
+  [caseId]="caseId"
+  (onviewerclose)="viewerClosed()"
+></app-viewer>
+
+<article *ngIf="!permissions && !loading">
+  <p class="notice-a" *ngIf="permissions && !loading && !permissions['read_all']" translate>
+    You don't have permissions to view this page.
+  </p>
+  <div class="loading-block" *ngIf="loading">
+    <p class="text-center">
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<article *ngIf="loading">
+  <div class="module-d">
+    <p class="text-center">
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<div class="news-e feeds-wrap" *ngIf="permissions && !loading">
+  <ng-container *ngIf="(todos$ | async)?.data?.items as todos">
+    <div class="to-do-tasks-wrapper custom-design-background-color" #toDosWrapper *ngIf="todos?.length">
+      <div class="to-do-tasks-wrapper-left">
+        <img class="tasks-to-do-icon" src="images/tasks-to-do-icon.svg" alt="" />
+
+        <span class="color-white" translate>You have {{ todos.length }}&nbsp;</span>
+        <span class="color-white" *ngIf="todos.length === 1; else tasksLabel" translate>task</span>
+        <span class="color-white" translate>&nbsp;to do</span>
+        <span class="color-white f-w-bold cursor-pointer" (click)="viewTasks()">View</span>
+
+        <ng-template #tasksLabel>
+          <span class="color-white" translate>tasks</span>
+        </ng-template>
+      </div>
+
+      <img src="images/close-tasks-to-do.svg" alt="" (click)="closeToDoTasks(toDosWrapper)" />
+    </div>
+  </ng-container>
+
+  <form
+    #feedInput
+    class="form-i clearfix create-post-form"
+    [ngClass]="{ expanded: expandFeedInput, full: waitingAttachments.length || templateData.files?.length }"
+    *ngIf="permissions['manage_own']"
+  >
+    <div class="create-post-body">
+      <figure class="user-avatar">
+        <img [src]="avatarUrl" width="50" height="50" />
+      </figure>
+      <div class="create-post-message">
+        <label
+          for="postMessage"
+          *ngIf="message.trim() == ''"
+          [ngClass]="{
+            'post-body-label-invalid': message.length === 0 && feedTouch
+          }"
+          translate
+          >Write something...</label
+        >
+        <textarea
+          required
+          #postMessage
+          name="message"
+          id="postMessage"
+          class="auto-size"
+          [disabled]="blockAddingFeed"
+          [(ngModel)]="message"
+          cdkTextareaAutosize
+          cdkAutosizeMinRows="1"
+          cdkAutosizeMaxRows="3"
+        ></textarea>
+
+        <flx-mentions
+          [textInputElement]="postMessage"
+          [menuTemplate]="menuTemplate"
+          [triggerCharacter]="'@'"
+          [getChoiceLabel]="getChoiceLabel"
+          (search)="loadChoices($event)"
+          (selectedChoicesChange)="onSelectedChoicesChange($event, 'feed')"
+          (menuShow)="onMenuShow()"
+          (menuHide)="onMenuHide()"
+        >
+        </flx-mentions>
+      </div>
+      <ng-container *ngTemplateOutlet="waitingAttachmentsBox; context: { mediaParentType: 'post', postId: '0' }"></ng-container>
+    </div>
+
+    <div class="create-post-actions">
+      <div class="create-post-left-actions">
+        <div class="icon-transparent-button">
+          <img src="../../../../images/photos.png" />
+          <span translate>Attach File</span>
+          <input
+            type="file"
+            title=""
+            class="post-media-input"
+            [disabled]="!supportedExtensions || blockAddingFeed"
+            (change)="handleFileUpload($event, 'post', '0')"
+            multiple
+          />
+        </div>
+        <div class="icon-transparent-button cursor-pointer" (click)="showTemplates()">
+          <img src="../../../../images/docs.png" alt="" />
+          <span translate>From Template</span>
+        </div>
+      </div>
+      <div class="create-post-right-actions">
+        <div>
+          <app-checkbox-select
+            #permissionsField
+            [outputValue]="newFeedPermissions"
+            [items]="rolesList"
+            [enabled]="!!permissions['manage_own']"
+            (valueChange)="newFeedPermissions = $event"
+          >
+          </app-checkbox-select>
+          <app-error
+            regularHtmlElementName="permissionsField"
+            [field]="permissionsField"
+            [fieldValue]="'' + newFeedPermissions.length"
+            [validationErrors]="validationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+        </div>
+        <button
+          type="submit"
+          class="create-post-button"
+          [disabled]="!(currentCaseStatus$ | async) || blockAddingFeed || validationErrors.length"
+          (click)="postFeed()"
+          translate
+        >
+          Post
+        </button>
+      </div>
+    </div>
+  </form>
+
+  <!-- IF Feeds List Is Empty -->
+  <article *ngIf="feedsList.length === 0 && permissions['read_all']">
+    <p class="text-center" translate>No feeds yet.</p>
+  </article>
+
+  <article *ngIf="!permissions['read_all']">
+    <p class="notice-a" translate>You don't have permissions to view this page.</p>
+  </article>
+
+  <div *ngIf="permissions['read_all']">
+    <div class="feeds-wall" *ngFor="let feed of feedsList; trackBy: identify; let index = index" #feedPost caScrollObserver [rootMargin]="'50px'" (itemVisible)="onScrollingFinished(feed, index)">
+      <article>
+        <header>
+          <figure>
+            <img width="50" height="50" [src]="utilsService.userAvatarUrl(feed.user_id, 50, feed.uuid)" />
+          </figure>
+          <div>
+            <h3 class="post-author">
+              {{ teamData[feed.user_id].given_name + ' ' + teamData[feed.user_id].family_name }}
+            </h3>
+            <span class="post-date"
+              ><i class="icon-calendar2"></i>{{ feed.created_on | date : 'EEEE, MMMM d, y, h:mm:ss a' }}
+            </span>
+          </div>
+
+          <div
+            [class.disabled]="!(currentCaseStatus$ | async)"
+            class="more-to-feed-menu"
+            *ngIf="
+              (userId === feed.user_id && permissions['manage_own']) ||
+              (userId !== feed.user_id && permissions['moderate_others'])
+            "
+            (click)="toggleMenuClass($event)"
+          >
+            <div class="ins">
+              <div class="m-item" (click)="editFeed(index, $event)" translate>
+                <img class="drop-item-option-img" src="images/item-edit-builder.svg" alt="" />
+                Edit
+              </div>
+              <div
+                appConfirmationPopUp
+                #target
+                class="m-item"
+                [message]="'You are about to delete feed. Are you sure?'"
+                title="Delete Feed"
+                (yes)="deleteFeed(index, target)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Delete
+              </div>
+            </div>
+          </div>
+        </header>
+
+        <p *ngIf="!feed.activeEditing" class="text-feed-area wrap-break-words">{{ feed.message }}</p>
+        <p *ngIf="feed.activeEditing" class="edit-feed-area">
+          <textarea
+            required
+            #feedMessage
+            class="auto-size"
+            name="message"
+            [disabled]="feed?.loading!"
+            [(ngModel)]="feed.replaceMessage"
+          ></textarea>
+          <flx-mentions
+            [textInputElement]="feedMessage"
+            [menuTemplate]="menuTemplate"
+            [triggerCharacter]="'@'"
+            [getChoiceLabel]="getChoiceLabel"
+            (search)="loadChoices($event)"
+            (selectedChoicesChange)="onSelectedChoicesChange($event, feed.post_id)"
+            (menuShow)="onMenuShow()"
+            (menuHide)="onMenuHide()"
+          >
+          </flx-mentions>
+          <app-error
+            style="width: auto; float: left; clear: both"
+            [fieldValue]="feed.replaceMessage"
+            [field]="feedMessage"
+            [validationErrors]="feedValidationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+          <app-checkbox-select
+            #feedPermissionsField
+            class="visibility-field"
+            [outputValue]="feed.replacePermissions!"
+            [enabled]="
+              (userId === feed.user_id && !!permissions['manage_own']) ||
+              (userId !== feed.user_id && !!permissions['moderate_others'])
+            "
+            [items]="rolesList"
+            (valueChange)="feed.replacePermissions = $event"
+          ></app-checkbox-select>
+          <app-error
+            style="width: auto; float: right; clear: both"
+            regularHtmlElementName="feedPermissionsField"
+            [field]="feedPermissionsField"
+            [fieldValue]="'' + feed?.replacePermissions?.length"
+            [validationErrors]="feedValidationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+          <span style="display: block; clear: both; padding-top: 10px">
+            <button
+              class="f-right"
+              [disabled]="feed.loading || feedValidationErrors.length"
+              (click)="updateFeed(feed, index)"
+              translate
+            >
+              Save
+            </button>
+            <a class="f-right" (click)="cancelFeedEdit(feed, index)" translate>Cancel</a>
+          </span>
+        </p>
+
+        <ng-container *ngTemplateOutlet="mediaBox; context: { feed: feed, index: index, display: false, mediaParentType: 'post' }"></ng-container>
+        
+        <app-spinner *ngIf="(!loadedComments[index].length && feed.comments_ct > 0) || (feed.showAllComments && moreCommentsLoading === index) || moreCommentsLoading === index"></app-spinner>
+
+        <form action="./" method="post" class="form-g" [ngClass]="{ toggle: feed.showCommens || feed.showAddComment }">
+          <div class="mobile-comments-label-wrapper">
+            <h3 class="mobile-comments-label" (click)="feedShowComments(feed)">
+              <img class="mobile-comments-label-icon" src="images/feed-comment-icon.svg" alt="" />
+              <span>
+                {{ loadedComments[index].length }}
+                <span *ngIf="loadedComments[index].length !== 1" translate> comments</span>
+                <span *ngIf="loadedComments[index].length === 1" translate> comment</span>
+              </span>
+            </h3>
+
+            <h3 class="mobile-comments-label custom-color-comments" (click)="feedShowAddComments(feed)" translate>
+              Add a comment
+            </h3>
+          </div>
+
+          <ul class="list-j mobile-comments-hide" [ngClass]="{ 'show-comments': feed.showCommens }">
+            <li class="link" *ngIf="feed.comments_ct > 2 && !feed.showAllComments">
+              <a (click)="feed.showAllComments = true; getComments(feed.post_id, index)"
+                >{{ 'View' | translate }} {{feed.comments_ct - 2 }} {{ 'more comment(s)' | translate }}</a
+              >
+            </li>
+            <li class="link" *ngIf="feed.showAllComments && moreCommentsLoading === index">
+              <a
+                >{{ 'Loading comments' | translate }}... </a
+              >
+            </li>
+            <li
+              class="has-close"
+              *ngFor="
+                let comment of feed.showAllComments
+                  ? sortDateByProperty(loadedComments[index], 'created_on')
+                  : sortDateByProperty(loadedComments[index], 'created_on').slice(-2);
+                let commentId = index; trackBy: commentsTrackBy
+              "
+            >
+              <img width="50" height="50" [src]="utilsService.userAvatarUrl(comment.user_id, 50, feed.uuid)" />
+              <span class="title"
+                >{{
+                  teamData[comment.user_id]
+                    ? teamData[comment.user_id].given_name + ' ' + teamData[comment.user_id].family_name
+                    : ''
+                }},
+                <span>{{ comment.created_on | date : 'EEEE, MMMM d, y, h:mm:ss a' }}</span>
+              </span>
+              <p *ngIf="!commentsActiveEdit[feed.post_id][comment.post_index]" class="wrap-break-words">
+                {{ comment.message }}
+              </p>
+              <ng-container *ngTemplateOutlet="mediaBox; context: { feed: feed, index: index, display: true, mediaParentType: 'comment', commentId: comment.comment_id, comment: comment }"></ng-container>
+              <i
+                class="icon-edit edit-c"
+                *ngIf="userId === comment.user_id"
+                (click)="editComment(comment, feed.post_id)"
+              ></i>
+              <a
+                [class.close-disabled]="!(currentCaseStatus$ | async)"
+                appConfirmationPopUp
+                class="close"
+                *ngIf="
+                  permissions['manage_own'] &&
+                  (userId === comment.user_id || permissions['moderate_others']) &&
+                  !commentsActiveEdit[feed.post_id][comment.post_index]
+                "
+                [message]="'You are about to delete comment. Are you sure?' | translate"
+                title="Delete Comment"
+                (yes)="deleteComment(feed.post_id, comment.comment_id, index)"
+                translate
+                >Close</a
+              >
+              <p *ngIf="commentsActiveEdit[feed.post_id][comment.post_index]">
+                <label
+                  *ngIf="!commentsToEdit[feed.post_id]"
+                  [for]="'commentField_' + index + '_' + commentId"
+                  (click)="textarea.focus()"
+                  translate
+                  >Write a comment....</label
+                >
+                <textarea
+                  required
+                  #textarea
+                  class="commentMessage edit"
+                  name="comment_edit_{{ comment.post_index }}"
+                  [id]="'commentField_' + index + '_' + commentId"
+                  [(ngModel)]="commentsToEdit[feed.post_id][comment.post_index]"
+                ></textarea>
+                <flx-mentions
+                  [textInputElement]="textarea"
+                  [menuTemplate]="menuTemplate"
+                  [triggerCharacter]="'@'"
+                  [getChoiceLabel]="getChoiceLabel"
+                  (search)="loadChoices($event)"
+                  (menuShow)="onMenuShow()"
+                  (menuHide)="onMenuHide()"
+                >
+                </flx-mentions>
+                <button
+                  type="submit"
+                  class="cancel-editing"
+                  (click)="cancelCommentEditing(feed.post_id, index, comment.post_index)"
+                  translate
+                >
+                  Cancel
+                </button>
+                <button
+                  [disabled]="!(currentCaseStatus$ | async)"
+                  type="submit"
+                  (click)="updateComment(feed.post_id, index, comment)"
+                  translate
+                >
+                  Post
+                </button>
+              </p>
+            </li>
+          </ul>
+
+          <p class="mobile-comments-hide" [ngClass]="{ 'show-comments': feed.showAddComment }">
+            <label
+              *ngIf="!commentsToPost[feed.post_id]"
+              [for]="'commentField_' + index"
+              (click)="textarea.focus()"
+              translate
+              >Write a comment....</label
+            >
+            <textarea
+              required
+              #textarea
+              class="commentMessage"
+              name="commentsToPost[feed.post_id]"
+              [id]="'commentField_' + index"
+              [(ngModel)]="commentsToPost[feed.post_id]"
+              cdkTextareaAutosize
+              cdkAutosizeMinRows="1"
+              cdkAutosizeMaxRows="3"
+            ></textarea>
+            <flx-mentions
+              [textInputElement]="textarea"
+              [menuTemplate]="menuTemplate"
+              [triggerCharacter]="'@'"
+              [getChoiceLabel]="getChoiceLabel"
+              (search)="loadChoices($event)"
+              (menuShow)="onMenuShow()"
+              (menuHide)="onMenuHide()"
+            >
+            </flx-mentions>
+            <button class="icon-transparent-button comment-media">
+              <img src="../../../../images/photos.png" />
+              <input
+                type="file"
+                title=""
+                class="post-media-input"
+                [disabled]="!supportedExtensions || blockAddingFeed"
+                (change)="handleFileUpload($event, 'comment', feed.post_id)"
+                multiple
+              />
+            </button>
+            <ca-button [text]="'Post' | translate" [isFilled]="true" (btnClick)="postComment(feed.post_id, index)" [buttonType]="'submit'" [isDisabled]="!(currentCaseStatus$ | async)" [fontWeight]="600"></ca-button>
+          </p>
+          <ng-container *ngTemplateOutlet="waitingAttachmentsBox; context: { mediaParentType: 'comment', postId: feed.post_id }"></ng-container>
+        </form>
+      </article>
+    </div>
+  </div>
+</div>
+
+<form
+  method="post"
+  title="templates-list"
+  class="popup-a a form-d library-popup"
+  *ngIf="showFilesList"
+  [ngClass]="{ shown: showFilesList }"
+  (submit)="selectTemplate()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Template</h2>
+      <div *ngIf="templatesLoading">
+        <p class="text-center" translate>
+          <span class="loader loader-bubbles">
+            <span></span>
+          </span>
+        </p>
+      </div>
+      <ul class="checklist-c a" *ngIf="!templatesLoading">
+        <li *ngFor="let template of templates">
+          <label class="checkbox-container centered-checkbox"
+            >{{ template.message }}
+            <input
+              type="checkbox"
+              [checked]="selectedTemplate?.asset_id === template.asset_id"
+              (change)="attachFileFromLib($event, template)"
+            />
+            <span class="checkmark"></span>
+          </label>
+          <div class="attchments-holder">
+            <p class="notice-a a" *ngFor="let fl of template.files">
+              <span class="file-title-box">{{ shortFileName(fl.tag_id, 12) }}</span>
+              <img *ngIf="fl.src" [src]="fl.src" />
+            </p>
+          </div>
+        </li>
+
+        <li class="text-center" *ngIf="!templates.length" translate>No templates</li>
+      </ul>
+      <p class="submit">
+        <button type="submit" [disabled]="!selectedTemplate || !templates.length" translate>Done</button>
+        <a (click)="closeLibraryPopUp()" translate>Cancel</a>
+      </p>
+      <a class="close" (click)="closeLibraryPopUp()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeLibraryPopUp()" translate>Close</a>
+  </div>
+</form>
+
+<ng-template #menuTemplate let-selectChoice="selectChoice">
+  <ul class="flx-selectable-list" *ngIf="teamData">
+    <ng-container *ngFor="let user of filteredChoices | keyvalue">
+      <li class="flx-selectable-list-item" *ngIf="$any(user.value)?.case_role_id !== botsRole" (click)="selectChoice(user)">
+        <span title="{{ $any(user.value)?.full_name }}">{{ $any(user.value)?.full_name }}</span>
+      </li>
+    </ng-container>
+  </ul>
+</ng-template>
+
+<ng-template #waitingAttachmentsBox let-mediaParentType="mediaParentType" let-postId="postId">
+  <div class="waiting-attachments" [class.comments]="mediaParentType === 'comment'">
+    <ul class="gallery-b">
+      <div class="attchments-holder">
+        <p
+          class="notice-a"
+          *ngFor="let attachment of (waitingAttachments | filterAttachments : mediaParentType : postId); let index = index"
+          [ngClass]="{
+            a: uploadProgress[index] == '0%',
+            b: uploadProgress[index] != '0%'
+          }"
+        >
+          <i class="icon-x-circle remove-att" *ngIf="!blockAddingFeed" (click)="removeAttachment(index, mediaParentType, postId)"></i>
+          <span class="file-title-box">{{ shortFileName(attachment.tag_id, 12) }}</span>
+          <img width="80" height="80" *ngIf="attachment.src" [src]="attachment.src" />
+          <span class="progress-bar" [style.width]="uploadProgress[index]"></span>
+        </p>
+
+        <p class="notice-a a" *ngFor="let attachment of templateData.files">
+          <span class="file-title-box">{{ shortFileName(attachment.tag_id, 12) }}</span>
+          <img [src]="attachment.src" />
+        </p>
+      </div>
+    </ul>
+  </div>
+</ng-template>
+
+<ng-template 
+  #mediaBox 
+  let-feed="feed" 
+  let-index="index" 
+  let-display="display" 
+  let-mediaParentType="mediaParentType" 
+  let-commentId="commentId" 
+  let-comment="comment"
+>
+  <div>
+    <!-- IMAGES -->
+    <div
+      class="gallery-b docs-block" [class.show-content]="display"
+      *ngIf="(loadedAttachments[index].images.list | showAttachments : mediaParentType : commentId).length > 0 && (!mediaFilter || mediaFilter === 'images')"
+    >
+      <div
+        class="cursor-pointer"
+        *ngFor="
+          let image of loadedAttachments[index].images.showAll
+            ? (loadedAttachments[index].images.list | showAttachments : mediaParentType : commentId)
+            : (loadedAttachments[index].images.list | showAttachments : mediaParentType : commentId).slice(0, 3);
+          let attIndex = index
+        "
+        [ngClass]="{ 'w-100': image.status !== 'SUCCEEDED' }"
+        (click)="showInViewer(loadedAttachments[index], attIndex)"
+      >
+        <p class="notice-a a" *ngIf="image.status !== 'SUCCEEDED'">
+          <span *ngIf="image.status === 'RUNNING'">{{ image?.name }} <span translate>Processing</span></span>
+          <span *ngIf="image.status === 'FAILED'"
+            ><span translate>Processing </span><b>{{ image?.name }}</b
+            ><span translate> failed.</span></span
+          >
+          <i class="icon-download download-doc" (click)="downloadDoc(image, $event)"></i>
+        </p>
+        <img width="180" height="180" *ngIf="image.status === 'SUCCEEDED'" [src]="image.src" />
+        <i
+          appConfirmationPopUp
+          #target
+          class="icon-x-circle remove-att"
+          *ngIf="
+            ((userId === feed.user_id && permissions['manage_own']) ||
+              (userId !== feed.user_id && permissions['moderate_others'])) &&
+            ((feed.activeEditing && mediaParentType !== 'comment') || 
+              (commentsActiveEdit[feed.post_id][comment?.post_index] && mediaParentType === 'comment'))
+          "
+          [message]="'You are about to delete image. Are you sure?'"
+          title="Delete Image"
+          (yes)="removeFeedAttachment(feed, index, image, 'images', attIndex, comment)"
+          (click)="$event.stopPropagation()"
+        ></i>
+      </div>
+
+      <li
+        class="link feed-more-label"
+        *ngIf="(loadedAttachments[index].images.list | showAttachments : mediaParentType : commentId).length > 3 && !loadedAttachments[index].images.showAll"
+      >
+        <a (click)="loadedAttachments[index].images.showAll = true"
+          >{{ (loadedAttachments[index].images.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+        <a class="clone" (click)="loadedAttachments[index].images.showAll = true"
+          >{{ (loadedAttachments[index].images.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+      </li>
+    </div>
+
+    <!-- VIDEOS -->
+    <div
+      class="gallery-b videos-block" [class.show-content]="display"
+      *ngIf="(loadedAttachments[index].videos.list | showAttachments : mediaParentType : commentId).length > 0 && (!mediaFilter || mediaFilter === 'videos')"
+    >
+      <div
+        *ngFor="
+          let video of loadedAttachments[index].videos.showAll
+            ? (loadedAttachments[index].videos.list | showAttachments : mediaParentType : commentId)
+            : (loadedAttachments[index].videos.list | showAttachments : mediaParentType : commentId).slice(0, 3);
+          let attIndex = index
+        "
+        [ngClass]="{ 'video-item': video.thumbnail, 'w-100': !video.thumbnail }"
+        (click)="showInViewer(loadedAttachments[index], attIndex)"
+      >
+        <p class="notice-a a" *ngIf="video.status !== 'SUCCEEDED' && !video.thumbnail">
+          <span *ngIf="video.status === 'RUNNING'"
+            >{{ video ? shortFileName(video?.name!, 25) : '' }} <span translate>Processing</span></span
+          >
+          <span *ngIf="video.status === 'FAILED'"
+            ><span translate>Processing </span><b>{{ video ? shortFileName(video?.name!, 25) : '' }}</b
+            ><span translate> failed.</span></span
+          >
+          <i class="icon-download download-doc" (click)="downloadDoc(video, $event)"></i>
+        </p>
+        <img width="420" height="180" *ngIf="video.thumbnail" [src]="video.thumbnail" />
+        <span class="file-title-box" *ngIf="video.thumbnail"
+          >{{ video ? shortFileName(video?.name!, 25) : '' }}
+        </span>
+        <i class="icon-play play-video" *ngIf="video.status === 'SUCCEEDED' && !video.play"></i>
+        <i
+          appConfirmationPopUp
+          #target
+          class="icon-x-circle remove-att"
+          *ngIf="
+            ((userId === feed.user_id && permissions['manage_own']) ||
+              (userId !== feed.user_id && permissions['moderate_others'])) &&
+            feed.activeEditing
+          "
+          [message]="'You are about to delete video. Are you sure?'"
+          title="Delete Video"
+          (yes)="removeFeedAttachment(feed, index, video, 'videos', attIndex, comment)"
+          (click)="$event.stopPropagation()"
+        ></i>
+      </div>
+      <li
+        class="link feed-more-label"
+        *ngIf="(loadedAttachments[index].videos.list | showAttachments : mediaParentType : commentId).length > 3 && !loadedAttachments[index].videos.showAll"
+      >
+        <a (click)="loadedAttachments[index].videos.showAll = true"
+          >{{ (loadedAttachments[index].videos.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+        <a class="clone" (click)="loadedAttachments[index].videos.showAll = true"
+          >{{ (loadedAttachments[index].videos.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+      </li>
+    </div>
+
+    <!-- AUDIOS -->
+    <div
+      class="gallery-b audios-block" [class.show-content]="display"
+      *ngIf="(loadedAttachments[index].audios.list | showAttachments : mediaParentType : commentId).length > 0 && (!mediaFilter || mediaFilter === 'audios')"
+    >
+      <div
+        *ngFor="
+          let audio of loadedAttachments[index].audios.showAll
+            ? (loadedAttachments[index].audios.list | showAttachments : mediaParentType : commentId)
+            : (loadedAttachments[index].audios.list | showAttachments : mediaParentType : commentId).slice(0, 3);
+          let attIndex = index
+        "
+        [ngClass]="{ 'audio-file': audio.stream, 'w-100': !audio.stream }"
+        (click)="showInViewer(loadedAttachments[index], attIndex)"
+      >
+        <ng-container *ngIf="audio.stream">
+          <i class="icon-notes"></i>
+        </ng-container>
+
+        <p *ngIf="!audio.stream" class="notice-a a">
+          <span *ngIf="audio.status === 'RUNNING'">{{ audio?.name }} <span translate>Processing</span></span>
+          <span *ngIf="audio.status === 'FAILED'"
+            ><span translate>Processing </span><b>{{ audio?.name }}</b
+            ><span translate> failed.</span></span
+          >
+        </p>
+        <i
+          appConfirmationPopUp
+          #target
+          class="icon-x-circle remove-att"
+          *ngIf="
+            ((userId === feed.user_id && permissions['manage_own']) ||
+              (userId !== feed.user_id && permissions['moderate_others'])) &&
+            feed.activeEditing
+          "
+          [message]="'You are about to delete audio. Are you sure?'"
+          title="Delete Audio"
+          (yes)="removeFeedAttachment(feed, index, audio, 'audios', attIndex, comment)"
+          (click)="$event.stopPropagation()"
+        ></i>
+      </div>
+      <li
+        class="link feed-more-label"
+        *ngIf="(loadedAttachments[index].audios.list | showAttachments : mediaParentType : commentId).length > 3 && !loadedAttachments[index].audios.showAll"
+      >
+        <a (click)="loadedAttachments[index].audios.showAll = true"
+          >{{ (loadedAttachments[index].audios.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+        <a class="clone" (click)="loadedAttachments[index].audios.showAll = true"
+          >{{ (loadedAttachments[index].audios.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+      </li>
+    </div>
+
+    <!-- DOCUMENTS -->
+    <div
+      class="gallery-b docs-block" [class.show-content]="display"
+      *ngIf="(loadedAttachments[index].docs.list | showAttachments : mediaParentType : commentId).length > 0 && (!mediaFilter || mediaFilter === 'docs')"
+    >
+      <div
+        class="cursor-pointer"
+        *ngFor="
+          let doc of loadedAttachments[index].docs.showAll
+            ? (loadedAttachments[index].docs.list | showAttachments : mediaParentType : commentId)
+            : (loadedAttachments[index].docs.list | showAttachments : mediaParentType : commentId).slice(0, 3);
+          let attIndex = index
+        "
+        (click)="showInViewer(loadedAttachments[index], attIndex)"
+        [class.processing]="doc.status !== 'SUCCEEDED'"
+      >
+        <p class="notice-a a" *ngIf="doc.status !== 'SUCCEEDED'">
+          <span *ngIf="doc.status === 'RUNNING'">{{ doc?.name }} <span translate>Processing</span></span>
+          <span *ngIf="doc.status === 'FAILED'"
+            ><span translate>Processing </span><b>{{ doc ? doc.name : '' }}</b
+            ><span translate> failed.</span></span
+          >
+          <i class="icon-download download-doc" (click)="downloadDoc(doc, $event)"></i>
+        </p>
+        <img width="180" height="180" *ngIf="doc.status === 'SUCCEEDED'" [src]="doc.src" />
+        <i
+          appConfirmationPopUp
+          #target
+          class="icon-x-circle remove-att"
+          *ngIf="
+            ((userId === feed.user_id && permissions['manage_own']) ||
+              (userId !== feed.user_id && permissions['moderate_others'])) &&
+            feed.activeEditing
+          "
+          [message]="'You are about to delete document. Are you sure?'"
+          title="Delete Document"
+          (yes)="removeFeedAttachment(feed, index, doc, 'docs', attIndex, comment)"
+          (click)="$event.stopPropagation()"
+        ></i>
+      </div>
+
+      <li
+        class="link feed-more-label"
+        *ngIf="(loadedAttachments[index].docs.list | showAttachments : mediaParentType : commentId).length > 3 && !loadedAttachments[index].docs.showAll"
+      >
+        <a (click)="loadedAttachments[index].docs.showAll = true"
+          >{{ (loadedAttachments[index].docs.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+        <a class="clone" (click)="loadedAttachments[index].docs.showAll = true"
+          >{{ (loadedAttachments[index].docs.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+      </li>
+    </div>
+
+    <!-- FILES -->
+    <div
+      class="gallery-b docs-block" [class.show-content]="display"
+      *ngIf="(loadedAttachments[index].files.list | showAttachments : mediaParentType : commentId).length > 0 && (!mediaFilter || mediaFilter === 'docs')"
+    >
+      <div
+        class="w-100"
+        *ngFor="
+          let file of loadedAttachments[index].files.showAll
+            ? (loadedAttachments[index].files.list | showAttachments : mediaParentType : commentId)
+            : (loadedAttachments[index].files.list | showAttachments : mediaParentType : commentId).slice(0, 3);
+          let attIndex = index
+        "
+        (click)="showInViewer(loadedAttachments[index], attIndex)"
+      >
+        <p class="notice-a a">
+          <span *ngIf="file.status === 'SUCCEEDED'">{{ file?.name }}</span>
+          <span *ngIf="file.status === 'RUNNING'">{{ file?.name }} <span translate>Processing</span></span>
+          <span *ngIf="file.status === 'FAILED'"
+            ><span translate>Processing </span><b>{{ file?.name }}</b
+            ><span translate> failed.</span></span
+          >
+          <i class="icon-download download-doc" (click)="downloadDoc(file, $event)"></i>
+        </p>
+        <i
+          appConfirmationPopUp
+          #target
+          class="icon-x-circle remove-att"
+          *ngIf="
+            ((userId === feed.user_id && permissions['manage_own']) ||
+              (userId !== feed.user_id && permissions['moderate_others'])) &&
+            feed.activeEditing
+          "
+          [message]="'You are about to delete file. Are you sure?'"
+          title="Delete File"
+          (yes)="removeFeedAttachment(feed, index, file, 'files', attIndex, comment)"
+          (click)="$event.stopPropagation()"
+        ></i>
+      </div>
+
+      <li
+        class="link feed-more-label"
+        *ngIf="(loadedAttachments[index].files.list | showAttachments : mediaParentType : commentId).length > 3 && !loadedAttachments[index].files.showAll"
+      >
+        <a (click)="loadedAttachments[index].files.showAll = true"
+          >{{ (loadedAttachments[index].files.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+        <a class="clone" (click)="loadedAttachments[index].files.showAll = true"
+          >{{ (loadedAttachments[index].files.list | showAttachments : mediaParentType : commentId).length - 3 }}<span translate> more</span></a
+        >
+      </li>
+    </div>
+  </div>
+</ng-template>

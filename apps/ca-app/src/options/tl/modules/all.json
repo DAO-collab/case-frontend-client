@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Basahin ang lahat ng field ng case na tinukoy sa tungkulin",
+    "write": "Isulat ang lahat ng case field na tinukoy sa papel"
+  },
+  "convos": {
+    "read_all": "Tingnan ang kasalukuyang katayuan ng mga convo.",
+    "manage_own": "Join and unjoin convo.",
+    "moderate_others": "Simulan ang convo, tapusin ang convo, at alisin ang kalahok.",
+    "read_all_submissions": "Basahin ang lahat ng naitalang convo."
+  },
+  "events": {
+    "read_all": "Basahin ang lahat ng mga kaganapan.",
+    "manage_own": "Lumikha, mag-update at magtanggal ng sariling kaganapan.",
+    "moderate_others": "I-update at tanggalin ang kaganapan ng iba.",
+    "read_all_submissions": "Basahin ang lahat ng kumpirmasyon ng kaganapan.",
+    "submit_own": "Kumpirmahin ang kahilingan sa pagdalo sa kaganapan."
+  },
+  "posts": {
+    "read_all": "Basahin ang lahat ng mga post.",
+    "manage_own": "Gumawa, mag-update at magtanggal ng sariling post.",
+    "moderate_others": "I-update at tanggalin ang post ng iba."
+  },
+  "forms": {
+    "read_all": "Basahin ang lahat ng mga form.",
+    "manage_own": "Lumikha, mag-update at magtanggal ng sariling form.",
+    "moderate_others": "I-update at tanggalin ang form ng iba.",
+    "read_all_submissions": "Basahin ang lahat ng mga pagsusumite ng form.",
+    "submit_own": "Isumite ang kahilingan sa form."
+  },
+  "invoices": {
+    "read_all": "Basahin ang lahat ng mga invoice.",
+    "manage_own": "Gumawa, mag-update at magtanggal ng sariling invoice.",
+    "moderate_others": "I-update at tanggalin ang invoice ng iba.",
+    "read_all_submissions": "Basahin ang lahat ng mga pagsusumite ng invoice.",
+    "submit_own": "Magsumite ng kahilingan sa invoice."
+  },
+  "notes": {
+    "read_all": "Basahin ang lahat ng mga tala.",
+    "manage_own": "Gumawa, mag-update at magtanggal ng sariling tala.",
+    "moderate_others": "I-update at tanggalin ang tala ng iba."
+  },
+  "signs": {
+    "read_all": "Basahin ang lahat ng e-sign.",
+    "manage_own": "Gumawa, mag-update at magtanggal ng sariling e-sign.",
+    "moderate_others": "I-update at tanggalin ang e-sign ng iba.",
+    "read_all_submissions": "Basahin ang lahat ng e-sign submissions.",
+    "submit_own": "Isumite ang kahilingan sa field."
+  },
+  "tasks": {
+    "read_all": "Basahin ang lahat ng gawain.",
+    "manage_own": "Lumikha, mag-update at magtanggal ng sariling gawain.",
+    "moderate_others": "I-update at tanggalin ang gawain ng iba.",
+    "read_all_submissions": "Basahin ang lahat ng mga pagsusumite ng gawain.",
+    "submit_own": "Isumite ang kahilingan sa gawain."
+  },
+  "team": { "read_all": "Basahin ang pangkat kung sakali" }
+}

@@ -1,0 +1,567 @@
+<article
+  id="content"
+  class="tabs fullscreen-page"
+  *ngIf="!loading"
+  [ngClass]="{ touchedSubmit: formTouched, 'module-d': !form }"
+>
+  <div>
+    <div style="width: 100%">
+      <div style="display: flex">
+        <div class="content-left-panel">
+          <h2 class="left-panel-title" translate>Pages</h2>
+          <div class="content-left-panel-inner">
+            <cdk-virtual-scroll-viewport itemSize="164" minBufferPx="2000" maxBufferPx="2000" style="height: 100%">
+              <div
+                class="doc-page"
+                *cdkVirtualFor="let page of checkObjectValues(pageData); let index = index"
+                (click)="switchDocumentPage(index + 1)"
+              >
+                <div class="page-menu-item">
+                  <span class="section" [ngClass]="{ selected: activeDocPage == index + 1 }">Page {{ index + 1 }}</span>
+                  <span class="sub-menu" (click)="showPopupMenu(index)"
+                    ><img [src]="'../images/icons/icons-dots.svg'"
+                  /></span>
+                  <div *ngIf="selectedPopupMenu === index" class="sub-menu-popup">
+                    <p (click)="deletePage(index)">Delete</p>
+                    <p (click)="duplicatePage(index)">Duplicate</p>
+                    <p (click)="moveUpPage(index)">Move Up</p>
+                    <p (click)="moveDownPage(index)">Move Down</p>
+                  </div>
+                </div>
+                <ng-container *ngFor="let field of getSchemaListFromUiList(index + 1)">
+                  <span class="section sub">{{ field.title }}</span>
+                </ng-container>
+              </div>
+            </cdk-virtual-scroll-viewport>
+          </div>
+        </div>
+        <div class="content-main-panel">
+          <div class="header-content">
+            <h2 class="header-breadcrumb">
+              <span translate>E-signs</span><img src="../../../../images/arrow-right-dark.svg" alt="#" /><span>{{
+                builderModel.tag_id ? shorTitleName(builderModel.tag_id, 40) : 'Create New E-sign Builder'
+              }}</span>
+            </h2>
+            <div>
+              <button class="primary-outline" (click)="previewSign()" translate>
+                {{ isPreview ? 'Edit' : 'Preview' }}
+              </button>
+              <button class="primary-outline" (click)="backToSigns()" translate>Close</button>
+            </div>
+          </div>
+          <figure>
+            <div class="doc-toolbar">
+              <!-- Functionality to navigate between document pages -->
+              <div class="pages-navigation">
+                <a class="nav-button" (mouseup)="previousDoc()">
+                  <img src="../../../../images/arrow-right-dark.svg" alt="#" />
+                </a>
+                <span translate>Page</span>
+                &nbsp;
+                <input
+                  type="number"
+                  id="activePageNumber"
+                  [max]="displayCount"
+                  [(ngModel)]="activeDocPage"
+                  (change)="switchDocumentPage($any($event.target).value)"
+                />
+                &nbsp;
+                <span translate>of</span>
+                &nbsp;
+                <span>{{ displayCount }}</span>
+                <a class="nav-button" (mouseup)="nextDoc()">
+                  <img src="../../../../images/arrow-right-dark.svg" alt="#" />
+                </a>
+              </div>
+              <!-- Zoom functionality -->
+              <div class="spliter"></div>
+              <!-- Field type functionality -->
+              <div class="field-type-section">
+                <ng-select
+                  class="field-type-select"
+                  bindLabel="text"
+                  bindValue="id"
+                  [searchable]="false"
+                  [clearable]="false"
+                  [placeholder]="'Add an element' | translate"
+                  [items]="fieldsList"
+                  (change)="onFieldTypeSelectChange($event)"
+                >
+                </ng-select>
+                <button class="field-type-button" [disabled]="!newFieldType" (click)="addField()" translate>
+                  Insert
+                </button>
+              </div>
+            </div>
+
+            <div class="text-center">
+              <div
+                class="documents-list"
+                style="height: 100vh; width: 100%; overflow-y: auto"
+                [ngClass]="{ centered: true }"
+              >
+                <div class="document-image-wrapper">
+                  <div *ngIf="isEmptyData()" class="none-field-notification">
+                    <p>Welcome to e-sign builder.<br />Start by adding new elements to the page</p>
+                  </div>
+                  <ng-container *ngIf="isPreview">
+                    <app-sign-preview [components]="components"></app-sign-preview>
+                  </ng-container>
+                  <ng-container *ngIf="!isPreview">
+                    <app-draggable-form-field
+                      #fld
+                      long-press
+                      *ngFor="let fl of getSchemaListFromUiList(); let i = index"
+                      [ngClass]="{
+                        'cdn-item unset-background unset-boxshadow unset-color bold-border': fl.key === selectedItem
+                      }"
+                      (onMoveMouseDown)="fieldMoveStart($event)"
+                      (changePosition)="changePosition($event, fl)"
+                      (runFieldEditing)="runFieldEditing($event, i)"
+                      (onMoveUp)="moveUpField(fl)"
+                      (onMoveDown)="moveDownField(fl)"
+                      (runFieldCopy)="runFieldCopy($event)"
+                      (runFieldDelete)="runFieldDelete(activeDocPage - 1, $event)"
+                      [disableDragging]="['images', 'docs'].indexOf(fl.fieldType) > -1 ? true : false"
+                      [disableEditing]="true"
+                      [left]="'0px'"
+                      [top]="fieldPositionList[i] || '20px'"
+                      [style.z-index]="isLongPressed && longPressedKey === fl.key ? '9' : 'unset'"
+                      [style.height]="sanitizedStyle('100px', 0)"
+                      [style.width]="sanitizedStyle('200px', '150px')"
+                      [fieldData]="fl"
+                      [fieldKey]="fl.key"
+                      [media]="mediaList || {}"
+                      [caseId]="caseId"
+                      (mouseup)="onMouseUp()"
+                      (mouseover)="changeStyle($event, fl)"
+                      (mouseout)="changeStyle($event, fl)"
+                      (toggleRequired)="requiredChanged($event, fl)"
+                    ></app-draggable-form-field>
+                  </ng-container>
+                </div>
+              </div>
+            </div>
+          </figure>
+          <br />
+        </div>
+        <div class="content-right-panel">
+          <ng-container *ngIf="!isPreview">
+            <h2 class="right-panel-title" translate>Elements</h2>
+          </ng-container>
+          <ng-container *ngIf="isPreview">
+            <h2 class="right-panel-title" translate>Action Required</h2>
+          </ng-container>
+
+          <div *ngIf="checkObjectKeys(pageData).length">
+            <div class="properties-section" *ngFor="let page of checkObjectValues(pageData); let index = index">
+              <span class="property-page-title"><span translate>Page</span> {{ index + 1 }}</span>
+              <div *ngFor="let property of getSchemaListFromUiList(index + 1); let i = index" class="property-section">
+                <div
+                  class="cursor-pointer"
+                  (click)="switchDocumentPage(index + 1)"
+                  (mouseover)="changeStyle($event, property)"
+                  (mouseout)="changeStyle($event, property)"
+                >
+                  <img src="../../../../images/element-point.svg" />
+                  <span
+                    [ngClass]="{
+                      'text-bold': property.key === selectedItem
+                    }"
+                    >{{ shorTitleName(property.title, 30) }}</span
+                  >
+                </div>
+                <div style="display: flex; align-items: center; position: relative">
+                  <span class="sub-menu cursor-pointer" (click)="showElementPopupMenu(i)"
+                    ><img [src]="'../images/icons/icons-dots.svg'"
+                  /></span>
+                  <div *ngIf="selectedElementPopupMenu === i" class="sub-menu-popup element">
+                    <p
+                      class="cursor-pointer"
+                      style="padding: 5px"
+                      (click)="selectedElementPopupMenu = -1; runFieldEditing(property, index)"
+                    >
+                      <i
+                        class="icon-edit cursor-pointer"
+                        style="font-size: 22px; color: #cdd0d1; padding: 0px 10px 0px 5px"
+                      ></i>
+                      Edit Settings
+                    </p>
+                    <p
+                      class="cursor-pointer"
+                      style="padding: 5px"
+                      (click)="selectedElementPopupMenu = -1; runFieldCopy(property)"
+                    >
+                      <i
+                        class="icon-document cursor-pointer"
+                        style="font-size: 22px; color: #cdd0d1; padding: 0px 10px 0px 5px"
+                      ></i>
+                      Duplicate
+                    </p>
+                    <p
+                      class="cursor-pointer"
+                      style="padding: 5px"
+                      (click)="
+                        selectedElementPopupMenu = -1;
+                        runFieldDelete(index, checkObjectKeys(page?.schema?.properties || {})[i])
+                      "
+                    >
+                      <span><img src="../../../../images/trash.svg" /></span> Delete event
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+<app-loader [active]="loading"></app-loader>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="shownDefaultsModal"
+  [ngClass]="{ touchedSubmit: addFieldFormTouched }"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 style="z-index: 53" *ngIf="ifNewField" translate>Add {{ addFieldTitle }}Field</h2>
+      <h2 style="z-index: 53" *ngIf="!ifNewField" translate>Edit {{ addFieldTitle }}Field</h2>
+
+      <p>
+        <label
+          *ngIf="
+            editingField.fieldType === 'text-only' ||
+            editingField.fieldType === 'docs' ||
+            editingField.fieldType === 'images'
+          "
+        >
+          {{ 'Label' | translate }}
+        </label>
+        <label
+          *ngIf="
+            editingField.fieldType !== 'text-only' &&
+            editingField.fieldType !== 'docs' &&
+            editingField.fieldType !== 'images'
+          "
+        >
+          {{ 'Question' | translate }}
+        </label>
+        <input
+          [disabled]="blockFields"
+          type="text"
+          name="editingField.title"
+          [(ngModel)]="editingField.title"
+          #questionF
+        />
+        <app-error
+          [fieldValue]="editingField.title"
+          [field]="questionF"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        >
+        </app-error>
+      </p>
+      <p
+        *ngIf="
+          editingField?.fieldType !== 'docs' &&
+          editingField?.fieldType !== 'images' &&
+          editingField?.fieldType !== 'text-only'
+        "
+      >
+        <label for="">{{ 'Sub Text' | translate }}</label>
+        <input
+          [disabled]="blockFields"
+          type="text"
+          name="editingField.subText"
+          [(ngModel)]="editingField!.subText"
+          #questionF
+        />
+        <app-error [fieldValue]="editingField?.subText" [field]="questionF" [validation]="{ required: true }">
+        </app-error>
+      </p>
+      <p *ngIf="editingField?.fieldType === 'text' || editingField?.fieldType === 'multi-text'">
+        <label translate>{{ 'Format' | translate }}</label>
+        <input type="text" name="formatField" class="form-control" [(ngModel)]="editingField!.format" />
+        <span class="text-placeholder" *ngIf="!editingField?.format">example: ###-##-####</span>
+      </p>
+      <div *ngIf="optionsSupport[editingField.fieldType]">
+        <div class="options-form-wrapper">
+          <p style="z-index: 52" class="half-width options-field">
+            <label translate>Options</label>
+            <input [disabled]="blockFields" type="text" #fieldValueF name="fieldValue" [(ngModel)]="fieldValue" />
+            <button
+              [disabled]="fieldValue.trim() === ''"
+              (click)="!editOptionAction ? addOption($event) : updateOption($event)"
+            >
+              {{ editOptionAction ? 'Update' : ('Add' | translate) }}
+            </button>
+          </p>
+
+          <p class="notice-a show" *ngIf="optionExistsError" translate>Option already exists.</p>
+
+          <div class="options-list pd-2">
+            <table *ngIf="editingField.enum.length !== 0">
+              <tr *ngFor="let opt of editingField.enum; let ind = index">
+                <td width="350px">
+                  {{ opt }}
+                </td>
+                <td class="edit-and-delete">
+                  <a translate (click)="editPropertyOption(ind)">Edit</a>
+                  <a translate (click)="deletePropertyOption(ind)">Delete</a>
+                </td>
+              </tr>
+            </table>
+            <p *ngIf="editingField.enum.length === 0" class="centered-text no-options">
+              (
+              <span translate>options list is empty</span> )
+            </p>
+
+            <p class="notice-a show" *ngIf="optionsLimitError" translate>
+              Checkboxes field supports only 5 options. You can change field to dropdown to add more options
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <p *ngIf="editingField.fieldType === 'text' || editingField.fieldType === 'text-only'">
+        <label>{{ 'Type' | translate }}</label>
+        <ng-select
+          [items]="textTypeList"
+          bindLabel="name"
+          bindValue="id"
+          name="text-field-type"
+          [(ngModel)]="defaultTextType"
+          (change)="textFieldTypeChanged($event)"
+          [clearable]="false"
+        ></ng-select>
+      </p>
+
+      <div [ngSwitch]="editingField.fieldType">
+        <p>
+          <ng-container *ngSwitchCase="'text-only'">
+            <textarea name="defaultsField" class="form-control" [(ngModel)]="editingField.defaultValue"></textarea>
+          </ng-container>
+
+          <!-- 1. -->
+          <ng-container *ngSwitchCase="'text'">
+            <label translate>Default answer</label>
+            <ng-autocomplete
+              [data]="requiredField!"
+              [searchKeyword]="keyword"
+              (selected)="selectEvent($event)"
+              (inputChanged)="onChangeSearch($event)"
+              [selectedValueRender]="editingField.defaultValue"
+              [initialValue]="editingField?.defaultValue || ''"
+              [itemTemplate]="itemTemplate"
+            >
+            </ng-autocomplete>
+            <ng-template #itemTemplate let-item>
+              <a class="ng-option-marked" [innerHTML]="item"></a>
+            </ng-template>
+          </ng-container>
+
+          <!-- 2. -->
+          <textarea
+            *ngSwitchCase="'textarea'"
+            name="defaultsField"
+            class="form-control"
+            [(ngModel)]="editingField.defaultValue"
+          ></textarea>
+
+          <!-- 3. -->
+          <ng-container *ngSwitchCase="'dropdown'">
+            <label translate>Default answer</label>
+            <ng-select
+              [items]="editingField.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 4. -->
+          <ng-container *ngSwitchCase="'multidropdown'">
+            <label translate>Default answer</label>
+            <ng-select
+              [items]="editingField.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [multiple]="true"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 5. -->
+          <ng-container *ngSwitchCase="'options'">
+            <ng-select
+              [items]="editingField.enum"
+              name="defaultsField"
+              [(ngModel)]="editingField.defaultValue"
+              [clearable]="false"
+            >
+            </ng-select>
+          </ng-container>
+
+          <!-- 6. -->
+          <ng-container *ngSwitchCase="'checkboxes'">
+            <ng-container *ngIf="editingField.enum">
+              <span class="checkboxes-group">
+                <span *ngFor="let opt of editingField.enum" class="cb-item">
+                  <span class="cg-label" translate>{{ opt }}</span>
+                  <label class="container cg-box">
+                    <input
+                      type="checkbox"
+                      name="defaultsField"
+                      class="form-control"
+                      [checked]="editingField.defaultValue.indexOf(opt) > -1"
+                      (change)="
+                        editingField.defaultValue.indexOf(opt) > -1
+                          ? utilsService.removedFromMultipleWithoutParent(opt, editingField, 'defaultValue')
+                          : utilsService.removedFromMultipleWithoutParent(opt, editingField, 'defaultValue')
+                      "
+                    />
+                    <span class="checkmark"></span>
+                  </label>
+                </span>
+              </span>
+            </ng-container>
+          </ng-container>
+
+          <!-- 7. -->
+          <label *ngSwitchCase="'boolean'" class="container">
+            <input type="checkbox" name="defaultsField" class="form-control" [(ngModel)]="editingField.defaultValue" />
+            <span class="checkmark"></span>
+          </label>
+
+          <!-- 8. -->
+          <ng-container *ngSwitchCase="'number'">
+            <label translate>Default answer</label>
+            <input type="number" name="defaultsField" class="form-control" [(ngModel)]="editingField.defaultValue" />
+          </ng-container>
+
+          <!-- 9. -->
+          <ng-container *ngSwitchCase="'date'">
+            <label translate>Default answer</label>
+            <input
+              mwlFlatpickr
+              [altInput]="true"
+              [convertModelValue]="false"
+              altFormat="m/d/Y"
+              type="text"
+              name="defaultsField"
+              class="form-control"
+              [(ngModel)]="editingField.defaultValue"
+              required
+            />
+          </ng-container>
+
+          <!-- 10. -->
+          <ng-container *ngSwitchCase="'time'">
+            <label translate>Default answer</label>
+            <input
+              mwlFlatpickr
+              [altInput]="true"
+              [convertModelValue]="true"
+              altFormat="G:i:S K"
+              dateFormat="G:i:S K"
+              type="text"
+              name="defaultsField"
+              class="form-control"
+              timeValidator
+              [noCalendar]="true"
+              [enableSeconds]="true"
+              [enableTime]="true"
+              [defaultHour]="$any(currentTime[0])"
+              [defaultMinute]="$any(currentTime[1])"
+              [defaultSeconds]="$any(currentTime[2])"
+              [(ngModel)]="editingField.defaultValue"
+              #fieldDefaultValue="ngModel"
+              (keyup)="formIsValid = fieldDefaultValue.valid || !editingField.defaultValue"
+            />
+          </ng-container>
+
+          <!-- 11. -->
+          <ng-container *ngSwitchCase="'docs'">
+            <p class="notice-a a" *ngIf="!!attachedDoc?.media">
+              <span *ngIf="true">{{ 'Pdf' }} <span translate>Processing</span></span>
+            </p>
+            <span class="list-m" *ngIf="!attachedDoc?.media">
+              <span class="centerd-file-input">
+                <a> <i class="icon-plus"></i> Add Document </a>
+                <input
+                  id="file"
+                  type="file"
+                  accept=".pdf, .doc, .docx"
+                  [disabled]="blockFields || uploadingGoes || !supportedExtensions"
+                  (change)="handleFileUpload($any($event.target))"
+                />
+              </span>
+            </span>
+          </ng-container>
+
+          <!-- 12. -->
+          <ng-container *ngSwitchCase="'images'">
+            <p class="notice-a a" *ngIf="!!attachedDoc?.media">
+              <span *ngIf="true">{{ 'Pdf' }} <span translate>Processing</span></span>
+            </p>
+            <span class="list-m" *ngIf="!attachedDoc?.media">
+              <span class="centerd-file-input">
+                <a> <i class="icon-plus"></i> Add Document </a>
+                <input
+                  type="file"
+                  accept=".jpg, .jpeg, .png"
+                  id="file"
+                  [disabled]="blockFields || uploadingGoes || !supportedExtensions"
+                  (change)="handleFileUpload($any($event.target))"
+                />
+              </span>
+            </span>
+          </ng-container>
+        </p>
+      </div>
+
+      <p class="submit">
+        <ng-container *ngIf="['images', 'docs'].indexOf(editingField.fieldType) === -1">
+          <span style="padding-left: 10px">Required</span>
+          <!-- <material-slide-toggle
+            [name]="'slideToggle'"
+            [checked]="editingField.required"
+            [disabled]="false"
+            [aria-label]="'Toggle On/Off'"
+            [aria-labelledby]="'Some Other Text'"
+            (change)="changeToogle($event)"
+          >
+          </material-slide-toggle> -->
+          <ca-toggle
+            [checked]="editingField.required"
+            [disabled]="false"
+            (toggle)="changeToogle($event)"
+          ></ca-toggle>
+        </ng-container>
+        <button
+          type="submit"
+          [disabled]="uploadingGoes || (['images', 'docs'].indexOf(editingField.fieldType) > -1 && !attachedDoc?.media)"
+          (click)="
+            $event.preventDefault();
+            validationErrors.length > 0
+              ? (addFieldFormTouched = true)
+              : ['images', 'docs'].indexOf(editingField.fieldType) > -1
+              ? save()
+              : saveField()
+          "
+        >
+          {{ 'Save' | translate }}
+        </button>
+      </p>
+      <a class="close" (click)="refreshModal(false)">Close</a>
+    </div>
+    <a class="close" (click)="refreshModal(false)">Close</a>
+  </div>
+</form>

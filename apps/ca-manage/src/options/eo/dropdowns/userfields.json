@@ -1,0 +1,18 @@
+{
+  "family_name": "Familia nomo",
+  "given_name": "Anta\u016dnomo",
+  "locale": "Preferata lingvo",
+  "zoneinfo": "Horzono",
+  "email": "Retpo\u015dta adreso",
+  "phone": "Telefonnumero",
+  "address1": "Strata Adreso",
+  "address2": "Apt # a\u016d Unueco #",
+  "locality": "Urbo a\u016d Loko",
+  "region": "\u015ctato a\u016d Regiono",
+  "postal_code": "Po\u015dta a\u016d Po\u015dtkoda",
+  "country": "Lando",
+  "birthdate": "Naski\u011ddato",
+  "gender": "Sekso",
+  "company": "Kompanio",
+  "title": "Nomo Titolo"
+}

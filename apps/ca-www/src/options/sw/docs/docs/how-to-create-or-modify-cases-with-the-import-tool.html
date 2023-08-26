@@ -1,0 +1,116 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Jinsi ya Kuunda au Kurekebisha Kesi kwa Zana ya Kuingiza
+</h1>
+<p>Makala haya yanaonyesha wasimamizi jinsi ya kuunda au kurekebisha kesi zilizopo kwa kutumia zana ya Kuingiza.</p>
+<h2 id="opening-the-import-tool">Kufungua zana ya Kuingiza</h2>
+<ol style="list-style-type: decimal">
+  <li>Ingia kwa akaunti ya msimamizi.</li>
+  <li>Tafuta programu kwenye ukurasa wa Programu na ubofye kitufe cha ADMIN.</li>
+  <li>Kwenye paneli ya Msimamizi, bofya kichupo cha Ujumuishaji na kisha INGIA kwenye menyu ndogo.</li>
+  <li>
+    Bonyeza kitufe MPYA. Kisanduku cha kidadisi cha Ongeza Uagizaji huonyeshwa kwenye kichupo kipya cha kivinjari.
+  </li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Kuunda kesi</h2>
+<p>Baada ya sanduku la mazungumzo ya Ongeza Uingizaji kufungua:</p>
+<ol style="list-style-type: decimal">
+  <li>Bofya sehemu ya Aina na uchague chaguo (tazama hapa chini). Maonyesho ya kiungo.</li>
+  <li>Bofya kiungo cha Sampuli ya Kupakua. Faili ya CSV inapakuliwa kwenye kifaa chako.</li>
+</ol>
+<p>Ifuatayo, fungua faili na uongeze kesi.</p>
+<h2 id="type">Aina</h2>
+<p>
+  Unapobofya sehemu ya <strong>Aina</strong> , menyu kunjuzi itaonekana. Chagua mojawapo ya chaguo mbili kwa uagizaji wa
+  kesi nyingi.
+</p>
+<ul>
+  <li>
+    <strong>Kumbuka</strong> Menyu kunjuzi ina chaguzi nyingi, lakini mbili tu zinahusiana na udhibiti wa kesi. Kila
+    chaguo lina sampuli tofauti ya faili ya CSV.
+  </li>
+</ul>
+<h3 id="add-cases">Ongeza kesi</h3>
+<ul>
+  <li>Chagua chaguo hili kwa upakiaji rahisi wa wingi wa kesi.</li>
+  <li>
+    Bofya kiungo cha Sampuli ya Upakuaji ili kufungua faili ya CSV yenye vichwa vya safu wima kwa aina ya uletaji wa
+    kesi.
+  </li>
+</ul>
+<h3 id="modify-cases">Rekebisha kesi</h3>
+<ul>
+  <li>Chagua chaguo hili ili kusasisha kesi za sasa.</li>
+  <li>
+    Bofya kiungo cha Sampuli ya Upakuaji ili kufungua faili ya CSV yenye vichwa vya safu wima vya aina ya Kurekebisha
+    kesi.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Inapakia faili</h2>
+<p>
+  Unaweza kupakia faili mara moja au urudi kwenye kisanduku cha mazungumzo ya Ongeza Uagizaji katika tarehe ya baadaye
+  na ukamilishe hatua hizi.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Fungua kisanduku cha Kuongeza Uagizaji.</li>
+  <li>Weka jina la kipekee la faili ya CSV.</li>
+  <li>Bofya ikoni ya kuongeza (+) ili kupakia faili kutoka kwa kifaa chako.</li>
+  <li>Bofya sehemu ya Aina na uchague chaguo. (tazama hapo juu)</li>
+  <li>Bofya HIFADHI.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Uumbizaji</h2>
+<p>
+  Hizi ndizo nyanja zinazohitajika na mahitaji ya kwanza. Bofya
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">hapa</a> ili kukagua
+  maelezo ya umbizo.
+</p>
+<p>
+  <strong>tag_id (au case_ID)</strong> kitambulisho cha kipekee (tumia herufi za alphanumeric, viambatisho vinakubaliwa)
+</p>
+<p><strong>case_status</strong> 0 = imefungwa 1 = hai</p>
+<p><strong>tarehe_iliyofunguliwa</strong> mwezi/siku/mwaka mm/dd/yyyy</p>
+<p><strong>kuhusu</strong> maelezo ya kipekee ya kesi (tumia herufi za alphanumeric, hyphens zinakubaliwa)</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Inachakata</h2>
+<p>
+  Kulingana na idadi ya rekodi kwenye faili na upakiaji wa mfumo, jukwaa linaweza kuchukua dakika kadhaa kushughulikia
+  uagizaji.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Uletaji unapokamilika, jukwaa hurekebisha rekodi za kesi (yaani kuongeza au kurekebisha) kwenye dashibodi ya Kesi za
+  msimamizi.
+</p>
+<h2 id="failure">Kushindwa</h2>
+<p>
+  Ikiwa uagizaji utashindwa, jukwaa hurejesha ujumbe Ulioshindwa. Katika hali nyingi, sababu ya kushindwa ni uundaji wa
+  data.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Ili kuona sababu ya kutofaulu:</p>
+<ol style="list-style-type: decimal">
+  <li>Bofya Tazama chini ya kichwa cha ACTION.</li>
+  <li>Katika ukurasa unaofuata, weka kipanya kwenye ikoni Imeshindwa. Kidokezo kinaonyesha kosa.</li>
+  <li>Nenda kwenye faili ya CVS na urekebishe na urekebishe hitilafu.</li>
+  <li>Pakia faili tena.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Lees alle case veld specificeren in rol", "write": "Schrijf alle case veld specificeer in rol" },
+  "convos": {
+    "read_all": "Bekijk de huidige status van convos.",
+    "manage_own": "Deelnemen en afmelden bij convo.",
+    "moderate_others": "Convo starten, convo be\u00ebindigen en deelnemer verwijderen.",
+    "read_all_submissions": "Lees alle opgenomen convo&#39;s."
+  },
+  "events": {
+    "read_all": "Lees alle evenementen.",
+    "manage_own": "Eigen evenement maken, bijwerken en verwijderen.",
+    "moderate_others": "Update en verwijder andermans evenement.",
+    "read_all_submissions": "Lees alle evenementbevestigingen.",
+    "submit_own": "Aanwezigheidsverzoek voor evenement bevestigen."
+  },
+  "posts": {
+    "read_all": "Lees alle berichten.",
+    "manage_own": "Eigen bericht maken, bijwerken en verwijderen.",
+    "moderate_others": "Bijwerken en verwijderen van andermans bericht."
+  },
+  "forms": {
+    "read_all": "Lees alle formulieren.",
+    "manage_own": "Eigen formulier maken, bijwerken en verwijderen.",
+    "moderate_others": "Bijwerken en verwijderen van andermans formulier.",
+    "read_all_submissions": "Lees alle formulierinzendingen.",
+    "submit_own": "Formulieraanvraag indienen."
+  },
+  "invoices": {
+    "read_all": "Lees alle facturen.",
+    "manage_own": "Eigen factuur aanmaken, bijwerken en verwijderen.",
+    "moderate_others": "De factuur van een ander bijwerken en verwijderen.",
+    "read_all_submissions": "Lees alle factuurinzendingen.",
+    "submit_own": "Factuurverzoek indienen."
+  },
+  "notes": {
+    "read_all": "Lees alle notities.",
+    "manage_own": "Eigen notitie maken, bijwerken en verwijderen.",
+    "moderate_others": "Werk de notitie van een ander bij en verwijder deze."
+  },
+  "signs": {
+    "read_all": "Lees alle e-borden.",
+    "manage_own": "Eigen e-sign aanmaken, bijwerken en verwijderen.",
+    "moderate_others": "Update en verwijder het e-teken van anderen.",
+    "read_all_submissions": "Lees alle e-sign-inzendingen.",
+    "submit_own": "Veldverzoek indienen."
+  },
+  "tasks": {
+    "read_all": "Lees alle taken.",
+    "manage_own": "Eigen taak maken, bijwerken en verwijderen.",
+    "moderate_others": "Update en verwijder andermans taak.",
+    "read_all_submissions": "Lees alle taakinzendingen.",
+    "submit_own": "Dien een taakverzoek in."
+  },
+  "team": { "read_all": "Lees team voor het geval dat" }
+}

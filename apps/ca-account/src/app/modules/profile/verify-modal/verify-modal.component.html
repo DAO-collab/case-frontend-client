@@ -1,0 +1,33 @@
+<ng-template #contents let-c="close" let-d="dismiss">
+  <div class="modal-header">
+    <h2>
+      <span translate>Verify Your </span>
+      <span [ngSwitch]="modalType">
+        <span *ngSwitchCase="'email'" translate>Email</span>
+        <span *ngSwitchCase="'phone'" translate>Phone Number</span>
+      </span>
+    </h2>
+    <a class="close" (click)="later()"></a>
+  </div>
+  <form name="verificationForm" [formGroup]="verificationForm" novalidate>
+    <span app-ca-error [errors]="verifyError" [location]="'!'"></span>
+    <p>
+      <label for="v-code"><span translate>Verification Code</span></label>
+      <input type="text" id="v-code" formControlName="code" [pattern]="'^\\d+$'" required />
+      <a *ngIf="!resending && showResendCode" (click)="resendCode()" translate>Resend Code</a>
+      <a *ngIf="resending" translate>Resending</a>
+    </p>
+    <p class="submit">
+      <button
+        class="btn"
+        type="submit"
+        (click)="$event.stopPropagation(); onSubmit()"
+        [disabled]="verificationForm.invalid || verifying"
+      >
+        <span *ngIf="!verifying" translate>Verify</span>
+        <span *ngIf="verifying" translate>Verifying...</span>
+      </button>
+      <a (click)="later()" translate>Later</a>
+    </p>
+  </form>
+</ng-template>

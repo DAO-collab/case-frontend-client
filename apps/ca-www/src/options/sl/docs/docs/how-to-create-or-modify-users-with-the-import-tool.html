@@ -1,0 +1,90 @@
+<h1 id="how-to-create-or-modify-users-with-the-import-tool">
+  Kako ustvariti ali spremeniti uporabnike z orodjem za uvoz
+</h1>
+<p>Ta članek prikazuje skrbnikom, kako ustvariti uporabnike z orodjem za uvoz.</p>
+<h2 id="opening-the-import-tool">Odpiranje orodja za uvoz</h2>
+<p>
+  Skrbniki lahko uporabljajo orodje za uvoz za množično nalaganje novih uporabnikov in spreminjanje obstoječih
+  uporabniških zapisov.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Prijavite se v skrbniški račun.</li>
+  <li>Poiščite aplikacijo na strani z aplikacijami in kliknite gumb SKRBNIK.</li>
+  <li>Na skrbniški plošči kliknite zavihek Integracija in nato UVOZI v podmeniju.</li>
+  <li>Kliknite gumb NOVO. Pogovorno okno Dodaj uvoze se prikaže v novem zavihku brskalnika.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-records">Ustvarjanje zapisov</h2>
+<p>Ko se odpre pogovorno okno Dodajanje uvozov:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite polje <strong>Vrsta</strong> in izberite možnost (glejte spodaj). Prikaže se povezava.</li>
+  <li>Kliknite povezavo <strong>Prenesi vzorec</strong> . Datoteka CSV se prenese v vašo napravo.</li>
+</ol>
+<p>
+  Nato odprite datoteko in dodajte zapise. Kliknite <a href="docs/how-to-format-csv-data" target="_blank">tukaj</a> , če
+  želite izvedeti, kako uporabiti podatke o formatu v datoteki CSV.
+</p>
+<div class="figure">
+  <img src="/images/import-4.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="type">Vrsta</h2>
+<p>Ko kliknete polje Vrsta, se prikaže spustni meni. Izberite eno od dveh možnosti za masovni uvoz.</p>
+<p>
+  :exclamation: <strong>OPOMBA</strong> : Spustni meni ima veliko možnosti, vendar sta le dve povezani z orodjem za
+  uvoz. Vsaka možnost ima drugačno vzorčno datoteko CSV.
+</p>
+<h3 id="add-users">Dodajte uporabnike</h3>
+<ul>
+  <li>Izberite to možnost za preprosto množično nalaganje uporabniških zapisov.</li>
+  <li>Kliknite povezavo Prenesi vzorec, da odprete datoteko CSV z naslovi stolpcev za vrsto uvoza Dodaj uporabnike.</li>
+</ul>
+<h3 id="modify-users">Spremeni uporabnike</h3>
+<ul>
+  <li>Izberite to možnost za posodobitev podatkov za trenutne uporabnike.</li>
+  <li>
+    Kliknite povezavo Prenesi vzorec, da odprete datoteko CSV z naslovi stolpcev za vrsto uvoza Spremeni uporabnike.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Nalaganje datoteke</h2>
+<p>Datoteko lahko naložite takoj ali pa se pozneje vrnete v pogovorno okno Dodajanje uvozov in dokončate te korake.</p>
+<ol style="list-style-type: decimal">
+  <li>Odprite pogovorno okno Dodajanje uvozov.</li>
+  <li>Vnesite edinstveno ime za datoteko CSV.</li>
+  <li>Kliknite ikono plus (+), da naložite datoteko iz svoje naprave.</li>
+  <li>Kliknite polje <strong>Vrsta</strong> in izberite možnost. (glej zgoraj)</li>
+  <li>Kliknite SHRANI.</li>
+</ol>
+<div class="figure"><img src="/images/import-5.png" alt="img" /></div>
+<h2 id="processing">Obravnavati</h2>
+<p>
+  Odvisno od števila zapisov v datoteki in obremenitve sistema lahko platforma za obdelavo uvoza potrebuje nekaj minut.
+</p>
+<div class="figure">
+  <img src="/images/import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Ko je uvoz končan, platforma prilagodi uporabniške zapise (tj. doda, spremeni ali onemogoči) na skrbniški nadzorni
+  plošči <strong>uporabnikov</strong> .
+</p>
+<h2 id="failure">Neuspeh</h2>
+<p>
+  Če operacija uvoza ne uspe, platforma vrne sporočilo Neuspešno. V večini primerov je vzrok napake formatiranje
+  podatkov.
+</p>
+<div class="figure">
+  <img src="/images/import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Če želite videti vzrok napake:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite <strong>Pogled</strong> pod naslovom Dejanje.</li>
+  <li>Na naslednji strani premaknite miško na ikono Neuspelo. Opis orodja prikaže napako.</li>
+  <li>Pojdite na datoteko CVS ter prilagodite in popravite napako.</li>
+  <li>Ponovno naložite datoteko.</li>
+</ol>
+<div class="figure"><img src="/images/import-8.png" alt="img" /></div>

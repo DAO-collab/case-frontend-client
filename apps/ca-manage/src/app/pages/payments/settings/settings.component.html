@@ -1,0 +1,44 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['/invoices']" translate>Invoices</a>
+    </p>
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['/invoices/settings']" translate>Settings</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <div class="stripe-wrapper" *ngIf="stripe$ | async as stripe; else loading">
+    <div class="left-side-stripe">
+      <img src="images/stripe-label-icon.svg" alt="" class="stripe-icon" />
+      <div class="stripe-label" translate>Stripe</div>
+      <!-- <material-slide-toggle
+        [name]="'slideToggle'"
+        [checked]="stripe.stripe_connect_active"
+        [disabled]="false"
+        [aria-label]="'Toggle On/Off'"
+        (change)="changeStripeStatus(stripe.stripe_connect_active)"
+      ></material-slide-toggle> -->
+      <ca-toggle
+        [checked]="stripe.stripe_connect_active"
+        [disabled]="false"
+        (toggle)="changeStripeStatus(stripe.stripe_connect_active)"
+      ></ca-toggle>
+    </div>
+
+    <div class="right-side-stripe" *ngIf="stripe.stripe_connect_active">
+      <button
+        class="primary-outline custom-color-builder-button"
+        (click)="openLink(stripe.stripe_onboard_completed ? stripe.stripe_dashboard_link : stripe.stripe_onboard_link)"
+      >
+        {{ stripe.stripe_onboard_completed ? ('Dashboard' | translate) : ('On Board' | translate) }}
+      </button>
+    </div>
+  </div>
+
+  <ng-template #loading>
+    <app-loader [active]="isLoading"></app-loader>
+  </ng-template>
+</article>

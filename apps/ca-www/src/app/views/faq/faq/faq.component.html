@@ -1,0 +1,81 @@
+<div id="faqs">
+  <section id="content" xmlns="http://www.w3.org/1999/html">
+    <div #price>
+      <app-pricing (scrollToContactUs)="scrollToContactUs()"></app-pricing>
+    </div>
+
+    <div class="heading-a" #faq>
+      <h2>
+        <span class="small" [innerHTML]="'FAQ' | translate"></span>
+        <span class="answer-to-questions-span" [innerHTML]="'Answers to Questions' | translate"></span>
+      </h2>
+
+      <p
+        [innerHTML]="
+          'Have any questions? Read further guidance in our answers to customers’ queries and find the answers to your own.'
+            | translate
+        "
+      ></p>
+    </div>
+    <div class="news-a c">
+      <article>
+        <h3 [innerHTML]="'How secure is CaseActive?' | translate"></h3>
+        <p
+          [innerHTML]="
+            'CaseActive uses military and bank grade 128-bit SSL encryption for data transmission and 256-bit AES encryption for data at rest. Every CaseActive instance has a unique key generated, providing an additional layer of security for your business. We will never allow another company to access your database or storage system.'
+              | translate
+          "
+        ></p>
+      </article>
+      <article>
+        <h3
+          [innerHTML]="'I have an existing system in place, Can CaseActive work with my existing system?' | translate"
+        ></h3>
+        <p
+          [innerHTML]="
+            'Yes, you can integrate our proprietary API or import module to automatically create cases, assign users, and generate reports based on your system input.'
+              | translate
+          "
+        ></p>
+      </article>
+      <article>
+        <h3
+          [innerHTML]="'We have clients all over the world. Is CaseActive available in other languages?' | translate"
+        ></h3>
+        <p
+          [innerHTML]="
+            'Yes, CaseActive app and communication can be translated into over 60 languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well as English.'
+              | translate
+          "
+        ></p>
+      </article>
+      <article>
+        <h3 [innerHTML]="'Can I add a logo or customize CaseActive in any way?' | translate"></h3>
+        <p
+          [innerHTML]="
+            'Absolutely! CaseActive was designed with you in mind. On the admin panel setting page, you can upload your own personal color and choose your company colors.'
+              | translate
+          "
+        ></p>
+      </article>
+      <article>
+        <h3 [innerHTML]="'Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?' | translate"></h3>
+        <p
+          [innerHTML]="
+            'CaseActive is a responsive web app. It runs in any web browser like Internet Explorer, Firefox, Safari or Chrome, etc. This means that the type of device (PC, Mac, Tablet and Mobile) you are using makes no difference. Simply open the web browser, log in to your CaseActive account, and you are all set.'
+              | translate
+          "
+        ></p>
+      </article>
+      <article>
+        <h3 [innerHTML]="'How many clients can I have?' | translate"></h3>
+        <p
+          [innerHTML]="'You are billed per staff seat, per month. You can have unlimited client users.' | translate"
+        ></p>
+      </article>
+    </div>
+    <div #contactUs>
+      <app-contact-us></app-contact-us>
+    </div>
+  </section>
+</div>

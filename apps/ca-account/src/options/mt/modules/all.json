@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Aqra l-qasam tal-ka\u017c kollu spe\u010bifika fir-rwol",
+    "write": "Ikteb il-qasam tal-ka\u017c kollu spe\u010bifika fir-rwol"
+  },
+  "convos": {
+    "read_all": "Ara l-istatus attwali tal-convos.",
+    "manage_own": "Ing\u0127aqad u unjoin convo.",
+    "moderate_others": "Ibda convo, tmiem il-konvo, u ne\u0127\u0127i l-parte\u010bipant.",
+    "read_all_submissions": "Aqra l-konvos kollha rre\u0121istrati."
+  },
+  "events": {
+    "read_all": "Aqra l-avvenimenti kollha.",
+    "manage_own": "O\u0127loq, a\u0121\u0121orna u \u0127assar l-avveniment proprju.",
+    "moderate_others": "A\u0121\u0121orna u \u0127assar l-avveniment ta&#39; \u0127addie\u0127or.",
+    "read_all_submissions": "Aqra l-konfermi tal-avvenimenti kollha.",
+    "submit_own": "Ikkonferma t-talba g\u0127all-attendenza tal-avveniment."
+  },
+  "posts": {
+    "read_all": "Aqra l-postijiet kollha.",
+    "manage_own": "O\u0127loq, a\u0121\u0121orna u \u0127assar il-post stess.",
+    "moderate_others": "A\u0121\u0121orna u \u0127assar il-post ta&#39; \u0127addie\u0127or."
+  },
+  "forms": {
+    "read_all": "Aqra l-formoli kollha.",
+    "manage_own": "O\u0127loq, a\u0121\u0121orna u \u0127assar il-formola stess.",
+    "moderate_others": "A\u0121\u0121orna u \u0127assar il-formola ta&#39; \u0127addie\u0127or.",
+    "read_all_submissions": "Aqra s-sottomissjonijiet kollha tal-formoli.",
+    "submit_own": "Ibg\u0127at it-talba tal-formola."
+  },
+  "invoices": {
+    "read_all": "Aqra l-fatturi kollha.",
+    "manage_own": "O\u0127loq, a\u0121\u0121orna u \u0127assar il-fattura stess.",
+    "moderate_others": "A\u0121\u0121orna u \u0127assar il-fattura ta&#39; \u0127addie\u0127or.",
+    "read_all_submissions": "Aqra s-sottomissjonijiet kollha tal-fatturi.",
+    "submit_own": "Ibg\u0127at talba g\u0127all-fattura."
+  },
+  "notes": {
+    "read_all": "Aqra n-noti kollha.",
+    "manage_own": "O\u0127loq, a\u0121\u0121orna u \u0127assar in-nota stess.",
+    "moderate_others": "A\u0121\u0121orna u \u0127assar in-nota ta&#39; \u0127addie\u0127or."
+  },
+  "signs": {
+    "read_all": "Aqra s-sinjali elettroni\u010bi kollha.",
+    "manage_own": "O\u0127loq, a\u0121\u0121orna u \u0127assar is-sinjal elettroniku stess.",
+    "moderate_others": "A\u0121\u0121orna u \u0127assar is-sinjal elettroniku ta&#39; \u0127addie\u0127or.",
+    "read_all_submissions": "Aqra s-sottomissjonijiet kollha tas-sinjali elettroni\u010bi.",
+    "submit_own": "Ibg\u0127at it-talba fuq il-post."
+  },
+  "tasks": {
+    "read_all": "Aqra l-kompiti kollha.",
+    "manage_own": "O\u0127loq, a\u0121\u0121orna u \u0127assar il-kompitu stess.",
+    "moderate_others": "A\u0121\u0121orna u \u0127assar ix-xog\u0127ol ta&#39; \u0127addie\u0127or.",
+    "read_all_submissions": "Aqra s-sottomissjonijiet kollha tal-kompiti.",
+    "submit_own": "Ibg\u0127at it-talba tal-kompitu."
+  },
+  "team": { "read_all": "Aqra tim fil-ka\u017c" }
+}

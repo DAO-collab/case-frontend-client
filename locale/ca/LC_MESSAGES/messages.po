@@ -1,0 +1,4524 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.335209\n"
+"PO-Revision-Date: 2017-11-15T09:43:35.716820\n"
+"Language: ca\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Heu de triar el fitxer d’imatges."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Carregueu un document, marqueu-lo per signar-lo i, a continuació, el client "
+"s’iniciï la sessió i el signi. Tot es fa sense que el client hagi d’entrar "
+"al nostre edifici. Això és útil amb clients que no estan a prop d’una "
+"oficina o que viuen fora d’estat."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Director d’operacions d’assegurances de capital"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Els nostres associats poden iniciar sessió i veure informació bàsica sobre "
+"com va el seu cas derivat. Això ha augmentat enormement les derivacions dels"
+" nostres casos ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Soci del Gabinet d’Advocats de Christianson i Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Ja no hem de veure clients a l’oficina per fer reunions, i la signatura de "
+"documents està completada en línia."
+
+msgid "CEO of EL Passion"
+msgstr "CEO de EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Utilitzant l&#39;API, hem automatitzat completament el que es mostrava al "
+"feed de casos, basat en activadors específics del nostre sistema existent. "
+"Bastant còmode .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Responsable informàtic dels advocats Carter Mario Lesions"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Tenim molts clients multilingües que utilitzen la funció de traducció. "
+"Publiquem missatges amb la confiança que tots els entendran. Això ens permet"
+" passar del treball local al global."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "CEO de Disseny Solid Rock"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Els clients els encanten! Fa la seva vida molt més fàcil. Poden discutir "
+"problemes en línia amb nosaltres, carregar fotos i documents, i tot "
+"s’emmagatzema allà on tant l’equip com el client el puguin veure .."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Soci de PC Ashley &amp; Ashley"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Ens encanta la facturació dels casos perquè permet als clients veure "
+"exactament el que paguen."
+
+msgid "Vice President of Sky Digital"
+msgstr "Vicepresident de Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"La comunicació entrellaçada és com tenir tots els vostres mitjans de "
+"comunicació i eines de col·laboració en un mateix lloc."
+
+msgid "Director Of Complaint Management"
+msgstr "Director de Gestió de Queixes"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Els formularis de casos ens permeten escoltar i aprendre, ajudant-nos a "
+"augmentar les vendes a través dels comentaris dels nostres clients ..."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Director de vendes de Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"La interfície d’usuari és molt similar a Facebook. És molt fàcil "
+"d&#39;utilitzar .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Soci de Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "S'ha enviat un pin a"
+
+msgid "Cancel"
+msgstr "Cancel · lar"
+
+msgid "Send New Pin"
+msgstr "Envia un PIN nou"
+
+msgid "Need Help?"
+msgstr "Necessitar ajuda?"
+
+msgid "Click here to contact us"
+msgstr "Feu clic aquí per contactar amb nosaltres"
+
+msgid "Next"
+msgstr "Pròxim"
+
+msgid "Login or Signup"
+msgstr "Inicieu sessió o registreu-vos"
+
+msgid "Invalid email entered"
+msgstr "S'ha introduït un correu electrònic no vàlid"
+
+msgid "Processing..."
+msgstr "S&#39;està processant ..."
+
+msgid "Made with"
+msgstr "Fet amb"
+
+msgid "love"
+msgstr "Amor"
+
+msgid "in New York City"
+msgstr "A la ciutat de Nova York"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Tots els drets reservats"
+
+msgid "Terms of Use"
+msgstr "Condicions d&#39;ús"
+
+msgid "Contact Us"
+msgstr "Contacta amb nosaltres"
+
+msgid "Username"
+msgstr "Nom d&#39;usuari"
+
+msgid "Code"
+msgstr "Codi"
+
+msgid "New Password"
+msgstr "nova contrasenya"
+
+msgid "Confirm Password"
+msgstr "Confirma la contrassenya"
+
+msgid "Set Your New Password"
+msgstr "Estableix la contrasenya nova"
+
+msgid "A code has been sent to"
+msgstr "S&#39;ha enviat un codi a"
+
+msgid "Change Password"
+msgstr "Canvi de contrasenya"
+
+msgid "Changing..."
+msgstr "S&#39;està canviant ..."
+
+msgid "Login"
+msgstr "iniciar Sessió"
+
+msgid "Forgot password?"
+msgstr "Has oblidat la contrasenya?"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Email or Phone"
+msgstr "Correu electrònic o telèfon"
+
+msgid "Reset Password"
+msgstr "Restablir la contrasenya"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Introduïu l&#39;adreça de correu electrònic o el número de telèfon associat "
+"al vostre compte i, a continuació, feu clic a Envia. Us enviarem un missatge"
+" de correu electrònic o us enviarem un text a un enllaç a una pàgina on "
+"podreu crear una contrasenya fàcilment."
+
+msgid "Request Code"
+msgstr "Codi de sol·licitud"
+
+msgid "Requesting..."
+msgstr "S&#39;està demanant ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE ESTÀ PROP"
+
+msgid "Create a free account"
+msgstr "Creeu un compte gratuït"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Hi estem posant els darrers tocs. T'avisarem quan estigui a punt."
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Us queden minuts d’una millor col·laboració."
+
+msgid "First Name"
+msgstr "Nom"
+
+msgid "Last Name"
+msgstr "Cognom"
+
+msgid "Email"
+msgstr "Correu electrònic"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "No language selected"
+msgstr "No s&#39;ha seleccionat cap idioma"
+
+msgid "I agree with"
+msgstr "estic d'acord amb"
+
+msgid "Terms of Service"
+msgstr "Termes del servei"
+
+msgid "Language"
+msgstr "Llenguatge"
+
+msgid "Have at least one lower case character"
+msgstr "Teniu com a mínim un caràcter en minúscula"
+
+msgid "Have at least one capital letter"
+msgstr "Tenir almenys una lletra majúscula"
+
+msgid "Have at least one number"
+msgstr "Teniu almenys un número"
+
+msgid "Have at least 8 characters in length"
+msgstr "Té almenys 8 caràcters"
+
+msgid "Type your current password"
+msgstr "Escriviu la vostra contrasenya actual"
+
+msgid "Passwords must match"
+msgstr "les contrasenyes han de coincidir"
+
+msgid "Domains"
+msgstr "Dominis"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript està desactivat. Activa-ho."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Les galetes estan desactivades. Activa-ho."
+
+msgid "New"
+msgstr "Nou"
+
+msgid "Create A New App"
+msgstr "Crea una aplicació nova"
+
+msgid "Apps"
+msgstr "Aplicacions"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Logout"
+msgstr "Tancar sessió"
+
+msgid "Hi"
+msgstr "Hola"
+
+msgid "View your account"
+msgstr "Consulteu el vostre compte"
+
+msgid "View page"
+msgstr "Veure la pàgina"
+
+msgid "You don’t have any apps"
+msgstr "No teniu cap aplicació"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "Administració"
+
+msgid "Notifications"
+msgstr "Notificacions"
+
+msgid "No notifications yet."
+msgstr "Encara no hi ha notificacions."
+
+msgid "Today"
+msgstr "Avui"
+
+msgid "Last Week"
+msgstr "La setmana passada"
+
+msgid "No timezone selected"
+msgstr "No s&#39;ha seleccionat cap zona horària"
+
+msgid "Complete profile to continue"
+msgstr "Perfil complet per continuar"
+
+msgid "Timezone"
+msgstr "Zona horària"
+
+msgid "Update"
+msgstr "Actualització"
+
+msgid "Website:"
+msgstr "Lloc web:"
+
+msgid "Homepage:"
+msgstr "Pàgina inicial:"
+
+msgid "Approve Access"
+msgstr "Aproveu l&#39;accés"
+
+msgid "Info"
+msgstr "Informació"
+
+msgid "Permissions"
+msgstr "Permisos"
+
+msgid "Billing"
+msgstr "Facturació"
+
+msgid "Payment Plan"
+msgstr "Pla de pagament"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Save"
+msgstr "Desa"
+
+msgid "has access to your information below:"
+msgstr "té accés a la vostra informació a continuació:"
+
+msgid "has invited you to their client portal."
+msgstr "t&#39;ha convidat al seu portal de clients."
+
+msgid "want access to the following information:"
+msgstr "desitgeu accedir a la informació següent:"
+
+msgid "Decline"
+msgstr "Disminució"
+
+msgid "Remove Access"
+msgstr "Elimina l&#39;accés"
+
+msgid "Active"
+msgstr "Actiu"
+
+msgid "Invites"
+msgstr "Convida"
+
+msgid "Disabled"
+msgstr "Discapacitat"
+
+msgid "No apps found"
+msgstr "No s'ha trobat cap aplicació"
+
+msgid "admin"
+msgstr "Administrador"
+
+msgid "user"
+msgstr "usuari"
+
+msgid "manager"
+msgstr "gerent"
+
+msgid "active"
+msgstr "actiu"
+
+msgid "inactive"
+msgstr "Inactiu"
+
+msgid "Company Name"
+msgstr "Nom de la companyia"
+
+msgid "Type"
+msgstr "Escriviu"
+
+msgid "Status"
+msgstr "Estat"
+
+msgid "Invitation"
+msgstr "Invitació"
+
+msgid "About App"
+msgstr "Sobre l'aplicació"
+
+msgid "Billing Info"
+msgstr "Informació de facturació"
+
+msgid "Your Company Name"
+msgstr "El vostre nom d&#39;empresa"
+
+msgid "Your Company Website"
+msgstr "El vostre lloc web d&#39;empresa"
+
+msgid "Saving..."
+msgstr "S&#39;està desant ..."
+
+msgid "Billing Information"
+msgstr "Informació de facturació"
+
+msgid "Please add the APP ID provided by the company"
+msgstr ""
+"Si us plau, afegiu l'identificador de l'APP proporcionat per l'empresa"
+
+msgid "Select an option"
+msgstr "Seleccioneu una opció"
+
+msgid "Join an existing app as a client"
+msgstr "Uneix-te a una aplicació existent com a client"
+
+msgid "Create a new app for my business"
+msgstr "Crea una aplicació nova per al meu negoci"
+
+msgid "Create Domain"
+msgstr "Crea un domini"
+
+msgid "Select enterprise app"
+msgstr "Seleccioneu l'aplicació empresarial"
+
+msgid "No item selected"
+msgstr "No s'ha seleccionat cap element"
+
+msgid "Domain name"
+msgstr "Nom de domini"
+
+msgid "Add"
+msgstr "Afegeix"
+
+msgid "No enterprise app found"
+msgstr "No s'ha trobat cap aplicació empresarial"
+
+msgid "Pending"
+msgstr "Pendents"
+
+msgid "No domains found"
+msgstr "No s'han trobat dominis"
+
+msgid "Domain"
+msgstr "Domini"
+
+msgid "Txt Value"
+msgstr "Valor de Txt"
+
+msgid "Enterprise Host ID"
+msgstr "Identificador d'amfitrió de l'empresa"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Acció"
+
+msgid "Delete"
+msgstr "Suprimeix"
+
+msgid "Reset"
+msgstr "Restableix"
+
+msgid "Allow Manual Sign In"
+msgstr "Permet l'inici de sessió manual"
+
+msgid "Exclude Emails From SSO"
+msgstr "Exclou correus electrònics de SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Metadades del proveïdor d'identitat SAML"
+
+msgid "Submit"
+msgstr "Presentar"
+
+msgid "Profile photo"
+msgstr "Foto del perfil"
+
+msgid "Uploading..."
+msgstr "S&#39;està carregant ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "ha estat reclamat per un altre compte, si us plau, canvieu-lo o"
+
+msgid "reclaim"
+msgstr "recuperar"
+
+msgid "it"
+msgstr "ho"
+
+msgid "pending verification:"
+msgstr "pendent de verificació:"
+
+msgid "verify"
+msgstr "verificar"
+
+msgid "Phone Number"
+msgstr "Número de telèfon"
+
+msgid "Current Password"
+msgstr "Contrasenya actual"
+
+msgid "Change password"
+msgstr "Canvia la contrasenya"
+
+msgid "No gender selected"
+msgstr "No s&#39;ha seleccionat gènere"
+
+msgid "Company Title"
+msgstr "Títol de l&#39;empresa"
+
+msgid "Address"
+msgstr "adreça"
+
+msgid "Address 2"
+msgstr "Adreça 2"
+
+msgid "City/Locality"
+msgstr "Ciutat / Localitat"
+
+msgid "State/Region"
+msgstr "Estat / regió"
+
+msgid "No country selected"
+msgstr "No s&#39;ha seleccionat cap país"
+
+msgid "Zip/Postal Code"
+msgstr "Codi Postal / Codi Postal"
+
+msgid "Basic"
+msgstr "Bàsic"
+
+msgid "Date of Birth"
+msgstr "Data de naixement"
+
+msgid "Gender"
+msgstr "Gènere"
+
+msgid "Occupation"
+msgstr "Ocupació"
+
+msgid "Location"
+msgstr "Ubicació"
+
+msgid "Address is not valid"
+msgstr "L'adreça no és vàlida"
+
+msgid "City/Locality is not valid"
+msgstr "La ciutat / localitat no és vàlida"
+
+msgid "Country"
+msgstr "País"
+
+msgid "State/Region is not valid"
+msgstr "L'estat / regió no és vàlid"
+
+msgid "Contact Info"
+msgstr "Dades de contacte"
+
+msgid "Language & Region"
+msgstr "Idioma i Regió"
+
+msgid "Saving"
+msgstr "Estalvi"
+
+msgid "Verify Your"
+msgstr "Verifiqueu la vostra"
+
+msgid "Verification Code"
+msgstr "Codi de verificació"
+
+msgid "Resend Code"
+msgstr "Codi de reenviament"
+
+msgid "Resending"
+msgstr "Reenviament"
+
+msgid "Verify"
+msgstr "Verifica"
+
+msgid "Verifying..."
+msgstr "S&#39;està verificant ..."
+
+msgid "Later"
+msgstr "Més tard"
+
+msgid "We're here to help"
+msgstr "Estem aquí per ajudar"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Gràcies per contactar-nos. El vostre missatge s&#39;ha enviat correctament. "
+"Us contactarem molt aviat!"
+
+msgid "Message"
+msgstr "Missatge"
+
+msgid "characters left"
+msgstr "resten caràcters"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Sending..."
+msgstr "S&#39;està enviant ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Ja no rebràs màrqueting per correu electrònic de la llista."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Si teniu un moment, feu-nos saber per què us heu cancel·lat la subscripció:"
+
+msgid "Return to our website"
+msgstr "Torna al nostre lloc web"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Gràcies. S'ha enviat la teva resposta."
+
+msgid "No Cases"
+msgstr "No hi ha casos"
+
+msgid "Layout"
+msgstr "Disseny"
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Speaker"
+msgstr "Altaveu"
+
+msgid "This case has been closed"
+msgstr "Aquest cas s'ha tancat"
+
+msgid "Feed"
+msgstr "Feed"
+
+msgid "Images"
+msgstr "Imatges"
+
+msgid "Docs"
+msgstr "Documents de Google"
+
+msgid "Audios"
+msgstr "Àudios"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "Files"
+msgstr "Fitxers"
+
+msgid "Events"
+msgstr "Esdeveniments"
+
+msgid "Forms"
+msgstr "Formes"
+
+msgid "E-signs"
+msgstr "Signes electrònics"
+
+msgid "Invoices"
+msgstr "Factures"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "Tasks"
+msgstr "Tasques"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Bona feina!"
+
+msgid "You did all"
+msgstr "Has fet tot"
+
+msgid "the tasks"
+msgstr "les tasques"
+
+msgid "Media"
+msgstr "Mitjans de comunicació"
+
+msgid "Skip to navigation (n)"
+msgstr "Saltar a la navegació (n)"
+
+msgid "Skip to content (c)"
+msgstr "Vés al contingut (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Saltar al peu de pàgina (f)"
+
+msgid "Case"
+msgstr "Caixa"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Using Form Builder"
+msgstr "Ús del generador de formularis"
+
+msgid "Using Forms Library"
+msgstr "Ús de la biblioteca de formularis"
+
+msgid "Using E-sign Builder"
+msgstr "Utilitzant E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Ús de la biblioteca de signes electrònics"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Create Note"
+msgstr "Crear nota"
+
+msgid "Edit Note"
+msgstr "Edita la nota"
+
+msgid "End Convo"
+msgstr "Finalitzar la conversa"
+
+msgid "Create Form"
+msgstr "Crea un formulari"
+
+msgid "Create Sign"
+msgstr "Crea un signe"
+
+msgid "Event Create"
+msgstr "Esdeveniment Crea"
+
+msgid "Convo Videos"
+msgstr "Vídeos de conversa"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Casos"
+
+msgid "Case categories"
+msgstr "Categories de casos"
+
+msgid "Your team"
+msgstr "El vostre equip"
+
+msgid "To do"
+msgstr "Fer"
+
+msgid "To Do:"
+msgstr "Fer:"
+
+msgid "Case Categories"
+msgstr "Categories de casos"
+
+msgid "Your Team"
+msgstr "El teu equip"
+
+msgid "To Do"
+msgstr "Fer"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Close"
+msgstr "Tanca"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Visibility"
+msgstr "Visibilitat"
+
+msgid "all"
+msgstr "tot"
+
+msgid "sign"
+msgstr "signe"
+
+msgid "Page"
+msgstr "Pàgina"
+
+msgid "of"
+msgstr "de"
+
+msgid "Processing"
+msgstr "Processament"
+
+msgid "failed."
+msgstr "fracassat."
+
+msgid "Value should be greater or equal to 1"
+msgstr "El valor ha de ser superior o igual a 1"
+
+msgid "Repeat end:"
+msgstr "Repetiu el final:"
+
+msgid "Signature"
+msgstr "Signatura"
+
+msgid "Draw"
+msgstr "Dibuixa"
+
+msgid "Write"
+msgstr "Escriu"
+
+msgid "Clear Signature"
+msgstr "Signatura clara"
+
+msgid "Still processing video..."
+msgstr "Encara s'està processant el vídeo ..."
+
+msgid "You"
+msgstr "Vostè"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Esteu a punt d'eliminar el feed. Estàs segur?"
+
+msgid "No convo audios yet"
+msgstr "Encara no hi ha àudios de conversa"
+
+msgid "No convo videos yet"
+msgstr "Encara no hi ha vídeos de conversa"
+
+msgid "Start Convo"
+msgstr "Inicia Convo"
+
+msgid "Notify the Host"
+msgstr "Aviseu l'amfitrió"
+
+msgid "is in the call"
+msgstr "està a la convocatòria"
+
+msgid "and"
+msgstr "i"
+
+msgid "others are in the call"
+msgstr "altres estan a la convocatòria"
+
+msgid "Audio call is being recorded"
+msgstr "La trucada d'àudio s'està gravant"
+
+msgid "Video call is being recorded"
+msgstr "S'està enregistrant una videotrucada"
+
+msgid "Join now"
+msgstr "Unir-se ara"
+
+msgid "Dismiss"
+msgstr "Descartar"
+
+msgid "Can’t find your "
+msgstr "No trobo el teu"
+
+msgid "microphone"
+msgstr "micròfon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Comproveu la configuració del vostre sistema per assegurar-vos-ho"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"està disponible. Si no, connecteu-ne un. És possible que hàgiu de reiniciar "
+"el navegador."
+
+msgid "web camera"
+msgstr "càmera web"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Iniciaràs una trucada de Convo. Començar amb:"
+
+msgid "Video & Audio"
+msgstr "Vídeo i àudio"
+
+msgid "Audio Only"
+msgstr "Només àudio"
+
+msgid "Record the meeting"
+msgstr "Gravar la reunió"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "S'està esperant algú amb permís per iniciar una trucada de Convo"
+
+msgid "Add Ticket"
+msgstr "Afegeix el bitllet"
+
+msgid "Title"
+msgstr "Títol"
+
+msgid "Open"
+msgstr "Obert"
+
+msgid "Closed"
+msgstr "Tancat"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Esteu a punt de tancar el bitllet. Estàs segur?"
+
+msgid "Announcements"
+msgstr "Anuncis"
+
+msgid "Support"
+msgstr "Suport"
+
+msgid "Opened"
+msgstr "Obert"
+
+msgid "View"
+msgstr "Veure"
+
+msgid "Locations"
+msgstr "Ubicacions"
+
+msgid "You currently have no announcements."
+msgstr "Actualment no teniu cap anunci."
+
+msgid "You currently have no"
+msgstr "Actualment no tens cap"
+
+msgid "open cases. Click"
+msgstr "casos oberts. Feu clic"
+
+msgid "here"
+msgstr "aquí"
+
+msgid "to contact support."
+msgstr "per contactar amb el suport."
+
+msgid "closed cases."
+msgstr "casos tancats."
+
+msgid "open tickets."
+msgstr "entrades obertes."
+
+msgid "closed tickets."
+msgstr "entrades tancades."
+
+msgid "You currently have no locations."
+msgstr "Actualment no teniu cap ubicació."
+
+msgid "Write a comment...."
+msgstr "Escriu un comentari...."
+
+msgid "Post"
+msgstr "Publicació"
+
+msgid "Add Location"
+msgstr "Afegeix ubicació"
+
+msgid "Save Event"
+msgstr "Desa l'esdeveniment"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Start Date"
+msgstr "Data d&#39;inici"
+
+msgid "Start Time"
+msgstr "L&#39;hora d&#39;inici"
+
+msgid "End Date"
+msgstr "Data de finalització"
+
+msgid "End Time"
+msgstr "Fi del temps"
+
+msgid "Repeat"
+msgstr "Repetiu"
+
+msgid "Attendees"
+msgstr "Assistents"
+
+msgid "Event Location"
+msgstr "Ubicació de l&#39;esdeveniment"
+
+msgid "Link"
+msgstr "Enllaç"
+
+msgid "Description"
+msgstr "Descripció"
+
+msgid "Attending"
+msgstr "Assistir"
+
+msgid "Add to calendar"
+msgstr "Afegeix al calendari"
+
+msgid "Details"
+msgstr "Detalls"
+
+msgid "Event by"
+msgstr "Esdeveniment per"
+
+msgid "Duration:"
+msgstr "Durada:"
+
+msgid "more"
+msgstr "més"
+
+msgid "Maybe"
+msgstr "Pot ser"
+
+msgid "Not Attending"
+msgstr "No assistir"
+
+msgid "No"
+msgstr "No"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Videoconferència"
+
+msgid "Event details"
+msgstr "Detalls de l'esdeveniment"
+
+msgid "You don't have permissions to view this page."
+msgstr "No teniu permisos per veure aquesta pàgina."
+
+msgid "Your Upcoming Events"
+msgstr "Els teus propers esdeveniments"
+
+msgid "Upcoming"
+msgstr "Properament"
+
+msgid "Your Past Events"
+msgstr "Els vostres esdeveniments passats"
+
+msgid "Past"
+msgstr "Passat"
+
+msgid "Your Events"
+msgstr "Els teus esdeveniments"
+
+msgid "All"
+msgstr "Tots"
+
+msgid "All Events"
+msgstr "Tots els Esdeveniments"
+
+msgid "Directions"
+msgstr "Instruccions"
+
+msgid "Edit settings"
+msgstr "Editeu la configuració"
+
+msgid "Delete event"
+msgstr "Suprimeix l'esdeveniment"
+
+msgid "Attending?"
+msgstr "Hi assistiu?"
+
+msgid "No Events"
+msgstr "Sense esdeveniments"
+
+msgid "more comment(s)"
+msgstr "més comentari (s)"
+
+msgid "Loading comments"
+msgstr "S'estan carregant comentaris"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Esteu a punt de suprimir el comentari. Estàs segur?"
+
+msgid "task"
+msgstr "tasca"
+
+msgid "to do"
+msgstr "fer"
+
+msgid "tasks"
+msgstr "tasques"
+
+msgid "Write something..."
+msgstr "Escriure alguna cosa..."
+
+msgid "Attach File"
+msgstr "Adjuntar arxiu"
+
+msgid "From Template"
+msgstr "De Plantilla"
+
+msgid "No feeds yet."
+msgstr "Encara no hi ha feeds."
+
+msgid "comments"
+msgstr "comentaris"
+
+msgid "comment"
+msgstr "comentar"
+
+msgid "Add a comment"
+msgstr "Afegeix un comentari"
+
+msgid "Template"
+msgstr "Plantilla"
+
+msgid "No templates"
+msgstr "No hi ha plantilles"
+
+msgid "Done"
+msgstr "Fet"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Seleccioneu els membres que necessiten omplir aquest formulari"
+
+msgid "Update Form"
+msgstr "Formulari d'actualització"
+
+msgid "Due Date"
+msgstr "Data de venciment"
+
+msgid "Due Time"
+msgstr "En el moment oportú"
+
+msgid "Loading..."
+msgstr "S&#39;està carregant ..."
+
+msgid "Preview"
+msgstr "Vista prèvia"
+
+msgid "Save & Close"
+msgstr "Desa i tanca"
+
+msgid "Add an element"
+msgstr "Afegeix un element"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Els mitjans s'estan convertint. T'avisarem quan estigui llest"
+
+msgid "Add "
+msgstr "Afegeix"
+
+msgid "Field"
+msgstr "Camp"
+
+msgid "Edit "
+msgstr "Edita"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Sub Text"
+msgstr "Subtext"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Els mitjans de comunicació no s'han convertit. Si us plau, suprimeix i "
+"torna-ho a provar o un altre."
+
+msgid "Pages"
+msgstr "Pàgines"
+
+msgid "Saved"
+msgstr "Desat"
+
+msgid "Insert"
+msgstr "Insereix"
+
+msgid "Elements"
+msgstr "Elements"
+
+msgid "Action Required"
+msgstr "Acció requerida"
+
+msgid "Add a new page"
+msgstr "Afegeix una pàgina nova"
+
+msgid "Blank page"
+msgstr "Pàgina en blanc"
+
+msgid "From PDF"
+msgstr "Del PDF"
+
+msgid "From image"
+msgstr "A partir de la imatge"
+
+msgid "Add PDF"
+msgstr "Afegeix PDF"
+
+msgid "Add Image"
+msgstr "Afegeix una imatge"
+
+msgid "Options"
+msgstr "Opcions"
+
+msgid "Column Names"
+msgstr "Noms de columnes"
+
+msgid "Option already exists."
+msgstr "Opció ja existeix."
+
+msgid "options list is empty"
+msgstr "La llista d&#39;opcions està buida"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"El camp de les caselles de selecció només admet 5 opcions. Podeu canviar de "
+"camp a menú desplegable per afegir més opcions"
+
+msgid "columns list is empty"
+msgstr "la llista de columnes està buida"
+
+msgid "Default Value"
+msgstr "Valor per defecte"
+
+msgid "Delete row"
+msgstr "Suprimeix la fila"
+
+msgid "Add a new row"
+msgstr "Afegeix una fila nova"
+
+msgid "Download"
+msgstr "descarregar"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Question"
+msgstr "Pregunta"
+
+msgid "Default answer"
+msgstr "Resposta per defecte"
+
+msgid "Media is converting"
+msgstr "Els mitjans s'estan convertint"
+
+msgid "Send Form"
+msgstr "Enviar formulari"
+
+msgid "Form Submited."
+msgstr "Formulari enviat."
+
+msgid "You don't have permissions to submit forms."
+msgstr "No teniu permisos per enviar formularis."
+
+msgid "You currently have no forms of your own"
+msgstr "Actualment no teniu cap formulari propi"
+
+msgid "Your Uncompleted Forms"
+msgstr "Els vostres formularis incomplets"
+
+msgid "Uncompleted"
+msgstr "Inacabat"
+
+msgid "Your Completed Forms"
+msgstr "Els vostres formularis emplenats"
+
+msgid "Completed"
+msgstr "Completat"
+
+msgid "Your Forms"
+msgstr "Els vostres formularis"
+
+msgid "All Forms"
+msgstr "Totes les formes"
+
+msgid "Form Title"
+msgstr "Títol del formulari"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Published"
+msgstr "Publicat"
+
+msgid "Submissions"
+msgstr "Enviaments"
+
+msgid "No Forms"
+msgstr "Sense formularis"
+
+msgid "Upload Form Document"
+msgstr "Carregueu el document del formulari"
+
+msgid "Forms Library"
+msgstr "Biblioteca de formularis"
+
+msgid "No Forms In Library"
+msgstr "Sense formularis a la biblioteca"
+
+msgid "Answers"
+msgstr "Respostes"
+
+msgid "Close - Status changed"
+msgstr "Tanca: s’ha canviat l’estat"
+
+msgid "Change Status"
+msgstr "Canviar estat"
+
+msgid "Case Number"
+msgstr "Número del cas"
+
+msgid "Tag Id"
+msgstr "Id d&#39;etiqueta"
+
+msgid "Date Opened"
+msgstr "Data oberta"
+
+msgid "Host Id"
+msgstr "Identificador de l'amfitrió"
+
+msgid "User Id"
+msgstr "ID d'usuari"
+
+msgid "Case Id"
+msgstr "Id. del cas"
+
+msgid "Confirm your details"
+msgstr "Confirmeu les vostres dades"
+
+msgid "Form Submitted."
+msgstr "Formulari enviat."
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "PO No:"
+msgstr "Número de comanda:"
+
+msgid "Reference ID:"
+msgstr "ID de referència:"
+
+msgid "Term:"
+msgstr "Termini:"
+
+msgid "Note:"
+msgstr "Nota:"
+
+msgid "QTY"
+msgstr "QTY"
+
+msgid "Price"
+msgstr "Preu"
+
+msgid "Add more"
+msgstr "Afegir més"
+
+msgid "Subtotal($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount(%)"
+msgstr "Descompte (%)"
+
+msgid "TAX(%)"
+msgstr "IMPOST (%)"
+
+msgid "Total($)"
+msgstr "Total ($)"
+
+msgid "Invoice No"
+msgstr "Factura núm"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Seleccioneu els membres que necessiten veure o pagar aquesta factura"
+
+msgid "Update Invoice"
+msgstr "Actualitzar la factura"
+
+msgid "Create Invoice"
+msgstr "Crear factura"
+
+msgid "PO No."
+msgstr "PO Núm."
+
+msgid "Reference ID"
+msgstr "ID de referència"
+
+msgid "Term"
+msgstr "Terme"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Quantity"
+msgstr "Quantitat"
+
+msgid "Price ($)"
+msgstr "Preu ($)"
+
+msgid "Subtotal ($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount (%)"
+msgstr "Descompte (%)"
+
+msgid "Tax (%)"
+msgstr "Impost (%)"
+
+msgid "Total ($)"
+msgstr "Total ($)"
+
+msgid "Pay Invoice"
+msgstr "Pagar factura"
+
+msgid "Payment method"
+msgstr "Mètode de pagament"
+
+msgid "Add a new payment method"
+msgstr "Afegeix una nova forma de pagament"
+
+msgid "Summary"
+msgstr "Resum"
+
+msgid "Payment:"
+msgstr "Pagament:"
+
+msgid "Total charge:"
+msgstr "Càrrec total:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Les vostres factures impagades"
+
+msgid "Unpaid"
+msgstr "Sense pagar"
+
+msgid "Your Paid Invoices"
+msgstr "Les vostres factures pagades"
+
+msgid "Paid"
+msgstr "Pagat"
+
+msgid "Your Invoices"
+msgstr "Les teves factures"
+
+msgid "All Invoices"
+msgstr "Totes les factures"
+
+msgid "Invoice Title"
+msgstr "Títol de la factura"
+
+msgid "No Invoices"
+msgstr "Sense factures"
+
+msgid "No Audios yet."
+msgstr "Encara no hi ha àudios."
+
+msgid "Loading failed."
+msgstr "Ha fallat la càrrega."
+
+msgid "retry"
+msgstr "torna-ho a provar"
+
+msgid "No documents yet."
+msgstr "Encara no hi ha cap document."
+
+msgid "No Files yet."
+msgstr "Encara no hi ha fitxers."
+
+msgid "No Images yet."
+msgstr "Encara no hi ha imatges."
+
+msgid "No Videos yet."
+msgstr "Encara no hi ha vídeos."
+
+msgid "Page Not Found"
+msgstr "Pàgina no trobada"
+
+msgid "Attachments"
+msgstr "Adjunts"
+
+msgid "Note View"
+msgstr "Vista de notes"
+
+msgid "No Notes"
+msgstr "Sense notes"
+
+msgid "Select the person to answer this field"
+msgstr "Seleccioneu la persona per respondre a aquest camp"
+
+msgid "Create E-sign"
+msgstr "Crea un signe electrònic"
+
+msgid "Update E-signs"
+msgstr "Actualitzar els signes electrònics"
+
+msgid "Signs"
+msgstr "Signes"
+
+msgid "Add Field"
+msgstr "Afegeix un camp"
+
+msgid "Edit Field"
+msgstr "Edita el camp"
+
+msgid "Send E-sign"
+msgstr "Envieu un signe electrònic"
+
+msgid "E-sign Submitted."
+msgstr "Signe electrònic enviat."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "No teniu permís per enviar signes electrònics."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Actualment no teniu cap signe electrònic propi"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Els vostres signes electrònics no completats"
+
+msgid "Your Completed E-signs"
+msgstr "Els vostres signes electrònics completats"
+
+msgid "Your Signs"
+msgstr "Els vostres signes"
+
+msgid "All E-signs"
+msgstr "Tots els signes electrònics"
+
+msgid "E-sign Title"
+msgstr "Títol del signe electrònic"
+
+msgid "No E-signs"
+msgstr "Sense senyals electrònics"
+
+msgid "E-Signs Library"
+msgstr "Biblioteca de signes electrònics"
+
+msgid "No E-signs In Library"
+msgstr "No hi ha rètols electrònics a la biblioteca"
+
+msgid "Upload E-sign Document"
+msgstr "Carregueu el document de signatura electrònica"
+
+msgid "Update Task"
+msgstr "Tasca d'actualització"
+
+msgid "Create Task"
+msgstr "Crea una tasca"
+
+msgid "You currently have no tasks of your own"
+msgstr "Actualment no teniu cap tasca pròpia"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Les vostres tasques no finalitzades"
+
+msgid "Your Completed Tasks"
+msgstr "Les vostres tasques completades"
+
+msgid "Your Tasks"
+msgstr "Les teves tasques"
+
+msgid "All Tasks"
+msgstr "Totes les tasques"
+
+msgid "Task"
+msgstr "Tasca"
+
+msgid "Deadline"
+msgstr "Data límit"
+
+msgid "Assignees"
+msgstr "Cesionaris"
+
+msgid "In Progress"
+msgstr "En progrés"
+
+msgid "Delete task"
+msgstr "Suprimeix la tasca"
+
+msgid "No Tasks"
+msgstr "Sense tasques"
+
+msgid "wants access"
+msgstr "vol accedir"
+
+msgid "No Answers"
+msgstr "Sense respostes"
+
+msgid "Select Field Type"
+msgstr "Seleccioneu Tipus de camp"
+
+msgid "Text Only"
+msgstr "Només text"
+
+msgid "Multiple Line Text"
+msgstr "Text de diverses línies"
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+msgid "Multi Dropdown"
+msgstr "Desplegable múltiple"
+
+msgid "Checkboxes"
+msgstr "Caselles de verificació"
+
+msgid "Radio"
+msgstr "Ràdio"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Yes/No"
+msgstr "Sí / No"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Access Denied"
+msgstr "Accés denegat"
+
+msgid "You don't have access to this case."
+msgstr "No teniu accés a aquest cas."
+
+msgid "Imports"
+msgstr "Importacions"
+
+msgid "View import"
+msgstr "Mostra la importació"
+
+msgid "Sessions"
+msgstr "Sessions"
+
+msgid "Home"
+msgstr "Casa"
+
+msgid "Users"
+msgstr "Usuaris"
+
+msgid "Library"
+msgstr "Biblioteca"
+
+msgid "Integration"
+msgstr "Integració"
+
+msgid "Settings"
+msgstr "Configuració"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Claus"
+
+msgid "Feed Templates"
+msgstr "Plantilles de feeds"
+
+msgid "Form Templates"
+msgstr "Plantilles de formularis"
+
+msgid "E-sign Templates"
+msgstr "Plantilles de signes electrònics"
+
+msgid "Task Templates"
+msgstr "Plantilles de tasques"
+
+msgid "Dashboard"
+msgstr "panell"
+
+msgid "Payments"
+msgstr "Pagaments"
+
+msgid "From"
+msgstr "Des de"
+
+msgid "To"
+msgstr "A"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "User Intake"
+msgstr "Admissió d'usuaris"
+
+msgid "Custom Fields"
+msgstr "Camps personalitzats"
+
+msgid "After Actions"
+msgstr "Després d'Accions"
+
+msgid "Advance Settings"
+msgstr "Configuració avançada"
+
+msgid "Label Name"
+msgstr "Nom de l&#39;etiqueta"
+
+msgid "Fields"
+msgstr "Camps"
+
+msgid "Tag ID"
+msgstr "Identificador d&#39;etiqueta"
+
+msgid "Have many users?"
+msgstr "Tens molts usuaris?"
+
+msgid "Import users"
+msgstr "Importa usuaris"
+
+msgid "or"
+msgstr "o"
+
+msgid "Send them a signup link."
+msgstr "Envieu-los un enllaç de registre."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Comencem introduint el correu electrònic o el número de telèfon"
+
+msgid "Phone"
+msgstr "Telèfon"
+
+msgid "Invalid phone number entered"
+msgstr "S'ha introduït un número de telèfon no vàlid"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr ""
+"Una etiqueta per trobar fàcilment un cas. no es pot canviar més endavant"
+
+msgid "Visibility:"
+msgstr "Visibilitat:"
+
+msgid "Who can use this template"
+msgstr "Qui pot utilitzar aquesta plantilla"
+
+msgid "One time"
+msgstr "Una vegada"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Introduïu la informació de pagament vàlida abans de continuar"
+
+msgid "Add Payment"
+msgstr "Afegeix el pagament"
+
+msgid "Repeat every:"
+msgstr "Repetiu cada:"
+
+msgid "Let's get started"
+msgstr "Comencem"
+
+msgid "Take me there"
+msgstr "Porta'm allà"
+
+msgid "Mark"
+msgstr "senyal"
+
+msgid "Onboarding"
+msgstr "En l'embarcament"
+
+msgid "Created on"
+msgstr "Creat el"
+
+msgid "Expires on"
+msgstr "Caduca el"
+
+msgid "No announcements yet."
+msgstr "Encara no hi ha anuncis."
+
+msgid "Add Announcement"
+msgstr "Afegeix un anunci"
+
+msgid "Edit Announcement"
+msgstr "Edita l'anunci"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "La data i l'hora s'han d'avançar com a mínim una hora"
+
+msgid "Delete Date"
+msgstr "Suprimeix la data"
+
+msgid "Delete Time"
+msgstr "Suprimeix l'hora"
+
+msgid "Back"
+msgstr "esquena"
+
+msgid "No Users Found"
+msgstr "No s'ha trobat cap usuari"
+
+msgid "No role selected"
+msgstr "No s’ha seleccionat cap rol"
+
+msgid "No permissions added!"
+msgstr "No s&#39;han afegit permisos"
+
+msgid "ASSIGNED USERS"
+msgstr "USUARIS ASSIGNATS"
+
+msgid "CASE PERMISSIONS"
+msgstr "PERMISSIONS DE CAS"
+
+msgid "User ID"
+msgstr "ID d&#39;usuari"
+
+msgid "Role"
+msgstr "Paper"
+
+msgid "remove"
+msgstr "traieu"
+
+msgid "Assign User"
+msgstr "Assigneu usuari"
+
+msgid "User"
+msgstr "Usuari"
+
+msgid "ADD USER"
+msgstr "AFEGEIX UN USUARI"
+
+msgid "Email user about case assignment"
+msgstr ""
+"Envieu un correu electrònic a l&#39;usuari sobre l&#39;assignació de casos"
+
+msgid "Keyword"
+msgstr "Paraula clau"
+
+msgid "No cases found."
+msgstr "No s&#39;ha trobat cap cas."
+
+msgid "Create a case for a business"
+msgstr "Crea un cas per a una empresa"
+
+msgid "Case ID"
+msgstr "Identificador de cas"
+
+msgid "Created On"
+msgstr "Creat"
+
+msgid "Case Status"
+msgstr "Estat del cas"
+
+msgid "Case Type"
+msgstr "Tipus de cas"
+
+msgid "Assign Users"
+msgstr "Assigna usuaris"
+
+msgid "No cases found"
+msgstr "No s&#39;ha trobat cap cas"
+
+msgid "Have many cases?"
+msgstr "Tens molts casos?"
+
+msgid "Click here to import cases."
+msgstr "Feu clic aquí per importar casos."
+
+msgid "No status selected"
+msgstr "No s&#39;ha seleccionat cap estat"
+
+msgid "No type selected"
+msgstr "No s'ha seleccionat cap tipus"
+
+msgid "Case Info"
+msgstr "Informació sobre casos"
+
+msgid "About"
+msgstr "Quant a"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Una etiqueta permanent per trobar fàcilment un estoig. (a-z, 0-9, -, /) "
+"estan permesos"
+
+msgid "Case Types"
+msgstr "Tipus de casos"
+
+msgid "Click"
+msgstr "Feu clic"
+
+msgid "to edit case types"
+msgstr "per editar els tipus de casos"
+
+msgid "No Type selected"
+msgstr "No s'ha seleccionat cap tipus"
+
+msgid "Case not found!"
+msgstr "No s&#39;ha trobat el cas"
+
+msgid "Media Size"
+msgstr "Mida dels mitjans de comunicació"
+
+msgid "All statistics"
+msgstr "Totes les estadístiques"
+
+msgid "Import not found."
+msgstr "No s'ha trobat la importació."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Ha fallat el processament del fitxer. Assegureu-vos que sigui un tipus de "
+"fitxer CSV i que contingui les capçaleres correctes"
+
+msgid "Data"
+msgstr "Dades"
+
+msgid "No Imports yet."
+msgstr "Encara no hi ha importacions."
+
+msgid "Source"
+msgstr "Font"
+
+msgid "Stats"
+msgstr "Estadístiques"
+
+msgid "Passed:"
+msgstr "Aprovat:"
+
+msgid "Failed:"
+msgstr "Fracassat:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Add Imports"
+msgstr "Afegeix importacions"
+
+msgid "Download Sample"
+msgstr "Descarregar mostra"
+
+msgid "Choose a file"
+msgstr "Trieu un fitxer"
+
+msgid "Edit Key"
+msgstr "Edita la clau"
+
+msgid "Add Key"
+msgstr "Afegeix una clau"
+
+msgid "No Keys yet."
+msgstr "Encara no hi ha claus."
+
+msgid "Source CIDR"
+msgstr "CIDR font"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "is invalid."
+msgstr "no és vàlid."
+
+msgid "Secret Key"
+msgstr "Clau secreta"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Assegureu-vos de copiar la vostra nova clau secreta ara. No el podreu tornar"
+" a veure."
+
+msgid "Edit Webhook"
+msgstr "Editeu Webhook"
+
+msgid "Add Webhook"
+msgstr "Afegeix Webhook"
+
+msgid "No event selected"
+msgstr "No s'ha seleccionat cap esdeveniment"
+
+msgid "No Webhooks yet."
+msgstr "Encara no hi ha Webhooks."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Webhook secret"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Assegureu-vos de copiar ara el vostre nou webhook secret. No el podreu "
+"tornar a veure."
+
+msgid "Sign In"
+msgstr "Inicieu sessió"
+
+msgid "Login in account page."
+msgstr "Inicia sessió a la pàgina del compte."
+
+msgid "Edit form builder"
+msgstr "Edita el creador de formularis"
+
+msgid "Delete form"
+msgstr "Esborra el formulari"
+
+msgid "No forms yet."
+msgstr "Encara no hi ha cap formulari."
+
+msgid "Intake Forms"
+msgstr "Formularis d'admissió"
+
+msgid "Upload Intake Form Document"
+msgstr "Carregueu el document del formulari d'admissió"
+
+msgid "Add Intake Form"
+msgstr "Afegeix el formulari d'admissió"
+
+msgid "Edit Intake Form"
+msgstr "Edita el formulari d'admissió"
+
+msgid "Show Media"
+msgstr "Mostra els mitjans de comunicació"
+
+msgid "Add Post"
+msgstr "Afegir publicació"
+
+msgid "Edit Post"
+msgstr "Edita la publicació"
+
+msgid "Files Amount"
+msgstr "Import dels fitxers"
+
+msgid "No Feed Templates yet."
+msgstr "Encara no hi ha plantilles d&#39;alimentació."
+
+msgid "Post Name"
+msgstr "Nom del missatge"
+
+msgid "Post Message"
+msgstr "Missatge de publicació"
+
+msgid "Processing media ..."
+msgstr "S&#39;estan processant els suports ..."
+
+msgid "Download original file"
+msgstr "Descarregueu el fitxer original"
+
+msgid "Could not display media"
+msgstr "No s&#39;ha pogut mostrar el suport"
+
+msgid "No locations found."
+msgstr "No s&#39;ha trobat cap ubicació."
+
+msgid "Main Office"
+msgstr "Oficina central"
+
+msgid "Location Name"
+msgstr "Nom de la ubicació"
+
+msgid "Delete e-sign"
+msgstr "Esborra el signe electrònic"
+
+msgid "No e-signs yet."
+msgstr "Encara no hi ha cap senyal electrònic."
+
+msgid "Subtasks Count"
+msgstr "Recompte de subtasques"
+
+msgid "No tasks yet."
+msgstr "Encara no hi ha tasques."
+
+msgid "Invoice ID"
+msgstr "ID de la factura"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Refund"
+msgstr "Devolució"
+
+msgid "No invoices yet."
+msgstr "Encara no hi ha factures."
+
+msgid "Refund Reason"
+msgstr "Motiu de reemborsament"
+
+msgid "Duplicate charge"
+msgstr "Càrrega duplicada"
+
+msgid "Fraudulent charge"
+msgstr "Càrrec fraudulent"
+
+msgid "Requested by customer"
+msgstr "Demanat pel client"
+
+msgid "On Board"
+msgstr "A bord"
+
+msgid "Stripe"
+msgstr "ratlla"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Informació sobre el paper"
+
+msgid "It cannot be changed later"
+msgstr "No es pot canviar més endavant"
+
+msgid "Role Permissions"
+msgstr "Permisos de funcions"
+
+msgid "e-signs"
+msgstr "signes electrònics"
+
+msgid "on"
+msgstr "on"
+
+msgid "Allowed File Sizes"
+msgstr "Tons de fitxer permesos"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Creating..."
+msgstr "S&#39;està creant ..."
+
+msgid "Modules"
+msgstr "Mòduls"
+
+msgid "Roles"
+msgstr "Funcions"
+
+msgid "Profile information"
+msgstr "Informació del perfil"
+
+msgid "No role found."
+msgstr "No s’ha trobat cap rol."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Quan es crea un cas, assigneu aquests usuaris automàticament"
+
+msgid "Remove All"
+msgstr "Esborra-ho tot"
+
+msgid "User Name"
+msgstr "Nom d'usuari"
+
+msgid "Notify"
+msgstr "Notificar"
+
+msgid "Host User"
+msgstr "Usuari amfitrió"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "Quan s'assigna un usuari a un cas, afegeix plantilles automàticament"
+
+msgid "No post selected"
+msgstr "No s'ha seleccionat cap publicació"
+
+msgid "No form selected"
+msgstr "No s'ha seleccionat cap formulari"
+
+msgid "No e-sign selected"
+msgstr "No s'ha seleccionat cap signe electrònic"
+
+msgid "Templates"
+msgstr "Plantilles"
+
+msgid "Add Templates"
+msgstr "Afegeix plantilles"
+
+msgid "Idle Cases"
+msgstr "Casos inactius"
+
+msgid "When a case is idle, post this message"
+msgstr "Quan un cas estigui inactiu, publiqueu aquest missatge"
+
+msgid "No case type selected"
+msgstr "No s'ha seleccionat cap tipus de cas"
+
+msgid "Idle Days"
+msgstr "Dies ociosos"
+
+msgid "Post Id"
+msgstr "Identificador de publicació"
+
+msgid "Set Idle Message"
+msgstr "Estableix el missatge inactiu"
+
+msgid "No task selected"
+msgstr "No s'ha seleccionat cap tasca"
+
+msgid "No operation order selected"
+msgstr "No s'ha seleccionat cap ordre d'operació"
+
+msgid "Operation Order"
+msgstr "Ordre d'operació"
+
+msgid "Add Templates to Assign Users"
+msgstr "Afegiu plantilles per assignar usuaris"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Formulari del cas"
+
+msgid "User Form"
+msgstr "Formulari d'usuari"
+
+msgid "Notes Form"
+msgstr "Formulari de notes"
+
+msgid "Defaults"
+msgstr "Valors per defecte"
+
+msgid "Required"
+msgstr "Obligatori"
+
+msgid "Public User Signup link:"
+msgstr "Enllaç de registre d'usuari públic:"
+
+msgid "Design Settings"
+msgstr "Configuració de disseny"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Canvieu d’arxiu"
+
+msgid "Delete Favicon"
+msgstr "Suprimeix Favicon"
+
+msgid "Logo:"
+msgstr "Logotip:"
+
+msgid "Delete Logo"
+msgstr "Suprimeix el logotip"
+
+msgid "Text Color"
+msgstr "Color del text"
+
+msgid "Recommended Colors:"
+msgstr "Colors recomanats:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "restablir"
+
+msgid "Background Color"
+msgstr "Color de fons"
+
+msgid "Hex:"
+msgstr "Hexagonal:"
+
+msgid "Company Info"
+msgstr "Informació de l'empresa"
+
+msgid "Website"
+msgstr "Lloc web"
+
+msgid "Terms of Use URL"
+msgstr "URL de les condicions d'ús"
+
+msgid "User Signup"
+msgstr "Registre d'usuari"
+
+msgid "Allow Signup"
+msgstr "Permet la inscripció"
+
+msgid "Auto Create Case"
+msgstr "Creació automàtica de casos"
+
+msgid "Case User Role"
+msgstr "Rol d'usuari del cas"
+
+msgid "Google Analytics"
+msgstr "anàlisis de Google"
+
+msgid "Analytics Key"
+msgstr "Clau d&#39;Analytics"
+
+msgid "delete"
+msgstr "suprimir"
+
+msgid "Crop Image"
+msgstr "Retalla la imatge"
+
+msgid "No Filter"
+msgstr "Sense filtre"
+
+msgid "No logs requested."
+msgstr "No s&#39;ha sol·licitat registre."
+
+msgid "Logs list is empty."
+msgstr "La llista de registres està buida."
+
+msgid "Download CSV"
+msgstr "Descarregar CSV"
+
+msgid "Request Logs"
+msgstr "Registre de sol·licituds"
+
+msgid "Log Type"
+msgstr "Tipus de registre"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Select a case"
+msgstr "Seleccioneu un cas"
+
+msgid "Enter the email address"
+msgstr "Introduïu l’adreça de correu electrònic"
+
+msgid "Module"
+msgstr "Mòdul"
+
+msgid "Header (3 max)"
+msgstr "Capçalera (3 màx.)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Quan un usuari s'uneix a l'aplicació, demaneu a l'usuari que comparteixi el "
+"següent"
+
+msgid "No user intake found."
+msgstr "No s'ha trobat cap usuari."
+
+msgid "User Type"
+msgstr "Tipus d&#39;usuari"
+
+msgid "Intake Form"
+msgstr "Formulari d'admissió"
+
+msgid "Complete After"
+msgstr "Completa després"
+
+msgid "No user type selected"
+msgstr "No s'ha seleccionat cap tipus d'usuari"
+
+msgid "No intake form selected"
+msgstr "No s'ha seleccionat cap formulari d'admissió"
+
+msgid "Complete After Date"
+msgstr "Completa després de la data"
+
+msgid "Complete After Time"
+msgstr "Completa després del temps"
+
+msgid "Date and time should be less or equal to now"
+msgstr "La data i l'hora haurien de ser menors o iguals que ara"
+
+msgid "Comment ct"
+msgstr "Comentari ct"
+
+msgid "View Ticket"
+msgstr "Veure Entrada"
+
+msgid "Ticket"
+msgstr "Bitllet"
+
+msgid "No tickets yet."
+msgstr "Encara no hi ha entrades."
+
+msgid "User not found."
+msgstr "Usuari no trobat."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"L'usuari pot editar la informació del seu compte excepte la secció "
+"d'atributs de l'usuari amfitrió."
+
+msgid "Contact"
+msgstr "Contacte"
+
+msgid "Phone number"
+msgstr "Número de telèfon"
+
+msgid "Zip Postal Code"
+msgstr "Codi postal postal"
+
+msgid "Host User Attributes"
+msgstr "Atributs d'usuari de l'amfitrió"
+
+msgid "User Status"
+msgstr "Estat d&#39;usuari"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Una etiqueta permanent per trobar fàcilment un usuari. (a-z, 0-9, -, /) "
+"estan permesos"
+
+msgid "App only User Intake Fields"
+msgstr "Camps d'admissió d'usuaris només de l'aplicació"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "L&#39;APP NOMÉS CAMPS DE PERSONALITZACIÓ"
+
+msgid "s found."
+msgstr "s ha trobat."
+
+msgid "Created Date"
+msgstr "Data creada"
+
+msgid "View Cases"
+msgstr "Veure casos"
+
+msgid "VIEW CASES"
+msgstr "VEURE CASOS"
+
+msgid "Get Started"
+msgstr "Començar"
+
+msgid "Password"
+msgstr "Contrasenya"
+
+msgid "Email is not valid."
+msgstr "El correu electrònic no és vàlid."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive li permet a vostè i al seu client"
+
+msgid "work together"
+msgstr "treballar junts"
+
+msgid "at any time, in any place."
+msgstr "en qualsevol moment, en qualsevol lloc."
+
+msgid "Explore"
+msgstr "Explora"
+
+msgid "Pricing"
+msgstr "Preus"
+
+msgid "Support & Docs"
+msgstr "Suport i documentació"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to validate if you are human"
+msgstr "No s&#39;ha pogut validar si ets humà"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "NOTIFIU-ME QUAN ÉS LIST!"
+
+msgid "Thank You!"
+msgstr "Gràcies!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Us notificarem quan l&#39;aplicació estigui preparada"
+
+msgid "Most popular"
+msgstr "El més popular"
+
+msgid "All languages"
+msgstr "Tots els idiomes"
+
+msgid "Oops, Something went wrong."
+msgstr "Ui! Quelcom ha fallat."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Ui! Quelcom ha fallat. El nostre equip ha estat notificat. Siusplau, "
+"intenta-ho més tard."
+
+msgid "Support Documentation"
+msgstr "Documentació de suport"
+
+msgid "All Categories"
+msgstr "totes les categories"
+
+msgid "Contents"
+msgstr "Continguts"
+
+msgid "Related Articles"
+msgstr "Articles relacionats"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Comenceu: processos, bones pràctiques, guies de configuració i molt més!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Trobeu tot el que necessiteu per treballar a CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Tots els casos de comunicació en un sol lloc"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Converseu, publiqueu actualitzacions, responeu preguntes, preneu notes, "
+"comenteu i tingueu totes les discussions etiquetades per correu electrònic i"
+" notificacions en temps real."
+
+msgid "Share with confidence"
+msgstr "Comparteix amb confiança"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Compartiu documents i fotos entre clients i membres de l’equip a qualsevol "
+"dispositiu, de manera que tothom estigui al dia."
+
+msgid "Take it on the go"
+msgstr "Porta&#39;l a l’anar"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Utilitzeu dispositius mòbils com tauletes i telèfons intel·ligents per "
+"col·laborar en detalls clau, discutir problemes importants, intercanviar "
+"documents i avançar els casos dels casos en temps real."
+
+msgid "Immediate records access"
+msgstr "Accés al registre immediat"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Els usuaris autoritzats poden accedir ràpidament a les dades del client i a "
+"la informació del cas (inclosos els casos actuals, passats, oberts, tancats "
+"i pendents), a través d’un portal."
+
+msgid "Automatic timezone conversion"
+msgstr "Conversió de zona horària automàtica"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Tant si viatgeu com si esteu a una altra ubicació, estareu sincronitzats amb"
+" el nostre sistema de gestió de converses de zona horària."
+
+msgid "Track Events"
+msgstr "Feu un seguiment dels esdeveniments"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Planifiqueu ràpidament les reunions, vigileu els propers esdeveniments i "
+"inviteu clients i membres de l&#39;equip com a assistents."
+
+msgid "Video Conferencing"
+msgstr "Videoconferència"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Connecteu-vos amb els clients i els membres de l’equip a través de xats de "
+"vídeo en viu per obtenir encara més interactivitat."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Automatitzeu les tasques quan es crea un cas o s'assigna un usuari a un cas."
+
+msgid "Automated Alerts"
+msgstr "Alertes automatitzades"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Voleu desitjar als vostres clients un feliç aniversari? Configura un "
+"missatge automàtic tant per als clients anteriors com els actuals per al dia"
+" especial."
+
+msgid "Keeping Client details up-to-date"
+msgstr "Mantenir les dades del client al dia"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Els clients poden modificar els seus perfils amb dades, fotos, contrasenyes "
+"i configuració del compte actualitzats."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Fer preguntes, obtenir respostes."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Creeu formularis personalitzats i envieu-los als clients per completar-los. "
+"Obteniu informació essencial, proporcioneu enquestes de sortida i obteniu "
+"totes les dades que necessiteu per fer bé la vostra feina."
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Director de vendes de Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Feu que la facturació del client sigui la més senzilla possible amb les "
+"factures i els pagaments en línia."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Ens encanta la facturació de casos perquè permet als clients veure "
+"exactament el que estan pagant."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Vicepresident de Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Gaudeix de la facilitat de la signatura electrònica"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Signeu electrònicament tots els documents mitjançant DocSign, mitjançant "
+"documents carregats i sol·licituds i confirmació de signatura digital del "
+"client."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Carregueu un document, marqueu-lo per signar-lo i, a continuació, el client "
+"inicia sessió i el signa electrònicament. Tot es fa sense que el client hagi"
+" d'entrar al nostre edifici. Això és útil per als clients que no estan a "
+"prop d'una oficina o que viuen fora de l'estat."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Director d’operacions d’assegurances de capital"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Milloreu el vostre sistema. Menys feina, més resultats."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Utilitzeu la funció administrativa autoservei"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Prengui el control total de la seva suite de gestió CaseActive des de la "
+"plataforma mateixa."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Connecteu sense esforç el vostre sistema existent amb CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integra la nostra API propietària per crear casos automàtics, assignar "
+"usuaris i generar informes basats en l’entrada del sistema."
+
+msgid "Acting as a"
+msgstr "Actuar com a"
+
+msgid "virtual administrative assistant"
+msgstr "assistent administratiu virtual"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive us habilita amb un maneig simplificat de documents i suports, "
+"privat"
+
+msgid "client-to-customer communications"
+msgstr "comunicacions client-client"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "programació d&#39;esdeveniments i processament de casos pas a pas."
+
+msgid "Self-Serve Administration"
+msgstr "Administració autoservei"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Actuant com a ajudant d’administració virtual, CaseActive us ofereix la "
+"gestió de documents i suports racionalitzada, comunicacions privades client "
+"a client, programació d’esdeveniments i processament de casos de forma pas a"
+" pas."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Gestiona els accessos d’usuari i la creació de casos"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Superviseu directament la creació de comptes d’usuari tot autoritzant els "
+"permisos d’accés cas per cas. Gestionar la creació de casos, el progrés i el"
+" tancament, amb informes complets a cada pas del camí."
+
+msgid "View Caseactive Analytics"
+msgstr "Consulteu Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Consulteu exactament com avança un cas, el nombre de casos tancat amb èxit i"
+" consulteu els temps de resposta a través del mòdul d’analítica completa de "
+"CaseActive. El coneixement és poder i us hem donat tot el que cal saber "
+"sobre els vostres propis projectes."
+
+msgid "Monitor User Logs"
+msgstr "Superviseu els registres d’usuari"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Mireu els inicis de sessió i l&#39;activitat de la plataforma de clients i "
+"membres de l&#39;equip per assegurar-vos que totes les seves accions estan "
+"autoritzades dins dels paràmetres del cas i que tots els membres exerceixin "
+"les seves funcions segons es requereixi."
+
+msgid "Employ Advanced Searches"
+msgstr "Utilitzeu cerques avançades"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Cerqueu exactament el que necessiteu quan ho necessiteu. Cerqueu casos per "
+"noms d’usuari i de clients, paraules clau, línies de temps, documents "
+"penjats i molt més."
+
+msgid "Create Custom Fields"
+msgstr "Crear camps personalitzats"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Genereu camps especialitzats de casos per a l’entrada del client i del "
+"membre de l’equip i recopileu les dades que necessiteu de tots els "
+"implicats. Feu que la interfície del cas sigui única per a la vostra empresa"
+" i marca."
+
+msgid "Create Custom Templates"
+msgstr "Crea plantilles personalitzades"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Desenvolupar una enorme gamma de formularis i plantilles personalitzades per"
+" a la distribució i realització tant durant un cas com després (com les "
+"enquestes de sortida del client). Sigui quina sigui la forma que necessiteu,"
+" podeu crear-la!"
+
+msgid "Violet Cherry"
+msgstr "Cirera violeta"
+
+msgid "As-You-Go Invoicing"
+msgstr "Facturació As-You-Go"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Estem aquí per ajudar-vos! Poseu-vos en contacte si encara teniu cap "
+"pregunta i contestarem en un termini de dos dies laborables."
+
+msgid "* Email is not valid."
+msgstr "* El correu electrònic no és vàlid."
+
+msgid "Low"
+msgstr "baix"
+
+msgid "Medium"
+msgstr "Mitjà"
+
+msgid "High"
+msgstr "Alt"
+
+msgid "Critical"
+msgstr "Crítics"
+
+msgid "Choose Importance"
+msgstr "Trieu Importància"
+
+msgid "Department"
+msgstr "Departament"
+
+msgid "Sales"
+msgstr "Vendes"
+
+msgid "Other"
+msgstr "Altres"
+
+msgid "Choose Department"
+msgstr "Trieu Departament"
+
+msgid "Loading"
+msgstr "Carregant"
+
+msgid "Importance"
+msgstr "Importància"
+
+msgid "Send A New Message"
+msgstr "Envia un missatge nou"
+
+msgid "Send message"
+msgstr "Enviar missatge"
+
+msgid "Answers to Questions"
+msgstr "Respostes a preguntes"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Tens alguna pregunta? Llegiu més informació sobre les nostres respostes a "
+"les consultes dels clients i trobeu les respostes pròpies."
+
+msgid "How secure is CaseActive?"
+msgstr "Què tan segur és CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive utilitza xifratge SSL de 128 bits de grau militar i bancari per a"
+" la transmissió de dades i xifratge AES de 256 bits per a les dades en "
+"repòs. Cada instància de CaseActive té una clau única generada, que "
+"proporciona una capa addicional de seguretat per al vostre negoci. Mai "
+"permetrem que una altra empresa accedeixi a la vostra base de dades o "
+"sistema d'emmagatzematge."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Tinc un sistema existent, pot CaseActive funcionar amb el meu sistema "
+"existent?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Sí, podeu integrar la nostra API patentada o el mòdul d'importació per crear"
+" casos automàticament, assignar usuaris i generar informes basats en "
+"l'entrada del vostre sistema."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Tenim clients a tot el món. CaseActive està disponible en altres idiomes?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Sí, l'aplicació i la comunicació CaseActive es poden traduir a més de 60 "
+"idiomes, inclosos el xinès mandarí, l'espanyol, l'hindi i el rus, així com "
+"l'anglès."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Puc afegir un logotip o personalitzar CaseActive d'alguna manera?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Absolutament! CaseActive s'ha dissenyat pensant en tu. A la pàgina de "
+"configuració del tauler d'administració, podeu carregar el vostre propi "
+"color personal i triar els colors de la vostra empresa."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"CaseActive és compatible amb qualsevol dispositiu (PC, Mac, tauleta i "
+"mòbil)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive és una aplicació web sensible. S'executa en qualsevol navegador "
+"web com Internet Explorer, Firefox, Safari o Chrome, etc. Això vol dir que "
+"el tipus de dispositiu (PC, Mac, tauleta i mòbil) que utilitzeu no fa cap "
+"diferència. Només cal que obriu el navegador web, inicieu sessió al vostre "
+"compte de CaseActive i ja ho teniu tot."
+
+msgid "How many clients can I have?"
+msgstr "Quants clients puc tenir?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Se us cobra per lloc de personal, per mes. Podeu tenir usuaris de clients "
+"il·limitats."
+
+msgid "Enhance User Experience"
+msgstr "Millora l'experiència d'usuari"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"No hi ha comissions mínimes ni compromisos inicials. Només pagues per lloc "
+"de personal, per mes."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "per mes"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Tot el que necessites per començar. S'inclouen 3 seients."
+
+msgid "Business"
+msgstr "Negocis"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "El nostre pla més popular. S'inclouen 4 seients."
+
+msgid "Enterprise"
+msgstr "Empresa"
+
+msgid "Contact sales for pricing"
+msgstr "Contacteu amb vendes per a preus"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Preus personalitzats, funcions avançades, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Contacta amb Vendes"
+
+msgid "Overview"
+msgstr "Visió general"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Comunica i comparteix documents amb els teus clients"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Programar esdeveniments i reunions recurrents"
+
+msgid "Fully customize your form to generate data"
+msgstr "Personalitzeu completament el vostre formulari per generar dades"
+
+msgid "Keep track of case progression"
+msgstr "Feu un seguiment de la progressió del cas"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Sol·liciteu signatures electròniques compatibles a diversos usuaris"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Genereu una factura perquè el vostre client la vegi o pagui"
+
+msgid "ToDos"
+msgstr "Tasques pendents"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Permet que tothom sàpiga què s'està produint i que s'espera"
+
+msgid "Auto notify the user when something is due"
+msgstr "Notificar automàticament a l'usuari quan calgui alguna cosa"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Afegiu camps de casos personalitzats per a tots els vostres casos"
+
+msgid "Custom Branding"
+msgstr "Marca personalitzada"
+
+msgid "Make your app unique with logo and color styles"
+msgstr ""
+"Fes que la teva aplicació sigui única amb el logotip i els estils de color"
+
+msgid "Access to customer support"
+msgstr "Accés a l'atenció al client"
+
+msgid "Storage"
+msgstr "Emmagatzematge"
+
+msgid "Unlimited"
+msgstr "Il·limitat"
+
+msgid "Additional Users Seats"
+msgstr "Seients d'usuaris addicionals"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "83,34 $"
+
+msgid "Convo with recording"
+msgstr "Convo amb gravació"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Xat de vídeo o àudio amb la gravació desada al cas"
+
+msgid "API Access"
+msgstr "Accés a l'API"
+
+msgid "Automate tasks with access to API"
+msgstr "Automatitzeu tasques amb accés a l'API"
+
+msgid "Module Templates"
+msgstr "Plantilles de mòduls"
+
+msgid "Create a standard template and reuse it"
+msgstr "Creeu una plantilla estàndard i reutilitzeu-la"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr "Executa automàticament una acció quan s'activa un cas o cas assignat"
+
+msgid "Newsletter"
+msgstr "Butlletí informatiu"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Envieu missatges generals, d'aniversari o de vacances als clients "
+"(pròximament)"
+
+msgid "Encryption at rest"
+msgstr "Xifratge en repòs"
+
+msgid "Protects your data from system compromise"
+msgstr "Protegeix les teves dades del sistema compromès"
+
+msgid "Encryption in transit"
+msgstr "Xifratge en trànsit"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Protegeix les teves dades si s'intercepten comunicacions"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Inici de sessió únic (SSO) basat en SAML"
+
+msgid "Respond realtime to events"
+msgstr "Respondre en temps real als esdeveniments"
+
+msgid "Seamless Collaboration"
+msgstr "Col·laboració perfecta"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive racionalitza la col·laboració digital entre la vostra empresa i "
+"els clients, des de la consulta fins a la resolució, tot en una plataforma."
+
+msgid "Take a tour"
+msgstr "Fer una visita guiada"
+
+msgid "Stay Connected"
+msgstr "Mantén-te connectat"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Manteniu el contacte instantani amb els membres de l’equip mitjançant la "
+"interfície fàcil d’utilitzar CaseActive com a hub únic per a la gestió del "
+"client i dels casos."
+
+msgid "Connect"
+msgstr "Connectar"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed us manté al dia amb els vostres clients."
+
+msgid "Schedule"
+msgstr "Programació"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Crear esdeveniments, convidar els assistents i supervisar el vostre "
+"calendari."
+
+msgid "Call"
+msgstr "Anomenada"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Participeu en trucades de videoconferència en directe en qualsevol moment i "
+"en qualsevol lloc."
+
+msgid "Share"
+msgstr "Compartir"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Carregueu fitxers de manera segura, comenteu-los i compartiu-los."
+
+msgid "Powerful Case Management"
+msgstr "Gestió de casos poderosa"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Funcionalitat fora de la caixa"
+
+msgid "Easily assign individuals"
+msgstr "Assigneu fàcilment individus"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "o equips a un cas i col·laborar amb els clients."
+
+msgid "Manage user groups"
+msgstr "Gestioneu grups d’usuaris"
+
+msgid "and customize access permissions."
+msgstr "i personalitzar els permisos d’accés."
+
+msgid "All data is automatically backed up"
+msgstr "Es fa una còpia de seguretat automàtica de totes les dades"
+
+msgid "in case a recovery is ever needed."
+msgstr "en cas que es necessiti una recuperació."
+
+msgid "All information"
+msgstr "Tota la informació"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr ""
+"Està encriptada de manera segura, garantint la vostra privadesa absoluta."
+
+msgid "Customize"
+msgstr "Personalitza"
+
+msgid "with your own colors and logo."
+msgstr "amb els vostres propis colors i logotip."
+
+msgid "can be enabled/disabled at any time."
+msgstr "es pot activar / desactivar en qualsevol moment."
+
+msgid "Benefits of "
+msgstr "Beneficis de"
+
+msgid "Reduction in time "
+msgstr "Reducció de temps"
+
+msgid "to intake new clients"
+msgstr "per captar nous clients"
+
+msgid "Minimize "
+msgstr "Minimitzar"
+
+msgid "the chance of "
+msgstr "la possibilitat de"
+
+msgid "malpractice"
+msgstr "mala praxi"
+
+msgid "Better experience "
+msgstr "Millor experiència"
+
+msgid "for your client"
+msgstr "per al teu client"
+
+msgid "Increase in caseload capacity "
+msgstr "Augment de la capacitat de càrrega"
+
+msgid "per staff"
+msgstr "per personal"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Comenceu amb les nostres aplicacions incorporades"
+
+msgid "All you need in one place."
+msgstr "Tot el que necessiteu en un sol lloc."
+
+msgid "Case Feed"
+msgstr "Alimentació de casos"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Assigna fàcilment un client, personal i col·laboradors a un cas i dediqueu-"
+"vos a un espai segur que us permeti publicar el progrés del cas, tenir "
+"converses de xerrades i vídeos en temps real, així com programar "
+"esdeveniments, signar per correu electrònic / carregar / descarregar "
+"documents i molt més."
+
+msgid "Case Invoices"
+msgstr "Factures de casos"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Amb la facturació puntual, la facturació del client és a només un clic i us "
+"permet enviar sol·licituds de fons generats automàticament i rebre pagaments"
+" directes a canvi."
+
+msgid "Case Events"
+msgstr "Cas d'esdeveniments"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Mantingueu organitzat el vostre calendari de casos en tot moment, programant"
+" esdeveniments, convidant els assistents, enviant recordatoris "
+"d’esdeveniments i assegurant-vos que tot segueix el camí."
+
+msgid "Case Convo"
+msgstr "Cas Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Reuniu-vos amb els clients i membres de l’equip pràcticament “presencial” "
+"mitjançant videoconferència integrada per poder parlar directament amb tots "
+"els implicats."
+
+msgid "Case Forms & E-signs"
+msgstr "Formularis de casos i signes electrònics"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Personalitzeu completament el formulari de cas per generar plantilles "
+"úniques que atenen les vostres necessitats específiques. Aquestes plantilles"
+" es poden distribuir a clients i membres de l&#39;equip per omplir i signar"
+
+msgid "Case notes"
+msgstr "Notes de casos"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Manteniu notes amb camps personalitzats i fitxers adjunts sobre la "
+"progressió del cas per als membres actuals i futurs de l'equip"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Carregueu, compartiu, comenteu i baixeu fitxers relacionats amb el cas "
+"perquè tothom tingui una referència sobre tots els detalls, persones i "
+"situacions importants."
+
+msgid "About Case"
+msgstr "Quant al cas"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Permeteu que clients i personal vegin detalls generals dels casos en què "
+"participen. Podeu tancar el cas un cop acabat tot o donar una autorització "
+"al membre de l’equip per fer-ho."
+
+msgid "Plus Many More Features"
+msgstr "A més de moltes més funcions"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Utilitzeu la funció administrativa d&#39;autoservei: feu el control total de"
+" la vostra suite de gestió CaseActive des de la mateixa plataforma."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Enllaçar sense esforç el vostre sistema existent amb CaseActive Integrar la "
+"nostra API propietària per crear casos automàtics, assignar usuaris i "
+"generar informes basats en l’entrada del vostre sistema."
+
+msgid "Multi-Language Enabled:"
+msgstr "Multi-idioma habilitat:"
+
+msgid "Interact with clients in"
+msgstr "Interactua amb els clients al"
+
+msgid "70+ languages"
+msgstr "70 llengües més"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Ja sigui a nivell local o global, podeu traduir la llengua nativa del vostre"
+" client a través de CaseActive"
+
+msgid "language management system"
+msgstr "sistema de gestió del llenguatge"
+
+msgid "No more confusion or limits."
+msgstr "No hi ha més confusió ni límits."
+
+msgid "Let's see what others are saying"
+msgstr "Vegem què diuen els altres"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Descobreix com els nostres clients impressionants, des de petites empreses "
+"fins a empreses empresarials, van impulsar el seu avantatge competitiu "
+"convertint-se en guerrers CaseActive."
+
+msgid "SUPPORT"
+msgstr "SUPORT"
+
+msgid "Everything at Your Fingertips."
+msgstr "Tot al vostre abast."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Comenceu amb l’aplicació CaseActive seguint la nostra guia de vídeo i "
+"personalitzeu-la segons les vostres necessitats."
+
+msgid "What are you looking for..."
+msgstr "Què estàs buscant..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Darrera actualització: 7 de juny de 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive es reserva el dret, en qualsevol moment i a la seva exclusiva "
+"discreció, d’actualitzar i canviar qualsevol o totes aquestes Condicions del"
+" servei. Quan CaseActive modifiqui aquests Termes i condicions, CaseActive "
+"modificarà la data de &quot;Última actualització&quot; anterior. És "
+"responsable de revisar regularment la versió més actual del Servei. El "
+"vostre ús continuat dels Serveis després que s&#39;hagin fet aquests canvis "
+"constituirà el vostre consentiment per estar obligat per aquests canvis. Si "
+"s’oposa a qualsevol modificació d’aquests Termes i condicions, el seu únic i"
+" exclusiu recurs serà acabar els Serveis segons els termes d’aquest "
+"document."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Aquestes Condicions Generals de Servei s&#39;apliquen als Serveis en "
+"general. Els termes addicionals aplicables a cada servei ofert s’inclouen "
+"als enllaços que es proporcionen a continuació (els “Termes i condicions "
+"addicionals del servei”)."
+
+msgid "1. Services:"
+msgstr "1. Serveis:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"El nostre programari propietari és una plataforma de serveis que oferim als "
+"nostres clients per tal d’oferir els serveis que es detallen a continuació. "
+"Per subscriure’t a un Servei, cal executar un Formulari de comanda per a "
+"aquest Servei i / o completar el flux de registre d’aquest Servei. Només "
+"teniu dret a utilitzar els Serveis als quals us heu subscrit i pagat i la "
+"vostra utilització dels Serveis està subjecta al compliment de tots els "
+"termes i condicions del Conveni. Reconeixeu i esteu d’acord que ens reservem"
+" el dret de modificar els Serveis (o qualsevol part d’aquests) de tant en "
+"tant i que no serem responsables de vosaltres ni de tercers per cap "
+"modificació als Serveis."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Descripció del servei CaseActive: CaseActive Service és la suite de "
+"serveis de programari allotjats per a la gestió de col·laboració en línia de"
+" clients que ofereix CaseActive LLC. El flux de registre que heu acceptat o "
+"el formulari de comanda que heu executat identifica el servei CaseActive al "
+"qual vàreu subscriure, el termini de subscripció i les tarifes que haureu de"
+" pagar pel Servei CaseActive. Els termes i condicions addicionals aplicables"
+" al vostre ús del servei CaseActive s’estableixen a:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Ampliar els serveis:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Podeu subscriure’s a qualsevol Servei addicional, inclosos els nous serveis "
+"que CaseActive estiguin disponibles de tant en tant, o augmentar els vostres"
+" Serveis existents mitjançant l’execució d’un Formulari de comanda "
+"addicional o flux de registre, com a part dels Serveis. Cada nou flux "
+"d’inscripció o Formulari de comanda inclourà el preu i les dates de "
+"facturació dels Serveis que s’afegiran en aquell moment. Tots els nous "
+"serveis estan subjectes a aquestes Condicions generals del servei i a "
+"qualsevol termini i condicions addicionals que s&#39;apliquin específicament"
+" a aquests Serveis addicionals."
+
+msgid "3. Customer Support:"
+msgstr "3. Atenció al client:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Sempre que hagueu pagat totes les tarifes que pagueu pels vostres Serveis, "
+"farem un esforç raonable comercialment per proporcionar, sense cap càrrec, "
+"serveis d&#39;assistència tècnica a vosaltres i als vostres usuaris "
+"autoritzats que s&#39;han subscrit als Serveis. Se li assignarà un "
+"representant de serveis al client als vostres casos. S&#39;accepten casos "
+"il·limitats d&#39;usuaris autoritzats. El nostre suport està disponible les "
+"24 hores del dia, excepte les festes majors, que inclouen el Memorial, el "
+"Dia de la Independència, el Dia del Treball, Acció de Gràcies, el Nadal i el"
+" Dia de Cap d&#39;Any. Podeu contactar amb el servei d’atenció al client "
+"mitjançant el nostre servei"
+
+msgid "Contact Form"
+msgstr "Formulari de contacte"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". El nostre temps de resposta no serà superior a dos dies hàbils."
+
+msgid "4. Training:"
+msgstr "4. Formació:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Sempre que hagueu pagat totes les tarifes que pagueu pels Serveis, posarem a"
+" disposició dels vostres usuaris designats, nomenats i autoritzats sessions "
+"de formació remota, en directe o enregistrada, i proporcionarem tutorials "
+"accessibles a la secció Ajuda i Formació del nostre lloc web a sense càrrec "
+"addicional. Per a alguns serveis, oferim una formació in situ a petició i "
+"per un suplement. Poseu-vos en contacte amb nosaltres mitjançant el nostre "
+"servei"
+
+msgid "for more information about on-site training."
+msgstr "per obtenir més informació sobre la formació presencial."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Els vostres drets i restriccions:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Llicència: subjecte als termes i condicions del Conveni i prèviament al "
+"pagament de totes les tarifes aplicables establertes en el formulari de "
+"comanda o el flux de registre, li concedim un dret no exclusiu, "
+"intransferible, limitat i llicència per utilitzar (i permetre que els "
+"vostres usuaris autoritzats utilitzin) els Serveis als quals us heu "
+"subscrit, únicament amb finalitats comercials internes."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Usuaris autoritzats: Vostè (i) és responsable del compliment dels "
+"vostres usuaris autoritzats amb l&#39;Acord i (ii) farà un esforç raonable "
+"comercialment per evitar l&#39;accés o l&#39;ús no autoritzat dels Serveis i"
+" ens notificarà immediatament qualsevol accés no autoritzat o utilitzar És "
+"responsabilitat vostra eliminar l’accés als Serveis si canvia l’estat "
+"autoritzat d’un usuari o d’un empleat designat."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Les vostres responsabilitats i restriccions: sou responsables de totes "
+"les activitats que es produeixin als vostres comptes d’usuari o als usuaris "
+"autoritzats. Vostè: (i) serà l’únic responsable de l’exactitud, qualitat, "
+"integritat, legalitat, fiabilitat i adequació de totes les dades que envieu "
+"als Serveis; (ii) utilitzar esforços raonables comercialment per evitar un "
+"control o manipulació no autoritzada o qualsevol altre accés no autoritzat, "
+"o ús dels Serveis, i ens notifiqui de forma immediata sobre qualsevol ús no "
+"autoritzat o incompliment de seguretat; (iii) complir totes les lleis "
+"locals, estatals, federals i estrangeres aplicables (incloses les lleis "
+"sobre privadesa i protecció de la informació personal o del consumidor) en "
+"l&#39;ús dels Serveis; (iv) en la mesura que sigui aplicable, complir totes "
+"les normes aplicables a les associacions de targetes de crèdit (incloses "
+"American Express, MasterCard i Visa); i (v) obtenir i mantenir tot el "
+"maquinari, programari i equips de comunicació informàtics necessaris per "
+"accedir als Serveis i pagar tots els càrrecs d’accés (per exemple, tarifes "
+"ISP) que vostè incorregui en relació amb l’ús dels Serveis."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"No ho podreu i assegureu que els vostres usuaris autoritzats no, (i) "
+"desmunten, inverteixen, descomponen o intenten desxifrar qualsevol codi en "
+"relació amb els Serveis o modificar, adaptar, crear obres derivades basades "
+"o traduir les Serveis; (ii) llicència, sublicència, venda, lloguer, "
+"assignació, distribució, transferència de temps compartit, arrendament, "
+"préstec, revenda a benefici, distribuir o explotar comercialment, cedir "
+"drets o posar a disposició dels serveis a qualsevol tercer; (iii) utilitzar "
+"els Serveis, tret que estigui expressament autoritzat en virtut del present "
+"o en violació de qualsevol llei aplicable; (iv) participar en qualsevol "
+"pràctica comercial il·legal o enganyosa respecte als Serveis; (v) eludir o "
+"inhabilitar qualsevol seguretat o altres característiques tècniques o "
+"mesures dels Serveis o qualsevol altre aspecte del Programari o, de "
+"qualsevol manera, intentar obtenir o assolir accés no autoritzat als Serveis"
+" o als sistemes o xarxes informàtiques relacionades; (vi) utilitzar els "
+"Serveis per transmetre material infractor, difam, obscè, amenaçador o "
+"il·legal, insegur, maliciós, abusiu o delictiu, o per emmagatzemar o "
+"transmetre material en violació de drets de privadesa de tercers; (vii) "
+"utilitzar el Servei per emmagatzemar o transmetre qualsevol virus, cucs, "
+"bombes de temps, cavalls de Troia i un altre codi, fitxers, scripts, agents "
+"o programes nocius o maliciosos, o per enviar correu brossa o missatges "
+"duplicats o no sol·licitats, en violació de les lleis aplicables ; o (viii) "
+"interferir o interrompre la integritat o la realització dels Serveis o de "
+"les dades de tercers continguts en els mateixos."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Reserva de drets: no es concedeixen altres drets excepte els previstos "
+"expressament en el Conveni. L’Acord no és una venda i no transmet cap dret "
+"ni propietat sobre, ni als Serveis, ni a qualsevol programari subjacent. Som"
+" propietaris de tots els drets, títol i interès, inclosos tots els drets de "
+"propietat intel·lectual, sobre els Serveis i el programari subjacent i "
+"qualsevol actualització, actualització, modificació, millora, millora o obra"
+" derivada dels mateixos i, en qualsevol idea, de coneixement. com, i els "
+"programes desenvolupats per nosaltres o els nostres llicenciadors durant la "
+"realització dels Serveis."
+
+msgid "6. Term and Termination:"
+msgstr "6. Termini i extinció:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Termini: La durada dels Serveis varia en funció del Servei al qual us "
+"hagueu subscrit i s’exposarà al formulari de comanda o acordat al flux "
+"d’inscripció i es renovarà de la manera següent:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Termini del servei CaseActive: la vostra subscripció al Servei "
+"CaseActive es renovarà automàticament per termes successius d’un mes o d’un "
+"any, tal com s’exposen al formulari de comanda o al flux d’inscripcions, "
+"tret que deixem el servei que ens proporciona un avís de no renovació, com a"
+" mínim, trenta (30) dies abans de la caducitat del termini vigent."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Termini dels serveis del lloc web CaseActive: la vostra subscripció "
+"als serveis del lloc web CaseActive es renovarà automàticament per termes "
+"successius d’un mes o d’un any, tal com s’exposen al formulari de comanda o "
+"al flux d’inscripció, tret que deixem el servei o ens proporcioni. amb avís "
+"de no renovació com a mínim amb trenta (30) dies abans de la caducitat del "
+"termini vigent."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Un comunicat per escrit de no renovació per part de vosaltres ha de "
+"ser enviat a CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Rescissió: Ambdues parts poden rescindir l&#39;Acord i totes les "
+"subscripcions al Servei (i) si l&#39;altra part incompleix alguna de les "
+"seves obligacions materials en virtut de l&#39;Acord i aquest incompliment "
+"no es cura en el termini de trenta (30) dies després de la recepció d&#39;un"
+" avís per part de l&#39;incompliment. una part, o (ii) si l’altra part es "
+"converteix en insolvent o en fallida, es liquida o es dissol, o cessa "
+"substancialment tota la seva activitat. Podem rescindir l’Acord "
+"immediatament en cas d’incompliment de la secció 5.3 anterior. Al finalitzar"
+" l&#39;Acord, desistirà immediatament de l&#39;ús dels Serveis, deixarà de "
+"representar en qualsevol forma que siguis usuari dels Serveis i destruiràs "
+"tota la nostra informació confidencial en el seu poder. Cap de les parts "
+"serà responsable dels danys i perjudicis derivats de la rescissió de "
+"l&#39;Acord o de qualsevol subscripció a Serveis tal com es preveu en aquest"
+" document; però, sempre que la rescissió de l&#39;Acord no afecti cap "
+"reclamació derivada abans de la rescissió d&#39;aquest acord."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Maneig de les vostres dades en cas de finalització: Reconeixeu i esteu "
+"d’acord que després de la caducitat o la terminació de qualsevol de les "
+"vostres subscripcions als Serveis, podrem desactivar immediatament els "
+"Serveis afectats i que, després d’un termini raonable no inferior a noranta "
+"(90) ) dies, podeu suprimir les dades i el compte. No obstant això, en el "
+"cas que els Serveis siguin finalitzats per nosaltres, li concedirem un accés"
+" temporal i limitat als Serveis, que no superi els trenta (30) dies, amb "
+"l’únic propòsit de permetre’t recuperar les dades propietàries, sempre que "
+"Heu pagat íntegrament totes les quantitats indiscutibles de bona fe que "
+"se’ns deuen. També accepteu que no serem responsables de vosaltres ni de "
+"tercers per la terminació del vostre accés als Serveis o la supressió de les"
+" vostres dades, sempre que complim els termes d’aquesta Secció 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Tarifes:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Honoraris del servei: pagareu els honoraris no reemborsables dels "
+"Serveis en la quantitat indicada en el flux d’inscripció o Formulari de "
+"comanda (“Carregues de servei”) i d’acord amb la freqüència de facturació "
+"indicada al flux de registre o la comanda. Formulari. Les despeses de servei"
+" hauran de ser exigibles i a pagar a la data de la factura. Es poden "
+"augmentar les tarifes del servei en funció de les tarifes vigents. Les "
+"tarifes de servei no són reemborsables, fins i tot si cancel·leu la "
+"subscripció anticipadament."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Tarifes addicionals: Podeu incórrer en altres taxes o càrrecs no "
+"reemborsables pel vostre ús dels Serveis, a més de les tarifes previstes en "
+"el formulari de comanda i / o el flux d’inscripció. Les despeses i despeses "
+"addicionals no reemborsables s&#39;estableixen en els termes addicionals per"
+" al servei aplicable."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Pagaments tardius: Reconeixeu que el fet que no pagueu cap comissió o "
+"cap càrrec en el seu moment pot causar la suspensió o la terminació de les "
+"vostres subscripcions al producte CaseActive. Si no paga alguna de les taxes"
+" o càrrecs deguts en aquest document, CaseActive es reserva el dret a "
+"contractar una agència de cobrament per cobrar les taxes i els càrrecs i "
+"haurà de pagar totes les despeses ocasionades per CaseActive en relació amb "
+"la recaptació d’aquests imports passats, inclosos. , sense cap limitació, "
+"les taxes raonables d’advocats i agències de cobrament més els interessos "
+"per un import igual al menor de l’1,0% mensual o la taxa màxima permesa per "
+"la legislació aplicable."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Impostos: Vostè serà responsable de l’impost sobre les vendes, l’impost "
+"de l’ús, els impostos sobre el valor afegit, els impostos de retenció i "
+"altres impostos i càrrecs similars de qualsevol tipus imposats per les "
+"entitats governamentals federals, estatals o locals sobre les transaccions "
+"previstes en el Conveni. Quan tinguem l’obligació legal de pagar o cobrar "
+"impostos dels quals sou responsables, segons aquesta Secció, l’import "
+"adequat us ha de facturar i pagar, a menys que ens proporcioni un certificat"
+" d’exempció d’impostos vàlid autoritzat per l’òrgan tributari corresponent."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Representacions i garanties:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Representacions i garanties mútues: Cada part representa i garanteix a "
+"l’altra part que (i) tingui tota l’autoritat necessària per assumir i "
+"complir les seves obligacions en virtut de l’Acord sense el consentiment de "
+"cap tercer o incompliment de cap contracte o acord amb. qualsevol tercer, "
+"(ii) totes les persones que exerceixin alguna obligació aquí presentada han "
+"subscrit tots els acords necessaris per tal que aquest compleixi els termes "
+"i les condicions de l&#39;Acord i (iii) haurà de complir en tots els "
+"aspectes materials amb totes les lleis aplicables a els Serveis"
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Representacions i garanties addicionals: Vostè garanteix, representa i "
+"pacta que utilitzaràs els Serveis només amb finalitats legals d’acord amb "
+"l’Acord i totes les directrius i directrius CaseActive aplicables."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Exoneració de garanties: EXCEPTE DE LES GARANTIES EXPRESSES ES FORMATS "
+"EN AQUESTA SECCIÓ 8, A LA MÀXIMA EXTENCIÓ PERMISA PER LA LLEI APLICABLE, NO "
+"FEM AMB ALTRES GARANTIES, EXPRESSES, IMPLICADES, ESTATUTORYRIES O D’ALTRE "
+"D’UN DRET OU D’UN DEPOSITIU DE COMERÇ, EN QUALSEVOL MATÈRIA, INCLUS ELS DE "
+"COMERCIALITAT, QUALITAT SATISFACT ,RIA, TÍTOL, ADECUACIÓ PER A UN PROPOSICIÓ"
+" PARTICULAR O INFRACCIÓ. NO GARANTEM QUE EL PROGRAMARI O ELS SERVEIS RESPON "
+"A TOTS ELS SEUS REQUISITS, INCLUSS ELS REQUISITS DE COMPTA, O QUE L’ÚS DEL "
+"PROGRAMARI O ELS SERVEIS NO ES PODERAN ININTENDER O SENSE ERREURES. EL "
+"PROGRAMARI I ELS SERVEIS ES FORMEN EN UNA BASE &quot;COM ÉS&quot; I EL SEU "
+"ÚS DE PROGRAMARI I SERVEIS ESTÀ AL SEU PROPIO RISC, INCLUS, SENSE LIMITACIÓ,"
+" CONFORMITAT AMB QUALSEVOLS LLEIS. LES PARTS CONEIXEN EXPRESSAMENT QUE LA "
+"RESPONSABILITAT DE GARANTIA CONSTITUIX UNA PARTE ESENCIAL DEL CONVENI."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"NO RECLAMEM QUALQUES REPRESENTACIONS O GARANTIES QUE EL SEU ÚS DELS SERVEIS "
+"SATISFIRÀ O ASSEGURARÀ EL CONFORMITAT AMB ALGUNES OBRIGACIONS O LLEIS O "
+"NORMES. AQUEST SOL·LICITUD D&#39;APLICACIÓ PER B NO ESTÀ LIMITAT A QUALSEVOL"
+" ESTATUTS FEDERALS O ESTATUTS O REGLAMENTS QUE PODRÀS APLICAR-SE. SÓN "
+"RESPONSABLE DE VEURE QUE EL SEU ÚS DELS SERVEIS ESTÀ D&#39;ACORD AMB LA LLEI"
+" APLICABLE."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"SI ES DISSATISTA AMB ELS SERVEIS O AQUEST CONVENI, EL SEU SOL·LICI I "
+"EXCLUSIU REMEDI ÉS DE DESCOMPANYAR L’ÚS DELS SERVEIS."
+
+msgid "9. Confidential Information:"
+msgstr "9. Informació confidencial:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"A menys que estigui autoritzada expressament per l’altra part, cap de les "
+"parts divulgarà a cap tercer qualsevol informació o materials proporcionats "
+"per l’altra part en virtut de l’Acord i que s’entengui raonablement "
+"confidencials (“Informació confidencial”), ni utilitzar aquesta informació "
+"confidencial de qualsevol altra manera. que complir les seves obligacions en"
+" virtut de l&#39;Acord. Les restriccions anteriors no s&#39;apliquen a cap "
+"informació que estigui en domini públic o que ja estigui en possessió de la "
+"part receptora, que fos coneguda per part de la part receptora abans de la "
+"data de divulgació o que la persona receptora la conegui a partir "
+"d&#39;aleshores d&#39;un tercer que tingui un aspecte aparent. dret de bona "
+"fe a divulgar la informació o informació confidencial que la part receptora "
+"està obligada a produir segons una ordre d&#39;un tribunal de jurisdicció "
+"competent o una citació administrativa vàlida, sempre que la part receptora "
+"proporcioni a la part reveladora una notificació oportuna d&#39;aquest "
+"tribunal. ordre o citació A més, s’assegurarà que els vostres usuaris "
+"autoritzats mantindran en estricta confiança totes les contrasenyes i altra "
+"informació d’accés als Serveis. Aquesta secció 9 sobreviurà la finalització "
+"o la caducitat d’aquest Acord."
+
+msgid "10. Indemnification:"
+msgstr "10. Indemnització:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Indemnització per infracció: subjecte a la secció 10.4, ens defensarem,"
+" a costa nostra, de qualsevol reclamació de tercers presentada contra "
+"vosaltres que al·legi que els Serveis violen qualsevol patent nord-americana"
+" emesa a un tercer a partir de la data d’efectivitat; o incompleixi "
+"qualsevol copyright, marca comercial o secret comercial de tercers "
+"(denominada col·lectivament &quot;propietat intel·lectual que es basa en els"
+" serveis&quot;). En cas que es busqui o obtingui una ordre contra l’ús de la"
+" Propietat Intel·lectual que es basa en els Serveis o, segons la nostra "
+"opinió, és probable que es busqui o obtingui, ho farem a costa i, a costa "
+"nostra, (i) de comprar per a vostè i el seu nom. els usuaris autoritzats el "
+"dret a continuar utilitzant els Serveis, o (ii) substituir o modificar els "
+"Serveis perquè el seu ús no vulneri mentre pugui exercir substancialment la "
+"mateixa funció. En cas que les subseccions (i) i (ii) anteriors no siguin "
+"practicables comercialment, podrem acabar els Serveis i reemborsar qualsevol"
+" Quota de servei prepagada, però no utilitzada. No serem obligats a defensar"
+" ni fer-nos responsables de cap despesa o dany en virtut d’aquesta Secció "
+"10.1 si la presumpta infracció sorgeix de o és de qualsevol manera "
+"atribuïble a (i) qualsevol modificació de qualsevol Servei per part de vostè"
+" (o de qualsevol dels seus autoritzats o usuaris designats) o (ii) l’ús de "
+"Serveis en combinació amb serveis i productes no subministrats per "
+"CaseActive si s’hauria evitat aquesta infracció sense aquesta modificació o "
+"combinació, o (iii) el compliment dels seus dissenys o instruccions o (iv) "
+"una reclamació que no afirma amb cap especificitat que els Serveis siguin "
+"objecte de la reclamació (cadascun d&#39;ells una &quot;reclamació "
+"exclosa&quot;). Les obligacions d’indemnització que conté aquesta secció "
+"10.1 sobreviuran a qualsevol finalització o caducitat d’aquest Acord."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Indemnització per seguretat i privadesa de dades: subjecte a la secció "
+"10.4, i durant el termini de la vostra subscripció als Serveis, ens "
+"defensarem, a costa nostra, de qualsevol reclamació de tercers contra "
+"vosaltres que al·legi la nostra negligència en impedir l’accés no "
+"autoritzat. o amb la nostra mala intenció de divulgar informació personal "
+"identificable dels vostres clients en el nostre poder o control. Aquesta "
+"indemnització no s&#39;aplicarà en la mesura que aquesta reclamació es "
+"derivi o estigui relacionada amb la vostra negligència o mal comportament "
+"voluntari o la dels seus agents o representants, o en la mesura que la "
+"responsabilitat sigui exclosa o limitada per qualsevol de les parts en "
+"virtut de l&#39;Acord. Les obligacions d’indemnització previstes en aquesta "
+"secció estan condicionades a que demostreu que la nostra negligència greu o "
+"una mala conducta voluntària ha derivat directament i pròximament en l’accés"
+" o la divulgació no autoritzats d’informació personal dels vostres clients "
+"en la nostra possessió o control."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 La vostra indemnització: Accepteu indemnitzar, mantenir inofensius i "
+"defensar nosaltres i tots els nostres empleats, oficials, directors i agents"
+" de qualsevol reclamació, demanda, demanda, demanda, investigació, danys, "
+"despeses, despeses, pèrdues i qualsevol altra. passius (inclosos els "
+"honoraris d&#39;advocats raonables, les despeses judicials i les despeses) "
+"derivats o relatius a (i) el seu ús dels Serveis en violació de l&#39;Acord,"
+" (ii) una Reclamació Exclosa, (iii) qualsevol incompliment real o presumpte "
+"per part de vostè. de qualsevol representació, garantia, pacte o obligació "
+"en virtut de l&#39;Acord o (iv) la seva negligència greu o mala conducta "
+"voluntària. Les vostres obligacions d’indemnització previstes en aquesta "
+"secció 10.3 sobreviuran a qualsevol finalització o caducitat de l’Acord."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Notificació i cooperació: Les obligacions de la part indemnitzadora amb"
+" la part indemnitzada en virtut d&#39;aquesta secció 10 anterior estan "
+"condicionades a (i) la part indemnitzada que notifiqui a la part "
+"indemnitzadora de forma immediata per escrit, al coneixement de qualsevol "
+"reclamació, per la qual pugui tenir dret a una indemnització en virtut de "
+"l&#39;Acord. ; (ii) en la mesura que sigui aplicable, la part indemnitzada "
+"que deixi d&#39;utilitzar els Serveis reclamats que incompleixen un cop "
+"rebuda la notificació dels mateixos; (iii) la part indemnitzada que permeti "
+"a la part indemnitzadora tenir l&#39;únic dret a controlar la defensa i la "
+"solució de qualsevol reclamació (sempre que la part indemnitzadora no pugui "
+"resoldre cap reclamació sense el consentiment de la part indemnitzada tret "
+"que la liquidació alliberi incondicionalment la part indemnitzada de tota "
+"responsabilitat); (iv) la part indemnitzada que ofereix una assistència "
+"raonable a la part indemnitzadora, a càrrec de la indemnització, en la "
+"defensa d&#39;aquesta reclamació; (v) la part indemnitzada que no subscrigui"
+" cap acord de liquidació o resolgui de qualsevol altra manera cap reclamació"
+" sense indemnitzar l&#39;expressat consentiment o sol·licitud prèvia i per "
+"escrit; i (vi) una part indemnitzada que compleixi qualsevol resolució o "
+"ordre judicial feta en relació amb la reclamació (relacionada amb l’ús futur"
+" de qualsevol material infractor). La part indemnitzada pot participar en la"
+" defensa o solució d’un sinistre amb un advocat que hagi triat a càrrec seu "
+"i a càrrec seu."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Solució exclusiva: En aquesta secció 10 s’exposa l’única "
+"responsabilitat de la part indemnitzadora i el remei exclusiu contra la part"
+" indemnitzada contra l’altra part per a qualsevol tipus de reclamació "
+"descrita en aquesta secció."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Limitació de responsabilitat:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"EXCEPTE RESPECTE A DANYS QUE ES CONEIXEN AMB UN INFRACCIÓ DE LA SECCIÓ 5.3 O"
+" 12, AL MÀXIM EXTENT PERMET PER LA LLEI, EN cap cas, NO RESPONSABLE LA "
+"RESPONSABILITAT CUMULATIVA TOTAL DE LA PARTE SORTIDA O SIGUI RELACIONADA AMB"
+" L’ACCEPTE DE LA SENTIT VOSALTRES PELS SERVEIS PER ACONSEGUIR LA "
+"RESPONSABILITAT DURANT EL PERÍODE D’UN ANY PRECEDITAT IMMEDIATIVAMENT A LA "
+"DATA FACENT LA CAUSA DE L’ACCIÓ."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"EXCEPTE RESPECTE A DANYS QUE ES CONEIXEN AMB UN INFRACCIÓ DE LA SECCIÓ 5.3 O"
+" 12, A LA MÀXIMA EXTENCIÓ PERMISA PER Dret, en cap cas, en cap cas hi haurà "
+"cap part HERETO, ELS SEUS LICENTS O PROVEEDORS, TENEN ALGUNA RESPONSABILITAT"
+" DE L’ALTRE PARTE PER A QUALSEVOL PER LOS COST DE CONTRACCIÓ DE BÉNS O "
+"SERVEIS SUBSTITUTS O PER A QUALSEVOL DANYS INDIRECTS, ESPECIALS, "
+"CONSEQÜENTS, EXEMPLARS O INCIDENTS, SEMPRE CAUSATS I BASATS EN QUALSEVOL "
+"TEORIA DE RESPONSABILITAT (INCLUSA LA NEGLIGÈNCIA), SORTIT DE L’AGORNITAT "
+"ELS SEUS OBLIGACIONS A PARTIR DE TANT, S’HAN ASSESSORAT QUALSEVOLT A LA PART"
+" DE LA POSSIBILITAT D’AQUESTS DANYS."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"PERQUÈ ALGUNS ESTATS / JURISDICCIONS NO PERMETEN L’EXCLUSIÓ O LA LIMITACIÓ "
+"DE RESPONSABILITAT PER DANYS CONSSEQÜENCIALS O INCIDENTALS, LA LIMITACIÓ "
+"SOBRE NO POT APLICAR-SE, EN EL QUE EL CAS NOSALTRES PERMETRE PERMETRE EL MÉS"
+" MOLT PERMET."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Informació personal i declaració de privadesa:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Complimentarà tota la privadesa i altres lleis, normes, regulacions i "
+"directrius aplicables sobre la protecció, recollida, ús i distribució de la "
+"informació d’identificació personal (tal com es defineix a continuació) de "
+"qualsevol persona. Publicareu una declaració de privadesa a la pàgina on "
+"recopileu informació d&#39;identificació personal (&quot;Declaració de "
+"privadesa&quot;) que compleixi totes les lleis, normes, regulacions i "
+"directrius aplicables i, com a mínim, notificarà als usuaris la informació "
+"d&#39;identificació personal recopilada, com es s’utilitzarà i com "
+"s’assegurarà, i que identifica el mètode de recollida (cookies, balises web "
+"o altres mitjans aplicables) i l’ús de la informació recollida en relació "
+"amb els Serveis, obtenint el consentiment previ i informat (opt-in) abans "
+"d’utilitzar qualsevol tecnologies de seguiment, en la mesura que les "
+"legislació i les regulacions aplicables requereixen. Aquesta declaració de "
+"privadesa també inclou informació tècnica relacionada amb la recollida, "
+"transmissió i emmagatzematge de la informació d&#39;identificació personal "
+"proporcionada per nosaltres a través dels Serveis. Si ho requereix la "
+"legislació aplicable sobre protecció de dades o una altra llei o reglament, "
+"informaràs a tercers que ens proporcioni la seva informació d’identificació "
+"personal per al seu tractament i s’assegurarà que qualsevol tercer requerit "
+"haja donat el seu consentiment per a aquesta divulgació i tractament. Vostè "
+"accepta complir les descripcions i les disposicions de la Declaració de "
+"privadesa. &quot;Informació d&#39;identificació personal&quot;: qualsevol "
+"informació que es pugui associar o rastrejar a qualsevol persona, inclosos "
+"el nom, l&#39;adreça, el número de telèfon, l&#39;adreça de correu "
+"electrònic, la informació de la targeta de crèdit, el número de seguretat "
+"social o qualsevol altra informació concreta similar, independentment de els"
+" suports on es guarda aquesta informació (per exemple, en paper o "
+"electrònicament)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Diversos:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Parts independents: Vostè i CaseActive són contractistes independents. "
+"L’Acord no crea cap empresa conjunta, associació, agència o relació laboral "
+"entre les parts. Vostè serà l’únic responsable de gestionar els vostres "
+"empleats i de totes les compensacions, impostos, beneficis i passius amb els"
+" vostres empleats i qualsevol altre representant o proveïdor de serveis. Ni "
+"vostè ni cap dels vostres empleats, representants o proveïdors de serveis, "
+"no realitzaran cap representació, garantia o garantia respecte a nosaltres, "
+"a l&#39;Acord o als Serveis, tret que ens hagi estat expressament autoritzat"
+" per escrit."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Cessió: ni l’Acord ni cap dels vostres drets o obligacions en virtut de"
+" l’Acord no poden ser cedits o transferits, per operació de la llei o d’una "
+"altra manera, sense el nostre consentiment previ per escrit, tret que "
+"estiguin assignats a un successor en interès o en virtut d’una fusió "
+"corporativa. una reorganització, o una venda o transferència de tot o "
+"substancialment tots els seus actius dels quals ens proporcioni un avís com "
+"a mínim trenta (30) dies abans del consum de la transacció. L&#39;assignació"
+" per part de vostès, basada en qualsevol altra circumstància, requereix el "
+"nostre consentiment previ, el qual no es podrà retenir de forma raonable. "
+"Podem assignar lliurement aquest Acord sense el vostre consentiment. Fet i "
+"tot allò que precedeix, aquest Acord vincularà i mantindrà el benefici de "
+"les parts, dels seus respectius successors i de les tasques permeses."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Força Major: Cap de les parts serà responsable de cap retard, "
+"interrupció o altre incompliment en virtut de l&#39;Acord a causa "
+"d&#39;actes fora del control de la part responsable, però només durant les "
+"condicions que persisteixin. Els esdeveniments de força major inclouen, però"
+" no es limiten a: desastres naturals (per exemple, llamps, terratrèmols, "
+"huracans, inundacions); guerres, disturbis, activitats terroristes i "
+"commocions civils; activitats del transportista local i altres actes de "
+"tercers; explosions i incendis; embargaments, vagues i disputes laborals; "
+"decrets governamentals; falles dels proveïdors de telecomunicacions o "
+"proveïdors de serveis d&#39;Internet; fallades de proveïdors de tercers, "
+"proveïdors de serveis o venedors; i qualsevol altra causa més enllà del "
+"control raonable d’una part."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Elecció de la llei: L’Acord i qualsevol controvèrsia derivada o "
+"relacionada amb l’Acord seran regits i interpretats segons les lleis de "
+"l’Estat de Califòrnia, sense tenir en compte els principis de conflicte de "
+"lleis. Totes les controvèrsies derivades o relacionades amb l&#39;Acord "
+"seran subjectes a la jurisdicció i lloc exclusius dels tribunals estatals i "
+"federals de Califòrnia de Santa Bàrbara, Califòrnia, i les parts consenten "
+"la jurisdicció personal i exclusiva d&#39;aquests tribunals."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 Correu electrònic i avisos: També esteu d’acord que podrem "
+"proporcionar-vos qualsevol avís, declaracions i altres comunicacions a "
+"través de correu electrònic, correu electrònic, servei de lliurament exprés "
+"o lliurat per un operador comercial reconegut dirigit a l’adreça designada "
+"per darrera. sobre l&#39;Acord. És responsable de proporcionar-nos qualsevol"
+" informació de contacte actualitzada."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Sense renúncia; Remedis acumulatius: L&#39;absència o el retard de cap "
+"de les parts en l&#39;exercici de qualsevol dret en virtut d&#39;aquest "
+"Acord no constituirà una renúncia a aquest dret. A part del que "
+"s&#39;expressa expressament aquí, els recursos que aquí es proporcionen són,"
+" a més de, i no són exclusius, els altres recursos d&#39;una part legal o "
+"patrimonial."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Divisibilitat: Si alguna disposició del present acord té un tribunal de"
+" jurisdicció competent contrari a la llei, la disposició ha de ser "
+"modificada pel tribunal i interpretada per tal de complir al màxim els "
+"objectius de la disposició original. la llei i les restants disposicions "
+"d’aquest Acord romandran en plena vigència i efecte."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Acord complet: en la mesura màxima permesa per la legislació aplicable,"
+" aquest Acord, juntament amb els documents a què es fa referència aquí i "
+"tots els formularis de comanda i fluxos d’inscripció, constitueixen tot "
+"l’acord entre les parts pel que fa al seu tema i substitueixen tots els "
+"anteriors i acords, propostes o representacions contemporànies, escrites o "
+"orals, sobre l’objecte d’aquest Acord. No es considerarà que cap "
+"representació, compromís o promesa hagi estat donada o implicada per part de"
+" les dites o escrites en les negociacions entre les parts anteriors a aquest"
+" Acord, excepte com s’expressa expressament en aquest Acord. Cap de les "
+"parts no tindrà cap remei respecte a cap declaració falsa feta per l’altra "
+"sobre la qual aquesta part hagi confiat en subscriure aquest Acord (tret que"
+" aquesta declaració falsa no es fes fraudulentament) i que l’únic remei "
+"d’una part per a qualsevol declaració falsa serà per a. incompliment del "
+"contracte previst en aquest Acord. Reconeixeu i esteu d’acord que el vostre "
+"acord pel present article no depèn del lliurament de cap funcionalitat "
+"futura o funcions no especificades en aquest document ni en un Formulari de "
+"comanda ni depèn de cap comentari oral o escrit, públic o privat fet per "
+"nosaltres amb relació a futures funcionalitats o funcions. per als Serveis. "
+"En cas de conflicte entre les disposicions d’aquestes Condicions generals de"
+" servei i qualsevol Formulari de comanda o Condicions addicionals de servei,"
+" els termes d’aquest Formulari de comanda o Condicions addicionals de servei"
+" prevalen, en la mesura d’aquest conflicte. No s’ha d’incorporar ni formar "
+"part d’aquest Acord els termes o condicions indicats a la vostra comanda de "
+"compra o en qualsevol altra documentació de la vostra comanda i tots aquests"
+" termes o condicions nul·laran."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Exportació: Les dues parts acorden complir les lleis i regulacions "
+"sobre exportació i importació dels Estats Units. No permetreu que els "
+"vostres usuaris accedeixin o utilitzin els Serveis violant qualsevol "
+"embargament, prohibició o restricció a l&#39;exportació dels Estats Units."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publicitat: és possible que no us nominem com a usuaris dels serveis "
+"sense el vostre consentiment per escrit."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Enllaços a llocs de tercers: Els Serveis o el nostre lloc web poden "
+"incloure enllaços a llocs de tercers (&quot;Llocs enllaçats&quot;). Els "
+"Llocs Enllaçats no estan sota el nostre control i no ens fem responsables "
+"dels continguts de cap Lloc enllaçat, incloent sense cap limitació cap "
+"enllaç contingut en un Lloc enllaçat, ni canvis o actualitzacions a un Lloc "
+"enllaçat o als Serveis proporcionats a través d’un Lloc enllaçat. Aquests "
+"enllaços us proporcionem només com a conveniència i la inclusió de qualsevol"
+" enllaç no implica l’aval del nostre lloc ni dels serveis associats "
+"proporcionats pel lloc."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Accepteu rebre correus electrònics, trucades telefòniques i missatges "
+"SMS de CaseActive per proporcionar actualitzacions sobre la vostra comanda i"
+" / o amb finalitats de màrqueting. La freqüència dels missatges depèn de la "
+"vostra activitat. Podeu desactivar-la desmarcant les notificacions del "
+"vostre compte o suprimint-lo. Es poden aplicar tarifes de missatges i dades."
+
+msgid "An error occurred"
+msgstr "Hi ha hagut un error"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Alguna cosa ha anat malament. Els nostres enginyers han estat avisats. "
+"Premeu el botó de recarregar per tornar a carregar."
+
+msgid "Reload"
+msgstr "Recarregar"

@@ -1,0 +1,57 @@
+$default-color: #16b0c5;
+$disabled: #b6bdc9;
+:host {
+  display: inline-block;
+
+  button {
+    border-color: var(--host-background-color, $default-color);
+    background-color: transparent;
+    color: var(--host-text-color, $default-color);
+    padding: 6px 16px;
+    margin-top: 0;
+    margin: var(--margin);
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: inherit;
+    border-radius: 4px;
+    display: flex;
+    align-items: flex-end;
+    gap: 8px;
+    text-transform: none;
+    height: 30px;
+    transition: all .7s;
+
+    &.filled,
+    &.hovered:hover {
+      background-color: var(--host-background-color, $default-color);
+      color: #fff;
+    }
+
+    &.uppercase {
+      text-transform: uppercase;
+    }
+
+    &.with-icon {
+      padding-left: 10px;
+    }
+
+    &[disabled] {
+      background: $disabled !important;
+      border-color: $disabled !important;
+      color: #fff;
+      cursor: auto;
+    }
+
+    .icon-plus {
+      font-size: 18px;
+    }
+
+    @media (max-width: 1000px) {
+      font-size: 12px;
+
+      .icon-plus {
+        font-size: 15px;
+      }
+    }
+  }
+}

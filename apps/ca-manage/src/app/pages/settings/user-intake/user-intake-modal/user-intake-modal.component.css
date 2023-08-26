@@ -1,0 +1,36 @@
+.select-date-time {
+  display: flex;
+  align-items: flex-end;
+}
+
+#dueDate {
+  max-width: initial;
+}
+
+.select-date {
+  margin-right: 20px;
+}
+
+:host ::ng-deep .select-date-time input {
+  background-color: white;
+}
+
+.error-label {
+  font-size: 14px;
+  color: red;
+  text-align: center;
+  display: inline-block;
+  line-height: initial;
+}
+
+.error-label:after {
+  display: none;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.date-time-labels {
+  margin-bottom: 0;
+}

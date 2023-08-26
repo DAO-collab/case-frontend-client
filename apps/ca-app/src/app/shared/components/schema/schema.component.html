@@ -1,0 +1,120 @@
+<p *ngIf="properties.length !== 0" class="custom-fields-group" [formGroup]="schemaFormGroup">
+  <span *ngFor="let fl of properties; let i = index">
+    <label
+      class="style-bold"
+      for="date_opened"
+      [ngClass]="{ required: fl.required || !disabled, 'info-label': disabled }"
+      translate
+      >{{ fl.title }}</label
+    >
+
+    <span *ngIf="!disabled" [ngSwitch]="fl.fieldType">
+      <input
+        *ngSwitchCase="'text-only'"
+        [formControl]="fl.control"
+        name="{{ fl.name }}"
+        type="text"
+        class="form-control"
+      />
+
+      <input *ngSwitchCase="'text'" [formControl]="fl.control" name="{{ fl.name }}" type="text" class="form-control" />
+
+      <textarea
+        *ngSwitchCase="'textarea'"
+        [formControl]="fl.control"
+        name="{{ fl.name }}"
+        type="text"
+        class="form-control"
+      ></textarea>
+
+      <ng-select *ngSwitchCase="'dropdown'" [items]="fl.items.enum" [formControl]="fl.control"> </ng-select>
+
+      <ng-select
+        class="schema-multidropdown-select"
+        *ngSwitchCase="'multidropdown'"
+        [formControl]="fl.control"
+        [items]="fl.items.enum"
+        [multiple]="true"
+      ></ng-select>
+
+      <span *ngSwitchCase="'checkboxes'" class="checkboxes-group">
+        <span *ngFor="let control of fl.control.controls; let inx = index" class="cb-item">
+          <span class="cg-label" translate>{{ fl.items.enum[inx] }}</span>
+          <label class="container cg-box">
+            <input
+              [formControl]="control"
+              name="{{ fl.name }}"
+              [value]="fl.items.enum[inx]"
+              [checked]="control.value === fl.items.enum[inx]"
+              type="checkbox"
+              class="form-control"
+            />
+            <span class="checkmark"></span>
+          </label>
+        </span>
+      </span>
+
+      <ul *ngSwitchCase="'options'" class="checklist-d" style="z-index: 9">
+        <li *ngFor="let opt of fl.items.enum; let i = index">
+          <label [for]="fl.name" class="radio">
+            <input
+              [formControl]="fl.control"
+              name="{{ fl.name }}"
+              type="radio"
+              id="{{ fl.name }}-{{ i }}"
+              [name]="fl.name"
+            />
+            {{ opt }}
+            <div class="input"></div>
+          </label>
+        </li>
+      </ul>
+
+      <label *ngSwitchCase="'boolean'" class="container">
+        <input [formControl]="fl.control" name="{{ fl.name }}" type="checkbox" name="" class="form-control" />
+        <span class="checkmark"></span>
+      </label>
+
+      <input
+        *ngSwitchCase="'number'"
+        [formControl]="fl.control"
+        name="{{ fl.name }}"
+        type="number"
+        class="form-control"
+        numbersOnly
+      />
+
+      <input
+        *ngSwitchCase="'date'"
+        mwlFlatpickr
+        dateFormat="m/d/Y"
+        name="{{ fl.name }}"
+        type="text"
+        class="form-control"
+        [placeholder]="'mm/dd/yyyy'"
+        [formControl]="fl.control"
+      />
+
+      <input
+        *ngSwitchCase="'time'"
+        mwlFlatpickr
+        [altInput]="true"
+        placeholder="4:00:00 AM"
+        altFormat="G:i:S K"
+        dateFormat="G:i:S K"
+        name="{{ fl.name }}"
+        type="text"
+        class="form-control"
+        [formControl]="fl.control"
+        [placeholder]="'hh:mm:ss'"
+        [convertModelValue]="true"
+        [noCalendar]="true"
+        [enableSeconds]="true"
+        [enableTime]="true"
+        [dateFormat]="'G:i:S K'"
+      />
+    </span>
+
+    <span *ngIf="disabled">{{ fl.stringValue }}</span>
+  </span>
+</p>

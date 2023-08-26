@@ -1,0 +1,11 @@
+{
+  "post_user": "Ajouter des utilisateurs",
+  "put_user": "Modifier les utilisateurs",
+  "put_user_status": "Modifier le statut des utilisateurs",
+  "post_case": "Cr\u00e9er des cas",
+  "put_case": "Modifier les cas",
+  "post_case_permission": "Attribuer des utilisateurs \u00e0 des requ\u00eates",
+  "put_case_permission": "Modifier les utilisateurs affect\u00e9s aux requ\u00eates",
+  "post_case_post": "Cr\u00e9er des messages de cas",
+  "delete_case_permission": "Supprimer les utilisateurs affect\u00e9s aux requ\u00eates"
+}

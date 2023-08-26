@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Lees alle gevalleveld spesifiseer in rol", "write": "Skryf alle gevalleveld spesifiseer in rol" },
+  "convos": {
+    "read_all": "Bekyk huidige status van samesprekings.",
+    "manage_own": "Sluit aan en ontkoppel konvo.",
+    "moderate_others": "Begin convo, be\u00ebindig convo, en verwyder deelnemer.",
+    "read_all_submissions": "Lees alle opgeneemde gesprekke."
+  },
+  "events": {
+    "read_all": "Lees alle gebeure.",
+    "manage_own": "Skep, werk op en vee eie gebeurtenis uit.",
+    "moderate_others": "Dateer ander se gebeurtenis op en vee dit uit.",
+    "read_all_submissions": "Lees alle gebeurtenisbevestigings.",
+    "submit_own": "Bevestig geleentheid bywoning versoek."
+  },
+  "posts": {
+    "read_all": "Lees alle plasings.",
+    "manage_own": "Skep, werk op en vee eie plasing uit.",
+    "moderate_others": "Dateer ander se plasing op en vee dit uit."
+  },
+  "forms": {
+    "read_all": "Lees alle vorms.",
+    "manage_own": "Skep, werk op en vee eie vorm uit.",
+    "moderate_others": "Dateer ander se vorm op en vee dit uit.",
+    "read_all_submissions": "Lees alle vormvoorleggings.",
+    "submit_own": "Dien vormversoek in."
+  },
+  "invoices": {
+    "read_all": "Lees alle fakture.",
+    "manage_own": "Skep, werk op en skrap eie faktuur.",
+    "moderate_others": "Dateer ander se faktuur op en vee dit uit.",
+    "read_all_submissions": "Lees alle faktuurvoorleggings.",
+    "submit_own": "Dien faktuurversoek in."
+  },
+  "notes": {
+    "read_all": "Lees alle notas.",
+    "manage_own": "Skep, werk op en vee eie nota uit.",
+    "moderate_others": "Dateer ander se nota op en vee dit uit."
+  },
+  "signs": {
+    "read_all": "Lees alle e-tekens.",
+    "manage_own": "Skep, werk op en vee eie e-teken uit.",
+    "moderate_others": "Dateer ander se e-teken op en vee dit uit.",
+    "read_all_submissions": "Lees alle e-teken voorleggings.",
+    "submit_own": "Dien veldversoek in."
+  },
+  "tasks": {
+    "read_all": "Lees alle take.",
+    "manage_own": "Skep, werk op en vee eie taak uit.",
+    "moderate_others": "Dateer ander se taak op en vee dit uit.",
+    "read_all_submissions": "Lees alle taakvoorleggings.",
+    "submit_own": "Dien taakversoek in."
+  },
+  "team": { "read_all": "Lees span ingeval" }
+}

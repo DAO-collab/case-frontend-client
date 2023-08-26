@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Irakurri kasu guztiak eremuan zehaztu rolean",
+    "write": "Idatzi kasu-eremu guztiak rolean zehaztu"
+  },
+  "convos": {
+    "read_all": "Ikusi convosen uneko egoera.",
+    "manage_own": "Sartu eta deskonbinatu.",
+    "moderate_others": "Hasi elkarrizketa, amaitu elkarrizketa eta kendu parte-hartzailea.",
+    "read_all_submissions": "Irakurri grabatutako konbo guztiak."
+  },
+  "events": {
+    "read_all": "Irakurri ekitaldi guztiak.",
+    "manage_own": "Sortu, eguneratu eta ezabatu gertaera propioa.",
+    "moderate_others": "Eguneratu eta ezabatu besteen gertaera.",
+    "read_all_submissions": "Irakurri gertaeren berrespen guztiak.",
+    "submit_own": "Berretsi ekitaldira joateko eskaera."
+  },
+  "posts": {
+    "read_all": "Irakurri mezu guztiak.",
+    "manage_own": "Sortu, eguneratu eta ezabatu mezu propioa.",
+    "moderate_others": "Eguneratu eta ezabatu besteen argitalpena."
+  },
+  "forms": {
+    "read_all": "Irakurri inprimaki guztiak.",
+    "manage_own": "Sortu, eguneratu eta ezabatu inprimakia.",
+    "moderate_others": "Eguneratu eta ezabatu besteen inprimakia.",
+    "read_all_submissions": "Irakurri inprimaki bidalketa guztiak.",
+    "submit_own": "Bidali formularioa eskaera."
+  },
+  "invoices": {
+    "read_all": "Irakurri faktura guztiak.",
+    "manage_own": "Sortu, eguneratu eta ezabatu faktura.",
+    "moderate_others": "Eguneratu eta ezabatu besteen faktura.",
+    "read_all_submissions": "Irakurri faktura bidalketa guztiak.",
+    "submit_own": "Bidali faktura eskaera."
+  },
+  "notes": {
+    "read_all": "Irakurri ohar guztiak.",
+    "manage_own": "Sortu, eguneratu eta ezabatu oharra.",
+    "moderate_others": "Eguneratu eta ezabatu besteen oharra."
+  },
+  "signs": {
+    "read_all": "Irakurri seinale elektroniko guztiak.",
+    "manage_own": "Sortu, eguneratu eta ezabatu zeinu elektroniko propioa.",
+    "moderate_others": "Eguneratu eta ezabatu besteen seinale elektronikoa.",
+    "read_all_submissions": "Irakurri zeinu elektronikoen bidalketa guztiak.",
+    "submit_own": "Bidali eremu eskaera."
+  },
+  "tasks": {
+    "read_all": "Irakurri zeregin guztiak.",
+    "manage_own": "Sortu, eguneratu eta ezabatu zeregin propioa.",
+    "moderate_others": "Eguneratu eta ezabatu besteen zeregina.",
+    "read_all_submissions": "Irakurri zereginen bidalketa guztiak.",
+    "submit_own": "Bidali zeregin eskaera."
+  },
+  "team": { "read_all": "Irakurri taldea badaezpada" }
+}

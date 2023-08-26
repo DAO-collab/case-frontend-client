@@ -1,0 +1,109 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  So weisen Sie Benutzerzuweisungen mit dem Import-Tool zu, ändern oder entfernen sie
+</h1>
+<p>Dieser Artikel zeigt Administratoren, wie sie Fallbenutzer mit dem Import-Tool verwalten.</p>
+<p>Administratoren können:</p>
+<ul>
+  <li>Benutzer einem Fall zuweisen</li>
+  <li>bereits einem Fall zugewiesene Benutzer ändern</li>
+  <li>Benutzer entfernen, die einem Fall zugewiesen sind</li>
+</ul>
+<h2 id="opening-the-import-tool">Öffnen des Import-Tools</h2>
+<ol style="list-style-type: decimal">
+  <li>Melden Sie sich beim Administratorkonto an.</li>
+  <li>Suchen Sie eine App auf der Seite Apps und klicken Sie auf die Schaltfläche ADMIN.</li>
+  <li>Klicken Sie auf die Registerkarte Integration und dann im Untermenü auf IMPORTS.</li>
+  <li>Klicken Sie auf die Schaltfläche NEU. Das Dialogfeld „Importe hinzufügen“ wird angezeigt.</li>
+</ol>
+<h2 id="creating-records">Aufzeichnungen erstellen</h2>
+<p>
+  Laden Sie eine oder mehrere CSV-Dateien herunter. Verwenden Sie diese Dateien, um Fallbenutzer hinzuzufügen, zu ändern
+  oder zu entfernen. Nachdem das Dialogfeld Importe hinzufügen geöffnet wurde:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Klicken Sie auf das Feld Typ.</li>
+  <li>Blättern Sie durch das Dropdown-Menü und wählen Sie eine Option aus (siehe unten). Ein Link wird angezeigt.</li>
+  <li>Klicken Sie auf den Link Beispiel herunterladen. Eine CSV-Datei wird auf Ihr Gerät heruntergeladen.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-1.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<p>
+  Öffnen Sie die Datei und fügen Sie Datensätze hinzu. Klicken Sie hier, um zu erfahren, wie Sie Formatdaten in der
+  CSV-Datei verwenden.
+</p>
+<h3 id="file-options">Dateioptionen</h3>
+<p>
+  <strong>Benutzer zu Fällen</strong> zuweisen * Wählen Sie diese Option, um Benutzer zu einem Fall hinzuzufügen. *
+  Lassen Sie die Zelle case_role_order leer. * Gehen Sie zur Seite Benutzer und kopieren Sie die Tag-ID für diese
+  Person. Wenn das Tag-ID-Feld leer ist, geben Sie eine eindeutige ID ein, klicken Sie auf Speichern und kopieren Sie
+  dann die ID in die CSV-Datei.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-2.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<p>
+  <strong>Kundenvorgängen zugewiesene Benutzer ändern</strong> * Wählen Sie diese Option, um Daten für aktuelle Benutzer
+  zu aktualisieren, die einem Kundenvorgang zugewiesen sind. * Verwenden Sie die Case-Tag-ID für die Spalte case_ID.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-3.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<p>
+  <strong>Kundenvorgängen zugewiesene Benutzer entfernen</strong> * Wählen Sie diese Option, um Benutzer zu entfernen,
+  die einem Kundenvorgang zugewiesen sind.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-4.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<h2 id="uploading-the-file">Hochladen der Datei</h2>
+<p>
+  Sie können eine Datei sofort hochladen oder zu einem späteren Zeitpunkt zum Dialogfeld „Importe hinzufügen“
+  zurückkehren und diese Schritte ausführen.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Öffnen Sie das Dialogfeld „Importe hinzufügen“.</li>
+  <li>Geben Sie einen eindeutigen Namen für die CSV-Datei ein.</li>
+  <li>Klicken Sie auf das Pluszeichen (+), um die Datei von Ihrem Gerät hochzuladen.</li>
+  <li>Klicken Sie auf das Feld Typ und wählen Sie eine Option aus. (siehe oben)</li>
+  <li>Klicken Sie auf SPEICHERN.</li>
+</ol>
+<h2 id="processing">wird bearbeitet</h2>
+<p>
+  Abhängig von der Anzahl der Datensätze in der Datei und der Systemlast kann die Plattform mehrere Minuten benötigen,
+  um den Import zu verarbeiten.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-5.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<p>
+  Wenn der Import abgeschlossen ist, passt die Plattform Benutzerdatensätze auf der Seite „Fälle“ an (dh fügt hinzu,
+  ändert oder entfernt sie).
+</p>
+<h2 id="failure">Fehler</h2>
+<p>
+  Wenn der Importvorgang fehlschlägt, gibt die Plattform eine Fehlernachricht zurück. In den meisten Fällen ist die
+  Fehlerursache die Datenformatierung.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-6.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>
+<p>So sehen Sie die Fehlerursache:</p>
+<ol style="list-style-type: decimal">
+  <li>Klicken Sie unter der Überschrift Aktion auf Ansicht.</li>
+  <li>
+    Bewegen Sie auf der nächsten Seite die Maus über das Symbol „Fehlgeschlagen“. Der Tooltip zeigt den Fehler an.
+  </li>
+  <li>Gehen Sie zur CVS-Datei und passen Sie den Fehler an und beheben Sie ihn.</li>
+  <li>Laden Sie die Datei erneut hoch.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-7.png" alt="Bild" />
+  <p class="caption">Bild</p>
+</div>

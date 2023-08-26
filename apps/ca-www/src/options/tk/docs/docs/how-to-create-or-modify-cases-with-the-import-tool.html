@@ -1,0 +1,111 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Import guraly bilen ýagdaýlary nädip döretmeli ýa-da üýtgetmeli
+</h1>
+<p>Bu makala, import gurallary bilen bar bolan ýagdaýlary nädip döretmelidigini ýa-da üýtgetmelidigini görkezýär.</p>
+<h2 id="opening-the-import-tool">Import guralyny açmak</h2>
+<ol style="list-style-type: decimal">
+  <li>Admin hasabyna giriň.</li>
+  <li>Programmalar sahypasynda bir programma tapyň we ADMIN düwmesine basyň.</li>
+  <li>Dolandyryş panelinde Integrasiýa goýmasyna basyň we aşaky menýudaky IMPORTS.</li>
+  <li>Täze düwmä basyň. Import goşmak gepleşik penjiresi täze brauzer goýmasynda görkezilýär.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-cases">Kazyýetleri döretmek</h2>
+<p>Import goşmak gepleşik penjiresi açylandan soň:</p>
+<ol style="list-style-type: decimal">
+  <li>“Type” meýdanyna basyň we bir opsiýa saýlaň (aşaga serediň). Baglanyşyk görkezilýär.</li>
+  <li>Göçürip alma nusgasyna basyň. Enjamyňyza CSV faýly göçürip alýar.</li>
+</ol>
+<p>Ondan soň faýly açyň we halatlary goşuň.</p>
+<h2 id="type">Görnüşi</h2>
+<p>
+  “ <strong>Type</strong> ” meýdanyna basanyňyzda açylan menýu görkezilýär. Köp mukdarda import üçin iki warianty
+  saýlaň.
+</p>
+<ul>
+  <li>
+    <strong>Bellik</strong> Açylýan menýuda köp wariant bar, ýöne diňe ikisi iş bilen baglanyşykly. Her wariantda başga
+    bir CSV faýly bar.
+  </li>
+</ul>
+<h3 id="add-cases">Kazyýetleri goşuň</h3>
+<ul>
+  <li>Caseönekeý köpçülikleýin ýüklemek üçin bu opsiýany saýlaň.</li>
+  <li>
+    Importükleme nusgasy baglanyşygyna basyň, mysallary döretmek görnüşi üçin sütün sözbaşylary bolan CSV faýly açmak
+    üçin.
+  </li>
+</ul>
+<h3 id="modify-cases">Kazyýetleri üýtgediň</h3>
+<ul>
+  <li>Häzirki ýagdaýlary täzelemek üçin bu opsiýany saýlaň.</li>
+  <li>
+    Üýtgetmek ýagdaýlaryny import görnüşi üçin sütün sözbaşylary bolan CSV faýly açmak üçin Göçürip alma nusgasyna
+    basyň.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Faýly ýüklemek</h2>
+<p>
+  Derrew bir faýl ýükläp ýa-da soňraky wagtda “Import goşmak” gepleşik penjiresine gaýdyp gelip, bu ädimleri tamamlap
+  bilersiňiz.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Import goşmak gepleşik penjiresini açyň.</li>
+  <li>CSV faýly üçin özboluşly at giriziň.</li>
+  <li>Enjamyňyzdan faýly ýüklemek üçin goşmaça (+) nyşanyna basyň.</li>
+  <li>“Type” meýdanyna basyň we bir opsiýa saýlaň. (ýokarda serediň)</li>
+  <li>Saklamak düwmesine basyň.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Formatlamak</h2>
+<p>
+  Bular zerur meýdanlar we ilkinji talaplar. Format jikme-jikliklerini gözden geçirmek üçin
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">şu ýere</a> basyň.
+</p>
+<p><strong>tag_id (ýa-da case_ID)</strong> özboluşly kesgitleýji (harp belgilerini ulanyň, defisler kabul edilýär)</p>
+<p><strong>case_status</strong> 0 = ýapyk 1 = işjeň</p>
+<p><strong>senesi_ açylan</strong> aý / gün / ýyl mm / dd / yyyy</p>
+<p>işiň özboluşly beýany <strong>hakda</strong> (harp belgilerini ulanyň, defisler kabul edilýär)</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Gaýtadan işlemek</h2>
+<p>
+  Faýldaky ýazgylaryň sanyna we ulgam ýüküne baglylykda platforma importy gaýtadan işlemek üçin birnäçe minut wagt alyp
+  biler.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Import tamamlanandan soň, platforma administratoryň “Cases” dolandyryş panelinde ýazgylary düzýär (ýagny goşýar ýa-da
+  üýtgedýär).
+</p>
+<h2 id="failure">Şowsuzlyk</h2>
+<p>
+  Import amallary şowsuz bolsa, platforma şowsuz habary yzyna gaýtaryp berýär. Köplenç şowsuzlygyň sebäbi maglumatlary
+  formatlamakdyr.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Şowsuzlygyň sebäbini görmek üçin:</p>
+<ol style="list-style-type: decimal">
+  <li>ACTION sözbaşysynyň aşagyndaky Görnüşe basyň.</li>
+  <li>Indiki sahypada, Şowsuz nyşanyna syçanjygy basyň. Gurallar maslahaty ýalňyşlygy görkezýär.</li>
+  <li>CVS faýlyna giriň we ýalňyşlygy düzediň we düzediň.</li>
+  <li>Faýly täzeden ýükläň.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

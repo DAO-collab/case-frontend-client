@@ -1,0 +1,60 @@
+span.drop-a.drop-status {
+  padding: 0px;
+}
+
+.drop-a:hover > .drop {
+  top: 27px;
+}
+
+.info-block {
+  max-width: 850px;
+  margin: 0 auto;
+}
+.popup-copy-icon-wrapper {
+  min-width: 26px;
+  position: relative;
+  margin-top: 2px;
+  display: inline;
+}
+
+.copied-tip {
+  color: #15afc5;
+  position: absolute;
+  margin-top: 10px;
+  padding: 0 5px;
+  left: -11px;
+  font-size: 14px;
+  line-height: 20px;
+  overflow: visible;
+  word-break: keep-all;
+}
+
+.signup-copy-icon {
+  height: 16px;
+  width: 19px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.copied-tip:before {
+  border-style: solid;
+  border-width: 5px 5px 5px 0;
+  border-color: transparent #15afc5 transparent transparent;
+  position: absolute;
+  vertical-align: middle;
+  content: '';
+  top: -7px;
+  left: 50%;
+  z-index: 2;
+  transform: rotate(90deg) translateY(20%);
+}
+
+li .copy-container {
+  position: absolute;
+  right: 0;
+  top: -1px;
+}
+
+li.truncate {
+  padding-right: 20px;
+}

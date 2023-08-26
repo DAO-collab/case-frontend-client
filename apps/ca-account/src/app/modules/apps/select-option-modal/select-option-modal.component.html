@@ -1,0 +1,17 @@
+<app-modal type="form-d" [width]="600" position="fixed" (close)="closeModal()">
+  <h2 style="padding-right: 20px">
+    <span translate>Select an option</span>
+  </h2>
+
+  <article class="options-wrapper">
+    <div class="option" (click)="openJoinAppModal()">
+      <img class="icon-image" src="images/join-app-icon.svg" alt="" />
+      <span translate>Join an existing app as a client</span>
+    </div>
+
+    <div class="option" (click)="openCreateAppModal()">
+      <img class="icon-image" src="images/create-app-icon.svg" alt="" />
+      <span translate>Create a new app for my business</span>
+    </div>
+  </article>
+</app-modal>

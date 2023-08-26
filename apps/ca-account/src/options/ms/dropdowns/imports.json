@@ -1,0 +1,11 @@
+{
+  "post_user": "Tambah pengguna",
+  "put_user": "Ubah suai pengguna",
+  "put_user_status": "Ubah suai status pengguna",
+  "post_case": "Buat kes",
+  "put_case": "Ubah suai kes",
+  "post_case_permission": "Tetapkan pengguna kepada kes",
+  "put_case_permission": "Ubah suai pengguna yang diberikan kepada kes",
+  "post_case_post": "Buat siaran kes",
+  "delete_case_permission": "Alih keluar pengguna yang diberikan kepada kes"
+}

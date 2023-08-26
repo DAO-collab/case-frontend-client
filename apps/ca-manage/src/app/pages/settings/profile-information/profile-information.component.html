@@ -1,0 +1,55 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../modules']">{{ 'Modules' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../roles']">{{ 'Roles' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['../profile-info']">{{ 'Profile information' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <form
+    novalidate
+    name="form"
+    role="form"
+    id="formcase"
+    autocomplete="off"
+    *ngIf="!loading"
+    [formGroup]="infoForm"
+    (submit)="save()"
+  >
+    <div class="table-wrapper">
+      <table class="table-c">
+        <tr>
+          <th>{{ 'When a user join app, ask the user to share the following' | translate }}:</th>
+          <th translate>Status</th>
+        </tr>
+        <tr *ngFor="let info of allInfo">
+          <td>{{ info.name }}</td>
+          <td width="70px">
+            <label class="checkbox-container centered-checkbox">
+              <input type="checkbox" [formControlName]="info.formControl" />
+              <span class="checkmark"></span>
+            </label>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <p class="field-errors notice-a" *ngIf="formError" translate>{{ formError }}</p>
+
+    <p class="submit">
+      <button type="submit" class="f-right" [disabled]="saving">
+        <span *ngIf="!saving" translate>Save</span>
+        <span *ngIf="saving" translate>Saving...</span>
+      </button>
+    </p>
+  </form>
+</article>

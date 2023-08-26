@@ -1,0 +1,32 @@
+.select-wrapper-cell {
+  width: 137px;
+}
+
+@media only screen and (max-width: 47.5em) {
+  .select-wrapper-cell {
+    width: 35px;
+  }
+}
+
+input {
+  padding: 0 19px;
+}
+
+.dropform:hover .drop {
+  top: 27px;
+}
+
+.drop-a > .drop a {
+  min-width: 100px;
+  text-align: left;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.5;
+}

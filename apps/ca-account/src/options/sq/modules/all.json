@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Lexoni t\u00eb gjitha fushat e rasteve t\u00eb specifikuara n\u00eb rol",
+    "write": "Shkruani t\u00eb gjitha fushat e rasteve t\u00eb specifikuara n\u00eb rol"
+  },
+  "convos": {
+    "read_all": "Shiko statusin aktual t\u00eb konvos.",
+    "manage_own": "Bashkohuni dhe anuloni bised\u00ebn.",
+    "moderate_others": "Filloni bised\u00ebn, p\u00ebrfundoni bised\u00ebn dhe hiqni pjes\u00ebmarr\u00ebsin.",
+    "read_all_submissions": "Lexoni t\u00eb gjitha bisedat e regjistruara."
+  },
+  "events": {
+    "read_all": "Lexoni t\u00eb gjitha ngjarjet.",
+    "manage_own": "Krijoni, p\u00ebrdit\u00ebsoni dhe fshini ngjarjen tuaj.",
+    "moderate_others": "P\u00ebrdit\u00ebsoni dhe fshini ngjarjen e t\u00eb tjer\u00ebve.",
+    "read_all_submissions": "Lexoni t\u00eb gjitha konfirmimet e ngjarjeve.",
+    "submit_own": "Konfirmo k\u00ebrkes\u00ebn p\u00ebr pjes\u00ebmarrje n\u00eb ngjarje."
+  },
+  "posts": {
+    "read_all": "Lexoni t\u00eb gjitha postimet.",
+    "manage_own": "Krijoni, p\u00ebrdit\u00ebsoni dhe fshini postimin tuaj.",
+    "moderate_others": "P\u00ebrdit\u00ebso dhe fshi postimin e t\u00eb tjer\u00ebve."
+  },
+  "forms": {
+    "read_all": "Lexoni t\u00eb gjitha format.",
+    "manage_own": "Krijo, p\u00ebrdit\u00ebso dhe fshi formularin e vet.",
+    "moderate_others": "P\u00ebrdit\u00ebso dhe fshi formularin e t\u00eb tjer\u00ebve.",
+    "read_all_submissions": "Lexoni t\u00eb gjitha paraqitjet e formular\u00ebve.",
+    "submit_own": "Paraqisni k\u00ebrkes\u00ebn e formularit."
+  },
+  "invoices": {
+    "read_all": "Lexoni t\u00eb gjitha faturat.",
+    "manage_own": "Krijoni, p\u00ebrdit\u00ebsoni dhe fshini fatur\u00ebn tuaj.",
+    "moderate_others": "P\u00ebrdit\u00ebsoni dhe fshini fatur\u00ebn e tjetrit.",
+    "read_all_submissions": "Lexoni t\u00eb gjitha parashtresat e fatur\u00ebs.",
+    "submit_own": "Paraqisni k\u00ebrkes\u00ebn p\u00ebr fatur\u00eb."
+  },
+  "notes": {
+    "read_all": "Lexoni t\u00eb gjitha sh\u00ebnimet.",
+    "manage_own": "Krijoni, p\u00ebrdit\u00ebsoni dhe fshini sh\u00ebnimin tuaj.",
+    "moderate_others": "P\u00ebrdit\u00ebso dhe fshi sh\u00ebnimin e t\u00eb tjer\u00ebve."
+  },
+  "signs": {
+    "read_all": "Lexoni t\u00eb gjitha shenjat elektronike.",
+    "manage_own": "Krijoni, p\u00ebrdit\u00ebsoni dhe fshini shenj\u00ebn e vet elektronike.",
+    "moderate_others": "P\u00ebrdit\u00ebso dhe fshi e-shenj\u00ebn e tjetrit.",
+    "read_all_submissions": "Lexoni t\u00eb gjitha paraqitjet e shenjave elektronike.",
+    "submit_own": "Paraqisni k\u00ebrkes\u00ebn n\u00eb terren."
+  },
+  "tasks": {
+    "read_all": "Lexoni t\u00eb gjitha detyrat.",
+    "manage_own": "Krijoni, p\u00ebrdit\u00ebsoni dhe fshini detyr\u00ebn tuaj.",
+    "moderate_others": "P\u00ebrdit\u00ebso dhe fshi detyr\u00ebn e t\u00eb tjer\u00ebve.",
+    "read_all_submissions": "Lexoni t\u00eb gjitha paraqitjet e detyrave.",
+    "submit_own": "Paraqisni k\u00ebrkes\u00ebn p\u00ebr detyr\u00eb."
+  },
+  "team": { "read_all": "Lexoni ekipin n\u00eb rast" }
+}

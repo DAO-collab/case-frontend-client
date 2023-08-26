@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Gdy post zostanie dodany do kana\u0142u",
+  "app_confirmation_events": "Poproszono mnie o rsvp zdarzenia",
+  "app_submission_events": "Moje wydarzenie rsvp zosta\u0142o odebrane",
+  "app_requested_forms": "Prosz\u0119 o przes\u0142anie formularza ode mnie",
+  "app_submission_forms": "M\u00f3j formularz zosta\u0142 przes\u0142any przez kogo\u015b",
+  "app_requested_signs": "Prosz\u0119 o z\u0142o\u017cenie podpisu",
+  "app_submission_signs": "M\u00f3j dokument jest podpisany przez kogo\u015b",
+  "app_requested_tasks": "Zadanie jest ode mnie wymagane",
+  "app_submission_tasks": "Moje zadanie zosta\u0142o przez kogo\u015b wykonane",
+  "app_requested_invoices": "Prosz\u0119 o przes\u0142anie faktury ode mnie",
+  "app_submission_invoices": "Moja faktura zosta\u0142a op\u0142acona przez kogo\u015b"
+}

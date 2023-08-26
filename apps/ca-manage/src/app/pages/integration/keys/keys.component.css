@@ -1,0 +1,13 @@
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.drop-a.dropform .drop {
+  margin-top: 0 !important;
+}

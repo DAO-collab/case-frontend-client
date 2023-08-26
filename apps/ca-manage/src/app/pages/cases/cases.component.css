@@ -1,0 +1,120 @@
+.search-settings .filters-inputs {
+  display: none;
+}
+
+.search-settings.on .filters-inputs {
+  display: block;
+}
+
+.on .icon-tools {
+  color: #c2c2c2;
+  font-weight: bold;
+}
+
+.on .icon-chevron-down {
+  display: none;
+}
+
+button.toggle-search-filter {
+  width: 30px;
+  height: 41px;
+  padding: 0;
+  background: #fff;
+  color: #b6b6b6;
+  border-color: #fff;
+  float: right;
+  margin: 3px 5px;
+  line-height: 45px;
+}
+
+.search-settings {
+  width: 50%;
+  float: right;
+  margin-bottom: 20px;
+  padding-bottom: 17px;
+}
+
+.search-settings select {
+  width: 100px;
+  float: left;
+}
+
+.search-settings .lable-span {
+  float: left;
+  margin-right: 5px;
+}
+
+.form-f.form-casesearch {
+  margin-bottom: 30px;
+}
+
+.search-settings select {
+  padding: 6px;
+}
+
+button.toggle-search-filter i {
+  font-size: 20px;
+}
+
+.search-settings select.dropdown {
+  -webkit-appearance: menulist;
+}
+
+.search-settings select.dropdown {
+  background: #fff;
+  border: #fff;
+  width: auto;
+}
+
+input#fcsa {
+  padding-left: 88px;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.popup-copy-icon-wrapper {
+  min-width: 26px;
+  position: relative;
+  margin-top: -2px;
+}
+
+.copied-tip {
+  color: #15afc5;
+  position: absolute;
+  margin-top: 10px;
+  padding: 0 5px;
+  left: -11px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.copied-tip:before {
+  border-style: solid;
+  border-width: 5px 5px 5px 0;
+  border-color: transparent #15afc5 transparent transparent;
+  position: absolute;
+  vertical-align: middle;
+  content: '';
+  top: -7px;
+  left: 50%;
+  z-index: 2;
+  transform: rotate(90deg) translateY(20%);
+}
+.signup-copy-icon {
+  height: 16px;
+  width: 19px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.drop-a.dropform .drop {
+  margin-top: 0 !important;
+}

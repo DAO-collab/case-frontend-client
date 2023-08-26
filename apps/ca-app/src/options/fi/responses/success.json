@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Sovellus luotiin onnistuneesti.",
+  "AvatarDeleted": "Avatar poistettiin onnistuneesti.",
+  "AvatarUpdated": "Avatar l\u00e4hetettiin onnistuneesti.",
+  "CodeSent": "Laitteeseen on l\u00e4hetetty vahvistuskoodi.",
+  "DeviceVerified": "Laite on tarkistettu.",
+  "GlobalLogout": "Kirjaudu ulos kaikilla laitteilla. N\u00e4hd\u00e4\u00e4n pian.",
+  "LocalLogout": "Kirjaudu ulos laitteesta. N\u00e4hd\u00e4\u00e4n pian.",
+  "PasswordUpdated": "Salasana p\u00e4ivitettiin onnistuneesti.",
+  "ProfileUpdated": "Profiili on p\u00e4ivitetty onnistuneesti.",
+  "SignupPassword": "Tili luotu onnistuneesti.",
+  "TicketSent": "Tukitiimiin on l\u00e4hetetty s\u00e4hk\u00f6postiviesti."
+}

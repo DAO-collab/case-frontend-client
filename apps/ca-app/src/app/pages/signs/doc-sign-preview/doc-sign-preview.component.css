@@ -1,0 +1,456 @@
+span.actions-on-field {
+  /* width: 100%; */
+  display: block;
+  text-align: right;
+  padding: 0 5px;
+  background: rgba(27, 27, 27, 0);
+  position: absolute;
+  top: 0;
+  bottom: -26px;
+  height: 0px;
+  transition: 0.2s ease-in-out;
+  z-index: -2;
+  max-height: 20px;
+  right: 0;
+  top: 0;
+  z-index: 999;
+}
+
+span label {
+  text-align: left;
+  padding: 3px 5px 0;
+}
+
+.top-left {
+  top: -5px;
+  left: -5px;
+}
+
+.top-right {
+  top: -5px;
+  right: -5px;
+}
+
+.bottom-left {
+  bottom: -5px;
+  left: -5px;
+}
+
+.bottom-right {
+  bottom: -5px;
+  right: -5px;
+}
+
+.d-field-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.d-field-wrapper span .form-control {
+  height: 100% !important;
+}
+
+.checklist-d {
+  margin: 0;
+}
+
+.checklist-d label span {
+  display: inline-block;
+  clear: both;
+  width: 61px;
+  position: relative;
+  z-index: 9;
+  margin-left: 28px;
+}
+
+.checklist-d label .input {
+  left: 5px;
+  top: 8px;
+}
+
+.checklist-d .radio input[type='radio'] {
+  height: 25px;
+  display: block;
+  opacity: 0;
+  width: 23px;
+  margin-left: 0px;
+}
+
+.checklist-d.list {
+  border: 1px solid #000;
+  line-height: 1.2em;
+}
+
+.checklist-d.list li {
+  padding: 0.08em 0.23em;
+  cursor: pointer;
+}
+
+span.boolen-field > label {
+  vertical-align: top;
+  float: left;
+}
+
+.field-body {
+  flex-grow: 1;
+  height: 100% !important;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.03rem;
+}
+
+.field-body span {
+  color: #000;
+}
+
+.field-body > span:last-child {
+  flex-grow: 1;
+}
+
+.field-body.listing {
+  overflow: auto;
+  height: 100%;
+  border: 1px solid #dbdbdb;
+  border-radius: 5px;
+  background: #f8fafb;
+  text-align: left;
+}
+
+.field-text {
+  margin-left: 4px;
+}
+
+label.radio {
+  display: flex;
+}
+
+label.radio input[type='radio']:checked + div::before {
+  background: #667074 !important;
+}
+
+span.boolen-field label.container {
+  width: 24px;
+  clear: none;
+  margin: 5px 0px 0px 5px;
+  padding: 0;
+}
+
+span.boolen-field {
+  min-width: 266px;
+  position: relative;
+}
+
+.d-field-wrapper textarea {
+  min-height: 10px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.d-field-wrapper > span {
+  display: block;
+  clear: both;
+  height: 100%;
+  top: 2px;
+}
+
+.d-field-wrapper {
+  height: 100%;
+}
+
+.title-hide {
+  opacity: 0;
+}
+
+.title-show {
+  opacity: 1;
+}
+
+::ng-deep app-doc-sign-preview {
+  z-index: 20;
+  background: transparent;
+}
+::ng-deep app-doc-sign-preview > div > span {
+  height: unset !important;
+}
+
+::ng-deep app-doc-sign-preview:focus {
+  outline: unset !important;
+}
+
+:host ::ng-deep .date-input,
+:host ::ng-deep .time-input {
+  height: 100% !important;
+}
+
+ng-select {
+  height: 100% !important;
+  border-radius: var(--ng-select-border-radius);
+}
+
+ng-select ::ng-deep .ng-input,
+ng-select ::ng-deep .ng-select-container {
+  height: 100% !important;
+}
+
+ng-select ::ng-deep .ng-value {
+  display: flex;
+  align-items: center;
+}
+
+:host ::ng-deep .ng-select.ng-select-opened .ng-select-container .ng-value .ng-value-label {
+  color: inherit !important;
+}
+
+::ng-deep .ng-dropdown-panel.multi-dropdown .ng-dropdown-panel-items .ng-option {
+  font-size: var(--font-size) !important;
+}
+
+::ng-deep #root .ng-select.multi-dropdown .ng-select-container {
+  border-radius: var(--ng-select-border-radius);
+}
+
+::ng-deep .ng-select.ng-select-multiple.ng-select.multi-dropdown .ng-select-container .ng-value-container .ng-value {
+  background: #fff;
+  border-color: #000;
+  padding: unset;
+  margin: var(--ng-select-margin);
+  border-radius: var(--ng-select-border-radius);
+  border-width: var(--ng-value-icon-border-width);
+}
+
+::ng-deep .ng-select.ng-select-multiple.ng-select.multi-dropdown .ng-select-container .ng-value .ng-value-icon {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: var(--ng-value-icon-size);
+  height: var(--ng-value-icon-size);
+  line-height: var(--ng-value-icon-size) !important;
+  font-size: var(--font-size);
+  border-width: var(--ng-value-icon-border-width);
+  margin-right: var(--ng-value-icon-margin-right);
+}
+
+::ng-deep .ng-select.multi-dropdown .ng-value .wrapper {
+  padding: var(--ng-select-padding);
+  border-radius: var(--ng-select-border-radius);
+  height: 100%;
+}
+
+::ng-deep .ng-select.ng-select-multiple.ng-select.multi-dropdown.ng-select-searchable .ng-input::after,
+:host ::ng-deep .ng-select-searchable .ng-input::after {
+  font-size: var(--font-size);
+}
+
+:host ::ng-deep span .checklist-d label {
+  padding-left: var(--radio-padding);
+}
+
+:host ::ng-deep .checklist-d .radio input[type='radio'] {
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+:host ::ng-deep .checklist-d label.radio .input {
+  width: var(--radio-size);
+  height: var(--radio-size);
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+:host ::ng-deep .checklist-d label.radio.radio-left .input {
+  left: 8% !important;
+}
+
+:host ::ng-deep .checklist-d label.radio .input .inner {
+  width: 40%;
+  height: 40%;
+  border-radius: 50%;
+  opacity: 0;
+}
+
+:host ::ng-deep .checklist-d label.radio input[type='radio']:checked + .input .inner {
+  opacity: 1;
+}
+
+:host ::ng-deep .checklist-d label.radio .input:before {
+  display: none;
+}
+
+.checkboxes-group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.signature-box-wrapper {
+  background: white;
+  height: 100%;
+  border-radius: var(--ng-select-border-radius);
+  border: 1px solid #dadada;
+  color: #848484;
+  position: relative;
+}
+
+.signature-sign {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: fit-content;
+  padding: 0.2em 0.4em;
+  border-radius: var(--ng-select-border-radius);
+  background: #5e5ceb;
+  color: #fff !important;
+  font-size: .75em !important;
+}
+
+.signature-box-wrapper img {
+  height: 100% !important;
+  width: auto;
+}
+
+.image-element {
+  max-height: 100%;
+  max-width: 100% !important;
+}
+
+:host * {
+  font-size: var(--font-size);
+}
+
+:host input,
+:host ng-select {
+  font-size: var(--font-size) !important;
+}
+
+:host,
+:host ::ng-deep input,
+:host ::ng-deep ng-select.ng-select .ng-select-container,
+:host ::ng-deep ng-select.ng-select .ng-select-container input {
+  border-radius: var(--ng-select-border-radius);
+}
+
+:host table {
+  font-family: Arial, sans-serif;
+}
+
+:host table.fixed-cols {
+  table-layout: fixed;
+}
+
+:host td {
+  padding: 0;
+  height: var(--table-cell-height);
+  position: relative;
+}
+
+:host th {
+  border-bottom: unset;
+  color: #000;
+}
+
+:host tbody tr td {
+  border: 1px solid #4b5153;
+}
+
+:host td input {
+  border: transparent;
+  border-radius: unset;
+  font-weight: 600;
+}
+
+tr.add-row td {
+  border-bottom: unset;
+  padding: 0;
+}
+
+tr.add-row td button {
+  border-bottom: unset;
+  margin-top: 0;
+  text-transform: unset;
+  color: #fff;
+  background: #2e7d32;
+  border-radius: 50%;
+  padding: calc(var(--table-button-padding) * 1px);
+  border: unset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: calc(var(--edit-button-right) * 1px);
+  top: calc(var(--table-button-padding) * 2px);
+}
+
+tr.add-row td button .icon-plus,
+tr.delete-row button .icon-plus {
+  position: relative;
+}
+
+tr.delete-row {
+  position: relative;
+}
+
+tr.delete-row button {
+  color: #fc2125;
+  padding: calc(var(--table-button-padding) * 1px);
+  margin: unset;
+  border-radius: 50%;
+  background: #d32f2f;
+  color: #fff;
+  border: unset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: calc(var(--delete-button-right) * -1px);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+tr.delete-row button .icon-plus {
+  transform: rotate(45deg);
+}
+
+.cb-item.single {
+  display: flex;
+}
+
+.cg-box.single {
+  padding-left: var(--checkbox-size) !important;
+  min-height: var(--checkbox-size);
+}
+
+.cb-item.single .container {
+  margin: unset;
+}
+
+.checkmark {
+  width: var(--checkbox-size);
+  height: var(--checkbox-size);
+  border-radius: var(--ng-select-border-radius);
+}
+
+.container input:checked ~ .checkmark:after {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: unset;
+  height: unset;
+  font-size: var(--checkbox-size);
+}
+
+:host ::ng-deep .listing .checklist-d label.radio.radio-left .input {
+  left: 0 !important;
+  top: 7px !important;
+  transform: translateX(0) !important;
+}

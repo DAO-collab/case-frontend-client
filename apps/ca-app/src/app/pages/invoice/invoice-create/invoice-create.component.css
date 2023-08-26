@@ -1,0 +1,385 @@
+h3 {
+  border: 0;
+  font-size: 18px;
+  margin-bottom: 5px;
+  text-transform: none;
+}
+
+.participants-list {
+  max-height: 150px;
+}
+
+.full-width.no-float {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-bottom: 0;
+}
+
+.checkbox-container {
+  position: relative;
+}
+
+span.cbx-lable {
+  margin-left: 30px;
+}
+
+
+table.table-a input,
+table.table-a app-error.notice-a.show {
+  width: 90%;
+}
+
+
+select#mdc {
+  width: calc(100% - 280px);
+  clear: left;
+  float: left;
+  -webkit-appearance: menulist;
+  position: relative;
+}
+
+select#mdc:after {
+  content: '';
+  height: 0;
+  border-style: solid;
+  border-width: 5px 4px 0 4px;
+  border-color: #939393 transparent transparent transparent;
+  position: relative;
+  left: 5px;
+  top: 12px;
+}
+
+a.btn.cform-type-add {
+  float: left;
+  position: relative;
+  z-index: 9;
+  margin-left: 25px;
+  margin-top: 3.5px;
+  margin-right: 0;
+}
+
+@media (max-width: 760px) {
+  a.btn.cform-type-add {
+    margin-left: 0;
+    margin-top: 20px;
+  }
+
+  select#mdc {
+    width: 100%;
+  }
+}
+
+p.half-width {
+  width: calc(91% - 50px);
+  float: left;
+  clear: none;
+  margin-right: 10px;
+}
+
+p.submit.right-float-btn {
+  width: 80px;
+  float: left;
+  clear: none;
+  border: 0;
+  margin-top: 15px;
+}
+
+.no-options {
+  border-top: 1px solid #dbdbdb;
+  padding-top: 15px;
+}
+
+i.icon-document-text.table-td-icon {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.notValid * {
+  color: #e74242;
+}
+
+.table-a tr > .draggable-point {
+  width: 3%;
+}
+
+td.dragg-texture {
+  cursor: all-scroll;
+  position: relative;
+}
+
+td.dragg-texture i {
+  position: absolute;
+  top: 50%;
+  margin-top: -8px;
+}
+
+.table-a td {
+  line-height: 35px;
+}
+
+.table-a span.checkmark {
+  top: 7px;
+}
+
+.drag-target-border {
+  border-bottom: 1px solid #333;
+}
+
+td.default-edit i {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  color: #bebdbd;
+  transition-duration: 0.1s;
+}
+
+td.default-edit {
+  position: relative;
+}
+
+td.default-edit i:hover {
+  color: #333;
+}
+
+.box-inner td {
+  border: 0;
+}
+
+.form-d .options-list {
+  margin-bottom: 0;
+}
+
+span.actions-on-field {
+  display: block;
+  background: #f1f1f1;
+  border-radius: 2px;
+  height: 30px;
+}
+
+span.actions-on-field > i {
+  font-size: 17px;
+  position: absolute;
+  top: 16px;
+  cursor: pointer;
+}
+
+span.actions-on-field i.icon-delete {
+  right: 17px;
+}
+
+span.actions-on-field i.icon-edit {
+  right: 40px;
+}
+
+span.actions-on-field i.icon-arrow-move {
+  left: 16px;
+  cursor: move;
+}
+
+.checklist-d input[type='radio'] {
+  position: absolute;
+  left: 0;
+  margin-left: 0;
+}
+
+#content.module-d {
+  margin-bottom: 10px;
+}
+
+.double.a:before {
+  display: none;
+}
+
+.double.a {
+  border-top: 0;
+}
+
+.fields-view {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+p.no-float {
+  float: none;
+  clear: both;
+}
+
+.module-d .submit:last-child {
+  clear: both;
+}
+
+.input-remove {
+  position: unset;
+}
+
+.list-h img {
+  top: unset;
+}
+
+span.permissions-field {
+  font-size: 14px;
+}
+
+label.checkbox-container.centered-checkbox {
+  width: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+label.left-label {
+  display: inline-block;
+  vertical-align: top;
+}
+
+label.checkbox-container.centered-checkbox .checkmark {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+@media (min-width: 761px) {
+  .custom-fields-group span.permissions-field {
+    display: inline-block;
+  }
+}
+
+@media only screen and (max-width: 47.5em) {
+  .custom-fields-group span.permissions-field {
+    display: block;
+    width: 100%;
+    padding: 0;
+  }
+}
+
+.touchedSubmit ::ng-deep app-time-selector input:not(.valid),
+.touchedSubmit ::ng-deep ng-select > div:not(.ng-has-value) {
+  border: 1px solid #ff8181 !important;
+  border-radius: 4px;
+  outline: none;
+}
+
+ng-select ::ng-deep .ng-value-label {
+  display: none;
+}
+
+app-checkbox-select ::ng-deep .view-perimissions {
+  width: 100%;
+}
+
+app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .text {
+  display: none;
+}
+
+app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .input {
+  height: 40px;
+  line-height: 38px;
+}
+
+app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .select-ffe {
+  top: 43px;
+}
+
+app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .select-ffe li a {
+  line-height: 40px !important;
+  color: #3f3f3f;
+}
+
+app-checkbox-select ::ng-deep .semantic-select-wrapper .semantic-select .select-ffe li label {
+  top: 10px;
+}
+
+.touchedSubmit app-error {
+  display: block;
+}
+
+.form-container {
+  display: flex;
+}
+
+.form-block {
+  flex: 1;
+  margin-bottom: 15px;
+}
+
+.inner-scroll {
+  overflow: auto;
+  max-height: 350px;
+}
+
+.form-block-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.bottom-split {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.form-block.left-margin {
+  margin-left: 15px;
+}
+
+.form-block.right-margin {
+  margin-right: 15px;
+}
+
+p.submit a {
+  float: left;
+}
+
+p.submit button span {
+  text-transform: none !important;
+}
+
+@media only screen and (max-width: 1000px) {
+  .form-container {
+    flex-direction: column;
+  }
+
+  .form-block {
+    width: 100%;
+    margin: 5px !important;
+  }
+
+  .mobile-bottom-split {
+    border-bottom: 1px solid #dbdbdb;
+  }
+}
+
+:host ::ng-deep .ng-select .ng-select-container .ng-value-container .ng-input > input {
+  box-sizing: border-box !important;
+  border: 1px solid #dbdbdb;
+}
+
+:host ::ng-deep .ng-select .ng-select-container .ng-value-container .ng-value-label {
+  position: absolute;
+  display: block;
+  z-index: 2;
+}
+
+:host ::ng-deep .ng-select .ng-select-container .ng-value-container .ng-value {
+  display: flex;
+  align-items: center;
+}
+
+:host ::ng-deep .ng-select.ng-select-single .ng-select-container .ng-value-container .ng-input {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+:host ::ng-deep .ng-select-searchable .ng-input::after {
+  position: absolute;
+  z-index: 1;
+}
+
+.read-only {
+  pointer-events: none;
+}
+
+:host ::ng-deep .semantic-select .ticker:before {
+  font-size: 14px !important;
+}
+
+:host ::ng-deep .ng-option.ng-option-disabled {
+  display: none !important;
+}

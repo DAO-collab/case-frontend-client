@@ -1,0 +1,13 @@
+{
+  "AppSignup": "Aplikasi berhasil dibuat.",
+  "AvatarDeleted": "Avatar telah berhasil dihapus",
+  "AvatarUpdated": "Avatar berhasil diupload.",
+  "CodeSent": "Kode konfirmasi telah dikirim ke perangkat Anda.",
+  "DeviceVerified": "Perangkat telah diverifikasi",
+  "GlobalLogout": "Log out di semua perangkat. Sampai jumpa lagi.",
+  "LocalLogout": "Log out pada perangkat ini. Sampai jumpa lagi.",
+  "PasswordUpdated": "Password berhasil diupdate.",
+  "ProfileUpdated": "Profil telah berhasil diupdate.",
+  "SignupPassword": "Akun berhasil dibuat.",
+  "TicketSent": "Email telah dikirim ke tim pendukung."
+}

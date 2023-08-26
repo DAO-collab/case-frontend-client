@@ -1,0 +1,132 @@
+<app-modal type="form-d" [width]="600" position="fixed" (close)="close()">
+  <h2 style="padding-right: 20px">
+    <span>Create an app</span>
+  </h2>
+
+  <article>
+    <div class="tabs module-d module-d-pop-up clean-tabs">
+      <ul>
+        <li [ngClass]="{ active: tabNumber === 0 }">
+          <a translate>About App</a>
+        </li>
+        <li [ngClass]="{ active: tabNumber === 1 }">
+          <a translate>Billing Info</a>
+        </li>
+      </ul>
+    </div>
+
+    <app-loader [active]="loading"></app-loader>
+
+    <form
+      autocomplete="off"
+      id=" member-settings-form"
+      class="form-h member-settings-form"
+      novalidate
+      *ngIf="!loading && tabNumber === 0"
+      [formGroup]="newAppForm"
+    >
+      <p class="form-h-element notice-a success" app-ca-translate [message]="message" *ngIf="message"></p>
+
+      <p class="form-h-element">
+        <label for="company" translate>Your Company Name</label>
+        <input id="company" name="company" type="text" formControlName="company" maxlength="250" />
+      </p>
+
+      <p
+        class="required"
+        app-ca-translate
+        [message]="'Company Name is required'"
+        *ngIf="!newAppForm.controls['company'].value && newAppForm.controls['company'].touched"
+      ></p>
+      <p
+        class="required"
+        app-ca-translate
+        [message]="'Company Name is invalid. Should not include special character'"
+        *ngIf="
+          newAppForm.controls['company'].invalid &&
+          newAppForm.controls['company'].touched &&
+          newAppForm.controls['company'].value
+        "
+      ></p>
+
+      <p class="form-h-element mb-0">
+        <label for="website" translate>Your Company Website</label>
+        <input
+          id="website"
+          type="text"
+          (keyup)="prependProtocol($event)"
+          [(ngModel)]="value"
+          formControlName="website"
+          maxlength="2000"
+        />
+      </p>
+      <p
+        class="required"
+        app-ca-translate
+        [message]="'Website is required'"
+        *ngIf="!newAppForm.controls['website'].value && newAppForm.controls['website'].touched"
+      ></p>
+
+      <p
+        class="required"
+        app-ca-translate
+        [message]="'Website is invalid. Should be like: www.domain-sample.com'"
+        *ngIf="
+          newAppForm.controls['website'].invalid &&
+          newAppForm.controls['website'].touched &&
+          newAppForm.controls['website'].value
+        "
+      ></p>
+    </form>
+
+    <form action="" *ngIf="tabNumber === 1">
+      <article id="accept-invitation-content">
+        <p class="semantic-select-wrapper" *ngIf="paymentPlans?.length" [formGroup]="planForm">
+          <label for="payment" translate>Payment Plan</label>
+          <ng-select
+            id="payment"
+            [items]="paymentPlans"
+            bindLabel="text"
+            bindValue="id"
+            formControlName="plan"
+          ></ng-select>
+        </p>
+
+        <div>
+          <div class="custom-fields-group a">
+            <div *ngIf="isEdit">
+              <figure>
+                <img alt="Placeholder" width="160" height="160" src="images/card-logo.svg" />
+                <div>
+                  <span>{{ cardHolder }}</span>
+                  <h6>{{ cardBrand }}</h6>
+                  <span>{{ cardExpires }}</span>
+                </div>
+              </figure>
+              <p class="figure edit-wrapper-p"><a (click)="editPaymentClicked()" translate>Edit</a></p>
+            </div>
+
+            <ng-container *ngIf="!isEdit">
+              <form id="payment-form">
+                <div id="payment-element"></div>
+                <div id="error-message"></div>
+              </form>
+            </ng-container>
+          </div>
+        </div>
+      </article>
+    </form>
+
+    <p class="submit">
+      <button class="f-right" [disabled]="tabNumber !== 1 ? newAppForm.invalid : null" (click)="chooseSubmitRequest()">
+        <span *ngIf="!creatingApp" translate>
+          {{ tabNumber !== 1 ? 'Next' : 'Submit' }}
+        </span>
+        <span *ngIf="creatingApp" translate>Saving...</span>
+      </button>
+      <a *ngIf="!creatingApp" class="f-right" (click)="notInterested()" translate>
+        {{ tabNumber !== 1 ? 'Cancel' : 'Finish Later' }}
+      </a>
+    </p>
+  </article>
+</app-modal>

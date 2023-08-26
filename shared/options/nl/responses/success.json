@@ -1,0 +1,13 @@
+{
+  "AppSignup": "App is succesvol gemaakt.",
+  "AvatarDeleted": "Avatar is succesvol verwijderd.",
+  "AvatarUpdated": "Avatar is succesvol ge\u00fcpload.",
+  "CodeSent": "Er is een bevestigingscode naar uw apparaat gestuurd.",
+  "DeviceVerified": "Apparaat is geverifieerd.",
+  "GlobalLogout": "Log uit op alle apparaten. Tot ziens.",
+  "LocalLogout": "Log uit op dit apparaat. Tot ziens.",
+  "PasswordUpdated": "Wachtwoord succesvol bijgewerkt.",
+  "ProfileUpdated": "Profiel is succesvol bijgewerkt.",
+  "SignupPassword": "Account is succesvol gemaakt.",
+  "TicketSent": "Er is een email gestuurd naar het support team."
+}

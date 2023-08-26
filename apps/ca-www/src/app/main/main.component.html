@@ -1,0 +1,38 @@
+<div>
+  <div id="root">
+    <app-navigation
+      [logoTopSrc]="logoTopSrc"
+      [loginUrl]="loginUrl"
+      [signupUrl]="signupUrl"
+      [filteredLanguages]="filteredLanguages$ | async"
+      [popularLanguages]="popularLanguages$ | async"
+      [locale]="locale"
+      (signedUpPopUp)="managedSignUpPopUp()"
+      (scrollPage)="scrollPageToTop()"
+      (languageChange)="onLanguageChange()"
+    ></app-navigation>
+
+    <div autoscroll ca-compatibility-layer>
+      <ng-content></ng-content>
+    </div>
+
+    <app-call-to-action [signupUrl]="signupUrl"></app-call-to-action>
+
+    <app-footer (scrollPage)="scrollPageToTop()"></app-footer>
+  </div>
+</div>
+
+<app-pop-up-form-wrapper [showModal]="uiService.showModal" (signedUpPopUp)="managedSignUpPopUp()">
+  <ng-container *ngIf="(languages$ | async) && (timeZones$ | async) && (!isProduction || preview)">
+    <app-sign-up
+      ([showModal])="(uiService.showModal)"
+      [languages]="languages$ | async"
+      [timeZones]="timeZones$ | async"
+    ></app-sign-up>
+  </ng-container>
+
+  <app-notify-me-modal *ngIf="isProduction && !preview" ([showModal])="(uiService.showModal)"></app-notify-me-modal>
+</app-pop-up-form-wrapper>
+
+<app-pop-in-box></app-pop-in-box>
+<app-server-error-modal *ngIf="showServerErrorModal === true"></app-server-error-modal>

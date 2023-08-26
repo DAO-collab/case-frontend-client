@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Darllenwch yr holl faes achos a nodir yn y r\u00f4l",
+    "write": "Ysgrifennwch holl faes yr achos yn y r\u00f4l"
+  },
+  "convos": {
+    "read_all": "Gweld statws cyfredol convos.",
+    "manage_own": "Ymunwch ac unjoin convo.",
+    "moderate_others": "Dechrau convo, diwedd convo, a dileu cyfranogwr.",
+    "read_all_submissions": "Darllenwch yr holl gonfos a recordiwyd."
+  },
+  "events": {
+    "read_all": "Darllenwch yr holl ddigwyddiadau.",
+    "manage_own": "Creu, diweddaru a dileu eich digwyddiad eich hun.",
+    "moderate_others": "Diweddaru a dileu digwyddiad pobl eraill.",
+    "read_all_submissions": "Darllenwch yr holl gadarnhadau digwyddiad.",
+    "submit_own": "Cadarnhau&#39;r cais am bresenoldeb yn y digwyddiad."
+  },
+  "posts": {
+    "read_all": "Darllen pob post.",
+    "manage_own": "Creu, diweddaru a dileu eich post eich hun.",
+    "moderate_others": "Diweddaru a dileu post gan eraill."
+  },
+  "forms": {
+    "read_all": "Darllen pob ffurflen.",
+    "manage_own": "Creu, diweddaru a dileu eich ffurflen eich hun.",
+    "moderate_others": "Diweddaru a dileu ffurflen eraill.",
+    "read_all_submissions": "Darllenwch bob cyflwyniad ffurflen.",
+    "submit_own": "Cyflwyno cais ffurflen."
+  },
+  "invoices": {
+    "read_all": "Darllenwch yr holl anfonebau.",
+    "manage_own": "Creu, diweddaru a dileu eich anfoneb eich hun.",
+    "moderate_others": "Diweddaru a dileu anfoneb pobl eraill.",
+    "read_all_submissions": "Darllenwch yr holl anfonebau a gyflwynir.",
+    "submit_own": "Cyflwyno cais am anfoneb."
+  },
+  "notes": {
+    "read_all": "Darllenwch yr holl nodiadau.",
+    "manage_own": "Creu, diweddaru a dileu eich nodyn eich hun.",
+    "moderate_others": "Diweddaru a dileu nodyn eraill."
+  },
+  "signs": {
+    "read_all": "Darllenwch yr holl e-arwyddion.",
+    "manage_own": "Creu, diweddaru a dileu e-arwydd eich hun.",
+    "moderate_others": "Diweddaru a dileu e-arwydd pobl eraill.",
+    "read_all_submissions": "Darllenwch bob cyflwyniad e-arwydd.",
+    "submit_own": "Cyflwyno cais maes."
+  },
+  "tasks": {
+    "read_all": "Darllenwch yr holl dasgau.",
+    "manage_own": "Creu, diweddaru a dileu tasg eich hun.",
+    "moderate_others": "Diweddaru a dileu tasg pobl eraill.",
+    "read_all_submissions": "Darllenwch yr holl gyflwyniadau tasg.",
+    "submit_own": "Cyflwyno cais tasg."
+  },
+  "team": { "read_all": "Darllenwch y t\u00eem rhag ofn" }
+}

@@ -1,0 +1,11 @@
+{
+  "post_user": "Tambahkan pengguna",
+  "put_user": "Ubah pengguna",
+  "put_user_status": "Ubah status pengguna",
+  "post_case": "Buat kasus",
+  "put_case": "Ubah kasus",
+  "post_case_permission": "Tetapkan pengguna ke kasus",
+  "put_case_permission": "Ubah pengguna yang ditugaskan ke kasus",
+  "post_case_post": "Buat postingan kasus",
+  "delete_case_permission": "Hapus pengguna yang ditugaskan untuk kasus"
+}

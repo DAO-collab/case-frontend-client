@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "\u0110\u1ecdc t\u1ea5t c\u1ea3 tr\u01b0\u1eddng h\u1ee3p tr\u01b0\u1eddng h\u1ee3p ch\u1ec9 \u0111\u1ecbnh trong vai tr\u00f2",
+    "write": "Vi\u1ebft t\u1ea5t c\u1ea3 tr\u01b0\u1eddng h\u1ee3p ch\u1ec9 \u0111\u1ecbnh trong vai tr\u00f2"
+  },
+  "convos": {
+    "read_all": "Xem tr\u1ea1ng th\u00e1i hi\u1ec7n t\u1ea1i c\u1ee7a chuy\u1ec3n \u0111\u1ed5i.",
+    "manage_own": "Tham gia v\u00e0 h\u1ee7y tham gia cu\u1ed9c tr\u00f2 chuy\u1ec7n.",
+    "moderate_others": "B\u1eaft \u0111\u1ea7u cu\u1ed9c tr\u00f2 chuy\u1ec7n, k\u1ebft th\u00fac cu\u1ed9c tr\u00f2 chuy\u1ec7n v\u00e0 x\u00f3a ng\u01b0\u1eddi tham gia.",
+    "read_all_submissions": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c chuy\u1ec3n \u0111\u1ed5i \u0111\u01b0\u1ee3c ghi l\u1ea1i."
+  },
+  "events": {
+    "read_all": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c s\u1ef1 ki\u1ec7n.",
+    "manage_own": "T\u1ea1o, c\u1eadp nh\u1eadt v\u00e0 x\u00f3a s\u1ef1 ki\u1ec7n c\u1ee7a ri\u00eang m\u00ecnh.",
+    "moderate_others": "C\u1eadp nh\u1eadt v\u00e0 x\u00f3a s\u1ef1 ki\u1ec7n c\u1ee7a ng\u01b0\u1eddi kh\u00e1c.",
+    "read_all_submissions": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c x\u00e1c nh\u1eadn s\u1ef1 ki\u1ec7n.",
+    "submit_own": "X\u00e1c nh\u1eadn y\u00eau c\u1ea7u tham d\u1ef1 s\u1ef1 ki\u1ec7n."
+  },
+  "posts": {
+    "read_all": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c b\u00e0i vi\u1ebft.",
+    "manage_own": "T\u1ea1o, c\u1eadp nh\u1eadt v\u00e0 x\u00f3a b\u00e0i \u0111\u0103ng c\u1ee7a ri\u00eang m\u00ecnh.",
+    "moderate_others": "C\u1eadp nh\u1eadt v\u00e0 x\u00f3a b\u00e0i \u0111\u0103ng c\u1ee7a ng\u01b0\u1eddi kh\u00e1c."
+  },
+  "forms": {
+    "read_all": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c bi\u1ec3u m\u1eabu.",
+    "manage_own": "T\u1ea1o, c\u1eadp nh\u1eadt v\u00e0 x\u00f3a bi\u1ec3u m\u1eabu c\u1ee7a ri\u00eang m\u00ecnh.",
+    "moderate_others": "C\u1eadp nh\u1eadt v\u00e0 x\u00f3a bi\u1ec3u m\u1eabu kh\u00e1c.",
+    "read_all_submissions": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c b\u00e0i g\u1eedi bi\u1ec3u m\u1eabu.",
+    "submit_own": "G\u1eedi y\u00eau c\u1ea7u bi\u1ec3u m\u1eabu."
+  },
+  "invoices": {
+    "read_all": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c h\u00f3a \u0111\u01a1n.",
+    "manage_own": "T\u1ea1o, c\u1eadp nh\u1eadt v\u00e0 x\u00f3a h\u00f3a \u0111\u01a1n c\u1ee7a ri\u00eang m\u00ecnh.",
+    "moderate_others": "C\u1eadp nh\u1eadt v\u00e0 x\u00f3a h\u00f3a \u0111\u01a1n c\u1ee7a ng\u01b0\u1eddi kh\u00e1c.",
+    "read_all_submissions": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c l\u1ea7n g\u1eedi h\u00f3a \u0111\u01a1n.",
+    "submit_own": "G\u1eedi y\u00eau c\u1ea7u h\u00f3a \u0111\u01a1n."
+  },
+  "notes": {
+    "read_all": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c ghi ch\u00fa.",
+    "manage_own": "T\u1ea1o, c\u1eadp nh\u1eadt v\u00e0 x\u00f3a ghi ch\u00fa c\u1ee7a ri\u00eang m\u00ecnh.",
+    "moderate_others": "C\u1eadp nh\u1eadt v\u00e0 x\u00f3a ghi ch\u00fa c\u1ee7a ng\u01b0\u1eddi kh\u00e1c."
+  },
+  "signs": {
+    "read_all": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c d\u1ea5u hi\u1ec7u \u0111i\u1ec7n t\u1eed.",
+    "manage_own": "T\u1ea1o, c\u1eadp nh\u1eadt v\u00e0 x\u00f3a k\u00fd hi\u1ec7u \u0111i\u1ec7n t\u1eed c\u1ee7a ri\u00eang m\u00ecnh.",
+    "moderate_others": "C\u1eadp nh\u1eadt v\u00e0 x\u00f3a d\u1ea5u \u0111i\u1ec7n t\u1eed c\u1ee7a ng\u01b0\u1eddi kh\u00e1c.",
+    "read_all_submissions": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c b\u00e0i \u0111\u0103ng k\u00fd \u0111i\u1ec7n t\u1eed.",
+    "submit_own": "G\u1eedi y\u00eau c\u1ea7u hi\u1ec7n tr\u01b0\u1eddng."
+  },
+  "tasks": {
+    "read_all": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c nhi\u1ec7m v\u1ee5.",
+    "manage_own": "T\u1ea1o, c\u1eadp nh\u1eadt v\u00e0 x\u00f3a nhi\u1ec7m v\u1ee5 ri\u00eang.",
+    "moderate_others": "C\u1eadp nh\u1eadt v\u00e0 x\u00f3a nhi\u1ec7m v\u1ee5 c\u1ee7a ng\u01b0\u1eddi kh\u00e1c.",
+    "read_all_submissions": "\u0110\u1ecdc t\u1ea5t c\u1ea3 c\u00e1c b\u00e0i n\u1ed9p nhi\u1ec7m v\u1ee5.",
+    "submit_own": "G\u1eedi y\u00eau c\u1ea7u nhi\u1ec7m v\u1ee5."
+  },
+  "team": { "read_all": "\u0110\u1ecdc nh\u00f3m trong tr\u01b0\u1eddng h\u1ee3p" }
+}

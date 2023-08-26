@@ -1,0 +1,247 @@
+.action-title h2 {
+  font-size: 2.4em;
+  font-weight: 300;
+  font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.popup-a.form-d {
+  z-index: 99999999;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.notify-section {
+  display: inline-block;
+}
+
+.notify-section label {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.username-field-wrap {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.username-field-wrap > p {
+  flex: 1;
+  margin: 0;
+}
+
+span.searchKey {
+  position: absolute;
+  background: #f5f5f5;
+  display: block;
+  height: 40px;
+  min-width: 77px;
+  z-index: 9;
+  line-height: 40px;
+  text-align: left;
+  padding: 0 12px 0 8px;
+  font-size: 13px;
+  cursor: pointer;
+  text-transform: capitalize;
+  border-right: 1px solid #ddd;
+  border-radius: 4px;
+  margin-left: 1px;
+}
+
+.username-type {
+  background: #f8fafb;
+  display: block;
+  height: 40px;
+  min-width: 84px;
+  line-height: 40px;
+  position: relative;
+  padding: 0 12px 0 8px;
+  font-size: 13px;
+  cursor: pointer;
+  text-transform: capitalize;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-left: 1px;
+}
+
+span.username-type:after {
+  content: '';
+  height: 0;
+  border-style: solid;
+  border-width: 5px 4px 0 4px;
+  border-color: #939393 transparent transparent transparent;
+  position: relative;
+  left: 5px;
+  top: 11px;
+}
+
+.username-type-filters {
+  display: none;
+}
+
+.username-type-filters.on {
+  background: #f8fafb;
+  display: block;
+  position: absolute;
+  min-width: 84px;
+  top: 39px;
+  color: #6e6e6e;
+  border-radius: 4px;
+  left: -1px;
+  font-size: 12px;
+  line-height: 28px;
+  border: 1px solid #dbdbdb;
+  z-index: 999;
+}
+
+#usersDropdown {
+  flex: 1;
+}
+
+#usersDropdown:focus-within ::ng-deep .ng-placeholder {
+  display: none;
+}
+
+/* ::ng-deep #phoneNumberInput input {
+  display: none;
+} */
+
+.add-user-btn {
+  border-top: none !important;
+  padding-top: 10px !important;
+}
+
+.center-align {
+  text-align: center !important;
+}
+
+.submit {
+  border: none !important;
+  padding: unset !important;
+}
+
+.module-d {
+  padding-bottom: 50px !important;
+}
+
+.action-title-button {
+  background: transparent;
+  margin: 0 0 0 20px;
+  float: none;
+  padding: 1px 15px 0;
+  color: #16b0c5;
+}
+
+.action-title-button:hover {
+  color: white;
+  background: #16b0c5;
+}
+
+.icon-plus {
+  transition: none;
+  font-size: 16px;
+  top: 3px;
+  position: relative;
+}
+
+.icon-plus:before {
+  transition: none;
+}
+
+.action-title-h3 {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination_container > span {
+  margin: 20px 0 0;
+  padding: 0 10px 0;
+  min-width: 200px;
+}
+
+.action-remove-button {
+  background: transparent;
+  float: none;
+  padding: 0 7px 0;
+  color: #16b0c5;
+  text-transform: none;
+}
+
+.action-remove-button:hover {
+  color: white;
+  background: #16b0c5;
+}
+
+#sub {
+  border-top: none !important;
+  padding-top: 0px !important;
+}
+
+#sub:before {
+  border-top: none !important;
+}
+.items {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -20px;
+}
+
+.btn-item {
+  text-transform: none;
+  padding-left: 10px !important;
+}
+
+.disable-btn a {
+  background-color: white !important;
+  border: 1px solid #dbdbdb;
+  color: #9ba1a3;
+}
+
+.drop-a.dropform .drop {
+  margin-top: 0 !important;
+}
+
+
+ngx-intl-tel-input.inter-input {
+  width: 63px;
+  border: 1px solid #ddd;
+}
+ngx-intl-tel-input.inter-input  ::ng-deep input.form-control {
+  display: none;
+}
+
+@media screen and (max-width: 760px) {
+  .items {
+    margin-top: 20px !important;
+  }
+}
+
+@media screen and (max-width: 47.5em) {
+  .items {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .btn-item a {
+    font-size: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .action-title-button {
+    width: 70px;
+    padding: 1px 5px 0;
+    margin: 0 0 0 10px;
+  }
+}

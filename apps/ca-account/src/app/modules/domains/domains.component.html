@@ -1,0 +1,92 @@
+<nav id="sub">
+  <div class="items-button">
+    <p class="{{ domainStatus === 'active' ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn' }}">
+      <a (click)="loadDomains('active')">{{ 'Active' | translate }}</a>
+    </p>
+    <p class="{{ domainStatus === 'pending' ? 'link-a a btn-item  active-btn' : 'link-a a btn-item disabled-btn' }}">
+      <a (click)="loadDomains('pending')">
+        {{ 'Pending' | translate }}
+        <span class="{{ domainStatus === 'pending' ? 'badge active-badge' : 'badge disabled-badge' }}">
+          {{ pendingCount }}
+        </span>
+      </a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <div class="table-wrapper">
+    <app-loader [active]="isLoading && !domains?.length"></app-loader>
+
+    <div *ngIf="!isLoading && !domains?.length" class="text-center">
+      {{ 'No domains found' | translate }}
+    </div>
+
+    <table class="wrapper" *ngIf="!isLoading && domains?.length">
+      <tr class="table-head">
+        <td class="company-name">{{ 'Domain' | translate }}</td>
+        <td class="type">{{ 'Txt Value' | translate }}</td>
+        <td class="type" *ngIf="domainStatus === 'active'">{{ 'Enterprise Host ID' | translate }}</td>
+        <td class="system-active" width="70px" *ngIf="domainStatus === 'active'">{{ 'Sso' | translate }}</td>
+        <td class="action">{{ 'Action' | translate }}</td>
+      </tr>
+
+      <tr *ngFor="let domain of domains">
+        <td class="domain-name">{{ domain?.domain }}</td>
+        <td class="txt-value">
+          <div>
+            <span>{{ domain?.txt }}</span>
+            <img class="copy-icon" src="images/copy-icon.svg" alt="" (click)="copyTxt(domain?.txt)" />
+          </div>
+        </td>
+        <td class="enterprise-host-id" *ngIf="domainStatus === 'active'">{{ domain?.enterprise_host_id }}</td>
+        <td class="system-active" *ngIf="domainStatus === 'active'">
+          <!-- <material-slide-toggle
+            class="material-switch-with-checkmark"
+            [ngClass]="{ 'material-switch-disabled': !domain?.sso?.metadata_base64_encoded }"
+            [disabled]="!domain?.sso?.metadata_base64_encoded"
+            [title]="!domain?.sso?.metadata_base64_encoded ? 'Metadata is required to enable sso' : ''"
+            [name]="'slideToggle'"
+            [checked]="domain?.sso?.active"
+            [aria-label]="'Toggle On/Off'"
+            [aria-labelledby]="'Some Other Text'"
+            (change)="toggleSsoEnabled(domain.domain, $event)"
+          ></material-slide-toggle> -->
+          <ca-toggle
+            class="material-switch-with-checkmark"
+            [ngClass]="{ 'material-switch-disabled': !domain?.sso?.metadata_base64_encoded }"
+            [disabled]="!domain?.sso?.metadata_base64_encoded"
+            [title]="!domain?.sso?.metadata_base64_encoded ? 'Metadata is required to enable sso' : ''"
+            [name]="'slideToggle'"
+            [checked]="domain?.sso?.active"
+            (toggle)="toggleSsoEnabled(domain.domain, $any($event))"
+          ></ca-toggle>
+        </td>
+        <td class="actions">
+          <span class="drop-a">
+            <span class="value"> --</span>
+            <span class="drop">
+              <a
+                class="drop-item-option"
+                *ngIf="domainStatus === 'active'"
+                [routerLink]="['edit-domain', domain?.txt]"
+                translate
+                >Edit</a
+              >
+
+              <a class="drop-item-option" (click)="deleteDomain(domain.domain)" translate>Delete</a>
+
+              <a
+                class="drop-item-option"
+                *ngIf="domainStatus === 'active'"
+                (click)="deleteSso(domain?.domain)"
+                translate
+                >Reset</a
+              >
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+</article>

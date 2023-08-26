@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Baca semua medan kes nyatakan dalam peranan",
+    "write": "Tulis semua medan kes nyatakan dalam peranan"
+  },
+  "convos": {
+    "read_all": "Lihat status semasa konvo.",
+    "manage_own": "Sertai dan nyahsambung konvo.",
+    "moderate_others": "Mulakan konvo, tamatkan konvo dan alih keluar peserta.",
+    "read_all_submissions": "Baca semua konvo yang dirakam."
+  },
+  "events": {
+    "read_all": "Baca semua acara.",
+    "manage_own": "Cipta, kemas kini dan padam acara sendiri.",
+    "moderate_others": "Kemas kini dan padamkan acara orang lain.",
+    "read_all_submissions": "Baca semua pengesahan acara.",
+    "submit_own": "Sahkan permintaan kehadiran acara."
+  },
+  "posts": {
+    "read_all": "Baca semua siaran.",
+    "manage_own": "Buat, kemas kini dan padam siaran sendiri.",
+    "moderate_others": "Kemas kini dan padamkan siaran orang lain."
+  },
+  "forms": {
+    "read_all": "Baca semua borang.",
+    "manage_own": "Cipta, kemas kini dan padam borang sendiri.",
+    "moderate_others": "Kemas kini dan padamkan borang orang lain.",
+    "read_all_submissions": "Baca semua penyerahan borang.",
+    "submit_own": "Hantar permintaan borang."
+  },
+  "invoices": {
+    "read_all": "Baca semua invois.",
+    "manage_own": "Cipta, kemas kini dan padamkan invois sendiri.",
+    "moderate_others": "Kemas kini dan padamkan invois orang lain.",
+    "read_all_submissions": "Baca semua penyerahan invois.",
+    "submit_own": "Hantar permintaan invois."
+  },
+  "notes": {
+    "read_all": "Baca semua nota.",
+    "manage_own": "Buat, kemas kini dan padam nota sendiri.",
+    "moderate_others": "Kemas kini dan padamkan nota orang lain."
+  },
+  "signs": {
+    "read_all": "Baca semua tanda elektronik.",
+    "manage_own": "Cipta, kemas kini dan padam tanda elektronik sendiri.",
+    "moderate_others": "Kemas kini dan padam tanda elektronik orang lain.",
+    "read_all_submissions": "Baca semua penyerahan tanda elektronik.",
+    "submit_own": "Hantar permintaan medan."
+  },
+  "tasks": {
+    "read_all": "Baca semua tugasan.",
+    "manage_own": "Cipta, kemas kini dan padam tugasan sendiri.",
+    "moderate_others": "Kemas kini dan padamkan tugasan orang lain.",
+    "read_all_submissions": "Baca semua penyerahan tugas.",
+    "submit_own": "Hantar permintaan tugas."
+  },
+  "team": { "read_all": "Baca pasukan sekiranya berlaku" }
+}

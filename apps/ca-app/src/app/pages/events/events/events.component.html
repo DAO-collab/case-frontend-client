@@ -1,0 +1,353 @@
+<article *ngIf="permissions && !permissions['read_all'] && !loading">
+  <p class="notice-a" *ngIf="permissions && !loading && !permissions['read_all']" translate>
+    You don't have permissions to view this page.
+  </p>
+  <div *ngIf="loading" class="loading-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<div class="module-d" *ngIf="!permissions && loading">
+  <div>
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</div>
+
+<div *ngIf="permissions && permissions['read_all']" class="events-wrap">
+  <div class="module-d tabs custom-tabs-text-color">
+    <ul class="tabs-ul">
+      <li [ngClass]="{ active: showPendingEvents }">
+        <a class="desktop-show" (click)="loadPendingEvents()" translate>Your Upcoming Events</a>
+        <a class="mobile-show" (click)="loadPendingEvents()" translate>Upcoming</a>
+      </li>
+      <li [ngClass]="{ active: showConfirmedEvents }">
+        <a class="desktop-show" (click)="loadConfirmedEvents()" translate>Your Past Events</a>
+        <a class="mobile-show" (click)="loadConfirmedEvents()" translate>Past</a>
+      </li>
+      <li class="mobile-show-last-tab" [ngClass]="{ active: showAllEvents }" *ngIf="!permissions['moderate_others']">
+        <a class="desktop-show" (click)="loadMyEvents()" translate>Your Events</a>
+        <a class="mobile-show" (click)="loadMyEvents()" translate>All</a>
+      </li>
+      <li class="mobile-show-last-tab" [ngClass]="{ active: showAllEvents }" *ngIf="permissions['moderate_others']">
+        <a class="desktop-show" (click)="loadAllEvents()" translate>All Events</a>
+        <a class="mobile-show" (click)="loadAllEvents()" translate>All</a>
+      </li>
+    </ul>
+
+    <div *ngIf="showPendingEvents || showConfirmedEvents || showAllEvents || showMyEvents">
+      <div class="news-d" *ngIf="!loading">
+        <!--        <p class="link-a a created-check" *ngIf="showAllEvents && showCreatedByMe">-->
+        <!--          <label class="checkbox-container centered-checkbox" translate-->
+        <!--            >Created by me-->
+        <!--            <input type="checkbox" name="myEvent" [checked]="myEventChecked" (change)="loadingComboEvents()" />-->
+        <!--            <span class="checkmark"></span>-->
+        <!--          </label>-->
+        <!--        </p>-->
+        <div *ngFor="let eventsGroup of upcomingEvents; let index = index">
+          <article 
+            class="event-wrapper" 
+            *ngFor="let event of eventsGroup.dayEvents; let ind = index"
+            appEnterTheViewportNotifier
+            (visibilityChange)="loadEventAnswers($event, event)"
+          >
+            <figure class="event-location">
+              <img
+                alt="Event Location"
+                class="event-map-location"
+                *ngIf="
+                  event.location.location_type === 'suggested_address' ||
+                    event.location.location_type === 'custom_address';
+                  else noLocationMap
+                "
+                (click)="redirectGoogleMap(event.location.address)"
+                [src]="formatMapLink(event)"
+              />
+
+              <ng-template #noLocationMap>
+                <img alt="Event Location" src="../../../../images/location.svg" />
+              </ng-template>
+
+              <div
+                class="centered"
+                *ngIf="
+                  event.location.location_type === 'video_conference' ||
+                  event.location.location_type === 'no_location' ||
+                  event.location.location_type === 'caseactive_convo'
+                "
+              >
+                <p class="day">{{ event.start_date | date : 'EE' | uppercase }}</p>
+                <p class="date">{{ event.start_date | date : 'dd' }}</p>
+              </div>
+            </figure>
+            <div class="event-data">
+              <div class="event-header">
+                <h3 class="events-title">{{ event.name }}</h3>
+                <div class="event-settings" (click)="toggleMenuClass($event)">
+                  <div class="ins drop-items-container">
+                    <!--                    <div class="m-item" (click)="openModal(false, event, 'View Event')" translate>View</div>-->
+                    <div class="m-item" (click)="openEventViewModal(event)" translate>
+                      <img class="drop-item-option-img" src="images/item-view.svg" alt="" />
+                      View
+                    </div>
+                    <div
+                      class="m-item"
+                      *ngIf="
+                        event.location.address &&
+                        (event.location.location_type === 'suggested_address' ||
+                          event.location.location_type === 'custom_address')
+                      "
+                    >
+                      <a
+                        class="m-item-link"
+                        target="_blank"
+                        [href]="formatLocationLink(event.location.address)"
+                        translate
+                      >
+                        <img class="drop-item-option-img" src="images/item-location.svg" alt="" />
+                        Directions
+                      </a>
+                    </div>
+                    <ng-container *ngIf="currentCaseStatus$ | async">
+                      <div
+                        class="m-item"
+                        *ngIf="
+                          (showAllEvents && event['createdOwn'] && permissions['manage_own']) ||
+                          (showAllEvents && !event['createdOwn'] && permissions['moderate_others'])
+                        "
+                        (click)="openModal(true, event, 'Edit Event')"
+                        translate
+                      >
+                        <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                        Edit settings
+                      </div>
+                      <div
+                        appConfirmationPopUp
+                        #target
+                        class="m-item"
+                        *ngIf="
+                          (showAllEvents && event['createdOwn'] && permissions['manage_own']) ||
+                          (showAllEvents && !event['createdOwn'] && permissions['moderate_others'])
+                        "
+                        [message]="'You are about to delete event. Are you sure?'"
+                        title="Delete Event"
+                        (yes)="deleteEvent(eventsGroup, ind, upcomingEvents, index)"
+                        translate
+                      >
+                        <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                        Delete event
+                      </div>
+                    </ng-container>
+                  </div>
+                </div>
+              </div>
+
+              <div class="event-info">
+                <div class="event-view-details-item">
+                  <img class="event-view-details-img" src="images/event-preview-date.svg" alt="" />
+                  {{ event.start_date | date : 'EEE, d MMMM y, h:mm a' }}
+                  <span *ngIf="event.rrule_set || event.rrule"> (repetitive)</span>
+                </div>
+                <div
+                  class="event-view-details-item"
+                  *ngIf="event.location.address && event.location.location_type !== 'no_location'"
+                >
+                  <img
+                    class="event-view-details-img event-icon-location"
+                    src="images/event-preview-location.svg"
+                    alt=""
+                  />
+                  <strong>
+                    <span
+                      class="cursor-pointer"
+                      *ngIf="
+                        event.location.location_type !== 'custom_address' ||
+                          event.location.location_type !== 'custom_address';
+                        else showAddress
+                      "
+                      (click)="openLink(event.location.address)"
+                    >
+                      <span *ngIf="event.location.location_type === 'caseactive_convo'" translate
+                        >CaseActive Convo
+                      </span>
+                      <span *ngIf="event.location.location_type === 'video_conference'" translate
+                        >Video Conference
+                      </span>
+                    </span>
+
+                    <ng-template #showAddress>
+                      <span class="cursor-pointer" (click)="redirectGoogleMap(event.location.address)">
+                        {{ event.location.address }}
+                      </span>
+                    </ng-template>
+                  </strong>
+                </div>
+                <div class="event-view-details-item">
+                  <img class="event-view-details-img" src="images/event-preview-created-by.svg" alt="" />
+                  {{ 'Event by' | translate }}
+                  <strong>{{
+                    teamData[event.user_id]?.given_name + ' ' + teamData[event.user_id]?.family_name
+                  }}</strong>
+                </div>
+              </div>
+
+              <div class="event-attending-panel">
+                <div
+                  class="event-attending attending-custom-color"
+                  (click)="toggleMenuClass($event)"
+                  *ngIf="event.participants_ids && event.participants_ids.indexOf(userId) > -1 && showPendingEvents"
+                  translate
+                >
+                  Attending?
+                  <span class="attending-tick-custom-color">
+                    <img src="../../../../images/arrow-right.svg" />
+                  </span>
+                  <div class="ins event-attending-item-custom-color-div">
+                    <div
+                      class="event-attending-item event-attending-item-custom-color"
+                      [ngClass]="{ selected: event.userAnswered === 'yes' }"
+                      (click)="permissions['submit_own'] ? attendEvent('yes', event, $event) : null"
+                    >
+                      <span translate>Yes</span>
+                      <div class="radio-button"><div></div></div>
+                    </div>
+                    <div
+                      class="event-attending-item event-attending-item-custom-color"
+                      [ngClass]="{ selected: event.userAnswered === 'no' }"
+                      (click)="permissions['submit_own'] ? attendEvent('no', event, $event) : false"
+                    >
+                      <span translate>No</span>
+                      <div class="radio-button"><div></div></div>
+                    </div>
+                    <div
+                      class="event-attending-item event-attending-item-custom-color"
+                      [ngClass]="{ selected: event.userAnswered === 'maybe' }"
+                      (click)="
+                        permissions['submit_own'] ? attendEvent('maybe', event, $event) : false
+                      "
+                    >
+                      <span translate>Maybe</span>
+                      <div class="radio-button"><div></div></div>
+                    </div>
+                  </div>
+                </div>
+                <footer *ngIf="event.attending">
+                  <h4 translate *ngIf="event.attending.length">Attending</h4>
+                  <ul class="gallery-a" *ngIf="event.attending.length">
+                    <li *ngFor="let eventResponse of event.attending">
+                      <a>
+                        <img
+                          width="30"
+                          height="30"
+                          [src]="utilsService.userAvatarUrl(eventResponse.user_id, 50)"
+                          [title]="teamData[eventResponse.user_id]?.given_name + ' ' + teamData[eventResponse.user_id]?.family_name"
+                        />
+                      </a>
+                    </li>
+                  </ul>
+                  <h4 translate *ngIf="event.maybeattending.length">Maybe</h4>
+                  <ul class="gallery-a" *ngIf="event.maybeattending.length">
+                    <li *ngFor="let eventResponse of event.maybeattending">
+                      <a>
+                        <img
+                          width="30"
+                          height="30"
+                          alt=""
+                          [src]="utilsService.userAvatarUrl(eventResponse.user_id, 50)"
+                          [title]="teamData[eventResponse.user_id]?.given_name + ' ' + teamData[eventResponse.user_id]?.family_name"
+                        />
+                      </a>
+                    </li>
+                  </ul>
+                  <h4 translate *ngIf="event.notattending.length">Not Attending</h4>
+                  <ul class="gallery-a" *ngIf="event.notattending.length">
+                    <li *ngFor="let eventResponse of event.notattending">
+                      <a>
+                        <img
+                          width="30"
+                          height="30"
+                          [src]="utilsService.userAvatarUrl(eventResponse.user_id, 50)"
+                          [title]="teamData[eventResponse.user_id]?.given_name + ' ' + teamData[eventResponse.user_id]?.family_name"
+                        />
+                      </a>
+                    </li>
+                  </ul>
+                </footer>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <ca-load-more *ngIf="showLoadMore" [isLoading]="newElementsSectionIsLoading" (loadMorePressed)="loadMoreEvents()"></ca-load-more>
+      </div>
+      <div *ngIf="upcomingEvents.length === 0 && !loading">
+        <p class="text-center" translate>No Events</p>
+      </div>
+      <div *ngIf="loading">
+        <p class="text-center" translate>
+          <span class="loader loader-bubbles">
+            <span></span>
+          </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="popup-a a form-d shown" [ngClass]="{ shown: showModal }" *ngIf="permissions && permissions['read_all']">
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2>{{ modalTitle }}</h2>
+
+      <app-event-create
+        [caseId]="caseId"
+        [eventId]="eventId"
+        (afterSave)="closeModal(); loadAllEvents()"
+      ></app-event-create>
+
+      <p>
+        <a (click)="closeModal()"></a>
+      </p>
+      <a class="close" (click)="closeModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeModal()">Close</a>
+  </div>
+</div>
+
+<div
+  class="popup-a a form-d shown"
+  [ngClass]="{ shown: isEventViewOpened }"
+  *ngIf="permissions && permissions['read_all']"
+>
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2>{{ 'Event details' | translate }}</h2>
+
+      <app-event-view
+        *ngIf="isEventViewOpened"
+        [event]="selectedEventForView"
+        [teamData]="teamData"
+        [permissions]="permissions"
+        [subscribers]="subscribers"
+        [caseId]="caseId"
+        [userId]="userId"
+        [shouldViewEventAttendingOpen]="shouldViewEventAttendingOpen"
+        (closeEventPreview)="closeEventViewModal()"
+        (attendingEvent)="updateEvents($event)"
+      ></app-event-view>
+
+      <p>
+        <a (click)="closeModal()"></a>
+      </p>
+      <a class="close" (click)="closeEventViewModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeEventViewModal()">Close</a>
+  </div>
+</div>

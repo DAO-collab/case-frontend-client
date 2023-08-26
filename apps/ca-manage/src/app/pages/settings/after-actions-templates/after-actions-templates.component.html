@@ -1,0 +1,236 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/after-actions-users']">{{ 'Assign Users' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['../../settings/after-actions-templates']">{{ 'Add Templates' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../../settings/after-actions-cases']">{{ 'Idle Cases' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+  <div class="action-title">
+    <h3 class="action-title-h3">
+      {{ 'When a user is assigned to a case, auto add templates' | translate }}
+    </h3>
+  </div>
+  <div class="table-wrapper">
+    <table class="table-b a">
+      <tr>
+        <th translate>Role</th>
+        <th translate="">Templates</th>
+        <th translate>Case Type</th>
+        <th translate>Operation Order</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngIf="this.templateList.length === 0">
+        <td class="text-center" colspan="5">No Template</td>
+      </tr>
+      <ng-container *ngIf="this.templateList.length > 0 && !loading">
+        <ng-container *ngFor="let template of templateList; let index = index">
+          <tr *ngFor="let templateValue of template.value">
+            <td class="left-align">{{ rolesById[templateValue.role_id] }}</td>
+            <td>
+              <span *ngIf="templateValue.templates.posts"
+                >Add Posts: {{ postsById[templateValue.templates.posts[0]] }}</span
+              ><br *ngIf="templateValue.templates.posts" />
+              <span *ngIf="templateValue.templates.forms"
+                >Assign Forms: {{ formsById[templateValue.templates.forms[0]] }}</span
+              ><br *ngIf="templateValue.templates.forms" />
+              <span *ngIf="templateValue.templates.signs"
+                >Assign Signs: {{ signsById[templateValue.templates.signs[0]] }}</span
+              ><br *ngIf="templateValue.templates.tasks" />
+              <span *ngIf="templateValue.templates.tasks"
+                >Assign Tasks: {{ tasksById[templateValue.templates.tasks[0]] }}</span
+              >
+            </td>
+            <td>{{ template.case_type }}</td>
+            <td>{{ templateValue.order.join(' , ') }}</td>
+            <td>
+              <span class="drop-a dropform">
+                <span class="value">--</span>
+                <span class="drop">
+                  <a
+                    appConfirmationPopUp
+                    (yes)="runRemove(template.case_type)"
+                    title="Delete Template"
+                    [message]="'You are about to delete template. Are you sure?'"
+                    translate
+                  >
+                    <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                    Remove
+                  </a>
+                </span>
+              </span>
+            </td>
+          </tr>
+        </ng-container>
+      </ng-container>
+    </table>
+  </div>
+</article>
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="shownAddModal"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="assignUserForm"
+  (submit)="createActions()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Add Templates to Assign Users</h2>
+      <p>
+        <label for="RoleId" class="required" translate>Role</label>
+        <ng-select
+          #rolesDropdownField
+          id="RoleId"
+          bindLabel="text"
+          bindValue="id"
+          name="role-id-select"
+          placeholder="{{ 'No role selected' | translate }}"
+          formControlName="role_id"
+          [items]="rolesSelectList"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.get('role_id')?.value"
+          [regularHtmlElementName]="rolesDropdownField"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+      <p>
+        <label for="PostId">Add Posts</label>
+        <ng-select
+          #postsDropdownField
+          id="PostId"
+          bindLabel="text"
+          bindValue="id"
+          name="post-id-select"
+          placeholder="{{ 'No post selected' | translate }}"
+          formControlName="post_id"
+          [items]="feedPostsSelectList"
+          [multiple]="true"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['post_id'].value"
+          [regularHtmlElementName]="postsDropdownField"
+          [validationErrors]="validationErrors"
+        ></app-error>
+      </p>
+      <p>
+        <label for="FormId">Add Forms</label>
+        <ng-select
+          #formsDropdownField
+          id="FormId"
+          bindLabel="text"
+          bindValue="id"
+          name="form-id-select"
+          placeholder="{{ 'No form selected' | translate }}"
+          formControlName="form_id"
+          [items]="formsSelectList"
+          [multiple]="true"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['form_id'].value"
+          [regularHtmlElementName]="formsDropdownField"
+          [validationErrors]="validationErrors"
+        ></app-error>
+      </p>
+      <p>
+        <label for="SignId">Add E-signs</label>
+        <ng-select
+          #signsDropdownField
+          id="SignId"
+          bindLabel="text"
+          bindValue="id"
+          name="sign-id-select"
+          placeholder="{{ 'No e-sign selected' | translate }}"
+          formControlName="sign_id"
+          [items]="signsSelectList"
+          [multiple]="true"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['sign_id'].value"
+          [regularHtmlElementName]="signsDropdownField"
+          [validationErrors]="validationErrors"
+        ></app-error>
+      </p>
+      <p>
+        <label for="TaskId">Add Tasks</label>
+        <ng-select
+          #tasksDropdownField
+          id="TaskId"
+          bindLabel="text"
+          bindValue="id"
+          name="task-id-select"
+          placeholder="{{ 'No task selected' | translate }}"
+          formControlName="task_id"
+          [items]="tasksSelectList"
+          [multiple]="true"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['task_id'].value"
+          [regularHtmlElementName]="tasksDropdownField"
+          [validationErrors]="validationErrors"
+        ></app-error>
+      </p>
+      <p>
+        <label for="CaseTypeId" class="required">Case Type</label>
+        <ng-select
+          #caseTypeDropdownField
+          id="CaseTypeId"
+          bindLabel="text"
+          bindValue="id"
+          name="case-type-id-select"
+          placeholder="{{ 'No case type selected' | translate }}"
+          formControlName="case_type"
+          [items]="caseTypeList"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['case_type'].value"
+          [regularHtmlElementName]="caseTypeDropdownField"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+      <p>
+        <label for="OperationOrderId" class="required">Operation Order</label>
+        <ng-select
+          #operationOrderDropdownField
+          id="OperationOrderId"
+          bindLabel="text"
+          bindValue="id"
+          name="operation-order-id-select"
+          placeholder="{{ 'No operation order selected' | translate }}"
+          formControlName="operation_order"
+          [items]="operationOrderList"
+          [multiple]="true"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['operation_order'].value"
+          [regularHtmlElementName]="operationOrderDropdownField"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+      <p class="submit">
+        <button type="submit" class="f-right" translate>Save</button>
+      </p>
+      <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+  </div>
+</form>

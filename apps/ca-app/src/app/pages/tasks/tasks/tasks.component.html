@@ -1,0 +1,274 @@
+<div class="module-d" *ngIf="!permissions || loading">
+  <div>
+    <p class="text-center">
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</div>
+
+<form *ngIf="permissions && permissions['read_all']" method="post" class="popup-a a form-d shown"
+  [ngClass]="{ shown: showModal }">
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2 translate>{{ addTaskTitle }}</h2>
+
+      <app-create-task (afterChange)="closeModal()" (afterSave)="loadTasks($any('self'))"></app-create-task>
+
+      <p>
+        <a (click)="closeModal()"></a>
+      </p>
+      <a class="close" (click)="closeModal()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeModal()" translate>Close</a>
+  </div>
+</form>
+
+<div class="signs-wrap" *ngIf="permissions && permissions['read_all'] && !loading">
+  <div class="module-d tabs custom-tabs-text-color">
+    <ul class="tabs-ul">
+      <li [ngClass]="{ active: currentTab === taskTabs.Uncompleted }">
+        <a class="desktop-show" (click)="loadTasks(taskTabs.Uncompleted)" translate>Your Uncompleted Tasks</a>
+        <a class="mobile-show" (click)="loadTasks(taskTabs.Uncompleted)" translate>Uncompleted</a>
+      </li>
+      <li [ngClass]="{ active: currentTab === taskTabs.Completed }">
+        <a class="desktop-show" (click)="loadTasks(taskTabs.Completed)" translate>Your Completed Tasks</a>
+        <a class="mobile-show" (click)="loadTasks(taskTabs.Completed)" translate>Completed</a>
+      </li>
+      <li class="mobile-show-last-tab" *ngIf="!permissions['moderate_others']" [ngClass]="{ active: currentTab === taskTabs.Self }">
+        <a (click)="loadTasks(taskTabs.Self)" translate>Your Tasks</a>
+      </li>
+      <li class="mobile-show-last-tab" *ngIf="permissions['moderate_others']"
+        [ngClass]="{ active: currentTab === taskTabs.Self }">
+        <a (click)="loadTasks(taskTabs.Self)" translate>All Tasks</a>
+        <!-- <a class="mobile-show" (click)="loadTasks(taskTabs.Self)" translate>All</a> -->
+      </li>
+    </ul>
+    <div class="news-d" *ngIf="tasksList.length">
+      <div>
+        <article>
+          <div class="table-wrapper">
+            <table class="table-b a" #tasksTable>
+              <tr>
+                <th></th>
+                <th translate>Task</th>
+                <th translate>Deadline</th>
+                <th *ngIf="currentTab !== taskTabs.Self" translate>Status</th>
+                <th translate>Assignees</th>
+                <th translate>Action</th>
+              </tr>
+              <tbody class="table-row-wrapper" cdkDropList (cdkDropListDropped)="dropSubtask($any($event))"
+                [cdkDropListDisabled]="dragDisabled" [cdkDropListData]="tasksList">
+                <ng-container *ngFor="let task of tasksList; let taskIndex = index">
+                  <tr class="table-row drag-row" (click)="setExpandedTaskIndex(taskIndex, task.task_id)">
+                    <td>
+                      <span class="task-cnt">{{ task.subtasks_ct }}</span>
+                    </td>
+                    <td class="task-name">{{ task.name }}</td>
+                    <td>{{ task.due_date | date : 'longDate' }}</td>
+
+                    <td *ngIf="currentTab !== taskTabs.Self">
+                      <span
+                        class="td-status"
+                        [ngSwitch]="task.status"
+                      >
+                        <span *ngSwitchCase="taskStatuses.ToDo" class="color-gray" translate>To Do</span>
+                        <span *ngSwitchCase="taskStatuses.Inprogress" class="color-light-blue" translate>In Progress</span>
+                        <span *ngSwitchCase="taskStatuses.Done" class="color-green" translate>Done</span>
+                      </span>
+                    </td>
+
+                    <td>
+                      <img class="task-user-avatar" *ngFor="let user_id of task.participants_ids"
+                        [src]="getConvoUserAvatar(user_id)" alt="" />
+                    </td>
+                    <td width="130">
+                      <span class="drop-a">
+                        <span class="value"> --</span>
+                        <span class="drop" *ngIf="currentCaseStatus$ | async">
+                          <a *ngIf="permissions['manage_own'] && currentTab === taskTabs.Self" (click)="openModal(task)"
+                            class="drop-item-option">
+                            <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                            Edit Settings
+                          </a>
+                          <a *ngIf="
+                              !!(permissions['manage_own'] || permissions['moderate_others']) &&
+                              currentTab === taskTabs.Self
+                            " appConfirmationPopUp (yes)="deleteTask(task)"
+                            [message]="'You are about to delete task. Are you sure?'" translate>
+                            <i class="icon-trash"></i> Delete task</a>
+                            <ng-container *ngIf="currentTab !== taskTabs.Self">
+                              <ng-container *ngFor="let status of taskStatusesForDropdown">
+                                <a (click)="updateTaskStatus(status, task)" class="drop-item-option">
+                                  <i [class]="'icon-'+status.icon"></i>
+                                  {{ status.text }}
+                                </a>
+                              </ng-container>
+                            </ng-container>
+                        </span>
+                      </span>
+                    </td>
+                  </tr>
+
+                  <ng-container *ngIf="expandedTaskIndex === taskIndex">
+                    <ng-container *ngIf="subtasks; else isLoading">
+                      <tr role="row" *ngFor="let subtask of subtasks; let ind = index" class="table-row subtask-row"
+                        (mousedown)="dragStart(task)" cdkDrag [cdkDragData]="subtask">
+                        <td (mouseenter)="dragDisabled = false">
+                          <div [hidden]="
+                            (currentEditingTask && currentEditingSubtaskIndex !== -1) || currentTab !== taskTabs.Self
+                          " class="cdk-handle" cdkDragHandle>
+                            <svg width="20px" fill="currentColor" viewBox="0 0 24 24">
+                              <path
+                                d="M10 9h4V6h3l-5-5-5 5h3v3zm-1 1H6V7l-5 5 5 5v-3h3v-4zm14 2l-5-5v3h-3v4h3v3l5-5zm-9 3h-4v3H7l5 5 5-5h-3v-3z">
+                              </path>
+                              <path d="M0 0h24v24H0z" fill="none"></path>
+                            </svg>
+                          </div>
+                        </td>
+                        <td #subTask
+                          [attr.editable]="currentEditingTask === task.task_id && ind === currentEditingSubtaskIndex">
+                          <ng-container *ngIf="subTask.getAttribute('editable') === 'true'; else subtaskTitle">
+                            <input type="text" [value]="subtask.name"
+                              (blur)="onSubtaskTitleChange(subtask, $event, task.task_id); unsetTdEditableAttr($event)" />
+                          </ng-container>
+                          <ng-template #subtaskTitle>
+                            {{ subtask.name }}
+                          </ng-template>
+                        </td>
+
+                        <td>
+                          <ng-container *ngIf="subTask.getAttribute('editable') === 'true'; else selectedDate">
+                            <input mwlFlatpickr dateFormat="m/d/Y" type="text" id="date" class="form-control"
+                              [static]="true" autocomplete="date" [value]="formatDateForDatePicker(subtask.due_date)"
+                              (flatpickrChange)="updateSubtaskDate($event, subtask)">
+                          </ng-container>
+
+                          <ng-template #selectedDate>
+                            <ng-container *ngIf="subtask?.due_date">
+                              {{showLocalDate(subtask.due_date) | date : 'longDate'}}
+                            </ng-container>
+                          </ng-template>
+                        </td>
+
+                        <td *ngIf="currentTab !== taskTabs.Self">
+                          <span
+                            class="td-status"
+                            [ngSwitch]="subtask.status"
+                          >
+                            <span *ngSwitchCase="taskStatuses.ToDo" class="color-gray" translate>To Do</span>
+                            <span *ngSwitchCase="taskStatuses.Inprogress" class="color-light-blue" translate>In Progress</span>
+                            <span *ngSwitchCase="taskStatuses.Done" class="color-green" translate>Done</span>
+                          </span>
+                        </td>
+
+                        <td class="participants" #participant (click)="onShowParticipants(); setEditableAttr($event)">
+                          <ng-container *ngIf="(subtask?.participants_ids)?.length; else noUsers">
+                            <img class="task-user-avatar" *ngFor="let user_id of subtask?.participants_ids"
+                              [src]="getConvoUserAvatar(user_id)" alt="" />
+                          </ng-container>
+
+                          <ng-template #noUsers><span class="pointer-events-none">Unassigned</span></ng-template>
+
+                          <app-checkbox-select
+                            *ngIf="shownParticipants && participant.getAttribute('editable') === 'true'" #participants
+                            [outputValue]="subtask?.participants_ids" [items]="initialParticipants || []"
+                            [hideLable]="true" [enabled]="true" [isCustomActiveApplied]="true" [withImage]="true"
+                            [permissionsInitialListStr]="'All'"
+                            (valueChange)="setParticipant(task, subtask, $event)"></app-checkbox-select>
+                          <img *ngIf="
+                            !currentEditingTask && currentEditingSubtaskIndex === -1 && currentTab === taskTabs.Self
+                          " (click)="setEditableSubtask(task, ind); dragDisabled = true"
+                            class="drop-item-option-img edit" src="images/tasks-edit-icon.svg" alt="" />
+                          <a *ngIf="currentEditingTask === task.task_id && ind === currentEditingSubtaskIndex"
+                            (mousedown)="resetEditableRow()" class="close close-subtask">Close</a>
+                        </td>
+
+                        <td width="130" class="subtask-actions">
+                          <span class="drop-a">
+                            <span class="value" *ngIf="currentTab === taskTabs.Self"> --</span>
+                            <span class="value" *ngIf="currentTab !== taskTabs.Self && subtask.participants_ids?.includes(userData?.user_id!)"> --</span>
+                            <span class="drop" *ngIf="currentCaseStatus$ | async">
+                              <a *ngIf="
+                                !!(permissions['manage_own'] || permissions['moderate_others']) &&
+                                currentTab === taskTabs.Self
+                              " appConfirmationPopUp (yes)="deleteSubtask(task, subtask.subtask_id, ind)"
+                                [message]="'You are about to delete task. Are you sure?'" translate>
+                                <i class="icon-trash"></i> Delete task</a>
+
+                              <ng-container *ngIf="currentTab !== taskTabs.Self && subtask.participants_ids?.includes(userData?.user_id!)">
+                                <ng-container *ngFor="let status of taskStatusesForDropdown">
+                                  <a (click)="updateSubtaskStatus(status, subtask)" class="drop-item-option">
+                                    <i [class]="'icon-'+status.icon"></i>
+                                    {{ status.text }}
+                                  </a>
+                                </ng-container>
+                              </ng-container>
+                            </span>
+                          </span>
+                        </td>
+                      </tr>
+                      <ng-container *ngIf="currentTab === taskTabs.Self">
+                        <tr class="table-row subtask-table-row" *ngIf="showCreateSubtaskSection">
+                          <td></td>
+                          <td>
+                            <input type="text" placeholder="Task Name" (focusout)="inputFocusOut($event, task)">
+                          </td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                        </tr>
+
+                        <tr class="new-subtask">
+                          <td></td>
+                          <td class="new-subtask-label custom-text-color" (click)="expandCreateSubtaskSection()">+ New
+                            Subtask</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                        </tr>
+                      </ng-container>
+                    </ng-container>
+                  </ng-container>
+                </ng-container>
+              </tbody>
+            </table>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <div *ngIf="tasksList.length === 0 && !loading">
+      <p *ngIf="!permissions['moderate_others'] && currentTab === taskTabs.Self; else defaultEmptyForms" class="text-center">{{ 'You currently have no tasks of your own' | translate }}</p>
+        <ng-template #defaultEmptyForms>
+          <p class="text-center" translate>No Tasks</p>
+        </ng-template>
+    </div>
+
+    <div *ngIf="loading">
+      <p class="text-center">
+        <span class="loader loader-bubbles">
+          <span></span>
+        </span>
+      </p>
+    </div>
+  </div>
+</div>
+
+<ng-template #isLoading>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <p class="text-center">
+        <span class="loader loader-bubbles">
+          <span></span>
+        </span>
+      </p>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</ng-template>

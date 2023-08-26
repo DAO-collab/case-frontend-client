@@ -1,0 +1,262 @@
+#preview {
+  position: relative;
+}
+
+.red-circle {
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  background: red;
+  margin-right: 8px;
+}
+
+.recording-label {
+  display: flex;
+  align-items: center;
+  color: #000000;
+  font-size: 17px;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+}
+
+.convo-expanded-menu > .convo-expanded-menu-option:hover {
+  background-color: #e3e3e3;
+}
+
+:host ::ng-deep .custom-svg {
+  margin: 0;
+}
+
+.convo-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 2;
+  padding-top: 10px;
+}
+
+.convo-button {
+  background: red;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  margin-right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.convo-option-button {
+  margin: 0;
+}
+
+.default-view {
+  height: 500px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.convo-expanded-menu {
+  position: absolute;
+  background: white;
+  margin-left: 200px;
+  border: 1px solid #15afc5;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.convo-expanded-menu-option {
+  cursor: pointer;
+  padding: 5px 12px;
+}
+
+.preview-audio {
+  min-height: 400px;
+}
+
+.convo-button-enabled-background {
+  background: #15afc5;
+}
+
+.convo-avatar-icon {
+  width: 180px;
+  border-radius: 50%;
+}
+
+.local-participant-name,
+:host ::ng-deep .convo-participant-name {
+  position: absolute;
+  font-size: 12px;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 2px;
+  font-weight: normal;
+  line-height: initial;
+  background: rgb(0 0 0 / 20%);
+  border-radius: 4px;
+  left: 8px;
+  bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+:host ::ng-deep .convo-participant-div {
+  position: relative;
+  display: flex;
+  background: #363636;
+  border-radius: 4px;
+}
+
+::ng-deep .convo-paricipant-three-dots-img {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 3;
+  cursor: pointer;
+  padding: 16px 22px;
+  border-radius: 50%;
+  background: rgb(0 0 0 / 20%);
+  display: none;
+}
+
+:host ::ng-deep .convo-participant-div:hover .convo-paricipant-three-dots-img {
+  display: inline-block;
+}
+
+:host ::ng-deep .local-participant-div {
+  background: #363636;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+:host ::ng-deep .convo-participants {
+  width: 100%;
+  height: 100%;
+  top: initial !important;
+  max-width: initial !important;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  gap: 8px;
+  justify-content: flex-start;
+}
+
+:host ::ng-deep .convo-participants-row-elements-1 > .convo-participant-div,
+:host ::ng-deep .convo-participants-row-elements-1 > .local-participant-div {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+:host ::ng-deep :not(.galleryView) > .convo-participants-row-elements-1 {
+  margin-bottom: 0;
+}
+
+:host ::ng-deep .convo-participants-row-elements-2 > .convo-participant-div,
+:host ::ng-deep .convo-participants-row-elements-2 > .local-participant-div {
+  width: calc(50% - 4px) !important;
+  height: calc(100% - 8px) !important;
+}
+
+:host ::ng-deep .convo-participants-row-elements-3-4 > .convo-participant-div,
+:host ::ng-deep .convo-participants-row-elements-3-4 > .local-participant-div {
+  width: calc(50% - 4px) !important;
+  height: calc(50% - 8px) !important;
+}
+
+:host ::ng-deep .convo-participants-row-elements-5-8 > .convo-participant-div,
+:host ::ng-deep .convo-participants-row-elements--5-8 > .local-participant-div {
+  width: calc(25% - 8px) !important;
+  height: calc(33% - 8px) !important;
+}
+
+:host ::ng-deep .convo-participants-row-elements-9-16 > .convo-participant-div,
+:host ::ng-deep .convo-participants-row-elements-9-16 > .local-participant-div {
+  width: calc(25% - 8px) !important;
+  height: calc(25% - 8px) !important;
+}
+
+:host ::ng-deep .micro-disabled-image {
+  margin-right: 5px;
+}
+
+:host ::ng-deep .convo-participant-avatar {
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 50%;
+  width: 180px;
+}
+
+:host ::ng-deep .remove-participant-from-call {
+  position: absolute;
+  right: -65px;
+  top: 20px;
+  z-index: 5;
+  cursor: pointer;
+  border: 1px solid #15afc5;
+  padding: 14px 16px;
+  border-radius: 8px;
+  background-color: white;
+  font-size: 14px;
+}
+
+@media only screen and (max-width: 735px) {
+  .red-circle {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: red;
+    margin-right: 8px;
+  }
+
+  .current-user {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .convo-expanded-menu {
+    margin-left: 200px;
+  }
+
+  .convo-expanded-menu-option {
+    padding: 2px 10px;
+  }
+
+  .convo-button {
+    margin-right: 13px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .red-circle {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: red;
+    margin-right: 4px;
+  }
+
+  .current-user {
+    margin-top: 20px;
+  }
+
+  .convo-expanded-menu {
+    margin-left: 160px;
+  }
+
+  .convo-expanded-menu-option {
+    padding: 2px 3px;
+  }
+
+  .convo-button {
+    width: 40px;
+    height: 40px;
+  }
+}

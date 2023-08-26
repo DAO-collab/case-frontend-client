@@ -1,0 +1,10 @@
+<article id="content" class="tabs fullscreen-page module-d">
+  <div
+    class="preview-container"
+    [ngClass]="{
+      'pointer-events-none': router.url.includes('/e-sign-view/') || router.url.includes('e-signs/e-sign-builder')
+    }"
+  >
+    <mat-formio [form]="{components}" (submit)="handleChange($event)" (change)="handleChange($event)"></mat-formio>
+  </div>
+</article>

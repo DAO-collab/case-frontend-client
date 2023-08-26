@@ -1,0 +1,20 @@
+<form class="popup-a a form-d shown">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 style="padding-right: 20px">
+        <span>{{ broadcast?.title }} </span>
+      </h2>
+
+      <article id="accept-invitation-content">
+        <div>
+          <div class="custom-fields-group a">
+            <p class="broadcast-message" translate>{{ broadcast?.message }}</p>
+          </div>
+        </div>
+      </article>
+      <a class="close" (click)="closeModal()" translate>Close</a>
+    </div>
+
+    <a class="close" (click)="closeModal()" translate>Close</a>
+  </div>
+</form>

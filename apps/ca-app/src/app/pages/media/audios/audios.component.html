@@ -1,0 +1,39 @@
+<article *ngIf="permissions && !permissions['read_all'] && !loading">
+  <p class="notice-a" *ngIf="permissions && !loading && !permissions['read_all']" translate>
+    You don't have permissions to view this page.
+  </p>
+  <div *ngIf="loading" class="loading-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<article *ngIf="noFiles">
+  <div class="module-d no-media">
+    <div class="text-center">
+      <p translate>No Audios yet.</p>
+    </div>
+  </div>
+</article>
+
+<article *ngIf="!permissions['read_all'] && loading">
+  <div class="module-d">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<div class="news-e" *ngIf="loadingFailed">
+  <p class="notice-a" translate>
+    Loading failed.
+    <a (click)="ngOnInit()" translate>retry</a>
+  </p>
+</div>
+
+<app-media-view [mediaFilter]="'audios'" (isLoaded)="loaded($event)" [delete]="false"></app-media-view>

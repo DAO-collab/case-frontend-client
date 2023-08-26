@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Funda yonke inkambu yecala ucacise indima", "write": "Bhala yonke indawo yecala ucacise indima" },
+  "convos": {
+    "read_all": "Buka isimo samanje sezingxoxo.",
+    "manage_own": "Joyina futhi uyeke ukuhlanganisa.",
+    "moderate_others": "Qala ingxoxo, qeda ingxoxo, bese ususa umhlanganyeli.",
+    "read_all_submissions": "Funda zonke izingxoxo ezirekhodiwe."
+  },
+  "events": {
+    "read_all": "Funda yonke imicimbi.",
+    "manage_own": "Dala, buyekeza futhi ususe umcimbi wakho.",
+    "moderate_others": "Buyekeza futhi ususe umcimbi womunye.",
+    "read_all_submissions": "Funda zonke iziqinisekiso zomcimbi.",
+    "submit_own": "Qinisekisa isicelo sokuhambela umcimbi."
+  },
+  "posts": {
+    "read_all": "Funda konke okuthunyelwe.",
+    "manage_own": "Dala, buyekeza futhi ususe okwakho okuthunyelwe.",
+    "moderate_others": "Buyekeza futhi ususe okuthunyelwe kwabanye."
+  },
+  "forms": {
+    "read_all": "Funda wonke amafomu.",
+    "manage_own": "Dala, buyekeza futhi ususe ifomu lakho.",
+    "moderate_others": "Buyekeza futhi ususe ifomu lomunye.",
+    "read_all_submissions": "Funda konke ukuthunyelwa kwamafomu.",
+    "submit_own": "Faka isicelo sefomu."
+  },
+  "invoices": {
+    "read_all": "Funda wonke ama-invoyisi.",
+    "manage_own": "Dala, buyekeza futhi susa i-invoyisi yakho.",
+    "moderate_others": "Buyekeza futhi ususe i-invoyisi yomunye.",
+    "read_all_submissions": "Funda konke ukuthunyelwa kwama-invoyisi.",
+    "submit_own": "Thumela isicelo se-invoyisi."
+  },
+  "notes": {
+    "read_all": "Funda wonke amanothi.",
+    "manage_own": "Dala, buyekeza futhi ususe inothi lakho.",
+    "moderate_others": "Buyekeza futhi ususe inothi lomunye."
+  },
+  "signs": {
+    "read_all": "Funda wonke ama-e-signs.",
+    "manage_own": "Dala, buyekeza futhi ususe i-e-sign yakho.",
+    "moderate_others": "Buyekeza futhi ususe i-e-sign yabanye.",
+    "read_all_submissions": "Funda konke okuthunyelwe kwe-e-sign.",
+    "submit_own": "Thumela isicelo senkambu."
+  },
+  "tasks": {
+    "read_all": "Funda yonke imisebenzi.",
+    "manage_own": "Dala, buyekeza futhi ususe umsebenzi wakho.",
+    "moderate_others": "Buyekeza futhi ususe umsebenzi womunye.",
+    "read_all_submissions": "Funda konke okuthunyelwe komsebenzi.",
+    "submit_own": "Thumela isicelo somsebenzi."
+  },
+  "team": { "read_all": "Funda ithimba uma kwenzeka" }
+}

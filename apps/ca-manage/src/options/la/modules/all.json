@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Lege omnia causa agri specificare in partes",
+    "write": "Scribere omnem causam agri specificare in partes"
+  },
+  "convos": {
+    "read_all": "View current statum convos.",
+    "manage_own": "Coniunge et junge convo.",
+    "moderate_others": "Committitur convo, finis convo, et particeps aufero.",
+    "read_all_submissions": "Legunt omnes memoriae convos."
+  },
+  "events": {
+    "read_all": "Lege certe.",
+    "manage_own": "Creare, renovare et proprium eventum delere.",
+    "moderate_others": "Renovare et delere eventum alterius.",
+    "read_all_submissions": "Lege omnia rei confirmationes.",
+    "submit_own": "Confirmare eventum assistentiae petitionem."
+  },
+  "posts": {
+    "read_all": "Lege omnia stipes.",
+    "manage_own": "Creare, renovare et proprium locum delere.",
+    "moderate_others": "Renovare ac delere aliorum stipes."
+  },
+  "forms": {
+    "read_all": "Lege omnes formas.",
+    "manage_own": "Creare, renovare et propriam formam delere.",
+    "moderate_others": "Renovare ac delere alterius formam.",
+    "read_all_submissions": "Lege omnia penatibus.",
+    "submit_own": "Forma submittere petitionem."
+  },
+  "invoices": {
+    "read_all": "Lege mercium omnium.",
+    "manage_own": "Creare, renovare et cautionem propriam delere.",
+    "moderate_others": "Alias renovare ac delere cautionem.",
+    "read_all_submissions": "Legere cautionem omnibus suis animadversionibus.",
+    "submit_own": "Submittere cautionem petitionem."
+  },
+  "notes": {
+    "read_all": "Lege omnes notas.",
+    "manage_own": "Crea, renovatio et nota propria delere.",
+    "moderate_others": "Renovare et notam alteram delere."
+  },
+  "signs": {
+    "read_all": "Lege omnia signa.",
+    "manage_own": "Creare, renovare et proprium e-signum delere.",
+    "moderate_others": "Renovare et delere alterius e-signum.",
+    "read_all_submissions": "Read all e-sign submissions.",
+    "submit_own": "Submittere agri petitionem."
+  },
+  "tasks": {
+    "read_all": "Lege omnia opera.",
+    "manage_own": "Creare, renovare et proprium negotium delere.",
+    "moderate_others": "Renovare et delere negotium alterius.",
+    "read_all_submissions": "Read omne negotium penatibus.",
+    "submit_own": "Submittere negotium petitio."
+  },
+  "team": { "read_all": "Legere quadrigis si" }
+}

@@ -1,0 +1,88 @@
+.invoice-wrap {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.drop-item-option-img {
+  margin-right: 2px;
+}
+
+.tabs-ul {
+  display: flex;
+}
+
+.popup-a.a .box-inner {
+  border: none;
+}
+
+.box-inner.large-box {
+  padding: 20px 29px 0;
+}
+
+@media only screen and (max-width: 761px) {
+  .mobile-show-last-tab {
+    border-left: 1px solid #dbdbdb;
+  }
+}
+
+.status-icon ::ng-deep .custom-svg {
+  margin-bottom: 0;
+  color: inherit;
+}
+
+.status span {
+  font-weight: bold;
+  font-family: Proxima, Arial, Helvetica, sans-serif;
+}
+
+.status-open {
+  color: #15afc5;
+}
+
+.status-paid {
+  color: #2e7d32;
+}
+
+.status-void {
+  color: #9ba1a3;
+}
+
+.status-processing {
+  color: #ed6c02;
+}
+
+.status-uncollectible {
+  color: #d32f2f;
+}
+
+.drop-a {
+  max-width: 100%;
+}
+
+.drop-a > .drop {
+  width: 100%;
+  margin-top: 5px;
+  left: 0;
+  padding: 9px 4px;
+  border: 1px solid rgb(22, 176, 197);
+  box-shadow: 0 0 5px 0 rgb(22, 176, 197);
+  border-radius: 5px;
+}
+
+.drop-a > .drop::after {
+  content: '';
+  position: absolute;
+  top: -6px;
+  width: 100%;
+  height: 6px;
+  background: transparent;
+}
+
+.drop-a > .drop:before {
+  display: none;
+}
+
+.drop-a > .drop a i {
+  left: 0;
+  margin-right: 2px;
+}

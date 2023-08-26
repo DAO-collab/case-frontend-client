@@ -1,0 +1,81 @@
+<article *ngIf="permissions && !loading && permissions['read']">
+  <div class="module-d info-block">
+    <p class="notice-a" *ngIf="statusChanged" translate>
+      Close - Status changed
+      <a class="close" translate (click)="statusChanged = false">Close</a>
+    </p>
+    <div class="double e">
+      <div>
+        <p class="scheme-c">
+          <img src="images\illustrations\case_about.svg" alt="Placeholder" width="115" />
+          <span *ngIf="case_write_fields['status'] && case_read_fields['status']" translate>Change Status</span>
+          <span *ngIf="!case_write_fields['status'] && case_read_fields['status']" translate>Status</span>
+        </p>
+        <p class="link-a a" *ngIf="case_read_fields['status']">
+          <span class="drop-a drop-status" *ngIf="case_read_fields['status']">
+            <span class="value">
+              <span *ngIf="caseData.case_status === 0" translate>Closed</span>
+              <span *ngIf="caseData.case_status === 1" translate>Opened</span>
+            </span>
+            <span class="drop" *ngIf="case_write_fields['status']">
+              <a (click)="permissions['write'] ? changeStatus(1) : false" translate>Opened</a>
+              <a (click)="permissions['write'] ? changeStatus(0) : false" translate>Closed</a>
+            </span>
+          </span>
+        </p>
+      </div>
+      <ul class="list-k">
+        <li *ngIf="case_read_fields['status']"><span translate>Case Number</span>{{ caseId }}</li>
+        <li *ngIf="case_read_fields['tag_id']"><span translate>Tag Id</span> {{ caseData.tag_id }}</li>
+        <li *ngIf="case_read_fields['date_opened'] && caseData?.date_opened">
+          <span translate>Date Opened</span> {{ caseData.date_opened | date : 'mediumDate' }}
+        </li>
+        <li *ngIf="case_read_fields['case_id'] && currentApp?.host_id">
+          <span translate>Host Id</span> {{ currentApp?.host_id }}
+        </li>
+        <li *ngIf="case_read_fields['case_id'] && currentApp?.user_id">
+          <span translate>User Id</span> {{ currentApp?.user_id }}
+        </li>
+        <li *ngIf="case_read_fields['case_id'] && caseData?.case_id">
+          <span translate>Case Id</span>
+          <p class="truncate" style="padding-right: 25px">{{ caseData.case_id.split('-').pop() }}</p>
+          <ca-copy
+            class="copy-container"
+            (click)="copyText()"
+          ></ca-copy>
+          <!-- <div class="copy-container">
+            <div class="popup-copy-icon-wrapper">
+              <img
+                class="signup-copy-icon copy-svg-icon"
+                src="images/copy-icon-inactive.svg"
+                alt=""
+                (click)="copyText()"
+              />
+            </div>
+          </div> -->
+        </li>
+      </ul>
+    </div>
+  </div>
+</article>
+
+<article *ngIf="loading || (!permissions && !noPermissionToReadCase)">
+  <div class="module-d info-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>
+
+<article *ngIf="(permissions && !permissions['read'] && !loading) || noPermissionToReadCase">
+  <p class="notice-a" translate>You don't have permissions to view this page.</p>
+  <div *ngIf="loading" class="loading-block">
+    <p class="text-center" translate>
+      <span class="loader loader-bubbles">
+        <span></span>
+      </span>
+    </p>
+  </div>
+</article>

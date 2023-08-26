@@ -1,0 +1,46 @@
+.options-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 77px 81px;
+}
+
+.option {
+  border: 2px solid #d8d8d8;
+  border-radius: 16px;
+  color: #4b5153;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 35px 16px;
+  width: 211px;
+  height: 150px;
+  cursor: pointer;
+}
+
+.option > span {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.option:first-child {
+  margin-right: 16px;
+}
+
+.option:hover {
+  border-color: #15afc5;
+  background: #f7f9fb;
+}
+
+.icon-image {
+  margin-bottom: 16px;
+}
+
+@media only screen and (max-width: 761px) {
+  .options-wrapper {
+    margin: 77px 40px;
+  }
+}

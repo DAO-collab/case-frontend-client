@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Pamene positi yawonjezedwa ku Feed",
+  "app_confirmation_events": "Chochitika rsvp chikufunsidwa kwa ine",
+  "app_submission_events": "Chochitika changa rsvp chayankhidwa",
+  "app_requested_forms": "Kutumiza fomu ndikufunsidwa kwa ine",
+  "app_submission_forms": "Fomu yanga imaperekedwa ndi winawake",
+  "app_requested_signs": "Kutumiza siginecha ndikufunsidwa kwa ine",
+  "app_submission_signs": "Chikalata changa chasainidwa ndi winawake",
+  "app_requested_tasks": "Ntchito yapemphedwa kwa ine",
+  "app_submission_tasks": "Ntchito yanga imatsirizidwa ndi winawake",
+  "app_requested_invoices": "Kutumiza ma invoice ndikupempha kwa ine",
+  "app_submission_invoices": "Invoice yanga imalipiridwa ndi winawake"
+}

@@ -1,0 +1,90 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">Kako ustvariti ali spremeniti primere z orodjem za uvoz</h1>
+<p>Ta članek prikazuje skrbnikom, kako ustvariti ali spremeniti obstoječe primere z orodjem za uvoz.</p>
+<h2 id="opening-the-import-tool">Odpiranje orodja za uvoz</h2>
+<ol style="list-style-type: decimal">
+  <li>Prijavite se v skrbniški račun.</li>
+  <li>Poiščite aplikacijo na strani z aplikacijami in kliknite gumb SKRBNIK.</li>
+  <li>Na skrbniški plošči kliknite zavihek Integracija in nato UVOZI v podmeniju.</li>
+  <li>Kliknite gumb NOVO. Pogovorno okno Dodaj uvoze se prikaže v novem zavihku brskalnika.</li>
+</ol>
+<div class="figure"><img src="/images/import-3.png" alt="img" /></div>
+<h2 id="creating-cases">Ustvarjanje primerov</h2>
+<p>Ko se odpre pogovorno okno Dodajanje uvozov:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite polje Vrsta in izberite možnost (glejte spodaj). Prikaže se povezava.</li>
+  <li>Kliknite povezavo Prenesi vzorec. Datoteka CSV se prenese v vašo napravo.</li>
+</ol>
+<p>Nato odprite datoteko in dodajte primere.</p>
+<h2 id="type">Vrsta</h2>
+<p>
+  Ko kliknete polje <strong>Vrsta</strong> , se prikaže spustni meni. Izberite eno od dveh možnosti za množični uvoz
+  primerov.
+</p>
+<ul>
+  <li>
+    <strong>Opomba</strong> V spustnem meniju je veliko možnosti, vendar sta samo dve povezani z upravljanjem primera.
+    Vsaka možnost ima drugačno vzorčno datoteko CSV.
+  </li>
+</ul>
+<h3 id="add-cases">Dodajte primere</h3>
+<ul>
+  <li>Izberite to možnost za preprosto množično nalaganje primerov.</li>
+  <li>Kliknite povezavo Prenesi vzorec, da odprete datoteko CSV z naslovi stolpcev za vrsto uvoza Ustvari primere.</li>
+</ul>
+<h3 id="modify-cases">Spremenite primere</h3>
+<ul>
+  <li>Izberite to možnost za posodobitev trenutnih primerov.</li>
+  <li>Kliknite povezavo Prenesi vzorec, da odprete datoteko CSV z naslovi stolpcev za vrsto uvoza Spremeni primere.</li>
+</ul>
+<h2 id="uploading-the-file">Nalaganje datoteke</h2>
+<p>Datoteko lahko naložite takoj ali pa se pozneje vrnete v pogovorno okno Dodajanje uvozov in dokončate te korake.</p>
+<ol style="list-style-type: decimal">
+  <li>Odprite pogovorno okno Dodajanje uvozov.</li>
+  <li>Vnesite edinstveno ime za datoteko CSV.</li>
+  <li>Kliknite ikono plus (+), da naložite datoteko iz svoje naprave.</li>
+  <li>Kliknite polje Vrsta in izberite možnost. (glej zgoraj)</li>
+  <li>Kliknite SHRANI.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-case-2.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="formatting">Oblikovanje</h2>
+<p>
+  To so obvezna polja in prve zahteve. Kliknite
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">tukaj</a> za pregled
+  podrobnosti oblikovanja.
+</p>
+<p><strong>tag_id (ali case_ID)</strong> enoličen identifikator (uporabite alfanumerične znake, dovoljeni so vezaji)</p>
+<p><strong>case_status</strong> 0 = zaprto 1 = aktivno</p>
+<p><strong>datum_odprtja</strong> mesec/dan/leto mm/dd/llll</p>
+<p><strong>o</strong> edinstvenem opisu primera (uporabite alfanumerične znake, dovoljeni so vezaji)</p>
+<div class="figure"><img src="/images/create-case-8.png" alt="img" /></div>
+<h2 id="processing">Obravnavati</h2>
+<p>
+  Odvisno od števila zapisov v datoteki in obremenitve sistema lahko platforma za obdelavo uvoza potrebuje nekaj minut.
+</p>
+<div class="figure"><img src="/images/create-case-9.png" alt="img" /></div>
+<p>
+  Ko je uvoz končan, platforma prilagodi zapise primerov (tj. doda ali spremeni) na skrbniški nadzorni plošči primerov.
+</p>
+<h2 id="failure">Neuspeh</h2>
+<p>
+  Če operacija uvoza ne uspe, platforma vrne sporočilo Neuspešno. V večini primerov je vzrok napake formatiranje
+  podatkov.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Če želite videti vzrok napake:</p>
+<ol style="list-style-type: decimal">
+  <li>Kliknite Pogled pod naslovom DEJANJE.</li>
+  <li>Na naslednji strani premaknite miško na ikono Neuspelo. Opis orodja prikaže napako.</li>
+  <li>Pojdite na datoteko CVS ter prilagodite in popravite napako.</li>
+  <li>Ponovno naložite datoteko.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

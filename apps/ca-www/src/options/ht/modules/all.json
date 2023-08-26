@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Li tout jaden ka presize nan w\u00f2l", "write": "Ekri tout jaden ka presize nan w\u00f2l" },
+  "convos": {
+    "read_all": "Gade sitiyasyon akty\u00e8l konvos.",
+    "manage_own": "Join and unjoin convo.",
+    "moderate_others": "K\u00f2manse konv\u00e8sasyon, fini konv\u00e8sasyon, epi retire patisipan yo.",
+    "read_all_submissions": "Li tout konvo ki anrejistre yo."
+  },
+  "events": {
+    "read_all": "Li tout ev\u00e8nman yo.",
+    "manage_own": "Kreye, mete ajou ak efase pw\u00f2p ev\u00e8nman an.",
+    "moderate_others": "Mete ajou epi efase ev\u00e8nman l\u00f2t moun.",
+    "read_all_submissions": "Li tout konfimasyon ev\u00e8nman yo.",
+    "submit_own": "Konfime demann prezans ev\u00e8nman an."
+  },
+  "posts": {
+    "read_all": "Li tout p\u00f2s yo.",
+    "manage_own": "Kreye, mete ajou ak efase pw\u00f2p post.",
+    "moderate_others": "Mete ajou epi efase p\u00f2s l\u00f2t la."
+  },
+  "forms": {
+    "read_all": "Li tout f\u00f2m yo.",
+    "manage_own": "Kreye, mete ajou ak efase pw\u00f2p f\u00f2m.",
+    "moderate_others": "Mete ajou epi efase f\u00f2m l\u00f2t moun.",
+    "read_all_submissions": "Li tout f\u00f2m soum\u00e8t.",
+    "submit_own": "Soum\u00e8t demann f\u00f2m."
+  },
+  "invoices": {
+    "read_all": "Li tout fakti yo.",
+    "manage_own": "Kreye, mete ajou ak efase pw\u00f2p fakti.",
+    "moderate_others": "Mete ajou epi efase fakti l\u00f2t moun.",
+    "read_all_submissions": "Li tout soum\u00e8t fakti yo.",
+    "submit_own": "Soum\u00e8t demann fakti."
+  },
+  "notes": {
+    "read_all": "Li tout n\u00f2t yo.",
+    "manage_own": "Kreye, mete ajou ak efase pw\u00f2p n\u00f2t.",
+    "moderate_others": "Mete ajou epi efase n\u00f2t l\u00f2t moun."
+  },
+  "signs": {
+    "read_all": "Li tout siy elektwonik yo.",
+    "manage_own": "Kreye, mete ajou ak efase pw\u00f2p e-siy.",
+    "moderate_others": "Mete ajou epi efase siy elektwonik l\u00f2t moun.",
+    "read_all_submissions": "Li tout soum\u00e8t e-siy.",
+    "submit_own": "Soum\u00e8t demann jaden."
+  },
+  "tasks": {
+    "read_all": "Li tout travay yo.",
+    "manage_own": "Kreye, mete ajou ak efase pw\u00f2p travay.",
+    "moderate_others": "Mete ajou ak efase travay l\u00f2t moun.",
+    "read_all_submissions": "Li tout soum\u00e8t travay yo.",
+    "submit_own": "Soum\u00e8t demann travay."
+  },
+  "team": { "read_all": "Li ekip nan ka" }
+}

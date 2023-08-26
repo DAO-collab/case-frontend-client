@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Leer todo el campo del caso especificar en el rol",
+    "write": "Escribir todo el campo de caso especificar en el rol"
+  },
+  "convos": {
+    "read_all": "Ver el estado actual de convos.",
+    "manage_own": "Unirse y dejar de unirse a convo.",
+    "moderate_others": "Iniciar convo, finalizar convo y eliminar participante.",
+    "read_all_submissions": "Lea todas las conversaciones grabadas."
+  },
+  "events": {
+    "read_all": "Leer todos los eventos.",
+    "manage_own": "Crear, actualizar y eliminar eventos propios.",
+    "moderate_others": "Actualizar y eliminar el evento de otros.",
+    "read_all_submissions": "Lea todas las confirmaciones de eventos.",
+    "submit_own": "Confirmar solicitud de asistencia al evento."
+  },
+  "posts": {
+    "read_all": "Lea todas las publicaciones.",
+    "manage_own": "Crear, actualizar y eliminar publicaciones propias.",
+    "moderate_others": "Actualizar y eliminar la publicaci\u00f3n de otros."
+  },
+  "forms": {
+    "read_all": "Leer todos los formularios.",
+    "manage_own": "Crear, actualizar y eliminar formulario propio.",
+    "moderate_others": "Actualizar y eliminar el formulario de otros.",
+    "read_all_submissions": "Lea todos los env\u00edos de formularios.",
+    "submit_own": "Enviar solicitud de formulario."
+  },
+  "invoices": {
+    "read_all": "Leer todas las facturas.",
+    "manage_own": "Crear, actualizar y eliminar factura propia.",
+    "moderate_others": "Actualizar y eliminar la factura de otros.",
+    "read_all_submissions": "Leer todos los env\u00edos de facturas.",
+    "submit_own": "Enviar solicitud de factura."
+  },
+  "notes": {
+    "read_all": "Lea todas las notas.",
+    "manage_own": "Crear, actualizar y eliminar notas propias.",
+    "moderate_others": "Actualizar y eliminar la nota de otros."
+  },
+  "signs": {
+    "read_all": "Lea todas las firmas electr\u00f3nicas.",
+    "manage_own": "Crear, actualizar y eliminar firma electr\u00f3nica propia.",
+    "moderate_others": "Actualizar y eliminar la firma electr\u00f3nica de otros.",
+    "read_all_submissions": "Lea todos los env\u00edos de firmas electr\u00f3nicas.",
+    "submit_own": "Enviar solicitud de campo."
+  },
+  "tasks": {
+    "read_all": "Leer todas las tareas.",
+    "manage_own": "Crear, actualizar y eliminar tareas propias.",
+    "moderate_others": "Actualizar y eliminar la tarea de otros.",
+    "read_all_submissions": "Leer todos los env\u00edos de tareas.",
+    "submit_own": "Enviar solicitud de tarea."
+  },
+  "team": { "read_all": "Leer equipo por si acaso" }
+}

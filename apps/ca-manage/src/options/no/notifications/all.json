@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "N\u00e5r et innlegg legges til i feeden",
+  "app_confirmation_events": "Event rsvp er forespurt fra meg",
+  "app_submission_events": "Arrangementsbesvarelsen min er besvart",
+  "app_requested_forms": "Skjemainnlevering ber meg om",
+  "app_submission_forms": "Skjemaet mitt er sendt inn av noen",
+  "app_requested_signs": "Signaturinnsending bes om fra meg",
+  "app_submission_signs": "Dokumentet mitt er signert av noen",
+  "app_requested_tasks": "Oppgave er forespurt fra meg",
+  "app_submission_tasks": "Min oppgave er fullf\u00f8rt av noen",
+  "app_requested_invoices": "Faktura sendes inn fra meg",
+  "app_submission_invoices": "Min faktura er betalt av noen"
+}

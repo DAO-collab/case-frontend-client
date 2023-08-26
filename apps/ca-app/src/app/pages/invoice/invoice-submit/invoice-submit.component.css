@@ -1,0 +1,269 @@
+h2 {
+  font-size: 24px;
+  margin: auto !important;
+}
+.invoice-header {
+  margin-left: -20px !important;
+  margin-right: -20px !important;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 0 !important;
+}
+
+.invoice-header:after {
+  display: none;
+}
+
+.invoice-header:before {
+  display: none;
+}
+
+.invoice-header-title {
+  display: flex;
+  width: 100%;
+}
+
+.invoice-header-title img {
+  margin: 0 11px;
+}
+
+.invoice-block {
+  width: 56%;
+  max-width: 850px;
+  margin: 20px 0 !important;
+  padding: 27px 32px 21px;
+}
+
+.invoice-submit-button {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px !important;
+  font-size: 14px;
+  border-top: none;
+}
+
+.invoice-preview-submit-button {
+  margin-top: 0;
+}
+
+.invoice-buttons {
+  display: flex;
+}
+
+.btn-download {
+  width: 100px !important;
+}
+
+.invoice-header-content {
+  max-width: 1032px;
+  width: 100%;
+  margin: 0 auto !important;
+  display: flex;
+  justify-content: space-between;
+}
+
+.invoice-content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  margin: 0 auto;
+  max-width: 1032px;
+  width: 100%;
+}
+
+.payment-form-wrapper {
+  width: 400px;
+  padding: 24px 16px;
+  margin: 20px 0 !important;
+  height: fit-content;
+}
+
+.payment-section-header {
+  font-size: 18px;
+  margin-bottom: 16px;
+  color: #4b5153;
+  font-weight: bold;
+  padding: 0;
+  border-bottom: none;
+}
+
+.payment-pre-summary {
+  color: #4b5153;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: initial;
+}
+
+.payment-summary {
+  color: #15afc5;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: initial;
+}
+
+.add-new-payment {
+  margin-top: 24px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.icon-plus {
+  margin-right: 8px;
+}
+
+.add-new-payment-text {
+  font-weight: bold;
+  line-height: initial;
+}
+
+.payment-section {
+  margin-bottom: 24px;
+}
+
+.payment-item-label {
+  font-size: 14px;
+  color: #9ba1a3;
+  line-height: initial;
+}
+
+.two-items-split {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.payment-item-bottom-line {
+  padding-bottom: 8px;
+  border-bottom: 1px solid #dbdbdb;
+  margin-bottom: 8px;
+}
+
+.pay-now-button {
+  color: white;
+  height: 48px;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+  line-height: initial;
+  text-transform: initial;
+  width: 100%;
+}
+
+.no-payment-section {
+  width: 100%;
+}
+
+.no-payment-section .invoice-block {
+  margin: 20px auto !important;
+}
+
+.payment-method-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border-radius: 4px;
+  border: 1px solid #d8d8d8;
+}
+
+.payment-label-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+}
+
+.payment-label-top {
+  font-size: 14px;
+  font-weight: bold;
+  color: #4b5153;
+}
+
+.payment-label-bottom {
+  font-size: 12px;
+  color: #9ba1a3;
+}
+
+.payment-method-wrapper-left {
+  display: flex;
+  align-items: center;
+}
+
+.payment-radio {
+  margin-right: 16px;
+  width: 16px;
+  height: 16px !important;
+  border-radius: 50%;
+  outline: none;
+}
+
+.payment-logo {
+  height: min-content !important;
+}
+
+.payment-selected-by-user {
+  border: solid #15afc5;
+  border-width: 2px !important;
+  background-color: rgba(232, 247, 249, 0.1);
+}
+
+.payment-radio:focus {
+  box-shadow: none !important;
+}
+
+.payment-radio:checked:after {
+  background-color: #16b0c5;
+  border-color: #16b0c5;
+}
+
+.payment-radio:before {
+  content: '';
+  display: block;
+  width: 60%;
+  height: 60%;
+  margin: 3.5px 4px;
+  border-radius: 50%;
+}
+
+.payment-radio:checked:before {
+  background-color: #16b0c5;
+  border-color: #16b0c5;
+}
+
+.payment-method-wrapper:not(:last-child) {
+  margin-bottom: 4px;
+}
+
+.payment-error {
+  color: red;
+}
+
+@media only screen and (min-width: 1501px) {
+  .invoice-header {
+    margin-left: -45px !important;
+    margin-right: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 761px) {
+  .invoice-block {
+    width: 90% !important;
+    margin: 20px auto !important;
+  }
+
+  .invoice-content-wrapper {
+    flex-direction: column-reverse;
+  }
+
+  .payment-form-wrapper {
+    margin: 20px auto 0 !important;
+  }
+}
+
+@media only screen and (max-width: 431px) {
+  .invoice-block {
+    width: 95% !important;
+  }
+}

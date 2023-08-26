@@ -1,0 +1,90 @@
+<article id="content" class="module-d">
+  <div class="table-wrapper">
+    <table class="table-a" *ngIf="signs.length && !loading">
+      <tr>
+        <th translate>Tag ID</th>
+        <th translate>Type</th>
+        <th translate>Created On</th>
+        <th translate>Media</th>
+        <th translate>Permissions</th>
+        <th translate>Status</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let sign of signs; let index = index">
+        <td>{{ sign.tag_id }}</td>
+        <td>{{ sign.type }}</td>
+        <td>{{ sign.created_on | date : 'longDate' }}</td>
+        <td>{{ sign.media_ct }}</td>
+        <td>{{ normilizeRolesList(sign.permissions) }}</td>
+        <td>{{ sign.status }}</td>
+        <td class="action-cell">
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a (click)="editSign(sign)">
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit settings
+              </a>
+              <a (click)="openSignBuilder(sign)">
+                <img class="drop-item-option-img" src="images/item-edit-builder.svg" alt="" />
+                Edit e-sign builder
+              </a>
+              <a
+                appConfirmationPopUp
+                title="Delete E-sign"
+                [message]="'You are about to delete e-sign. Are you sure?'"
+                (yes)="deleteSign(signs, index)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Delete e-sign
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <app-loader [active]="loading"></app-loader>
+
+  <p *ngIf="signs.length === 0 && !loading" class="text-center" translate>No e-signs yet.</p>
+</article>
+
+<form method="post" class="popup-a a form-d shown" [ngClass]="{ shown: showUploadModal }">
+  <div class="box-outer">
+    <div class="box-inner large-box">
+      <h2 translate>Upload E-sign Document</h2>
+      <app-doc-sign-uploader
+        *ngIf="showUploadModal"
+        [form]="uploadingForm"
+        [currentCaseId]="caseId"
+        (afterChange)="closeUploadModal()"
+        (afterSave)="openDocSignBuilder($event)"
+      ></app-doc-sign-uploader>
+      <p>
+        <a (click)="closeUploadModal()"></a>
+      </p>
+      <a class="close" (click)="closeUploadModal()">Close</a>
+    </div>
+    <a class="close" (click)="closeUploadModal()">Close</a>
+  </div>
+</form>
+
+<app-form-modal
+  *ngIf="shownPopUp"
+  [form]="sign!"
+  [mode]="formModalMode"
+  [docType]="createFormType"
+  [roles]="roles"
+  (submitForm)="saveNewSign($event)"
+  (closeModal)="cancelAddingSign()"
+></app-form-modal>

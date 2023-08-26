@@ -1,0 +1,7 @@
+<app-main>
+  <div autoscroll ca-compatibility-layer>
+    <router-outlet></router-outlet>
+  </div>
+</app-main>
+
+<ng-container *ngIf="isHandset$ | async"></ng-container>

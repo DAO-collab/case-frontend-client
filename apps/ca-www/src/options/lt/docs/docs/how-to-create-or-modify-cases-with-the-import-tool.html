@@ -1,0 +1,102 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Kaip sukurti arba modifikuoti atvejus naudojant importavimo įrankį
+</h1>
+<p>
+  Šiame straipsnyje administratoriams nurodoma, kaip sukurti arba keisti esamus atvejus naudojant importavimo įrankį.
+</p>
+<h2 id="opening-the-import-tool">Importavimo įrankio atidarymas</h2>
+<ol style="list-style-type: decimal">
+  <li>Prisijunkite prie administratoriaus paskyros.</li>
+  <li>Programų puslapyje suraskite programą ir spustelėkite mygtuką ADMINISTRATORIUS.</li>
+  <li>Administratoriaus skydelyje spustelėkite skirtuką Integracija, tada submeniu spustelėkite IMPORTUOTI.</li>
+  <li>Spustelėkite mygtuką NAUJAS. Dialogo langas Pridėti importą rodomas naujame naršyklės skirtuke.</li>
+</ol>
+<div class="figure"><img src="/images/import-3.png" alt="img" /></div>
+<h2 id="creating-cases">Bylų kūrimas</h2>
+<p>Atsidarius dialogo langui Add Imports:</p>
+<ol style="list-style-type: decimal">
+  <li>Spustelėkite lauką Tipas ir pasirinkite parinktį (žr. toliau). Rodoma nuoroda.</li>
+  <li>Spustelėkite nuorodą Atsisiųsti pavyzdį. CSV failas atsisiunčiamas į jūsų įrenginį.</li>
+</ol>
+<p>Tada atidarykite failą ir pridėkite atvejų.</p>
+<h2 id="type">Tipas</h2>
+<p>
+  Spustelėjus lauką <strong>Tipas</strong> , rodomas išskleidžiamasis meniu. Pasirinkite vieną iš dviejų masinio
+  importavimo parinkčių.
+</p>
+<ul>
+  <li>
+    <strong>Pastaba</strong> Išskleidžiamajame meniu yra daug parinkčių, tačiau tik dvi yra susijusios su atvejo
+    tvarkymu. Kiekviena parinktis turi skirtingą CSV failo pavyzdį.
+  </li>
+</ul>
+<h3 id="add-cases">Pridėkite atvejų</h3>
+<ul>
+  <li>Pasirinkite šią parinktį, jei norite paprastai masiškai įkelti bylas.</li>
+  <li>
+    Spustelėkite nuorodą Atsisiųsti pavyzdį, kad atidarytumėte CSV failą su importavimo tipo Kurti atvejus stulpelių
+    antraštėmis.
+  </li>
+</ul>
+<h3 id="modify-cases">Modifikuoti atvejus</h3>
+<ul>
+  <li>Pasirinkite šią parinktį, jei norite atnaujinti esamus atvejus.</li>
+  <li>
+    Spustelėkite nuorodą Atsisiųsti pavyzdį, kad atidarytumėte CSV failą su importavimo tipo Keisti atvejus stulpelių
+    antraštėmis.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Failo įkėlimas</h2>
+<p>Galite iš karto įkelti failą arba vėliau grįžti į dialogo langą Pridėti importą ir atlikti šiuos veiksmus.</p>
+<ol style="list-style-type: decimal">
+  <li>Atidarykite dialogo langą Pridėti importą.</li>
+  <li>Įveskite unikalų CSV failo pavadinimą.</li>
+  <li>Spustelėkite pliuso (+) piktogramą, kad įkeltumėte failą iš savo įrenginio.</li>
+  <li>Spustelėkite lauką Tipas ir pasirinkite parinktį. (pažiūrėkite aukščiau)</li>
+  <li>Spustelėkite IŠSAUGOTI.</li>
+</ol>
+<div class="figure"><img src="/images/import-case-2.png" alt="img" /></div>
+<h2 id="formatting">Formatavimas</h2>
+<p>
+  Tai yra privalomi laukai ir pirmieji reikalavimai. Spustelėkite
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">čia</a> , kad
+  peržiūrėtumėte išsamią formatavimo informaciją.
+</p>
+<p>
+  <strong>tag_id (arba case_ID)</strong> unikalus identifikatorius (naudokite raidinius ir skaitinius simbolius,
+  brūkšneliai yra priimtini)
+</p>
+<p><strong>case_status</strong> 0 = uždarytas 1 = aktyvus</p>
+<p><strong>data_atidarymo</strong> mėnuo/diena/metai mm/dd/yyyy</p>
+<p>
+  <strong>apie</strong> unikalų didžiosios ir mažosios raidės aprašymą (naudokite raidinius ir skaitinius simbolius,
+  brūkšneliai yra priimtini)
+</p>
+<div class="figure"><img src="/images/create-case-8.png" alt="img" /></div>
+<h2 id="processing">Apdorojimas</h2>
+<p>
+  Atsižvelgiant į įrašų skaičių faile ir sistemos įkėlimą, platforma gali užtrukti kelias minutes, kol bus apdorotas
+  importavimas.
+</p>
+<div class="figure"><img src="/images/create-case-9.png" alt="img" /></div>
+<p>
+  Kai importavimas baigiamas, platforma koreguoja atvejo įrašus (ty prideda arba modifikuoja) administratoriaus atvejų
+  informacijos suvestinėje.
+</p>
+<h2 id="failure">Nesėkmė</h2>
+<p>
+  Jei importavimo operacija nepavyksta, platforma grąžina pranešimą Nepavyko. Daugeliu atvejų gedimo priežastis yra
+  duomenų formatavimas.
+</p>
+<div class="figure"><img src="/images/create-case-10.png" alt="img" /></div>
+<p>Norėdami sužinoti gedimo priežastį:</p>
+<ol style="list-style-type: decimal">
+  <li>Po antrašte ACTION spustelėkite Peržiūrėti.</li>
+  <li>Kitame puslapyje užveskite pelės žymeklį ant Nepavyko piktogramos. Patarimas rodo klaidą.</li>
+  <li>Eikite į CVS failą ir pakoreguokite bei ištaisykite klaidą.</li>
+  <li>Įkelkite failą dar kartą.</li>
+</ol>
+<div class="figure">
+  <img src="/images/create-case-11.png" alt="img" />
+  <p class="caption">img</p>
+</div>

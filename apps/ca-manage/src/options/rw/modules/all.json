@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Soma imanza zose zerekana uruhare", "write": "Andika imanza zose zerekana uruhare" },
+  "convos": {
+    "read_all": "Reba uko ibintu bimeze ubu.",
+    "manage_own": "Injira kandi uhuze convo.",
+    "moderate_others": "Tangira convo, urangize convo, kandi ukureho abitabiriye.",
+    "read_all_submissions": "Soma ibyanditswe byose byafashwe amajwi."
+  },
+  "events": {
+    "read_all": "Soma ibyabaye byose.",
+    "manage_own": "Kurema, kuvugurura no gusiba ibyabaye wenyine.",
+    "moderate_others": "Kuvugurura no gusiba ibyabaye kubandi.",
+    "read_all_submissions": "Soma ibyabaye byose.",
+    "submit_own": "Emeza icyifuzo cyo kwitabira ibirori."
+  },
+  "posts": {
+    "read_all": "Soma inyandiko zose.",
+    "manage_own": "Kurema, kuvugurura no gusiba inyandiko yawe bwite.",
+    "moderate_others": "Kuvugurura no gusiba inyandiko zabandi."
+  },
+  "forms": {
+    "read_all": "Soma impapuro zose.",
+    "manage_own": "Kurema, kuvugurura no gusiba ifishi yawe bwite.",
+    "moderate_others": "Kuvugurura no gusiba ifishi yabandi.",
+    "read_all_submissions": "Soma ibyatanzwe byose.",
+    "submit_own": "Tanga icyifuzo."
+  },
+  "invoices": {
+    "read_all": "Soma inyemezabuguzi zose.",
+    "manage_own": "Kurema, kuvugurura no gusiba inyemezabuguzi.",
+    "moderate_others": "Kuvugurura no gusiba inyemezabuguzi zabandi.",
+    "read_all_submissions": "Soma inyemezabuguzi zose.",
+    "submit_own": "Tanga inyemezabuguzi."
+  },
+  "notes": {
+    "read_all": "Soma inyandiko zose.",
+    "manage_own": "Kurema, kuvugurura no gusiba inyandiko yawe bwite.",
+    "moderate_others": "Kuvugurura no gusiba inyandiko zabandi."
+  },
+  "signs": {
+    "read_all": "Soma e-ibimenyetso byose.",
+    "manage_own": "Kurema, kuvugurura no gusiba e-ikimenyetso cyawe bwite.",
+    "moderate_others": "Kuvugurura no gusiba e-ikimenyetso cyabandi.",
+    "read_all_submissions": "Soma ibyatanzwe byose kuri e-sign.",
+    "submit_own": "Tanga icyifuzo."
+  },
+  "tasks": {
+    "read_all": "Soma imirimo yose.",
+    "manage_own": "Kurema, kuvugurura no gusiba inshingano zawe.",
+    "moderate_others": "Kuvugurura no gusiba imirimo yabandi.",
+    "read_all_submissions": "Soma ibyatanzwe byose.",
+    "submit_own": "Tanga icyifuzo."
+  },
+  "team": { "read_all": "Soma itsinda mugihe bibaye" }
+}

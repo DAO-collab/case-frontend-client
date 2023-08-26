@@ -1,0 +1,90 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  İdxal Aləti ilə İstifadəçi Təyinatlarını Necə Təyin etmək, Dəyişdirmək və ya Silmək olar
+</h1>
+<p>Bu məqalə adminlərə İdxal aləti ilə iş istifadəçilərini necə idarə edəcəklərini göstərir.</p>
+<p>Adminlər edə bilərlər:</p>
+<ul>
+  <li>istifadəçiləri işə təyin edin</li>
+  <li>artıq işə təyin edilmiş istifadəçiləri dəyişdirin</li>
+  <li>işə təyin edilmiş istifadəçiləri silin</li>
+</ul>
+<h2 id="opening-the-import-tool">İdxal alətinin açılması</h2>
+<ol style="list-style-type: decimal">
+  <li>Admin hesabına daxil olun.</li>
+  <li>Proqramlar səhifəsində proqram tapın və ADMIN düyməsini klikləyin.</li>
+  <li>Alt menyuda İnteqrasiya sekmesini və sonra İDXALLAR üzərinə klikləyin.</li>
+  <li>YENİ düyməsini basın. İdxal əlavə et dialoq qutusu göstərilir.</li>
+</ol>
+<h2 id="creating-records">Qeydlərin yaradılması</h2>
+<p>
+  Bir və ya daha çox CSV faylını endirin. İş istifadəçilərini əlavə etmək, dəyişdirmək və ya silmək üçün bu faylları
+  istifadə edin. İdxal əlavə et dialoq qutusu açıldıqdan sonra:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Növ sahəsinə klikləyin.</li>
+  <li>Açılan menyuda sürüşdürün və bir seçim seçin (aşağıya baxın). Bir keçid göstərilir.</li>
+  <li>Nümunə Yüklə linkinə klikləyin. CSV faylı cihazınıza endirilir.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>
+  Faylı açın və qeydlər əlavə edin. CSV faylında format məlumatlarından necə istifadə edəcəyinizi öyrənmək üçün bura
+  klikləyin.
+</p>
+<h3 id="file-options">Fayl seçimləri</h3>
+<p>
+  <strong>İstifadəçiləri işlərə təyin</strong> edin * İstifadəçiləri işə əlavə etmək üçün bu seçimi seçin. *
+  Case_role_order xanasını boş qoyun. * İstifadəçilər səhifəsinə keçin və bu şəxs üçün Tag ID-ni kopyalayın. Tag ID
+  sahəsi boşdursa, unikal ID daxil edin, Saxla düyməsini basın və sonra ID-ni CSV faylına köçürün.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>İşlərə təyin edilmiş istifadəçiləri dəyişdirin</strong> * İşə təyin edilmiş cari istifadəçilər üçün
+  məlumatları yeniləmək üçün bu seçimi seçin. * Case_ID sütunu üçün Case Tag ID-dən istifadə edin.
+</p>
+<div class="figure"><img src="/images/user-case-import-3.png" alt="img" /></div>
+<p>
+  <strong>İşlərə təyin edilmiş istifadəçiləri silin</strong> * İşə təyin edilmiş istifadəçiləri silmək üçün bu seçimi
+  seçin.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Fayl yüklənir</h2>
+<p>
+  Siz faylı dərhal yükləyə və ya daha sonra İdxal Əlavə et dialoq qutusuna qayıda və bu addımları tamamlaya bilərsiniz.
+</p>
+<ol style="list-style-type: decimal">
+  <li>İdxal əlavə et dialoq qutusunu açın.</li>
+  <li>CSV faylı üçün unikal ad daxil edin.</li>
+  <li>Faylı cihazınızdan yükləmək üçün artı (+) işarəsinə klikləyin.</li>
+  <li>Növ sahəsinə klikləyin və bir seçim seçin. (yuxarıya bax)</li>
+  <li>YAXŞI Klikləyin.</li>
+</ol>
+<h2 id="processing">Emal edilir</h2>
+<p>
+  Fayldakı qeydlərin sayından və sistem yükündən asılı olaraq, platforma idxalı emal etmək üçün bir neçə dəqiqə çəkə
+  bilər.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  İdxal tamamlandıqda, platforma Cases səhifəsində istifadəçi qeydlərini düzəldir (yəni əlavə edir, dəyişdirir və ya
+  silir).
+</p>
+<h2 id="failure">Uğursuzluq</h2>
+<p>
+  İdxal əməliyyatı uğursuz olarsa, platforma Uğursuz mesajı qaytarır. Əksər hallarda uğursuzluğun səbəbi məlumatların
+  formatlaşdırılmasıdır.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-6.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Uğursuzluğun səbəbini görmək üçün:</p>
+<ol style="list-style-type: decimal">
+  <li>Fəaliyyət başlığı altında Baxın üzərinə klikləyin.</li>
+  <li>Növbəti səhifədə siçanı Uğursuz simgesinin üzərinə gətirin. Alət ipucu xətanı göstərir.</li>
+  <li>CVS faylına gedin və səhvi düzəldin və düzəldin.</li>
+  <li>Faylı yenidən yükləyin.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

@@ -1,0 +1,39 @@
+.search {
+  display: flex;
+  width: auto;
+}
+
+.search-input {
+  padding-left: 36px;
+  padding-right: 36px;
+  width: 250px;
+  height: 40px;
+  border: 1px solid #d8d8d8;
+  font-size: 14px;
+}
+
+.search-wrapper {
+  position: relative;
+  height: fit-content;
+}
+
+.image-search {
+  width: 24px;
+  height: 24px;
+}
+
+.search-input-image-search {
+  position: absolute;
+  left: 10px;
+  z-index: 10;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.search-input-image-close {
+  position: absolute;
+  right: 10px;
+  z-index: 10;
+  top: 50%;
+  transform: translate(0, -50%);
+}

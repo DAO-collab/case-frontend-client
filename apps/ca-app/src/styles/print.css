@@ -1,0 +1,700 @@
+/* -------------------------------------------
+
+	Name: 		CaseActive (print)
+	Date:		2015/09/28
+	Author:		http://psdhtml.me
+
+---------------------------------------------  */
+* {
+  margin: 0;
+  padding: 0;
+}
+@page {
+  margin: 0.5cm;
+}
+
+html {
+  font-size: 100.01%;
+}
+body {
+  background: #fff;
+  font-size: 60%;
+}
+
+body,
+textarea,
+input,
+select,
+option,
+button {
+  color: #000;
+  font-family: Proxima, Calibri, Helvetica, Arial, sans-serif;
+  line-height: 2.2;
+}
+li,
+dt,
+dd,
+p,
+figure,
+th,
+td,
+caption,
+pre,
+legend {
+  font-size: 14px;
+} /*---*/
+li *,
+li li,
+dt *,
+dd *,
+p *,
+figure *,
+th *,
+td *,
+legend * {
+  font-size: 1em;
+}
+ul,
+ol,
+dl,
+p,
+figure,
+table,
+pre,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+legend {
+  margin-bottom: 8px;
+}
+
+article,
+aside,
+div,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block; /*margin-bottom: 2em;*/
+}
+
+/*! Layout --------- */
+#top {
+  margin: 0 0 1em;
+  padding: 0 0 0.5em;
+  border-bottom: 1px solid #ccc;
+}
+#top h1 a {
+  color: #000;
+  text-decoration: none;
+}
+#content {
+}
+#content a:after {
+  content: ' (' attr(href) ') ';
+  color: #555;
+  font-size: 0.8em;
+  font-style: italic;
+}
+#content a[href^='#']:after {
+  content: '';
+}
+#footer {
+  margin: 1em 0 0;
+  padding: 1em 0 0;
+  border-top: 1px solid #ccc;
+}
+
+/*! Headers --------- */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+  margin-top: 39px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #dbdbdb;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+h1,
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+  font-weight: 300;
+  text-transform: none;
+}
+h1 + h3,
+h1 + h4,
+h1 + h5,
+h1 + h6,
+h2 + h3,
+h2 + h4,
+h2 + h5,
+h2 + h6 {
+  margin-top: 60px;
+}
+figure + h1,
+figure + h2 {
+  margin-top: 89px;
+}
+h1 + .size-a,
+h2 + .size-a {
+  margin-top: 20px;
+}
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+  margin-top: 0;
+}
+
+/*! Paragraphs --------- */
+b,
+strong,
+.strong {
+  font-weight: 700;
+}
+blockquote {
+  margin: 1em 40px;
+}
+dfn,
+em,
+i,
+.em {
+  font-style: italic;
+}
+ins {
+  background: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+pre,
+code,
+kbd,
+samp {
+  font-family: monospace, serif;
+}
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+small {
+  font-size: 85%;
+}
+strike,
+del,
+.strike {
+  text-decoration: line-through;
+}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+.u {
+  text-decoration: underline;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-justify {
+  text-align: justify;
+}
+
+.text-lowercase {
+  text-transform: lowercase;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.overlay-a {
+  color: #16b0c5;
+}
+.overlay-b {
+  color: #ceeef3;
+}
+.overlay-c {
+  color: #d8d8d8;
+}
+
+.size-a {
+  font-size: 16px;
+  line-height: 1.875;
+}
+.size-b {
+  font-size: 18px;
+  line-height: 1.65;
+}
+.size-b.a {
+  line-height: 1.1;
+}
+.double.a .size-b.a {
+  padding-top: 14px;
+}
+
+/*! Modules --------- */
+.list-a,
+.list-f {
+  list-style: none;
+  padding: 0;
+}
+.list-a li,
+.list-f li {
+  margin-bottom: 0.5em;
+}
+.list-a .title,
+.list-f .title {
+  display: block;
+  font-weight: 700;
+}
+.list-b,
+.list-f {
+  list-style: none;
+  padding: 0;
+}
+.list-b * {
+  overflow: visible !important;
+  position: relative !important;
+  left: 0 !important;
+  top: 0 !important;
+  float: none !important;
+  width: auto !important;
+  height: auto !important;
+}
+.list-b q,
+.quote-a q {
+  display: block;
+  margin-bottom: 0.5em;
+  font-style: italic;
+}
+.list-g {
+  position: relative;
+  list-style: none;
+  padding: 0;
+  border-radius: 4px;
+  border: 1px solid #dbdbdb;
+  line-height: 1.4;
+}
+.list-g li {
+  position: relative;
+  clear: both;
+  margin: 0;
+  padding: 15px 20px 13px 120px;
+  border-top: 1px solid #dbdbdb;
+  text-align: right;
+}
+.list-g li:first-child {
+  border: 0;
+}
+.list-g li > span:first-child {
+  display: block;
+  position: absolute;
+  left: 20px;
+  top: 15px;
+}
+#root .list-g input {
+  display: block;
+  float: right;
+  width: 70px;
+  margin: -10px 0 5px;
+}
+table + .list-g {
+  margin-top: -8px;
+}
+table + .list-g:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: -1px;
+  top: -2px;
+  right: -1px;
+  height: 1px;
+  background: #fff;
+}
+.list-g + .check-a,
+.form-d .list-g + .check-a {
+  margin-top: -2px;
+}
+.news-c {
+}
+.news-c > *,
+.popup-a .box-outer {
+  height: auto !important;
+  min-height: 0 !important;
+}
+.popup-a {
+}
+.popup-a .box-outer,
+#root {
+  top: 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
+}
+.popup-a .box-inner {
+  margin: 0 !important;
+}
+
+table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+th,
+td {
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid #dbdbdb;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+  vertical-align: top;
+}
+th {
+  padding: 0 2px 3px;
+  color: #9ba1a3;
+  font-size: 1.2em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+td {
+  padding: 16px 2px 13px;
+}
+tr > .text-right:last-child {
+  padding-right: 25px;
+}
+tr:last-child th,
+tr:last-child td {
+  border-bottom: 0;
+}
+table input,
+table select,
+table textarea {
+  display: block;
+  width: auto;
+}
+td.input {
+  padding-right: 20px;
+}
+td.input-checkbox {
+  padding-right: 5px;
+}
+table .drop-a {
+  margin-top: -5px;
+  margin-bottom: -2px;
+}
+table .check-a {
+  display: inline;
+  margin-bottom: 0;
+}
+table .check-a label {
+  display: inline;
+  min-width: 80px;
+  padding-right: 20px;
+}
+table .check-a:last-child label {
+  min-width: 0;
+  padding-right: 0;
+}
+table input[type='color'],
+table input[type='date'],
+table input[type='datetime'],
+table input[type='datetime-local'],
+table input[type='email'],
+table input[type='month'],
+table input[type='number'],
+table input[type='password'],
+input[type='range'],
+table input[type='search'],
+table input[type='tel'],
+table input[type='text'],
+table input[type='time'],
+table input[type='url'],
+table input[type='week'] {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+table .semantic-select .input,
+table textarea {
+  padding-left: 10px;
+}
+table select {
+  padding-left: 6px;
+}
+table + table {
+  margin-top: 68px;
+}
+table tr.a > * {
+  padding-top: 68px;
+}
+table .no-border > * {
+  padding-bottom: 6px;
+  border: 0;
+}
+table .no-border + tr td.link-b {
+  margin-top: -9px;
+  padding-top: 0;
+}
+table span.width-a,
+table span.width-b,
+table span.width-c {
+  display: block;
+  position: relative;
+}
+table span.width-a {
+  width: 150px;
+  max-width: 150px;
+}
+table span.width-b {
+  width: 60px;
+  max-width: 60px;
+}
+table span.width-c {
+  width: 80px;
+  max-width: 80px;
+}
+table span.width-a > *,
+table span.width-b > *,
+table span.width-c > * {
+  width: 100%;
+}
+table .icon {
+  display: inline-block;
+  position: relative;
+}
+table .icon .remove {
+  display: block;
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  margin: -11px 0 0;
+  color: #b4bcbe;
+  font-family: i;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  text-decoration: none;
+  text-indent: -3000em;
+}
+table .icon .remove:before {
+  content: '\ea55';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  margin: -10px 0 0;
+  line-height: 20px;
+  text-align: right;
+  text-indent: 0;
+}
+table.valign-middle * {
+  vertical-align: middle;
+}
+.table-wrapper {
+  margin-bottom: 0;
+}
+
+/*! Defaults --------- */
+h2,
+h3 {
+  page-break-after: avoid;
+}
+p,
+h2,
+h3 {
+  orphans: 3;
+  widows: 3;
+}
+
+a {
+  color: #09f;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100% !important;
+  border-width: 0;
+  image-rendering: optimizeQuality;
+  -ms-interpolation-mode: bicubic;
+}
+tr,
+img {
+  page-break-inside: avoid;
+}
+
+ul,
+ol,
+dd,
+blockquote {
+  padding-left: 2em;
+}
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+  margin-bottom: 0;
+}
+
+/*! Fonts --------- */
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-light.eot');
+  src: url('fonts/proximanova-light.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-light.woff2') format('woff2'), url('fonts/proximanova-light.woff') format('woff'),
+    url('fonts/proximanova-light.ttf') format('truetype'),
+    url('fonts/proximanova-light.svg#proxima_novalight') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-lightitalic.eot');
+  src: url('fonts/proximanova-lightitalic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-lightitalic.woff2') format('woff2'), url('fonts/proximanova-lightitalic.woff') format('woff'),
+    url('fonts/proximanova-lightitalic.ttf') format('truetype'),
+    url('fonts/proximanova-lightitalic.svg#proxima_novalight_italic') format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-reg.eot');
+  src: url('fonts/proximanova-reg.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-reg.woff2') format('woff2'), url('fonts/proximanova-reg.woff') format('woff'),
+    url('fonts/proximanova-reg.ttf') format('truetype'),
+    url('fonts/proximanova-reg.svg#proxima_nova_rgregular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-regitalic.eot');
+  src: url('fonts/proximanova-regitalic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-regitalic.woff2') format('woff2'), url('fonts/proximanova-regitalic.woff') format('woff'),
+    url('fonts/proximanova-regitalic.ttf') format('truetype'),
+    url('fonts/proximanova-regitalic.svg#proxima_novaregular_italic') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-sbold.eot');
+  src: url('fonts/proximanova-sbold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-sbold.woff2') format('woff2'), url('fonts/proximanova-sbold.woff') format('woff'),
+    url('fonts/proximanova-sbold.ttf') format('truetype'),
+    url('fonts/proximanova-sbold.svg#proxima_novasemibold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-sbolditalic.eot');
+  src: url('fonts/proximanova-sbolditalic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-sbolditalic.woff2') format('woff2'), url('fonts/proximanova-sbolditalic.woff') format('woff'),
+    url('fonts/proximanova-sbolditalic.ttf') format('truetype'),
+    url('fonts/proximanova-sbolditalic.svg#proxima_novasemibold_italic') format('svg');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-bold.eot');
+  src: url('fonts/proximanova-bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-bold.woff2') format('woff2'), url('fonts/proximanova-bold.woff') format('woff'),
+    url('fonts/proximanova-bold.ttf') format('truetype'),
+    url('fonts/proximanova-bold.svg#proxima_nova_rgbold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proxima';
+  src: url('fonts/proximanova-boldit.eot');
+  src: url('fonts/proximanova-boldit.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-boldit.woff2') format('woff2'), url('fonts/proximanova-boldit.woff') format('woff'),
+    url('fonts/proximanova-boldit.ttf') format('truetype'),
+    url('fonts/proximanova-boldit.svg#proxima_nova_rgbold_italic') format('svg');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/*! Hiding --------- */
+.popup-a.shown {
+  position: relative !important;
+  left: 0 !important;
+  top: 0 !important;
+}
+#skip,
+nav,
+form,
+[class*='link'],
+#featured,
+.list-a .img,
+.list-a img,
+.list-b img,
+.bx-controls,
+.bx-clone,
+.bx-pager,
+.news-c figure,
+.news-b figure,
+.news-a .img,
+.news-a figure,
+.mobile-only,
+.quote-a img,
+.list-d .img,
+.list-e,
+.module-f figure,
+.arrows-a,
+.popup-a,
+.popup-b,
+.popup-a .close,
+.submit,
+.popup-shown #content,
+.popup-shown #footer,
+.popup-shown #top,
+.popup-shown #featured {
+  position: absolute !important;
+  left: -3000em !important;
+  top: -3000em !important;
+}

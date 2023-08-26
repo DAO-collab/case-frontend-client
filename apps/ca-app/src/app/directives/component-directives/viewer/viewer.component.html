@@ -1,0 +1,338 @@
+<div class="viewer-wrapper" [ngClass]="{ fullView: fullView }">
+  <div class="close-gallery-view" (click)="viewerClosed()"></div>
+  <div class="viwer-holder" #holder [style.marginTop]="autoMargin(holder)">
+    <figure class="slider-a" #viewportBlock>
+      <!-- Viewer View-box -->
+      <div class="bx-wrapper">
+        <div class="bx-viewport">
+          <!-- Right Side Navigation Buttons -->
+          <div class="viewer-tools custom-color-viewer-tools">
+            <!-- Rotate -->
+            <span
+              class="rotate-view cursor-pointer cdn-item unset-color unset-background unset-border unset-boxshadow"
+              (click)="rotate()"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                version="1.1"
+                id="Layer_1"
+                x="0px"
+                y="0px"
+                viewBox="0 0 512 512"
+                style="enable-background: new 0 0 512 512"
+                xml:space="preserve"
+              >
+                <g id="XMLID_2_">
+                  <path
+                    id="XMLID_4_"
+                    d="M512,44.5v148.4c0,5.6-1.9,11.1-6.5,14.8c-4.6,4.6-9.3,6.5-14.8,6.5H342.3c-9.3,0-15.8-4.6-19.5-13   c-3.7-8.3-1.9-16.7,4.6-23.2l45.4-45.4c-32.5-30.6-71.4-45.4-115.9-45.4c-23.2,0-45.4,4.6-65.9,13.9c-21.3,9.3-39,21.3-54.7,36.2   c-14.8,14.8-27.8,33.4-36.2,54.7c-9.3,21.3-13.9,42.7-13.9,65.9c0,23.2,4.6,45.4,13.9,65.9c9.3,21.3,21.3,39,36.2,54.7   c14.8,14.8,33.4,27.8,54.7,36.2c21.3,9.3,42.7,13.9,65.9,13.9c26,0,51-5.6,75.1-17.6c23.2-11.1,43.6-27.8,59.4-49.2   c1.9-1.9,3.7-3.7,7.4-3.7c2.8,0,5.6,0.9,8.3,2.8l45.4,45.4c1.9,1.9,2.8,3.7,2.8,6.5c0,2.8-0.9,5.6-2.8,7.4   c-24.1,29.7-53.8,51.9-88.1,67.7C330.2,503.7,294,512,256,512c-34.3,0-67.7-6.5-99.2-20.4c-31.5-13.9-58.4-31.5-81.6-54.7   c-23.2-23.2-40.8-50.1-54.7-81.6C6.5,323.7,0,291.2,0,256s6.5-67.7,20.4-99.2s31.5-58.4,54.7-81.6s50.1-40.8,81.6-54.7   S220.8,0,256,0c32.5,0,64,6.5,94.6,18.6s57.5,29.7,81.6,51.9l43.6-42.7c6.5-6.5,13.9-8.3,23.2-4.6C507.4,28.8,512,35.2,512,44.5z"
+                  />
+                </g>
+              </svg>
+            </span>
+            <!-- ZOOM-in -->
+            <i
+              class="zoom-in-tool icon-zoom-in cursor-pointer"
+              *ngIf="viewiengItems[activeItem].type === 'images' || viewiengItems[activeItem].type === 'docs'"
+              (click)="zoomPlus()"
+            ></i>
+            <!-- ZOOM-out -->
+            <i
+              class="zoom-in-tool icon-zoom-out cursor-pointer"
+              *ngIf="viewiengItems[activeItem].type === 'images' || viewiengItems[activeItem].type === 'docs'"
+              (click)="zoomMinus()"
+            ></i>
+            <!-- FULL WIDTH On -->
+            <!-- <i
+              class="icon-resize full-size-view cursor-pointer"
+              *ngIf="!fullView && viewiengItems[activeItem].type !== 'files'"
+              (click)="runFullSize()"
+            ></i> -->
+            <!-- FULL WIDTH Off -->
+            <!-- <i class="icon-resize2 full-size-view cursor-pointer" *ngIf="fullView" (click)="fullView = false"></i> -->
+            <!-- DOWNLOAD non-processed file -->
+            <i class="icon-download download-doc" (click)="downloadDoc(viewiengItems[activeItem])"></i>
+            <!-- CLOSE Popup -->
+            <span class="close-viewer icon-custom-color" (click)="viewerClosed()"></span>
+            <!-- <span class="favIcon"><img [src]="favIconUrl" alt="favIcon"/></span> -->
+          </div>
+          <div
+            class="items-wrapper"
+            #galleryViewBlock
+            [attr.zoomDistance]="zoomClassByStep[zoomStep]"
+            [ngClass]="{ zoomOn: zoomStep != 0 }"
+            [style.maxWidth.px]="viewportBlock.offsetWidth - 10"
+          >
+            <swiper
+              *ngIf="viewiengItems[0]?.type !== 'docs'"
+              [slidesPerView]="1"
+              [spaceBetween]="50"
+              [navigation]="true"
+              [pagination]="{ type: 'fraction' }"
+              [centeredSlides]="true"
+              [keyboard]="{
+                enabled: true
+              }"
+              [virtual]="true"
+              class="my-swiper mobile-item"
+              (swiper)="onSwiper($event)"
+              (slideChange)="onSlideChange($event)"
+            >
+              <ng-template swiperSlide *ngFor="let item of viewiengItems; let i = index">
+                <div class="swiper-slide-container itemSwiper" [id]="'imgViewerSilder' + i">
+                  <span class="view-item img">
+                    <!-- IMAGE Ready view -->
+                    <img
+                      *ngIf="item.type === 'images' && item.src && item.status === 'SUCCEEDED'"
+                      #imgTrg
+                      [src]="item.src"
+                      (dragstart)="$event.preventDefault()"
+                      (mousemove)="zoomDragActive ? coordinatesCount($event) : false"
+                      (mousedown)="
+                        zoomStep > 0 ? imageZoomLeft($event, imgTrg, imgTrg.offsetWidth, imgTrg.offsetHeight) : false
+                      "
+                      alt="{{ item.src }}"
+                    />
+
+                    <!-- IMAGE NOT ready view -->
+                    <div *ngIf="item.type === 'images' && item.status === 'RUNNING'" class="just-item">
+                      <!-- <i class="icon-image"></i> -->
+                      <app-loader class="processing-file" [active]="true"></app-loader>
+                      <br />{{ item.name }}
+                    </div>
+
+                    <!-- VIDEO Ready View -->
+                    <app-videojs
+                      *ngIf="item.type === 'videos' && activeItem === i && item.status === 'SUCCEEDED'"
+                      [idx]="i + ''"
+                      [url]="item.src"
+                    ></app-videojs>
+
+                    <!-- VIDEO NOT ready view -->
+                    <div *ngIf="item.type === 'videos' && item.status === 'RUNNING'" class="just-item">
+                      <!-- <i class="icon-video"></i> -->
+                      <span translate>Still processing video...</span>
+                      <br />{{ item.name }}
+                    </div>
+
+                    <div *ngIf="item.status === 'FAILED'" class="just-item">
+                      <i class="icon-document-delete"></i>
+                      <br />
+                      <span
+                        ><span translate>Processing </span><b>{{ item.name }}</b
+                        ><span translate> failed.</span></span
+                      >
+                    </div>
+                  </span>
+                </div>
+              </ng-template>
+            </swiper>
+            <div
+              class="inner"
+              [ngClass]="{ 'desktop-item': viewiengItems[0].type !== 'docs' }"
+              [style.width.px]="viewiengItems.length * viewportBlock.offsetWidth"
+              [style.left.px]="countInnerItemsWidth(viewportBlock)"
+            >
+              <!-- Gallery Items -->
+              <div
+                *ngFor="let item of viewiengItems; let i = index"
+                class="item"
+                [id]="'imgViewer' + i"
+                [ngClass]="{ 'active-image-item': activeItem === i }"
+                [style.width.px]="viewportBlock.offsetWidth - 10"
+              >
+                <span class="view-item img" #imgItem [ngClass]="{ docView: item.type === 'docs' }">
+                  <!-- IMAGE Ready view -->
+                  <img
+                    *ngIf="item.type === 'images' && item.src && item.status === 'SUCCEEDED'"
+                    #imgTrg
+                    [src]="item.src"
+                    (dragstart)="$event.preventDefault()"
+                    (mousemove)="zoomDragActive ? coordinatesCount($event) : false"
+                    (mousedown)="
+                      zoomStep > 0 ? imageZoomLeft($event, imgTrg, imgItem.offsetWidth, imgItem.offsetHeight) : false
+                    "
+                    alt="{{ item.src }}"
+                  />
+
+                  <!-- IMAGE NOT ready view -->
+                  <div *ngIf="item.type === 'images' && item.status === 'RUNNING'" class="just-item">
+                    <!-- <i class="icon-image"></i> -->
+                    <app-loader class="processing-file" [active]="true"></app-loader>
+                    <br />{{ item.name }}
+                  </div>
+
+                  <!-- DOCUMENT Ready View -->
+                  <span *ngIf="item.type === 'docs' && item.status === 'SUCCEEDED'">
+                    <span *ngFor="let path of item.src; let indx = index">
+                      <img
+                        #imgTrg
+                        *ngIf="(activeDocPage || 1) === indx + 1 && activeItem === i"
+                        [src]="path"
+                        (dragstart)="$event.preventDefault()"
+                        (mousemove)="zoomDragActive ? coordinatesCount($event) : false"
+                        (mousedown)="
+                          zoomStep > 0
+                            ? imageZoomLeft($event, imgTrg, imgItem.offsetWidth, imgItem.offsetHeight)
+                            : false
+                        "
+                        alt="Placeholder"
+                        [style.display]="'none'"
+                        (load)="$any($event.target)?.style.display = ''"
+                      />
+                    </span>
+                  </span>
+
+                  <!-- DOCUMENT NOT ready view -->
+                  <div *ngIf="item.type === 'docs' && item.status === 'RUNNING'" class="just-item">
+                    <app-loader class="processing-file" [active]="true"></app-loader>
+                    <!-- <i class="icon-document"></i> -->
+                    <br />{{ item.name }}
+                  </div>
+
+                  <!-- VIDEO Ready View -->
+                  <app-videojs
+                    *ngIf="item.type === 'videos' && activeItem === i && item.status === 'SUCCEEDED'"
+                    [idx]="i + ''"
+                    [url]="item.src"
+                  ></app-videojs>
+
+                  <!-- VIDEO NOT ready view -->
+                  <div *ngIf="item.type === 'videos' && item.status === 'RUNNING'" class="just-item">
+                    <!-- <i class="icon-video"></i> -->
+                    <span translate>Still processing video...</span>
+                    <br />{{ item.name }}
+                  </div>
+
+                  <!-- AUDIO Ready View -->
+                  <div
+                    *ngIf="item.type === 'audios' && activeItem === i && item.status === 'SUCCEEDED'"
+                    class="just-item w-300"
+                  >
+                    <app-audiojs
+                      class="vjs-has-started"
+                      *ngIf="item.stream"
+                      [idx]="i + ''"
+                      [duration]="item.duration"
+                      [url]="item.stream"
+                    ></app-audiojs>
+
+                    <p *ngIf="!item.stream" class="notice-a a">{{ item ? item.name : '' }}</p>
+                  </div>
+
+                  <!-- AUDIO NOT ready view -->
+                  <div *ngIf="item.type === 'audios' && item.status === 'RUNNING'" class="just-item">
+                    <!-- <i class="icon-notes"></i> -->
+                    <app-loader class="processing-file" [active]="true"></app-loader>
+                    <br />{{ item.name }}
+                  </div>
+
+                  <!-- FILE Ready View -->
+                  <span class="just-item" *ngIf="item.type === 'files' && item.status === 'SUCCEEDED'">
+                    {{ item.name }}
+                  </span>
+
+                  <!-- FILE NOT ready view -->
+                  <div class="just-item" *ngIf="item.type === 'files' && item.status === 'RUNNING'">
+                    <app-loader class="processing-file" [active]="true"></app-loader>
+                    <br />{{ item.name }}
+                  </div>
+
+                  <div *ngIf="item.status === 'FAILED'" class="just-item">
+                    <i class="icon-document-delete"></i>
+                    <br />
+                    <span
+                      ><span translate>Processing </span><b>{{ item.name }}</b
+                      ><span translate> failed.</span></span
+                    >
+                  </div>
+                </span>
+              </div>
+              <!-- Gallery Items End -->
+            </div>
+
+            <!-- Functionality to navigate between document pages -->
+            <div
+              *ngIf="viewiengItems[activeItem].type === 'docs' && viewiengItems[activeItem].status === 'SUCCEEDED'"
+              class="pages-navigation"
+              [ngClass]="{ 'desktop-item': viewiengItems[0].type !== 'docs' }"
+            >
+              <a class="nav-button" (mouseup)="prevDoc()">
+                <i class="icon-arrow-left-outline"></i>
+              </a>
+              <span translate>Page</span>
+              &nbsp;
+              <input
+                type="number"
+                class="builder-page-counter"
+                [value]="activeDocPage"
+                (keyup)="switchDocumentPage($any($event.target).value && +$any($event.target).value - 1)"
+              />
+              &nbsp;
+              <span translate>of</span>
+              &nbsp;
+              <span>{{ viewiengItems[activeItem].src?.length }}</span>
+              <a class="nav-button" (mouseup)="nextDoc()">
+                <i class="icon-arrow-right-outline"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Viewer Pager -->
+      <div class="slider-holder" [ngClass]="{ 'desktop-item': viewiengItems[0].type !== 'docs' }" #sliderHolder>
+        <ul
+          class="viewer-slider"
+          [style.width.px]="viewiengItems.length * sliderItemsWidth"
+          [style.left.px]="countInnerSliderLeft(sliderHolder)"
+        >
+          <li
+            *ngFor="let item of viewiengItems; let i = index"
+            [ngClass]="{
+              activeItem: activeItem === i,
+              'custom-color-image-active': activeItem === i
+            }"
+          >
+            <a (click)="switchDocument(i)" class="slider-icons">
+              <!-- <img *ngIf="item.type === 'images'" [src]="item.thumbnail" alt="Placeholder"> -->
+              <img *ngIf="item.type === 'images' && item.status === 'SUCCEEDED'" [src]="item.thumbnail" />
+
+              <div *ngIf="item.type === 'images' && item.status !== 'SUCCEEDED'">
+                <i class="icon-image"></i>
+              </div>
+
+              <img *ngIf="item.type === 'docs' && item.status === 'SUCCEEDED'" [src]="item.thumbnail" />
+
+              <div *ngIf="item.type === 'docs' && item.status !== 'SUCCEEDED'">
+                <i class="icon-document"></i>
+              </div>
+              <div *ngIf="item.type === 'videos'">
+                <i class="icon-video"></i>
+              </div>
+              <div *ngIf="item.type === 'audios'">
+                <i class="icon-notes"></i>
+              </div>
+            </a>
+            <span class="v-cjeck-mark custom-color-v-cjeck-mark">
+              {{ i + 1 }}
+            </span>
+          </li>
+        </ul>
+      </div>
+      <!-- LEFT/RIGHT controlls -->
+      <div
+        class="slider-contoll"
+        [ngClass]="{ 'desktop-item': viewiengItems[0].type !== 'docs' }"
+        *ngIf="checkIfShowControlls(sliderHolder)"
+      >
+        <a class="bx-prev" *ngIf="prev && activeItemInSlider !== 0" (click)="prevItem(sliderHolder)"></a>
+        <a
+          class="bx-next"
+          *ngIf="next && activeItemInSlider !== viewiengItems.length - 1"
+          (click)="nextItem(sliderHolder)"
+        ></a>
+      </div>
+    </figure>
+  </div>
+</div>

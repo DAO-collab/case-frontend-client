@@ -1,0 +1,140 @@
+<article
+  id="content"
+  class="tabs fullscreen-page"
+  *ngIf="!loading"
+  [ngClass]="{ touchedSubmit: formTouched, 'module-d': !form }"
+>
+  <div>
+    <div style="width: 100%">
+      <div style="display: flex; min-height: calc(100vh - 80px)">
+        ">
+        <div class="content-left-panel">
+          <h2 class="left-panel-title" translate>Pages</h2>
+          <div class="content-left-panel-inner">
+            <cdk-virtual-scroll-viewport itemSize="164" minBufferPx="2000" maxBufferPx="2000" style="height: 100%">
+              <div
+                class="doc-page"
+                *cdkVirtualFor="let page of checkObjectValues(pageData); let index = index"
+                (click)="switchDocumentPage(index + 1)"
+              >
+                <div class="page-menu-item">
+                  <span class="section" [ngClass]="{ selected: activeDocPage == index + 1 }">Page {{ index + 1 }}</span>
+                </div>
+                <ng-container *ngFor="let field of getSchemaListFromUiList(index + 1)">
+                  <span class="section sub">{{ field.title }}</span>
+                </ng-container>
+              </div>
+            </cdk-virtual-scroll-viewport>
+          </div>
+        </div>
+        <div class="content-main-panel">
+          <div class="header-content">
+            <h2 class="header-breadcrumb">
+              <span translate>Forms</span><img src="../../../../images/arrow-right-dark.svg" alt="#" />
+              <span>{{ formModel?.name ? shorTitleName(formModel?.name!, 40) : 'Create New Form Builder' }}</span>
+            </h2>
+            <div>
+              <button
+                class="primary-outline custom-color-builder-button btn-download"
+                (click)="downloadPDF()"
+                translate
+              >
+                Download
+              </button>
+              <button class="primary-outline custom-color-builder-button" (click)="backToForms()" translate>
+                Close
+              </button>
+            </div>
+          </div>
+          <figure>
+            <div class="doc-toolbar">
+              <!-- Functionality to navigate between document pages -->
+              <div class="pages-navigation">
+                <a class="nav-button" (mouseup)="previousDoc()">
+                  <img src="../../../../images/arrow-right-dark.svg" alt="#" />
+                </a>
+                <span translate>Page</span>
+                &nbsp;
+                <input
+                  type="number"
+                  [value]="activeDocPage"
+                  (keyup)="switchDocumentPage($any($event.target)?.value && +$any($event.target)?.value - 1)"
+                />
+                &nbsp;
+                <span translate>of</span>
+                &nbsp;
+                <span>{{ displayCount }}</span>
+                <a class="nav-button" (mouseup)="nextDoc()">
+                  <img src="../../../../images/arrow-right-dark.svg" alt="#" />
+                </a>
+              </div>
+            </div>
+
+            <div class="text-center" #content>
+              <div
+                class="documents-list"
+                style="height: 100vh; width: 100%; overflow-y: auto"
+                [ngClass]="{ centered: true }"
+              >
+                <div class="document-image-wrapper">
+                  <div *ngIf="isEmptyData()" class="none-field-notification">
+                    <p>Welcome to form builder.<br />Start by adding new elements to the page</p>
+                  </div>
+                  <ng-container *ngIf="!is_preview">
+                    <app-form-preview
+                      [components]="components"
+                      [submission]="submission"
+                      [userField]="userField"
+                      [realVariable]="realVariable"
+                    ></app-form-preview>
+                  </ng-container>
+                  <ng-container *ngIf="is_preview">
+                    <app-form-preview [components]="components"></app-form-preview>
+                  </ng-container>
+                </div>
+              </div>
+            </div>
+          </figure>
+          <br />
+        </div>
+        <div class="content-right-panel">
+          <h2 class="right-panel-title" translate>Action Required</h2>
+
+          <div *ngIf="checkObjectKeys(pageData).length">
+            <div class="properties-section" *ngFor="let page of checkObjectValues(pageData); let index = index">
+              <span class="property-page-title"><span translate>Page</span> {{ index + 1 }}</span>
+              <div *ngFor="let property of getSchemaListFromUiList(index + 1); let i = index" class="property-section">
+                <!--                <ng-container *ngIf="property.require">-->
+                <div class="cursor-pointer" *ngIf="property.title" (click)="switchDocumentPage(index + 1)">
+                  <label class="container cg-box">
+                    <input
+                      type="checkbox"
+                      name="defaultsField"
+                      class="form-control"
+                      [checked]="
+                        submission[property.key] &&
+                        submission[property.key] !== ' ' &&
+                        submission[property.key].length !== 0
+                      "
+                      disabled
+                    />
+                    <span class="checkmark"></span>
+                  </label>
+                  <span>{{ property.title }}</span>
+                </div>
+                <div *ngIf="property.title">
+                  <a class="" (click)="switchDocumentPage(index + 1)">
+                    <img src="../../../../images/element-arrow.svg" />
+                  </a>
+                </div>
+                <!--                </ng-container>-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+<app-loader [active]="loading"></app-loader>

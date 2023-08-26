@@ -1,0 +1,76 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Jak přiřadit, upravit nebo odebrat přiřazení uživatele pomocí nástroje pro import
+</h1>
+<p>Tento článek ukazuje správcům, jak spravovat uživatele případů pomocí nástroje Import.</p>
+<p>Správci mohou:</p>
+<ul>
+  <li>přiřadit uživatele k případu</li>
+  <li>upravit uživatele již přiřazené k případu</li>
+  <li>odebrat uživatele přiřazené k případu</li>
+</ul>
+<h2 id="opening-the-import-tool">Otevření nástroje Import</h2>
+<ol style="list-style-type: decimal">
+  <li>Přihlaste se k účtu správce.</li>
+  <li>Vyhledejte aplikaci na stránce Aplikace a klikněte na tlačítko SPRÁVCE.</li>
+  <li>Klepněte na kartu Integrace a poté v podnabídce IMPORTY.</li>
+  <li>Klikněte na tlačítko NOVÝ. Zobrazí se dialogové okno Přidat importy.</li>
+</ol>
+<h2 id="creating-records">Vytváření záznamů</h2>
+<p>
+  Stáhněte si jeden nebo více souborů CSV. Pomocí těchto souborů můžete přidat, upravit nebo odebrat uživatele případu.
+  Po otevření dialogového okna Přidat importy:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Klepněte na pole Typ.</li>
+  <li>Procházejte rozevírací nabídku a vyberte možnost (viz níže). Zobrazí se odkaz.</li>
+  <li>Klikněte na odkaz Stáhnout ukázku. Soubor CSV se stáhne do vašeho zařízení.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>Otevřete soubor a přidejte záznamy. Kliknutím sem se dozvíte, jak používat data formátu v souboru CSV.</p>
+<h3 id="file-options">Možnosti souboru</h3>
+<p>
+  <strong>Přiřadit uživatele k případům</strong> * Tuto možnost vyberte, chcete-li přidat uživatele k případu. * Buňku
+  case_role_order ponechte prázdnou. * Přejděte na stránku Uživatelé a zkopírujte ID značky této osoby. Pokud je pole ID
+  značky prázdné, zadejte jedinečné ID, klikněte na Uložit a zkopírujte ID do souboru CSV.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Upravit uživatele přiřazené k případům</strong> * Tuto možnost vyberte, chcete-li aktualizovat data pro
+  aktuální uživatele přiřazené k případu. * Pro sloupec case_ID použijte Case Tag ID.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  <strong>Odebrat uživatele přiřazené k případům</strong> * Tuto možnost vyberte, chcete-li odebrat uživatele přiřazené
+  k případu.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Nahrávání souboru</h2>
+<p>Soubor můžete nahrát ihned nebo se později vrátit do dialogového okna Přidat importy a provést tyto kroky.</p>
+<ol style="list-style-type: decimal">
+  <li>Otevřete dialogové okno Přidat importy.</li>
+  <li>Zadejte jedinečný název souboru CSV.</li>
+  <li>Kliknutím na ikonu plus (+) nahrajete soubor ze svého zařízení.</li>
+  <li>Klepněte na pole Typ a vyberte možnost. (viz výše)</li>
+  <li>Klikněte na ULOŽIT.</li>
+</ol>
+<h2 id="processing">zpracovává se</h2>
+<p>V závislosti na počtu záznamů v souboru a zatížení systému může platformě zpracování importu trvat několik minut.</p>
+<div class="figure"><img src="/images/user-case-import-5.png" alt="img" /></div>
+<p>Po dokončení importu platforma upraví uživatelské záznamy (tj. přidá, upraví nebo odebere) na stránce Případy.</p>
+<h2 id="failure">Selhání</h2>
+<p>
+  Pokud se operace importu nezdaří, platforma vrátí zprávu Failed. Ve většině případů je příčinou selhání formátování
+  dat.
+</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Chcete-li zjistit příčinu selhání:</p>
+<ol style="list-style-type: decimal">
+  <li>Klikněte na Zobrazit pod nadpisem Akce.</li>
+  <li>Na další stránce najeďte myší na ikonu Selhalo. Popisek zobrazuje chybu.</li>
+  <li>Přejděte do souboru CVS a upravte a opravte chybu.</li>
+  <li>Nahrajte soubor znovu.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-7.png" alt="img" /></div>

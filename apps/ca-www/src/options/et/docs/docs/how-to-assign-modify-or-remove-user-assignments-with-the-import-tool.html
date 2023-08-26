@@ -1,0 +1,84 @@
+<h1 id="how-to-assign-modify-or-remove-user-assignments-with-the-import-tool">
+  Kuidas määrata, muuta või eemaldada imporditööriista abil kasutajamääranguid
+</h1>
+<p>See artikkel näitab administraatoritele, kuidas hallata juhtumi kasutajaid imporditööriistaga.</p>
+<p>Administraatorid saavad:</p>
+<ul>
+  <li>määrata juhtumile kasutajad</li>
+  <li>muuta juhtumile juba määratud kasutajaid</li>
+  <li>juhtumile määratud kasutajate eemaldamine</li>
+</ul>
+<h2 id="opening-the-import-tool">Importimise tööriista avamine</h2>
+<ol style="list-style-type: decimal">
+  <li>Logige sisse administraatori kontole.</li>
+  <li>Leidke rakenduste lehelt rakendus ja klõpsake nuppu ADMIN.</li>
+  <li>Klõpsake vahekaarti Integratsioon ja seejärel alammenüüs IMPORTID.</li>
+  <li>Klõpsake nuppu UUS. Kuvatakse dialoogiboks Import Imports.</li>
+</ol>
+<h2 id="creating-records">Kirjete loomine</h2>
+<p>
+  Laadige alla üks või mitu CSV-faili. Kasutage neid faile juhtumi kasutajate lisamiseks, muutmiseks või eemaldamiseks.
+  Pärast dialoogiboksi Import Imports avanemist:
+</p>
+<ol style="list-style-type: decimal">
+  <li>Klõpsake väljal Tüüp.</li>
+  <li>Kerige rippmenüüd ja tehke valik (vt allpool). Kuvatakse link.</li>
+  <li>Klõpsake linki Laadi näidis alla. CSV-fail laaditakse teie seadmesse alla.</li>
+</ol>
+<div class="figure"><img src="/images/user-case-import-1.png" alt="img" /></div>
+<p>
+  Avage fail ja lisage kirjed. Klõpsake siin, et saada teavet selle kohta, kuidas kasutada CSV-failis vorminguandmeid.
+</p>
+<h3 id="file-options">Faili valikud</h3>
+<p>
+  <strong>Juhtudele kasutajate määramine</strong> * Valige see suvand juhtumile kasutajate lisamiseks. * Jätke lahter
+  case_role_order tühjaks. * Minge lehele Kasutajad ja kopeerige selle inimese sildi ID. Kui väli Sildi ID on tühi,
+  sisestage kordumatu ID, klõpsake nuppu Salvesta ja seejärel kopeerige ID CSV-faili.
+</p>
+<div class="figure"><img src="/images/user-case-import-2.png" alt="img" /></div>
+<p>
+  <strong>Juhtumitele määratud kasutajate muutmine</strong> * Valige see suvand juhtumile määratud praeguste kasutajate
+  andmete värskendamiseks. * Kasutage juhtumi_ID veeru jaoks Case Tag ID.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  <strong>Eemalda juhtumitele määratud kasutajad</strong> * Valige see suvand juhtumile määratud kasutajate
+  eemaldamiseks.
+</p>
+<div class="figure"><img src="/images/user-case-import-4.png" alt="img" /></div>
+<h2 id="uploading-the-file">Faili üleslaadimine</h2>
+<p>Saate faili kohe üles laadida või hiljem naasta dialoogiboksi Importimise lisamine ja need sammud lõpule viia.</p>
+<ol style="list-style-type: decimal">
+  <li>Avage dialoogiboks Impordi lisamine.</li>
+  <li>Sisestage CSV-faili kordumatu nimi.</li>
+  <li>Faili seadmest üleslaadimiseks klõpsake plussmärgi (+) ikoonil.</li>
+  <li>Klõpsake väljal Tüüp ja tehke valik. (vt eespool)</li>
+  <li>Klõpsake SAVE.</li>
+</ol>
+<h2 id="processing">Töötlemine</h2>
+<p>
+  Sõltuvalt failis olevate kirjete arvust ja süsteemi laadimisest võib platvormil impordi töötlemiseks kuluda mitu
+  minutit.
+</p>
+<div class="figure">
+  <img src="/images/user-case-import-5.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Kui importimine on lõppenud, kohandab platvorm lehel Juhtumid kasutajakirjeid (st lisab, muudab või eemaldab).</p>
+<h2 id="failure">Ebaõnnestumine</h2>
+<p>Kui importimine ebaõnnestub, tagastab platvorm Failed teate. Enamasti on rikke põhjuseks andmete vormindamine.</p>
+<div class="figure"><img src="/images/user-case-import-6.png" alt="img" /></div>
+<p>Rikke põhjuse nägemiseks tehke järgmist.</p>
+<ol style="list-style-type: decimal">
+  <li>Klõpsake jaotise Toiming all nuppu Vaade.</li>
+  <li>Järgmisel lehel hõljutage kursorit ebaõnnestunud ikoonil. Tööriistaspikker kuvab vea.</li>
+  <li>Minge CVS-faili ning korrigeerige ja parandage viga.</li>
+  <li>Laadige fail uuesti üles.</li>
+</ol>
+<div class="figure">
+  <img src="/images/user-case-import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>

@@ -1,0 +1,91 @@
+<section id='content'>
+  <div class='content-wrapper' *ngIf='categoriesJSONData && docsJSONData'>
+    <div class='docs-title-wrapper'>
+      <div class='docs-upper-title-wrapper'>
+        <div class='docs-upper-title'>{{'Docs' | translate}}</div>
+        <div class='docs-title' translate>Support Documentation</div>
+      </div>
+
+      <div class='docs-subtitle' translate>Get started: processes, best practices, setup guides, and more!</div>
+    </div>
+
+    <div class='docs-search-wrapper'>
+      <form class='form-a docs-category-form' novalidate *ngIf='categoryDropdownValues?.length'>
+        <p>
+          <label class='input-label' for='faa' *ngIf='!searchValue' translate>
+            Find anything you need to get to work in CaseActive.
+          </label>
+          <input class='docs-search' type='text' id='faa' name='q' maxlength='250' [(ngModel)]='searchValue' />
+        </p>
+
+        <p class='mobile-hide'>
+          <ng-select
+            placeholder='Select category'
+            id='fab'
+            name='category_id'
+            bindLabel='value'
+            bindValue='value'
+            [virtualScroll]='true'
+            [searchable]='false'
+            [clearable]='false'
+            [(ngModel)]='selectedSearchCategory'
+            translate
+          >
+            <ng-option [value]="allCategories">{{ allCategories | translate }}</ng-option>
+            <ng-container *ngFor="let category of categoryDropdownValues">
+              <ng-option [value]="category.value">{{ 'category_name.' + category.value | translate }}</ng-option>
+            </ng-container>
+
+          </ng-select>
+        </p>
+
+        <p class='submit'>
+          <button type='submit'>
+            <span>{{'Search' | translate}}</span>
+          </button>
+        </p>
+      </form>
+
+      <div class='search-elements-wrapper' *ngIf='searchValue?.length > 1'>
+        <div class='search-elements-wrapper-content'>
+          <div *ngFor='let category of categoriesJSONData | keyvalue'>
+            <ul
+              class='docs-category-ul'
+              *ngIf='selectedSearchCategory && category.value.name === selectedSearchCategory || selectedSearchCategory === allCategories'
+            >
+              <ng-container *ngFor='let item of category.value.docs'>
+                <li class='docs-category-ul-li' *ngIf='isContainsSearchValue(item)'>
+                  <a [routerLink]='$any(item)' class="doc-category-title">
+                    <span>{{'docs_title.' + item | translate}}</span>
+                  </a>
+                </li>
+              </ng-container>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class='docs-category-wrapper'>
+      <div class='docs-category' *ngFor='let category of categoriesJSONData | keyvalue'>
+        <h2>
+          <img
+            class='docs-category-ul-li-img'
+            alt=''
+            *ngIf='category.value.image'
+            [src]='"/assets/markdowns/" + category.value.image'
+          >
+          {{'category_name.' + category.value.name | translate}}
+        </h2>
+        <ul class='docs-category-ul'>
+          <li class='docs-category-ul-li' *ngFor='let item of category.value.docs' >
+            <a [routerLink]='$any(item)' class="doc-category-title">
+              <span>{{'docs_title.' + item | translate}}</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+

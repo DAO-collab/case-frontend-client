@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Loe k\u00f5iki juhtumeid, t\u00e4psustage rollis",
+    "write": "Kirjutage rollis k\u00f5ik juhtumite v\u00e4ljad"
+  },
+  "convos": {
+    "read_all": "Vaadake konvoside hetkeolekut.",
+    "manage_own": "Konvoga liitumine ja sellest loobumine.",
+    "moderate_others": "Alusta vestlust, l\u00f5peta vestlus ja eemalda osaleja.",
+    "read_all_submissions": "Lugege k\u00f5iki salvestatud vestlusi."
+  },
+  "events": {
+    "read_all": "Lugege k\u00f5iki s\u00fcndmusi.",
+    "manage_own": "Looge, v\u00e4rskendage ja kustutage oma s\u00fcndmus.",
+    "moderate_others": "V\u00e4rskendage ja kustutage teiste s\u00fcndmusi.",
+    "read_all_submissions": "Lugege k\u00f5iki s\u00fcndmuste kinnitusi.",
+    "submit_own": "Kinnitage \u00fcritusel osalemise soov."
+  },
+  "posts": {
+    "read_all": "Loe k\u00f5iki postitusi.",
+    "manage_own": "Looge, v\u00e4rskendage ja kustutage oma postitus.",
+    "moderate_others": "V\u00e4rskendage ja kustutage teiste postitusi."
+  },
+  "forms": {
+    "read_all": "Lugege k\u00f5iki vorme.",
+    "manage_own": "Looge, v\u00e4rskendage ja kustutage oma vorm.",
+    "moderate_others": "V\u00e4rskendage ja kustutage teiste vormi.",
+    "read_all_submissions": "Lugege l\u00e4bi k\u00f5ik vormi esildised.",
+    "submit_own": "Esitage vormitaotlus."
+  },
+  "invoices": {
+    "read_all": "Lugege k\u00f5iki arveid.",
+    "manage_own": "Looge, v\u00e4rskendage ja kustutage oma arve.",
+    "moderate_others": "Uuenda ja kustuta teiste arve.",
+    "read_all_submissions": "Lugege k\u00f5iki esitatud arveid.",
+    "submit_own": "Esitage arve taotlus."
+  },
+  "notes": {
+    "read_all": "Lugege k\u00f5iki m\u00e4rkmeid.",
+    "manage_own": "Looge, v\u00e4rskendage ja kustutage oma m\u00e4rge.",
+    "moderate_others": "V\u00e4rskendage ja kustutage teiste m\u00e4rkmeid."
+  },
+  "signs": {
+    "read_all": "Lugege l\u00e4bi k\u00f5ik e-m\u00e4rgid.",
+    "manage_own": "Looge, v\u00e4rskendage ja kustutage oma e-m\u00e4rk.",
+    "moderate_others": "Uuenda ja kustuta teiste e-m\u00e4rki.",
+    "read_all_submissions": "Lugege l\u00e4bi k\u00f5ik e-allkirja esildised.",
+    "submit_own": "Esitage v\u00e4lja taotlus."
+  },
+  "tasks": {
+    "read_all": "Lugege k\u00f5iki \u00fclesandeid.",
+    "manage_own": "Looge, v\u00e4rskendage ja kustutage oma \u00fclesanne.",
+    "moderate_others": "V\u00e4rskendage ja kustutage teise \u00fclesanne.",
+    "read_all_submissions": "Lugege k\u00f5iki esitatud \u00fclesandeid.",
+    "submit_own": "Esitage \u00fclesande taotlus."
+  },
+  "team": { "read_all": "Lugege meeskonda juhuks" }
+}

@@ -1,0 +1,36 @@
+<section id="content" xmlns="http://www.w3.org/1999/html">
+  <header class="heading-a">
+    <h2>
+      <span class="small" translate>SUPPORT</span>
+      <span translate>Everything at Your Fingertips.</span>
+    </h2>
+    <p translate>
+      Get started with your CaseActive app by following our video guide, and customize it to suit your needs.
+    </p>
+  </header>
+
+  <form class="form-a" novalidate>
+    <p>
+      <label for="faa" translate>What are you looking for...</label>
+      <input type="text" id="faa" name="q" maxlength="250" />
+    </p>
+
+    <p class="mobile-hide">
+      <ng-select
+        id="fab"
+        name="category_id"
+        [virtualScroll]="true"
+        [searchable]="false"
+        [clearable]="false"
+      ></ng-select>
+    </p>
+    <p class="submit">
+      <button type="submit">
+        <span translate>Search</span>
+      </button>
+    </p>
+  </form>
+  <div class="news-a b videos">
+    <!--p class="link-a mobile-only"><a class="b" href="./">Show more videos</a></p-->
+  </div>
+</section>

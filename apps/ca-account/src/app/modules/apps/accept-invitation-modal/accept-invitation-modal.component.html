@@ -1,0 +1,195 @@
+<app-modal type="form-d" (close)="closeModal()">
+  <h2 style="padding-right: 20px">
+    <span>Settings</span>
+  </h2>
+
+  <article id="accept-invitation-content">
+    <div class="tabs module-d module-d-pop-up clean-tabs">
+      <ul>
+        <li [ngClass]="{ active: tabNumber === SETTING_MODE.COMPANY_INFO }">
+          <a (click)="switchTabs(SETTING_MODE.COMPANY_INFO)" translate>Info</a>
+        </li>
+        <li [ngClass]="{ active: tabNumber === SETTING_MODE.NOTIFICATIONS }">
+          <a (click)="switchTabs(SETTING_MODE.NOTIFICATIONS)" translate>Notifications</a>
+        </li>
+        <li
+          [ngClass]="{ active: tabNumber === SETTING_MODE.PERMISSION }"
+          *ngIf="app?.host_user_type !== HostUserType.Admin"
+        >
+          <a (click)="switchTabs((tabNumber = SETTING_MODE.PERMISSION))" translate>Permissions</a>
+        </li>
+        <li
+          [ngClass]="{ active: tabNumber === SETTING_MODE.PAYMENT }"
+          *ngIf="app?.host_user_type === HostUserType.Admin || app?.host_user_type === HostUserType.Manage"
+        >
+          <a [class.no-events]="!clientSecret" (click)="switchTabs(SETTING_MODE.PAYMENT)" translate>Billing</a>
+        </li>
+      </ul>
+    </div>
+
+    <div [class.hide]="tabNumber !== SETTING_MODE.PAYMENT">
+      <div class="custom-fields-group a">
+        <p class="semantic-select-wrapper only-for-preview" *ngIf="isEdit" [formGroup]="planForm">
+          <label for="payment-preview" translate>Payment Plan</label>
+          <ng-select
+            id="payment-preview"
+            [items]="paymentPlans"
+            bindLabel="text"
+            bindValue="id"
+            formControlName="plan"
+          ></ng-select>
+        </p>
+
+        <p class="error-text text-center" *ngIf="appsService.paymentError.show && !requestPaymentError.errorMessage">
+          {{ appsService.paymentError.errorMessage }}
+        </p>
+
+        <p class="error-text text-center" *ngIf="requestPaymentError.show">
+          {{ requestPaymentError.errorMessage }}
+        </p>
+
+        <div *ngIf="isEdit">
+          <figure>
+            <img alt="Placeholder" width="160" height="160" src="images/card-logo.svg" />
+            <div>
+              <span>{{ cardHolder }}</span>
+              <h6>{{ cardBrand }}</h6>
+              <span>{{ cardExpires }}</span>
+            </div>
+          </figure>
+          <p class="figure edit-wrapper-p"><a (click)="editPaymentClicked()" translate>Edit</a></p>
+        </div>
+
+        <ng-container *ngIf="!isEdit">
+          <p class="semantic-select-wrapper" [formGroup]="planForm">
+            <label for="payment" translate>Payment Plan</label>
+            <ng-select
+              [items]="paymentPlans"
+              id="payment"
+              bindLabel="text"
+              bindValue="id"
+              formControlName="plan"
+            ></ng-select>
+          </p>
+          <form id="payment-form">
+            <div id="payment-element"></div>
+            <div id="error-message"></div>
+          </form>
+        </ng-container>
+      </div>
+
+      <p class="submit">
+        <button type="reset" (click)="closeModal()" translate>Cancel</button>
+        <button *ngIf="!isEdit" type="submit" [disabled]="paymentSaving" (click)="submitStripe()">
+          <span translate>Save</span>
+        </button>
+      </p>
+    </div>
+
+    <div [class.hide]="tabNumber !== SETTING_MODE.COMPANY_INFO">
+      <div class="custom-fields-group display-flex mb-40">
+        <div class="company-info-body">
+          <div class="list-group">
+            <span class="company-info-title">Company ID:</span>
+            <span class="company-info-content">{{ app?.host_id }}</span>
+          </div>
+          <div class="list-group">
+            <span class="company-info-title">Company Name: </span>
+            <span class="company-info-content"> {{ app?.name }} </span>
+          </div>
+          <div class="list-group">
+            <span class="company-info-title" [innerHTML]="'Website:' | translate"></span
+            ><a class="company-info-content" target="_blank" [href]="app?.website"> {{ app?.website }}</a>
+          </div>
+        </div>
+        <div class="company-info-img">
+          <img src="images\illustrations\case_about.svg" alt="Placeholder" width="115" />
+        </div>
+      </div>
+
+      <p class="submit">
+        <button type="reset" (click)="closeModal()" translate>Cancel</button>
+      </p>
+    </div>
+
+    <div class="custom-fields-group a notifications-custom-div" *ngIf="tabNumber === SETTING_MODE.NOTIFICATIONS">
+      <p
+        class="half a notification-body"
+        *ngIf="notificationsValue?.length"
+        [ngClass]="{ 'read-only': app?.host_user_type === HostUserType.Admin }"
+      >
+        <ng-container *ngFor="let item of display_notification">
+          <label translate class="bold notifications-label">{{ item.label }}</label> <br />
+          <ng-container *ngFor="let item_selection of item.value">
+            <ng-container *ngFor="let notification of notificationsValue">
+              <span class="notification" *ngIf="notification.id === item_selection">
+                <label translate class="container notification-label" style="display: inline">
+                  <span class="notation-label">{{ notification.text }}</span>
+                  <input
+                    style="width: 20px !important; height: 30px; float: left !important"
+                    id="notification"
+                    type="checkbox"
+                    [checked]="showCheckedOrUnchecked(item_selection)"
+                    (change)="notificationUpdated(item_selection)"
+                  />
+                  <span class="checkmark"></span>
+                </label>
+              </span>
+            </ng-container>
+          </ng-container>
+          <br />
+        </ng-container>
+      </p>
+      <p class="submit">
+        <button type="reset" (click)="closeModal()" translate>Cancel</button>
+        <button
+          type="submit"
+          (click)="submitNotifications()"
+          [ngClass]="{ 'read-only': app?.host_user_type === HostUserType.Admin }"
+        >
+          Save
+        </button>
+      </p>
+    </div>
+
+    <div [class.hide]="tabNumber !== SETTING_MODE.PERMISSION">
+      <div class="custom-fields-group a notification-body">
+        <p *ngIf="app?.host_granted_status === 1" translate>
+          <span>{{ app?.name }}</span
+          ><span translate> has access to your information below:</span>
+        </p>
+
+        <p *ngIf="app?.host_granted_status === 0">
+          <span>{{ app?.name }}</span>
+          <span translate> has invited you to their client portal. </span>
+          <span>{{ app?.name }}</span
+          ><span translate> want access to the following information:</span>
+        </p>
+
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let item of userFields">
+            {{ item | translate }}
+          </li>
+        </ul>
+        <p>
+          <span [innerHTML]="'Homepage:' | translate"></span
+          ><a target="_blank" [href]="app?.website"> {{ app?.website }}</a>
+        </p>
+      </div>
+
+      <p class="submit">
+        <button *ngIf="app?.host_granted_status === 1" type="reset" (click)="closeModal()" translate>Cancel</button>
+        <button *ngIf="app?.host_granted_status === 0" type="reset" (click)="revokeAppInvitation()" translate>
+          Decline
+        </button>
+
+        <button type="submit" *ngIf="app?.host_granted_status === 0">
+          <span (click)="acceptAppInvitation()" [innerHTML]="'Approve Access' | translate"></span>
+        </button>
+        <button type="submit" *ngIf="app?.host_granted_status === 1">
+          <span (click)="revokeAppInvitation()" translate>Remove Access</span>
+        </button>
+      </p>
+    </div>
+  </article>
+</app-modal>

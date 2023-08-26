@@ -1,0 +1,55 @@
+{
+  "case": { "read": "Funda yonke indawo yemeko ecacileyo ngokwendima", "write": "Bhala zonke iimeko ezichaza indima" },
+  "convos": {
+    "read_all": "Jonga imeko yangoku yeeconvos.",
+    "manage_own": "Joyina kwaye ungajoyini i-convo.",
+    "moderate_others": "Qala i-convo, phelisa i-convo, kwaye ususe umthathi-nxaxheba.",
+    "read_all_submissions": "Funda zonke iiconvos ezirekhodiweyo."
+  },
+  "events": {
+    "read_all": "Funda zonke iziganeko.",
+    "manage_own": "Yenza, uhlaziye kwaye ucime isiganeko sakho.",
+    "moderate_others": "Hlaziya kwaye ucime isiganeko somnye.",
+    "read_all_submissions": "Funda zonke iziqinisekiso zesiganeko.",
+    "submit_own": "Qinisekisa isicelo sokuzimasa umcimbi."
+  },
+  "posts": {
+    "read_all": "Funda zonke izithuba.",
+    "manage_own": "Yenza, uhlaziye kwaye ucime iposti yakho.",
+    "moderate_others": "Hlaziya kwaye ucime iposti yabanye."
+  },
+  "forms": {
+    "read_all": "Funda zonke iifom.",
+    "manage_own": "Yenza, uhlaziye kwaye ucime ifom yakho.",
+    "moderate_others": "Hlaziya kwaye ucime ifom yomnye.",
+    "read_all_submissions": "Funda zonke iifomu ezingeniswayo.",
+    "submit_own": "Ngenisa isicelo sefomu."
+  },
+  "invoices": {
+    "read_all": "Funda zonke ii-invoyisi.",
+    "manage_own": "Yenza, uhlaziye kwaye ucime i-invoyisi yakho.",
+    "moderate_others": "Hlaziya kwaye ucime i-invoyisi yabanye.",
+    "read_all_submissions": "Funda zonke ii-invoyisi ezingeniswayo.",
+    "submit_own": "Ngenisa isicelo se-invoyisi."
+  },
+  "notes": {
+    "read_all": "Funda onke amanqaku.",
+    "manage_own": "Yenza, uhlaziye kwaye ucime inqaku lakho.",
+    "moderate_others": "Hlaziya kwaye ucime inqaku lomnye."
+  },
+  "signs": {
+    "read_all": "Funda zonke iimpawu ze-imeyile.",
+    "manage_own": "Yenza, uhlaziye kwaye ucime uphawu lwakho lwe-imeyile.",
+    "moderate_others": "Hlaziya kwaye ucime i-e-sign yabanye.",
+    "read_all_submissions": "Funda zonke izinto ezingeniswayo ze-e-sign.",
+    "submit_own": "Ngenisa isicelo sommandla."
+  },
+  "tasks": {
+    "read_all": "Funda yonke imisebenzi.",
+    "manage_own": "Yenza, uhlaziye kwaye ucime umsebenzi wakho.",
+    "moderate_others": "Hlaziya kwaye ucime umsebenzi womnye.",
+    "read_all_submissions": "Funda zonke iziphakamiso zomsebenzi.",
+    "submit_own": "Ngenisa isicelo somsebenzi."
+  },
+  "team": { "read_all": "Funda iqela kwimeko" }
+}

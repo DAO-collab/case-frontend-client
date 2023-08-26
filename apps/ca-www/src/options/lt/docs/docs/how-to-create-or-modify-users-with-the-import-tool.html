@@ -1,0 +1,90 @@
+<h1 id="how-to-create-or-modify-users-with-the-import-tool">
+  Kaip sukurti arba modifikuoti vartotojus naudojant importavimo įrankį
+</h1>
+<p>Šiame straipsnyje administratoriams nurodoma, kaip sukurti vartotojus naudojant importavimo įrankį.</p>
+<h2 id="opening-the-import-tool">Importavimo įrankio atidarymas</h2>
+<p>
+  Administratoriai gali naudoti importavimo įrankį norėdami masiškai įkelti naujų naudotojų ir keisti esamus naudotojų
+  įrašus.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Prisijunkite prie administratoriaus paskyros.</li>
+  <li>Programų puslapyje suraskite programą ir spustelėkite mygtuką ADMINISTRATORIUS.</li>
+  <li>Administratoriaus skydelyje spustelėkite skirtuką Integracija, tada submeniu spustelėkite IMPORTUOTI.</li>
+  <li>Spustelėkite mygtuką NAUJAS. Dialogo langas Pridėti importą rodomas naujame naršyklės skirtuke.</li>
+</ol>
+<div class="figure">
+  <img src="/images/import-3.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="creating-records">Įrašų kūrimas</h2>
+<p>Atsidarius dialogo langui Add Imports:</p>
+<ol style="list-style-type: decimal">
+  <li>Spustelėkite lauką <strong>Tipas</strong> ir pasirinkite parinktį (žr. toliau). Rodoma nuoroda.</li>
+  <li>Spustelėkite nuorodą <strong>Atsisiųsti pavyzdį</strong> . CSV failas atsisiunčiamas į jūsų įrenginį.</li>
+</ol>
+<p>
+  Tada atidarykite failą ir pridėkite įrašų. Spustelėkite
+  <a href="docs/how-to-format-csv-data" target="_blank">čia</a> , kad sužinotumėte, kaip naudoti formato duomenis CSV
+  faile.
+</p>
+<div class="figure"><img src="/images/import-4.png" alt="img" /></div>
+<h2 id="type">Tipas</h2>
+<p>Spustelėjus lauką Tipas, rodomas išskleidžiamasis meniu. Pasirinkite vieną iš dviejų masinio importo parinkčių.</p>
+<p>
+  :Exlamation: <strong>PASTABA</strong> Išskleidžiamajame meniu yra daug parinkčių, tačiau tik dvi yra susijusios su
+  Importavimo įrankiu. Kiekviena parinktis turi skirtingą CSV failo pavyzdį.
+</p>
+<h3 id="add-users">Pridėti vartotojų</h3>
+<ul>
+  <li>Pasirinkite šią parinktį, jei norite paprastai masiškai įkelti naudotojo įrašus.</li>
+  <li>
+    Spustelėkite nuorodą Atsisiųsti pavyzdį, kad atidarytumėte CSV failą su importavimo tipo Pridėti vartotojų stulpelių
+    antraštėmis.
+  </li>
+</ul>
+<h3 id="modify-users">Keisti vartotojus</h3>
+<ul>
+  <li>Pasirinkite šią parinktį, jei norite atnaujinti dabartinių naudotojų duomenis.</li>
+  <li>
+    Spustelėkite nuorodą Atsisiųsti pavyzdį, kad atidarytumėte CSV failą su stulpelių antraštėmis, skirtomis Importuoti
+    vartotojus modifikuoti.
+  </li>
+</ul>
+<h2 id="uploading-the-file">Failo įkėlimas</h2>
+<p>Galite iš karto įkelti failą arba vėliau grįžti į dialogo langą Pridėti importą ir atlikti šiuos veiksmus.</p>
+<ol style="list-style-type: decimal">
+  <li>Atidarykite dialogo langą Pridėti importą.</li>
+  <li>Įveskite unikalų CSV failo pavadinimą.</li>
+  <li>Spustelėkite pliuso (+) piktogramą, kad įkeltumėte failą iš savo įrenginio.</li>
+  <li>Spustelėkite lauką <strong>Tipas</strong> ir pasirinkite parinktį. (pažiūrėkite aukščiau)</li>
+  <li>Spustelėkite IŠSAUGOTI.</li>
+</ol>
+<div class="figure"><img src="/images/import-5.png" alt="img" /></div>
+<h2 id="processing">Apdorojimas</h2>
+<p>
+  Atsižvelgiant į įrašų skaičių faile ir sistemos įkėlimą, platforma gali užtrukti kelias minutes, kol bus apdorotas
+  importavimas.
+</p>
+<div class="figure"><img src="/images/import-6.png" alt="img" /></div>
+<p>
+  Kai importavimas baigiamas, platforma koreguoja vartotojo įrašus (ty prideda, modifikuoja arba išjungia)
+  administratoriaus <strong>vartotojų</strong> prietaisų skydelyje.
+</p>
+<h2 id="failure">Nesėkmė</h2>
+<p>
+  Jei importavimo operacija nepavyksta, platforma grąžina pranešimą Nepavyko. Daugeliu atvejų gedimo priežastis yra
+  duomenų formatavimas.
+</p>
+<div class="figure">
+  <img src="/images/import-7.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>Norėdami sužinoti gedimo priežastį:</p>
+<ol style="list-style-type: decimal">
+  <li>Po antrašte Veiksmas spustelėkite <strong>Rodyti</strong> .</li>
+  <li>Kitame puslapyje užveskite pelės žymeklį ant Nepavyko piktogramos. Patarimas rodo klaidą.</li>
+  <li>Eikite į CVS failą ir sureguliuokite bei ištaisykite klaidą.</li>
+  <li>Įkelkite failą dar kartą.</li>
+</ol>
+<div class="figure"><img src="/images/import-8.png" alt="img" /></div>

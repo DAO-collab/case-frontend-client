@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Leugh a h-uile raon c\u00f9ise air a sh\u00f2nrachadh san dreuchd",
+    "write": "Sgr\u00ecobh a h-uile raon c\u00f9ise air a sh\u00f2nrachadh san dreuchd"
+  },
+  "convos": {
+    "read_all": "Thoir s\u00f9il air suidheachadh l\u00e0ithreach convos.",
+    "manage_own": "Thig c\u00f2mhla agus unjoin convo.",
+    "moderate_others": "T\u00f2isich convo, cr\u00ecochnaich convo, agus cuir \u00e0s don chom-p\u00e0irtiche.",
+    "read_all_submissions": "Leugh a h-uile convos cl\u00e0raichte."
+  },
+  "events": {
+    "read_all": "Leugh a h-uile tachartas.",
+    "manage_own": "Cruthaich, \u00f9raich agus cuir \u00e0s do thachartas fh\u00e8in.",
+    "moderate_others": "\u00d9raich agus cuir \u00e0s do thachartas dhaoine eile.",
+    "read_all_submissions": "Leugh a h-uile dearbhadh tachartais.",
+    "submit_own": "Dearbhaich iarrtas l\u00e0thaireachd tachartais."
+  },
+  "posts": {
+    "read_all": "Leugh a h-uile post.",
+    "manage_own": "Cruthaich, \u00f9raich agus cuir \u00e0s do phost fh\u00e8in.",
+    "moderate_others": "\u00d9raich agus sguab \u00e0s post eile."
+  },
+  "forms": {
+    "read_all": "Leugh a h-uile foirm.",
+    "manage_own": "Cruthaich, \u00f9raich agus cuir \u00e0s don fhoirm agad fh\u00e8in.",
+    "moderate_others": "\u00d9raich agus sguab \u00e0s am foirm aig daoine eile.",
+    "read_all_submissions": "Leugh a h-uile foirm tagraidh.",
+    "submit_own": "Cuir a-steach iarrtas foirm."
+  },
+  "invoices": {
+    "read_all": "Leugh na cunntasan uile.",
+    "manage_own": "Cruthaich, \u00f9raich agus cuir \u00e0s do fh\u00e0irdeal fh\u00e8in.",
+    "moderate_others": "\u00d9raich agus cuir \u00e0s do fh\u00e0irdeal cuid eile.",
+    "read_all_submissions": "Leugh a h-uile tagradh f\u00e0irdeal.",
+    "submit_own": "Cuir a-steach iarrtas invoice."
+  },
+  "notes": {
+    "read_all": "Leugh a h-uile nota.",
+    "manage_own": "Cruthaich, \u00f9raich agus cuir \u00e0s don nota agad fh\u00e8in.",
+    "moderate_others": "\u00d9raich agus sguab \u00e0s nota neach eile."
+  },
+  "signs": {
+    "read_all": "Leugh a h-uile soidhne-d.",
+    "manage_own": "Cruthaich, \u00f9raich agus cuir \u00e0s do shoidhne-d fh\u00e8in.",
+    "moderate_others": "\u00d9raich agus cuir \u00e0s do shoidhne-d dhaoine eile.",
+    "read_all_submissions": "Leugh a h-uile tagradh soidhne-d.",
+    "submit_own": "Cuir a-steach iarrtas raoin."
+  },
+  "tasks": {
+    "read_all": "Leugh a h-uile gn\u00ecomh.",
+    "manage_own": "Cruthaich, \u00f9raich agus cuir \u00e0s do ghn\u00ecomh fh\u00e8in.",
+    "moderate_others": "\u00d9raich agus cuir \u00e0s do ghn\u00ecomh dhaoine eile.",
+    "read_all_submissions": "Leugh a h-uile tagradh gn\u00ecomh.",
+    "submit_own": "Cuir a-steach iarrtas gn\u00ecomh."
+  },
+  "team": { "read_all": "Leugh sgioba gun fhiosta" }
+}

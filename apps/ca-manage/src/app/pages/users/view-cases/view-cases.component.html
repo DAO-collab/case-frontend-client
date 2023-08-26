@@ -1,0 +1,68 @@
+<article id="content" class="module-d">
+  <ng-container *ngIf="loading$ | async as loading">
+    <app-loader [active]="loading"></app-loader>
+  </ng-container>
+  <div>
+    <h3 translate>
+      VIEW CASES
+      <span class="float-right"
+        >{{ $any(userId$ | async) | split : '-' }}
+        <!-- <div class="popup-copy-icon-wrapper">
+          <img class="signup-copy-icon copy-svg-icon" src="images/copy-icon-inactive.svg" alt="" (click)="copyText()" />
+        </div> -->
+        <ca-copy (click)="copyText()" ></ca-copy>
+        |
+        <a routerLink="/users">{{ 'Back' | translate }}</a>
+      </span>
+    </h3>
+    <div class="table-wrapper">
+      <table class="table-c a">
+        <tbody>
+          <tr>
+            <th class="left-align" translate>Case ID</th>
+            <th translate>Status</th>
+            <th translate>Role</th>
+            <th translate>Action</th>
+          </tr>
+          <ng-container *ngIf="userCases$ | async as userCases">
+            <tr *ngIf="!userCases.length; else cases">
+              <td class="center-align" colspan="6">No Cases</td>
+            </tr>
+            <ng-template #cases>
+              <tr *ngFor="let case of userCases; let index = index">
+                <td class="left-align">
+                  <!-- <div style="display: block;"> -->
+                  <span>
+                    {{ case.case_id | split : '-' }}
+                    <div class="popup-copy-icon-wrapper">
+                      <img
+                        class="signup-copy-icon copy-svg-icon"
+                        src="images/copy-icon-inactive.svg"
+                        alt=""
+                        (click)="copyCaseId(case)"
+                      />
+                      <!-- <div class="copied-tip hide">{{ 'Copied!' | translate }}</div> -->
+                    </div>
+                  </span>
+                  <!-- </div> -->
+                </td>
+                <td>{{ caseStatuses[case.case_status] | translate }}</td>
+                <td>{{ $any(case.case_role_id) ?? '-' }}</td>
+                <td>
+                  <a
+                    appConfirmationPopUp
+                    (yes)="removeCase(case)"
+                    title="Delete Case"
+                    [message]="'You are about to delete case. Are you sure?'"
+                    translate
+                    >remove</a
+                  >
+                </td>
+              </tr>
+            </ng-template>
+          </ng-container>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</article>

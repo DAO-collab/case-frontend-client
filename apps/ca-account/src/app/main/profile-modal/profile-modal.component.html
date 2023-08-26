@@ -1,0 +1,73 @@
+<app-modal [isLocked]="true">
+  <form [formGroup]="profileModalForm" (ngSubmit)="onSubmit()">
+    <h2 translate>Complete profile to continue</h2>
+    <p>
+      <span>
+        <label for="first_name" translate>First Name</label>
+        <input placeholder="{{ 'First Name' | translate }}" type="text" formControlName="given_name" maxlength="250" />
+
+        <p
+          app-ca-translate
+          class="required"
+          message="FieldRequiredException"
+          *ngIf="control('given_name').invalid && (control('given_name').dirty || control('given_name').touched)"
+        ></p>
+      </span>
+
+      <span>
+        <label for="last_name" translate>Last Name</label>
+        <input placeholder="{{ 'Last Name' | translate }}" type="text" formControlName="family_name" maxlength="250" />
+        <p
+          app-ca-translate
+          class="required"
+          message="FieldRequiredException"
+          *ngIf="control('family_name').invalid && (control('family_name').dirty || control('family_name').touched)"
+        ></p>
+      </span>
+
+      <span>
+        <label for="language" translate>Language</label>
+        <ng-select
+          [items]="options.languages"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="locale"
+          name="locale"
+          placeholder="{{ 'No language selected' | translate }}"
+          [closeOnSelect]="true"
+          class="form-control"
+        >
+        </ng-select>
+        <p
+          app-ca-translate
+          class="required"
+          message="FieldRequiredException"
+          *ngIf="control('locale').invalid && (control('locale').dirty || control('locale').touched)"
+        ></p>
+      </span>
+      <span>
+        <label for="timezone" translate>Timezone</label>
+        <ng-select
+          [items]="options.timezones"
+          bindLabel="text"
+          bindValue="id"
+          formControlName="zoneinfo"
+          name="zoneinfo"
+          placeholder="{{ 'No timezone selected' | translate }}"
+        >
+        </ng-select>
+
+        <p
+          app-ca-translate
+          class="required"
+          message="FieldRequiredException"
+          *ngIf="control('zoneinfo').invalid && (control('zoneinfo').dirty || control('zoneinfo').touched)"
+        ></p>
+      </span>
+    </p>
+
+    <p class="submit">
+      <button type="submit" translate [disabled]="profileModalForm.invalid">Update</button>
+    </p>
+  </form>
+</app-modal>

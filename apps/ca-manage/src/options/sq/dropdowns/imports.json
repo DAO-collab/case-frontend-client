@@ -1,0 +1,11 @@
+{
+  "post_user": "Shto p\u00ebrdorues",
+  "put_user": "Modifikoni p\u00ebrdoruesit",
+  "put_user_status": "Ndryshoni statusin e p\u00ebrdoruesve",
+  "post_case": "Krijo raste",
+  "put_case": "Modifikoni rastet",
+  "post_case_permission": "Caktoni p\u00ebrdoruesit p\u00ebr rastet",
+  "put_case_permission": "Modifikoni p\u00ebrdoruesit e caktuar p\u00ebr rastet",
+  "post_case_post": "Krijo postime t\u00eb rasteve",
+  "delete_case_permission": "Hiq p\u00ebrdoruesit e caktuar p\u00ebr rastet"
+}

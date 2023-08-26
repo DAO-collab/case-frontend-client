@@ -1,0 +1,80 @@
+<form class="popup-a a form-d shown">
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 style="padding-right: 20px">
+        <span translate>Signature</span>
+      </h2>
+
+      <article id="accept-invitation-content">
+        <div class="tabs module-d module-d-pop-up clean-tabs">
+          <ul>
+            <li [ngClass]="{ active: activeTab === tabs.Draw }" (click)="switchTab(tabs.Draw)">
+              <a translate>Draw</a>
+            </li>
+            <li [ngClass]="{ active: activeTab === tabs.Write }" (click)="switchTab(tabs.Write)">
+              <a translate>Write</a>
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <ul class="canvas-color-item-wrapper">
+            <li
+              class="canvas-color-item"
+              *ngFor="let color of canvasColors | keyvalue"
+              [ngClass]="{ 'selected-item': color.value == selectedCanvasColor }"
+              (click)="changeCanvasColor(color.value)"
+            >
+              <div class="canvas-color" [style.background-color]="color.value"></div>
+            </li>
+          </ul>
+        </div>
+
+        <div *ngIf="activeTab === tabs.Draw">
+          <div class="custom-fields-group a draw-tab">
+            <div class="top-item-wrapper">
+              <canvas #sigPad (mousedown)="onMouseDown($event)" (mousemove)="onMouseMove($event)"></canvas>
+            </div>
+
+            <ng-container *ngTemplateOutlet="clearSignature"></ng-container>
+          </div>
+        </div>
+
+        <div *ngIf="activeTab === tabs.Write">
+          <div class="custom-fields-group a draw-tab">
+            <div class="top-item-wrapper">
+              <input
+                class="signature-text-input"
+                type="text"
+                [placeholder]="'Signature' | translate"
+                [ngModelOptions]="{ standalone: true }"
+                [style.color]="selectedCanvasColor + ' !important'"
+                [(ngModel)]="canvasText"
+              />
+              <canvas id="textCanvas" hidden></canvas>
+            </div>
+
+            <ng-container *ngTemplateOutlet="clearSignature"></ng-container>
+          </div>
+        </div>
+
+        <p class="submit">
+          <button type="submit" (click)="save()">
+            <span translate>Save</span>
+          </button>
+          <!--          <a (click)="closeModal()">Close</a>-->
+        </p>
+      </article>
+
+      <a class="close" (click)="closeModal()" translate>Close</a>
+    </div>
+
+    <a class="close" (click)="closeModal()" translate>Close</a>
+  </div>
+</form>
+
+<ng-template #clearSignature>
+  <div class="clear-signature-wrapper">
+    <a class="clear-signature" (click)="clear()" translate>Clear Signature</a>
+  </div>
+</ng-template>

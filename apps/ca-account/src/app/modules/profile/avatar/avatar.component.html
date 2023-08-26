@@ -1,0 +1,36 @@
+<p class="file-a b">
+  <span app-ca-error [errors]="savingPhotoError" [location]="'profile_photo'">
+    <span translate>Profile photo</span>
+  </span>
+
+  <input
+    type="file"
+    [accept]="acceptExtensions.join(',')"
+    [(ngModel)]="avatarModel"
+    (change)="fileChangeEvent($event)"
+    #filePicker
+  />
+
+  <label class="avatar-main">
+    <!--todo is it secure? consider using img with ng-src-->
+    <span
+      class="drag profile_preview"
+      [style.backgroundImage]="'url(' + profileImage + ')'"
+      [style.backgroundSize]="'cover'"
+      translate
+      >Add</span
+    >
+
+    <div class="avatar-btn">
+      <span class="btn" name="avatar" (click)="filePicker.click()" [hidden]="uploadingAvatar" translate
+        ><i class="icon-pen avatar-icon"></i
+      ></span>
+      <span class="btn rmv-avatar-btn" name="avatar" (click)="removeAvatar()" [hidden]="uploadingAvatar" translate
+        ><i class="icon-x-circle avatar-icon"></i
+      ></span>
+    </div>
+    <span *ngIf="uploadingAvatar" class="btn" disabled translate>Uploading...</span>
+  </label>
+</p>
+
+<app-avatar-modal (avatarOnUpload)="avatarOnUploadDone($event)" (cancel)="cancelUploading()"> </app-avatar-modal>

@@ -1,0 +1,16 @@
+{
+  "beatify_app": {
+    "title": "Upload your company logo and favicon, and select your default text and background color."
+  },
+  "case_types": { "title": "Add different case types and categories to your app" },
+  "assign_cases": { "title": "Auto-assign staff to cases based on case types" },
+  "profile_info": {
+    "title": "Select the profile information you need from your client. Before the client joins your app, they will be asked to share that information. Any updates will be synced with your app."
+  },
+  "intake_forms": {
+    "title": "Create an intake form to collect custom user-specific data from your clients. Do not ask for profile information or information related to a case."
+  },
+  "bootstrap_cases": {
+    "title": "Bootstrap a case with auto posting a message, form to collect information, and document to sign when a case is created."
+  }
+}

@@ -1,0 +1,276 @@
+<app-viewer
+  *ngIf="showViwer"
+  [activeItem]="viewerIndx"
+  [viewiengItems]="viewiengItems"
+  (onviewerclose)="viewerClosed()"
+  [caseId]="caseId"
+></app-viewer>
+<div class="news-e" *ngIf="permissions['read_all'] && !loading">
+  <div class="feeds-wall" *ngFor="let feed of feedsList; let i = index">
+    <article
+      *ngIf="!mediaFilter ? loadedAttachments[i].totalCount > 0 : loadedAttachments[i][mediaFilter]?.list.length > 0"
+    >
+      <header>
+        <figure>
+          <img
+            alt="Placeholder"
+            width="50"
+            height="50"
+            [src]="utilsService.userAvatarUrl(feed.user_id, 50, feed.uuid)"
+          />
+        </figure>
+        <div>
+          <h3 class="post-author">
+            {{ teamData[feed.user_id].given_name + ' ' + teamData[feed.user_id].family_name }}
+          </h3>
+          <span class="post-date"
+            ><i class="icon-calendar2"></i>{{ feed.created_on | date : 'EEEE, MMMM d, y, h:mm:ss a' }}
+          </span>
+        </div>
+
+        <div
+          class="more-to-feed-menu"
+          (click)="toggleMenuClass($event)"
+          *ngIf="
+            (edit || delete) && permissions['manage_own'] && (userId === feed.user_id || permissions['moderate_others'])
+          "
+        >
+          <div class="ins">
+            <!-- <div class="m-item" *ngIf="edit" (click)="editFeed(i, $event)" translate>Edit</div> -->
+            <div class="m-item" *ngIf="delete" (click)="deleteFeed(i, $event)" translate>Delete</div>
+          </div>
+        </div>
+      </header>
+
+      <div>
+        <!-- IMAGES -->
+        <div
+          class="gallery-b"
+          *ngIf="loadedAttachments[i].images.list.length > 0 && (!mediaFilter || mediaFilter === 'images')"
+        >
+          <div
+            class="cursor-pointer"
+            (click)="showInViewer(loadedAttachments[i], image.media_id)"
+            *ngFor="
+              let image of loadedAttachments[i].images.showAll
+                ? loadedAttachments[i].images.list
+                : loadedAttachments[i].images.list.slice(0, 3);
+              let index = index
+            "
+            [ngClass]="{ 'w-100': image.status !== 'SUCCEEDED' }"
+          >
+            <p class="notice-a a" *ngIf="image.status !== 'SUCCEEDED'">
+              <span *ngIf="image.status === 'RUNNING'">{{ image?.name }} <span translate>Processing</span></span>
+              <span *ngIf="image.status === 'FAILED'"
+                ><span translate>Processing </span><b>{{ image?.name }}</b
+                ><span translate> failed.</span></span
+              >
+              <i class="icon-download download-doc" (click)="downloadDoc(image)"></i>
+            </p>
+            <img width="180" height="180" *ngIf="image.status === 'SUCCEEDED'" [src]="image.src" />
+            <i
+              class="icon-x-circle remove-att"
+              *ngIf="delete && permissions['manage_own'] && (userId === feed.user_id || permissions['moderate_others'])"
+              (click)="
+                $event.stopPropagation(); $event.preventDefault(); removeFeedAttachment(feed, i, image, 'images', index)
+              "
+            ></i>
+          </div>
+          <li class="link" *ngIf="loadedAttachments[i].images.list.length > 3 && !loadedAttachments[i].images.showAll">
+            <a (click)="loadedAttachments[i].images.showAll = true"
+              >{{ loadedAttachments[i].images.list.length - 3 }} more</a
+            >
+            <a class="clone" (click)="loadedAttachments[i].images.showAll = true"
+              >{{ loadedAttachments[i].images.list.length - 3 }} more</a
+            >
+          </li>
+        </div>
+
+        <!-- VIDEOS -->
+        <div
+          class="gallery-b"
+          *ngIf="loadedAttachments[i].videos.list.length > 0 && (!mediaFilter || mediaFilter === 'videos')"
+        >
+          <div
+            *ngFor="
+              let video of loadedAttachments[i].videos.showAll
+                ? loadedAttachments[i].videos.list
+                : loadedAttachments[i].videos.list.slice(0, 3);
+              let ind = index
+            "
+            [ngClass]="{ 'video-item': video.thumbnail, 'w-100': !video.thumbnail }"
+            (click)="showInViewer(loadedAttachments[i], video.media_id); video.showGif = 0"
+          >
+            <p class="notice-a a" *ngIf="video.status !== 'SUCCEEDED' && !video.thumbnail">
+              <span *ngIf="video.status === 'RUNNING'"
+                >{{ video ? shortFileName(video.name, 25) : '' }} <span translate>Processing</span></span
+              >
+              <span *ngIf="video.status === 'FAILED'"
+                ><span translate>Processing </span><b>{{ video ? shortFileName(video.name, 25) : '' }}</b
+                ><span translate> failed.</span></span
+              >
+              <i class="icon-download download-doc" (click)="downloadDoc(video)"></i>
+            </p>
+            <img width="420" height="180" *ngIf="video.thumbnail" [src]="video.thumbnail" />
+            <i class="icon-play play-video" *ngIf="video.status === 'SUCCEEDED' && !video.play"></i>
+            <span class="file-title-box" *ngIf="video.thumbnail"
+              >{{ video ? shortFileName(video.name, 25) : '' }}
+            </span>
+            <i
+              class="icon-x-circle remove-att"
+              *ngIf="delete && permissions['manage_own'] && (userId === feed.user_id || permissions['moderate_others'])"
+              (click)="removeFeedAttachment(feed, i, video, 'videos', ind); $event.stopPropagation()"
+            ></i>
+          </div>
+          <li class="link" *ngIf="loadedAttachments[i].videos.list.length > 3 && !loadedAttachments[i].videos.showAll">
+            <a (click)="loadedAttachments[i].videos.showAll = true"
+              >{{ loadedAttachments[i].videos.list.length - 3 }} more</a
+            >
+            <a class="clone" (click)="loadedAttachments[i].videos.showAll = true"
+              >{{ loadedAttachments[i].videos.list.length - 3 }} more</a
+            >
+          </li>
+        </div>
+
+        <!-- AUDIOS -->
+        <div
+          class="gallery-b audios-block"
+          *ngIf="loadedAttachments[i].audios.list.length > 0 && (!mediaFilter || mediaFilter === 'audios')"
+        >
+          <div
+            *ngFor="
+              let audio of loadedAttachments[i].audios.showAll
+                ? loadedAttachments[i].audios.list
+                : loadedAttachments[i].audios.list.slice(0, 3);
+              let index = index
+            "
+            [ngClass]="{ 'audio-file': audio.stream, 'w-100': !audio.stream }"
+          >
+            <p class="audio-title" *ngIf="audio.stream">{{ audio?.name }}</p>
+            <app-audiojs
+              class="vjs-has-started"
+              *ngIf="audio.stream"
+              [idx]="'audio_' + i + '_' + index"
+              [duration]="audio.duration"
+              [url]="audio.stream"
+            ></app-audiojs>
+
+            <p *ngIf="!audio.stream" class="notice-a a">
+              <span *ngIf="audio.status === 'RUNNING'">{{ audio?.name }} <span translate>Processing</span></span>
+              <span *ngIf="audio.status === 'FAILED'"
+                ><span translate>Processing </span><b>{{ audio?.name }}</b
+                ><span translate> failed.</span></span
+              >
+            </p>
+            <i class="icon-download download-doc" (click)="downloadDoc(audio)"></i>
+            <i
+              class="icon-x-circle remove-att"
+              *ngIf="delete && permissions['manage_own'] && (userId === feed.user_id || permissions['moderate_others'])"
+              (click)="removeFeedAttachment(feed, i, audio, 'audio', index); $event.stopPropagation()"
+            ></i>
+          </div>
+          <li class="link" *ngIf="loadedAttachments[i].audios.list.length > 3 && !loadedAttachments[i].audios.showAll">
+            <a (click)="loadedAttachments[i].audios.showAll = true"
+              >{{ loadedAttachments[i].audios.list.length - 3 }} more</a
+            >
+            <a class="clone" (click)="loadedAttachments[i].audios.showAll = true"
+              >{{ loadedAttachments[i].audios.list.length - 3 }} more</a
+            >
+          </li>
+        </div>
+
+        <!-- DOCUMENTS -->
+        <div
+          class="gallery-b docs-block"
+          *ngIf="loadedAttachments[i].docs.list.length > 0 && (!mediaFilter || mediaFilter === 'docs')"
+        >
+          <div
+            class="cursor-pointer"
+            *ngFor="
+              let doc of loadedAttachments[i].docs.showAll
+                ? loadedAttachments[i].docs.list
+                : loadedAttachments[i].docs.list.slice(0, 3);
+              let ind = index
+            "
+            (click)="showInViewer(loadedAttachments[i], doc.media_id)"
+          >
+            <p class="notice-a a" *ngIf="doc.status !== 'SUCCEEDED'">
+              <span *ngIf="doc.status === 'RUNNING'">{{ doc?.name }} <span translate>Processing</span></span>
+              <span *ngIf="doc.status === 'FAILED'"
+                ><span translate>Processing </span><b>{{ doc ? doc.name : '' }}</b
+                ><span translate> failed.</span></span
+              >
+              <i class="icon-download download-doc" (click)="downloadDoc(doc)"></i>
+              <i
+                class="icon-x-circle remove-att"
+                *ngIf="
+                  delete &&
+                  permissions['manage_own'] &&
+                  (userId === feed.user_id || permissions['moderate_others']) &&
+                  feed.activeEditing
+                "
+                (click)="removeFeedAttachment(feed, i, doc, 'docs', ind)"
+              ></i>
+            </p>
+            <img *ngIf="doc.status === 'SUCCEEDED'" [src]="doc.thumbnail" width="180" height="180" />
+          </div>
+
+          <li class="link" *ngIf="loadedAttachments[i].docs.list.length > 3 && !loadedAttachments[i].docs.showAll">
+            <a (click)="loadedAttachments[i].docs.showAll = true"
+              >{{ loadedAttachments[i].docs.list.length - 3 }} more</a
+            >
+            <a class="clone" (click)="loadedAttachments[i].docs.showAll = true"
+              >{{ loadedAttachments[i].docs.list.length - 3 }} more</a
+            >
+          </li>
+        </div>
+
+        <!-- FILES -->
+        <div
+          class="gallery-b docs-block"
+          *ngIf="loadedAttachments[i].files.list.length > 0 && (!mediaFilter || mediaFilter === 'files')"
+        >
+          <div
+            class="w-100"
+            *ngFor="
+              let file of loadedAttachments[i].files.showAll
+                ? loadedAttachments[i].files.list
+                : loadedAttachments[i].files.list.slice(0, 3);
+              let ind = index
+            "
+            (click)="showInViewer(loadedAttachments[i], file.media_id)"
+          >
+            <p class="notice-a a">
+              <span *ngIf="file.status === 'SUCCEEDED'">{{ file?.name }}</span>
+              <span *ngIf="file.status === 'RUNNING'">{{ file?.name }} <span translate>Processing</span></span>
+              <span *ngIf="file.status === 'FAILED'"
+                ><span translate>Processing </span><b>{{ file?.name }}</b
+                ><span translate> failed.</span></span
+              >
+              <i class="icon-download download-doc" (click)="downloadDoc(file)"></i>
+              <i
+                class="icon-x-circle remove-att"
+                *ngIf="
+                  delete &&
+                  permissions['manage_own'] &&
+                  (userId === feed.user_id || permissions['moderate_others']) &&
+                  feed.activeEditing
+                "
+                (click)="removeFeedAttachment(feed, i, file, 'files', ind)"
+              ></i>
+            </p>
+          </div>
+
+          <li class="link" *ngIf="loadedAttachments[i].files.list.length > 3 && !loadedAttachments[i].files.showAll">
+            <a (click)="loadedAttachments[i].files.showAll = true"
+              >{{ loadedAttachments[i].files.list.length - 3 }} more</a
+            >
+            <a class="clone" (click)="loadedAttachments[i].files.showAll = true"
+              >{{ loadedAttachments[i].files.list.length - 3 }} more</a
+            >
+          </li>
+        </div>
+      </div>
+    </article>
+  </div>
+</div>

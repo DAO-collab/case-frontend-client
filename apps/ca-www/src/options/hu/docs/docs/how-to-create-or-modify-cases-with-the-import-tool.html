@@ -1,0 +1,112 @@
+<h1 id="how-to-create-or-modify-cases-with-the-import-tool">
+  Hogyan hozhat létre vagy módosíthat eseteket az importáló eszközzel
+</h1>
+<p>
+  Ez a cikk bemutatja a rendszergazdáknak, hogyan hozhatnak létre vagy módosíthatnak meglévő eseteket az Importálás
+  eszközzel.
+</p>
+<h2 id="opening-the-import-tool">Az Importálás eszköz megnyitása</h2>
+<ol style="list-style-type: decimal">
+  <li>Jelentkezzen be a rendszergazdai fiókba.</li>
+  <li>Keressen meg egy alkalmazást az Alkalmazások oldalon, és kattintson az ADMINISZTRÁCIÓ gombra.</li>
+  <li>Az adminisztrációs panelen kattintson az Integráció fülre, majd az IMPORTÁLÁSOK menüpontra az almenüben.</li>
+  <li>Kattintson az ÚJ gombra. Az Importálás hozzáadása párbeszédpanel egy új böngészőlapon jelenik meg.</li>
+</ol>
+<div class="figure"><img src="/images/import-3.png" alt="img" /></div>
+<h2 id="creating-cases">Ügyek létrehozása</h2>
+<p>Miután megnyílik az Importálás hozzáadása párbeszédpanel:</p>
+<ol style="list-style-type: decimal">
+  <li>Kattintson a Típus mezőre, és válasszon egy lehetőséget (lásd alább). Megjelenik egy hivatkozás.</li>
+  <li>Kattintson a Minta letöltése hivatkozásra. CSV-fájl letöltésre kerül az eszközre.</li>
+</ol>
+<p>Ezután nyissa meg a fájlt, és adjon hozzá eseteket.</p>
+<h2 id="type">típus</h2>
+<p>
+  Ha a <strong>Típus</strong> mezőre kattint, egy legördülő menü jelenik meg. Válasszon egyet a két lehetőség közül a
+  tömeges importáláshoz.
+</p>
+<ul>
+  <li>
+    <strong>Megjegyzés</strong> A legördülő menü számos lehetőséget tartalmaz, de csak kettő kapcsolódik az esetek
+    kezeléséhez. Mindegyik opcióhoz más-más minta CSV-fájl tartozik.
+  </li>
+</ul>
+<h3 id="add-cases">Adjon hozzá eseteket</h3>
+<ul>
+  <li>Válassza ezt a lehetőséget az esetek egyszerű tömeges feltöltéséhez.</li>
+  <li>
+    Kattintson a Minta letöltése hivatkozásra egy CSV-fájl megnyitásához az Esetek létrehozása importálási típushoz
+    tartozó oszlopfejlécekkel.
+  </li>
+</ul>
+<h3 id="modify-cases">Esetek módosítása</h3>
+<ul>
+  <li>Válassza ezt a lehetőséget az aktuális esetek frissítéséhez.</li>
+  <li>
+    Kattintson a Minta letöltése hivatkozásra egy CSV-fájl megnyitásához az Esetek módosítása importálási típushoz
+    tartozó oszlopfejlécekkel.
+  </li>
+</ul>
+<h2 id="uploading-the-file">A fájl feltöltése</h2>
+<p>
+  Feltölthet egy fájlt azonnal, vagy egy későbbi időpontban visszatérhet az Importálás hozzáadása párbeszédpanelhez, és
+  végrehajthatja ezeket a lépéseket.
+</p>
+<ol style="list-style-type: decimal">
+  <li>Nyissa meg az Importálás hozzáadása párbeszédpanelt.</li>
+  <li>Adjon meg egy egyedi nevet a CSV-fájlnak.</li>
+  <li>Kattintson a plusz (+) ikonra a fájl feltöltéséhez az eszközről.</li>
+  <li>Kattintson a Típus mezőre, és válasszon egy lehetőséget. (lásd fent)</li>
+  <li>Kattintson a MENTÉS gombra.</li>
+</ol>
+<div class="figure"><img src="/images/import-case-2.png" alt="img" /></div>
+<h2 id="formatting">Formázás</h2>
+<p>
+  Ezek a kötelező mezők és az első követelmények. Kattintson
+  <a href="docs/create-formatting-case-management-data-with-the-import-tool" target="_blank">ide</a> a formázás
+  részleteinek megtekintéséhez.
+</p>
+<p>
+  <strong>tag_id (vagy case_ID)</strong> egyedi azonosító (alfanumerikus karaktereket használjon, kötőjelek is
+  elfogadottak)
+</p>
+<p><strong>case_status</strong> 0 = zárt 1 = aktív</p>
+<p><strong>dátum_nyitás</strong> hónap/nap/év hh/nn/éééé</p>
+<p>
+  <strong>a</strong> kis- és nagybetűk egyedi leírásáról (alfanumerikus karaktereket használjon, kötőjelek
+  megengedettek)
+</p>
+<div class="figure">
+  <img src="/images/create-case-8.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<h2 id="processing">Feldolgozás</h2>
+<p>
+  A fájlban lévő rekordok számától és a rendszerbetöltéstől függően a platformnak több percig is eltarthat az importálás
+  feldolgozása.
+</p>
+<div class="figure">
+  <img src="/images/create-case-9.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>
+  Amikor az importálás befejeződik, a platform módosítja az esetrekordokat (azaz hozzáadja vagy módosítja) az
+  adminisztrátor Ügyek irányítópultján.
+</p>
+<h2 id="failure">Kudarc</h2>
+<p>
+  Ha az importálási művelet sikertelen, a platform Sikertelen üzenetet ad vissza. A legtöbb esetben a hiba oka az adatok
+  formázása.
+</p>
+<div class="figure">
+  <img src="/images/create-case-10.png" alt="img" />
+  <p class="caption">img</p>
+</div>
+<p>A hiba okának megtekintéséhez:</p>
+<ol style="list-style-type: decimal">
+  <li>Kattintson a Nézet gombra az ACTION fejléc alatt.</li>
+  <li>A következő oldalon vigye az egeret a Sikertelen ikonra. Az eszköztipp megjeleníti a hibát.</li>
+  <li>Nyissa meg a CVS fájlt, és állítsa be és javítsa ki a hibát.</li>
+  <li>Töltse fel újra a fájlt.</li>
+</ol>
+<div class="figure"><img src="/images/create-case-11.png" alt="img" /></div>

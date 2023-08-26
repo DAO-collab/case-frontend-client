@@ -1,0 +1,3920 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.336907\n"
+"PO-Revision-Date: 2017-11-15T09:43:35.775401\n"
+"Language: zh-TW\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "您應該選擇圖像文件。"
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr "上載文檔，將其標記為簽名，然後客戶端登錄並簽名。無需客戶進入我們的大樓即可完成所有工作。這對於不在辦公室附近或居住在州外的客戶非常方便。"
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "資本保險業務總監"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr "我們的員工可以登錄並查看有關其推薦案例的基本信息。這極大地增加了我們的案件轉診..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "克里斯蒂安森與貝勒斯律師事務所合夥人"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr "我們不再需要在辦公室見客戶參加會議，文檔簽名全部在線完成–太好了！"
+
+msgid "CEO of EL Passion"
+msgstr "EL Passion首席執行官"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr "使用API，我們根據現有系統中的特定觸發器，完全自動化了案例供稿中顯示的內容。挺方便的"
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "卡特·馬里奧受傷律師的IT經理"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr "我們有許多使用翻譯功能的多語言客戶。我們發布消息充滿信心，每個人都會理解它們。這使我們可以從本地工作轉移到全球工作。"
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Solid Rock Designs的首席執行官"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr "客戶喜歡它！這使他們的生活變得更加輕鬆。他們可以在線與我們討論問題，上傳照片和文檔，所有內容都存儲在團隊和客戶可以查看的地方。"
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Ashley和Ashley PC的合作夥伴"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr "我們喜歡案件發票，因為它可以讓客戶確切地看到他們要支付的費用。"
+
+msgid "Vice President of Sky Digital"
+msgstr "Sky Digital副總裁"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr "交叉鏈接的交流就像將所有社交媒體和協作工具都放在一個地方。"
+
+msgid "Director Of Complaint Management"
+msgstr "投訴管理總監"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr "案例表格使我們能夠傾聽和學習，通過客戶反饋幫助我們增加銷售額。"
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "該隱公司銷售總監"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr "用戶界面與Facebook非常相似。它非常易於使用。"
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "王氏醫療集團有限公司合夥人"
+
+msgid "A pin has been sent to"
+msgstr "PIN 已發送至"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Send New Pin"
+msgstr "發送新圖釘"
+
+msgid "Need Help?"
+msgstr "需要幫忙？"
+
+msgid "Click here to contact us"
+msgstr "請點擊這裡與我們聯繫"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Login or Signup"
+msgstr "登錄或註冊"
+
+msgid "Invalid email entered"
+msgstr "輸入的電子郵件無效"
+
+msgid "Processing..."
+msgstr "處理..."
+
+msgid "Made with"
+msgstr "與...搭配"
+
+msgid "love"
+msgstr "愛"
+
+msgid "in New York City"
+msgstr "在紐約市"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "版權所有"
+
+msgid "Terms of Use"
+msgstr "使用條款"
+
+msgid "Contact Us"
+msgstr "聯繫我們"
+
+msgid "Username"
+msgstr "用戶名"
+
+msgid "Code"
+msgstr "碼"
+
+msgid "New Password"
+msgstr "新密碼"
+
+msgid "Confirm Password"
+msgstr "確認密碼"
+
+msgid "Set Your New Password"
+msgstr "設置您的新密碼"
+
+msgid "A code has been sent to"
+msgstr "已發送代碼"
+
+msgid "Change Password"
+msgstr "更改密碼"
+
+msgid "Changing..."
+msgstr "改變..."
+
+msgid "Login"
+msgstr "登錄"
+
+msgid "Forgot password?"
+msgstr "忘記密碼？"
+
+msgid "Help"
+msgstr "幫助"
+
+msgid "Email or Phone"
+msgstr "郵件或者電話"
+
+msgid "Reset Password"
+msgstr "重設密碼"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"輸入與您的帳戶關聯的電子郵件地址或電話號碼，然後單擊提交。我們會將通過電子郵件發送給您的鏈接或通過短信發送給您指向該頁面的鏈接，您可以在其中輕鬆創建新密碼。"
+
+msgid "Request Code"
+msgstr "請求代碼"
+
+msgid "Requesting..."
+msgstr "請求..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "案例即將發布"
+
+msgid "Create a free account"
+msgstr "創建一個免費賬戶"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "我們正在對此進行最後的潤色。準備就緒後，我們會通知您！"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "距更好的協作只有幾分鐘的路程。"
+
+msgid "First Name"
+msgstr "名字"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Email"
+msgstr "電子郵件"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "No language selected"
+msgstr "沒有選擇語言"
+
+msgid "I agree with"
+msgstr "我同意"
+
+msgid "Terms of Service"
+msgstr "服務條款"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Have at least one lower case character"
+msgstr "至少有一個小寫字符"
+
+msgid "Have at least one capital letter"
+msgstr "至少有一個大寫字母"
+
+msgid "Have at least one number"
+msgstr "至少有一個號碼"
+
+msgid "Have at least 8 characters in length"
+msgstr "至少有8個字符"
+
+msgid "Type your current password"
+msgstr "輸入你當前的密碼"
+
+msgid "Passwords must match"
+msgstr "密碼必須匹配"
+
+msgid "Domains"
+msgstr "域"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript已禁用請啟用它。"
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookie已禁用。請啟用它。"
+
+msgid "New"
+msgstr "新的"
+
+msgid "Create A New App"
+msgstr "創建一個新應用"
+
+msgid "Apps"
+msgstr "應用"
+
+msgid "Profile"
+msgstr "輪廓"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Hi"
+msgstr "你好"
+
+msgid "View your account"
+msgstr "查看您的賬戶"
+
+msgid "View page"
+msgstr "查看頁面"
+
+msgid "You don’t have any apps"
+msgstr "您沒有任何應用"
+
+msgid "App"
+msgstr "應用程序"
+
+msgid "Admin"
+msgstr "管理員"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "No notifications yet."
+msgstr "還沒有通知。"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Last Week"
+msgstr "上個星期"
+
+msgid "No timezone selected"
+msgstr "沒有選擇時區"
+
+msgid "Complete profile to continue"
+msgstr "完成個人資料以繼續"
+
+msgid "Timezone"
+msgstr "時區"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Website:"
+msgstr "網站："
+
+msgid "Homepage:"
+msgstr "主頁："
+
+msgid "Approve Access"
+msgstr "批准訪問"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Permissions"
+msgstr "權限"
+
+msgid "Billing"
+msgstr "計費"
+
+msgid "Payment Plan"
+msgstr "付款計劃"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "has access to your information below:"
+msgstr "可以在下面訪問您的信息："
+
+msgid "has invited you to their client portal."
+msgstr "邀請您訪問他們的客戶門戶。"
+
+msgid "want access to the following information:"
+msgstr "想要訪問以下信息："
+
+msgid "Decline"
+msgstr "下降"
+
+msgid "Remove Access"
+msgstr "刪除訪問"
+
+msgid "Active"
+msgstr "積極的"
+
+msgid "Invites"
+msgstr "邀請"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "No apps found"
+msgstr "找不到應用"
+
+msgid "admin"
+msgstr "管理"
+
+msgid "user"
+msgstr "用戶"
+
+msgid "manager"
+msgstr "經理"
+
+msgid "active"
+msgstr "活性"
+
+msgid "inactive"
+msgstr "待用"
+
+msgid "Company Name"
+msgstr "公司名"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "Invitation"
+msgstr "邀請函"
+
+msgid "About App"
+msgstr "關於應用"
+
+msgid "Billing Info"
+msgstr "計費信息"
+
+msgid "Your Company Name"
+msgstr "您的公司名稱"
+
+msgid "Your Company Website"
+msgstr "您的公司網站"
+
+msgid "Saving..."
+msgstr "保存..."
+
+msgid "Billing Information"
+msgstr "賬單信息"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "請添加公司提供的APP ID"
+
+msgid "Select an option"
+msgstr "選擇一個選項"
+
+msgid "Join an existing app as a client"
+msgstr "作為客戶端加入現有應用程序"
+
+msgid "Create a new app for my business"
+msgstr "為我的企業創建一個新的應用程序"
+
+msgid "Create Domain"
+msgstr "創建域"
+
+msgid "Select enterprise app"
+msgstr "選擇企業應用"
+
+msgid "No item selected"
+msgstr "沒有選擇項目"
+
+msgid "Domain name"
+msgstr "域名"
+
+msgid "Add"
+msgstr "加"
+
+msgid "No enterprise app found"
+msgstr "未找到企業應用"
+
+msgid "Pending"
+msgstr "待辦的"
+
+msgid "No domains found"
+msgstr "找不到域"
+
+msgid "Domain"
+msgstr "領域"
+
+msgid "Txt Value"
+msgstr "文本值"
+
+msgid "Enterprise Host ID"
+msgstr "企業主機 ID"
+
+msgid "Sso"
+msgstr "SSO"
+
+msgid "Action"
+msgstr "行動"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Allow Manual Sign In"
+msgstr "允許手動登錄"
+
+msgid "Exclude Emails From SSO"
+msgstr "從 SSO 中排除電子郵件"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "SAML 身份提供商元數據"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Profile photo"
+msgstr "頭像照片"
+
+msgid "Uploading..."
+msgstr "上傳中..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "已被另一個帳戶聲明所有權，請更改它或"
+
+msgid "reclaim"
+msgstr "回收"
+
+msgid "it"
+msgstr "它"
+
+msgid "pending verification:"
+msgstr "待驗證："
+
+msgid "verify"
+msgstr "校驗"
+
+msgid "Phone Number"
+msgstr "電話號碼"
+
+msgid "Current Password"
+msgstr "當前密碼"
+
+msgid "Change password"
+msgstr "更改密碼"
+
+msgid "No gender selected"
+msgstr "沒有選擇性別"
+
+msgid "Company Title"
+msgstr "公司名稱"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address 2"
+msgstr "地址2"
+
+msgid "City/Locality"
+msgstr "城市/地區"
+
+msgid "State/Region"
+msgstr "國家/地區"
+
+msgid "No country selected"
+msgstr "沒有選擇國家"
+
+msgid "Zip/Postal Code"
+msgstr "郵編/郵政編碼"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "Date of Birth"
+msgstr "出生日期"
+
+msgid "Gender"
+msgstr "性別"
+
+msgid "Occupation"
+msgstr "佔用"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Address is not valid"
+msgstr "地址無效"
+
+msgid "City/Locality is not valid"
+msgstr "城市/地點無效"
+
+msgid "Country"
+msgstr "國家"
+
+msgid "State/Region is not valid"
+msgstr "州/地區無效"
+
+msgid "Contact Info"
+msgstr "聯繫方式"
+
+msgid "Language & Region"
+msgstr "語言和地區"
+
+msgid "Saving"
+msgstr "保存"
+
+msgid "Verify Your"
+msgstr "驗證你的"
+
+msgid "Verification Code"
+msgstr "驗證碼"
+
+msgid "Resend Code"
+msgstr "重新發送驗證碼"
+
+msgid "Resending"
+msgstr "重發"
+
+msgid "Verify"
+msgstr "校驗"
+
+msgid "Verifying..."
+msgstr "驗證中..."
+
+msgid "Later"
+msgstr "後來"
+
+msgid "We're here to help"
+msgstr "我們來幫忙"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr "感謝您與我們聯繫。您的留言已成功發送。我們會盡快與您聯繫！"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "characters left"
+msgstr "剩餘字符"
+
+msgid "Recaptcha"
+msgstr "驗證碼"
+
+msgid "Send"
+msgstr "發送"
+
+msgid "Sending..."
+msgstr "發送中..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "您將不再收到列表中的電子郵件營銷。"
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "如果您有時間，請告訴我們您退訂的原因："
+
+msgid "Return to our website"
+msgstr "返回我們的網站"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "謝謝。您的回复已提交。"
+
+msgid "No Cases"
+msgstr "沒有案例"
+
+msgid "Layout"
+msgstr "佈局"
+
+msgid "Gallery"
+msgstr "畫廊"
+
+msgid "Speaker"
+msgstr "揚聲器"
+
+msgid "This case has been closed"
+msgstr "此案已結案"
+
+msgid "Feed"
+msgstr "飼料"
+
+msgid "Images"
+msgstr "圖片"
+
+msgid "Docs"
+msgstr "文件"
+
+msgid "Audios"
+msgstr "特刊"
+
+msgid "Videos"
+msgstr "影片"
+
+msgid "Files"
+msgstr "檔"
+
+msgid "Events"
+msgstr "活動"
+
+msgid "Forms"
+msgstr "形式"
+
+msgid "E-signs"
+msgstr "電子標誌"
+
+msgid "Invoices"
+msgstr "發票"
+
+msgid "Notes"
+msgstr "筆記"
+
+msgid "Tasks"
+msgstr "任務"
+
+msgid "Convo"
+msgstr "康沃"
+
+msgid "Great job!"
+msgstr "做得好！"
+
+msgid "You did all"
+msgstr "你做到了"
+
+msgid "the tasks"
+msgstr "任務"
+
+msgid "Media"
+msgstr "媒體"
+
+msgid "Skip to navigation (n)"
+msgstr "跳轉到導航（n）"
+
+msgid "Skip to content (c)"
+msgstr "跳至內容（c）"
+
+msgid "Skip to footer (f)"
+msgstr "跳到頁腳（f）"
+
+msgid "Case"
+msgstr "案件"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Using Form Builder"
+msgstr "使用表單生成器"
+
+msgid "Using Forms Library"
+msgstr "使用表單庫"
+
+msgid "Using E-sign Builder"
+msgstr "使用電子簽名生成器"
+
+msgid "Using E-signs Library"
+msgstr "使用電子標誌庫"
+
+msgid "Documents"
+msgstr "文件"
+
+msgid "Create Note"
+msgstr "創建筆記"
+
+msgid "Edit Note"
+msgstr "編輯註釋"
+
+msgid "End Convo"
+msgstr "結束會議"
+
+msgid "Create Form"
+msgstr "創建表單"
+
+msgid "Create Sign"
+msgstr "創建標誌"
+
+msgid "Event Create"
+msgstr "事件創建"
+
+msgid "Convo Videos"
+msgstr "康沃視頻"
+
+msgid "Convo Audios"
+msgstr "康沃音響"
+
+msgid "Cases"
+msgstr "案例"
+
+msgid "Case categories"
+msgstr "案例類別"
+
+msgid "Your team"
+msgstr "你的團隊"
+
+msgid "To do"
+msgstr "去做"
+
+msgid "To Do:"
+msgstr "去做："
+
+msgid "Case Categories"
+msgstr "案例類別"
+
+msgid "Your Team"
+msgstr "你的團隊"
+
+msgid "To Do"
+msgstr "去做"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Close"
+msgstr "關"
+
+msgid "Publish"
+msgstr "發布"
+
+msgid "Visibility"
+msgstr "能見度"
+
+msgid "all"
+msgstr "所有"
+
+msgid "sign"
+msgstr "符號"
+
+msgid "Page"
+msgstr "頁"
+
+msgid "of"
+msgstr "的"
+
+msgid "Processing"
+msgstr "處理中"
+
+msgid "failed."
+msgstr "失敗了"
+
+msgid "Value should be greater or equal to 1"
+msgstr "值應大於或等於 1"
+
+msgid "Repeat end:"
+msgstr "重複結束："
+
+msgid "Signature"
+msgstr "簽名"
+
+msgid "Draw"
+msgstr "畫"
+
+msgid "Write"
+msgstr "寫"
+
+msgid "Clear Signature"
+msgstr "清除簽名"
+
+msgid "Still processing video..."
+msgstr "仍在處理視頻..."
+
+msgid "You"
+msgstr "你"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "您即將刪除提要。你確定嗎？"
+
+msgid "No convo audios yet"
+msgstr "還沒有 convo 音頻"
+
+msgid "No convo videos yet"
+msgstr "還沒有 convo 視頻"
+
+msgid "Start Convo"
+msgstr "啟動 Convo"
+
+msgid "Notify the Host"
+msgstr "通知主機"
+
+msgid "is in the call"
+msgstr "正在通話中"
+
+msgid "and"
+msgstr "和"
+
+msgid "others are in the call"
+msgstr "其他人正在通話中"
+
+msgid "Audio call is being recorded"
+msgstr "正在錄製音頻通話"
+
+msgid "Video call is being recorded"
+msgstr "正在錄製視頻通話"
+
+msgid "Join now"
+msgstr "現在加入"
+
+msgid "Dismiss"
+msgstr "解僱"
+
+msgid "Can’t find your "
+msgstr "找不到你的"
+
+msgid "microphone"
+msgstr "麥克風"
+
+msgid "Check your system settings to make sure that "
+msgstr "檢查您的系統設置以確保"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr "可用。如果沒有，請插入一個。您可能需要重新啟動瀏覽器。"
+
+msgid "web camera"
+msgstr "網絡攝像頭"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "您將開始一個 Convo 呼叫。從...開始："
+
+msgid "Video & Audio"
+msgstr "視頻和音頻"
+
+msgid "Audio Only"
+msgstr "僅音頻"
+
+msgid "Record the meeting"
+msgstr "記錄會議"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "等待有權啟動 Convo 呼叫的人"
+
+msgid "Add Ticket"
+msgstr "加票"
+
+msgid "Title"
+msgstr "標題"
+
+msgid "Open"
+msgstr "打開"
+
+msgid "Closed"
+msgstr "關閉"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "您即將關閉工單。你確定嗎？"
+
+msgid "Announcements"
+msgstr "公告"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Opened"
+msgstr "開業"
+
+msgid "View"
+msgstr "視圖"
+
+msgid "Locations"
+msgstr "地點"
+
+msgid "You currently have no announcements."
+msgstr "您目前沒有任何公告。"
+
+msgid "You currently have no"
+msgstr "您目前沒有"
+
+msgid "open cases. Click"
+msgstr "開案。點擊"
+
+msgid "here"
+msgstr "這裡"
+
+msgid "to contact support."
+msgstr "聯繫支持。"
+
+msgid "closed cases."
+msgstr "結案。"
+
+msgid "open tickets."
+msgstr "開票。"
+
+msgid "closed tickets."
+msgstr "關閉門票。"
+
+msgid "You currently have no locations."
+msgstr "您目前沒有位置。"
+
+msgid "Write a comment...."
+msgstr "寫個評論...."
+
+msgid "Post"
+msgstr "崗位"
+
+msgid "Add Location"
+msgstr "添加位置"
+
+msgid "Save Event"
+msgstr "保存事件"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Start Date"
+msgstr "開始日期"
+
+msgid "Start Time"
+msgstr "開始時間"
+
+msgid "End Date"
+msgstr "結束日期"
+
+msgid "End Time"
+msgstr "時間結束"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Attendees"
+msgstr "參會者"
+
+msgid "Event Location"
+msgstr "活動地點"
+
+msgid "Link"
+msgstr "關聯"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Attending"
+msgstr "參加"
+
+msgid "Add to calendar"
+msgstr "添加到日曆"
+
+msgid "Details"
+msgstr "細節"
+
+msgid "Event by"
+msgstr "事件由"
+
+msgid "Duration:"
+msgstr "期間："
+
+msgid "more"
+msgstr "更多"
+
+msgid "Maybe"
+msgstr "也許"
+
+msgid "Not Attending"
+msgstr "不參加"
+
+msgid "No"
+msgstr "不"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive 會議"
+
+msgid "Video Conference"
+msgstr "視頻會議"
+
+msgid "Event details"
+msgstr "活動詳情"
+
+msgid "You don't have permissions to view this page."
+msgstr "您無權查看此頁面。"
+
+msgid "Your Upcoming Events"
+msgstr "您即將舉行的活動"
+
+msgid "Upcoming"
+msgstr "即將到來"
+
+msgid "Your Past Events"
+msgstr "您過去的活動"
+
+msgid "Past"
+msgstr "過去的"
+
+msgid "Your Events"
+msgstr "您的活動"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All Events"
+msgstr "所有活動"
+
+msgid "Directions"
+msgstr "路線"
+
+msgid "Edit settings"
+msgstr "編輯設置"
+
+msgid "Delete event"
+msgstr "刪除事件"
+
+msgid "Attending?"
+msgstr "參加嗎"
+
+msgid "No Events"
+msgstr "沒有事件"
+
+msgid "more comment(s)"
+msgstr "更多評論（s）"
+
+msgid "Loading comments"
+msgstr "正在加載評論"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "您將要刪除評論。你確定嗎？"
+
+msgid "task"
+msgstr "任務"
+
+msgid "to do"
+msgstr "去做"
+
+msgid "tasks"
+msgstr "任務"
+
+msgid "Write something..."
+msgstr "寫一些東西..."
+
+msgid "Attach File"
+msgstr "附加文件"
+
+msgid "From Template"
+msgstr "從模板"
+
+msgid "No feeds yet."
+msgstr "還沒有飼料。"
+
+msgid "comments"
+msgstr "評論"
+
+msgid "comment"
+msgstr "評論"
+
+msgid "Add a comment"
+msgstr "添加評論"
+
+msgid "Template"
+msgstr "模板"
+
+msgid "No templates"
+msgstr "沒有模板"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Select the members who needs to fill this form"
+msgstr "選擇需要填寫此表格的成員"
+
+msgid "Update Form"
+msgstr "更新表格"
+
+msgid "Due Date"
+msgstr "截止日期"
+
+msgid "Due Time"
+msgstr "截至日期"
+
+msgid "Loading..."
+msgstr "載入中..."
+
+msgid "Preview"
+msgstr "預覽"
+
+msgid "Save & Close"
+msgstr "保存並關閉"
+
+msgid "Add an element"
+msgstr "添加一個元素"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "媒體正在轉換。我們會在準備就緒時通知您"
+
+msgid "Add "
+msgstr "添加"
+
+msgid "Field"
+msgstr "場地"
+
+msgid "Edit "
+msgstr "編輯"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Sub Text"
+msgstr "子文本"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr "媒體轉換失敗。請刪除並重試。"
+
+msgid "Pages"
+msgstr "頁面"
+
+msgid "Saved"
+msgstr "已保存"
+
+msgid "Insert"
+msgstr "插"
+
+msgid "Elements"
+msgstr "元素"
+
+msgid "Action Required"
+msgstr "需要採取的行動"
+
+msgid "Add a new page"
+msgstr "添加新頁面"
+
+msgid "Blank page"
+msgstr "空白頁"
+
+msgid "From PDF"
+msgstr "從 PDF"
+
+msgid "From image"
+msgstr "從圖像"
+
+msgid "Add PDF"
+msgstr "添加PDF"
+
+msgid "Add Image"
+msgstr "添加圖片"
+
+msgid "Options"
+msgstr "選項"
+
+msgid "Column Names"
+msgstr "列名"
+
+msgid "Option already exists."
+msgstr "選項已經存在。"
+
+msgid "options list is empty"
+msgstr "選項列表是空的"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr "“複選框”字段僅支持5個選項。您可以將字段更改為下拉菜單以添加更多選項"
+
+msgid "columns list is empty"
+msgstr "列列表為空"
+
+msgid "Default Value"
+msgstr "默認值"
+
+msgid "Delete row"
+msgstr "刪除行"
+
+msgid "Add a new row"
+msgstr "添加新行"
+
+msgid "Download"
+msgstr "下載"
+
+msgid "Label"
+msgstr "標籤"
+
+msgid "Question"
+msgstr "問題"
+
+msgid "Default answer"
+msgstr "默認答案"
+
+msgid "Media is converting"
+msgstr "媒體正在轉換"
+
+msgid "Send Form"
+msgstr "發送表單"
+
+msgid "Form Submited."
+msgstr "Form Submited。"
+
+msgid "You don't have permissions to submit forms."
+msgstr "您無權提交表單。"
+
+msgid "You currently have no forms of your own"
+msgstr "您目前沒有自己的表格"
+
+msgid "Your Uncompleted Forms"
+msgstr "您未完成的表格"
+
+msgid "Uncompleted"
+msgstr "未完成"
+
+msgid "Your Completed Forms"
+msgstr "您填寫的表格"
+
+msgid "Completed"
+msgstr "完全的"
+
+msgid "Your Forms"
+msgstr "您的表格"
+
+msgid "All Forms"
+msgstr "所有表格"
+
+msgid "Form Title"
+msgstr "表格標題"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Published"
+msgstr "已發表"
+
+msgid "Submissions"
+msgstr "意見書"
+
+msgid "No Forms"
+msgstr "沒有表格"
+
+msgid "Upload Form Document"
+msgstr "上傳表格文件"
+
+msgid "Forms Library"
+msgstr "表單庫"
+
+msgid "No Forms In Library"
+msgstr "圖書館沒有表格"
+
+msgid "Answers"
+msgstr "答案"
+
+msgid "Close - Status changed"
+msgstr "關閉-狀態已更改"
+
+msgid "Change Status"
+msgstr "更改狀態"
+
+msgid "Case Number"
+msgstr "案件編號"
+
+msgid "Tag Id"
+msgstr "標籤ID"
+
+msgid "Date Opened"
+msgstr "打開日期"
+
+msgid "Host Id"
+msgstr "主機 ID"
+
+msgid "User Id"
+msgstr "用戶身份"
+
+msgid "Case Id"
+msgstr "案例ID"
+
+msgid "Confirm your details"
+msgstr "確認您的詳細信息"
+
+msgid "Form Submitted."
+msgstr "表格已提交。"
+
+msgid "Invoice"
+msgstr "發票"
+
+msgid "PO No:"
+msgstr "採購訂單號："
+
+msgid "Reference ID:"
+msgstr "參考編號："
+
+msgid "Term:"
+msgstr "學期："
+
+msgid "Note:"
+msgstr "筆記："
+
+msgid "QTY"
+msgstr "數量"
+
+msgid "Price"
+msgstr "價錢"
+
+msgid "Add more"
+msgstr "添加更多"
+
+msgid "Subtotal($)"
+msgstr "小計($)"
+
+msgid "Discount(%)"
+msgstr "折扣（％）"
+
+msgid "TAX(%)"
+msgstr "稅（％）"
+
+msgid "Total($)"
+msgstr "總計($)"
+
+msgid "Invoice No"
+msgstr "發票號碼"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "選擇需要查看或支付此發票的會員"
+
+msgid "Update Invoice"
+msgstr "更新發票"
+
+msgid "Create Invoice"
+msgstr "創建發票"
+
+msgid "PO No."
+msgstr "採購訂單號"
+
+msgid "Reference ID"
+msgstr "參考編號"
+
+msgid "Term"
+msgstr "學期"
+
+msgid "Note"
+msgstr "筆記"
+
+msgid "Quantity"
+msgstr "數量"
+
+msgid "Price ($)"
+msgstr "價格 ($)"
+
+msgid "Subtotal ($)"
+msgstr "小計 ($)"
+
+msgid "Discount (%)"
+msgstr "折扣 （％）"
+
+msgid "Tax (%)"
+msgstr "稅 （％）"
+
+msgid "Total ($)"
+msgstr "總計 ($)"
+
+msgid "Pay Invoice"
+msgstr "支付發票"
+
+msgid "Payment method"
+msgstr "付款方式"
+
+msgid "Add a new payment method"
+msgstr "添加新的付款方式"
+
+msgid "Summary"
+msgstr "概括"
+
+msgid "Payment:"
+msgstr "支付："
+
+msgid "Total charge:"
+msgstr "總費用："
+
+msgid "Your Unpaid Invoices"
+msgstr "您的未付發票"
+
+msgid "Unpaid"
+msgstr "未付"
+
+msgid "Your Paid Invoices"
+msgstr "您的已付發票"
+
+msgid "Paid"
+msgstr "有薪酬的"
+
+msgid "Your Invoices"
+msgstr "您的發票"
+
+msgid "All Invoices"
+msgstr "所有發票"
+
+msgid "Invoice Title"
+msgstr "發票標題"
+
+msgid "No Invoices"
+msgstr "沒有發票"
+
+msgid "No Audios yet."
+msgstr "還沒有音頻。"
+
+msgid "Loading failed."
+msgstr "加載失敗。"
+
+msgid "retry"
+msgstr "重試"
+
+msgid "No documents yet."
+msgstr "還沒有文件。"
+
+msgid "No Files yet."
+msgstr "還沒有文件。"
+
+msgid "No Images yet."
+msgstr "還沒有圖片。"
+
+msgid "No Videos yet."
+msgstr "還沒有視頻。"
+
+msgid "Page Not Found"
+msgstr "網頁未找到"
+
+msgid "Attachments"
+msgstr "附件"
+
+msgid "Note View"
+msgstr "筆記視圖"
+
+msgid "No Notes"
+msgstr "沒有備註"
+
+msgid "Select the person to answer this field"
+msgstr "選擇要回答此字段的人員"
+
+msgid "Create E-sign"
+msgstr "創建電子簽名"
+
+msgid "Update E-signs"
+msgstr "更新電子標誌"
+
+msgid "Signs"
+msgstr "跡象"
+
+msgid "Add Field"
+msgstr "添加字段"
+
+msgid "Edit Field"
+msgstr "編輯字段"
+
+msgid "Send E-sign"
+msgstr "發送電子簽名"
+
+msgid "E-sign Submitted."
+msgstr "電子簽名已提交。"
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "您無權提交電子簽名。"
+
+msgid "You currently have no E-signs of your own"
+msgstr "您目前沒有自己的電子標誌"
+
+msgid "Your Uncompleted E-signs"
+msgstr "您未完成的電子標誌"
+
+msgid "Your Completed E-signs"
+msgstr "您已完成的電子標誌"
+
+msgid "Your Signs"
+msgstr "你的招牌"
+
+msgid "All E-signs"
+msgstr "所有電子標誌"
+
+msgid "E-sign Title"
+msgstr "電子簽名標題"
+
+msgid "No E-signs"
+msgstr "沒有電子標誌"
+
+msgid "E-Signs Library"
+msgstr "電子標誌庫"
+
+msgid "No E-signs In Library"
+msgstr "圖書館沒有電子標誌"
+
+msgid "Upload E-sign Document"
+msgstr "上傳電子簽名文件"
+
+msgid "Update Task"
+msgstr "更新任務"
+
+msgid "Create Task"
+msgstr "創建任務"
+
+msgid "You currently have no tasks of your own"
+msgstr "您目前沒有自己的任務"
+
+msgid "Your Uncompleted Tasks"
+msgstr "你未完成的任務"
+
+msgid "Your Completed Tasks"
+msgstr "您完成的任務"
+
+msgid "Your Tasks"
+msgstr "你的任務"
+
+msgid "All Tasks"
+msgstr "所有任務"
+
+msgid "Task"
+msgstr "任務"
+
+msgid "Deadline"
+msgstr "最後期限"
+
+msgid "Assignees"
+msgstr "受讓人"
+
+msgid "In Progress"
+msgstr "進行中"
+
+msgid "Delete task"
+msgstr "刪除任務"
+
+msgid "No Tasks"
+msgstr "沒有任務"
+
+msgid "wants access"
+msgstr "想要訪問"
+
+msgid "No Answers"
+msgstr "沒有答案"
+
+msgid "Select Field Type"
+msgstr "選擇字段類型"
+
+msgid "Text Only"
+msgstr "純文本"
+
+msgid "Multiple Line Text"
+msgstr "多行文字"
+
+msgid "Dropdown"
+msgstr "落下"
+
+msgid "Multi Dropdown"
+msgstr "多下拉菜單"
+
+msgid "Checkboxes"
+msgstr "複選框"
+
+msgid "Radio"
+msgstr "無線電"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Yes/No"
+msgstr "是/否"
+
+msgid "Number"
+msgstr "數"
+
+msgid "Access Denied"
+msgstr "拒絕訪問"
+
+msgid "You don't have access to this case."
+msgstr "您無權處理此案。"
+
+msgid "Imports"
+msgstr "進口貨"
+
+msgid "View import"
+msgstr "查看導入"
+
+msgid "Sessions"
+msgstr "會話"
+
+msgid "Home"
+msgstr "家"
+
+msgid "Users"
+msgstr "用戶"
+
+msgid "Library"
+msgstr "圖書館"
+
+msgid "Integration"
+msgstr "一體化"
+
+msgid "Settings"
+msgstr "設置"
+
+msgid "Webhooks"
+msgstr "網絡掛鉤"
+
+msgid "Keys"
+msgstr "按鍵"
+
+msgid "Feed Templates"
+msgstr "Feed模板"
+
+msgid "Form Templates"
+msgstr "表單模板"
+
+msgid "E-sign Templates"
+msgstr "電子簽名模板"
+
+msgid "Task Templates"
+msgstr "任務模板"
+
+msgid "Dashboard"
+msgstr "儀表板"
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "From"
+msgstr "從"
+
+msgid "To"
+msgstr "至"
+
+msgid "System"
+msgstr "系統"
+
+msgid "User Intake"
+msgstr "用戶攝入量"
+
+msgid "Custom Fields"
+msgstr "自定義字段"
+
+msgid "After Actions"
+msgstr "行動後"
+
+msgid "Advance Settings"
+msgstr "高級設置"
+
+msgid "Label Name"
+msgstr "標籤名稱"
+
+msgid "Fields"
+msgstr "字段"
+
+msgid "Tag ID"
+msgstr "標籤ID"
+
+msgid "Have many users?"
+msgstr "有很多用戶嗎？"
+
+msgid "Import users"
+msgstr "導入用戶"
+
+msgid "or"
+msgstr "或者"
+
+msgid "Send them a signup link."
+msgstr "向他們發送註冊鏈接。"
+
+msgid "Let's start by entering the email or phone number"
+msgstr "首先輸入電子郵件或電話號碼"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Invalid phone number entered"
+msgstr "輸入的電話號碼無效"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "易於查找案例的標籤。以後不能更改"
+
+msgid "Visibility:"
+msgstr "能見度："
+
+msgid "Who can use this template"
+msgstr "誰可以使用此模板"
+
+msgid "One time"
+msgstr "一度"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "請在繼續之前輸入有效的付款信息"
+
+msgid "Add Payment"
+msgstr "添加付款"
+
+msgid "Repeat every:"
+msgstr "重複每一次："
+
+msgid "Let's get started"
+msgstr "讓我們開始吧"
+
+msgid "Take me there"
+msgstr "帶我到那裡"
+
+msgid "Mark"
+msgstr "標記"
+
+msgid "Onboarding"
+msgstr "入職"
+
+msgid "Created on"
+msgstr "創建於"
+
+msgid "Expires on"
+msgstr "到期"
+
+msgid "No announcements yet."
+msgstr "還沒有公告。"
+
+msgid "Add Announcement"
+msgstr "添加公告"
+
+msgid "Edit Announcement"
+msgstr "編輯公告"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "日期和時間應至少提前一小時"
+
+msgid "Delete Date"
+msgstr "刪除日期"
+
+msgid "Delete Time"
+msgstr "刪除時間"
+
+msgid "Back"
+msgstr "背部"
+
+msgid "No Users Found"
+msgstr "未找到相應的用戶"
+
+msgid "No role selected"
+msgstr "未選擇角色"
+
+msgid "No permissions added!"
+msgstr "沒有添加權限！"
+
+msgid "ASSIGNED USERS"
+msgstr "指定用戶"
+
+msgid "CASE PERMISSIONS"
+msgstr "案例權限"
+
+msgid "User ID"
+msgstr "用戶名"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "remove"
+msgstr "去掉"
+
+msgid "Assign User"
+msgstr "分配用戶"
+
+msgid "User"
+msgstr "用戶"
+
+msgid "ADD USER"
+msgstr "添加用戶"
+
+msgid "Email user about case assignment"
+msgstr "向用戶發送有關案例分配"
+
+msgid "Keyword"
+msgstr "關鍵詞"
+
+msgid "No cases found."
+msgstr "沒有發現病例。"
+
+msgid "Create a case for a business"
+msgstr "為企業創建案例"
+
+msgid "Case ID"
+msgstr "案例ID"
+
+msgid "Created On"
+msgstr "創建於"
+
+msgid "Case Status"
+msgstr "案件狀態"
+
+msgid "Case Type"
+msgstr "案例類型"
+
+msgid "Assign Users"
+msgstr "分配用戶"
+
+msgid "No cases found"
+msgstr "沒有發現病例"
+
+msgid "Have many cases?"
+msgstr "有很多案例嗎？"
+
+msgid "Click here to import cases."
+msgstr "單擊此處導入案例。"
+
+msgid "No status selected"
+msgstr "沒有選擇狀態"
+
+msgid "No type selected"
+msgstr "未選擇類型"
+
+msgid "Case Info"
+msgstr "案例信息"
+
+msgid "About"
+msgstr "關於"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr "一個永久標籤，可以輕鬆找到一個案例。 (a-z, 0-9, -, /) 是允許的"
+
+msgid "Case Types"
+msgstr "案例類型"
+
+msgid "Click"
+msgstr "點擊"
+
+msgid "to edit case types"
+msgstr "編輯案例類型"
+
+msgid "No Type selected"
+msgstr "未選擇類型"
+
+msgid "Case not found!"
+msgstr "未找到案例！"
+
+msgid "Media Size"
+msgstr "媒體大小"
+
+msgid "All statistics"
+msgstr "所有統計"
+
+msgid "Import not found."
+msgstr "找不到導入。"
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr "文件處理失敗。確保它是 CSV 文件類型並包含正確的標題"
+
+msgid "Data"
+msgstr "數據"
+
+msgid "No Imports yet."
+msgstr "尚未導入。"
+
+msgid "Source"
+msgstr "來源"
+
+msgid "Stats"
+msgstr "統計資料"
+
+msgid "Passed:"
+msgstr "已通過："
+
+msgid "Failed:"
+msgstr "失敗的："
+
+msgid "Total:"
+msgstr "全部的："
+
+msgid "Add Imports"
+msgstr "添加導入"
+
+msgid "Download Sample"
+msgstr "下載樣本"
+
+msgid "Choose a file"
+msgstr "選擇一個文件"
+
+msgid "Edit Key"
+msgstr "編輯金鑰"
+
+msgid "Add Key"
+msgstr "新增金鑰"
+
+msgid "No Keys yet."
+msgstr "尚無鑰匙。"
+
+msgid "Source CIDR"
+msgstr "來源CIDR"
+
+msgid "Remove"
+msgstr "消除"
+
+msgid "is invalid."
+msgstr "是無效的。"
+
+msgid "Secret Key"
+msgstr "密鑰"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr "確保現在復制您的新密鑰。您將無法再次看到它！"
+
+msgid "Edit Webhook"
+msgstr "編輯Webhook"
+
+msgid "Add Webhook"
+msgstr "添加Webhook"
+
+msgid "No event selected"
+msgstr "未選擇活動"
+
+msgid "No Webhooks yet."
+msgstr "還沒有Webhooks。"
+
+msgid "URL"
+msgstr "網址"
+
+msgid "Secret Webhook"
+msgstr "秘密Webhook"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr "確保立即復制您的新秘密Webhook。您將無法再次看到它！"
+
+msgid "Sign In"
+msgstr "簽到"
+
+msgid "Login in account page."
+msgstr "登錄帳戶頁面。"
+
+msgid "Edit form builder"
+msgstr "編輯表單生成器"
+
+msgid "Delete form"
+msgstr "刪除表格"
+
+msgid "No forms yet."
+msgstr "還沒有表格。"
+
+msgid "Intake Forms"
+msgstr "入學表格"
+
+msgid "Upload Intake Form Document"
+msgstr "上傳入學表格文件"
+
+msgid "Add Intake Form"
+msgstr "添加入學表格"
+
+msgid "Edit Intake Form"
+msgstr "編輯入學表格"
+
+msgid "Show Media"
+msgstr "顯示媒體"
+
+msgid "Add Post"
+msgstr "添加帖子"
+
+msgid "Edit Post"
+msgstr "編輯帖子"
+
+msgid "Files Amount"
+msgstr "文件金額"
+
+msgid "No Feed Templates yet."
+msgstr "尚無Feed模板。"
+
+msgid "Post Name"
+msgstr "郵政名稱"
+
+msgid "Post Message"
+msgstr "發布消息"
+
+msgid "Processing media ..."
+msgstr "處理媒體..."
+
+msgid "Download original file"
+msgstr "下載原始文件"
+
+msgid "Could not display media"
+msgstr "無法顯示媒體"
+
+msgid "No locations found."
+msgstr "找不到地點。"
+
+msgid "Main Office"
+msgstr "總公司"
+
+msgid "Location Name"
+msgstr "地點名稱"
+
+msgid "Delete e-sign"
+msgstr "刪除電子簽名"
+
+msgid "No e-signs yet."
+msgstr "還沒有電子標誌。"
+
+msgid "Subtasks Count"
+msgstr "子任務計數"
+
+msgid "No tasks yet."
+msgstr "還沒有任務。"
+
+msgid "Invoice ID"
+msgstr "發票編號"
+
+msgid "Total"
+msgstr "全部的"
+
+msgid "Refund"
+msgstr "退款"
+
+msgid "No invoices yet."
+msgstr "還沒有發票。"
+
+msgid "Refund Reason"
+msgstr "退款原因"
+
+msgid "Duplicate charge"
+msgstr "重複收費"
+
+msgid "Fraudulent charge"
+msgstr "欺詐收費"
+
+msgid "Requested by customer"
+msgstr "應客戶要求"
+
+msgid "On Board"
+msgstr "在船上"
+
+msgid "Stripe"
+msgstr "條紋"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "角色信息"
+
+msgid "It cannot be changed later"
+msgstr "以後不能更改"
+
+msgid "Role Permissions"
+msgstr "角色權限"
+
+msgid "e-signs"
+msgstr "電子標誌"
+
+msgid "on"
+msgstr "上"
+
+msgid "Allowed File Sizes"
+msgstr "允許的文件大小"
+
+msgid "Create"
+msgstr "創建"
+
+msgid "Creating..."
+msgstr "創建..."
+
+msgid "Modules"
+msgstr "模塊"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Profile information"
+msgstr "檔案信息"
+
+msgid "No role found."
+msgstr "找不到任何角色。"
+
+msgid "When a case is created, auto assign these users"
+msgstr "創建案例時，自動分配這些用戶"
+
+msgid "Remove All"
+msgstr "移除所有"
+
+msgid "User Name"
+msgstr "用戶名"
+
+msgid "Notify"
+msgstr "通知"
+
+msgid "Host User"
+msgstr "主機用戶"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "將用戶分配給案例時，自動添加模板"
+
+msgid "No post selected"
+msgstr "未選擇任何帖子"
+
+msgid "No form selected"
+msgstr "未選擇表格"
+
+msgid "No e-sign selected"
+msgstr "未選擇電子簽名"
+
+msgid "Templates"
+msgstr "模板"
+
+msgid "Add Templates"
+msgstr "添加模板"
+
+msgid "Idle Cases"
+msgstr "閒置案例"
+
+msgid "When a case is idle, post this message"
+msgstr "當案件空閒時，發布此消息"
+
+msgid "No case type selected"
+msgstr "未選擇案例類型"
+
+msgid "Idle Days"
+msgstr "空閒的日子"
+
+msgid "Post Id"
+msgstr "帖子編號"
+
+msgid "Set Idle Message"
+msgstr "設置空閒消息"
+
+msgid "No task selected"
+msgstr "未選擇任務"
+
+msgid "No operation order selected"
+msgstr "未選擇操作順序"
+
+msgid "Operation Order"
+msgstr "操作順序"
+
+msgid "Add Templates to Assign Users"
+msgstr "添加模板以分配用戶"
+
+msgid "CaseType"
+msgstr "案例類型"
+
+msgid "Case Form"
+msgstr "案例表格"
+
+msgid "User Form"
+msgstr "用戶表格"
+
+msgid "Notes Form"
+msgstr "備註表格"
+
+msgid "Defaults"
+msgstr "默認"
+
+msgid "Required"
+msgstr "需要"
+
+msgid "Public User Signup link:"
+msgstr "公共用戶註冊鏈接："
+
+msgid "Design Settings"
+msgstr "設計設定"
+
+msgid "Favicon:"
+msgstr "網站圖示："
+
+msgid "Change file"
+msgstr "變更檔案"
+
+msgid "Delete Favicon"
+msgstr "刪除網站圖標"
+
+msgid "Logo:"
+msgstr "商標："
+
+msgid "Delete Logo"
+msgstr "刪除徽標"
+
+msgid "Text Color"
+msgstr "文字顏色"
+
+msgid "Recommended Colors:"
+msgstr "推薦顏色："
+
+msgid "RGB:"
+msgstr "RGB："
+
+msgid "reset"
+msgstr "重啟"
+
+msgid "Background Color"
+msgstr "背景顏色"
+
+msgid "Hex:"
+msgstr "十六進制："
+
+msgid "Company Info"
+msgstr "公司信息"
+
+msgid "Website"
+msgstr "網站"
+
+msgid "Terms of Use URL"
+msgstr "使用條款網址"
+
+msgid "User Signup"
+msgstr "用戶註冊"
+
+msgid "Allow Signup"
+msgstr "允許註冊"
+
+msgid "Auto Create Case"
+msgstr "自動創建案例"
+
+msgid "Case User Role"
+msgstr "案例用戶角色"
+
+msgid "Google Analytics"
+msgstr "谷歌分析"
+
+msgid "Analytics Key"
+msgstr "分析鍵"
+
+msgid "delete"
+msgstr "刪除"
+
+msgid "Crop Image"
+msgstr "裁剪圖片"
+
+msgid "No Filter"
+msgstr "沒有過濾器"
+
+msgid "No logs requested."
+msgstr "沒有要求的日誌。"
+
+msgid "Logs list is empty."
+msgstr "日誌列表為空。"
+
+msgid "Download CSV"
+msgstr "下載CSV"
+
+msgid "Request Logs"
+msgstr "請求日誌"
+
+msgid "Log Type"
+msgstr "日誌類型"
+
+msgid "Filter"
+msgstr "過濾"
+
+msgid "Select a case"
+msgstr "選擇一個案例"
+
+msgid "Enter the email address"
+msgstr "輸入電子郵件地址"
+
+msgid "Module"
+msgstr "模"
+
+msgid "Header (3 max)"
+msgstr "標頭（最多 3 個）"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr "當用戶加入應用程序時，要求用戶分享以下內容"
+
+msgid "No user intake found."
+msgstr "未發現用戶攝入量。"
+
+msgid "User Type"
+msgstr "用戶類型"
+
+msgid "Intake Form"
+msgstr "入學表格"
+
+msgid "Complete After"
+msgstr "完成後"
+
+msgid "No user type selected"
+msgstr "未選擇用戶類型"
+
+msgid "No intake form selected"
+msgstr "未選擇攝入形式"
+
+msgid "Complete After Date"
+msgstr "完成日期"
+
+msgid "Complete After Time"
+msgstr "時間後完成"
+
+msgid "Date and time should be less or equal to now"
+msgstr "日期和時間應小於或等於現在"
+
+msgid "Comment ct"
+msgstr "評論ct"
+
+msgid "View Ticket"
+msgstr "查看門票"
+
+msgid "Ticket"
+msgstr "票"
+
+msgid "No tickets yet."
+msgstr "還沒有門票。"
+
+msgid "User not found."
+msgstr "未找到用戶。"
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr "用戶可以編輯除主機用戶屬性部分之外的帳戶信息。"
+
+msgid "Contact"
+msgstr "聯繫"
+
+msgid "Phone number"
+msgstr "電話號碼"
+
+msgid "Zip Postal Code"
+msgstr "郵編/郵政編碼"
+
+msgid "Host User Attributes"
+msgstr "主機用戶屬性"
+
+msgid "User Status"
+msgstr "用戶狀態"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr "一個永久標籤，可以輕鬆找到用戶。 (a-z, 0-9, -, /) 是允許的"
+
+msgid "App only User Intake Fields"
+msgstr "僅應用程序用戶攝入量字段"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "僅應用程序自定義字段"
+
+msgid "s found."
+msgstr "找到了。"
+
+msgid "Created Date"
+msgstr "創建日期"
+
+msgid "View Cases"
+msgstr "查看案例"
+
+msgid "VIEW CASES"
+msgstr "查看案例"
+
+msgid "Get Started"
+msgstr "開始使用"
+
+msgid "Password"
+msgstr "密碼"
+
+msgid "Email is not valid."
+msgstr "電子郵件無效。"
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive可以讓您和您的客戶"
+
+msgid "work together"
+msgstr "一起工作"
+
+msgid "at any time, in any place."
+msgstr "在任何時間，在任何地方。"
+
+msgid "Explore"
+msgstr "探索"
+
+msgid "Pricing"
+msgstr "價錢"
+
+msgid "Support & Docs"
+msgstr "支持與文檔"
+
+msgid "FAQ"
+msgstr "常問問題"
+
+msgid "Failed to validate if you are human"
+msgstr "無法驗證您是否是人類"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "當我準備好的時候通知我！"
+
+msgid "Thank You!"
+msgstr "謝謝！"
+
+msgid "We will notify you when the app is ready"
+msgstr "應用就緒後，我們會通知您"
+
+msgid "Most popular"
+msgstr "最受歡迎"
+
+msgid "All languages"
+msgstr "所有語言"
+
+msgid "Oops, Something went wrong."
+msgstr "哎呀！出事了。"
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr "哎呀！出事了。我們的團隊已收到通知。請稍後再試。"
+
+msgid "Support Documentation"
+msgstr "支持文檔"
+
+msgid "All Categories"
+msgstr "所有類別"
+
+msgid "Contents"
+msgstr "內容"
+
+msgid "Related Articles"
+msgstr "相關文章"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr "入門：流程、最佳實踐、設置指南等！"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "在 CaseActive 中找到您開始工作所需的一切。"
+
+msgid "All case communication in one spot"
+msgstr "所有案例通信都在一個地方"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr "交流，發布更新，回答問題，做筆記，發表評論，並通過實時電子郵件和SMS通知標記所有討論。"
+
+msgid "Share with confidence"
+msgstr "分享自信"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr "在任何設備上的客戶和團隊成員之間共享文檔和照片，因此每個人都可以保持最新狀態。"
+
+msgid "Take it on the go"
+msgstr "隨身攜帶它"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr "使用平板電腦和智能手機等移動設備就關鍵細節進行協作，討論重大問題，交換文檔並實時繪製案例進度圖。"
+
+msgid "Immediate records access"
+msgstr "即時記錄訪問"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr "授權用戶可以通過一個門戶快速訪問客戶端數據和案件信息（包括當前，過去，未結，已結案和未決案件）。"
+
+msgid "Automatic timezone conversion"
+msgstr "自動時區轉換"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr "無論是旅行還是住在其他地方，您都將與我們的時區對話管理系統保持同步。"
+
+msgid "Track Events"
+msgstr "徑賽項目"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr "快速安排會議，監控即將舉行的活動，並邀請客戶和團隊成員作為與會者。"
+
+msgid "Video Conferencing"
+msgstr "視頻會議"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr "通過實時視頻聊天與客戶和團隊成員聯繫，以實現更多互動。"
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr "在創建案例或將用戶分配給案例時自動執行任務。"
+
+msgid "Automated Alerts"
+msgstr "自動提醒"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr "想祝您的客戶生日快樂嗎？為過去和現在的客戶在特殊的日子設置自動消息！"
+
+msgid "Keeping Client details up-to-date"
+msgstr "保持客戶詳細信息最新"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr "客戶可以使用更新的數據，照片，密碼和帳戶設置修改其個人資料。"
+
+msgid "Ask Questions, Get Answers."
+msgstr "提出問題，獲取答案。"
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr "創建自定義表單並將其發送給客戶以完成。收集必要的信息，提供出口調查，並獲取做好工作所需的所有數據！"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr "該公司銷售總監"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr "通過在線發票和付款，使客戶賬單盡可能簡單明了。"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr "我們喜歡這種情況發票，因為它可以讓客戶準確看到他們付出的代價。"
+
+msgid ", Vice President of Sky Digital"
+msgstr "，Sky Digital副總裁"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "享受電子簽名的便利"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr "使用上載的文檔以及數字客戶端簽名請求和確認，通過DocSign對所有文檔進行電子簽名。"
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"上傳一個文檔，標記它以供簽名，然後客戶端登錄並電子簽名。客戶無需進入我們的大樓即可完成所有工作。這對於不靠近辦公室或居住在州外的客戶很方便。"
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr "，資本保險業務總監"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "增強您的系統。減少工作，獲得更多結果。"
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "使用自助服務管理功能"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr "從平臺本身完全控制您的CaseActive管理套件。"
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "使用CaseActive輕鬆鏈接現有系統"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr "集成我們專有的API，可根據您的系統輸入自動創建案例，分配用戶並生成報告。"
+
+msgid "Acting as a"
+msgstr "作為一個"
+
+msgid "virtual administrative assistant"
+msgstr "虛擬行政助理"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr "，CaseActive為您提供簡化的文檔和媒體處理，私密"
+
+msgid "client-to-customer communications"
+msgstr "客戶與客戶的溝通"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "事件調度和逐步案例處理。"
+
+msgid "Self-Serve Administration"
+msgstr "自助管理"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr "作為虛擬的行政助理，CaseActive可以幫助您簡化文檔和媒體處理，私人客戶與客戶之間的通信，事件計劃以及分步的案例處理。"
+
+msgid "Manage User Logins & Case Creation"
+msgstr "管理用戶登錄和案例創建"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr "直接監督用戶帳戶的創建，同時根據具體情況授權用戶訪問權限。管理案例的創建，進度和結案，並在整個過程的每個步驟進行完整報告。"
+
+msgid "View Caseactive Analytics"
+msgstr "查看Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"通過CaseActive全面的分析模塊，準確了解案件的進展情況，成功關閉的案件數量，以及響應時間。知識就是力量，我們已經為您提供了有關您自己的項目的所有知識。"
+
+msgid "Monitor User Logs"
+msgstr "監控用戶日誌"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr "密切關注客戶和團隊成員的登錄名和平台活動，以確保在案例參數中授權其所有操作，並確保所有成員均按要求執行其職責。"
+
+msgid "Employ Advanced Searches"
+msgstr "使用高級搜索"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr "準確找到需要的東西。通過用戶和客戶名稱，關鍵字，時間表，上載的文檔等搜索案例！"
+
+msgid "Create Custom Fields"
+msgstr "創建自定義字段"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr "為客戶和團隊成員的輸入生成專門的案例字段，並從所有相關人員那裡收集所需的數據。為您的企業和品牌打造獨特的保護套界面！"
+
+msgid "Create Custom Templates"
+msgstr "創建自定義模板"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr "開發大量自定義表單和模板，以在案件進行期間和之後（例如客戶退出調查）進行分發和完成。無論您需要什麼形式，都可以創建！"
+
+msgid "Violet Cherry"
+msgstr "紫羅蘭櫻桃"
+
+msgid "As-You-Go Invoicing"
+msgstr "按需開票"
+
+msgid "Kenny Herndon"
+msgstr "肯尼赫恩登"
+
+msgid "Patrick Bennett"
+msgstr "帕特里克貝內特"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr "我們來幫忙！如果您仍有任何疑問，請與我們聯繫，我們會在兩個工作日內回复。"
+
+msgid "* Email is not valid."
+msgstr "*電子郵件無效。"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "High"
+msgstr "高"
+
+msgid "Critical"
+msgstr "危急"
+
+msgid "Choose Importance"
+msgstr "選擇重要性"
+
+msgid "Department"
+msgstr "部門"
+
+msgid "Sales"
+msgstr "營業額"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Choose Department"
+msgstr "選擇部門"
+
+msgid "Loading"
+msgstr "載入中"
+
+msgid "Importance"
+msgstr "重要性"
+
+msgid "Send A New Message"
+msgstr "傳送新訊息"
+
+msgid "Send message"
+msgstr "發信息"
+
+msgid "Answers to Questions"
+msgstr "問題答案"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr "有什麼問題嗎？在我們對客戶查詢的回答中閱讀進一步的指導，並找到您自己的答案。"
+
+msgid "How secure is CaseActive?"
+msgstr "CaseActive 的安全性如何？"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive 對數據傳輸使用軍用和銀行級 128 位 SSL 加密，對靜態數據使用 256 位 AES 加密。每個 CaseActive "
+"實例都會生成一個唯一的密鑰，為您的業務提供額外的安全層。我們絕不允許其他公司訪問您的數據庫或存儲系統。"
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr "我有一個現有系統，CaseActive 可以與我現有的系統一起使用嗎？"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr "是的，您可以集成我們專有的 API 或導入模塊，以根據您的系統輸入自動創建案例、分配用戶並生成報告。"
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr "我們的客戶遍布世界各地。 CaseActive 是否提供其他語言版本？"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr "是的，CaseActive 應用程序和通信可以翻譯成 60 多種語言，包括普通話、西班牙語、印地語和俄語以及英語。"
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "我可以以任何方式添加徽標或自定義 CaseActive 嗎？"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr "絕對地！ CaseActive 專為您設計。在管理面板設置頁面，您可以上傳自己的個人顏色並選擇您的公司顏色。"
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr "CaseActive 是否與任何設備（PC、Mac、平板電腦和手機）兼容？"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive 是一個響應式網絡應用程序。它可以在 Internet Explorer、Firefox、Safari 或 Chrome "
+"等任何網絡瀏覽器中運行。這意味著您使用的設備類型（PC、Mac、平板電腦和移動設備）沒有區別。只需打開網絡瀏覽器，登錄到您的 CaseActive "
+"帳戶，一切就緒。"
+
+msgid "How many clients can I have?"
+msgstr "我可以擁有多少客戶？"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr "您按每個員工席位按月計費。您可以擁有無限的客戶端用戶。"
+
+msgid "Enhance User Experience"
+msgstr "提升用戶體驗"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr "沒有最低費用，也沒有前期承諾。您只需每月為每個員工席位付費。"
+
+msgid "Pro"
+msgstr "臨"
+
+msgid "per Month"
+msgstr "每月"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "入門所需的一切。包括3個座位。"
+
+msgid "Business"
+msgstr "商業"
+
+msgid "Popular"
+msgstr "受歡迎的"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "我們最受歡迎的計劃。包括4個座位。"
+
+msgid "Enterprise"
+msgstr "企業"
+
+msgid "Contact sales for pricing"
+msgstr "聯繫銷售定價"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "自定義定價、高級功能、SSO、Webhooks。"
+
+msgid "Contact Sales"
+msgstr "聯繫銷售"
+
+msgid "Overview"
+msgstr "概述"
+
+msgid "Communicate and share docs with your clients"
+msgstr "與您的客戶交流和共享文檔"
+
+msgid "Schedule recurring events and meetings"
+msgstr "安排定期活動和會議"
+
+msgid "Fully customize your form to generate data"
+msgstr "完全自定義表單以生成數據"
+
+msgid "Keep track of case progression"
+msgstr "跟踪案件進展"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "請求多個用戶的合規電子簽名"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "為您的客戶生成發票以查看或支付"
+
+msgid "ToDos"
+msgstr "待辦事項"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "讓每個人都知道即將發生的事情和到期的事情"
+
+msgid "Auto notify the user when something is due"
+msgstr "到期時自動通知用戶"
+
+msgid "Add custom case fields for all your cases"
+msgstr "為所有案例添加自定義案例字段"
+
+msgid "Custom Branding"
+msgstr "定製品牌"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "使用徽標和顏色樣式讓您的應用與眾不同"
+
+msgid "Access to customer support"
+msgstr "獲得客戶支持"
+
+msgid "Storage"
+msgstr "貯存"
+
+msgid "Unlimited"
+msgstr "無限"
+
+msgid "Additional Users Seats"
+msgstr "額外的用戶席位"
+
+msgid "N/A"
+msgstr "不適用"
+
+msgid "$83.34"
+msgstr "83.34 美元"
+
+msgid "Convo with recording"
+msgstr "帶錄音的 Convo"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "視頻或音頻聊天記錄保存到案例"
+
+msgid "API Access"
+msgstr "API 訪問"
+
+msgid "Automate tasks with access to API"
+msgstr "通過訪問 API 自動執行任務"
+
+msgid "Module Templates"
+msgstr "模塊模板"
+
+msgid "Create a standard template and reuse it"
+msgstr "創建標準模板並重複使用"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr "觸發案例或分配的案例時自動運行操作"
+
+msgid "Newsletter"
+msgstr "通訊"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr "向客戶發送一般、生日或節日信息（即將推出）"
+
+msgid "Encryption at rest"
+msgstr "靜態加密"
+
+msgid "Protects your data from system compromise"
+msgstr "保護您的數據免受系統危害"
+
+msgid "Encryption in transit"
+msgstr "傳輸中加密"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "在通信被攔截時保護您的數據"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "基於 SAML 的單點登錄 (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "實時響應事件"
+
+msgid "Seamless Collaboration"
+msgstr "無縫協作"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr "CaseActive 簡化了您公司與客戶之間的數字協作——從諮詢到解決，全部在一個平台上完成。"
+
+msgid "Take a tour"
+msgstr "逛一圈"
+
+msgid "Stay Connected"
+msgstr "保持聯繫"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr "使用CaseActive的用戶友好界面作為客戶和案例管理的一站式中心，保持與團隊成員的即時聯繫。"
+
+msgid "Connect"
+msgstr "連"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed讓您與客戶保持同步。"
+
+msgid "Schedule"
+msgstr "時間表"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "創建活動，邀請與會者和監控日曆。"
+
+msgid "Call"
+msgstr "呼叫"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "隨時隨地參與實時視頻會議通話。"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "安全上傳文件，討論和分享。"
+
+msgid "Powerful Case Management"
+msgstr "強大的案例管理"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "開箱即用的功能"
+
+msgid "Easily assign individuals"
+msgstr "輕鬆分配個人"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "或團隊合作並與客戶合作。"
+
+msgid "Manage user groups"
+msgstr "管理用戶組"
+
+msgid "and customize access permissions."
+msgstr "並自定義訪問權限。"
+
+msgid "All data is automatically backed up"
+msgstr "所有數據都會自動備份"
+
+msgid "in case a recovery is ever needed."
+msgstr "以防需要恢復。"
+
+msgid "All information"
+msgstr "所有信息"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "安全加密，確保您的絕對隱私。"
+
+msgid "Customize"
+msgstr "定制"
+
+msgid "with your own colors and logo."
+msgstr "有自己的顏色和標誌。"
+
+msgid "can be enabled/disabled at any time."
+msgstr "可以隨時啟用/禁用。"
+
+msgid "Benefits of "
+msgstr "的好處"
+
+msgid "Reduction in time "
+msgstr "時間減少"
+
+msgid "to intake new clients"
+msgstr "吸收新客戶"
+
+msgid "Minimize "
+msgstr "最小化"
+
+msgid "the chance of "
+msgstr "的機會"
+
+msgid "malpractice"
+msgstr "弊端"
+
+msgid "Better experience "
+msgstr "更好的體驗"
+
+msgid "for your client"
+msgstr "為您的客戶"
+
+msgid "Increase in caseload capacity "
+msgstr "增加案件處理能力"
+
+msgid "per staff"
+msgstr "每名員工"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "開始使用我們的內置應用程序"
+
+msgid "All you need in one place."
+msgstr "所有你需要在一個地方。"
+
+msgid "Case Feed"
+msgstr "案例饋送"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"輕鬆地將客戶，員工和助理分配到案件，並參與一個安全的空間，使您可以發布案件進度，進行實時聊天和視頻對話以及安排事件，電子簽名/上傳/下載文檔以及多得多。"
+
+msgid "Case Invoices"
+msgstr "案例發票"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr "使用即付即用的發票，只需點擊一下客戶帳單，就可以發送自動生成的資金請求並接收直接付款作為回報。"
+
+msgid "Case Events"
+msgstr "案例活動"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr "始終保持案件日曆井井有條，安排活動，邀請與會者，發送活動提醒並確保一切都按計劃進行。"
+
+msgid "Case Convo"
+msgstr "凱斯康沃"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr "通過內置的視頻會議幾乎“面對面”地與客戶和團隊成員會面，因此您可以直接與所有參與人員進行對話。"
+
+msgid "Case Forms & E-signs"
+msgstr "案例表格和電子標誌"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr "完全自定義您的案例表單，以生成滿足您特定需求的獨特模板。然後可以將這些模板分發給客戶和團隊成員以進行填寫和簽名"
+
+msgid "Case notes"
+msgstr "案例說明"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr "使用自定義字段和附件記錄當前和未來團隊成員的案例進展"
+
+msgid "Case Media"
+msgstr "案例媒體"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr "上傳、分享、評論和下載與案例相關的文件，以便每個人都可以參考所有重要的細節、人員和情況。"
+
+msgid "About Case"
+msgstr "關於凱斯"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr "讓客戶和員工查看所涉及案件的常規詳細信息。一旦一切都完成，您就可以關閉該案件，或者授權團隊成員這樣做。"
+
+msgid "Plus Many More Features"
+msgstr "加上更多功能"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr "使用自助服務管理功能從平臺本身完全控制CaseActive管理套件。"
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr "輕鬆地將現有系統與CaseActive鏈接起來集成我們專有的API，可根據您的系統輸入自動創建案例，分配用戶並生成報告。"
+
+msgid "Multi-Language Enabled:"
+msgstr "多語言啟用："
+
+msgid "Interact with clients in"
+msgstr "與客戶互動"
+
+msgid "70+ languages"
+msgstr "70多種語言"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr "無論是在本地工作還是在全球工作，您都可以通過CaseActive翻譯客戶的母語"
+
+msgid "language management system"
+msgstr "語言管理系統"
+
+msgid "No more confusion or limits."
+msgstr "沒有更多的混亂或限制。"
+
+msgid "Let's see what others are saying"
+msgstr "讓我們看看其他人在說什麼"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr "了解我們的優秀客戶（從小型企業到公司企業）如何通過成為CaseActive勇士來增強其競爭優勢。"
+
+msgid "SUPPORT"
+msgstr "支持"
+
+msgid "Everything at Your Fingertips."
+msgstr "一切都在你的指尖。"
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr "按照我們的視頻指南開始使用您的CaseActive應用程序，並根據您的需求進行自定義。"
+
+msgid "What are you looking for..."
+msgstr "你在找什麼..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "最後更新：2021 年 6 月 7 日"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive保留隨時自行決定更新和更改任何或所有這些服務條款的權利。當CaseActive更改這些服務條款時，CaseActive將修改上面的“最後更新”日期。您有責任定期查看Service的最新版本。進行任何此類更改後，您繼續使用服務即表示您同意接受此類更改的約束。如果您反對對這些服務條款進行任何更改，則您唯一的專有補救措施是根據此處的條款終止服務。"
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr "這些一般服務條款通常適用於服務。適用於所提供的每項服務的附加條款在下面提供的鏈接中列出（“附加服務條款”）。"
+
+msgid "1. Services:"
+msgstr "1.服務："
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"我們的專有軟件是我們為客戶託管的服務平台，旨在提供以下詳細的服務。要訂閱服務，您必須為該服務執行訂購單和/或完成該服務的註冊流程。您僅有權使用已訂購和付費的服務，並且您對服務的使用必須遵守本協議的所有條款和條件。您承認並同意，我們保留不時修改服務（或其任何部分）的權利，並且我們對您或任何第三方對服務的任何修改概不負責。"
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 CaseActive Service的描述：CaseActive Service是由CaseActive "
+"LLC提供的用於在線客戶端協作管理的託管軟件服務套件。您同意的註冊流程或已執行的訂購單將標識您已訂購的CaseActive "
+"Service，訂購期限和您為CaseActive Service應付的費用。適用於您使用CaseActive服務的其他條款和條件在以下位置列出："
+
+msgid "2. Expanding the Services:"
+msgstr "2.擴展服務："
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"您可以訂閱任何其他服務，包括CaseActive可能不時提供的新服務，或通過執行其他訂單或註冊流程來增加現有服務，作為服務的一部分。每個新的註冊流程或訂單表將包括當時添加的服務的價格和開票日期。所有新服務均應遵守這些一般服務條款以及可能專門適用於此類額外服務的任何其他條款和條件。"
+
+msgid "3. Customer Support:"
+msgstr "3.客戶支持："
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"如果您已支付了您應支付的所有服務費用，我們將通過商業上合理的努力向您和您已訂閱服務的授權用戶免費提供技術支持服務。客戶服務代表將分配給您的案件。授權用戶可以接受無限制的案例。我們的標準支持服務全天候24/7，不包括重大假期，包括陣亡將士紀念日，獨立日，勞動節，感恩節，聖誕節和元旦。您可以通過使用我們的聯繫客戶支持"
+
+msgid "Contact Form"
+msgstr "聯繫表"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr "。我們的回复時間不得超過兩個工作日。"
+
+msgid "4. Training:"
+msgstr "4.培訓："
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"如果您已支付了您應支付的所有服務費用，我們將向您指定的，指定的和授權的用戶提供遠程，實時或記錄的培訓課程，並提供可通過我們網站的“幫助和培訓”部分訪問的教程。沒有額外的費用。對於某些服務，我們可應要求提供一些現場培訓，但需要額外收費。請通過使用我們與我們聯繫"
+
+msgid "for more information about on-site training."
+msgstr "有關現場培訓的更多信息。"
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5.您的權利和限制："
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1許可：在遵守協議條款和條件的前提下，並在及時支付了訂購單或註冊流程中規定的所有適用費用後，我們在此授予您非排他性，不可轉讓，有限的權利和僅用於內部業務目的的使用許可（並允許您的授權用戶使用）您已訂閱的服務。"
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2授權用戶：您（i）對您的授權用戶遵守本協議負責，並且（ii）應盡商業上的合理努力防止未經授權的訪問或使用服務，並應立即將任何此類未經授權的訪問通知我們。採用。如果用戶或指定員工的授權狀態發生更改，您有責任刪除對服務的訪問。"
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3您的責任和限制：您應對用戶帳戶下或授權用戶下發生的所有活動負責。您應：（i）對您提交給服務的所有數據的準確性，質量，完整性，合法性，可靠性和適當性承擔全部責任；"
+" （ii）採取商業上合理的努力，以防止未經授權的控製或篡改或任何其他未經授權的訪問或使用服務，並立即將任何未經授權的使用或安全漏洞通知我們； "
+"（iii）在使用服務時遵守所有適用的當地，州，聯邦和外國法律（包括有關隱私和保護個人或消費者信息的法律）； "
+"（iv）在適用範圍內，遵守信用卡協會的所有適用規則（包括美國運通卡，萬事達卡和維薩卡）； "
+"（v）獲得和維護訪問服務所需的所有計算機硬件，軟件和通信設備，並支付您因使用服務而產生的所有訪問費用（例如ISP費用）。"
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"您可能不會這樣做，並且應確保您的授權用戶不會，（i）拆卸，反向工程，反編譯或以其他方式嘗試破譯與服務相關的任何代碼，或根據，翻譯，改編，創建衍生作品或翻譯服務;"
+" （ii）許可，分許可，出售，出租，轉讓，分發，分時轉讓，租賃，貸款，轉售利潤，分發或以其他方式進行商業利用，授予服務權利或向任何第三方提供服務； "
+"（iii）使用服務，除非本協議明確授權或違反任何適用法律； （iv）從事與服務有關的任何非法或欺騙性貿易行為； "
+"（v）規避或禁用服務或軟件任何其他方面的任何安全性或其他技術功能或措施，或者以任何方式試圖獲得或獲得對服務或相關計算機系統或網絡的未授權訪問； "
+"（vi）使用服務傳輸侵權，誹謗，淫穢，威脅或其他非法，不安全，惡意，濫用或侵權的材料，或存儲或傳輸侵犯第三方隱私權的材料； "
+"（vii）使用服務存儲或傳播任何病毒，蠕蟲，定時炸彈，特洛伊木馬和其他有害或惡意代碼，文件，腳本，代理或程序，或發送垃圾郵件或違反適用法律的重複或未經請求的消息;"
+" （viii）干擾或破壞服務或其中包含的第三方數據的完整性或性能。"
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4權利保留：除協議明確規定的以外，不授予其他權利。該協議不是出售，也不表示對服務或任何基礎軟件的任何權利或所有權。我們擁有“服務”和基礎軟件及其任何以及所有的更新，升級，修改，增強，改進或派生作品的所有權利，所有權和利益，包括所有知識產權，並且在任何情況下都知道-"
+"我們或我們的許可方在執行服務過程中如何以及如何開發程序。"
+
+msgid "6. Term and Termination:"
+msgstr "6.期限和終止："
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr "6.1期限：服務的期限因您所訂閱的服務而異，應在訂購表中闡明或在註冊流程中約定，並應按以下方式續訂："
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 CaseActive服務期限：您對CaseActive "
+"Service的訂購應自動續訂一個月或一年的期限，如訂購單或註冊流程中所述，除非我們終止服務，否則您向我們提供以下通知屆滿前至少三十（30）天不續簽。"
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 "
+"CaseActive網站服務期限：您對CaseActive網站服務的訂購應自動續訂一個月或一年的期限（如訂購表或註冊流程中所述），除非我們停止服務或您向我們提供服務並且在當前期限屆滿前至少三十（30）天通知您不續簽。"
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3您必須將書面的非續約通知書提交至CaseActive，LLC，地址為1107 W. 6th Ave.，Ste B. Cheyenne，WY "
+"82003。"
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2終止：（i）如果另一方違反了本協議項下的任何重大義務，並且在收到不違反通知後的三十（30）天內未解決，則任何一方都可以終止本協議和所有服務訂閱一方；或（ii）另一方破產或破產，清算或解散，或基本上停止了所有業務。如果違反上述第5.3節，我們可能會立即終止本協議。協議終止後，您將立即停止對服務的所有使用，不再以任何形式表示您是服務的用戶，並銷毀您擁有的所有機密信息。雙方均不對本協議規定的終止協議或對服務的任何訂購造成的任何損害負責；但是，前提是協議的終止不影響在終止之前提出的任何索賠。"
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3在終止情況下處理您的數據：您承認並同意，在您終止任何服務訂閱後，我們可能會立即停用受影響的服務，並且在不低於90的合理期限內（90 "
+"）天，可能會刪除您的帳戶和數據。但是，如果服務被我們終止，我們將授予您暫時有限的訪問服務的權利，期限不超過三十（30）天，其唯一目的是允許您檢索您的專有數據，前提是您已全額支付了所有欠我們的無可爭議的款項。您進一步同意，只要我們遵守本6.3節的條款，我們對您或任何第三方對您訪問服務的任何終止或刪除您的數據概不負責。"
+
+msgid "7. Fees:"
+msgstr "7.費用："
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1服務費：您應按照註冊流程或訂單中規定的金額（並按照註冊流程或訂單中規定的結算頻率）支付服務的不可退還費用（“服務費”）形成。服務費應在發票日期支付。根據我們當時的費用，服務費可能會增加。即使您提前終止訂閱，服務費也不可退還。"
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2附加費用：除訂購單和/或註冊流程中列出的費用外，您可能還會因使用服務而產生其他不可退還的費用。適用服務的附加條款中列出了其他不可退還的費用。"
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3逾期付款：您承認您未及時支付任何費用或收費可能會導致CaseActive產品訂閱的暫停或終止。如果您未能支付以下任何應付的費用或費用，CaseActive保留聘請收款公司收取費用的權利，並且您應支付CaseActive收取的與此類逾期款項有關的所有費用，包括（但不限於）合理的律師費和收款公司的費用加上利息，金額等於每月1.0％或適用法律所允許的最高利率中的較低者。"
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4稅金：您應對聯邦，州或地方政府實體對本協議進行的交易徵收的所有營業稅，使用稅，增值稅，預扣稅以及任何其他類似的稅費負責。當我們有法律責任支付或徵收您應負責的稅款時，根據本節的規定，應向您開具發票並由您支付適當的金額，除非您向我們提供了由適當的稅務部門授權的有效免稅證書。"
+
+msgid "8. Representations and Warranties:"
+msgstr "8.陳述和保證："
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1相互陳述和保證：雙方特此聲明並保證另一方（i）在沒有任何第三方同意或不違反與任何第三方達成的任何合同或協議的情況下，它具有簽訂和履行本協議下的義務的所有必要權限。任何第三方，（ii）所有履行本協議下任何義務的人均已簽訂所有必要的協議，以使其遵守協議的條款和條件，並且（iii）在所有重大方面均應遵守適用於所有第三方的所有法律服務。"
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr "8.2其他聲明和保證：您保證，聲明並與我們約定，您將僅根據本協議和所有適用的CaseActive政策和準則將這些服務用於合法目的。"
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3免責聲明：除本第8節所規定的明示保證外，在適用法律允許的最大範圍內，我們在法律上或交易或使用過程中均不作其他明示，暗示，法定或其他形式的保證。貿易，包括任何內容，包括適銷性，令人滿意的質量，標題，適用於特定目的或不侵權。我們不保證該軟件或服務將滿足您的所有要求，包括會計要求，也不保證該軟件或服務的使用不受干擾或無差錯。本軟件和服務是按“原樣”提供給您的，使用本軟件和服務的風險由您自行承擔，包括但不限於遵守任何法律。雙方明確承認，免責聲明構成本協議的重要組成部分。"
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"我們否認您對服務的使用將能夠滿足或確保遵守任何法律義務或法律法規的任何陳述或保證。本免責聲明適用於但不限於您可能適用的任何联邦或州法規。您應完全負責確保您對服務的使用符合適用法律的規定。"
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr "如果您對本服務或本協議感到不滿意，則您唯一的專有補救措施是終止使用本服務。"
+
+msgid "9. Confidential Information:"
+msgstr "9.保密信息："
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"除非得到另一方的明確授權，否則任何一方均不得向任何第三方披露該協議中另一方提供的，被合理理解為機密的任何信息或材料（“機密信息”），或以任何其他方式使用此類機密信息而不是履行協議規定的義務。前述限制不適用於公有領域或接收方已經擁有的，在披露之日前接收方已知的信息或在此之後從具有明顯目的的第三方得知的信息。擁有披露信息的真實權利，或接收方有義務根據具有管轄權的法院或有效的行政傳票的命令提供的機密信息，但前提是接收方應及時向披露方及時通知該法院命令或傳票。此外，您將確保您的授權用戶將嚴格保密所有對服務的密碼和其他訪問信息。本第9條在本協議終止或終止後仍有效。"
+
+msgid "10. Indemnification:"
+msgstr "10.賠償："
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1侵權賠償：在遵守第10.4節的規定的前提下，我們應自費為您辯護，以防止您提出任何第三方索賠，這些索賠指稱服務自生效日期起侵犯了授予第三方的任何美國專利；或侵犯任何第三方的任何版權，商標或商業秘密（統稱為“構成服務基礎的知識產權”）。如果針對使用服務基礎知識的知識產權尋求或獲得禁制令，或者我們認為有可能尋求或獲得禁制令，我們將自費選擇並由您承擔以下費用：（i）為您和您指定的公司採購授權用戶有權繼續使用服務，或（ii）替換或修改服務以使其使用不侵權，同時能夠基本執行相同的功能。如果上述（i）和（ii）款在商業上不可行，我們可以終止服務並退還任何預付款但未使用的服務費。如果被指控的侵權行為是由於（i）您（或您的任何授權服務或指定用戶）；或者（ii）如果不進行此類修改或組合可以避免侵權，則將服務與CaseActive未提供的服務和產品結合使用，或者（iii）遵守您的設計或說明，或者（iv）聲稱沒有明確聲明服務是索賠的標的（每個都是“排除的索賠”）。本協議第10.1節中規定的賠償義務應在本協議終止或到期後繼續有效。"
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2保障數據安全和隱私：在遵守10.4節的規定的前提下，在您訂購服務期間，我們應自費為您辯護，以防止因第三方而向您提出的任何聲稱我們嚴重疏忽防止未經授權的訪問的索賠或我們故意洩露我們擁有或控制的客戶的個人身份信息。如果因您的疏忽或故意的不當行為或您的代理人或代表的疏忽或故意的不當行為引起或與之有關，或根據本協議任一方放棄或限制責任，則此賠償不適用。本節中規定的賠償義務取決於您證明我們的重大過失或故意的不當行為直接或直接導致未經授權訪問或披露了我們擁有或控制的客戶的個人身份信息。"
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3您的賠償：您同意對我們和我們所有的員工，管理人員，董事和代理人進行賠償，使其免受損害，並為我們和我們所有的僱員，官員，董事和代理人提供賠償，使其免受任何和所有索賠，要求，訴訟，訴訟，調查，損害，費用，費用，損失，以及任何其他損害（i）您違反本協議使用服務，（ii）排除的索賠，（iii）您的任何實際或指稱的違反引起的或與之有關的負債（包括合理的律師費，法庭費用）協議中的任何陳述，擔保，契約或義務，或（iv）您的重大過失或故意的不當行為。您在本協議第10.3節中規定的賠償義務應在本協議終止或期滿後繼續有效。"
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4通知與合作：根據上述第10條，賠償方對賠償方的義務應以（i）賠償方在知悉任何索償後根據書面要求立即書面通知賠償方為準，而該索賠方有權根據本協議獲得賠償;"
+" （ii）在適用的範圍內，受害方在收到通知後就停止使用所要求的侵權服務； "
+"（iii）補償方允許補償方擁有控制任何此類索賠的辯護和解決的唯一權利（前提是除非補償方無條件地使補償方無條件解除賠償方的所有賠償責任，否則補償方不得解決任何索賠）；"
+" （iv）賠償方為賠償要求提供辯護，由賠償方承擔費用，向賠償方提供合理的協助； "
+"（v）未經補償方事先明確的書面同意或要求，被補償方不得訂立任何和解協議或以其他方式解決任何此類索賠； "
+"（vi）受賠償方遵守與索賠有關的任何解決方案或法院命令（與將來使用任何侵權材料有關）。受害方可自行選擇並自費參加辯護或和解。"
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr "10.5排他性補救措施：第10條規定，賠償方對本節中所述的任何類型的索賠對另一方承擔唯一責任，並且受賠償方對另一方承擔排他性補救措施。"
+
+msgid "11. Limitation on Liability:"
+msgstr "11.責任限制："
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"除因違反第5.3或12條而引起的損害外，在法律許可的最大範圍內，任何一方在任何情況下，就該協議引起的或與該協議有關的累計賠償責任均不超過金額的總和在因訴訟原因引起的一年之內立即為您提供服務的責任。"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"除因違反第5.3或第12條而引起的損害外，在任何情況下，任何一方，其許可方或供應商在任何情況下均未在法律允許的最大範圍內對另一方承擔任何損失或任何責任。根據本協議，本協議或本協議，本協議或本協議，本協議或本協議，本協議或本協議所產生的任何責任（基於疏忽），基於任何責任理論（包括過失）引起或基於任何間接，特殊，繼發性，排他性或偶發性損害的採購成本不論是否有此當事方的義務，都已被告知可能發生此類損害。"
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"由於某些州/司法轄區不允許排除或限制後果性或偶發性損害的賠償責任，因此上述限制可能對您不適用，在這種情況下，我們的責任應限於法律允許的最大範圍內。"
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12.個人信息和隱私聲明："
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"您將遵守與任何人的個人身份信息（定義如下）的保護，收集，使用和分發有關的所有適用的隱私權以及其他法律，規則，法規和準則。您將在收集個人身份信息的頁面上張貼隱私聲明（“隱私聲明”），該聲明符合所有適用的法律，規則，法規和準則，並至少通知用戶所收集的個人身份信息，如何將被使用以及將如何得到保護，並確定收集方法（cookie，網絡信標或其他適用方式）以及與服務有關收集的信息的使用，並在使用任何內容之前獲得事先知情同意（選擇加入）在適用法律和法規要求的範圍內跟踪技術。此類隱私聲明還應包括與我們通過服務提供的個人身份信息的收集，傳輸和存儲有關的技術信息。如果適用的數據保護法規或其他法律或法規有要求，您將告知第三方您正在向我們提供其個人身份信息供我們處理，並確保任何需要的第三方均同意此類披露和處理。您同意遵守隱私聲明的描述和規定。"
+" "
+"“個人身份信息”是指可以與任何個人關聯或追踪的任何信息，包括個人的姓名，地址，電話號碼，電子郵件地址，信用卡信息，社會保險號或其他類似的特定事實信息，無論存儲此類信息的媒體（例如紙質或電子形式）。"
+
+msgid "13. Miscellaneous:"
+msgstr "13.其他："
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1獨立方：您和CaseActive是獨立承包商。該協議不會在雙方之間建立任何合資，合夥，代理或僱傭關係。您應全權負責管理您的員工，以及對您的員工以及您的任何其他代表或服務提供商的任何和所有補償，稅金，利益和負債。您或您的任何僱員，代表或服務提供商均不得對我們，協議或服務作出任何陳述，擔保或保證，除非得到我們的書面明確授權。"
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2轉讓：未經我們事先書面同意，不得通過法律或其他方式，通過法律執行方式轉讓或轉讓本協議或您在本協議項下的任何權利或義務，除非轉讓給有利益的繼承人或根據合併，您在交易完成前至少三十（30）天向我們提供您的全部或基本全部資產的重組，出售或轉讓的通知。您在任何其他情況下進行的轉讓都需要我們的事先同意，不得無理拒絕該同意。未經您的同意，我們可以自由轉讓本協議。在不違反上述規定的前提下，本協議應約束並確保雙方，其各自的繼承人和允許的受讓人的利益。"
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3不可抗力：由於責任方無法控制的行為，任何一方均不對本協議項下的任何延誤，中斷或其他未能履行的責任，但僅在這種情況持續存在的情況下。不可抗力事件包括但不限於：自然災害（例如閃電，地震，颶風，洪水）；戰爭，騷亂，恐怖活動和動亂；當地交易所的活動以及第三方的其他行為；爆炸和大火；禁運，罷工和勞資糾紛；政府法令；電信提供商或互聯網服務提供商的失敗；第三方供應商，服務提供商或供應商的失敗；以及超出當事人合理控制範圍的任何其他原因。"
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4法律選擇：本協議以及因本協議引起的或與本協議有關的任何爭議應受加利福尼亞州法律管轄並根據加利福尼亞州法律解釋，不考慮法律衝突原則。由本協議引起或與之有關的所有爭議均應受加利福尼亞州聖塔芭芭拉市加利福尼亞州和聯邦法院的專屬管轄權和審判地，並且各方均同意接受這些法院的個人和專屬管轄權。"
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5電子郵件和通知：您進一步同意，我們可以通過電子郵件，郵件，特快專遞服務或認可的商業承運人向您最後指定的地址發送任何和所有通知，聲明和其他通訊給您在協議上。您有責任向我們提供任何更新的聯繫信息。"
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6不放棄；累積補救措施：任何一方未能行使或延遲行使本協議項下的任何權利均不會構成對該權利的放棄。除本文明確規定外，本文提供的補救措施是對當事人在法律或衡平法下的任何其他補救措施的補充，但也不排除任何其他補救措施。"
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7可分割性：如果具有管轄權的法院裁定本協議的任何規定與法律相抵觸，則該條款應由法院進行修改和解釋，以便在以下條件允許的最大範圍內最好地實現原始規定的目標法律，並且本協議的其餘條款仍然具有完全的效力。"
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8完整協議：在適用法律允許的最大範圍內，本協議以及此處引用的文件以及所有訂購單和簽署流程構成雙方之間就其標的物達成的完整協議，並取代之前的所有關於本協議主題的書面或口頭的同期協議，提議或陳述。除非本協議中明確說明，否則在本協議之前，各方之間在談判中所說或做的任何陳述均不得被視為是暗示或暗示。任何一方均不得針對另一方依據本協議訂立的不真實陳述提供任何補救措施（除非該不真實陳述是通過欺詐手段做出的），並且任何一方對任何不真實陳述的唯一補救措施應為違反本協議規定的合同。您承認並同意，您根據本協議達成的協議並不取決於本文或訂單中未指定的任何未來功能或特性的交付，也不取決於我們就未來功能或特性做出的任何口頭或書面，公開或私人評論服務。如果這些一般服務條款中的規定與任何訂購單或附加服務條款之間發生衝突，則以此類訂購單或附加服務條款中的條款為準。您的採購訂單或任何其他訂單文檔中規定的條款或條件均不得納入本協議或構成本協議的任何部分，並且所有此類條款或條件均無效。"
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr "13.9出口：雙方均同意遵守適用的美國進出口法律和法規。您不得違反美國任何出口禁運，禁止或限制，允許用戶訪問或使用服務。"
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr "13.10宣傳：未經您的書面同意，我們不得將您命名為服務的用戶。"
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11指向第三方站點的鏈接：服務或我們的網站可能包含指向第三方站點（“鏈接站點”）的鏈接。鏈接站點不受我們的控制，我們對任何鏈接站點的內容概不負責，包括但不限於鏈接站點中包含的任何鏈接，或對鏈接站點或通過鏈接站點提供的服務的任何更改或更新。我們僅為了方便起見向您提供這些鏈接，並且包含任何鏈接並不表示我們認可本網站或本網站提供的任何相關服務。"
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 您同意接收來自 CaseActive "
+"的電子郵件、電話和短信，以提供您訂單的更新和/或營銷目的。消息頻率取決於您的活動。您可以通過取消選中來自您帳戶的通知或刪除您的帳戶來選擇退出。消息和數據費可能適用。"
+
+msgid "An error occurred"
+msgstr "發生錯誤"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr "出了些問題。我們的工程師已收到通知。按重新加載按鈕重新加載。"
+
+msgid "Reload"
+msgstr "重新加載"

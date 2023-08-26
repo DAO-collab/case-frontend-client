@@ -1,0 +1,210 @@
+#content {
+  position: relative;
+  background: white;
+}
+
+.docs-content {
+  max-width: 700px;
+  margin-right: 40px;
+}
+
+.docs-title {
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 25px;
+  line-height: normal;
+}
+
+.docs-search-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.docs-search {
+  width: 400px;
+  font-size: 16px;
+}
+
+.docs-category-ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.docs-category-ul > li {
+  font-size: 16px;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.docs-category-ul > li:hover {
+  background: #DFDFDE;
+}
+
+.breadcrumbs {
+  font-size: 16px;
+  margin: 94px 0 80px;
+  line-height: normal;
+  display: flex;
+  align-items: center;
+}
+
+:host ::ng-deep img {
+  max-width: 500px !important;
+  width: 100%;
+  display: block;
+  margin: 40px auto;
+}
+
+.breadcrumbs-symbol {
+  width: 7px;
+}
+
+.breadcrumbs-link,
+.breadcrumbs-symbol {
+  margin: 0 20px 0 0;
+}
+
+.breadcrumbs-link,
+.breadcrumbs-doc-title {
+  font-size: 14px;
+}
+
+:host ::ng-deep table tr td,
+:host ::ng-deep table tr th {
+  vertical-align: middle;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border: none;
+  padding: 15px 10px;
+}
+
+:host ::ng-deep table tr:nth-child(odd) {
+  background-color: #F6F8F9;
+}
+
+:host ::ng-deep table tr th {
+  background: white;
+  text-align: center;
+  vertical-align: middle;
+  color: #3f3f3f;
+}
+
+.content-wrapper {
+  display: flex;
+}
+
+.subcategory {
+  display: block;
+  color: #3f3f3f;
+  margin-bottom: 50px;
+}
+
+.right-side-menu {
+  padding: 20px 20px 20px 40px;
+  border-left: 1px solid #D8D8D8;
+}
+
+.right-side-menu-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 16px;
+  line-height: normal;
+  margin-top: 0;
+  color: #4B5153;
+}
+
+.subcategory-title {
+  color: #16b0c5;
+  font-weight: normal;
+  font-size: 16px;
+  margin-bottom: 16px;
+  display: block;
+  line-height: normal;
+}
+
+.subcategory > .subcategory-title:last-child,
+.related-articles > .subcategory-title:last-child {
+  margin-bottom: 0;
+}
+
+:host ::ng-deep h1 {
+  font-size: 32px;
+  font-weight: normal;
+  margin-bottom: 80px;
+}
+
+:host ::ng-deep h2 {
+  font-size: 24px;
+  font-weight: normal;
+  margin-top: 40px;
+  scroll-margin-top: 200px;
+}
+
+:host ::ng-deep h1,
+:host ::ng-deep h2,
+:host ::ng-deep h3,
+:host ::ng-deep h4,
+:host ::ng-deep p,
+:host ::ng-deep li,
+.breadcrumbs-doc-title {
+  color: #667074;
+}
+
+:host ::ng-deep li,
+:host ::ng-deep p {
+  font-size: 16px;
+}
+
+.contact-us-wrapper {
+  margin-top: 60px;
+}
+
+:host ::ng-deep .contact-us-wrapper p {
+  font-size: 14px;
+}
+
+.full-screen-image {
+  position: fixed;
+  z-index: 99999999;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: 70px auto auto;
+  text-align: center;
+  width: auto;
+  max-height: 90% !important;
+  max-width: 100% !important;
+}
+
+.display-none {
+  display: none;
+}
+
+.related-article {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+@media only screen and (max-width: 1000px) {
+  .right-side-menu {
+    padding-left: 20px;
+  }
+
+  .docs-content {
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .docs-search {
+    width: 250px;
+  }
+
+  .right-side-menu {
+    display: none;
+  }
+}

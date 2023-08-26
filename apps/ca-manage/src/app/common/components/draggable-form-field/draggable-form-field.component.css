@@ -1,0 +1,237 @@
+span.actions-on-field {
+  /* width: 100%; */
+  display: block;
+  text-align: right;
+  padding: 0 5px;
+  background: rgba(27, 27, 27, 0);
+  position: absolute;
+  bottom: -26px;
+  height: 0;
+  transition: 0.2s ease-in-out;
+  max-height: 20px;
+  right: 10px;
+  top: 0;
+  z-index: 3;
+}
+
+i {
+  cursor: pointer;
+  font-size: 20px;
+}
+
+span label {
+  text-align: left;
+  padding: 3px 5px 0;
+  font-weight: bold;
+}
+
+span p,
+span pre {
+  text-align: left;
+  padding: 3px 5px 0;
+}
+
+span p.multiline-text {
+  white-space: pre-wrap;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+span ul {
+  text-align: left;
+}
+
+.notice-a > span {
+  padding-left: 50px;
+}
+
+span .form-control {
+  /*max-width: calc(100% - 10px);*/
+  /*margin: 0 auto;*/
+  /*margin-bottom: 5px;*/
+}
+
+.top-left {
+  top: -5px;
+  left: -5px;
+}
+
+.top-right {
+  top: -5px;
+  right: -5px;
+}
+
+.bottom-left {
+  bottom: -5px;
+  left: -5px;
+}
+
+.bottom-right {
+  bottom: -5px;
+  right: -5px;
+}
+
+.d-field-wrapper span .form-control {
+  /*height: auto !important;*/
+}
+
+.checklist-d label span {
+  display: inline-block;
+  clear: both;
+  width: 61px;
+  position: relative;
+  z-index: 9;
+  margin-left: 28px;
+}
+
+.checklist-d label .input {
+  left: 5px;
+}
+
+.checklist-d .radio input[type='radio'] {
+  height: 25px;
+  display: block;
+  opacity: 0;
+  width: 23px;
+  margin-left: 0px;
+}
+
+span.boolen-field > label {
+  vertical-align: top;
+  float: left;
+}
+
+span.boolen-field label.container {
+  width: 24px;
+  clear: none;
+  margin: 5px 0px 0px 5px;
+  padding: 0;
+}
+
+span.boolen-field {
+  min-width: 266px;
+  position: relative;
+}
+
+.d-field-wrapper textarea {
+  min-height: 10px;
+  height: 100%;
+}
+
+.field-content {
+  border-bottom: solid 1px #dbdbdb;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.field-content p {
+  word-break: break-all;
+}
+
+.field-content.table {
+  border-bottom: unset;
+}
+
+.field-content.table table {
+  font-family: Arial, sans-serif;
+  table-layout: fixed;
+}
+
+.field-content.table td {
+  padding: 0;
+  height: 26px;
+}
+
+.field-content.table th {
+  border-bottom: unset;
+}
+
+.field-content.table tbody tr td {
+  border: 1px solid #4b5153;
+}
+
+.d-field-wrapper > span {
+  display: block;
+  clear: both;
+  height: 100%;
+  top: 10px;
+}
+
+.d-field-wrapper {
+  height: 100%;
+}
+
+::ng-deep app-draggable-form-field {
+  margin: 5px;
+  width: calc(100% - 10px) !important;
+  left: 0 !important;
+  /*z-index: 20;*/
+}
+
+::ng-deep app-draggable-form-field > div > span {
+  height: unset !important;
+}
+
+material-slide-toggle {
+  text-align: left;
+}
+
+.move-button {
+  color: #7a8185;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  padding: 3px 1px;
+}
+
+.move-button:hover {
+  border: 1px solid #f7f0fb;
+  border-radius: 50%;
+  padding: 3px 1px;
+}
+
+.mediaField img {
+  width: 100vw;
+}
+
+::ng-deep .material-switch > input[type='checkbox']:checked + label::after,
+::ng-deep .material-switch > input[type='checkbox']:checked + label::before {
+  background: #16b0c5 !important;
+}
+
+.sub-menu-popup {
+  position: absolute;
+  right: 0;
+  top: 30px;
+  border: 2px solid #16b0c5;
+  background: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sub-menu-popup p {
+  padding: 10px 15px;
+  font-size: 1em;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.sub-menu-popup p:hover {
+  background: #f7f0fb;
+}
+
+.participant-avatars {
+  margin-right: 5px;
+}
+
+.participant-avatars img {
+  margin-right: -5px;
+}
+
+:host ::ng-deep mat-formio-textarea {
+  overflow-y: auto;
+  max-height: 200px;
+  margin-top: 20px;
+}

@@ -1,0 +1,232 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="!createCase && !loading && !addedUsers?.length">
+    <p class="text-center" translate>No permissions added!</p>
+  </div>
+  <h3 translate class="create-assign-user-title" *ngIf="createCase">ASSIGNED USERS</h3>
+
+  <p disabled (click)="shownAddModalSwitch()" class="assign-user-btn link-a a" translate *ngIf="createCase">
+    <span class="btn"> Assign Users </span>
+  </p>
+
+  <div *ngIf="createCase ? true : !loading && addedUsers?.length">
+    <h3 translate *ngIf="!createCase">
+      CASE PERMISSIONS
+      <span class="float-right"
+        >
+        <div class="d-flex" style="align-items: center;">
+          {{ actionCaseId.split('-').pop() }}
+          <!-- <div class="popup-copy-icon-wrapper">
+            <img
+              class="signup-copy-icon copy-svg-icon"
+              src="images/copy-icon-inactive.svg"
+              alt=""
+              (click)="copyText()"
+            />
+          </div> -->
+          <ca-copy (click)="copyText()"></ca-copy>
+          |<a routerLink="/cases">{{ 'Back' | translate }}</a>
+        </div> 
+      </span>
+    </h3>
+    <div class="table-wrapper">
+      <table class="table-c a">
+        <tbody>
+          <tr>
+            <th style="width: 50px"></th>
+            <th class="left-align" translate>User ID</th>
+            <th class="left-align" translate>Name</th>
+            <th translate>Status</th>
+            <th translate>Role</th>
+            <th translate>Action</th>
+          </tr>
+          <tr *ngIf="addedUsers && addedUsers.length <= 0">
+            <td class="center-align" colspan="6" align="center">No User Assigned</td>
+          </tr>
+          <ng-container *ngIf="addedUsers && addedUsers.length > 0">
+            <tr *ngFor="let user of addedUsers; let index = index">
+              <td>
+                <img
+                  #userPicture
+                  width="30px"
+                  class="user-pic-td"
+                  [src]="user.avatar"
+                  (error)="userPicture.style.display = 'none'"
+                  (load)="userPicture.style.display = ''"
+                  alt="userPicture"
+                />
+              </td>
+              <td class="left-align">{{ user.user_id.split('-')[0] }}</td>
+              <td class="left-align">
+                {{ (user.given_name ? user.given_name : '') + ' ' + (user.family_name ? user.family_name : '') }}
+              </td>
+              <td>{{ userStatuses[user.host_user_status] | translate }}</td>
+              <td>{{ rolesById[user.case_role_id] }}</td>
+              <td>
+                <a
+                  appConfirmationPopUp
+                  (yes)="runRemove(user, index)"
+                  title="Delete User"
+                  [message]="'You are about to delete user. Are you sure?'"
+                  translate
+                  >remove</a
+                >
+              </td>
+            </tr>
+          </ng-container>
+        </tbody>
+      </table>
+    </div>
+    <p class="submit" *ngIf="!isEditMode">
+      <button class="create-case-btn" class="f-right" type="button" (click)="onCreate()" [disabled]="creatingCase">
+        <span *ngIf="!creatingCase" translate>Save</span>
+        <span *ngIf="creatingCase" translate>Saving...</span>
+      </button>
+      <button type="reset" class="f-right" (click)="notInterested()" translate><a>Cancel</a></button>
+    </p>
+  </div>
+</article>
+
+<form
+  method="post"
+  class="popup-a a form-d shown"
+  *ngIf="shownAddModal"
+  [ngClass]="{ touchedSubmit: formTouched }"
+  [formGroup]="assignUserForm"
+  (submit)="createPermission()"
+>
+  <div class="box-outer">
+    <div class="box-inner">
+      <h2 translate>Assign User</h2>
+      <p>
+        <label for="usersDropdown" class="required" translate>User</label>
+        <span class="username-field-wrap">
+          <span
+            #usernameTypesMenuToggle
+            class="username-type"
+            (click)="showUsernameTypeFilter = !showUsernameTypeFilter; isOpenDropDown = false"
+          >
+            {{ searchKeyText | translate }}
+            <div #usernameTypesMenu class="username-type-filters" [ngClass]="{ on: showUsernameTypeFilter }">
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.Email)" translate>Email</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.Phone)" translate>Phone</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.FirstName)" translate>First Name</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.LastName)" translate>Last Name</div>
+              <div class="filter-item" (click)="usernameTypeChange(UsernameType.TagId)" translate>Tag ID</div>
+            </div>
+          </span>
+          <p style="display: flex;">
+            <!-- <international-phone-number
+              id="phoneNumberInput"
+              formControlName="phone_number"
+              *ngIf="usernameType === UsernameType.Phone"
+              [defaultCountry]="defaultCountry"
+              (onCountryCodeChanged)="onCountryCodeChange($any($event))"
+              (keydown)="onKeyDown($event)"
+            ></international-phone-number> -->
+            <ngx-intl-tel-input
+              id="phoneNumberInput"
+              class="inter-input"
+              *ngIf="usernameType === UsernameType.Phone"
+              formControlName="phone_number"
+              [maxlength]="15"
+              [preferredCountries]="preferredCountries"
+              [enableAutoCountrySelect]="false"
+              [enablePlaceholder]="true"
+              [searchCountryFlag]="true"
+              [searchCountryField]="[
+                SearchCountryField.Iso2,
+                SearchCountryField.Name
+              ]"
+              [selectFirstCountry]="false"
+              [phoneValidation]="false"
+              [separateDialCode]="true"
+              [numberFormat]="PhoneNumberFormat.International"
+              (countryChange)="onCountryCodeChange($event)"
+              name="phoneNumberInput"
+            ></ngx-intl-tel-input>
+            <ng-select
+              #usersDropdownField
+              id="usersDropdown"
+              bindValue="user_id"
+              formControlName="user_id"
+              [notFoundText]="'No Users Found' | translate"
+              [items]="users"
+              [bindLabel]="usernameType"
+              [isOpen]="isOpenDropDown"
+              (select)="onChange()"
+              [closeOnSelect]="true"
+              (change)="onChange()"
+              (search)="onSearchType($event)"
+              [placeholder]="'Type User ' + searchKeyText"
+            >
+              <ng-template ng-notfound-tmp let-searchTerm="searchTerm">
+                <div class="ng-option disabled">
+                  No Users Found
+                  <p class="submit add-user-btn" *ngIf="showAddUserButton">
+                    <button type="submit" (click)="showUserModal(usersDropdownField.searchTerm)" translate>
+                      ADD USER
+                    </button>
+                  </p>
+                </div>
+              </ng-template>
+            </ng-select>
+          </p>
+          <app-error
+            [fieldValue]="assignUserForm.controls['user_id'].value"
+            [regularHtmlElementName]="usersDropdownField"
+            [validationErrors]="validationErrors"
+            [validation]="{ required: true }"
+          ></app-error>
+        </span>
+      </p>
+
+      <p>
+        <label for="caseRoleId" class="required" translate>Role</label>
+        <ng-select
+          #rolesDropdownField
+          id="caseRoleId"
+          bindLabel="text"
+          bindValue="id"
+          name="role-id-select"
+          placeholder="{{ 'No role selected' | translate }}"
+          formControlName="case_role_id"
+          [items]="roleList"
+          [(ngModel)]="selectedRole"
+        >
+        </ng-select>
+        <app-error
+          [fieldValue]="assignUserForm.controls['case_role_id'].value"
+          [regularHtmlElementName]="rolesDropdownField"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </p>
+
+      <p style="display: flex; align-items: center; ">
+        <input type="checkbox" class="cursor-pointer" id="caseNotify" name="notify" formControlName="case_notify" />
+        <label for="caseNotify" style="float: right; margin: 5px 0px 0px 10px !important" translate
+          >Email user about case assignment</label
+        >
+      </p>
+
+      <p class="submit">
+        <button type="submit" class="f-right" translate>Save</button>
+      </p>
+      <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+    </div>
+    <a class="close" (click)="closeAssignPopUp()" translate>Close</a>
+  </div>
+</form>
+
+<app-add-user-modal
+  *ngIf="!loading && shownAddUserModal"
+  [username]="username"
+  [type]="type"
+  [showTagId]="false"
+  [countryCode]="selectedCountryCode"
+  [defaultValue]="userInputValue"
+  (save)="onSaveUser($event)"
+  (close)="onAddUserModalClose()"
+></app-add-user-modal>

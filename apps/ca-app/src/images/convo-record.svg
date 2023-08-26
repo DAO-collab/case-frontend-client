@@ -1,0 +1,7 @@
+<svg id="convo-record" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="15.9998" cy="16.0003" r="5.33333" fill="currentColor"/>
+<path d="M4 12V8C4 5.79086 5.79086 4 8 4H12" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 12V8C28 5.79086 26.2091 4 24 4H20" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 20V24C28 26.2091 26.2091 28 24 28H20" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 20V24C4 26.2091 5.79086 28 8 28H12" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

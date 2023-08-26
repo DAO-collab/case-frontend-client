@@ -1,0 +1,4536 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.364319\n"
+"PO-Revision-Date: 2019-03-13T10:04:22.486308\n"
+"Language: ru\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Вы должны выбрать файл изображения."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Загрузите документ, отметьте его для подписи, а затем клиент входит в "
+"систему и подписывает его. Все сделано без клиента, приходящего в наше "
+"здание. Это удобно для клиентов, которые не находятся рядом с офисом или "
+"живут за пределами штата."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Директор по операциям страхования капитала"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Наши сотрудники могут войти в систему и просмотреть основную информацию о "
+"том, как продвигается их дело. Это значительно увеличило количество "
+"обращений наших клиентов ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Партнер Адвокатского бюро Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Нам больше не нужно видеть клиентов в офисе для встреч, и все документы "
+"подписываются в режиме онлайн - великолепно!"
+
+msgid "CEO of EL Passion"
+msgstr "Генеральный директор EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Используя API, мы полностью автоматизировали то, что отображалось в ленте "
+"дел, на основе определенных триггеров в нашей существующей системе. Довольно"
+" удобно .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "ИТ-менеджер Carter Mario Injury Lawyers"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"У нас много многоязычных клиентов, которые используют функцию перевода. Мы "
+"публикуем сообщения с уверенностью, что они будут понятны всем. Это "
+"позволяет нам переходить от локальной к глобальной работе."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Генеральный директор Solid Rock Designs"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Клиенты любят это! Это делает их жизнь намного проще. Они могут обсуждать "
+"проблемы с нами в Интернете, загружать фотографии и документы, и все "
+"хранится там, где и команда, и клиент могут их просмотреть."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Партнер Эшли и Эшли ПК"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Нам нравится выставление счетов по делу, потому что оно позволяет клиентам "
+"точно узнать, за что они платят."
+
+msgid "Vice President of Sky Digital"
+msgstr "Вице-президент Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Перекрестное общение подобно тому, как все ваши социальные сети и "
+"инструменты для совместной работы находятся в одном месте."
+
+msgid "Director Of Complaint Management"
+msgstr "Директор управления жалобами"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Формы кейсов позволяют нам слушать и учиться, помогая нам увеличить продажи "
+"за счет отзывов клиентов."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Директор по продажам Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Пользовательский интерфейс очень похож на Facebook. Это очень легко "
+"использовать .."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Партнер Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Пин был отправлен на"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Send New Pin"
+msgstr "Отправить новый пин"
+
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+msgid "Click here to contact us"
+msgstr "Нажмите здесь, чтобы связаться с нами"
+
+msgid "Next"
+msgstr "Следующий"
+
+msgid "Login or Signup"
+msgstr "Войдите или зарегистрируйтесь"
+
+msgid "Invalid email entered"
+msgstr "Введен неверный адрес электронной почты"
+
+msgid "Processing..."
+msgstr "Обработка ..."
+
+msgid "Made with"
+msgstr "Сделано с"
+
+msgid "love"
+msgstr "люблю"
+
+msgid "in New York City"
+msgstr "В Нью-Йорке"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Все права защищены"
+
+msgid "Terms of Use"
+msgstr "Условия эксплуатации"
+
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+msgid "Username"
+msgstr "имя пользователя"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "New Password"
+msgstr "новый пароль"
+
+msgid "Confirm Password"
+msgstr "Подтвердите Пароль"
+
+msgid "Set Your New Password"
+msgstr "Установите новый пароль"
+
+msgid "A code has been sent to"
+msgstr "Код был отправлен"
+
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+msgid "Changing..."
+msgstr "Изменение ..."
+
+msgid "Login"
+msgstr "Авторизоваться"
+
+msgid "Forgot password?"
+msgstr "забыл пароль?"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Email or Phone"
+msgstr "По электронной почте или телефону"
+
+msgid "Reset Password"
+msgstr "Сброс пароля"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Введите адрес электронной почты или номер телефона, связанный с вашей "
+"учетной записью, затем нажмите «Отправить». Мы вышлем вам по электронной "
+"почте или отправим текстовую ссылку на страницу, где вы можете легко создать"
+" новый пароль."
+
+msgid "Request Code"
+msgstr "Запрашиваемый код"
+
+msgid "Requesting..."
+msgstr "Запрос ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE скоро появится"
+
+msgid "Create a free account"
+msgstr "Создать бесплатный аккаунт"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Мы вносим в него последние штрихи. Мы сообщим вам, когда он будет готов!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Вы в нескольких минутах от лучшего сотрудничества."
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "Email"
+msgstr "Эл. адрес"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "No language selected"
+msgstr "Язык не выбран"
+
+msgid "I agree with"
+msgstr "я согласен с"
+
+msgid "Terms of Service"
+msgstr "Условия использования"
+
+msgid "Language"
+msgstr "язык"
+
+msgid "Have at least one lower case character"
+msgstr "Иметь хотя бы один символ нижнего регистра"
+
+msgid "Have at least one capital letter"
+msgstr "Должна быть одна заглавная буква"
+
+msgid "Have at least one number"
+msgstr "Иметь хотя бы один номер"
+
+msgid "Have at least 8 characters in length"
+msgstr "Не менее 8 символов в длину"
+
+msgid "Type your current password"
+msgstr "введите ваш текущий пароль"
+
+msgid "Passwords must match"
+msgstr "Пароли должны совпадать"
+
+msgid "Domains"
+msgstr "Домены"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript отключен. Пожалуйста, включите его."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Куки-файлы отключены. Пожалуйста, включите его."
+
+msgid "New"
+msgstr "Новый"
+
+msgid "Create A New App"
+msgstr "Создать новое приложение"
+
+msgid "Apps"
+msgstr "Программы"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Hi"
+msgstr "Привет"
+
+msgid "View your account"
+msgstr "Просмотр вашей учетной записи"
+
+msgid "View page"
+msgstr "Просмотр страницы"
+
+msgid "You don’t have any apps"
+msgstr "У вас нет приложений"
+
+msgid "App"
+msgstr "Приложение"
+
+msgid "Admin"
+msgstr "Администратор"
+
+msgid "Notifications"
+msgstr "Уведомления"
+
+msgid "No notifications yet."
+msgstr "Уведомлений пока нет."
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "Last Week"
+msgstr "Прошлая неделя"
+
+msgid "No timezone selected"
+msgstr "Выбор часовой зоны не выбран"
+
+msgid "Complete profile to continue"
+msgstr "Чтобы продолжить, заполните профиль"
+
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Website:"
+msgstr "Веб-сайт:"
+
+msgid "Homepage:"
+msgstr "Домашняя страница:"
+
+msgid "Approve Access"
+msgstr "Подтвердить доступ"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Permissions"
+msgstr "Разрешения"
+
+msgid "Billing"
+msgstr "Выставление счетов"
+
+msgid "Payment Plan"
+msgstr "План оплаты"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "has access to your information below:"
+msgstr "имеет доступ к вашей информации ниже:"
+
+msgid "has invited you to their client portal."
+msgstr "пригласил вас на свой клиентский портал."
+
+msgid "want access to the following information:"
+msgstr "хочу получить доступ к следующей информации:"
+
+msgid "Decline"
+msgstr "снижение"
+
+msgid "Remove Access"
+msgstr "Удалить доступ"
+
+msgid "Active"
+msgstr "Активный"
+
+msgid "Invites"
+msgstr "Приглашает"
+
+msgid "Disabled"
+msgstr "Неполноценный"
+
+msgid "No apps found"
+msgstr "Приложения не найдены"
+
+msgid "admin"
+msgstr "админ"
+
+msgid "user"
+msgstr "пользователь"
+
+msgid "manager"
+msgstr "менеджер"
+
+msgid "active"
+msgstr "активный"
+
+msgid "inactive"
+msgstr "неактивный"
+
+msgid "Company Name"
+msgstr "название компании"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Status"
+msgstr "Положение дел"
+
+msgid "Invitation"
+msgstr "Приглашение"
+
+msgid "About App"
+msgstr "О приложении"
+
+msgid "Billing Info"
+msgstr "Платежная информация"
+
+msgid "Your Company Name"
+msgstr "Название вашей компании"
+
+msgid "Your Company Website"
+msgstr "Веб-сайт вашей компании"
+
+msgid "Saving..."
+msgstr "Сохранение ..."
+
+msgid "Billing Information"
+msgstr "Платежная информация"
+
+msgid "Please add the APP ID provided by the company"
+msgstr ""
+"Пожалуйста, добавьте идентификатор приложения, предоставленный компанией"
+
+msgid "Select an option"
+msgstr "Выберите вариант"
+
+msgid "Join an existing app as a client"
+msgstr "Присоединитесь к существующему приложению в качестве клиента"
+
+msgid "Create a new app for my business"
+msgstr "Создать новое приложение для моего бизнеса"
+
+msgid "Create Domain"
+msgstr "Создать домен"
+
+msgid "Select enterprise app"
+msgstr "Выберите корпоративное приложение"
+
+msgid "No item selected"
+msgstr "Элемент не выбран"
+
+msgid "Domain name"
+msgstr "Доменное имя"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "No enterprise app found"
+msgstr "Корпоративное приложение не найдено"
+
+msgid "Pending"
+msgstr "В ожидании"
+
+msgid "No domains found"
+msgstr "Домены не найдены"
+
+msgid "Domain"
+msgstr "Домен"
+
+msgid "Txt Value"
+msgstr "Текстовое значение"
+
+msgid "Enterprise Host ID"
+msgstr "Идентификатор корпоративного хоста"
+
+msgid "Sso"
+msgstr "Ссо"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Reset"
+msgstr "Перезагрузить"
+
+msgid "Allow Manual Sign In"
+msgstr "Разрешить вход вручную"
+
+msgid "Exclude Emails From SSO"
+msgstr "Исключить электронные письма из системы единого входа"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Метаданные поставщика удостоверений SAML"
+
+msgid "Submit"
+msgstr "Представлять на рассмотрение"
+
+msgid "Profile photo"
+msgstr "Аватар"
+
+msgid "Uploading..."
+msgstr "Загрузка ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "было заявлено другим аккаунтом, пожалуйста, измените его или"
+
+msgid "reclaim"
+msgstr "истребовать"
+
+msgid "it"
+msgstr "Это"
+
+msgid "pending verification:"
+msgstr "Ожидание проверки:"
+
+msgid "verify"
+msgstr "проверить"
+
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+msgid "Current Password"
+msgstr "текущий пароль"
+
+msgid "Change password"
+msgstr "Измени пароль"
+
+msgid "No gender selected"
+msgstr "Пол не выбран"
+
+msgid "Company Title"
+msgstr "Название компании"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Address 2"
+msgstr "Адрес 2"
+
+msgid "City/Locality"
+msgstr "Город / Населенный пункт"
+
+msgid "State/Region"
+msgstr "Государство / Регион"
+
+msgid "No country selected"
+msgstr "Ни одна страна не выбрана"
+
+msgid "Zip/Postal Code"
+msgstr "Почтовый индекс"
+
+msgid "Basic"
+msgstr "основной"
+
+msgid "Date of Birth"
+msgstr "Дата рождения"
+
+msgid "Gender"
+msgstr "Пол"
+
+msgid "Occupation"
+msgstr "оккупация"
+
+msgid "Location"
+msgstr "Место нахождения"
+
+msgid "Address is not valid"
+msgstr "Адрес недействителен"
+
+msgid "City/Locality is not valid"
+msgstr "Город / населенный пункт недействителен"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "State/Region is not valid"
+msgstr "Штат / регион недействителен"
+
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+msgid "Language & Region"
+msgstr "Язык и регион"
+
+msgid "Saving"
+msgstr "Экономия"
+
+msgid "Verify Your"
+msgstr "Подтвердите свой"
+
+msgid "Verification Code"
+msgstr "Код подтверждения"
+
+msgid "Resend Code"
+msgstr "Отправить код еще раз"
+
+msgid "Resending"
+msgstr "повторная отправка"
+
+msgid "Verify"
+msgstr "проверить"
+
+msgid "Verifying..."
+msgstr "Проверка ..."
+
+msgid "Later"
+msgstr "Позже"
+
+msgid "We're here to help"
+msgstr "Мы здесь, чтобы помочь"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Благодарим Вас за обращение к нам. Ваше сообщение было успешно отправлено. "
+"Мы свяжемся с вами очень скоро!"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "characters left"
+msgstr "осталось символов"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "послать"
+
+msgid "Sending..."
+msgstr "Посылка ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr ""
+"Вы больше не будете получать маркетинговые сообщения по электронной почте из"
+" списка."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Если у вас есть минутка, сообщите нам, почему вы отказались от подписки:"
+
+msgid "Return to our website"
+msgstr "Вернуться на наш сайт"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Спасибо. Ваш ответ отправлен."
+
+msgid "No Cases"
+msgstr "Нет случаев"
+
+msgid "Layout"
+msgstr "Макет"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Speaker"
+msgstr "Оратор"
+
+msgid "This case has been closed"
+msgstr "Это дело было закрыто"
+
+msgid "Feed"
+msgstr "Корм"
+
+msgid "Images"
+msgstr "Изображений"
+
+msgid "Docs"
+msgstr "Документы"
+
+msgid "Audios"
+msgstr "Audios"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "Files"
+msgstr "файлы"
+
+msgid "Events"
+msgstr "Мероприятия"
+
+msgid "Forms"
+msgstr "формы"
+
+msgid "E-signs"
+msgstr "Электронные знаки"
+
+msgid "Invoices"
+msgstr "Счета"
+
+msgid "Notes"
+msgstr "Заметки"
+
+msgid "Tasks"
+msgstr "Задания"
+
+msgid "Convo"
+msgstr "Конво"
+
+msgid "Great job!"
+msgstr "Отличная работа!"
+
+msgid "You did all"
+msgstr "Вы сделали все"
+
+msgid "the tasks"
+msgstr "задачи"
+
+msgid "Media"
+msgstr "СМИ"
+
+msgid "Skip to navigation (n)"
+msgstr "Перейти к навигации (n)"
+
+msgid "Skip to content (c)"
+msgstr "Перейти к содержанию (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Переход к нижнему колонтитулу (f)"
+
+msgid "Case"
+msgstr "Дело"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Using Form Builder"
+msgstr "Использование Form Builder"
+
+msgid "Using Forms Library"
+msgstr "Использование библиотеки форм"
+
+msgid "Using E-sign Builder"
+msgstr "Использование конструктора электронных подписей"
+
+msgid "Using E-signs Library"
+msgstr "Использование библиотеки электронных подписей"
+
+msgid "Documents"
+msgstr "документы"
+
+msgid "Create Note"
+msgstr "Создать заметку"
+
+msgid "Edit Note"
+msgstr "Редактировать заметку"
+
+msgid "End Convo"
+msgstr "Завершить разговор"
+
+msgid "Create Form"
+msgstr "Создать форму"
+
+msgid "Create Sign"
+msgstr "Создать знак"
+
+msgid "Event Create"
+msgstr "Создание события"
+
+msgid "Convo Videos"
+msgstr "Конво Видео"
+
+msgid "Convo Audios"
+msgstr "Конво Аудио"
+
+msgid "Cases"
+msgstr "Случаи"
+
+msgid "Case categories"
+msgstr "Категории дел"
+
+msgid "Your team"
+msgstr "Твоя команда"
+
+msgid "To do"
+msgstr "Делать"
+
+msgid "To Do:"
+msgstr "Сделать:"
+
+msgid "Case Categories"
+msgstr "Категории дел"
+
+msgid "Your Team"
+msgstr "Твоя команда"
+
+msgid "To Do"
+msgstr "Делать"
+
+msgid "Yes"
+msgstr "да"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Publish"
+msgstr "Публиковать"
+
+msgid "Visibility"
+msgstr "видимость"
+
+msgid "all"
+msgstr "все"
+
+msgid "sign"
+msgstr "знак"
+
+msgid "Page"
+msgstr "страница"
+
+msgid "of"
+msgstr "из"
+
+msgid "Processing"
+msgstr "Обработка"
+
+msgid "failed."
+msgstr "не смогли."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Значение должно быть больше или равно 1"
+
+msgid "Repeat end:"
+msgstr "Повторить конец:"
+
+msgid "Signature"
+msgstr "Подпись"
+
+msgid "Draw"
+msgstr "Рисовать"
+
+msgid "Write"
+msgstr "Писать"
+
+msgid "Clear Signature"
+msgstr "Очистить подпись"
+
+msgid "Still processing video..."
+msgstr "Видео все еще обрабатывается ..."
+
+msgid "You"
+msgstr "Ты"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Вы собираетесь удалить ленту. Ты уверен?"
+
+msgid "No convo audios yet"
+msgstr "Аудиозаписей конво пока нет"
+
+msgid "No convo videos yet"
+msgstr "Видео конво пока нет"
+
+msgid "Start Convo"
+msgstr "Начать Конво"
+
+msgid "Notify the Host"
+msgstr "Уведомить хост"
+
+msgid "is in the call"
+msgstr "находится на связи"
+
+msgid "and"
+msgstr "а также"
+
+msgid "others are in the call"
+msgstr "другие на связи"
+
+msgid "Audio call is being recorded"
+msgstr "Аудиовызов записывается"
+
+msgid "Video call is being recorded"
+msgstr "Видеозвонок записывается"
+
+msgid "Join now"
+msgstr "Присоединяйся сейчас"
+
+msgid "Dismiss"
+msgstr "Увольнять"
+
+msgid "Can’t find your "
+msgstr "Не могу найти свой"
+
+msgid "microphone"
+msgstr "микрофон"
+
+msgid "Check your system settings to make sure that "
+msgstr "Проверьте настройки вашей системы, чтобы убедиться, что"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"доступен. Если нет, подключите его. Возможно, вам потребуется перезапустить "
+"браузер."
+
+msgid "web camera"
+msgstr "веб-камера"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Вы собираетесь начать вызов Convo. Начните с:"
+
+msgid "Video & Audio"
+msgstr "Видео и аудио"
+
+msgid "Audio Only"
+msgstr "Только аудио"
+
+msgid "Record the meeting"
+msgstr "Записать встречу"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Ожидание кого-то с разрешением начать вызов Convo"
+
+msgid "Add Ticket"
+msgstr "Добавить билет"
+
+msgid "Title"
+msgstr "заглавие"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Closed"
+msgstr "Закрыто"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Вы собираетесь закрыть тикет. Вы уверены?"
+
+msgid "Announcements"
+msgstr "Объявления"
+
+msgid "Support"
+msgstr "Поддерживать"
+
+msgid "Opened"
+msgstr "открытый"
+
+msgid "View"
+msgstr "Посмотреть"
+
+msgid "Locations"
+msgstr "Места"
+
+msgid "You currently have no announcements."
+msgstr "В настоящее время у вас нет объявлений."
+
+msgid "You currently have no"
+msgstr "В настоящее время у вас нет"
+
+msgid "open cases. Click"
+msgstr "открытые кейсы. Нажмите"
+
+msgid "here"
+msgstr "здесь"
+
+msgid "to contact support."
+msgstr "для связи со службой поддержки."
+
+msgid "closed cases."
+msgstr "закрытые дела."
+
+msgid "open tickets."
+msgstr "открытые билеты."
+
+msgid "closed tickets."
+msgstr "закрытые билеты."
+
+msgid "You currently have no locations."
+msgstr "В настоящее время у вас нет местоположений."
+
+msgid "Write a comment...."
+msgstr "Написать комментарий...."
+
+msgid "Post"
+msgstr "После"
+
+msgid "Add Location"
+msgstr "Добавить местоположение"
+
+msgid "Save Event"
+msgstr "Сохранить мероприятие"
+
+msgid "Name"
+msgstr "имя"
+
+msgid "Start Date"
+msgstr "Дата начала"
+
+msgid "Start Time"
+msgstr "Время начала"
+
+msgid "End Date"
+msgstr "Дата окончания"
+
+msgid "End Time"
+msgstr "Время окончания"
+
+msgid "Repeat"
+msgstr "Повторение"
+
+msgid "Attendees"
+msgstr "Участники"
+
+msgid "Event Location"
+msgstr "Место проведения мероприятия"
+
+msgid "Link"
+msgstr "Ссылка на сайт"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Attending"
+msgstr "Присутствовавший"
+
+msgid "Add to calendar"
+msgstr "Добавить в календарь"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Event by"
+msgstr "Событие по"
+
+msgid "Duration:"
+msgstr "Продолжительность:"
+
+msgid "more"
+msgstr "Больше"
+
+msgid "Maybe"
+msgstr "Может быть"
+
+msgid "Not Attending"
+msgstr "Не посещать"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "CaseActive Convo"
+msgstr "КейсАктив Конво"
+
+msgid "Video Conference"
+msgstr "Видео-конференция"
+
+msgid "Event details"
+msgstr "Детали события"
+
+msgid "You don't have permissions to view this page."
+msgstr "У вас нет прав для просмотра этой страницы."
+
+msgid "Your Upcoming Events"
+msgstr "Ваши предстоящие события"
+
+msgid "Upcoming"
+msgstr "Предстоящие"
+
+msgid "Your Past Events"
+msgstr "Ваши прошлые события"
+
+msgid "Past"
+msgstr "прошлое"
+
+msgid "Your Events"
+msgstr "Ваши события"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All Events"
+msgstr "Все события"
+
+msgid "Directions"
+msgstr "Направления"
+
+msgid "Edit settings"
+msgstr "Изменить настройки"
+
+msgid "Delete event"
+msgstr "Удалить мероприятие"
+
+msgid "Attending?"
+msgstr "Присутствует?"
+
+msgid "No Events"
+msgstr "Нет событий"
+
+msgid "more comment(s)"
+msgstr "Другие комментарии"
+
+msgid "Loading comments"
+msgstr "Загрузка комментариев"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Вы собираетесь удалить комментарий. Ты уверен?"
+
+msgid "task"
+msgstr "задача"
+
+msgid "to do"
+msgstr "делать"
+
+msgid "tasks"
+msgstr "задания"
+
+msgid "Write something..."
+msgstr "Напиши что-нибудь..."
+
+msgid "Attach File"
+msgstr "Прикрепить файл"
+
+msgid "From Template"
+msgstr "Из шаблона"
+
+msgid "No feeds yet."
+msgstr "Пока нет фидов."
+
+msgid "comments"
+msgstr "Комментарии"
+
+msgid "comment"
+msgstr "комментарий"
+
+msgid "Add a comment"
+msgstr "Добавить комментарий"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "No templates"
+msgstr "Нет шаблонов"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Выберите участников, которым необходимо заполнить эту форму"
+
+msgid "Update Form"
+msgstr "Обновить форму"
+
+msgid "Due Date"
+msgstr "Срок"
+
+msgid "Due Time"
+msgstr "Время"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+msgid "Save & Close"
+msgstr "Сохранить и закрыть"
+
+msgid "Add an element"
+msgstr "Добавить элемент"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Медиа конвертируются. Мы сообщим вам, когда он будет готов"
+
+msgid "Add "
+msgstr "Добавлять"
+
+msgid "Field"
+msgstr "Поле"
+
+msgid "Edit "
+msgstr "Редактировать"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Sub Text"
+msgstr "Подтекст"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Не удалось преобразовать носитель. Пожалуйста, удалите и попробуйте еще раз "
+"или другой."
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "Saved"
+msgstr "Сохранено"
+
+msgid "Insert"
+msgstr "Вставлять"
+
+msgid "Elements"
+msgstr "Элементы"
+
+msgid "Action Required"
+msgstr "Требуются действия"
+
+msgid "Add a new page"
+msgstr "Добавить новую страницу"
+
+msgid "Blank page"
+msgstr "Пустая страница"
+
+msgid "From PDF"
+msgstr "Из PDF"
+
+msgid "From image"
+msgstr "Из изображения"
+
+msgid "Add PDF"
+msgstr "Добавить PDF"
+
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "Column Names"
+msgstr "Имена столбцов"
+
+msgid "Option already exists."
+msgstr "Вариант уже существует."
+
+msgid "options list is empty"
+msgstr "список опций пуст"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Поле флажков поддерживает только 5 вариантов. Вы можете изменить поле на "
+"раскрывающееся, чтобы добавить дополнительные параметры"
+
+msgid "columns list is empty"
+msgstr "список столбцов пуст"
+
+msgid "Default Value"
+msgstr "Значение по умолчанию"
+
+msgid "Delete row"
+msgstr "Удалить строку"
+
+msgid "Add a new row"
+msgstr "Добавить новую строку"
+
+msgid "Download"
+msgstr "Скачать"
+
+msgid "Label"
+msgstr "Этикетка"
+
+msgid "Question"
+msgstr "Вопрос"
+
+msgid "Default answer"
+msgstr "Ответ по умолчанию"
+
+msgid "Media is converting"
+msgstr "Медиа конвертирует"
+
+msgid "Send Form"
+msgstr "Отправить форму"
+
+msgid "Form Submited."
+msgstr "Форма отправлена."
+
+msgid "You don't have permissions to submit forms."
+msgstr "У вас нет прав на отправку форм."
+
+msgid "You currently have no forms of your own"
+msgstr "В настоящее время у вас нет собственных форм"
+
+msgid "Your Uncompleted Forms"
+msgstr "Ваши незавершенные формы"
+
+msgid "Uncompleted"
+msgstr "Незавершенный"
+
+msgid "Your Completed Forms"
+msgstr "Ваши заполненные формы"
+
+msgid "Completed"
+msgstr "Завершенный"
+
+msgid "Your Forms"
+msgstr "Ваши формы"
+
+msgid "All Forms"
+msgstr "Все формы"
+
+msgid "Form Title"
+msgstr "Заголовок формы"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Published"
+msgstr "Опубликовано"
+
+msgid "Submissions"
+msgstr "Представления"
+
+msgid "No Forms"
+msgstr "Нет форм"
+
+msgid "Upload Form Document"
+msgstr "Загрузить документ формы"
+
+msgid "Forms Library"
+msgstr "Библиотека форм"
+
+msgid "No Forms In Library"
+msgstr "В библиотеке нет форм"
+
+msgid "Answers"
+msgstr "Ответы"
+
+msgid "Close - Status changed"
+msgstr "Закрыть - статус изменен"
+
+msgid "Change Status"
+msgstr "Изменить статус"
+
+msgid "Case Number"
+msgstr "Номер дела"
+
+msgid "Tag Id"
+msgstr "Значок тега"
+
+msgid "Date Opened"
+msgstr "Дата открытия"
+
+msgid "Host Id"
+msgstr "Идентификатор хоста"
+
+msgid "User Id"
+msgstr "ID пользователя"
+
+msgid "Case Id"
+msgstr "Идентификатор дела"
+
+msgid "Confirm your details"
+msgstr "Подтвердите свои данные"
+
+msgid "Form Submitted."
+msgstr "Форма отправлена."
+
+msgid "Invoice"
+msgstr "Счет"
+
+msgid "PO No:"
+msgstr "Заказ №:"
+
+msgid "Reference ID:"
+msgstr "Идентификатор ссылки:"
+
+msgid "Term:"
+msgstr "Срок:"
+
+msgid "Note:"
+msgstr "Примечание:"
+
+msgid "QTY"
+msgstr "КОЛ-ВО"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Add more"
+msgstr "Добавить больше"
+
+msgid "Subtotal($)"
+msgstr "Итого($)"
+
+msgid "Discount(%)"
+msgstr "Скидка(%)"
+
+msgid "TAX(%)"
+msgstr "НАЛОГ(%)"
+
+msgid "Total($)"
+msgstr "Итого($)"
+
+msgid "Invoice No"
+msgstr "Счет №"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Выберите участников, которым нужно просмотреть или оплатить этот счет"
+
+msgid "Update Invoice"
+msgstr "Обновить счет"
+
+msgid "Create Invoice"
+msgstr "Создать счет"
+
+msgid "PO No."
+msgstr "заказ №"
+
+msgid "Reference ID"
+msgstr "Идентификатор ссылки"
+
+msgid "Term"
+msgstr "Срок"
+
+msgid "Note"
+msgstr "Примечание"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Price ($)"
+msgstr "Цена ($)"
+
+msgid "Subtotal ($)"
+msgstr "Итого ($)"
+
+msgid "Discount (%)"
+msgstr "Скидка (%)"
+
+msgid "Tax (%)"
+msgstr "Налог (%)"
+
+msgid "Total ($)"
+msgstr "Итого ($)"
+
+msgid "Pay Invoice"
+msgstr "Оплатить счет"
+
+msgid "Payment method"
+msgstr "Способ оплаты"
+
+msgid "Add a new payment method"
+msgstr "Добавить новый способ оплаты"
+
+msgid "Summary"
+msgstr "Краткое содержание"
+
+msgid "Payment:"
+msgstr "Оплата:"
+
+msgid "Total charge:"
+msgstr "Полный заряд:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Ваши неоплаченные счета"
+
+msgid "Unpaid"
+msgstr "Неоплачиваемый"
+
+msgid "Your Paid Invoices"
+msgstr "Ваши оплаченные счета"
+
+msgid "Paid"
+msgstr "Оплаченный"
+
+msgid "Your Invoices"
+msgstr "Ваши счета"
+
+msgid "All Invoices"
+msgstr "Все счета"
+
+msgid "Invoice Title"
+msgstr "Название счета"
+
+msgid "No Invoices"
+msgstr "Нет счетов"
+
+msgid "No Audios yet."
+msgstr "Аудио пока нет."
+
+msgid "Loading failed."
+msgstr "Загрузка не удалась."
+
+msgid "retry"
+msgstr "повторить попытку"
+
+msgid "No documents yet."
+msgstr "Документов пока нет."
+
+msgid "No Files yet."
+msgstr "Файлов пока нет."
+
+msgid "No Images yet."
+msgstr "Изображения пока отсутствуют."
+
+msgid "No Videos yet."
+msgstr "Видео пока нет."
+
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+msgid "Attachments"
+msgstr "Вложения"
+
+msgid "Note View"
+msgstr "Примечание Просмотр"
+
+msgid "No Notes"
+msgstr "Нет заметок"
+
+msgid "Select the person to answer this field"
+msgstr "Выберите человека, чтобы ответить на это поле"
+
+msgid "Create E-sign"
+msgstr "Создать электронную подпись"
+
+msgid "Update E-signs"
+msgstr "Обновить электронные подписи"
+
+msgid "Signs"
+msgstr "Знаки"
+
+msgid "Add Field"
+msgstr "Добавить поле"
+
+msgid "Edit Field"
+msgstr "Изменить поле"
+
+msgid "Send E-sign"
+msgstr "Отправить электронную подпись"
+
+msgid "E-sign Submitted."
+msgstr "Электронная подпись отправлена."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "У вас недостаточно прав для отправки электронных подписей."
+
+msgid "You currently have no E-signs of your own"
+msgstr "В настоящее время у вас нет собственных электронных знаков"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Ваши незавершенные электронные подписи"
+
+msgid "Your Completed E-signs"
+msgstr "Ваши заполненные электронные подписи"
+
+msgid "Your Signs"
+msgstr "Ваши знаки"
+
+msgid "All E-signs"
+msgstr "Все электронные знаки"
+
+msgid "E-sign Title"
+msgstr "Название электронной подписи"
+
+msgid "No E-signs"
+msgstr "Нет электронных знаков"
+
+msgid "E-Signs Library"
+msgstr "Библиотека электронных подписей"
+
+msgid "No E-signs In Library"
+msgstr "Нет электронных подписей в библиотеке"
+
+msgid "Upload E-sign Document"
+msgstr "Загрузить документ с электронной подписью"
+
+msgid "Update Task"
+msgstr "Обновление задачи"
+
+msgid "Create Task"
+msgstr "Создать задачу"
+
+msgid "You currently have no tasks of your own"
+msgstr "В настоящее время у вас нет собственных задач"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Ваши незавершенные задачи"
+
+msgid "Your Completed Tasks"
+msgstr "Ваши выполненные задачи"
+
+msgid "Your Tasks"
+msgstr "Ваши задачи"
+
+msgid "All Tasks"
+msgstr "Все задачи"
+
+msgid "Task"
+msgstr "Задача"
+
+msgid "Deadline"
+msgstr "Крайний срок"
+
+msgid "Assignees"
+msgstr "Правопреемники"
+
+msgid "In Progress"
+msgstr "В ходе выполнения"
+
+msgid "Delete task"
+msgstr "Удалить задачу"
+
+msgid "No Tasks"
+msgstr "Нет задач"
+
+msgid "wants access"
+msgstr "хочет доступа"
+
+msgid "No Answers"
+msgstr "Нет ответов"
+
+msgid "Select Field Type"
+msgstr "Выберите тип поля"
+
+msgid "Text Only"
+msgstr "Только текст"
+
+msgid "Multiple Line Text"
+msgstr "Многострочный текст"
+
+msgid "Dropdown"
+msgstr "Падать"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Флажки"
+
+msgid "Radio"
+msgstr "Радио"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Yes/No"
+msgstr "Да нет"
+
+msgid "Number"
+msgstr "Число"
+
+msgid "Access Denied"
+msgstr "Доступ запрещен"
+
+msgid "You don't have access to this case."
+msgstr "У вас нет доступа к этому делу."
+
+msgid "Imports"
+msgstr "Импорт"
+
+msgid "View import"
+msgstr "Посмотреть импорт"
+
+msgid "Sessions"
+msgstr "Сессии"
+
+msgid "Home"
+msgstr "Дом"
+
+msgid "Users"
+msgstr "пользователей"
+
+msgid "Library"
+msgstr "Библиотека"
+
+msgid "Integration"
+msgstr "Интеграция"
+
+msgid "Settings"
+msgstr "настройки"
+
+msgid "Webhooks"
+msgstr "Вебхуки"
+
+msgid "Keys"
+msgstr "Ключи"
+
+msgid "Feed Templates"
+msgstr "Шаблоны фидов"
+
+msgid "Form Templates"
+msgstr "Шаблоны форм"
+
+msgid "E-sign Templates"
+msgstr "Шаблоны электронной подписи"
+
+msgid "Task Templates"
+msgstr "Шаблоны задач"
+
+msgid "Dashboard"
+msgstr "Панель приборов"
+
+msgid "Payments"
+msgstr "Платежи"
+
+msgid "From"
+msgstr "От"
+
+msgid "To"
+msgstr "к"
+
+msgid "System"
+msgstr "Система"
+
+msgid "User Intake"
+msgstr "Приток пользователей"
+
+msgid "Custom Fields"
+msgstr "Настраиваемые поля"
+
+msgid "After Actions"
+msgstr "После действий"
+
+msgid "Advance Settings"
+msgstr "Дополнительные настройки"
+
+msgid "Label Name"
+msgstr "Название ярлыка"
+
+msgid "Fields"
+msgstr "поля"
+
+msgid "Tag ID"
+msgstr "ID тега"
+
+msgid "Have many users?"
+msgstr "У вас много пользователей?"
+
+msgid "Import users"
+msgstr "Импорт пользователей"
+
+msgid "or"
+msgstr "или же"
+
+msgid "Send them a signup link."
+msgstr "Отправьте им ссылку для регистрации."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Давайте начнем с ввода адреса электронной почты или номера телефона"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Invalid phone number entered"
+msgstr "Введен неверный номер телефона"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Ярлык, чтобы легко найти чемодан. это не может быть изменено позже"
+
+msgid "Visibility:"
+msgstr "Видимость:"
+
+msgid "Who can use this template"
+msgstr "Кто может использовать этот шаблон"
+
+msgid "One time"
+msgstr "Один раз"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr ""
+"Пожалуйста, введите действительную платежную информацию, прежде чем "
+"продолжить"
+
+msgid "Add Payment"
+msgstr "Добавить платеж"
+
+msgid "Repeat every:"
+msgstr "Повторять каждые:"
+
+msgid "Let's get started"
+msgstr "Давайте начнем"
+
+msgid "Take me there"
+msgstr "Возьми меня туда"
+
+msgid "Mark"
+msgstr "Отметка"
+
+msgid "Onboarding"
+msgstr "Онбординг"
+
+msgid "Created on"
+msgstr "Создано на"
+
+msgid "Expires on"
+msgstr "Годен до"
+
+msgid "No announcements yet."
+msgstr "Объявлений пока нет."
+
+msgid "Add Announcement"
+msgstr "Добавить объявление"
+
+msgid "Edit Announcement"
+msgstr "Редактировать объявление"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Дата и время должны быть как минимум на час вперед"
+
+msgid "Delete Date"
+msgstr "Удалить дату"
+
+msgid "Delete Time"
+msgstr "Удалить время"
+
+msgid "Back"
+msgstr "назад"
+
+msgid "No Users Found"
+msgstr "Пользователи не найдены"
+
+msgid "No role selected"
+msgstr "Роль не выбрана"
+
+msgid "No permissions added!"
+msgstr "Дополнительные разрешения не добавлены!"
+
+msgid "ASSIGNED USERS"
+msgstr "НАЗНАЧЕННЫЕ ПОЛЬЗОВАТЕЛИ"
+
+msgid "CASE PERMISSIONS"
+msgstr "РАЗРЕШЕНИЯ НА СЛУЧАЙ"
+
+msgid "User ID"
+msgstr "Идентификатор пользователя"
+
+msgid "Role"
+msgstr "Роль"
+
+msgid "remove"
+msgstr "удалять"
+
+msgid "Assign User"
+msgstr "Назначить пользователя"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "ADD USER"
+msgstr "ДОБАВИТЬ ПОЛЬЗОВАТЕЛЯ"
+
+msgid "Email user about case assignment"
+msgstr "Пользователь электронной почты о назначении дела"
+
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+msgid "No cases found."
+msgstr "Не найдено ни одного случая."
+
+msgid "Create a case for a business"
+msgstr "Создать дело для бизнеса"
+
+msgid "Case ID"
+msgstr "Идентификатор дела"
+
+msgid "Created On"
+msgstr "Создано на"
+
+msgid "Case Status"
+msgstr "Состояние дел"
+
+msgid "Case Type"
+msgstr "Тип корпуса"
+
+msgid "Assign Users"
+msgstr "Назначить пользователей"
+
+msgid "No cases found"
+msgstr "Не найдено ни одного случая"
+
+msgid "Have many cases?"
+msgstr "У вас много дел?"
+
+msgid "Click here to import cases."
+msgstr "Нажмите здесь, чтобы импортировать дела."
+
+msgid "No status selected"
+msgstr "Статус не выбран"
+
+msgid "No type selected"
+msgstr "Тип не выбран"
+
+msgid "Case Info"
+msgstr "Информация о корпусе"
+
+msgid "About"
+msgstr "Около"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Постоянная этикетка, позволяющая легко найти чехол. (a-z, 0-9, -, /) "
+"допускаются"
+
+msgid "Case Types"
+msgstr "Типы корпусов"
+
+msgid "Click"
+msgstr "Нажмите"
+
+msgid "to edit case types"
+msgstr "редактировать типы дел"
+
+msgid "No Type selected"
+msgstr "Тип не выбран"
+
+msgid "Case not found!"
+msgstr "Дело не найдено!"
+
+msgid "Media Size"
+msgstr "Размер носителя"
+
+msgid "All statistics"
+msgstr "Вся статистика"
+
+msgid "Import not found."
+msgstr "Импорт не найден."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Не удалось обработать файл. Убедитесь, что это тип файла CSV и содержит "
+"правильные заголовки."
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "No Imports yet."
+msgstr "Импорта еще нет."
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Stats"
+msgstr "Статистика"
+
+msgid "Passed:"
+msgstr "Прошедший:"
+
+msgid "Failed:"
+msgstr "Не удалось:"
+
+msgid "Total:"
+msgstr "Общий:"
+
+msgid "Add Imports"
+msgstr "Добавить импорт"
+
+msgid "Download Sample"
+msgstr "Скачать образец"
+
+msgid "Choose a file"
+msgstr "Выберите файл"
+
+msgid "Edit Key"
+msgstr "Изменить ключ"
+
+msgid "Add Key"
+msgstr "Добавить ключ"
+
+msgid "No Keys yet."
+msgstr "Ключей пока нет."
+
+msgid "Source CIDR"
+msgstr "Источник CIDR"
+
+msgid "Remove"
+msgstr "Удалять"
+
+msgid "is invalid."
+msgstr "является недействительным."
+
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Обязательно скопируйте свой новый секретный ключ сейчас. Вы больше не "
+"сможете его увидеть!"
+
+msgid "Edit Webhook"
+msgstr "Изменить веб-перехватчик"
+
+msgid "Add Webhook"
+msgstr "Добавить веб-перехватчик"
+
+msgid "No event selected"
+msgstr "Мероприятие не выбрано"
+
+msgid "No Webhooks yet."
+msgstr "Пока нет Webhooks."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Секретный веб-перехватчик"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Обязательно скопируйте свой новый секретный веб-перехватчик. Вы больше не "
+"сможете его увидеть!"
+
+msgid "Sign In"
+msgstr "Войти в систему"
+
+msgid "Login in account page."
+msgstr "Войдите на страницу с учетной записью."
+
+msgid "Edit form builder"
+msgstr "Редактировать конструктор форм"
+
+msgid "Delete form"
+msgstr "Удалить форму"
+
+msgid "No forms yet."
+msgstr "Пока нет форм."
+
+msgid "Intake Forms"
+msgstr "Входные формы"
+
+msgid "Upload Intake Form Document"
+msgstr "Загрузить документ формы приема"
+
+msgid "Add Intake Form"
+msgstr "Добавить форму приема"
+
+msgid "Edit Intake Form"
+msgstr "Изменить форму приема"
+
+msgid "Show Media"
+msgstr "Показать СМИ"
+
+msgid "Add Post"
+msgstr "Добавить сообщение"
+
+msgid "Edit Post"
+msgstr "Редактировать сообщение"
+
+msgid "Files Amount"
+msgstr "Количество файлов"
+
+msgid "No Feed Templates yet."
+msgstr "Шаблонов фидов пока нет."
+
+msgid "Post Name"
+msgstr "Название сообщения"
+
+msgid "Post Message"
+msgstr "Сообщение"
+
+msgid "Processing media ..."
+msgstr "Обработка носителей ..."
+
+msgid "Download original file"
+msgstr "Скачать оригинальный файл"
+
+msgid "Could not display media"
+msgstr "Не удалось отобразить мультимедиа"
+
+msgid "No locations found."
+msgstr "Не найдено мест."
+
+msgid "Main Office"
+msgstr "Главный офис"
+
+msgid "Location Name"
+msgstr "Название местоположения"
+
+msgid "Delete e-sign"
+msgstr "Удалить электронную подпись"
+
+msgid "No e-signs yet."
+msgstr "Электронных подписей пока нет."
+
+msgid "Subtasks Count"
+msgstr "Количество подзадач"
+
+msgid "No tasks yet."
+msgstr "Пока нет задач."
+
+msgid "Invoice ID"
+msgstr "Идентификатор счета"
+
+msgid "Total"
+msgstr "Общий"
+
+msgid "Refund"
+msgstr "Возвращать деньги"
+
+msgid "No invoices yet."
+msgstr "Счетов пока нет."
+
+msgid "Refund Reason"
+msgstr "Причина возврата"
+
+msgid "Duplicate charge"
+msgstr "Двойное списание"
+
+msgid "Fraudulent charge"
+msgstr "Мошенническое обвинение"
+
+msgid "Requested by customer"
+msgstr "Запрошено клиентом"
+
+msgid "On Board"
+msgstr "На борту"
+
+msgid "Stripe"
+msgstr "Полоса"
+
+msgid "MB"
+msgstr "мегабайт"
+
+msgid "Role Info"
+msgstr "Информация о роли"
+
+msgid "It cannot be changed later"
+msgstr "Это не может быть изменено позже"
+
+msgid "Role Permissions"
+msgstr "Роль Разрешения"
+
+msgid "e-signs"
+msgstr "электронные знаки"
+
+msgid "on"
+msgstr "на"
+
+msgid "Allowed File Sizes"
+msgstr "Разрешенные размеры файлов"
+
+msgid "Create"
+msgstr "Создайте"
+
+msgid "Creating..."
+msgstr "Создание ..."
+
+msgid "Modules"
+msgstr "Модули"
+
+msgid "Roles"
+msgstr "Роли"
+
+msgid "Profile information"
+msgstr "Информация профиля"
+
+msgid "No role found."
+msgstr "Роль не найдена."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Когда дело создано, автоматически назначать этих пользователей"
+
+msgid "Remove All"
+msgstr "Убрать все"
+
+msgid "User Name"
+msgstr "Имя пользователя"
+
+msgid "Notify"
+msgstr "Уведомлять"
+
+msgid "Host User"
+msgstr "Хост-пользователь"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Когда пользователь назначен на дело, автоматически добавляются шаблоны"
+
+msgid "No post selected"
+msgstr "Сообщение не выбрано"
+
+msgid "No form selected"
+msgstr "Форма не выбрана"
+
+msgid "No e-sign selected"
+msgstr "Электронная подпись не выбрана"
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+msgid "Add Templates"
+msgstr "Добавить шаблоны"
+
+msgid "Idle Cases"
+msgstr "Idle Cases"
+
+msgid "When a case is idle, post this message"
+msgstr "Когда кейс простаивает, публикуйте это сообщение"
+
+msgid "No case type selected"
+msgstr "Тип дела не выбран"
+
+msgid "Idle Days"
+msgstr "Праздные дни"
+
+msgid "Post Id"
+msgstr "Идентификатор сообщения"
+
+msgid "Set Idle Message"
+msgstr "Установить сообщение о простое"
+
+msgid "No task selected"
+msgstr "Задача не выбрана"
+
+msgid "No operation order selected"
+msgstr "Порядок операций не выбран"
+
+msgid "Operation Order"
+msgstr "Операционный порядок"
+
+msgid "Add Templates to Assign Users"
+msgstr "Добавьте шаблоны для назначения пользователей"
+
+msgid "CaseType"
+msgstr "Тип корпуса"
+
+msgid "Case Form"
+msgstr "Форма дела"
+
+msgid "User Form"
+msgstr "Форма пользователя"
+
+msgid "Notes Form"
+msgstr "Форма заметок"
+
+msgid "Defaults"
+msgstr "Значения по умолчанию"
+
+msgid "Required"
+msgstr "необходимые"
+
+msgid "Public User Signup link:"
+msgstr "Ссылка для регистрации публичного пользователя:"
+
+msgid "Design Settings"
+msgstr "Настройки дизайна"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Сменить файл"
+
+msgid "Delete Favicon"
+msgstr "Удалить значок"
+
+msgid "Logo:"
+msgstr "Логотип:"
+
+msgid "Delete Logo"
+msgstr "Удалить логотип"
+
+msgid "Text Color"
+msgstr "Цвет текста"
+
+msgid "Recommended Colors:"
+msgstr "Рекомендуемые цвета:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "сброс"
+
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "информация о компании"
+
+msgid "Website"
+msgstr "Веб-сайт"
+
+msgid "Terms of Use URL"
+msgstr "Условия использования URL"
+
+msgid "User Signup"
+msgstr "Регистрация пользователя"
+
+msgid "Allow Signup"
+msgstr "Разрешить регистрацию"
+
+msgid "Auto Create Case"
+msgstr "Автоматическое создание дела"
+
+msgid "Case User Role"
+msgstr "Роль пользователя дела"
+
+msgid "Google Analytics"
+msgstr "Гугл Аналитика"
+
+msgid "Analytics Key"
+msgstr "Ключ аналитики"
+
+msgid "delete"
+msgstr "Удалить"
+
+msgid "Crop Image"
+msgstr "Обрезать изображение"
+
+msgid "No Filter"
+msgstr "Нет фильтра"
+
+msgid "No logs requested."
+msgstr "Запросов не требуется."
+
+msgid "Logs list is empty."
+msgstr "Список журналов пуст."
+
+msgid "Download CSV"
+msgstr "Загрузить CSV"
+
+msgid "Request Logs"
+msgstr "Журналы запросов"
+
+msgid "Log Type"
+msgstr "Тип журнала"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Select a case"
+msgstr "Выберите случай"
+
+msgid "Enter the email address"
+msgstr "Введите адрес электронной почты"
+
+msgid "Module"
+msgstr "модуль"
+
+msgid "Header (3 max)"
+msgstr "Заголовок (максимум 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Когда пользователь присоединится к приложению, попросите его поделиться "
+"следующим"
+
+msgid "No user intake found."
+msgstr "Потребление пользователей не найдено."
+
+msgid "User Type"
+msgstr "Тип пользователя"
+
+msgid "Intake Form"
+msgstr "Форма приема"
+
+msgid "Complete After"
+msgstr "Завершить после"
+
+msgid "No user type selected"
+msgstr "Тип пользователя не выбран"
+
+msgid "No intake form selected"
+msgstr "Форма приема не выбрана"
+
+msgid "Complete After Date"
+msgstr "Завершить после даты"
+
+msgid "Complete After Time"
+msgstr "Завершить после времени"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Дата и время должны быть меньше или равны текущему моменту"
+
+msgid "Comment ct"
+msgstr "Комментарий"
+
+msgid "View Ticket"
+msgstr "Посмотреть билет"
+
+msgid "Ticket"
+msgstr "Билет"
+
+msgid "No tickets yet."
+msgstr "Билетов пока нет."
+
+msgid "User not found."
+msgstr "Пользователь не найден."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Пользователь может редактировать информацию своей учетной записи, за "
+"исключением раздела атрибутов пользователя хоста."
+
+msgid "Contact"
+msgstr "контакт"
+
+msgid "Phone number"
+msgstr "Номер телефона"
+
+msgid "Zip Postal Code"
+msgstr "Почтовый индекс"
+
+msgid "Host User Attributes"
+msgstr "Атрибуты хост-пользователя"
+
+msgid "User Status"
+msgstr "Статус пользователь"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Постоянный ярлык, чтобы легко найти пользователя. (a-z, 0-9, -, /) "
+"допускаются"
+
+msgid "App only User Intake Fields"
+msgstr "Поля пользователей только для приложения"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP ТОЛЬКО ТАМОЖЕННЫЕ ПОЛЯ"
+
+msgid "s found."
+msgstr "найдено."
+
+msgid "Created Date"
+msgstr "Дата создания"
+
+msgid "View Cases"
+msgstr "Посмотреть дела"
+
+msgid "VIEW CASES"
+msgstr "СМОТРЕТЬ КЕЙСЫ"
+
+msgid "Get Started"
+msgstr "Начать"
+
+msgid "Password"
+msgstr "пароль"
+
+msgid "Email is not valid."
+msgstr "Email не является допустимым."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive позволяет вам и вашему клиенту"
+
+msgid "work together"
+msgstr "работать вместе"
+
+msgid "at any time, in any place."
+msgstr "в любое время, в любом месте."
+
+msgid "Explore"
+msgstr "Проводить исследования"
+
+msgid "Pricing"
+msgstr "Цены"
+
+msgid "Support & Docs"
+msgstr "Поддержка и документы"
+
+msgid "FAQ"
+msgstr "Вопросы-Ответы"
+
+msgid "Failed to validate if you are human"
+msgstr "Не удалось подтвердить, если вы человек"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "УВЕДОМЛЯЙ МЕНЯ, КОГДА ЭТО ГОТОВО!"
+
+msgid "Thank You!"
+msgstr "Благодарю вас!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Мы сообщим вам, когда приложение будет готово"
+
+msgid "Most popular"
+msgstr "Самый популярный"
+
+msgid "All languages"
+msgstr "Все языки"
+
+msgid "Oops, Something went wrong."
+msgstr "Упс! Что-то пошло не так."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Упс! Что-то пошло не так. Наша команда была уведомлена. Пожалуйста, "
+"попробуйте позже."
+
+msgid "Support Documentation"
+msgstr "Документация поддержки"
+
+msgid "All Categories"
+msgstr "Все категории"
+
+msgid "Contents"
+msgstr "Содержание"
+
+msgid "Related Articles"
+msgstr "Статьи по Теме"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr ""
+"Начало работы: процессы, рекомендации, руководства по настройке и многое "
+"другое!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Найдите все необходимое для работы в CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Все случаи общения в одном месте"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Общайтесь, публикуйте обновления, отвечайте на вопросы, делайте заметки, "
+"комментируйте и помечайте все обсуждения электронной почтой и SMS-"
+"уведомлениями в режиме реального времени."
+
+msgid "Share with confidence"
+msgstr "Поделись с уверенностью"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Делитесь документами и фотографиями между клиентами и членами команды на "
+"всех устройствах, чтобы все были в курсе событий."
+
+msgid "Take it on the go"
+msgstr "Возьми на ходу"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Используйте мобильные устройства, такие как планшеты и смартфоны, для "
+"совместной работы по ключевым вопросам, обсуждения основных проблем, обмена "
+"документами и отслеживания хода работы в режиме реального времени."
+
+msgid "Immediate records access"
+msgstr "Немедленный доступ к записям"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Авторизованные пользователи могут быстро получать доступ к данным клиента и "
+"информации о делах (включая текущие, прошлые, открытые, закрытые и ожидающие"
+" рассмотрения дела) через один портал."
+
+msgid "Automatic timezone conversion"
+msgstr "Автоматическое преобразование часового пояса"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Путешествуете ли вы или находитесь в другом месте, вы будете "
+"синхронизированы с нашей системой управления разговорами в часовых поясах."
+
+msgid "Track Events"
+msgstr "Отслеживать события"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Быстро планируйте встречи, отслеживайте предстоящие события и приглашайте "
+"клиентов и членов команды в качестве участников."
+
+msgid "Video Conferencing"
+msgstr "Видео-конференция"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Общайтесь с клиентами и членами команды через живые видеочаты для еще "
+"большей интерактивности."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Автоматизируйте задачи при создании обращения или назначении пользователя "
+"для обращения."
+
+msgid "Automated Alerts"
+msgstr "Автоматические оповещения"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Хотите поздравить своих клиентов с Днем Рождения? Настройте автоматическое "
+"сообщение для прошлых и текущих клиентов на их особый день!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Поддержание данных клиента в актуальном состоянии"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Клиенты могут изменять свои профили с обновленными данными, фотографиями, "
+"паролями и настройками учетной записи."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Задавайте вопросы, получайте ответы."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Создайте пользовательские формы и отправьте их клиентам для заполнения. "
+"Соберите необходимую информацию, проведите выездные опросы и получите все "
+"данные, которые вам необходимы, чтобы хорошо выполнять свою работу!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr "Директор по продажам Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Сделайте выставление счетов клиенту максимально простым с онлайн-счетами и "
+"платежами."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Нам нравится выставление счетов по делу, потому что оно позволяет клиентам "
+"точно узнать, за что они платят."
+
+msgid ", Vice President of Sky Digital"
+msgstr "Вице-президент Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Наслаждайтесь легкостью электронной подписи"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"В электронном виде подписать все документы через DocSign, используя "
+"загруженные документы и запросы и подтверждения цифровой подписи клиента."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Загрузите документ, отметьте его для подписи, а затем клиент войдет в "
+"систему и подпишет его электронной подписью. Все делается без необходимости "
+"присутствия клиента в нашем здании. Это удобно для клиентов, которые не "
+"находятся рядом с офисом или живут за пределами штата."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr "Директор по операциям страхования капитала"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Усовершенствуйте свою систему. Меньше работы, больше результатов."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Используйте функцию администрирования самообслуживания"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Получите полный контроль над вашим пакетом управления CaseActive с самой "
+"платформы."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Без труда свяжите вашу существующую систему с CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Интегрируйте наш собственный API-интерфейс, чтобы автоматически создавать "
+"дела, назначать пользователей и генерировать отчеты на основе данных вашей "
+"системы."
+
+msgid "Acting as a"
+msgstr "Действуя как"
+
+msgid "virtual administrative assistant"
+msgstr "виртуальный административный помощник"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr "CaseActive расширяет возможности обработки документов и мультимедиа"
+
+msgid "client-to-customer communications"
+msgstr "связь клиент-клиент"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "планирование событий и пошаговая обработка дел."
+
+msgid "Self-Serve Administration"
+msgstr "Администрация самообслуживания"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Выступая в качестве виртуального помощника по административным вопросам, "
+"CaseActive дает вам возможность упорядоченной обработки документов и "
+"мультимедиа, частного общения между клиентами, планирования событий и "
+"пошаговой обработки дел."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Управление логинами пользователей и созданием обращений"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Непосредственный надзор за созданием учетных записей пользователей и "
+"авторизация их прав доступа в каждом конкретном случае. Управляйте "
+"созданием, ходом и закрытием кейсов, с полной отчетностью на каждом этапе."
+
+msgid "View Caseactive Analytics"
+msgstr "Просмотр Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Посмотрите, как именно продвигается дело, количество успешно завершенных "
+"дел, и посмотрите время отклика с помощью детального аналитического модуля "
+"CaseActive. Знание - это сила, и мы дали вам все, что нужно знать о ваших "
+"собственных проектах."
+
+msgid "Monitor User Logs"
+msgstr "Мониторинг пользовательских журналов"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Следите за тем, чтобы клиент и члены команды входили в систему, а также "
+"выполняли действия на платформе, чтобы гарантировать, что все их действия "
+"авторизованы в рамках параметров дела и что все участники выполняют свои "
+"обязанности в соответствии с требованиями."
+
+msgid "Employ Advanced Searches"
+msgstr "Используйте расширенный поиск"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Найдите именно то, что вам нужно, когда вам это нужно. Поиск дел по именам "
+"пользователей и клиентов, ключевым словам, срокам, загруженным документам и "
+"многому другому!"
+
+msgid "Create Custom Fields"
+msgstr "Создать пользовательские поля"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Создайте специализированные поля для ввода данных от клиентов и членов "
+"команды и соберите необходимые данные от всех участников. Сделайте интерфейс"
+" кейса уникальным для вашего бизнеса и бренда!"
+
+msgid "Create Custom Templates"
+msgstr "Создание пользовательских шаблонов"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Разработайте огромный спектр пользовательских форм и шаблонов для "
+"распространения и заполнения как во время, так и после рассмотрения дела "
+"(например, опросы клиентов на выходе). Какую бы форму вам ни понадобилось, "
+"вы можете создать!"
+
+msgid "Violet Cherry"
+msgstr "Фиолетовая вишня"
+
+msgid "As-You-Go Invoicing"
+msgstr "Текущее выставление счетов"
+
+msgid "Kenny Herndon"
+msgstr "Кенни Херндон"
+
+msgid "Patrick Bennett"
+msgstr "Патрик Беннетт"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Мы здесь, чтобы помочь! Свяжитесь с нами, если у вас остались вопросы, и мы "
+"ответим в течение двух рабочих дней."
+
+msgid "* Email is not valid."
+msgstr "* Email не является допустимым."
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "Medium"
+msgstr "средний"
+
+msgid "High"
+msgstr "Высокая"
+
+msgid "Critical"
+msgstr "критический"
+
+msgid "Choose Importance"
+msgstr "Выберите значение"
+
+msgid "Department"
+msgstr "отдел"
+
+msgid "Sales"
+msgstr "Продажи"
+
+msgid "Other"
+msgstr "Другой"
+
+msgid "Choose Department"
+msgstr "Выберите отдел"
+
+msgid "Loading"
+msgstr "загрузка"
+
+msgid "Importance"
+msgstr "значение"
+
+msgid "Send A New Message"
+msgstr "Отправить новое сообщение"
+
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+msgid "Answers to Questions"
+msgstr "Ответы на вопросы"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Есть вопросы? Прочтите дальнейшие указания в наших ответах на запросы "
+"клиентов и найдите ответы на свои вопросы."
+
+msgid "How secure is CaseActive?"
+msgstr "Насколько безопасен CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive использует 128-битное SSL-шифрование военного и банковского "
+"уровня для передачи данных и 256-битное шифрование AES для данных в "
+"состоянии покоя. Для каждого экземпляра CaseActive сгенерирован уникальный "
+"ключ, обеспечивающий дополнительный уровень безопасности для вашего бизнеса."
+" Мы никогда не позволим другой компании получить доступ к вашей базе данных "
+"или системе хранения."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"У меня есть существующая система. Может ли CaseActive работать с моей "
+"существующей системой?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Да, вы можете интегрировать наш проприетарный API или модуль импорта для "
+"автоматического создания обращений, назначения пользователей и создания "
+"отчетов на основе входных данных вашей системы."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"У нас есть клиенты по всему миру. Доступен ли CaseActive на других языках?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Да, приложение и общение CaseActive можно перевести на более чем 60 языков, "
+"включая китайский, испанский, хинди и русский, а также английский."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Могу ли я добавить логотип или каким-либо образом настроить CaseActive?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Абсолютно! CaseActive был разработан с мыслью о вас. На странице настроек "
+"панели администратора вы можете загрузить свой личный цвет и выбрать цвета "
+"вашей компании."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Совместим ли CaseActive с любым устройством (ПК, Mac, планшет и мобильный "
+"телефон)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive — адаптивное веб-приложение. Он работает в любом веб-браузере, "
+"таком как Internet Explorer, Firefox, Safari или Chrome и т. д. Это "
+"означает, что тип используемого вами устройства (ПК, Mac, планшет или "
+"мобильное устройство) не имеет значения. Просто откройте веб-браузер, "
+"войдите в свою учетную запись CaseActive, и все готово."
+
+msgid "How many clients can I have?"
+msgstr "Сколько клиентов я могу иметь?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Вам выставляется счет за рабочее место в месяц. У вас может быть "
+"неограниченное количество пользователей клиента."
+
+msgid "Enhance User Experience"
+msgstr "Улучшить пользовательский опыт"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Минимальных комиссий и предварительных обязательств нет. Вы платите только "
+"за рабочее место в месяц."
+
+msgid "Pro"
+msgstr "Про"
+
+msgid "per Month"
+msgstr "в месяц"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Все, что вам нужно, чтобы начать. 3 места включены."
+
+msgid "Business"
+msgstr "Бизнес"
+
+msgid "Popular"
+msgstr "Популярный"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Наш самый популярный план. В комплекте 4 места."
+
+msgid "Enterprise"
+msgstr "Предприятие"
+
+msgid "Contact sales for pricing"
+msgstr "Свяжитесь с отделом продаж, чтобы узнать цену"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr ""
+"Индивидуальные цены, расширенные функции, система единого входа, веб-"
+"перехватчики."
+
+msgid "Contact Sales"
+msgstr "Связаться с отделом продаж"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Общайтесь и делитесь документами с вашими клиентами"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Планируйте повторяющиеся события и встречи"
+
+msgid "Fully customize your form to generate data"
+msgstr "Полностью настройте форму для генерации данных"
+
+msgid "Keep track of case progression"
+msgstr "Следите за ходом дела"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Запрос совместимых электронных подписей от нескольких пользователей"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Создайте счет для вашего клиента для просмотра или оплаты"
+
+msgid "ToDos"
+msgstr "Задачи"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Позволяет всем знать, что происходит и должно"
+
+msgid "Auto notify the user when something is due"
+msgstr "Автоматически уведомлять пользователя, когда что-то должно"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Добавьте настраиваемые поля обращения для всех ваших обращений"
+
+msgid "Custom Branding"
+msgstr "Индивидуальный брендинг"
+
+msgid "Make your app unique with logo and color styles"
+msgstr ""
+"Сделайте свое приложение уникальным с помощью логотипа и цветовых стилей"
+
+msgid "Access to customer support"
+msgstr "Доступ к поддержке клиентов"
+
+msgid "Storage"
+msgstr "Хранилище"
+
+msgid "Unlimited"
+msgstr "Неограниченный"
+
+msgid "Additional Users Seats"
+msgstr "Дополнительные места пользователей"
+
+msgid "N/A"
+msgstr "Н/Д"
+
+msgid "$83.34"
+msgstr "$83,34"
+
+msgid "Convo with recording"
+msgstr "Конво с записью"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Видео- или аудиочат с записью, сохраненной в деле"
+
+msgid "API Access"
+msgstr "Доступ к API"
+
+msgid "Automate tasks with access to API"
+msgstr "Автоматизируйте задачи с доступом к API"
+
+msgid "Module Templates"
+msgstr "Шаблоны модулей"
+
+msgid "Create a standard template and reuse it"
+msgstr "Создайте стандартный шаблон и используйте его повторно"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr "Автозапуск действия при запуске дела или назначенного дела"
+
+msgid "Newsletter"
+msgstr "Новостная рассылка"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Отправляйте клиентам общие сообщения, сообщения о днях рождения или "
+"праздниках (скоро)"
+
+msgid "Encryption at rest"
+msgstr "Шифрование в состоянии покоя"
+
+msgid "Protects your data from system compromise"
+msgstr "Защищает ваши данные от компрометации системы"
+
+msgid "Encryption in transit"
+msgstr "Шифрование при передаче"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Защищает ваши данные в случае перехвата сообщений"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Единый вход на основе SAML (SSO)"
+
+msgid "Respond realtime to events"
+msgstr "Реагируйте на события в режиме реального времени"
+
+msgid "Seamless Collaboration"
+msgstr "Беспрепятственное сотрудничество"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive оптимизирует цифровое сотрудничество между вашей компанией и "
+"клиентами — от консультации до решения, и все это на одной платформе."
+
+msgid "Take a tour"
+msgstr "Взять тур"
+
+msgid "Stay Connected"
+msgstr "Оставайся на связи"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Поддерживайте мгновенный контакт с членами команды, используя удобный "
+"интерфейс CaseActive в качестве универсального центра для управления "
+"клиентами и делами."
+
+msgid "Connect"
+msgstr "соединять"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed держит вас в курсе ваших клиентов."
+
+msgid "Schedule"
+msgstr "График"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr ""
+"Создавайте события, приглашайте посетителей и следите за своим календарем."
+
+msgid "Call"
+msgstr "Вызов"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Занимайтесь звонками в режиме реального времени в любое время и в любом "
+"месте."
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Безопасно загружайте файлы, обсуждайте их и делитесь ими."
+
+msgid "Powerful Case Management"
+msgstr "Мощное управление делами"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Функциональность &quot;из коробки&quot;"
+
+msgid "Easily assign individuals"
+msgstr "Легко назначать лиц"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "или команды к делу и сотрудничать с клиентами."
+
+msgid "Manage user groups"
+msgstr "Управление группами пользователей"
+
+msgid "and customize access permissions."
+msgstr "и настроить права доступа."
+
+msgid "All data is automatically backed up"
+msgstr "Все данные автоматически резервируются"
+
+msgid "in case a recovery is ever needed."
+msgstr "в случае необходимости восстановления."
+
+msgid "All information"
+msgstr "Вся информация"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "надежно зашифрован, обеспечивая вашу абсолютную конфиденциальность."
+
+msgid "Customize"
+msgstr "Настроить"
+
+msgid "with your own colors and logo."
+msgstr "с вашими собственными цветами и логотипом."
+
+msgid "can be enabled/disabled at any time."
+msgstr "может быть включен / отключен в любое время."
+
+msgid "Benefits of "
+msgstr "Преимущества"
+
+msgid "Reduction in time "
+msgstr "Сокращение времени"
+
+msgid "to intake new clients"
+msgstr "для приема новых клиентов"
+
+msgid "Minimize "
+msgstr "Свести к минимуму"
+
+msgid "the chance of "
+msgstr "шанс"
+
+msgid "malpractice"
+msgstr "злоупотребление служебным положением"
+
+msgid "Better experience "
+msgstr "Лучший опыт"
+
+msgid "for your client"
+msgstr "для вашего клиента"
+
+msgid "Increase in caseload capacity "
+msgstr "Увеличение пропускной способности"
+
+msgid "per staff"
+msgstr "за штат"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Начните с наших встроенных приложений"
+
+msgid "All you need in one place."
+msgstr "Все что вам нужно в одном месте."
+
+msgid "Case Feed"
+msgstr "Case Feed"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Легко назначьте клиента, персонал и сотрудников к делу и займите безопасное "
+"пространство, которое позволит вам следить за ходом дела, вести чат и видео-"
+"беседы в реальном времени, а также планировать события, подписывать, "
+"загружать и скачивать документы, а также гораздо больше."
+
+msgid "Case Invoices"
+msgstr "Счета-фактуры"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"С выставлением счетов «на ходу» выставление счетов клиентам осуществляется "
+"одним щелчком мыши и позволяет отправлять автоматически сгенерированные "
+"запросы средств и получать прямые платежи взамен."
+
+msgid "Case Events"
+msgstr "События дела"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Постоянно следите за своим календарем, планируйте события, приглашайте "
+"посетителей, отправляйте напоминания о событиях и следите за тем, чтобы все "
+"было в порядке."
+
+msgid "Case Convo"
+msgstr "Кейс Конво"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Встречайтесь с клиентами и членами команды практически «лицом к лицу» с "
+"помощью встроенной видеоконференцсвязи, чтобы вы могли напрямую общаться со "
+"всеми участниками."
+
+msgid "Case Forms & E-signs"
+msgstr "Формы дел и электронные подписи"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Полностью настроить форму вашего дела для создания уникальных шаблонов, "
+"которые отвечают вашим конкретным потребностям. Эти шаблоны могут затем "
+"распространяться среди клиентов и членов команды для заполнения и подписания"
+
+msgid "Case notes"
+msgstr "Примечания к делу"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Делайте заметки с настраиваемыми полями и вложениями о продвижении дела для "
+"нынешних и будущих членов команды."
+
+msgid "Case Media"
+msgstr "Кейс Медиа"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Загружайте, делитесь, комментируйте и загружайте файлы, относящиеся к делу, "
+"чтобы у каждого была ссылка на все важные детали, людей и ситуации."
+
+msgid "About Case"
+msgstr "О деле"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Позвольте клиентам и сотрудникам просматривать общие сведения о случаях, в "
+"которых они участвуют. Затем вы можете закрыть дело, как только все будет "
+"завершено, или дать разрешение члену группы на это."
+
+msgid "Plus Many More Features"
+msgstr "Плюс многие другие функции"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Используйте функцию администрирования самообслуживания. Получите полный "
+"контроль над пакетом управления CaseActive с самой платформы."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Легко свяжите свою существующую систему с CaseActive. Интегрируйте наш "
+"собственный API-интерфейс, чтобы автоматически создавать дела, назначать "
+"пользователей и генерировать отчеты на основе данных вашей системы."
+
+msgid "Multi-Language Enabled:"
+msgstr "Многоязычность включена:"
+
+msgid "Interact with clients in"
+msgstr "Взаимодействовать с клиентами в"
+
+msgid "70+ languages"
+msgstr "70+ языков"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Работаете ли вы локально или глобально, вы можете перевести родной язык "
+"вашего клиента с помощью CaseActive&#39;s"
+
+msgid "language management system"
+msgstr "система управления языками"
+
+msgid "No more confusion or limits."
+msgstr "Нет больше путаницы или ограничений."
+
+msgid "Let's see what others are saying"
+msgstr "Давайте посмотрим, что говорят другие"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Узнайте, как наши замечательные клиенты - от малых предприятий до "
+"корпоративных предприятий - повысили свое конкурентное преимущество, став "
+"воинами CaseActive."
+
+msgid "SUPPORT"
+msgstr "СЛУЖБА ПОДДЕРЖКИ"
+
+msgid "Everything at Your Fingertips."
+msgstr "Все в ваших руках."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Начните работу с приложением CaseActive, следуя нашему видео-руководству, и "
+"настройте его в соответствии со своими потребностями."
+
+msgid "What are you looking for..."
+msgstr "Что вы ищете..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Последнее обновление: 7 июня 2021 г."
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive оставляет за собой право в любое время и по своему усмотрению "
+"обновлять и изменять любые или все настоящие Условия обслуживания. Когда "
+"CaseActive изменяет настоящие Условия обслуживания, CaseActive изменяет дату"
+" последнего обновления, указанную выше. Вы несете ответственность за "
+"регулярное ознакомление с самой последней версией Сервиса. Ваше дальнейшее "
+"использование Услуг после внесения любых таких изменений означает ваше "
+"согласие на обязательность таких изменений. Если вы возражаете против любых "
+"изменений настоящих Условий предоставления услуг, вашим единственным и "
+"исключительным средством правовой защиты будет прекращение предоставления "
+"Услуг в соответствии с условиями, изложенными в настоящем документе."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Эти Общие условия обслуживания применяются к Услугам в целом. Дополнительные"
+" условия, применимые к каждой предлагаемой услуге, изложены по ссылкам, "
+"приведенным ниже («Дополнительные условия обслуживания»)."
+
+msgid "1. Services:"
+msgstr "1. Услуги:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Наше проприетарное программное обеспечение - это сервисная платформа, "
+"которую мы размещаем для наших клиентов, чтобы предлагать услуги, подробно "
+"описанные ниже. Чтобы подписаться на Услугу, вы должны заполнить Форму "
+"заказа для этой Службы и / или заполнить процедуру регистрации для этой "
+"Службы. Вы имеете право использовать только те Сервисы, для которых вы "
+"подписались и оплатили, и использование вами Сервисов зависит от соблюдения "
+"вами всех условий Соглашения. Вы признаете и соглашаетесь с тем, что мы "
+"оставляем за собой право время от времени изменять Услуги (или любую их "
+"часть) и что мы не несем ответственности перед вами или любой третьей "
+"стороной за любые изменения в Услугах."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Описание службы CaseActive: Служба CaseActive - это набор размещенных "
+"программных служб для управления совместной работой с клиентами в Интернете,"
+" предлагаемый CaseActive LLC. В процессе регистрации, с которым вы "
+"согласились, или в форме заказа, которую вы заполнили, указывается услуга "
+"CaseActive, на которую вы подписаны, срок подписки и сборы, которые вы "
+"должны уплатить за услугу CaseActive. Дополнительные условия, применимые к "
+"использованию вами Сервиса CaseActive, изложены по адресу:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Расширение услуг:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Вы можете подписаться на любые дополнительные Сервисы, включая новые "
+"Сервисы, которые могут периодически предоставляться CaseActive, или "
+"увеличивать свои существующие Сервисы, заполняя дополнительную Форму заказа "
+"или процедуру регистрации, как часть Сервисов. Каждый новый поток "
+"регистрации или Форма заказа будут включать цену и дату (-ы) выставления "
+"счетов за Услуги, добавляемые в это время. Все новые Услуги подпадают под "
+"действие настоящих Общих условий обслуживания и любых дополнительных "
+"условий, которые могут конкретно применяться к таким дополнительным Услугам."
+
+msgid "3. Customer Support:"
+msgstr "3. Поддержка клиентов:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"При условии, что вы оплатили все сборы, уплачиваемые вами за Услуги, мы "
+"приложим коммерчески разумные усилия, чтобы бесплатно предоставить вам "
+"услуги технической поддержки для вас и ваших авторизованных пользователей, "
+"которые подписались на Услуги. Представитель по обслуживанию клиентов будет "
+"назначен для ваших дел. Неограниченные случаи принимаются от авторизованных "
+"пользователей. Наша стандартная поддержка доступна 24/7, за исключением "
+"основных праздников, которые включают День памяти, День независимости, День "
+"труда, День благодарения, Рождество и Новый год. Вы можете связаться со "
+"службой поддержки, используя наш"
+
+msgid "Contact Form"
+msgstr "Форма обратной связи"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ", Время нашего ответа не должно превышать двух рабочих дней."
+
+msgid "4. Training:"
+msgstr "4. Обучение:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"При условии, что вы оплатили все сборы, уплачиваемые вами за Услуги, мы "
+"предоставим дистанционные, живые или записанные сеансы обучения вашим "
+"назначенным, именным и авторизованным пользователям, а также предоставим "
+"учебные материалы, доступные через раздел справки и обучения на нашем веб-"
+"сайте по адресу: без дополнительной оплаты. Для некоторых Сервисов мы "
+"предоставляем обучение на месте по запросу и за дополнительную плату. "
+"Пожалуйста, свяжитесь с нами, используя наш"
+
+msgid "for more information about on-site training."
+msgstr "Для получения дополнительной информации об обучении на месте."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Ваши права и ограничения:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Лицензия: при условии соблюдения условий Соглашения и после "
+"своевременной оплаты всех применимых сборов, указанных в Форме заказа или в "
+"процессе регистрации, мы настоящим предоставляем вам неисключительное, "
+"непередаваемое, ограниченное право и лицензия на использование (и разрешение"
+" вашим авторизованным пользователям использовать) Сервисы, на которые вы "
+"подписаны, исключительно для внутренних служебных целей."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Авторизованные пользователи: Вы (i) несете ответственность за соблюдение"
+" вашими авторизованными пользователями условий Соглашения и (ii) должны "
+"предпринимать коммерчески обоснованные усилия для предотвращения "
+"несанкционированного доступа или использования Сервисов и должны немедленно "
+"уведомлять нас о любом таком несанкционированном доступе или использовать. "
+"Вы несете ответственность за прекращение доступа к Услугам в случае "
+"изменения авторизованного статуса пользователя или назначенного сотрудника."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Ваши обязанности и ограничения: Вы несете ответственность за все "
+"действия, которые происходят под вашими учетными записями или вашими "
+"авторизованными пользователями. Вы должны: (i) нести исключительную "
+"ответственность за точность, качество, целостность, законность, "
+"достоверность и уместность всех данных, которые вы предоставляете в Сервисы;"
+" (ii) использовать коммерчески обоснованные усилия для предотвращения "
+"несанкционированного контроля или подделки или любого другого "
+"несанкционированного доступа или использования Услуг и незамедлительно "
+"уведомлять нас о любом несанкционированном использовании или нарушении "
+"безопасности; (iii) соблюдать все применимые местные, государственные, "
+"федеральные и иностранные законы (включая законы, касающиеся "
+"конфиденциальности и защиты личной или потребительской информации) при "
+"использовании Сервисов; (iv) в той степени, в которой это применимо, "
+"соблюдать все применимые правила ассоциаций кредитных карт (включая American"
+" Express, MasterCard и Visa); и (v) приобретать и обслуживать все "
+"компьютерное оборудование, программное обеспечение и коммуникационное "
+"оборудование, необходимое для доступа к Услугам, и оплачивать все сборы за "
+"доступ (например, сборы ISP), понесенные вами в связи с использованием вами "
+"Услуг."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Вы не можете, и вы должны гарантировать, что ваши авторизованные "
+"пользователи не (i) разбирают, реконструируют, декомпилируют или иным "
+"образом пытаются расшифровать любой код, связанный с Услугами, или "
+"модифицировать, адаптировать, создавать производные работы на основе или "
+"переводить Сервисы; (ii) лицензировать, сублицензировать, продавать, сдавать"
+" в аренду, переуступать, передавать, распространять, передавать по "
+"таймшерам, сдавать в аренду, одалживать, перепродавать для получения "
+"прибыли, распространять или иным образом использовать в коммерческих целях, "
+"предоставлять права или предоставлять Услуги любой третьей стороне; (iii) "
+"пользоваться Услугами, за исключением случаев, прямо предусмотренных "
+"настоящим Соглашением или в нарушение любых применимых законов; (iv) "
+"участвовать в любой незаконной или вводящей в заблуждение торговой практике "
+"в отношении Услуг; (v) обходить или отключать какие-либо средства "
+"обеспечения безопасности или другие технические функции или меры Сервисов "
+"или любого другого аспекта Программного обеспечения или каким-либо образом "
+"пытаться получить или получить несанкционированный доступ к Сервисам или "
+"связанным компьютерным системам или сетям; (vi) использовать Сервисы для "
+"передачи контрафактных, клеветнических, непристойных, угрожающих или иных "
+"незаконных, небезопасных, вредоносных, оскорбительных или вредоносных "
+"материалов, а также для хранения или передачи материалов в нарушение прав на"
+" неприкосновенность частной жизни третьих лиц; (vii) использовать Сервис для"
+" хранения или передачи любых вирусов, червей, бомб замедленного действия, "
+"троянских коней и другого вредоносного или вредоносного кода, файлов, "
+"сценариев, агентов или программ, а также для рассылки спама или других "
+"дублирующих или нежелательных сообщений в нарушение применимых законов. ; "
+"или (viii) вмешиваться или нарушать целостность или работу Сервисов или "
+"сторонних данных, содержащихся в них."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4. Сохранение прав: никакие другие права не предоставляются, за "
+"исключением случаев, прямо указанных в Соглашении. Соглашение не является "
+"продажей и не передает никаких прав или прав собственности на Сервисы или "
+"какое-либо лежащее в их основе программное обеспечение. Мы владеем всеми "
+"правами, правами собственности и интересами, включая все права на "
+"интеллектуальную собственность, в отношении Услуг и соответствующего "
+"программного обеспечения, а также любых и всех обновлений, обновлений, "
+"модификаций, улучшений, улучшений или производных от них работ, и в любом "
+"случае каким образом, и программ, разработанных нами или нашими лицензиарами"
+" в ходе оказания Услуг."
+
+msgid "6. Term and Termination:"
+msgstr "6. Срок и прекращение действия:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Срок действия: Срок действия Услуг варьируется в зависимости от услуги, "
+"на которую вы подписаны, и должен быть указан в Форме заказа или согласован "
+"в процессе регистрации и обновляется следующим образом:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Срок обслуживания CaseActive: Ваша подписка на услугу CaseActive "
+"автоматически продлевается на последующие месячные или однолетние сроки, как"
+" указано в Форме заказа или в процессе регистрации, если только мы не "
+"прекратим Сервис, вы предоставите нам уведомление о невозобновление не менее"
+" чем за тридцать (30) дней до истечения текущего срока."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Срок предоставления услуг веб-сайта CaseActive. Ваша подписка на "
+"услуги веб-сайта CaseActive автоматически продлевается на один месяц или "
+"один год, как указано в Форме заказа или в процессе регистрации, если только"
+" мы не прекратим Услугу или вы не предоставите нам с уведомлением о "
+"продлении не менее чем за тридцать (30) дней до истечения текущего срока."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Письменное уведомление о невозможности продления вами должно быть "
+"отправлено в CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Прекращение действия: любая из сторон может прекратить действие "
+"Соглашения и всех подписок на Сервис (i), если другая сторона нарушает "
+"какие-либо из своих существенных обязательств по Соглашению, и такое "
+"нарушение не устраняется в течение тридцати (30) дней с момента получения "
+"уведомления о нарушении. сторона, или (ii) если другая сторона становится "
+"неплатежеспособной или банкротом, ликвидируется или распускается, или "
+"прекращает практически всю свою деятельность. Мы можем немедленно "
+"расторгнуть Соглашение в случае нарушения Раздела 5.3 выше. После "
+"расторжения Соглашения вы немедленно прекратите любое использование "
+"Сервисов, перестанете представлять в любой форме, что вы являетесь "
+"пользователем Сервисов, и уничтожите всю нашу конфиденциальную информацию, "
+"которая находится в вашем распоряжении. Ни одна из сторон не несет "
+"ответственности за любой ущерб, возникший в результате прекращения действия "
+"Соглашения или любых подписок на Услуги, как предусмотрено в настоящем "
+"документе; при условии, однако, что расторжение Соглашения не влияет на "
+"какие-либо претензии, возникающие до такого расторжения."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Обработка ваших данных в случае прекращения. Вы признаете и соглашаетесь"
+" с тем, что после истечения срока действия или прекращения любой из ваших "
+"подписок на Услуги мы можем немедленно деактивировать затронутые Услуги и "
+"что в течение разумного периода времени не менее девяноста (90). ) дней, "
+"может удалить вашу учетную запись и данные. Тем не менее, в случае, если "
+"Сервисы будут прекращены нами, мы предоставим вам временный ограниченный "
+"доступ к Сервисам, не превышающий тридцать (30) дней, с единственной целью "
+"разрешить вам восстановить ваши личные данные, при условии, что Вы выплатили"
+" в полном объеме все добросовестные неоспоримые суммы задолженности перед "
+"нами. Вы также соглашаетесь с тем, что мы не несем ответственности перед "
+"вами или любой третьей стороной за прекращение вашего доступа к Услугам или "
+"удаление ваших данных, при условии, что мы соблюдаем условия данного Раздела"
+" 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Сборы:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Сборы за услуги: вы должны оплатить невозмещаемые сборы за услуги в "
+"размере, указанном в процессе регистрации или в Форме заказа («Плата за "
+"услуги»), и в соответствии с частотой выставления счетов, указанной в "
+"процессе регистрации или Заказе. Форма. Сборы за услуги подлежат оплате в "
+"день выставления счета. Плата за услуги может быть увеличена в зависимости "
+"от наших текущих сборов. Плата за обслуживание не возвращается, даже если вы"
+" прекратите подписку досрочно."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Дополнительные сборы: Вы можете понести другие невозмещаемые сборы или "
+"сборы за использование Услуг в дополнение к платам, указанным в Форме заказа"
+" и / или порядке регистрации. Дополнительные невозмещаемые сборы и платежи "
+"указаны в дополнительных условиях для соответствующей Услуги."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Поздние платежи. Вы признаете, что ваша неуплата каких-либо сборов или "
+"платежей в установленный срок может привести к приостановке или прекращению "
+"подписки на продукт CaseActive. Если вы не оплатите какие-либо сборы или "
+"платежи, причитающиеся в соответствии с настоящим Соглашением, CaseActive "
+"оставляет за собой право привлечь агентство по сбору платежей для сбора "
+"сборов и платежей, и вы должны оплатить все расходы, понесенные CaseActive в"
+" связи со сбором таких просроченных сумм, включая без ограничения, разумные "
+"гонорары адвокатов и коллекторских агентств плюс проценты в размере, равном "
+"менее 1,0% в месяц или максимальной ставке, разрешенной применимым "
+"законодательством."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Налоги: Вы несете ответственность за все налоги с продаж, налог на "
+"использование, налоги на добавленную стоимость, удерживаемые налоги и любые "
+"другие подобные налоги и сборы любого рода, налагаемые федеральными, "
+"штатными или местными государственными органами на операции, предусмотренные"
+" Соглашением. Когда у нас есть юридическое обязательство по уплате или сбору"
+" налогов, за которые вы несете ответственность, в соответствии с настоящим "
+"Разделом, соответствующая сумма будет выставлена вам к оплате и оплачена "
+"вами, если вы не предоставите нам действительное свидетельство об "
+"освобождении от налога, уполномоченное соответствующим налоговым органом."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Заверения и гарантии:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1. Взаимные заявления и гарантии. Каждая сторона настоящим заявляет и "
+"гарантирует другой стороне, что (i) у нее есть все необходимые полномочия "
+"для принятия и выполнения своих обязательств по Соглашению без согласия "
+"какой-либо третьей стороны или нарушения какого-либо контракта или "
+"соглашения с любая третья сторона, (ii) все лица, выполняющие какие-либо "
+"обязательства по настоящему Соглашению, заключили все необходимые соглашения"
+" для того, чтобы она соблюдала условия Соглашения, и (iii) она должна "
+"соблюдать во всех существенных отношениях все законы, применимые к Услуги."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Дополнительные заверения и гарантии. Вы гарантируете, заявляете и "
+"соглашаетесь с нами, что будете использовать Услуги только в законных целях "
+"в соответствии с Соглашением и всеми применимыми политиками и рекомендациями"
+" CaseActive."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Отказ от гарантий: ЗА ИСКЛЮЧЕНИЕМ ЯВНЫХ ГАРАНТИЙ, ИЗЛОЖЕННЫХ В ДАННОМ "
+"РАЗДЕЛЕ 8, В МАКСИМАЛЬНОЙ СТЕПЕНИ, РАЗРЕШЕННОЙ ПРИМЕНИМЫМ ЗАКОНОДАТЕЛЬСТВОМ,"
+" МЫ НЕ ДАЕМ НИКАКИХ ДРУГИХ ГАРАНТИЙ, ЯВНЫХ, ПОДРАЗУМЕВАЕМЫХ, ЗАКОНОДАТЕЛЬНЫХ"
+" ИЛИ ДРУГИХ УСЛОВИЙ, В ЗАКОНЕ ИЛИ ИЗУЧЕНИЯ ТОРГОВЛИ В ОТНОШЕНИИ ЛЮБЫХ "
+"ВОПРОСОВ, ВКЛЮЧАЯ КОММЕРЧЕСКОЙ ЦЕННОСТИ, УДОВЛЕТВОРИТЕЛЬНОГО КАЧЕСТВА, "
+"НАЗВАНИЯ, ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ ИЛИ НЕПРАВОМЕРНОГО НАРУШЕНИЯ. МЫ "
+"НЕ ГАРАНТИРУЕМ, ЧТО ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ИЛИ УСЛУГИ БУДУТ СООТВЕТСТВОВАТЬ"
+" ВАШИМ ТРЕБОВАНИЯМ, ВКЛЮЧАЯ УЧЕТНЫЕ ТРЕБОВАНИЯ, ИЛИ ЧТО ИСПОЛЬЗОВАНИЕ "
+"ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ УСЛУГ БУДЕТ БЕСПЕРЕБОЙНЫМ ИЛИ БЕЗОШИБОЧНЫМ. "
+"ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ И УСЛУГИ ПРЕДОСТАВЛЯЮТСЯ ВАМ «КАК ЕСТЬ», И ВЫ "
+"ИСПОЛЬЗУЕТЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ И УСЛУГИ НА ВАШ СОБСТВЕННЫЙ РИСК, "
+"ВКЛЮЧАЯ, БЕЗ ОГРАНИЧЕНИЙ, СОБЛЮДЕНИЕ ЛЮБЫХ ЗАКОНОВ. СТОРОНЫ ЯВНО "
+"ПОДТВЕРЖДАЮТ, ЧТО ОТКАЗ ОТ ГАРАНТИЙ ЯВЛЯЕТСЯ НЕОБХОДИМОЙ ЧАСТЬЮ СОГЛАШЕНИЯ."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"МЫ ОТКАЗЫВАЕМСЯ ОТ ЛЮБЫХ ПРЕДСТАВИТЕЛЬСТВ ИЛИ ГАРАНТИЙ, КОТОРЫЕ ВЫ "
+"ИСПОЛЬЗУЕТЕ, ЧТО ИСПОЛЬЗУЕТЕ ИСПОЛЬЗОВАНИЕ УСЛУГ, ИЛИ ОБЕСПЕЧИВАЕТЕ "
+"СОБЛЮДЕНИЕ ЛЮБЫХ ЮРИДИЧЕСКИХ ОБЯЗАТЕЛЬСТВ ИЛИ ЗАКОНОДАТЕЛЬСТВ ИЛИ "
+"РЕГЛАМЕНТОВ. НАСТОЯЩИЙ ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ ПРИМЕНЯЕТСЯ, НО НЕ "
+"ОГРАНИЧИВАЕТСЯ ЛЮБЫМИ ФЕДЕРАЛЬНЫМИ ИЛИ ГОСУДАРСТВЕННЫМИ СТАТУТАМИ ИЛИ "
+"ПРАВИЛАМИ, КОТОРЫЕ МОГУТ БЫТЬ ПРИМЕНИМЫ ДЛЯ ВАС. ВЫ НЕСЕТЕ ОТВЕТСТВЕННУЮ "
+"ОТВЕТСТВЕННОСТЬ ЗА ОБЕСПЕЧЕНИЕ ИСПОЛЬЗОВАНИЯ УСЛУГ В СООТВЕТСТВИИ С "
+"ДЕЙСТВУЮЩИМ ЗАКОНОДАТЕЛЬСТВОМ."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"ЕСЛИ ВЫ НЕ УДОВЛЕТВОРЕНЫ УСЛУГАМИ ИЛИ НАСТОЯЩИМ СОГЛАШЕНИЕМ, ВАШЕ "
+"ЕДИНСТВЕННОЕ И ИСКЛЮЧИТЕЛЬНОЕ СРЕДСТВО БУДЕТ ПРЕКРАТИТЬ ИСПОЛЬЗОВАНИЕ УСЛУГ."
+
+msgid "9. Confidential Information:"
+msgstr "9. Конфиденциальная информация:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Если иное прямо не разрешено другой стороной, ни одна из сторон не может "
+"раскрывать третьей стороне любую информацию или материалы, предоставленные "
+"другой стороной в соответствии с Соглашением и разумно понимаемые как "
+"конфиденциальные («Конфиденциальная информация»), или использовать такую "
+"Конфиденциальную информацию любым другим способом. чем выполнять свои "
+"обязательства по Соглашению. Вышеупомянутые ограничения не применяются к "
+"любой информации, которая находится в общественном достоянии или уже "
+"находится в распоряжении получающей стороны, была известна принимающей "
+"стороне до даты раскрытия или стала известна принимающей стороне "
+"впоследствии от третьей стороны, имеющей очевидное добросовестное право "
+"раскрыть информацию или Конфиденциальную информацию, которую принимающая "
+"сторона обязана предоставить в соответствии с постановлением суда "
+"компетентной юрисдикции или действующей административной повесткой в суд, "
+"при условии, что получающая сторона своевременно уведомляет раскрывающую "
+"сторону о таком суде приказ или вызов в суд. Кроме того, вы гарантируете, "
+"что ваши авторизованные пользователи будут хранить в строгой тайне все "
+"пароли и другую информацию для доступа к Сервисам. Раздел 9 остается в силе "
+"после прекращения или истечения срока действия настоящего Соглашения."
+
+msgid "10. Indemnification:"
+msgstr "10. Возмещение ущерба:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Возмещение ущерба за нарушение: в соответствии с разделом 10.4 мы за "
+"свой счет будем защищать вас от любых претензий третьей стороны, выдвинутых "
+"против вас, в которых утверждается, что Услуги нарушают любой патент США, "
+"выданный третьей стороне на дату вступления в силу; или нарушать какие-либо "
+"авторские права, товарные знаки или коммерческую тайну любой третьей стороны"
+" (вместе именуемые «Интеллектуальная собственность, лежащая в основе "
+"Услуг»). В случае запроса или получения судебного запрета против "
+"использования Интеллектуальной собственности, лежащей в основе Услуг, или, "
+"по нашему мнению, вероятно, что он будет запрошен или получен, мы, по нашему"
+" выбору и за свой счет, либо (i) обеспечим для вас и вашего имени "
+"авторизованные пользователи имеют право продолжать использовать Сервисы или "
+"(ii) заменять или изменять Сервисы, чтобы их использование не нарушало "
+"авторских прав, но при этом они могли по существу выполнять ту же функцию. В"
+" случае, если подпункты (i) и (ii) выше коммерчески неосуществимы, мы можем "
+"прекратить предоставление Услуг и возместить любые предоплаченные, но "
+"неиспользованные Сборы за услуги. Мы не обязаны защищать или нести "
+"ответственность за любые расходы или убытки в соответствии с настоящим "
+"Разделом 10.1, если предполагаемое нарушение возникает из-за или каким-либо "
+"образом связано с (i) любым изменением каких-либо Услуг вами (или любым из "
+"ваших уполномоченных или (назначенные пользователи) или (ii) использование "
+"Услуг в сочетании с услугами и продуктами, не предоставляемыми CaseActive, "
+"если такого нарушения можно было бы избежать без таких изменений или "
+"сочетаний, или (iii) соблюдение ваших проектов или инструкций, или (iv) "
+"заявление о том, что не указывает конкретно, что Услуги являются предметом "
+"претензии (каждая является «Исключенной претензией»). Обязательства по "
+"возмещению убытков, содержащиеся в этом разделе 10.1, остаются в силе после "
+"прекращения или истечения срока действия настоящего Соглашения."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Возмещение убытков за безопасность и конфиденциальность данных: в "
+"соответствии с разделом 10.4, и в течение срока вашей подписки на Услуги мы "
+"будем за наш счет защищать вас от любых претензий третьих сторон, выдвинутых"
+" против вас, в которых говорится о нашей грубой небрежности в предотвращении"
+" несанкционированного доступа. или нашего умышленного неправомерного "
+"поведения при разглашении личной информации ваших клиентов, которые "
+"находятся в нашем распоряжении или под нашим контролем. Это возмещение не "
+"будет применяться в той мере, в которой такое требование возникает или "
+"связано с вашей халатностью или преднамеренным неправомерным поведением или "
+"действиями ваших агентов или представителей, а также в той мере, в которой "
+"ответственность отказывается или ограничивается одной из сторон в "
+"соответствии с Соглашением. Обязательства по возмещению убытков, изложенные "
+"в этом разделе, зависят от того, как вы докажете, что наша грубая халатность"
+" или преднамеренное проступок прямо и косвенно привели к "
+"несанкционированному доступу или разглашению идентифицирующей личность "
+"информации ваших клиентов, которой мы владеем или контролируем."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3. Ваше возмещение: Вы соглашаетесь возместить ущерб, обезвредить и "
+"защитить нас и всех наших сотрудников, должностных лиц, директоров и агентов"
+" от любых претензий, требований, исков, разбирательств, расследований, "
+"убытков, затрат, расходов, убытков и любых других. обязательства (включая "
+"разумные гонорары адвокатов, судебные издержки и расходы), возникающие в "
+"связи с (i) использованием вами Услуг в нарушение Соглашения, (ii) Искомой "
+"Иск, (iii) любым фактическим или предполагаемым нарушением вами любого "
+"заявления, гарантии, соглашения или обязательства по Соглашению, или (iv) "
+"вашей грубой небрежности или преднамеренного проступка. Ваши обязательства "
+"по возмещению в соответствии с настоящим Разделом 10.3 остаются в силе после"
+" прекращения или истечения срока действия Соглашения."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Уведомление и сотрудничество: Обязательства возмещающей стороны перед "
+"возмещаемой стороной в соответствии с настоящим Разделом 10 выше обусловлены"
+" (i) возмещаемой стороной, незамедлительно уведомившей возмещающую сторону в"
+" письменной форме, при наличии сведений о любых претензиях, по которым она "
+"может иметь право на возмещение в соответствии с Соглашением. ; (ii) в той "
+"степени, в которой это применимо, возмещенная сторона прекращает "
+"использование заявленных нарушающих Сервисов после получения уведомления об "
+"этом; (iii) освобожденная сторона, позволяющая возмещающей стороне иметь "
+"исключительное право контролировать защиту и урегулирование любого такого "
+"иска (при условии, что возмещающая сторона не может урегулировать какие-либо"
+" претензии без согласия освобожденной стороны, если урегулирование "
+"безоговорочно освобождает освобожденную сторону от любой ответственности); "
+"(iv) возмещаемая сторона, предоставляющая разумную помощь возмещающей "
+"стороне за счет возмещающей стороны в защиту такого требования; (v) "
+"возмещаемая сторона не вступает в какое-либо мировое соглашение или иным "
+"образом не решает любой такой иск без явного предварительного письменного "
+"согласия или запроса стороны; и (vi) освобожденная сторона, выполняющая "
+"любое мировое соглашение или постановление суда, вынесенное в связи с иском "
+"(касающимся будущего использования любых материалов, нарушающих авторские "
+"права). Возмещаемая сторона может участвовать в защите или урегулировании "
+"иска с помощью защитника по своему выбору и за свой счет."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Исключительное средство правовой защиты: в данном разделе 10 указана "
+"единоличная ответственность возмещающей стороны и исключительное средство "
+"правовой защиты возмещаемой стороны против другой стороны по любому виду "
+"претензий, описанных в этом разделе."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Ограничение ответственности:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"ЗА ИСКЛЮЧЕНИЕМ УЩЕРБА, СВЯЗАННЫХ С НАРУШЕНИЕМ НАРУШЕНИЯ РАЗДЕЛА 5.3 ИЛИ 12, "
+"В ОТНОШЕНИИ МАКСИМАЛЬНОЙ СТЕПЕНИ, РАЗРЕШЕННОЙ ЗАКОНОДАТЕЛЬСТВОМ, НИКАКОЙ "
+"СЛУЧАЙ ИЛИ ПОЛНОЙ КУМУЛЯТИВНОЙ ОТВЕТСТВЕННОСТИ СТОРОНЫ, ВОЗНИКАЮЩЕЙ ИЗ-ЗА "
+"ИЛИ ОТНОСИТЕЛЬНО СОГЛАШЕНИЯ, ВЫШЕЛИ С ДЕЙСТВИЕМ СОГЛАСНО ИЗМЕНЕНИИ ВЫ ЗА "
+"УСЛУГИ, КОТОРЫЕ ПОДНИМАЮТ ОТВЕТСТВЕННОСТЬ В ТЕЧЕНИЕ ОДНОГО ГОДА, НЕМЕДЛЕННО "
+"ПРЕВЫШАЯ ДАТУ, ПРИЧИНА ПРИЧИНЫ ДЕЙСТВИЯ."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"ЗА ИСКЛЮЧЕНИЕМ УЩЕРБА, СВЯЗАННЫХ С НАРУШЕНИЕМ НАРУШЕНИЯ РАЗДЕЛА 5.3 ИЛИ 12, "
+"В ОТНОШЕНИИ МАКСИМАЛЬНОЙ СТЕПЕНИ, РАЗРЕШЕННОЙ ЗАКОНОДАТЕЛЬСТВОМ, НИ ОДНА "
+"СТОРОНА ЛИБО СТОРОНА, ЕГО ЛИЦЕНЗИОРЫ ИЛИ ПОСТАВЩИКИ, ИМЕЮТ НИКАКУЮ "
+"ОТВЕТСТВЕННОСТЬ ЗА ДРУГОГО СТОРОНА СТОИМОСТЬ ЗАКУПОЧИВАЮЩИХСЯ ТОВАРОВ ИЛИ "
+"УСЛУГ ИЛИ ДЛЯ ЛЮБЫХ НЕПОСРЕДСТВЕННЫХ, ОСОБЫХ, ПОСЛЕДОВАТЕЛЬНЫХ, ПРИМЕРНЫХ "
+"ИЛИ СЛУЧАЙНЫХ УЩЕРБОВ, ОДНАКО ПРИЧИНЕННЫХ И ОСНОВАННЫХ НА ЛЮБОЙ ТЕОРИИ "
+"ОТВЕТСТВЕННОСТИ (ВКЛЮЧАЯ НЕЗАКОННОСТЬ), ОТНОСЯЩИЕСЯ К УТВЕРЖДЕНИЮ, ПОСЕТИТЕ "
+"СО СТОРОНЫ НИКАКОГО СОГЛАШЕНИЯ ЕГО ОБЯЗАННОСТИ ЗДЕСЬ, ТАКОЙ ИЛИ ТАКОЙ "
+"СТОРОНЫ, СОВЕРШЕНЫ НА ПРЕДПРИНИМАТЕЛЬСТВО ТАКИХ УБЫТКОВ."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"ПОСКОЛЬКУ НЕКОТОРЫЕ ГОСУДАРСТВА / ЮРИСДИКЦИИ НЕ ДОПУСКАЮТ ИСКЛЮЧЕНИЯ ИЛИ "
+"ОГРАНИЧЕНИЯ ОТВЕТСТВЕННОСТИ ЗА КОСВЕННЫЕ ИЛИ СЛУЧАЙНЫЕ УБЫТКИ, ВЫШЕУКАЗАННОЕ"
+" ОГРАНИЧЕНИЕ МОЖЕТ НЕ ОТНОСИТЬСЯ К ВАМ, В СЛУЧАЕ ВАШЕЙ ОТВЕТСТВЕННОСТИ НЕ "
+"ОГРАНИЧИВАЕТСЯ СУЩЕННАЯ СРОК ГОДНОСТИ."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Персональная информация и заявление о конфиденциальности:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Вы обязуетесь соблюдать все применимые законы, правила, положения и "
+"руководящие принципы в отношении конфиденциальности и другие законы, "
+"касающиеся защиты, сбора, использования и распространения Лично "
+"идентифицируемой информации (как определено ниже) любого лица. Вы разместите"
+" заявление о конфиденциальности на странице, где вы собираете информацию, "
+"позволяющую установить личность («Заявление о конфиденциальности»), которое "
+"соответствует всем применимым законам, правилам, постановлениям и "
+"руководящим принципам и, как минимум, уведомляет пользователей о собранной "
+"информации, позволяющей установить личность, и о том, как она будут "
+"использоваться и как они будут защищены, и это определяет метод сбора (файлы"
+" cookie, веб-маяки или другие применимые средства) и использование "
+"информации, собранной в связи с Услугами, получение предварительного "
+"информированного согласия (выбор) перед использованием любого технологии "
+"отслеживания в той степени, в которой это требуется действующими законами и "
+"нормативными актами. Такое Заявление о конфиденциальности также должно "
+"включать техническую информацию, связанную со сбором, передачей и хранением "
+"Личной информации, предоставляемой нами через Услуги. Если это требуется "
+"действующим законодательством о защите данных или другим законом или "
+"нормативным актом, вы будете информировать третьи стороны о том, что вы "
+"предоставляете нам их Личную информацию для обработки, и гарантируете, что "
+"любые требуемые третьи стороны дали свое согласие на такое раскрытие и "
+"обработку. Вы соглашаетесь соблюдать описания и положения Заявления о "
+"конфиденциальности. «Лично идентифицирующая информация» означает любую "
+"информацию, которая может быть связана или отслежена с любым лицом, включая "
+"имя, адрес, номер телефона, адрес электронной почты, данные кредитной карты,"
+" номер социального страхования или другую аналогичную конкретную фактическую"
+" информацию, независимо от носители, на которых хранится такая информация "
+"(например, на бумаге или в электронном виде)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Разное:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Независимые стороны: Вы и CaseActive являются независимыми "
+"подрядчиками. Соглашение не создает каких-либо совместных, партнерских, "
+"агентских или трудовых отношений между сторонами. Вы несете единоличную "
+"ответственность за управление своими сотрудниками и за все без исключения "
+"компенсации, налоги, льготы и обязательства перед своими сотрудниками и "
+"любыми другими представителями или поставщиками услуг. Ни вы, ни кто-либо из"
+" ваших сотрудников, представителей или поставщиков услуг не должны делать "
+"никаких заявлений, гарантий или обязательств в отношении нас, Соглашения или"
+" Услуг, за исключением случаев, когда мы прямо разрешили это в письменной "
+"форме."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Передача: ни Соглашение, ни какие-либо из ваших прав или обязательств "
+"по Соглашению не могут быть переуступлены или переданы в силу закона или "
+"иным образом без нашего предварительного письменного согласия, если только "
+"они не переданы правопреемнику в интересах или в результате слияния, "
+"корпоративного права. реорганизация или продажа или передача всех или "
+"практически всех ваших активов, о которых вы предоставляете нам, по крайней "
+"мере, за тридцать (30) дней до совершения сделки. Назначение вами, "
+"основанное на любых других обстоятельствах, требует нашего предварительного "
+"согласия, которое не должно быть необоснованно скрыто. Мы можем свободно "
+"переуступать настоящее Соглашение без вашего согласия. С учетом "
+"вышеизложенного настоящее Соглашение связывает и действует в интересах "
+"сторон, их правопреемников и разрешенных правопреемников."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Форс-мажорные обстоятельства: Ни одна из сторон не будет нести "
+"ответственность за любые задержки, перерывы или другие неисполнения в "
+"соответствии с Соглашением из-за действий, не зависящих от ответственной "
+"стороны, но только до тех пор, пока такие условия сохраняются. Форс-мажорные"
+" события включают, но не ограничиваются: стихийные бедствия (например, "
+"молния, землетрясения, ураганы, наводнения); войны, беспорядки, "
+"террористическая деятельность и гражданские волнения; деятельность местного "
+"биржевого перевозчика и другие действия третьих лиц; взрывы и пожары; "
+"эмбарго, забастовки и трудовые споры; постановления правительства; сбои "
+"телекоммуникационных провайдеров или интернет-провайдеров; сбои сторонних "
+"поставщиков, поставщиков услуг или поставщиков; и любая другая причина вне "
+"разумного контроля стороны."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Выбор закона: Соглашение и любые споры, возникающие из или в связи с "
+"Соглашением, регулируются и толкуются в соответствии с законодательством "
+"штата Калифорния без учета принципов коллизионного права. Все споры, "
+"возникающие в связи с Соглашением или связанные с ним, подлежат "
+"исключительной юрисдикции и месту нахождения штата Калифорния и федеральных "
+"судов в Санта-Барбаре, штат Калифорния, и стороны соглашаются на личную и "
+"исключительную юрисдикцию этих судов."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 Электронная почта и уведомления. Вы также соглашаетесь с тем, что мы "
+"можем предоставлять вам любые и все уведомления, заявления и другие "
+"сообщения по электронной почте, почте, курьерской службой доставки или "
+"доставленные признанным коммерческим перевозчиком на адрес, указанный в "
+"последний раз. по соглашению. Вы несете ответственность за предоставление "
+"нам любой обновленной контактной информации."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Нет отказа; Совокупные средства правовой защиты: Ни одна из сторон не "
+"может осуществить отказ или задержку в осуществлении какого-либо права по "
+"настоящему Соглашению, что является отказом от этого права. За исключением "
+"случаев, прямо указанных в настоящем документе, средства правовой защиты, "
+"представленные в настоящем документе, являются дополнением и не исключают "
+"любые другие средства правовой защиты стороны по закону или по праву "
+"справедливости."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Делимость закон, а остальные положения настоящего Соглашения остаются в"
+" полной силе и действии."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Полнота соглашения: в максимальной степени, допускаемой применимым "
+"законодательством, настоящее Соглашение вместе с документами, на которые "
+"имеются ссылки в настоящем документе, и всеми формами заказа и процедурами "
+"регистрации, составляют полное соглашение между сторонами в отношении его "
+"предмета и заменяют все предыдущие и одновременные соглашения, предложения "
+"или заявления, письменные или устные, касающиеся предмета настоящего "
+"Соглашения. Никакие заявления, обязательства или обещания не должны "
+"приниматься или подразумеваться из всего, что было сказано или написано в "
+"ходе переговоров между сторонами до настоящего Соглашения, за исключением "
+"случаев, прямо указанных в настоящем Соглашении. Ни одна из сторон не должна"
+" иметь никаких средств правовой защиты в отношении любого неверного "
+"заявления, сделанного другой стороной, на которое эта сторона полагалась при"
+" заключении настоящего Соглашения (если такое неверное заявление не было "
+"сделано обманным путем), и что единственным средством правовой защиты в "
+"отношении любого неверного заявления является нарушение договора, как "
+"предусмотрено в настоящем Соглашении. Вы признаете и соглашаетесь с тем, что"
+" ваше соглашение по настоящему Соглашению не зависит от предоставления "
+"каких-либо будущих функциональных возможностей или функций, не указанных "
+"здесь или в Форме заказа, и не зависит от каких-либо устных или письменных, "
+"публичных или частных комментариев, сделанных нами в отношении будущих "
+"функциональных возможностей или функций. для услуг. В случае любого "
+"противоречия между положениями настоящих Общих условий обслуживания и любой "
+"формы заказа или дополнительных условий обслуживания, условия такой формы "
+"заказа или дополнительных условий обслуживания имеют преимущественную силу, "
+"если они противоречат друг другу. Никакие условия или положения, указанные в"
+" вашем заказе на поставку или в любой другой документации вашего заказа, не "
+"должны быть включены или составлять какую-либо часть настоящего Соглашения, "
+"и все такие условия не имеют юридической силы."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Экспорт. Обе стороны соглашаются соблюдать применимые законы и правила "
+"США об экспорте и импорте. Вы не должны разрешать своим пользователям доступ"
+" к Сервисам или их использование в нарушение какого-либо эмбарго, запрета "
+"или ограничений на экспорт США."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Публичность: Мы не можем называть вас как пользователя Сервисов без "
+"вашего письменного согласия."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Ссылки на сторонние сайты: Услуги или наш веб-сайт могут содержать "
+"ссылки на сторонние сайты («Связанные сайты»). Связанные сайты не находятся "
+"под нашим контролем, и мы не несем ответственности за содержимое любого "
+"Связанного сайта, включая, помимо прочего, любую ссылку, содержащуюся на "
+"Связанном сайте, или любые изменения или обновления Связанного сайта или "
+"Услуг, предоставляемых через Связанный сайт. Мы предоставляем вам эти ссылки"
+" только для удобства, и включение любой ссылки не означает, что мы одобряем "
+"сайт или какие-либо связанные с ним услуги."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12. Вы соглашаетесь получать электронные письма, телефонные звонки и SMS-"
+"сообщения от CaseActive для обновления вашего заказа и / или в маркетинговых"
+" целях. Частота сообщений зависит от вашей активности. Вы можете отказаться,"
+" сняв отметку с уведомлений в своей учетной записи или удалив свою учетную "
+"запись. Могут применяться тарифы на передачу сообщений и данных."
+
+msgid "An error occurred"
+msgstr "Произошла ошибка"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Что-то пошло не так. Наши инженеры были уведомлены. Нажмите кнопку "
+"перезагрузки, чтобы перезагрузить."
+
+msgid "Reload"
+msgstr "Перезагрузить"

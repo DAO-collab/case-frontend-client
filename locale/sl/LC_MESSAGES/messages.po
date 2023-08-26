@@ -1,0 +1,4455 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.368900\n"
+"PO-Revision-Date: 2017-11-15T09:43:36.210752\n"
+"Language: sl\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Izbrati morate slikovno datoteko."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Naložite dokument, ga označite za podpis, nato pa se odjemalec prijavi in "
+"podpiše. Vse se naredi, ne da bi naročnik moral priti v našo stavbo. To je "
+"priročno za stranke, ki niso blizu pisarne ali živijo zunaj države."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Direktor operacij kapitalskega zavarovanja"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Naši sodelavci se lahko prijavijo in si ogledajo osnovne informacije o tem, "
+"kako poteka zadevni primer. To je zelo povečalo naše napotitve primerov ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Partner odvetniške pisarne Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Klientov v pisarni ni več treba videti v pisarni za sestanke in podpisovanje"
+" dokumentov je vse zaključeno na spletu - briljantno !."
+
+msgid "CEO of EL Passion"
+msgstr "Izvršni direktor EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"S pomočjo API-ja smo na podlagi posebnih sprožilcev v našem obstoječem "
+"sistemu popolnoma avtomatizirali, kaj je bilo prikazano v viru primerov. "
+"Precej priročno .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "IT vodja odvetnikov za poškodbe Carterja Mario"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Imamo veliko večjezičnih strank, ki uporabljajo funkcijo prevajanja. "
+"Objavljamo sporočila z zaupanjem, da jih bodo vsi razumeli. To nam omogoča "
+"prehod iz lokalnega v globalno delo."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "Izvršni direktor Solid Rock Design"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Stranke imajo radi! Tako olajša njihovo življenje. Z nami lahko razpravljajo"
+" o problemih, naložijo fotografije in dokumente, vse pa je shranjeno tam, "
+"kjer si jih lahko ogledata tako ekipa kot stranka."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Partner podjetja Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Všeč nam je primer izdajanja računov, saj strankam omogoča, da natančno "
+"vidijo, za kaj plačajo."
+
+msgid "Vice President of Sky Digital"
+msgstr "Podpredsednik Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Navzkrižno komuniciranje je, kot če bi imeli vse svoje družbene medije in "
+"orodja za sodelovanje na enem mestu."
+
+msgid "Director Of Complaint Management"
+msgstr "Direktor za upravljanje s pritožbami"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Obrazci primerov nam omogočajo, da poslušamo in se učimo, kar nam pomaga "
+"povečati prodajo prek povratnih informacij strank."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Direktor prodaje Cain &amp; Company"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Uporabniški vmesnik je zelo podoben Facebooku. Izredno enostaven za uporabo "
+".."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Partner Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Pin je bil poslan na"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Send New Pin"
+msgstr "Pošlji nov PIN"
+
+msgid "Need Help?"
+msgstr "Rabim pomoč?"
+
+msgid "Click here to contact us"
+msgstr "Kliknite tukaj, da nas kontaktirate"
+
+msgid "Next"
+msgstr "Naslednji"
+
+msgid "Login or Signup"
+msgstr "Prijava ali prijava"
+
+msgid "Invalid email entered"
+msgstr "Vnesen je neveljaven e-poštni naslov"
+
+msgid "Processing..."
+msgstr "Obravnavati..."
+
+msgid "Made with"
+msgstr "Izdelano z"
+
+msgid "love"
+msgstr "Ljubezen"
+
+msgid "in New York City"
+msgstr "V New Yorku"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Vse pravice pridržane"
+
+msgid "Terms of Use"
+msgstr "Pogoji uporabe"
+
+msgid "Contact Us"
+msgstr "Kontaktiraj nas"
+
+msgid "Username"
+msgstr "Uporabniško ime"
+
+msgid "Code"
+msgstr "Koda"
+
+msgid "New Password"
+msgstr "novo geslo"
+
+msgid "Confirm Password"
+msgstr "potrdi geslo"
+
+msgid "Set Your New Password"
+msgstr "Nastavite novo geslo"
+
+msgid "A code has been sent to"
+msgstr "Koda je bila poslana na"
+
+msgid "Change Password"
+msgstr "Spremeni geslo"
+
+msgid "Changing..."
+msgstr "Zamenjati..."
+
+msgid "Login"
+msgstr "Vpiši se"
+
+msgid "Forgot password?"
+msgstr "Ste pozabili geslo?"
+
+msgid "Help"
+msgstr "Pomoč"
+
+msgid "Email or Phone"
+msgstr "E-pošta ali telefon"
+
+msgid "Reset Password"
+msgstr "Ponastavitev gesla"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Vnesite e-poštni naslov ali telefonsko številko, povezano z vašim računom, "
+"nato kliknite Pošlji. Po e-pošti ali besedilu vam bomo poslali povezavo do "
+"strani, kjer lahko preprosto ustvarite novo geslo."
+
+msgid "Request Code"
+msgstr "Zahtevna koda"
+
+msgid "Requesting..."
+msgstr "Zahteva ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE Kmalu prihaja"
+
+msgid "Create a free account"
+msgstr "Ustvarite brezplačen račun"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr "Zaključujemo. Ko bo pripravljen, vas bomo obvestili!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Do boljšega sodelovanja vas čaka nekaj minut."
+
+msgid "First Name"
+msgstr "Ime"
+
+msgid "Last Name"
+msgstr "Priimek"
+
+msgid "Email"
+msgstr "E-naslov"
+
+msgid "Company"
+msgstr "Podjetje"
+
+msgid "No language selected"
+msgstr "Noben jezik ni izbran"
+
+msgid "I agree with"
+msgstr "se strinjam z"
+
+msgid "Terms of Service"
+msgstr "Pogoji storitve"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Have at least one lower case character"
+msgstr "Imeti vsaj eno črko male črke"
+
+msgid "Have at least one capital letter"
+msgstr "Ima vsaj eno veliko začetnico"
+
+msgid "Have at least one number"
+msgstr "Imejte vsaj eno številko"
+
+msgid "Have at least 8 characters in length"
+msgstr "Dolžina ima najmanj 8 znakov"
+
+msgid "Type your current password"
+msgstr "Vnesite trenutno geslo"
+
+msgid "Passwords must match"
+msgstr "Geslo se mora ujemati"
+
+msgid "Domains"
+msgstr "Domene"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript je onemogočen. Prosimo, omogočite."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Piškotki so onemogočeni. Prosimo, omogočite."
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Create A New App"
+msgstr "Ustvari novo aplikacijo"
+
+msgid "Apps"
+msgstr "Aplikacije"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Izpisati"
+
+msgid "Hi"
+msgstr "Živjo"
+
+msgid "View your account"
+msgstr "Oglejte si svoj račun"
+
+msgid "View page"
+msgstr "Ogled strani"
+
+msgid "You don’t have any apps"
+msgstr "Nimate nobene aplikacije"
+
+msgid "App"
+msgstr "App"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Notifications"
+msgstr "Obvestila"
+
+msgid "No notifications yet."
+msgstr "Ni še obvestil."
+
+msgid "Today"
+msgstr "Danes"
+
+msgid "Last Week"
+msgstr "Prejšnji teden"
+
+msgid "No timezone selected"
+msgstr "Noben časovni pas ni izbran"
+
+msgid "Complete profile to continue"
+msgstr "Za nadaljevanje profil dokončajte"
+
+msgid "Timezone"
+msgstr "Časovni pas"
+
+msgid "Update"
+msgstr "Nadgradnja"
+
+msgid "Website:"
+msgstr "Spletna stran:"
+
+msgid "Homepage:"
+msgstr "Domača stran:"
+
+msgid "Approve Access"
+msgstr "Odobrite dostop"
+
+msgid "Info"
+msgstr "Informacije"
+
+msgid "Permissions"
+msgstr "Dovoljenja"
+
+msgid "Billing"
+msgstr "Obračunavanje"
+
+msgid "Payment Plan"
+msgstr "Plačilni načrt"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "has access to your information below:"
+msgstr "ima dostop do vaših podatkov spodaj:"
+
+msgid "has invited you to their client portal."
+msgstr "vas je povabil na njihov portal za stranke."
+
+msgid "want access to the following information:"
+msgstr "želite dostop do naslednjih informacij:"
+
+msgid "Decline"
+msgstr "Zavrni"
+
+msgid "Remove Access"
+msgstr "Odstrani dostop"
+
+msgid "Active"
+msgstr "Aktiven"
+
+msgid "Invites"
+msgstr "Vabi"
+
+msgid "Disabled"
+msgstr "Onemogočeno"
+
+msgid "No apps found"
+msgstr "Najdena ni nobena aplikacija"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "uporabnika"
+
+msgid "manager"
+msgstr "upravitelj"
+
+msgid "active"
+msgstr "Aktiven"
+
+msgid "inactive"
+msgstr "Neaktivno"
+
+msgid "Company Name"
+msgstr "ime podjetja"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Status"
+msgstr "Stanje"
+
+msgid "Invitation"
+msgstr "vabilo"
+
+msgid "About App"
+msgstr "O aplikaciji"
+
+msgid "Billing Info"
+msgstr "Informacije o obračunu"
+
+msgid "Your Company Name"
+msgstr "Ime vašega podjetja"
+
+msgid "Your Company Website"
+msgstr "Vaša spletna stran podjetja"
+
+msgid "Saving..."
+msgstr "Shranjevanje ..."
+
+msgid "Billing Information"
+msgstr "Podatki za obračun"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Dodajte ID APP, ki ga je zagotovilo podjetje"
+
+msgid "Select an option"
+msgstr "Izberite možnost"
+
+msgid "Join an existing app as a client"
+msgstr "Pridružite se obstoječi aplikaciji kot odjemalec"
+
+msgid "Create a new app for my business"
+msgstr "Ustvari novo aplikacijo za moje podjetje"
+
+msgid "Create Domain"
+msgstr "Ustvari domeno"
+
+msgid "Select enterprise app"
+msgstr "Izberite aplikacijo podjetja"
+
+msgid "No item selected"
+msgstr "Izbran ni noben element"
+
+msgid "Domain name"
+msgstr "Domena"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "No enterprise app found"
+msgstr "Ni najdene poslovne aplikacije"
+
+msgid "Pending"
+msgstr "V teku"
+
+msgid "No domains found"
+msgstr "Ni najdenih domen"
+
+msgid "Domain"
+msgstr "Domena"
+
+msgid "Txt Value"
+msgstr "Txt vrednost"
+
+msgid "Enterprise Host ID"
+msgstr "ID gostitelja podjetja"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Akcija"
+
+msgid "Delete"
+msgstr "Izbriši"
+
+msgid "Reset"
+msgstr "Ponastaviti"
+
+msgid "Allow Manual Sign In"
+msgstr "Dovoli ročno prijavo"
+
+msgid "Exclude Emails From SSO"
+msgstr "Izključi e-pošto iz SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Metapodatki ponudnika identitete SAML"
+
+msgid "Submit"
+msgstr "Pošlji"
+
+msgid "Profile photo"
+msgstr "Fotografija profila"
+
+msgid "Uploading..."
+msgstr "Nalaganje ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "je zahteval drug račun, prosimo, spremenite ga ali"
+
+msgid "reclaim"
+msgstr "vračilo"
+
+msgid "it"
+msgstr "to"
+
+msgid "pending verification:"
+msgstr "preverjanje v teku:"
+
+msgid "verify"
+msgstr "preveri"
+
+msgid "Phone Number"
+msgstr "Telefonska številka"
+
+msgid "Current Password"
+msgstr "trenutno geslo"
+
+msgid "Change password"
+msgstr "Spremeni geslo"
+
+msgid "No gender selected"
+msgstr "Noben spol ni izbran"
+
+msgid "Company Title"
+msgstr "Naslov podjetja"
+
+msgid "Address"
+msgstr "Naslov"
+
+msgid "Address 2"
+msgstr "naslov 2"
+
+msgid "City/Locality"
+msgstr "Mesto / lokacija"
+
+msgid "State/Region"
+msgstr "Država / regija"
+
+msgid "No country selected"
+msgstr "Nobena država ni izbrana"
+
+msgid "Zip/Postal Code"
+msgstr "Poštna številka"
+
+msgid "Basic"
+msgstr "Osnovno"
+
+msgid "Date of Birth"
+msgstr "Datum rojstva"
+
+msgid "Gender"
+msgstr "Spol"
+
+msgid "Occupation"
+msgstr "Poklic"
+
+msgid "Location"
+msgstr "Lokacija"
+
+msgid "Address is not valid"
+msgstr "Naslov ni veljaven"
+
+msgid "City/Locality is not valid"
+msgstr "Mesto / kraj ni veljaven"
+
+msgid "Country"
+msgstr "Država"
+
+msgid "State/Region is not valid"
+msgstr "Država / regija ni veljavna"
+
+msgid "Contact Info"
+msgstr "Kontaktne informacije"
+
+msgid "Language & Region"
+msgstr "Jezik in regija"
+
+msgid "Saving"
+msgstr "Shranjevanje"
+
+msgid "Verify Your"
+msgstr "Preverite svoje"
+
+msgid "Verification Code"
+msgstr "Koda za preverjanje"
+
+msgid "Resend Code"
+msgstr "Ponovno pošlji kodo"
+
+msgid "Resending"
+msgstr "Ponovitev"
+
+msgid "Verify"
+msgstr "Preveri"
+
+msgid "Verifying..."
+msgstr "Preverjanje ..."
+
+msgid "Later"
+msgstr "Kasneje"
+
+msgid "We're here to help"
+msgstr "Tukaj smo, da pomagamo"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Hvala, ker ste se obrnili na nas. Vaše sporočilo je bilo uspešno poslano. "
+"Kmalu bomo stopili v stik z vami!"
+
+msgid "Message"
+msgstr "Sporočilo"
+
+msgid "characters left"
+msgstr "znakov levo"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Pošlji"
+
+msgid "Sending..."
+msgstr "Pošiljanje ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "S seznama ne boste več prejemali e-poštnega trženja."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr "Če imate trenutek, nam sporočite, zakaj ste se odjavili:"
+
+msgid "Return to our website"
+msgstr "Vrnite se na našo spletno stran"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Hvala vam. Vaš odgovor je bil poslan."
+
+msgid "No Cases"
+msgstr "Ne zadeve"
+
+msgid "Layout"
+msgstr "Postavitev"
+
+msgid "Gallery"
+msgstr "Galerija"
+
+msgid "Speaker"
+msgstr "Zvočnik"
+
+msgid "This case has been closed"
+msgstr "Ta primer je bil zaključen"
+
+msgid "Feed"
+msgstr "Krma"
+
+msgid "Images"
+msgstr "Slike"
+
+msgid "Docs"
+msgstr "Dokumenti"
+
+msgid "Audios"
+msgstr "Audios"
+
+msgid "Videos"
+msgstr "Video posnetki"
+
+msgid "Files"
+msgstr "Datoteke"
+
+msgid "Events"
+msgstr "Dogodki"
+
+msgid "Forms"
+msgstr "Obrazci"
+
+msgid "E-signs"
+msgstr "E-znaki"
+
+msgid "Invoices"
+msgstr "Računi"
+
+msgid "Notes"
+msgstr "Opombe"
+
+msgid "Tasks"
+msgstr "Naloge"
+
+msgid "Convo"
+msgstr "Convo"
+
+msgid "Great job!"
+msgstr "Odlično opravljeno!"
+
+msgid "You did all"
+msgstr "Vse si naredil"
+
+msgid "the tasks"
+msgstr "naloge"
+
+msgid "Media"
+msgstr "Mediji"
+
+msgid "Skip to navigation (n)"
+msgstr "Preskoči na navigacijo (n)"
+
+msgid "Skip to content (c)"
+msgstr "Preskoči na vsebino (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Preskoči na nogo (f)"
+
+msgid "Case"
+msgstr "Ovitek"
+
+msgid "Search"
+msgstr "Iskanje"
+
+msgid "Using Form Builder"
+msgstr "Uporaba graditelja obrazcev"
+
+msgid "Using Forms Library"
+msgstr "Uporaba knjižnice obrazcev"
+
+msgid "Using E-sign Builder"
+msgstr "Uporaba programa E-sign Builder"
+
+msgid "Using E-signs Library"
+msgstr "Uporaba knjižnice e-znakov"
+
+msgid "Documents"
+msgstr "Dokumenti"
+
+msgid "Create Note"
+msgstr "Ustvari opombo"
+
+msgid "Edit Note"
+msgstr "Uredi opombo"
+
+msgid "End Convo"
+msgstr "Končaj pogovor"
+
+msgid "Create Form"
+msgstr "Ustvari obrazec"
+
+msgid "Create Sign"
+msgstr "Ustvari znak"
+
+msgid "Event Create"
+msgstr "Ustvari dogodek"
+
+msgid "Convo Videos"
+msgstr "Convo videoposnetki"
+
+msgid "Convo Audios"
+msgstr "Convo Audios"
+
+msgid "Cases"
+msgstr "Primeri"
+
+msgid "Case categories"
+msgstr "Kategorije primerov"
+
+msgid "Your team"
+msgstr "Vaša ekipa"
+
+msgid "To do"
+msgstr "Narediti"
+
+msgid "To Do:"
+msgstr "Narediti:"
+
+msgid "Case Categories"
+msgstr "Kategorije primerov"
+
+msgid "Your Team"
+msgstr "Vaša ekipa"
+
+msgid "To Do"
+msgstr "Narediti"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "Publish"
+msgstr "Objavi"
+
+msgid "Visibility"
+msgstr "Vidljivost"
+
+msgid "all"
+msgstr "vse"
+
+msgid "sign"
+msgstr "znak"
+
+msgid "Page"
+msgstr "Stran"
+
+msgid "of"
+msgstr "od"
+
+msgid "Processing"
+msgstr "Obravnavati"
+
+msgid "failed."
+msgstr "ni uspelo."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Vrednost mora biti večja ali enaka 1"
+
+msgid "Repeat end:"
+msgstr "Konec ponovitve:"
+
+msgid "Signature"
+msgstr "Podpis"
+
+msgid "Draw"
+msgstr "Žrebanje"
+
+msgid "Write"
+msgstr "Pišite"
+
+msgid "Clear Signature"
+msgstr "Jasen podpis"
+
+msgid "Still processing video..."
+msgstr "Še vedno obdelujem video ..."
+
+msgid "You"
+msgstr "Ti"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Izbrisali boste vir. Ali si prepričan?"
+
+msgid "No convo audios yet"
+msgstr "Zvokov konvojev še ni"
+
+msgid "No convo videos yet"
+msgstr "Videoposnetkov konvojev še ni"
+
+msgid "Start Convo"
+msgstr "Zaženi Convo"
+
+msgid "Notify the Host"
+msgstr "Obvesti gostitelja"
+
+msgid "is in the call"
+msgstr "je v klicu"
+
+msgid "and"
+msgstr "in"
+
+msgid "others are in the call"
+msgstr "drugi so v klicu"
+
+msgid "Audio call is being recorded"
+msgstr "Avdio klic se snema"
+
+msgid "Video call is being recorded"
+msgstr "Video klic se snema"
+
+msgid "Join now"
+msgstr "Pridruži se zdaj"
+
+msgid "Dismiss"
+msgstr "Odpusti"
+
+msgid "Can’t find your "
+msgstr "Vašega ni mogoče najti"
+
+msgid "microphone"
+msgstr "mikrofon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Preverite sistemske nastavitve, da se prepričate o tem"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"Na voljo. Če ne, ga priključite. Morda boste morali znova zagnati brskalnik."
+
+msgid "web camera"
+msgstr "spletna kamera"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Začeli boste Convo klic. Začeti z:"
+
+msgid "Video & Audio"
+msgstr "Video in avdio"
+
+msgid "Audio Only"
+msgstr "Samo zvok"
+
+msgid "Record the meeting"
+msgstr "Posnemite sestanek"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Čakanje na nekoga z dovoljenjem, da začne klic Convo"
+
+msgid "Add Ticket"
+msgstr "Dodaj vstopnico"
+
+msgid "Title"
+msgstr "Naslov"
+
+msgid "Open"
+msgstr "Odprto"
+
+msgid "Closed"
+msgstr "Zaprto"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Zaprli boste vstopnico. Ali si prepričan?"
+
+msgid "Announcements"
+msgstr "Obvestila"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Opened"
+msgstr "Odprto"
+
+msgid "View"
+msgstr "Pogled"
+
+msgid "Locations"
+msgstr "Lokacije"
+
+msgid "You currently have no announcements."
+msgstr "Trenutno nimate nobenih objav."
+
+msgid "You currently have no"
+msgstr "Trenutno nimate št"
+
+msgid "open cases. Click"
+msgstr "odprti primeri. Kliknite"
+
+msgid "here"
+msgstr "tukaj"
+
+msgid "to contact support."
+msgstr "za stik s podporo."
+
+msgid "closed cases."
+msgstr "zaprti primeri."
+
+msgid "open tickets."
+msgstr "odprte vstopnice."
+
+msgid "closed tickets."
+msgstr "zaprte vstopnice."
+
+msgid "You currently have no locations."
+msgstr "Trenutno nimate nobene lokacije."
+
+msgid "Write a comment...."
+msgstr "Napišite komentar ...."
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Add Location"
+msgstr "Dodaj lokacijo"
+
+msgid "Save Event"
+msgstr "Shrani dogodek"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Start Date"
+msgstr "Začetni datum"
+
+msgid "Start Time"
+msgstr "Začetni čas"
+
+msgid "End Date"
+msgstr "Končni datum"
+
+msgid "End Time"
+msgstr "Konec časa"
+
+msgid "Repeat"
+msgstr "Ponovite"
+
+msgid "Attendees"
+msgstr "Udeleženci"
+
+msgid "Event Location"
+msgstr "Lokacija dogodka"
+
+msgid "Link"
+msgstr "Povezava"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Attending"
+msgstr "Udeležba"
+
+msgid "Add to calendar"
+msgstr "Dodaj v koledar"
+
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgid "Event by"
+msgstr "Dogodek od"
+
+msgid "Duration:"
+msgstr "Trajanje:"
+
+msgid "more"
+msgstr "več"
+
+msgid "Maybe"
+msgstr "Mogoče"
+
+msgid "Not Attending"
+msgstr "Ne prisoten"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "CaseActive Convo"
+msgstr "CaseActive Convo"
+
+msgid "Video Conference"
+msgstr "Video konferenca"
+
+msgid "Event details"
+msgstr "Podrobnosti dogodka"
+
+msgid "You don't have permissions to view this page."
+msgstr "Nimate dovoljenja za ogled te strani."
+
+msgid "Your Upcoming Events"
+msgstr "Vaši prihodnji dogodki"
+
+msgid "Upcoming"
+msgstr "Prihaja"
+
+msgid "Your Past Events"
+msgstr "Vaši pretekli dogodki"
+
+msgid "Past"
+msgstr "preteklost"
+
+msgid "Your Events"
+msgstr "Vaši dogodki"
+
+msgid "All"
+msgstr "Vse"
+
+msgid "All Events"
+msgstr "Vsi dogodki"
+
+msgid "Directions"
+msgstr "Navodila"
+
+msgid "Edit settings"
+msgstr "Uredite nastavitve"
+
+msgid "Delete event"
+msgstr "Izbriši dogodek"
+
+msgid "Attending?"
+msgstr "Udeležite se?"
+
+msgid "No Events"
+msgstr "Ni dogodkov"
+
+msgid "more comment(s)"
+msgstr "več komentarjev"
+
+msgid "Loading comments"
+msgstr "Nalaganje komentarjev"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Izbrisali boste komentar. Ali si prepričan?"
+
+msgid "task"
+msgstr "naloga"
+
+msgid "to do"
+msgstr "narediti"
+
+msgid "tasks"
+msgstr "naloge"
+
+msgid "Write something..."
+msgstr "Napisati nekaj..."
+
+msgid "Attach File"
+msgstr "Priložite datoteko"
+
+msgid "From Template"
+msgstr "Iz predloge"
+
+msgid "No feeds yet."
+msgstr "Še ni virov."
+
+msgid "comments"
+msgstr "komentarji"
+
+msgid "comment"
+msgstr "komentar"
+
+msgid "Add a comment"
+msgstr "Dodaj komentar"
+
+msgid "Template"
+msgstr "Predloga"
+
+msgid "No templates"
+msgstr "Brez predlog"
+
+msgid "Done"
+msgstr "Končano"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Izberite člane, ki morajo izpolniti ta obrazec"
+
+msgid "Update Form"
+msgstr "Posodobite obrazec"
+
+msgid "Due Date"
+msgstr "Datum zapadlosti"
+
+msgid "Due Time"
+msgstr "Rok"
+
+msgid "Loading..."
+msgstr "Nalaganje..."
+
+msgid "Preview"
+msgstr "Predogled"
+
+msgid "Save & Close"
+msgstr "Shrani in zapri"
+
+msgid "Add an element"
+msgstr "Dodajte element"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Mediji se pretvarjajo. Ko bo pripravljen, vas bomo obvestili"
+
+msgid "Add "
+msgstr "Dodaj"
+
+msgid "Field"
+msgstr "Polje"
+
+msgid "Edit "
+msgstr "Uredi"
+
+msgid "Text"
+msgstr "Besedilo"
+
+msgid "Sub Text"
+msgstr "Podbesedilo"
+
+msgid "Format"
+msgstr "Oblika"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr ""
+"Pretvorba predstavnosti ni uspela. Izbrišite in poskusite znova ali drugo."
+
+msgid "Pages"
+msgstr "strani"
+
+msgid "Saved"
+msgstr "Shranjeno"
+
+msgid "Insert"
+msgstr "Vstavi"
+
+msgid "Elements"
+msgstr "Elementi"
+
+msgid "Action Required"
+msgstr "Zahtevano dejanje"
+
+msgid "Add a new page"
+msgstr "Dodajte novo stran"
+
+msgid "Blank page"
+msgstr "Prazna stran"
+
+msgid "From PDF"
+msgstr "Iz PDF-ja"
+
+msgid "From image"
+msgstr "Iz slike"
+
+msgid "Add PDF"
+msgstr "Dodajte PDF"
+
+msgid "Add Image"
+msgstr "Dodaj sliko"
+
+msgid "Options"
+msgstr "Opcije"
+
+msgid "Column Names"
+msgstr "Imena stolpcev"
+
+msgid "Option already exists."
+msgstr "Možnost že obstaja."
+
+msgid "options list is empty"
+msgstr "Seznam opcij je prazen"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Polje potrditvenih polj podpira samo 5 možnosti. Če želite dodati več "
+"možnosti, lahko polje spremenite v spustni meni"
+
+msgid "columns list is empty"
+msgstr "seznam stolpcev je prazen"
+
+msgid "Default Value"
+msgstr "Privzeta vrednost"
+
+msgid "Delete row"
+msgstr "Izbriši vrstico"
+
+msgid "Add a new row"
+msgstr "Dodajte novo vrstico"
+
+msgid "Download"
+msgstr "Prenesi"
+
+msgid "Label"
+msgstr "Oznaka"
+
+msgid "Question"
+msgstr "vprašanje"
+
+msgid "Default answer"
+msgstr "Privzeti odgovor"
+
+msgid "Media is converting"
+msgstr "Mediji se pretvarjajo"
+
+msgid "Send Form"
+msgstr "Pošlji obrazec"
+
+msgid "Form Submited."
+msgstr "Obrazec Submited."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Nimate dovoljenj za pošiljanje obrazcev."
+
+msgid "You currently have no forms of your own"
+msgstr "Trenutno nimate svojih obrazcev"
+
+msgid "Your Uncompleted Forms"
+msgstr "Vaši nedokončani obrazci"
+
+msgid "Uncompleted"
+msgstr "Nedokončano"
+
+msgid "Your Completed Forms"
+msgstr "Izpolnjeni obrazci"
+
+msgid "Completed"
+msgstr "Dokončano"
+
+msgid "Your Forms"
+msgstr "Vaše obrazce"
+
+msgid "All Forms"
+msgstr "Vsi obrazci"
+
+msgid "Form Title"
+msgstr "Naslov obrazca"
+
+msgid "Author"
+msgstr "Avtor"
+
+msgid "Published"
+msgstr "Objavljeno"
+
+msgid "Submissions"
+msgstr "Oddaje"
+
+msgid "No Forms"
+msgstr "Brez obrazcev"
+
+msgid "Upload Form Document"
+msgstr "Naloži dokument z obrazcem"
+
+msgid "Forms Library"
+msgstr "Knjižnica obrazcev"
+
+msgid "No Forms In Library"
+msgstr "Ni obrazcev v knjižnici"
+
+msgid "Answers"
+msgstr "Odgovori"
+
+msgid "Close - Status changed"
+msgstr "Zapri - Status je spremenjen"
+
+msgid "Change Status"
+msgstr "Spremeni stanje"
+
+msgid "Case Number"
+msgstr "Številka primera"
+
+msgid "Tag Id"
+msgstr "ID oznake"
+
+msgid "Date Opened"
+msgstr "Datum odprtja"
+
+msgid "Host Id"
+msgstr "ID gostitelja"
+
+msgid "User Id"
+msgstr "Uporabniško ime"
+
+msgid "Case Id"
+msgstr "Id. primera"
+
+msgid "Confirm your details"
+msgstr "Potrdite svoje podatke"
+
+msgid "Form Submitted."
+msgstr "Obrazec oddan."
+
+msgid "Invoice"
+msgstr "Račun"
+
+msgid "PO No:"
+msgstr "Št. naročilnice:"
+
+msgid "Reference ID:"
+msgstr "Referenčni ID:"
+
+msgid "Term:"
+msgstr "termin:"
+
+msgid "Note:"
+msgstr "Opomba:"
+
+msgid "QTY"
+msgstr "KOL"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Add more"
+msgstr "Dodaj Več"
+
+msgid "Subtotal($)"
+msgstr "Vmesni seštevek ($)"
+
+msgid "Discount(%)"
+msgstr "Popust (%)"
+
+msgid "TAX(%)"
+msgstr "DAVEK(%)"
+
+msgid "Total($)"
+msgstr "Skupaj ($)"
+
+msgid "Invoice No"
+msgstr "Št. računa"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Izberite člane, ki si morajo ogledati ali plačati ta račun"
+
+msgid "Update Invoice"
+msgstr "Posodobite račun"
+
+msgid "Create Invoice"
+msgstr "Ustvari račun"
+
+msgid "PO No."
+msgstr "PO št."
+
+msgid "Reference ID"
+msgstr "Referenčni ID"
+
+msgid "Term"
+msgstr "Termin"
+
+msgid "Note"
+msgstr "Opomba"
+
+msgid "Quantity"
+msgstr "Količina"
+
+msgid "Price ($)"
+msgstr "Cena ($)"
+
+msgid "Subtotal ($)"
+msgstr "Vmesni seštevek ($)"
+
+msgid "Discount (%)"
+msgstr "Popust (%)"
+
+msgid "Tax (%)"
+msgstr "davek (%)"
+
+msgid "Total ($)"
+msgstr "Skupaj ($)"
+
+msgid "Pay Invoice"
+msgstr "Plačajte račun"
+
+msgid "Payment method"
+msgstr "Način plačila"
+
+msgid "Add a new payment method"
+msgstr "Dodajte novo plačilno sredstvo"
+
+msgid "Summary"
+msgstr "Povzetek"
+
+msgid "Payment:"
+msgstr "Plačilo:"
+
+msgid "Total charge:"
+msgstr "Skupni znesek:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Vaši neplačani računi"
+
+msgid "Unpaid"
+msgstr "Neplačano"
+
+msgid "Your Paid Invoices"
+msgstr "Vaši plačani računi"
+
+msgid "Paid"
+msgstr "Plačano"
+
+msgid "Your Invoices"
+msgstr "Vaši računi"
+
+msgid "All Invoices"
+msgstr "Vsi računi"
+
+msgid "Invoice Title"
+msgstr "Naslov računa"
+
+msgid "No Invoices"
+msgstr "Brez računov"
+
+msgid "No Audios yet."
+msgstr "Ni še zvočnih posnetkov."
+
+msgid "Loading failed."
+msgstr "Nalaganje ni uspelo."
+
+msgid "retry"
+msgstr "znova poskusi"
+
+msgid "No documents yet."
+msgstr "Dokumentov še ni."
+
+msgid "No Files yet."
+msgstr "Ni še datotek."
+
+msgid "No Images yet."
+msgstr "Ni še slik."
+
+msgid "No Videos yet."
+msgstr "Ni še videoposnetkov."
+
+msgid "Page Not Found"
+msgstr "Stran ni najdena"
+
+msgid "Attachments"
+msgstr "Priloge"
+
+msgid "Note View"
+msgstr "Pogled opombe"
+
+msgid "No Notes"
+msgstr "Brez opomb"
+
+msgid "Select the person to answer this field"
+msgstr "Izberite osebo, ki bo odgovorila na to polje"
+
+msgid "Create E-sign"
+msgstr "Ustvari E-znak"
+
+msgid "Update E-signs"
+msgstr "Posodobite e-znake"
+
+msgid "Signs"
+msgstr "Znaki"
+
+msgid "Add Field"
+msgstr "Dodaj polje"
+
+msgid "Edit Field"
+msgstr "Uredi polje"
+
+msgid "Send E-sign"
+msgstr "Pošlji E-podpis"
+
+msgid "E-sign Submitted."
+msgstr "E-podpis Predan."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Nimate dovoljenj za oddajo e-znakov."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Trenutno nimate svojih E-znakov"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Vaši nedokončani E-znaki"
+
+msgid "Your Completed E-signs"
+msgstr "Vaši izpolnjeni E-podpisi"
+
+msgid "Your Signs"
+msgstr "Vaši znaki"
+
+msgid "All E-signs"
+msgstr "Vsi E-znaki"
+
+msgid "E-sign Title"
+msgstr "E-znak Naslov"
+
+msgid "No E-signs"
+msgstr "Brez E-znakov"
+
+msgid "E-Signs Library"
+msgstr "Knjižnica e-znakov"
+
+msgid "No E-signs In Library"
+msgstr "V knjižnici ni e-znakov"
+
+msgid "Upload E-sign Document"
+msgstr "Naložite dokument z e-podpisom"
+
+msgid "Update Task"
+msgstr "Naloga posodobitve"
+
+msgid "Create Task"
+msgstr "Ustvari nalogo"
+
+msgid "You currently have no tasks of your own"
+msgstr "Trenutno nimate lastnih nalog"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Vaše nedokončane naloge"
+
+msgid "Your Completed Tasks"
+msgstr "Vaše opravljene naloge"
+
+msgid "Your Tasks"
+msgstr "Vaše naloge"
+
+msgid "All Tasks"
+msgstr "Vse naloge"
+
+msgid "Task"
+msgstr "Naloga"
+
+msgid "Deadline"
+msgstr "Rok"
+
+msgid "Assignees"
+msgstr "Prejemniki"
+
+msgid "In Progress"
+msgstr "V delu"
+
+msgid "Delete task"
+msgstr "Izbriši nalogo"
+
+msgid "No Tasks"
+msgstr "Brez nalog"
+
+msgid "wants access"
+msgstr "želi dostop"
+
+msgid "No Answers"
+msgstr "Ni odgovorov"
+
+msgid "Select Field Type"
+msgstr "Izberite Vrsta polja"
+
+msgid "Text Only"
+msgstr "Samo besedilo"
+
+msgid "Multiple Line Text"
+msgstr "Več vrstično besedilo"
+
+msgid "Dropdown"
+msgstr "Padajoče"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Potrdila"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "Yes/No"
+msgstr "Da / Ne"
+
+msgid "Number"
+msgstr "Številka"
+
+msgid "Access Denied"
+msgstr "Dostop zavrnjen"
+
+msgid "You don't have access to this case."
+msgstr "Nimate dostopa do tega primera."
+
+msgid "Imports"
+msgstr "Uvoz"
+
+msgid "View import"
+msgstr "Ogled uvoza"
+
+msgid "Sessions"
+msgstr "Seje"
+
+msgid "Home"
+msgstr "domov"
+
+msgid "Users"
+msgstr "Uporabniki"
+
+msgid "Library"
+msgstr "Knjižnica"
+
+msgid "Integration"
+msgstr "Integracija"
+
+msgid "Settings"
+msgstr "Nastavitve"
+
+msgid "Webhooks"
+msgstr "Spletne kljuke"
+
+msgid "Keys"
+msgstr "Ključi"
+
+msgid "Feed Templates"
+msgstr "Predloge za vir"
+
+msgid "Form Templates"
+msgstr "Predloge obrazcev"
+
+msgid "E-sign Templates"
+msgstr "Predloge za e-znak"
+
+msgid "Task Templates"
+msgstr "Predloge nalog"
+
+msgid "Dashboard"
+msgstr "Nadzorna plošča"
+
+msgid "Payments"
+msgstr "Plačila"
+
+msgid "From"
+msgstr "Od"
+
+msgid "To"
+msgstr "Da"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "User Intake"
+msgstr "Uporabniški vnos"
+
+msgid "Custom Fields"
+msgstr "Polja po meri"
+
+msgid "After Actions"
+msgstr "Po dejanjih"
+
+msgid "Advance Settings"
+msgstr "Napredne nastavitve"
+
+msgid "Label Name"
+msgstr "Ime oznake"
+
+msgid "Fields"
+msgstr "Polja"
+
+msgid "Tag ID"
+msgstr "ID oznake"
+
+msgid "Have many users?"
+msgstr "Imate veliko uporabnikov?"
+
+msgid "Import users"
+msgstr "Uvozite uporabnike"
+
+msgid "or"
+msgstr "oz"
+
+msgid "Send them a signup link."
+msgstr "Pošljite jim povezavo za prijavo."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Začnimo z vnosom elektronske pošte ali telefonske številke"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Invalid phone number entered"
+msgstr "Vnesena neveljavna telefonska številka"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr "Oznaka za enostavno iskanje primera. kasneje je ni mogoče spremeniti"
+
+msgid "Visibility:"
+msgstr "Vidljivost:"
+
+msgid "Who can use this template"
+msgstr "Kdo lahko uporablja to predlogo"
+
+msgid "One time"
+msgstr "Enkrat"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Preden nadaljujete, vnesite veljavne podatke za plačilo"
+
+msgid "Add Payment"
+msgstr "Dodaj plačilo"
+
+msgid "Repeat every:"
+msgstr "Ponovite vsako:"
+
+msgid "Let's get started"
+msgstr "Začnimo"
+
+msgid "Take me there"
+msgstr "Pelji me tja"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Onboarding"
+msgstr "Na vkrcanje"
+
+msgid "Created on"
+msgstr "Ustvarjeno dne"
+
+msgid "Expires on"
+msgstr "Poteče"
+
+msgid "No announcements yet."
+msgstr "Ni še obvestil."
+
+msgid "Add Announcement"
+msgstr "Dodaj obvestilo"
+
+msgid "Edit Announcement"
+msgstr "Uredi obvestilo"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Datum in ura morata biti vsaj eno uro naprej"
+
+msgid "Delete Date"
+msgstr "Izbriši datum"
+
+msgid "Delete Time"
+msgstr "Izbriši čas"
+
+msgid "Back"
+msgstr "Nazaj"
+
+msgid "No Users Found"
+msgstr "Uporabnikov ni bilo mogoče najti"
+
+msgid "No role selected"
+msgstr "Izbrana ni nobena vloga"
+
+msgid "No permissions added!"
+msgstr "Ni dodanih dovoljenj!"
+
+msgid "ASSIGNED USERS"
+msgstr "DODELJENI UPORABNIKI"
+
+msgid "CASE PERMISSIONS"
+msgstr "DOVOLJENJA PRIMEROV"
+
+msgid "User ID"
+msgstr "Uporabniško ime"
+
+msgid "Role"
+msgstr "Vloga"
+
+msgid "remove"
+msgstr "Odstrani"
+
+msgid "Assign User"
+msgstr "Dodeli uporabnika"
+
+msgid "User"
+msgstr "Uporabnik"
+
+msgid "ADD USER"
+msgstr "DODAJ UPORABNIKA"
+
+msgid "Email user about case assignment"
+msgstr "Pošiljanje e-pošte uporabniku o dodelitvi primerov"
+
+msgid "Keyword"
+msgstr "Ključna beseda"
+
+msgid "No cases found."
+msgstr "Ne najdemo primerov."
+
+msgid "Create a case for a business"
+msgstr "Ustvarite primer za podjetje"
+
+msgid "Case ID"
+msgstr "ID primera"
+
+msgid "Created On"
+msgstr "Ustvarjeno"
+
+msgid "Case Status"
+msgstr "Stanje zadeve"
+
+msgid "Case Type"
+msgstr "Vrsta ohišja"
+
+msgid "Assign Users"
+msgstr "Dodeli uporabnike"
+
+msgid "No cases found"
+msgstr "Ne najdemo primerov"
+
+msgid "Have many cases?"
+msgstr "Imate veliko primerov?"
+
+msgid "Click here to import cases."
+msgstr "Kliknite tukaj za uvoz primerov."
+
+msgid "No status selected"
+msgstr "Noben status ni izbran"
+
+msgid "No type selected"
+msgstr "Izbrana ni nobena vrsta"
+
+msgid "Case Info"
+msgstr "Info o primeru"
+
+msgid "About"
+msgstr "O podjetju"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Trajna nalepka za preprosto iskanje ohišja. (a-z, 0-9, -, /) so dovoljeni"
+
+msgid "Case Types"
+msgstr "Vrste primerov"
+
+msgid "Click"
+msgstr "Kliknite"
+
+msgid "to edit case types"
+msgstr "za urejanje vrst primerov"
+
+msgid "No Type selected"
+msgstr "Vrsta ni izbrana"
+
+msgid "Case not found!"
+msgstr "Primer ni našel!"
+
+msgid "Media Size"
+msgstr "Velikost medija"
+
+msgid "All statistics"
+msgstr "Vsa statistika"
+
+msgid "Import not found."
+msgstr "Uvoza ni mogoče najti."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Obdelava datoteke ni uspela. Prepričajte se, da je vrsta datoteke CSV in da "
+"vsebuje pravilne glave"
+
+msgid "Data"
+msgstr "Podatki"
+
+msgid "No Imports yet."
+msgstr "Uvoza še ni."
+
+msgid "Source"
+msgstr "Vir"
+
+msgid "Stats"
+msgstr "Statistika"
+
+msgid "Passed:"
+msgstr "Opravljeno:"
+
+msgid "Failed:"
+msgstr "Ni uspelo:"
+
+msgid "Total:"
+msgstr "Skupaj:"
+
+msgid "Add Imports"
+msgstr "Dodaj uvoz"
+
+msgid "Download Sample"
+msgstr "Prenesite vzorec"
+
+msgid "Choose a file"
+msgstr "Izberite datoteko"
+
+msgid "Edit Key"
+msgstr "Tipka za urejanje"
+
+msgid "Add Key"
+msgstr "Dodaj ključ"
+
+msgid "No Keys yet."
+msgstr "Še nobenega ključa."
+
+msgid "Source CIDR"
+msgstr "Vir CIDR"
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "is invalid."
+msgstr "je neveljavna."
+
+msgid "Secret Key"
+msgstr "Skrivni ključ"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr "Kopirajte svoj novi skrivni ključ zdaj. Ne boste ga mogli več videti!"
+
+msgid "Edit Webhook"
+msgstr "Uredi Webhook"
+
+msgid "Add Webhook"
+msgstr "Dodajte Webhook"
+
+msgid "No event selected"
+msgstr "Izbran ni noben dogodek"
+
+msgid "No Webhooks yet."
+msgstr "Še nobenega kljuka."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Skrivni spletni kavelj"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Kopirajte novo skrivno spletno kljuko zdaj. Ne boste ga mogli več videti!"
+
+msgid "Sign In"
+msgstr "Prijava"
+
+msgid "Login in account page."
+msgstr "Prijava na strani računa."
+
+msgid "Edit form builder"
+msgstr "Urejanje graditelja obrazcev"
+
+msgid "Delete form"
+msgstr "Izbriši obrazec"
+
+msgid "No forms yet."
+msgstr "Še nobenih obrazcev."
+
+msgid "Intake Forms"
+msgstr "Vnosni obrazci"
+
+msgid "Upload Intake Form Document"
+msgstr "Naložite dokument obrazca za sprejem"
+
+msgid "Add Intake Form"
+msgstr "Dodajte obrazec za sprejem"
+
+msgid "Edit Intake Form"
+msgstr "Uredi obrazec za sprejem"
+
+msgid "Show Media"
+msgstr "Prikaži medije"
+
+msgid "Add Post"
+msgstr "Dodaj objavo"
+
+msgid "Edit Post"
+msgstr "Uredi objavo"
+
+msgid "Files Amount"
+msgstr "Znesek datotek"
+
+msgid "No Feed Templates yet."
+msgstr "Predloge še ni."
+
+msgid "Post Name"
+msgstr "Post Ime"
+
+msgid "Post Message"
+msgstr "Objavi sporočilo"
+
+msgid "Processing media ..."
+msgstr "Obdelava medijev ..."
+
+msgid "Download original file"
+msgstr "Prenesite izvirno datoteko"
+
+msgid "Could not display media"
+msgstr "Medij ni bilo mogoče prikazati"
+
+msgid "No locations found."
+msgstr "Ni najdenih lokacij."
+
+msgid "Main Office"
+msgstr "Glavna pisarna"
+
+msgid "Location Name"
+msgstr "Ime lokacije"
+
+msgid "Delete e-sign"
+msgstr "Izbriši e-podpis"
+
+msgid "No e-signs yet."
+msgstr "E-znakov še ni."
+
+msgid "Subtasks Count"
+msgstr "Število podopravil"
+
+msgid "No tasks yet."
+msgstr "Ni še nalog."
+
+msgid "Invoice ID"
+msgstr "ID računa"
+
+msgid "Total"
+msgstr "Skupaj"
+
+msgid "Refund"
+msgstr "Povračilo"
+
+msgid "No invoices yet."
+msgstr "Računov še ni."
+
+msgid "Refund Reason"
+msgstr "Razlog za vračilo"
+
+msgid "Duplicate charge"
+msgstr "Podvojena bremenitev"
+
+msgid "Fraudulent charge"
+msgstr "Goljufiva obtožba"
+
+msgid "Requested by customer"
+msgstr "Na zahtevo stranke"
+
+msgid "On Board"
+msgstr "Na krovu"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Informacije o vlogi"
+
+msgid "It cannot be changed later"
+msgstr "Kasneje je ni mogoče spremeniti"
+
+msgid "Role Permissions"
+msgstr "Dovoljenja za vlogo"
+
+msgid "e-signs"
+msgstr "e-znaki"
+
+msgid "on"
+msgstr "naprej"
+
+msgid "Allowed File Sizes"
+msgstr "Dovoljene velikosti datotek"
+
+msgid "Create"
+msgstr "Ustvari"
+
+msgid "Creating..."
+msgstr "Ustvarjanje ..."
+
+msgid "Modules"
+msgstr "Moduli"
+
+msgid "Roles"
+msgstr "Vloge"
+
+msgid "Profile information"
+msgstr "Informacije o profilu"
+
+msgid "No role found."
+msgstr "Vloga ni bila najdena."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Ko je primer ustvarjen, samodejno dodeli te uporabnike"
+
+msgid "Remove All"
+msgstr "Odstrani vse"
+
+msgid "User Name"
+msgstr "Uporabniško ime"
+
+msgid "Notify"
+msgstr "Obvestiti"
+
+msgid "Host User"
+msgstr "Uporabnik gostitelja"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr "Ko je uporabnik dodeljen primeru, samodejno dodajte predloge"
+
+msgid "No post selected"
+msgstr "Izbrana ni nobena objava"
+
+msgid "No form selected"
+msgstr "Izbran ni noben obrazec"
+
+msgid "No e-sign selected"
+msgstr "Izbran ni noben e-znak"
+
+msgid "Templates"
+msgstr "Predloge"
+
+msgid "Add Templates"
+msgstr "Dodajte predloge"
+
+msgid "Idle Cases"
+msgstr "Idle Cases"
+
+msgid "When a case is idle, post this message"
+msgstr "Ko je zadeva v mirovanju, objavi to sporočilo"
+
+msgid "No case type selected"
+msgstr "Izbrana ni nobena vrsta primera"
+
+msgid "Idle Days"
+msgstr "Idle Days"
+
+msgid "Post Id"
+msgstr "ID objave"
+
+msgid "Set Idle Message"
+msgstr "Nastavite sporočilo o nedejavnosti"
+
+msgid "No task selected"
+msgstr "Izbrana ni nobena naloga"
+
+msgid "No operation order selected"
+msgstr "Ni izbranega vrstnega reda operacij"
+
+msgid "Operation Order"
+msgstr "Operativni ukaz"
+
+msgid "Add Templates to Assign Users"
+msgstr "Dodajte predloge za dodelitev uporabnikov"
+
+msgid "CaseType"
+msgstr "CaseType"
+
+msgid "Case Form"
+msgstr "Obrazec primera"
+
+msgid "User Form"
+msgstr "Uporabniški obrazec"
+
+msgid "Notes Form"
+msgstr "Obrazec za opombe"
+
+msgid "Defaults"
+msgstr "Privzete nastavitve"
+
+msgid "Required"
+msgstr "Zahtevano"
+
+msgid "Public User Signup link:"
+msgstr "Povezava za prijavo javnega uporabnika:"
+
+msgid "Design Settings"
+msgstr "Nastavitve oblikovanja"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Spremeni datoteko"
+
+msgid "Delete Favicon"
+msgstr "Izbriši Favicon"
+
+msgid "Logo:"
+msgstr "Logotip:"
+
+msgid "Delete Logo"
+msgstr "Izbriši logotip"
+
+msgid "Text Color"
+msgstr "Barva besedila"
+
+msgid "Recommended Colors:"
+msgstr "Priporočljive barve:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "ponastaviti"
+
+msgid "Background Color"
+msgstr "Barva ozadja"
+
+msgid "Hex:"
+msgstr "Šestnajsti:"
+
+msgid "Company Info"
+msgstr "Podatki o podjetju"
+
+msgid "Website"
+msgstr "Spletna stran"
+
+msgid "Terms of Use URL"
+msgstr "URL pogojev uporabe"
+
+msgid "User Signup"
+msgstr "Prijava uporabnika"
+
+msgid "Allow Signup"
+msgstr "Dovoli prijavo"
+
+msgid "Auto Create Case"
+msgstr "Samodejno ustvarjanje ohišja"
+
+msgid "Case User Role"
+msgstr "Vloga uporabnika primera"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Google Analytics ključ"
+
+msgid "delete"
+msgstr "izbrisati"
+
+msgid "Crop Image"
+msgstr "Obrežite sliko"
+
+msgid "No Filter"
+msgstr "Brez filtra"
+
+msgid "No logs requested."
+msgstr "Ni zahtevanih dnevnikov."
+
+msgid "Logs list is empty."
+msgstr "Seznam dnevnikov je prazen."
+
+msgid "Download CSV"
+msgstr "Prenesi CSV"
+
+msgid "Request Logs"
+msgstr "Zahtevaj dnevnike"
+
+msgid "Log Type"
+msgstr "Vrsta dnevnika"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Select a case"
+msgstr "Izberite primer"
+
+msgid "Enter the email address"
+msgstr "Vnesite e-poštni naslov"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Header (3 max)"
+msgstr "Glava (največ 3)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr "Ko se uporabnik pridruži aplikaciji, ga prosite, da deli naslednje"
+
+msgid "No user intake found."
+msgstr "Uporabniški vnos ni bil najden."
+
+msgid "User Type"
+msgstr "Vrsta uporabnika"
+
+msgid "Intake Form"
+msgstr "Obrazec za sprejem"
+
+msgid "Complete After"
+msgstr "Dokončajte po"
+
+msgid "No user type selected"
+msgstr "Izbrana ni nobena vrsta uporabnika"
+
+msgid "No intake form selected"
+msgstr "Izbran ni noben obrazec za sprejem"
+
+msgid "Complete After Date"
+msgstr "Dokončaj po datumu"
+
+msgid "Complete After Time"
+msgstr "Dokončaj po času"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Datum in ura morata biti manjša ali enaka trenutnemu"
+
+msgid "Comment ct"
+msgstr "Komentar ct"
+
+msgid "View Ticket"
+msgstr "Ogled vstopnice"
+
+msgid "Ticket"
+msgstr "Vstopnica"
+
+msgid "No tickets yet."
+msgstr "Vstopnic še ni."
+
+msgid "User not found."
+msgstr "Uporabnik ni najden."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Uporabnik lahko ureja podatke o svojem računu, razen razdelka z atributi "
+"gostiteljskega uporabnika."
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Phone number"
+msgstr "Telefonska številka"
+
+msgid "Zip Postal Code"
+msgstr "Poštna številka"
+
+msgid "Host User Attributes"
+msgstr "Atributi gostiteljskega uporabnika"
+
+msgid "User Status"
+msgstr "Stanje uporabnika"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Stalna oznaka za enostavno iskanje uporabnika. (a-z, 0-9, -, /) so dovoljeni"
+
+msgid "App only User Intake Fields"
+msgstr "Uporabniška vnosna polja samo za aplikacijo"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "PRIJAVITE SAMO CARINSKA POLJA"
+
+msgid "s found."
+msgstr "najdeno."
+
+msgid "Created Date"
+msgstr "Datum ustvarjanja"
+
+msgid "View Cases"
+msgstr "Ogled primerov"
+
+msgid "VIEW CASES"
+msgstr "OGLED ZADEV"
+
+msgid "Get Started"
+msgstr "Začeti"
+
+msgid "Password"
+msgstr "Geslo"
+
+msgid "Email is not valid."
+msgstr "E-pošta ni veljavna."
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive vam in vaši stranki omogoča"
+
+msgid "work together"
+msgstr "delati skupaj"
+
+msgid "at any time, in any place."
+msgstr "kadarkoli, kjer koli."
+
+msgid "Explore"
+msgstr "Raziščite"
+
+msgid "Pricing"
+msgstr "Cenitev"
+
+msgid "Support & Docs"
+msgstr "Podpora in dokumenti"
+
+msgid "FAQ"
+msgstr "Pogosta vprašanja"
+
+msgid "Failed to validate if you are human"
+msgstr "Preverjanja, če ste ljudje"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "OBVESTI ME, KOT JE PRIPRAVLJEN!"
+
+msgid "Thank You!"
+msgstr "Hvala vam!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Obvestili vas bomo, ko bo aplikacija pripravljena"
+
+msgid "Most popular"
+msgstr "Najbolj priljubljena"
+
+msgid "All languages"
+msgstr "Vsi jeziki"
+
+msgid "Oops, Something went wrong."
+msgstr "Ups! Nekaj je šlo narobe."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Ups! Nekaj je šlo narobe. Naša ekipa je bila obveščena. Prosim poskusite "
+"kasneje."
+
+msgid "Support Documentation"
+msgstr "Podporna dokumentacija"
+
+msgid "All Categories"
+msgstr "vse kategorije"
+
+msgid "Contents"
+msgstr "Vsebina"
+
+msgid "Related Articles"
+msgstr "povezani članki"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr "Začnite: procesi, najboljše prakse, vodniki za nastavitev in še več!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "V CaseActive poiščite vse, kar potrebujete za delo."
+
+msgid "All case communication in one spot"
+msgstr "Vse komunikacije na enem mestu"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Converse, objavljajte posodobitve, odgovarjajte na vprašanja, si beležite, "
+"komentirajte in vse razprave označite z e-poštnimi sporočili in SMS-"
+"sporočili v realnem času."
+
+msgid "Share with confidence"
+msgstr "Delite z zaupanjem"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Skupna raba dokumentov in fotografij med strankami in člani ekipe na vseh "
+"napravah, tako da so vsi na tekočem."
+
+msgid "Take it on the go"
+msgstr "Vzemite ga na poti"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Uporabljajte mobilne naprave, kot so tablični računalniki in pametni "
+"telefoni, za sodelovanje pri ključnih podrobnostih, razpravljanje o večjih "
+"težavah, izmenjavo dokumentov in napredek v grafikonih v realnem času."
+
+msgid "Immediate records access"
+msgstr "Takojšen dostop do zapisov"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Pooblaščeni uporabniki lahko hitro dostopajo do podatkov stranke in podatkov"
+" o zadevah (vključno s trenutnimi, preteklimi, odprtimi, zaprtimi in "
+"nerešenimi primeri), vse prek enega portala."
+
+msgid "Automatic timezone conversion"
+msgstr "Samodejna pretvorba časovnega pasu"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Ne glede na to, ali potujete ali bivate na drugi lokaciji, boste "
+"sinhronizirani z našim sistemom za upravljanje pogovorov v časovnem pasu."
+
+msgid "Track Events"
+msgstr "Dogodki sledi"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Hitro načrtujte sestanke, spremljajte prihajajoče dogodke in povabite "
+"stranke in člane skupine kot udeležence."
+
+msgid "Video Conferencing"
+msgstr "Video konferenca"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Povežite se s strankami in člani skupine prek video klepetov v živo za še "
+"več interaktivnosti."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Avtomatizirajte opravila, ko je primer ustvarjen ali je uporabnik dodeljen "
+"primeru."
+
+msgid "Automated Alerts"
+msgstr "Avtomatska opozorila"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Želite svojim strankam zaželeti vesel rojstni dan? Nastavite samodejno "
+"sporočilo za pretekle in trenutne stranke za njihov poseben dan!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Posodabljanje podatkov o strankah"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Odjemalci lahko spremenijo svoje profile s posodobljenimi podatki, "
+"fotografijami, gesli in nastavitvami računa."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Zastavite vprašanja, dobite odgovore."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Ustvarite obrazce po meri in jih pošljite strankam za izpolnitev. Zberite "
+"pomembne informacije, zagotovite izhodne ankete in pridobite vse podatke, ki"
+" jih potrebujete za svoje delo!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Direktor prodaje družbe Cain &amp; Company"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Z računi in plačili na spletu naredite zaračunavanje strank kar se da "
+"preprosto."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Zelo radi imamo izdajanje računov, ker strankam omogoča, da natančno vidijo,"
+" za kaj plačujejo."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Podpredsednik Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Uživajte v enostavnosti e-podpisovanja"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Elektronsko odjavite vse dokumente prek DocSign z uporabo naloženih "
+"dokumentov in zahtev za digitalni podpis stranke in potrditev."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Naložite dokument, ga označite za podpis, nato pa se stranka prijavi in ga "
+"e-podpiše. Vse se naredi, ne da bi stranka morala priti v našo stavbo. To je"
+" priročno za stranke, ki niso blizu pisarne ali živijo zunaj države."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Direktor operacij kapitalskega zavarovanja"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Izboljšajte svoj sistem. Manj dela, več rezultatov."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Uporabite samopostrežno skrbniško funkcijo"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Prevzemite popoln nadzor nad vašim paketom za upravljanje CaseActive iz same"
+" platforme."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Preprosto povežite svoj obstoječi sistem z CaseActive"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Vključite naš lastniški API za samodejno ustvarjanje primerov, dodeljevanje "
+"uporabnikov in ustvarjanje poročil na podlagi vašega vnosa sistema."
+
+msgid "Acting as a"
+msgstr "Delovanje kot a"
+
+msgid "virtual administrative assistant"
+msgstr "virtualni upravni pomočnik"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive vam omogoča poenostavljeno ravnanje z dokumenti in mediji, "
+"zasebno"
+
+msgid "client-to-customer communications"
+msgstr "komunikacija med strankami"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "načrtovanje dogodkov in postopno obravnavanje primera."
+
+msgid "Self-Serve Administration"
+msgstr "Samostojna administracija"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Kot virtualni upravni pomočnik vam CaseActive omogoča poenostavljeno "
+"ravnanje z dokumenti in mediji, zasebno komunikacijo med strankami in "
+"naročnikom, razporeditev dogodkov in postopno obdelavo primerov."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Upravljajte uporabniške prijave in ustvarjanje primerov"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Neposredno nadzirajte ustvarjanje uporabniških računov, hkrati pa odobrite "
+"njihova dovoljenja za dostop za vsak primer posebej. Upravljajte ustvarjanje"
+" primerov, napredek in zaključek s popolnim poročanjem o vsakem koraku."
+
+msgid "View Caseactive Analytics"
+msgstr "Oglejte si Caseactive Analytics"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Preverite natančno, kako zadeva napreduje, število primerov uspešno "
+"zaključenih in oglejte si odzivne čase prek modula za temeljito analitiko "
+"CaseActive. Znanje je moč in dali smo vam vse, kar morate vedeti o lastnih "
+"projektih."
+
+msgid "Monitor User Logs"
+msgstr "Dnevniki uporabnikov monitorja"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Pazite na prijave strank in članov ekipe ter dejavnosti platforme, da "
+"zagotovite, da so vsa njihova dejanja dovoljena znotraj parametrov primera "
+"in da vsi člani opravljajo svoje naloge po potrebi."
+
+msgid "Employ Advanced Searches"
+msgstr "Uporabite napredna iskanja"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Poiščite točno tisto, kar potrebujete, ko ga potrebujete. Iščite primere po "
+"imenih uporabnikov in odjemalcev, ključnih besedah, časovnici, naloženih "
+"dokumentih in še veliko več!"
+
+msgid "Create Custom Fields"
+msgstr "Ustvarite polja po meri"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Ustvarite specializirana polja primerov za vnos odjemalcev in članov ekipe "
+"ter zberite podatke, ki jih potrebujete od vseh vpletenih. Naj bo vmesnik za"
+" primere edinstven za vaše podjetje in blagovno znamko!"
+
+msgid "Create Custom Templates"
+msgstr "Ustvarite lastne predloge"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Razviti ogromno paleto prilagojenih obrazcev in predlog za distribucijo in "
+"dokončanje med primerom in po njem (na primer ankete o izstopu odjemalcev). "
+"Ne glede na obliko, ki jo potrebujete, lahko ustvarite!"
+
+msgid "Violet Cherry"
+msgstr "Vijolična češnja"
+
+msgid "As-You-Go Invoicing"
+msgstr "Račun za čas, ko greš"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Tukaj smo, da pomagamo! Stopite v stik, če imate še vedno vprašanja, mi pa "
+"vam bomo odgovorili v dveh delovnih dneh."
+
+msgid "* Email is not valid."
+msgstr "* E-pošta ni veljavna."
+
+msgid "Low"
+msgstr "Nizka"
+
+msgid "Medium"
+msgstr "Srednja"
+
+msgid "High"
+msgstr "Visoka"
+
+msgid "Critical"
+msgstr "Kritično"
+
+msgid "Choose Importance"
+msgstr "Izberite Pomembnost"
+
+msgid "Department"
+msgstr "Oddelek"
+
+msgid "Sales"
+msgstr "Prodaja"
+
+msgid "Other"
+msgstr "Drugo"
+
+msgid "Choose Department"
+msgstr "Izberite oddelek"
+
+msgid "Loading"
+msgstr "nalaganje"
+
+msgid "Importance"
+msgstr "Pomen"
+
+msgid "Send A New Message"
+msgstr "Pošlji novo sporočilo"
+
+msgid "Send message"
+msgstr "Pošlji sporočilo"
+
+msgid "Answers to Questions"
+msgstr "Odgovori na vprašanja"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Imate vprašanja? Preberite nadaljnja navodila v naših odgovorih na poizvedbe"
+" strank in poiščite odgovore na svoja vprašanja."
+
+msgid "How secure is CaseActive?"
+msgstr "Kako varen je CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive uporablja vojaško in bančno 128-bitno šifriranje SSL za prenos "
+"podatkov in 256-bitno šifriranje AES za podatke v mirovanju. Vsak primerek "
+"CaseActive ima ustvarjen edinstven ključ, ki zagotavlja dodatno raven "
+"varnosti za vaše podjetje. Nikoli ne bomo dovolili drugemu podjetju dostopa "
+"do vaše baze podatkov ali sistema za shranjevanje."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Vzpostavljen imam obstoječi sistem. Ali lahko CaseActive deluje z mojim "
+"obstoječim sistemom?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Da, lahko integrirate naš lastniški API ali uvozni modul za samodejno "
+"ustvarjanje primerov, dodeljevanje uporabnikov in ustvarjanje poročil na "
+"podlagi vnosa vašega sistema."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Imamo stranke po vsem svetu. Ali je CaseActive na voljo v drugih jezikih?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Da, aplikacijo in komunikacijo CaseActive je mogoče prevesti v več kot 60 "
+"jezikov, vključno z mandarinsko kitajščino, španščino, hindijščino in "
+"ruščino ter angleščino."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr "Ali lahko dodam logotip ali kakor koli prilagodim CaseActive?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Vsekakor! CaseActive je bil zasnovan z mislijo na vas. Na strani z "
+"nastavitvami skrbniške plošče lahko naložite svojo osebno barvo in izberete "
+"barve svojega podjetja."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Ali je CaseActive združljiv s katero koli napravo (PC, Mac, tablica in "
+"mobilna naprava)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive je odzivna spletna aplikacija. Deluje v katerem koli spletnem "
+"brskalniku, kot je Internet Explorer, Firefox, Safari ali Chrome itd. To "
+"pomeni, da vrsta naprave (PC, Mac, tablica in mobilna naprava), ki jo "
+"uporabljate, ni pomembna. Preprosto odprite spletni brskalnik, se prijavite "
+"v svoj račun CaseActive in pripravljeni ste."
+
+msgid "How many clients can I have?"
+msgstr "Koliko strank lahko imam?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Zaračunavajo se na sedež osebja na mesec. Imate lahko neomejeno število "
+"uporabnikov strank."
+
+msgid "Enhance User Experience"
+msgstr "Izboljšajte uporabniško izkušnjo"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Ni minimalnih provizij in vnaprejšnjih obveznosti. Plačate samo na sedež "
+"osebja na mesec."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "na mesec"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Vse, kar potrebujete za začetek. Priloženi so 3 sedeži."
+
+msgid "Business"
+msgstr "Posel"
+
+msgid "Popular"
+msgstr "Priljubljeno"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Naš najbolj priljubljen načrt. Priloženi so 4 sedeži."
+
+msgid "Enterprise"
+msgstr "Podjetje"
+
+msgid "Contact sales for pricing"
+msgstr "Za ceno kontaktirajte prodajo"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Cene po meri, Napredne funkcije, SSO, Webhooks."
+
+msgid "Contact Sales"
+msgstr "Obrnite se na prodajo"
+
+msgid "Overview"
+msgstr "Pregled"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Komunicirajte in delite dokumente s svojimi strankami"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Načrtujte ponavljajoče se dogodke in sestanke"
+
+msgid "Fully customize your form to generate data"
+msgstr "Popolnoma prilagodite obrazec za ustvarjanje podatkov"
+
+msgid "Keep track of case progression"
+msgstr "Spremljajte napredovanje primera"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Zahtevajte skladne e-podpise od več uporabnikov"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Ustvarite račun, ki si ga lahko stranka ogleda ali plača"
+
+msgid "ToDos"
+msgstr "Opravila"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Omogoča vsem, da vedo, kaj prihaja in je treba"
+
+msgid "Auto notify the user when something is due"
+msgstr "Samodejno obvesti uporabnika, ko je nekaj zapadlo"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Dodajte polja za primere po meri za vse svoje primere"
+
+msgid "Custom Branding"
+msgstr "Blagovna znamka po meri"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Naj bo vaša aplikacija edinstvena z logotipom in barvnimi slogi"
+
+msgid "Access to customer support"
+msgstr "Dostop do podpore strankam"
+
+msgid "Storage"
+msgstr "Shranjevanje"
+
+msgid "Unlimited"
+msgstr "Neomejeno"
+
+msgid "Additional Users Seats"
+msgstr "Dodatni uporabniški sedeži"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "$83.34"
+msgstr "83,34 $"
+
+msgid "Convo with recording"
+msgstr "Pogovor s snemanjem"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Video ali zvočni klepet s posnetkom, shranjenim v ohišju"
+
+msgid "API Access"
+msgstr "API dostop"
+
+msgid "Automate tasks with access to API"
+msgstr "Avtomatizirajte opravila z dostopom do API-ja"
+
+msgid "Module Templates"
+msgstr "Predloge modulov"
+
+msgid "Create a standard template and reuse it"
+msgstr "Ustvarite standardno predlogo in jo ponovno uporabite"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr "Samodejni zagon dejanja, ko se sproži primer ali dodeljeni primer"
+
+msgid "Newsletter"
+msgstr "Glasilo"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr ""
+"Pošiljanje splošnih, rojstnodnevnih ali prazničnih sporočil strankam (kmalu "
+"na voljo)"
+
+msgid "Encryption at rest"
+msgstr "Šifriranje v mirovanju"
+
+msgid "Protects your data from system compromise"
+msgstr "Ščiti vaše podatke pred ogrožanjem sistema"
+
+msgid "Encryption in transit"
+msgstr "Šifriranje med prenosom"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Ščiti vaše podatke, če so komunikacije prestrežene"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Enotna prijava (SSO) na osnovi SAML"
+
+msgid "Respond realtime to events"
+msgstr "Odziv na dogodke v realnem času"
+
+msgid "Seamless Collaboration"
+msgstr "Brezhibno sodelovanje"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive poenostavlja digitalno sodelovanje med vašim podjetjem in "
+"strankami – od posvetovanja do rešitve, vse na eni platformi."
+
+msgid "Take a tour"
+msgstr "Pojdi na ogled"
+
+msgid "Stay Connected"
+msgstr "Ostani povezan"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Ohranjajte takojšen stik s člani skupine, ki uporablja uporabniški vmesnik "
+"CaseActive kot uporabniško vmesnik za upravljanje strank in primerov."
+
+msgid "Connect"
+msgstr "Poveži"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Case Feed vas obvešča o vaših strankah."
+
+msgid "Schedule"
+msgstr "Urnik"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Ustvarite dogodke, povabite udeležence in spremljajte svoj koledar."
+
+msgid "Call"
+msgstr "Pokliči"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr "Vključite se v videokonference v živo kadarkoli in kjerkoli."
+
+msgid "Share"
+msgstr "Deliti"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Varno nalaganje datotek, razpravljanje o njih in skupno rabo."
+
+msgid "Powerful Case Management"
+msgstr "Zmogljivo upravljanje primerov"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Funkcionalnost Out-of-the-Box"
+
+msgid "Easily assign individuals"
+msgstr "Enostavno dodelite posameznike"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "ali sodelujejo s strankami."
+
+msgid "Manage user groups"
+msgstr "Upravljanje uporabniških skupin"
+
+msgid "and customize access permissions."
+msgstr "in prilagodite dovoljenja za dostop."
+
+msgid "All data is automatically backed up"
+msgstr "Vsi podatki se samodejno varnostno kopirajo"
+
+msgid "in case a recovery is ever needed."
+msgstr "v primeru, da je kdaj potrebna izterjava."
+
+msgid "All information"
+msgstr "Vse informacije"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "je varno šifriran, kar zagotavlja vašo absolutno zasebnost."
+
+msgid "Customize"
+msgstr "Prilagoditi"
+
+msgid "with your own colors and logo."
+msgstr "z lastnimi barvami in logotipom."
+
+msgid "can be enabled/disabled at any time."
+msgstr "lahko kadar koli omogočite / onemogočite."
+
+msgid "Benefits of "
+msgstr "Prednosti"
+
+msgid "Reduction in time "
+msgstr "Zmanjšanje časa"
+
+msgid "to intake new clients"
+msgstr "za sprejemanje novih strank"
+
+msgid "Minimize "
+msgstr "Zmanjšaj"
+
+msgid "the chance of "
+msgstr "možnost za"
+
+msgid "malpractice"
+msgstr "zloraba"
+
+msgid "Better experience "
+msgstr "Boljša izkušnja"
+
+msgid "for your client"
+msgstr "za vašo stranko"
+
+msgid "Increase in caseload capacity "
+msgstr "Povečanje obsega primerov"
+
+msgid "per staff"
+msgstr "na osebje"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Začnite z vgrajenimi aplikacijami"
+
+msgid "All you need in one place."
+msgstr "Vse kar potrebujete na enem mestu."
+
+msgid "Case Feed"
+msgstr "Feed Feed"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Naročnika, osebje in sodelavce preprosto določite za zadevo in se vključite "
+"v varen prostor, ki vam omogoča, da objavljate napredek primerov, se "
+"pogovarjate v realnem času o klepetu in video pogovorih, pa tudi za urnik "
+"dogodkov, e-podpisovanje / nalaganje / prenos dokumentov in veliko več."
+
+msgid "Case Invoices"
+msgstr "Primeri Računi"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Pri izdajanju računov med odhodom je obračunavanje strank le en klik in "
+"omogoča pošiljanje samodejno ustvarjenih zahtevkov za sredstva in prejemanje"
+" neposrednih plačil v zameno."
+
+msgid "Case Events"
+msgstr "Primer Dogodki"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Naj bo ves čas organiziran koledar primerov, načrtujte prireditve, povabite "
+"udeležence, pošiljajte opomnike na dogodke in poskrbite, da bo vse ostalo na"
+" poti."
+
+msgid "Case Convo"
+msgstr "Case Convo"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Spoznajte se s strankami in člani ekipe tako rekoč &quot;iz oči v oči&quot; "
+"z vgrajenimi video konferencami, da boste lahko neposredno govorili z vsemi "
+"udeleženimi."
+
+msgid "Case Forms & E-signs"
+msgstr "Obrazci in e-znaki"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Obrazec v celoti prilagodite tako, da ustvarite edinstvene predloge, ki "
+"ustrezajo vašim posebnim potrebam. Te predloge se nato lahko razdeli "
+"strankam in članom ekipe, da jih izpolnijo in podpišejo"
+
+msgid "Case notes"
+msgstr "Opombe primerov"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Vodite zapiske s polji po meri in prilogami o napredovanju primerov za "
+"sedanje in bodoče člane ekipe"
+
+msgid "Case Media"
+msgstr "Case Media"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Nalagajte, delite, komentirajte in prenašajte datoteke, ki se nanašajo na "
+"primer, tako da ima vsakdo referenco o vseh pomembnih podrobnostih, ljudeh "
+"in situacijah."
+
+msgid "About Case"
+msgstr "O zadevi"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Stranke in osebje naj si ogledajo splošne podrobnosti o primerih, v katere "
+"so vpleteni. Nato lahko zadevo zaključite, ko je vse zavito, ali za to "
+"pooblastite člana ekipe."
+
+msgid "Plus Many More Features"
+msgstr "Plus veliko več funkcij"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Uporaba samopostrežne administrativne funkcije Prevzemite popoln nadzor nad "
+"upravljalnim paketom CaseActive s same platforme."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Brez težav brez težav povežite obstoječi sistem s CaseActive Vključite naš "
+"lastniški API za samodejno ustvarjanje primerov, dodeljevanje uporabnikov in"
+" ustvarjanje poročil na podlagi vnosa vašega sistema."
+
+msgid "Multi-Language Enabled:"
+msgstr "Omogočeno več jezikov:"
+
+msgid "Interact with clients in"
+msgstr "Interakcija s strankami v"
+
+msgid "70+ languages"
+msgstr "70 jezikov"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Ne glede na to, ali delate lokalno ali globalno, lahko prevajate materni "
+"jezik vaše stranke s pomočjo CaseActive-a"
+
+msgid "language management system"
+msgstr "sistem za upravljanje jezikov"
+
+msgid "No more confusion or limits."
+msgstr "Nič več zmede ali omejitev."
+
+msgid "Let's see what others are saying"
+msgstr "Poglejmo, kaj drugi govorijo"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Odkrijte, kako so naši super kupci - od malih podjetij do korporativnih "
+"podjetij - povečali svojo konkurenčno prednost s tem, da so postali "
+"CaseActive bojevniki."
+
+msgid "SUPPORT"
+msgstr "PODPORA"
+
+msgid "Everything at Your Fingertips."
+msgstr "Vse na dosegu roke."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Začnite z aplikacijo CaseActive tako, da sledite našem video vodniku in jo "
+"prilagodite svojim potrebam."
+
+msgid "What are you looking for..."
+msgstr "Kaj iščeš..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Zadnja posodobitev: 7. junij 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive si pridržuje pravico, da kadar koli in po lastni presoji posodobi"
+" in spremeni katere koli ali vse te pogoje storitve. Ko bo CaseActive "
+"spremenil te pogoje storitve, bo CaseActive spremenil zgornji datum „Zadnji "
+"posodobljeni“. Odgovorni ste za redno pregledovanje najsodobnejše različice "
+"storitve. Vaša nadaljnja uporaba storitev po kakršnih koli spremembah pomeni"
+" vaše soglasje, da vas bodo takšne spremembe zavezale. Če nasprotujete "
+"kakršnim koli spremembam teh pogojev storitve, je vaše edino in izključno "
+"pravno sredstvo ukinitev storitev v skladu s pogoji."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Ti splošni pogoji storitve veljajo za storitve na splošno. Dodatni pogoji, "
+"ki veljajo za vsako ponujeno storitev, so določeni v spodnjih povezavah "
+"(&quot;Dodatni pogoji storitve&quot;)."
+
+msgid "1. Services:"
+msgstr "1. Storitve:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Naša lastniška programska oprema je storitvena platforma, ki jo gostimo za "
+"naše stranke, da bi ponudili storitve, podrobno opisane spodaj. Če se želite"
+" naročiti na storitev, morate izvršiti obrazec za naročilo za to storitev in"
+" / ali izpolniti postopek prijave za to storitev. Pravico imate do uporabe "
+"le Storitev, za katere ste naročeni in plačani, vaša uporaba storitev pa je "
+"odvisna od tega, če upoštevate vse pogoje pogodbe. Priznavate in se "
+"strinjate, da si pridržujemo pravico, da občasno spreminjamo Storitve (ali "
+"kateri koli njihov del) in da ne bomo odgovarjali vam ali nobeni tretji "
+"osebi za kakršne koli spremembe storitev."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Opis storitve CaseActive: Služba CaseActive je nabor gostujočih "
+"programskih storitev za upravljanje spletnega sodelovanja s strankami, ki "
+"jih ponuja CaseActive LLC. V prijavnem toku, ki ste ga privolili, ali v "
+"naročilnici, ki ste jo izvedli, so identificirane storitve CaseActive, na "
+"katere ste naročeni, termin naročnine in pristojbine, ki jih morate plačati "
+"za storitev CaseActive. Dodatni pogoji, ki veljajo za vašo uporabo storitve "
+"CaseActive, so določeni na:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Razširitev storitev:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Lahko se naročite na kakršne koli dodatne storitve, vključno z novimi "
+"storitvami, ki jih CaseActive lahko občasno da na voljo, ali pa povečate "
+"svoje obstoječe Storitve tako, da v okviru storitev opravite dodatni obrazec"
+" za naročilo ali postopek prijave. Vsak nov tok prijave ali obrazec za "
+"naročilo bo vključeval ceno in datume obračuna storitev, ki so bili takrat "
+"dodani. Za vse nove storitve veljajo ti splošni pogoji storitve in vsi "
+"dodatni pogoji, ki se lahko nanašajo posebej na take dodatne storitve."
+
+msgid "3. Customer Support:"
+msgstr "3. Podpora strankam:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Če ste plačali vse pristojbine, ki jih plačujete za storitve, bomo uporabili"
+" komercialno razumna prizadevanja, da vam in vašim pooblaščenim uporabnikom,"
+" ki ste naročeni na storitve, brezplačno zagotovimo storitve tehnične "
+"podpore za vas in vaše pooblaščene uporabnike. Za vaše primere bo dodeljen "
+"predstavnik za stranke. Pooblaščeni uporabniki sprejemajo neomejene primere."
+" Naša standardna podpora je na voljo 24/7, razen glavnih praznikov, ki "
+"vključujejo Dan spomina, Dan neodvisnosti, Dan dela, Dan zahvalnosti, božič "
+"in novo leto. Na našo podporo se lahko obrnete s pomočjo naše"
+
+msgid "Contact Form"
+msgstr "Kontaktni obrazec"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Naš odzivni čas ne sme biti daljši od dveh delovnih dni."
+
+msgid "4. Training:"
+msgstr "4. Usposabljanje:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Pod pogojem, da ste plačali vse pristojbine, ki jih plačujete za storitve, "
+"bomo vašim določenim, imenovanim in pooblaščenim uporabnikom omogočili "
+"dostop na daljavo, v živo ali posneli tečaje ter zagotovili vaje, ki so "
+"dostopne prek oddelka za pomoč in usposabljanje na našem spletnem mestu na "
+"brez doplačila. Za nekatere storitve vam na zahtevo in za doplačilo "
+"zagotovimo nekaj usposabljanja na kraju samem. Prosimo, kontaktirajte nas s "
+"pomočjo našega"
+
+msgid "for more information about on-site training."
+msgstr "za več informacij o usposabljanju na kraju samem."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Vaše pravice in omejitve:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Licenca: V skladu s pogoji iz pogodbe in ob pravočasnem plačilu vseh "
+"veljavnih pristojbin, določenih v naročilnici ali vpisu, vam podelimo "
+"neizključno, neprenosljivo, omejeno pravico in dovoljenje za uporabo (in "
+"dovoljenje pooblaščenim uporabnikom za uporabo) storitev, na katere ste "
+"naročeni, izključno za vaše notranje poslovne namene."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Pooblaščeni uporabniki: Vi (i) ste odgovorni za skladnost s pogodbo s "
+"strani svojih pooblaščenih uporabnikov in (ii) morate s komercialno "
+"razumnimi prizadevanji preprečiti nepooblaščen dostop do storitev ali "
+"njihovo uporabo in nas takoj obvestiti o kakršnem koli takšnem "
+"nepooblaščenem dostopu oz. uporaba. Vaša odgovornost je, da odstranite "
+"dostop do storitev, če se spremeni status pooblaščenega uporabnika ali "
+"imenovanega zaposlenega."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Vaše odgovornosti in omejitve: Odgovorni ste za vse dejavnosti, ki se "
+"dogajajo v vaših uporabniških računih ali pri pooblaščenih uporabnikih. (I) "
+"ste izključno odgovorni za točnost, kakovost, celovitost, zakonitost, "
+"zanesljivost in ustreznost vseh podatkov, ki jih pošljete storitvam; (ii) "
+"uporabljati tržno razumna prizadevanja za preprečevanje nepooblaščenega "
+"nadzora ali nedovoljenega posega ali kakršnega koli drugega nepooblaščenega "
+"dostopa do storitev ali uporabe storitev in nas takoj obvestiti o kakršni "
+"koli nepooblaščeni uporabi ali kršitvi varnosti; (iii) upoštevati vse "
+"veljavne lokalne, državne, zvezne in tuje zakone (vključno z zakoni o "
+"zasebnosti in varstvu osebnih ali potrošniških informacij) pri uporabi "
+"storitev; (iv) skladno z vsemi veljavnimi pravili združenja kreditnih kartic"
+" (vključno z American Express, MasterCard in Visa); in (v) pridobiti in "
+"vzdrževati vso računalniško strojno opremo, programsko opremo in "
+"komunikacijsko opremo, potrebno za dostop do storitev, in plačati vse "
+"pristojbine za dostop (npr. pristojbine za ponudnike internetnih storitev), "
+"ki so nastale v zvezi z vašo uporabo storitev."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Ne smete in zagotavljate, da vaši pooblaščeni uporabniki ne (i) "
+"razstavljajo, vzpostavijo inženirja, ne dekompilirajo ali kako drugače "
+"poskušajo razvozlati nobene kode v povezavi s storitvami ali spremeniti, "
+"prilagoditi, ustvariti izpeljanih del na podlagi ali prevesti Storitve; (ii)"
+" licencirati, podlicencirati, prodajati, izposojati, dodeliti, "
+"distribuirati, prenos časovnega zakupa, najemati, posojati, preprodajati za "
+"dobiček, distribuirati ali kako drugače komercialno izkoriščati, podeljevati"
+" pravice v storitvah ali omogočiti storitve na voljo tretji osebi; (iii) "
+"uporabljati storitve, razen kot je izrecno dovoljeno v skladu s tem "
+"sporazumom ali v nasprotju z veljavnimi zakoni; (iv) sodelujejo v kakršnih "
+"koli nezakonitih ali zavajajočih trgovinskih praksah v zvezi s storitvami; "
+"(v) zaobiti ali onemogočiti kakršne koli varnostne ali druge tehnične "
+"lastnosti ali ukrepe Storitev ali katerega koli drugega vidika programske "
+"opreme ali na kakršen koli način poskušati pridobiti ali doseči nepooblaščen"
+" dostop do storitev ali povezanih računalniških sistemov ali omrežij; (vi) "
+"uporabljati Storitve za pošiljanje gradiva, ki krši, klevetniško, "
+"nespodobno, grozeče ali kako drugače nezakonito, nevarno, zlonamerno, "
+"zlorabljajoče ali mučno ali hraniti ali prenašati gradivo, ki krši pravice "
+"zasebnosti tretjih oseb; (vii) uporabljate storitev za shranjevanje ali "
+"prenos kakršnih koli virusov, črvov, časovnih bomb, trojanskih konj in druge"
+" škodljive ali zlonamerne kode, datotek, skriptov, agentov ali programov ali"
+" za pošiljanje neželene pošte ali drugače podvajajočih ali nezaželenih "
+"sporočil v nasprotju z veljavnimi zakoni ; ali (viii) motijo ali motijo "
+"integriteto ali delovanje storitev ali podatkov tretjih oseb, ki jih "
+"vsebujejo."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Pridrževanje pravic: Druge pravice niso podeljene, razen izrecno "
+"določenih v sporazumu. Ta pogodba ni prodaja in ne prenaša nobenih pravic "
+"ali lastništva v storitvah ali do teh storitev ali katere koli osnovne "
+"programske opreme. Imamo vse pravice, naslove in interese, vključno z vsemi "
+"pravicami intelektualne lastnine, v storitvah in do teh storitev ter z njimi"
+" povezane programske opreme in vseh posodobitev, nadgradenj, modifikacij, "
+"izboljšav, izboljšav ali izpeljanih del, in v kakršni koli ideji, kako in "
+"programi, ki smo jih razvili mi ali naši dajalci licence med izvajanjem "
+"storitev."
+
+msgid "6. Term and Termination:"
+msgstr "6. Trajanje in prenehanje:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Izraz: Trajanje storitev se razlikuje glede na storitev, na katero ste "
+"naročeni in se navede na naročilnici ali dogovorjeno v prijavnem toku in se "
+"podaljša na naslednji način:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Termin storitve CaseActive: Vaša naročnina na storitev CaseActive se "
+"samodejno podaljša za zaporedne enomesečne ali enoletne pogoje, kot je "
+"določeno v naročilnici ali vpisu, razen če prekinemo storitev, ki nam jo "
+"pošljete neobnovitev najmanj trideset (30) dni pred iztekom takrat "
+"veljavnega mandata."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Termin za storitve spletnega mesta CaseActive: Vaša naročnina na "
+"storitve spletne strani CaseActive se samodejno podaljša za zaporedne "
+"enomesečne ali enoletne pogoje, kot je določeno na naročilnici ali vpisu, "
+"razen če prekinemo storitev ali nam nas ne posredujete z obvestilom o "
+"neobnovitvi najmanj trideset (30) dni pred iztekom takrat veljavnega "
+"mandata."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Pisno obvestilo o neobnovitvi morate predložiti CaseActive, LLC, 1107 "
+"W. 6th Ave., Ste B. Cheyenne, WY 82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Odpoved: Vsaka pogodbenica lahko odpove Pogodbo in vse naročniške "
+"storitve (i), če druga pogodbenica krši katero od svojih bistvenih "
+"obveznosti v skladu s Pogodbo in takšna kršitev ni odpravljena v tridesetih "
+"(30) dneh od prejema obvestila o kršitvi. (ii) če druga stranka postane "
+"insolventna ali bankrotirana, likvidirana ali razpuščena ali preneha v "
+"bistvu vse svoje posle. V primeru kršitve zgornjega oddelka 5.3 lahko "
+"sporazum takoj odpovemo. Po prenehanju pogodbe boste takoj prekinili vsako "
+"uporabo storitev, prenehali zastopati v kakršni koli obliki, da ste "
+"uporabnik storitev, in uničiti vse naše zaupne podatke, s katerimi "
+"razpolagate. Nobena pogodbenica ne odgovarja za škodo, ki bi nastala zaradi "
+"odpovedi pogodbe ali kakršne koli naročnine na Storitve, kot je določeno v "
+"tem sporazumu; pod pogojem, da odpoved sporazuma ne vpliva na kakršne koli "
+"zahtevke, ki bi nastali pred takšno odpovedjo."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Ravnanje s svojimi podatki v primeru prenehanja: Priznavate in se "
+"strinjate, da lahko po poteku ali ukinitvi katere koli od vaših naročnin na "
+"Storitve prizadete Storitve takoj deaktiviramo in da po razumnem roku, ki ni"
+" krajši od devetdeset (90) ) dni, lahko izbrišete svoj račun in podatke. Če "
+"pa bomo storitve ukinili mi, vam odobrimo začasen, omejen dostop do "
+"storitev, ki ne sme biti daljši od trideset (30) dni, in edini namen, da vam"
+" omogočamo, da pridobite svoje lastniške podatke, pod pogojem, da ste v "
+"celoti plačali vse nesporne zneske, ki so nam dolžni v dobri veri. Nadalje "
+"se strinjate, da ne bomo odgovorni vam ali nobeni tretji osebi za kakršno "
+"koli prenehanje vašega dostopa do storitev ali izbris vaših podatkov, če smo"
+" v skladu s pogoji tega oddelka 6.3."
+
+msgid "7. Fees:"
+msgstr "7. Pristojbine:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Pristojbine za storitve: Neplačljive pristojbine za Storitve plačate v "
+"znesku, določenem v prijavnem toku ali naročilnici (&quot;Storitvene "
+"pristojbine&quot;) in glede na pogostost obračunavanja, navedeno v prijavnem"
+" toku ali Naročilu Oblika. Pristojbine za storitve zapadejo v plačilo na dan"
+" računa. Pristojbine za storitve se lahko povišajo na podlagi naših "
+"takratnih pristojbin. Pristojbine za storitve niso vračljive, tudi če "
+"predčasno prekinete naročnino."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Dodatne pristojbine: Za uporabo storitev lahko zaračunate druge "
+"nevračljive pristojbine ali pristojbine poleg tistih, ki so določene v "
+"naročilnici in / ali vpisu. Dodatne nevračljive pristojbine in pristojbine "
+"so določene v dodatnih pogojih za ustrezno storitev."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Zamuda pri plačilu: Priznavate, da lahko zaradi neplačila pristojbin ali"
+" stroškov prekinete ali prekinete naročnino na izdelke CaseActive. Če ne "
+"plačate nobenih provizij ali stroškov, ki izhajajo iz tega sporazuma, si "
+"CaseActive pridržuje pravico, da za zbiranje pristojbin in pristojbin "
+"angažira agencijo za zbiranje in plačate vse stroške, ki jih je imel "
+"CaseActive v zvezi z zbiranjem takšnih zapadlih zapadlih zneskov, vključno ,"
+" brez omejitev, razumne pristojbine odvetniških agencij in agencij za "
+"pobiranje plus obresti v višini manjši od 1,0% na mesec ali najvišjo "
+"dovoljeno stopnjo, ki jo dovoljuje veljavna zakonodaja."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Davki: Odgovorni ste za vse davke na promet, uporabo davka, davka na "
+"dodano vrednost, odtegnjenih davkov in vseh drugih podobnih davkov in "
+"dajatev kakršne koli vrste, ki jih nalagajo zvezne, državne ali lokalne "
+"oblasti na transakcije, predvidene v sporazumu. Kadar imamo zakonsko "
+"obveznost plačevanja ali pobiranja davkov, za katere ste odgovorni, v skladu"
+" s tem oddelkom, vam ustrezen znesek zaračunamo in plačamo, razen če nam "
+"predložite veljavno potrdilo o oprostitvi davka, ki ga je odobril ustrezni "
+"davčni organ."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Izjave in jamstva:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Vzajemno zastopanje in garancije: Vsaka pogodbenica zastopa in jamči "
+"drugi strani, da (i) ima vsa potrebna pooblastila za sklenitev in izvajanje "
+"obveznosti iz Sporazuma brez privolitve katere koli tretje osebe ali kršitve"
+" katere koli pogodbe ali sporazuma z (ii) vse osebe, ki izpolnjujejo kakršne"
+" koli obveznosti iz tega sporazuma, so sklenile vse potrebne sporazume, da "
+"bo lahko izpolnjeval določila in pogoje sporazuma, in (iii) spoštovala je "
+"materialno spoštovanje vseh zakonov, ki se uporabljajo za Storitve."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Dodatna zastopanja in garancije: Zagotavljate, zastopate in zavezujete "
+"nas, da boste Storitve uporabljali samo v zakonite namene v skladu s "
+"Sporazumom in vsemi veljavnimi politikami in smernicami CaseActive."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Izjava o garanciji: RAZEN IZJAVE JAMSTVENIH GARANCIJ, NAVEDENIH V TEH "
+"ODDELKU 8 DO NAJVEČEGA DOLOČILA, KI JIH DOŽIVA VELJAVNI ZAKON, IZDELAMO "
+"DRUGIH GARANCIJ, IZJAVLJENO, IZVAJANO, STATUTOR ALI DRUGE DRŽAVE V DRUGI "
+"DRŽAVI V DRUGI DRŽAVI TRGOVINE, KAKŠNEGA VSEBNOSTI, VKLJUČNO S TAKO "
+"TRGOVINO, ZADOVOLJSTVENO KAKOVOST, NASLOV, PRIKLADNOST ZA POSEBNI NAMEN ALI "
+"NEVARNOST. NE GARANCIJEMO, DA SO PROGRAMSKA OPREMA ALI STORITVE izpolnili "
+"vse vaše zahteve, VKLJUČNO Z RAČUNOVODNIMI ZAHTEVKI, ALI DA UPORABA "
+"PROGRAMSKE OPREME ALI STORITVE BODO NEPREKRETNI ALI NAPAKA. PROGRAMSKA "
+"OPREMA IN STORITVE VAM NAROČAJO NA PODROČJU &quot;KAKŠEN JE&quot;, VAŠA "
+"UPORABA PROGRAMSKEGA OPREME IN STORITEV JE NA VAŠEM TVEGANJU TVEGANJA, "
+"VKLJUČNO Z BREZ OMEJITEV, SKLADNOST Z NEKATERIMI ZAKONI. STRANKE IZJAVNO "
+"PRIZNAVAJO, DA ZAVRNITEV GARANCIJE USTREZA OSNOVNI DEL SPORAZUMA."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"IZJAVLJAMO VSAKO PREDSTAVITEV ALI GARANCIJ, DA SVOJO UPORABO STORITEV "
+"ZADOVOLJSTVO ALI ZAGOTAVLJAJTE IZPOLNJEVANJE NEKATERIH PRAVNIH OBVEZ ALI "
+"ZAKONOV ALI UREDBE. TO RAZPOLOŽLJIVO ODGOVORI NA BREZ NI OMEJENO NA VSEH "
+"ZVEZNIH ALI DRŽAVNIH STATUT ALI PREDPISOV, KI JIH LAHKO UPORABLJAJO. STE "
+"SAMO ODGOVORNI ZA ZAVAROVANJE, DA JE UPORABA STORITEV V SKLADU Z VELJAVNIMI "
+"ZAKONOM."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"V kolikor ste izgubljeni s storitvami ali s tem dogovorom, morate s svojo "
+"ponudbo in izključitvijo prenehati uporabljati storitve."
+
+msgid "9. Confidential Information:"
+msgstr "9. Zaupne informacije:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Razen če izrecno ne dovoli druga stranka, nobena pogodbenica nobeni tretji "
+"osebi ne razkrije kakršnih koli informacij ali materialov, ki jih je druga "
+"pogodbenica predložila v skladu s Sporazumom in za katere se razumno šteje, "
+"da so zaupne („Zaupne informacije“), niti ne uporablja takšnih zaupnih "
+"informacij na kakršen koli drug način kot da izpolnjuje svoje obveznosti iz "
+"sporazuma. Navedene omejitve ne veljajo za nobene informacije, ki so v javni"
+" domeni ali so že v posesti stranke prejemnika, je bila prejemna stranka "
+"znana pred datumom razkritja ali postane prejemna stranka poznejša od tretje"
+" osebe, ki ima očitno verodostojno pravico do razkritja informacij ali "
+"zaupnih informacij, ki jih je dolžna predložiti stranka prejemnica na "
+"podlagi odredbe pristojnega sodišča ali veljavnega upravnega sodnega poziva,"
+" če stranka prejemnica pošlje stranki, ki je razkrila, pravočasno obvesti "
+"takšno sodišče. nalog ali sodni poziv. Poleg tega boste zagotovili, da bodo "
+"vaši pooblaščeni uporabniki strogo zaupno hranili vsa gesla in druge "
+"informacije o dostopu do storitev. Ta oddelek 9 preživi odpoved ali "
+"prenehanje veljavnosti tega sporazuma."
+
+msgid "10. Indemnification:"
+msgstr "10. Odškodnina:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Odškodnina za kršitev: V skladu z oddelkom 10.4 vas bomo na naše "
+"stroške zagovarjali pred kakršnimi koli zahtevki tretjih oseb, vloženih "
+"proti vam, ki trdijo, da storitve kršijo kakršen koli patent v ZDA, izdan "
+"tretji osebi od datuma začetka veljavnosti; ali kršijo avtorske pravice, "
+"blagovne znamke ali poslovne skrivnosti katere koli tretje osebe (skupaj "
+"imenovane &quot;Intelektualna lastnina, pod katero temeljijo "
+"storitve&quot;). V primeru, da se za uporabo intelektualne lastnine, na "
+"kateri temeljijo storitve, ali po našem mnenju verjetno poiščete ali "
+"pridobite sodno odredbo, bomo po naši izbiri in stroških (i) naročili za vas"
+" in vaše ime pooblastili uporabnike pravico, da nadaljujejo z uporabo "
+"storitev, ali (ii) zamenjajo ali spremenijo storitve, tako da njihova "
+"uporaba ne krši kršitev in hkrati lahko opravljajo isto funkcijo. V primeru,"
+" da zgornjih pododdelkov (i) in (ii) komercialno ni mogoče, lahko Storitve "
+"ukinemo in vrnemo morebitne predplačniške, vendar neuporabljene storitve. Ne"
+" bomo dolžni braniti ali odgovarjati za kakršne koli stroške ali škodo iz "
+"tega oddelka 10.1, če domnevna kršitev izhaja iz ali je na kakršen koli "
+"način posledica (i) kakršne koli spremembe katere koli storitve s strani vas"
+" (ali katerega koli od vaših pooblaščenih oz. določenih uporabnikov) ali "
+"(ii) uporabo storitev v kombinaciji s storitvami in izdelki, ki jih ne "
+"zagotavlja CaseActive, če bi se takšna kršitev izognila brez takšnih "
+"sprememb ali kombinacij, ali (iii) skladnost z vašimi načrti ali navodili "
+"ali (iv) trditev, da ne navaja natančno, da so storitve predmet zahtevka "
+"(vsaka je „izključen zahtevek“). Obveznosti odškodnine iz tega oddelka 10.1 "
+"preživijo vsako odpoved ali prenehanje veljavnosti tega sporazuma."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Odškodnina za varnost podatkov in zasebnost: V skladu z oddelkom 10.4 "
+"in med trajanjem vaše naročnine na storitve vas bomo na naše stroške "
+"zagovarjali pred morebitnimi zahtevki tretjih oseb, vloženih proti vam, ki "
+"navajajo našo hudo malomarnost pri preprečevanju nepooblaščenega dostopa do "
+"ali namerno napačno razkrivanje osebnih podatkov vaših strank, ki jih imamo "
+"v lasti ali pod nadzorom. Ta odškodnina se ne bo nanašala na obseg, ki "
+"izhaja iz takega zahtevka ali se nanaša na vašo malomarnost ali naklepno "
+"ravnanje ali zastopanje vaših zastopnikov ali zastopnikov, ali če nobena od "
+"pogodbenic v skladu s pogodbo odkrije ali omeji odgovornost. Obveznosti "
+"odškodnine, določene v tem razdelku, so odvisne od tega, če dokažete, da je "
+"naša huda malomarnost ali namerna kršitev neposredno in od blizu povzročila "
+"nepooblaščen dostop ali razkritje osebnih podatkov vaših strank, ki jih "
+"imamo v lasti ali nadzoru."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Vaša odškodnina: Strinjate se, da boste obdržali, obdržali neškodljive "
+"in nas ter vse naše zaposlene, častnike, direktorje in zastopnike branili "
+"pred vsemi zahtevki, zahtevami, tožbami, postopki, preiskavami, "
+"odškodninami, stroški, stroški, izgubami in vsemi drugimi obveznosti "
+"(vključno z razumnimi odvetniškimi honorarji, sodnimi stroški in stroški), "
+"ki izhajajo iz ali se nanašajo na (i) vašo uporabo storitev v nasprotju s "
+"sporazumom, (ii) izključen zahtevek, (iii) kakršno koli dejansko ali "
+"domnevno kršitev s strani vas kakršnega koli zastopanja, garancije, zaveze "
+"ali obveznosti v skladu s pogodbo ali (iv) hude malomarnosti ali namerne "
+"kršitve. Vaše odškodninske obveznosti iz tega oddelka 10.3 preživijo vsako "
+"odpoved ali prenehanje veljavnosti sporazuma."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Obveščanje in sodelovanje: Obveznosti odškodninske stranke do "
+"oškodovanca v skladu s tem oddelkom 10 zgoraj so pogojene s (i) odškodninsko"
+" stranjo o odškodninski stranki takoj pisno obvesti, ob vedenju o katerem "
+"koli zahtevku, za katerega je lahko upravičena do odškodnine v skladu s "
+"sporazumom ; (ii) odškodninska stranka, kolikor je to primerno, preneha "
+"uporabljati zahtevane storitve, ki kršijo storitve, potem ko prejme isto "
+"obvestilo; (iii) odškodninska stranka, ki dovoli odškodninski stranki edino "
+"pravico nadzorovati obrambo in poravnavo katere koli takšne terjatve (pod "
+"pogojem, da odškodninska stranka ne more poravnati nobenega zahtevka brez "
+"privolitve odškodninske stranke, razen če poravnava brezpogojno ne odpravi "
+"odškodninske odgovornosti vse odgovornosti); (iv) oškodovanka, ki nudi "
+"zagovorno stranko na račun stroškov oškodovanca pri obrambi takega zahtevka "
+"razumno pomoč; (v) odškodninska stranka, ki ne sklene nobene poravnave ali "
+"kako drugače poravna tak zahtevek brez izrecnega predhodnega pisnega "
+"soglasja ali zahteve oškodovanca; in (vi) odškodninsko stranko, ki "
+"izpolnjuje kakršno koli poravnavo ali odredbo sodišča, vložene v zvezi s "
+"zahtevkom (v zvezi s prihodnjo uporabo kakršnih koli gradiv, ki kršijo "
+"kršitev). Oškodovana stranka lahko sodeluje pri obrambi ali reševanju "
+"zahtevka z zagovornikom po lastni izbiri in na svoje stroške."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Ekskluzivno pravno sredstvo: V tem oddelku 10 je navedena izključna "
+"odgovornost odškodninske stranke do izključne odškodnine druge stranke za "
+"kakršno koli zahtevo, opisano v tem oddelku."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Omejitev odgovornosti:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"Razen za ŠKODO, ki nastajajo v zvezi s kršitvijo oddelku 5.3 ALI 12, v "
+"največjem možnem obsegu dovoljuje zakonodaja, v nobenem primeru ne PA "
+"stranke Skupna odgovornost izhajajo iz ali so v zvezi s sporazumom preseči "
+"vsote zneskov PLAČA VAS ZA STORITVE, KI VELJAJO ZADEVNO ODGOVORNOST V LETU "
+"1-LETNEGA OBDOBJA, PREDPREČNO DATUMI VZROKA DEJAVNOSTI V AROSE."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"Z izjemo SPOŠTOVANJA ŠKODE, KI POVEZUJEJO S POROČILO ODDELKA 5.3 ALI 12, DO "
+"NAJVEČEGA DOVOLJENEGA ZAKONA, NI V PRIMERJU NIKOLI NI BILO PARTNER HERETO, "
+"NJEGOVI LICENCORJI ALI DOBAVITELJI, IMAJO KOLIKO ODGOVORNOST DO DRUGIH "
+"STRANK STROŠKOV NABAVE NADOMESTNIH blaga ali storitev ali za nobeno "
+"posredno, POSEBNO, POSLEDIČNO, NAKLJUČNO ALI NAKLJUČNO ŠKODO, povzročene in "
+"na podlagi TEORIJO ODGOVORNOSTI (vključno z malomarnostjo), KI IZHAJAJO IZ "
+"POGODBE, delovanju ali neizpolnjevanja obveznosti s strani ene ali druge "
+"pogodbenice NJEGOVE OBVEZNOSTI TAKOJ, ČE ALI NISO TAKO STRANI, SPREJELI O "
+"MOŽNOSTI TAKšnih ŠKOD."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"Ker NEKATERA DRŽAVA / PRISTOJNOSTI NE DOVOLJUJEJO IZKLJUČITVE ALI OMEJITEV "
+"ODGOVORNOSTI ZA POSLEDICNE ALI NESKONČNE ŠKODE, PRENO OMEJITEV SE NE morejo "
+"uveljaviti za vas, V katerih je NAŠA ODGOVORNOST DO OMEJENEGA NA MAKSIMALNEM"
+" PREDSTAVLJU."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Osebni podatki in izjava o zasebnosti:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Upoštevali boste vse veljavne zasebnosti in druge zakone, pravila, predpise "
+"in smernice v zvezi z zaščito, zbiranjem, uporabo in distribucijo osebnih "
+"podatkov (kot je opredeljeno spodaj) katere koli osebe. Izjavo o zasebnosti "
+"boste objavili na strani, na kateri zbirate osebne podatke („Izjava o "
+"zasebnosti“), ki so skladni z vsemi veljavnimi zakoni, pravili, predpisi in "
+"smernicami in najmanj obveščajo uporabnike zbranih osebnih podatkov, kako to"
+" se bo uporabljal in kako bo zaščiten ter identificira način zbiranja "
+"(piškotki, spletni svetilniki ali druga ustrezna sredstva) in uporabo "
+"informacij, zbranih v povezavi s storitvami, pridobivanje predhodnega "
+"informiranega soglasja (odobritev) pred uporabo katerega koli sledilne "
+"tehnologije, kolikor zahtevajo veljavni zakoni in predpisi. Takšna izjava o "
+"zasebnosti vključuje tudi tehnične podatke v zvezi z zbiranjem, "
+"posredovanjem in shranjevanjem osebno prepoznavnih podatkov, ki smo jih "
+"posredovali preko storitev. Če to zahteva ustrezna zakonodaja o varstvu "
+"podatkov ali drug zakon ali uredba, boste tretje osebe obvestili, da nam "
+"posredujete njihove osebne podatke za obdelavo in zagotovili, da bodo vse "
+"potrebne tretje osebe soglašale s takim razkritjem in obdelavo. Strinjate "
+"se, da boste upoštevali opise in določbe izjave o zasebnosti. „Osebne "
+"informacije“ pomenijo vse podatke, ki jih je mogoče povezati ali slediti "
+"vsakemu posamezniku, vključno z imenom, naslovom, telefonsko številko, "
+"e-poštnim naslovom, podatki o kreditni kartici, številki socialnega "
+"zavarovanja ali drugimi podobnimi specifičnimi dejanskimi podatki, ne glede "
+"na medije, na katerih se te informacije shranjujejo (npr. na papirju ali v "
+"elektronski obliki)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Razno:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Neodvisne stranke: Vi in CaseActive sta neodvisna pogodbenika. Sporazum"
+" ne ustvarja nobenih skupnih podvigov, partnerstev, agencij ali delovnih "
+"razmerij med pogodbenicama. Vi ste izključno odgovorni za upravljanje svojih"
+" zaposlenih in za vsa in vsa nadomestila, davke, ugodnosti in obveznosti do "
+"svojih zaposlenih in vseh drugih predstavnikov ali ponudnikov storitev. Niti"
+" vi niti kateri koli od vaših zaposlenih, zastopnikov ali ponudnikov "
+"storitev ne dajete nobenih zavez, garancij ali jamstev v zvezi z nami, "
+"sporazumom ali storitvami, razen izrecno pisno pooblaščenih od nas."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Prenos: Nobene pogodbe ali katere koli vaše pravice ali obveznosti iz "
+"te pogodbe se ne smejo dodeliti ali prenesti po zakonu ali kako drugače brez"
+" našega predhodnega pisnega soglasja, razen če je dodeljen interesnemu "
+"nasledniku ali na podlagi združitve reorganizacijo ali prodajo ali prenos "
+"vsega ali pretežno vsega premoženja, o katerem nam pošljete obvestilo, vsaj "
+"trideset (30) dni pred izvedbo transakcije. Naloga, ki jo dodate vi, na "
+"podlagi kakršnih koli drugih okoliščin zahteva naše predhodno soglasje, ki "
+"ga ne sme neupravičeno odvzeti. Ta sporazum lahko prosto dodelimo brez "
+"vašega soglasja. Ob upoštevanju zgoraj navedenega bo ta sporazum zavezujoč "
+"in zavezujoč v korist strank, njihovih naslednikov in dovoljenih "
+"prestopnikov."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Višja sila: Nobena pogodbenica ne bo odgovorna za kakršno koli zamudo, "
+"prekinitev ali drugo neupoštevanje v skladu s Sporazumom zaradi dejanj, ki "
+"niso pod nadzorom odgovorne stranke, vendar le toliko časa, dokler obstajajo"
+" takšni pogoji. Med dogodki višje sile so, vendar niso omejeni na: naravne "
+"nesreče (npr. Strele, potresi, orkani, poplave); vojne, nemiri, teroristične"
+" dejavnosti in civilne mete; dejavnosti lokalnega borznega prevoznika in "
+"druga dejanja tretjih oseb; eksplozije in požari; embargo, stavke in delovne"
+" spore; vladni odloki; okvare telekomunikacijskih ponudnikov ali ponudnikov "
+"internetnih storitev; okvare tretjih dobaviteljev, ponudnikov storitev ali "
+"prodajalcev; in kakršne koli druge vzroke, ki niso razumni nadzor stranke."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Izbira prava: Sporazum in vse spore, ki izhajajo iz Sporazuma ali so v "
+"povezavi s njim, urejajo in razlagajo po zakonih države Kalifornija, ne "
+"glede na načela kolizije zakonov. Za vse spore, ki izhajajo iz sporazuma ali"
+" so povezani z njim, velja izključna pristojnost in prizorišče kalifornijske"
+" zvezne sodišča v zvezni državi Santa Barbara v Kaliforniji, stranke pa "
+"soglašajo z osebno in izključno pristojnostjo teh sodišč."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-pošta in obvestila: Nadalje se strinjate, da vam lahko pošljemo "
+"kakršna koli obvestila, izjave in druga sporočila prek e-pošte, pošte, "
+"storitve hitre dostave ali pa jih pošlje priznani komercialni prevoznik, ki "
+"je naslovljen na zadnji naslov o sporazumu. Vi ste odgovorni za posredovanje"
+" vseh posodobljenih kontaktnih podatkov."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Brez opustitve; Kumulativni pravni ukrepi: Nobena odpoved ali zamuda "
+"pri izvajanju katere koli pravice po tem sporazumu nobena od pogodbenic ne "
+"pomeni odpovedi tej pravici. Poleg izrecno določenih tukaj so pravna "
+"sredstva, navedena v tem dokumentu, poleg in ne izključujejo drugih pravnih "
+"sredstev pravne osebe ali lastniškega kapitala."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Ločljivost: Če ima katero koli določbo tega sporazuma pristojno "
+"sodišče, ki je v nasprotju z zakonom, določbo spremeni sodišče in razlaga "
+"tako, da najbolje doseže cilje izvirne določbe v največji možni meri, ki jo "
+"dovoljuje pravo, preostale določbe tega sporazuma pa ostanejo v celoti "
+"veljavne."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Celotni sporazum: Kolikor dovoljuje veljavna zakonodaja, ta sporazum "
+"skupaj z omenjenimi dokumenti in vsemi naročilnicami in vpisnimi tokovi "
+"predstavlja celoten sporazum med pogodbenicama glede njegove vsebine in "
+"nadomešča vse prejšnje in sodobni sporazumi, predlogi ali zastopanja, pisna "
+"ali ustna v zvezi s predmetom tega sporazuma. V pogajanjih med pogodbenicami"
+" pred tem sporazumom ni mogoče sprejeti nobenega zastopanja, zaveze ali "
+"obljube, ki bi jih bilo treba sprejeti ali nakazovati, kar ni izrecno "
+"navedeno v tem sporazumu. Nobena stranka ne sme imeti nobenega pravnega "
+"sredstva v zvezi s kakršno koli neresnično izjavo druge stranke, na katero "
+"se je ta stranka sklicevala pri sklenitvi tega sporazuma (razen če je bila "
+"taka neresnična izjava dana goljufivo) in da je edino pravno sredstvo "
+"stranke v zvezi s katero koli neresnično izjavo za kršitev pogodbe, kot je "
+"določeno v tem sporazumu. Priznavate in se strinjate, da vaš sporazum v "
+"skladu s tem sporazumom ni odvisen od dobave kakršnih koli prihodnjih "
+"funkcij ali funkcij, ki niso določene v tem ali v naročilnici, ali pa so "
+"odvisne od vseh ustnih ali pisnih, javnih ali zasebnih komentarjev, ki smo "
+"jih dali v zvezi s prihodnjo funkcionalnostjo ali funkcijami za storitve. V "
+"primeru navzkrižja med določbami teh splošnih pogojev storitve in kakršnim "
+"koli naročilnikom ali dodatnimi pogoji storitve prevladajo pogoji takega "
+"naročilnice ali dodatni pogoji storitve v obsegu takega neskladja. Noben "
+"pogoj, naveden v vašem naročilu ali v kateri koli drugi dokumentaciji vašega"
+" naročila, ne sme biti vključen ali sestavni del katerega koli dela te "
+"pogodbe in vsi takšni pogoji so nični."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Izvoz: Obe strani se strinjata, da bosta upoštevali veljavne ameriške "
+"zakone in druge predpise. Svojim uporabnikom ne dovolite dostopa do storitev"
+" ali njihove uporabe s kršitvijo katerega koli ameriškega izvoznega embarga,"
+" prepovedi ali omejitev."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Obveščanje javnosti: Ne smemo vas imenovati kot uporabnika storitev "
+"brez vašega pisnega soglasja."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Povezave do spletnih mest tretjih oseb: Storitve ali naše spletno "
+"mesto lahko vključujejo povezave do spletnih mest tretjih oseb („Povezana "
+"spletna mesta“). Povezanih spletnih mest ne nadzorujemo in ne odgovarjamo za"
+" vsebino katerega koli povezanega spletnega mesta, vključno z nobeno "
+"povezavo na povezanem spletnem mestu, ali za kakršne koli spremembe ali "
+"posodobitve povezanega spletnega mesta ali storitev, ki se zagotavljajo prek"
+" povezanega spletnega mesta. Te povezave vam ponujamo le kot priročnost in "
+"vključitev katere koli povezave ne pomeni, da bomo spletno mesto ali kakršne"
+" koli povezane storitve, ki jih ponuja spletno mesto, potrdili sami."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Soglašate s prejemanjem e-poštnih sporočil, telefonskih klicev in "
+"sporočil SMS od CaseActive za posodabljanje vašega naročila in / ali za "
+"tržne namene. Pogostost sporočil je odvisna od vaše dejavnosti. Lahko se "
+"odjavite tako, da počistite obvestila iz svojega računa ali izbrišete svoj "
+"račun. Lahko veljajo tarife za sporočila in prenos podatkov."
+
+msgid "An error occurred"
+msgstr "Pojavila se je napaka"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Nekaj je šlo narobe. Naši inženirji so bili obveščeni. Za ponovno nalaganje "
+"pritisnite gumb za ponovno nalaganje."
+
+msgid "Reload"
+msgstr "Ponovno naloži"

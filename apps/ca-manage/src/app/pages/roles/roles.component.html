@@ -1,0 +1,94 @@
+<nav id="sub">
+  <div class="items">
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../settings/modules']">{{ 'Modules' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item active-btn">
+      <a [routerLink]="['../roles']">{{ 'Roles' | translate }}</a>
+    </p>
+    <p class="link-a a btn-item disable-btn">
+      <a [routerLink]="['../settings/profile-info']">{{ 'Profile information' | translate }}</a>
+    </p>
+  </div>
+</nav>
+
+<article id="content" class="module-d" (mouseover)="closeSearchDropdownOutside($event)">
+  <p class="notice-a" ca-translate="message" *ngIf="message">{{ message }}</p>
+
+  <!--  <form action="" method="get" (submit)="searchRolesRequest()" class="form-f form-casesearch" *ngIf="!loading">-->
+  <!--    <p class="full-width-input">-->
+  <!--      <label for="fcsa" class="hidden" translate>Keyword</label>-->
+  <!--      <span class="searchKey ticker" (click)="showSearchFilter = true">{{ searchKey }}</span>-->
+  <!--      <input-->
+  <!--        #searchF-->
+  <!--        type="text"-->
+  <!--        id="fcsa"-->
+  <!--        name="searchVal"-->
+  <!--        autocomplete="off"-->
+  <!--        class="search-with-key"-->
+  <!--        (focus)="searchKey == '' ? (showSearchFilter = true) : (showSearchFilter = false)"-->
+  <!--        [formControl]="searchVal"-->
+  <!--      />-->
+  <!--    </p>-->
+
+  <!--    <input type="hidden" name="type" value="user" />-->
+  <!--    <p class="submit">-->
+  <!--      <button type="submit">Search</button>-->
+  <!--    </p>-->
+  <!--    <div class="search-sub-filters" [ngClass]="{ on: showSearchFilter }" *ngIf="!loading">-->
+  <!--      <div class="filter-item" (click)="setSearchKey(RoleSearchAttribute.Name)">Name</div>-->
+  <!--    </div>-->
+  <!--  </form>-->
+
+  <app-loader [active]="loading && !+roles"></app-loader>
+
+  <div *ngIf="!roles?.length && !loading" class="text-center empty-search">
+    <p translate>No role found.</p>
+  </div>
+
+  <div class="table-wrapper">
+    <table class="table-b a" *ngIf="!loading && roles?.length">
+      <tr>
+        <th translate>Name</th>
+        <th translate>Type</th>
+        <th translate>Action</th>
+      </tr>
+      <tr *ngFor="let role of roles; let index = index">
+        <td>{{ role.name }}</td>
+        <td>{{ role.role_type }}</td>
+        <td width="120">
+          <span class="drop-a dropform">
+            <span class="value">--</span>
+            <span class="drop">
+              <a [id]="'editRoleButton-' + index" [routerLink]="'/roles/edit/' + role.role_id" translate>
+                <img class="drop-item-option-img" src="images/item-edit-settings.svg" alt="" />
+                Edit
+              </a>
+              <a
+                appConfirmationPopUp
+                *ngIf="role.role_type !== 'system'"
+                [id]="'deleteRoleButton-' + index"
+                [message]="'You are about to delete role. Are you sure?'"
+                title="Delete Role"
+                (yes)="deleteRole(index)"
+                translate
+              >
+                <img class="drop-item-option-img" src="images/item-delete.svg" alt="" />
+                Delete
+              </a>
+            </span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="pagination_container" *ngIf="startKey">
+    <nav class="pages">
+      <ul class="pagination">
+        <li class="page-item">
+          <a href="javascript:;" class="page-link" (click)="load_more()">Load More</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</article>

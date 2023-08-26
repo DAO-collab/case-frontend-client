@@ -1,0 +1,13 @@
+{
+  "app_updated_feed": "Cuando se agrega una publicaci\u00f3n a Feed",
+  "app_confirmation_events": "Se me solicita confirmaci\u00f3n de asistencia al evento",
+  "app_submission_events": "Mi evento rsvp es respondido",
+  "app_requested_forms": "Se me solicita el env\u00edo del formulario",
+  "app_submission_forms": "Mi formulario es enviado por alguien",
+  "app_requested_signs": "Se me solicita env\u00edo de firma",
+  "app_submission_signs": "Mi documento est\u00e1 firmado por alguien.",
+  "app_requested_tasks": "Me solicitan tarea",
+  "app_submission_tasks": "Mi tarea es completada por alguien.",
+  "app_requested_invoices": "Me solicitan env\u00edo de factura",
+  "app_submission_invoices": "Mi factura es pagada por alguien"
+}

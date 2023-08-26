@@ -1,0 +1,4529 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-21T22:56:06.349692\n"
+"PO-Revision-Date: 2019-03-13T10:04:21.028039\n"
+"Language: id\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "You should choose image file."
+msgstr "Anda harus memilih file gambar."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Unggah dokumen, tandai untuk tanda tangan, dan kemudian klien masuk dan "
+"menandatanganinya. Semuanya dilakukan tanpa klien harus datang ke gedung "
+"kami. Ini berguna untuk klien yang tidak dekat dengan kantor atau yang "
+"tinggal di luar negara .."
+
+msgid "Director of Operations of Capital Insurance"
+msgstr "Direktur Operasi Asuransi Modal"
+
+msgid ""
+"Our associates can log in and see basic information on how their referred "
+"case is going. This has greatly increased our case referrals..."
+msgstr ""
+"Rekan kami dapat masuk dan melihat informasi dasar tentang perkembangan "
+"kasus yang dirujuk. Ini sangat meningkatkan referensi kasus kami ..."
+
+msgid "Partner of Law Office of Christianson & Bayles"
+msgstr "Mitra Kantor Hukum Christianson &amp; Bayles"
+
+msgid ""
+"We no longer have to see clients in the office for meetings, and document "
+"signing is all completed online – brilliant!."
+msgstr ""
+"Kami tidak lagi harus melihat klien di kantor untuk rapat, dan "
+"penandatanganan dokumen selesai secara online - brilian !."
+
+msgid "CEO of EL Passion"
+msgstr "CEO dari EL Passion"
+
+msgid ""
+"Using the API, we completely automated what was displayed in the case feed, "
+"based on specific triggers in our existing system. Pretty convenient.."
+msgstr ""
+"Menggunakan API, kami sepenuhnya mengotomatiskan apa yang ditampilkan dalam "
+"umpan kasus, berdasarkan pemicu khusus di sistem kami yang ada. Cukup nyaman"
+" .."
+
+msgid "IT Manager of Carter Mario Injury Lawyers"
+msgstr "Manajer TI Pengacara Cedera Carter Mario"
+
+msgid ""
+"We have a lot of multilingual clients who use the translation feature. We "
+"post messages with the confidence that they’ll be understood by everyone. "
+"This lets us move from local to global work.."
+msgstr ""
+"Kami memiliki banyak klien multibahasa yang menggunakan fitur terjemahan. "
+"Kami memposting pesan dengan keyakinan bahwa mereka akan dipahami oleh semua"
+" orang. Ini memungkinkan kita beralih dari pekerjaan lokal ke global .."
+
+msgid "CEO of Solid Rock Designs"
+msgstr "CEO Desain Batu Solid"
+
+msgid ""
+"Clients love it! It makes their lives so much easier. They can discuss "
+"issues with us online, upload photos and documents, and everything is stored"
+" where both the team and client can view it.."
+msgstr ""
+"Klien menyukainya! Itu membuat hidup mereka jauh lebih mudah. Mereka dapat "
+"mendiskusikan masalah dengan kami secara online, mengunggah foto dan "
+"dokumen, dan semuanya disimpan di mana tim dan klien dapat melihatnya."
+
+msgid "Partner of Ashley &amp; Ashley P.C."
+msgstr "Mitra Ashley &amp; Ashley PC"
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for.."
+msgstr ""
+"Kami menyukai faktur kasing karena memungkinkan klien melihat persis apa "
+"yang mereka bayar."
+
+msgid "Vice President of Sky Digital"
+msgstr "Wakil Presiden Sky Digital"
+
+msgid ""
+"Cross-linked communication is like having all of your social media and "
+"collaboration tools in one place.."
+msgstr ""
+"Komunikasi yang saling terkait adalah seperti memiliki semua media sosial "
+"dan alat kolaborasi Anda di satu tempat .."
+
+msgid "Director Of Complaint Management"
+msgstr "Direktur Manajemen Pengaduan"
+
+msgid ""
+"Case forms allow us to listen and learn, helping us increase sales through "
+"customer feedback.."
+msgstr ""
+"Formulir kasus memungkinkan kami untuk mendengarkan dan belajar, membantu "
+"kami meningkatkan penjualan melalui umpan balik pelanggan .."
+
+msgid "Director of Sales of Cain &amp; Company"
+msgstr "Direktur Penjualan Kain &amp; Perusahaan"
+
+msgid ""
+"The user interface is very similar to Facebook. It’s extremely easy to use.."
+msgstr ""
+"Antarmuka pengguna sangat mirip dengan Facebook. Ini sangat mudah digunakan "
+".."
+
+msgid "Partner of Wong Medical Group LLC"
+msgstr "Mitra dari Wong Medical Group LLC"
+
+msgid "A pin has been sent to"
+msgstr "Pin telah dikirim ke"
+
+msgid "Cancel"
+msgstr "Membatalkan"
+
+msgid "Send New Pin"
+msgstr "Kirim Pin Baru"
+
+msgid "Need Help?"
+msgstr "Butuh bantuan?"
+
+msgid "Click here to contact us"
+msgstr "Klik di sini untuk menghubungi kami"
+
+msgid "Next"
+msgstr "Lanjut"
+
+msgid "Login or Signup"
+msgstr "Masuk atau mendaftar"
+
+msgid "Invalid email entered"
+msgstr "Email yang dimasukkan tidak valid"
+
+msgid "Processing..."
+msgstr "Pengolahan..."
+
+msgid "Made with"
+msgstr "Dibuat dengan"
+
+msgid "love"
+msgstr "cinta"
+
+msgid "in New York City"
+msgstr "Di kota new york"
+
+msgid "CaseActive"
+msgstr "CaseActive"
+
+msgid "All rights reserved"
+msgstr "Seluruh hak cipta"
+
+msgid "Terms of Use"
+msgstr "Syarat Penggunaan"
+
+msgid "Contact Us"
+msgstr "Hubungi kami"
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "New Password"
+msgstr "kata sandi baru"
+
+msgid "Confirm Password"
+msgstr "konfirmasi sandi"
+
+msgid "Set Your New Password"
+msgstr "Setel Password Baru Anda"
+
+msgid "A code has been sent to"
+msgstr "Kode telah dikirim ke"
+
+msgid "Change Password"
+msgstr "Ganti kata sandi"
+
+msgid "Changing..."
+msgstr "Mengubah ..."
+
+msgid "Login"
+msgstr "Masuk"
+
+msgid "Forgot password?"
+msgstr "Tidak ingat kata sandi?"
+
+msgid "Help"
+msgstr "Tolong"
+
+msgid "Email or Phone"
+msgstr "Email atau Telepon"
+
+msgid "Reset Password"
+msgstr "Reset Password"
+
+msgid ""
+"Enter the e-mail address or phone number associated with your account, then "
+"click submit. We'll email or text you a link to a page where you can easily "
+"create a new password."
+msgstr ""
+"Masukkan alamat email atau nomor telepon yang terkait dengan akun Anda, lalu"
+" klik kirim. Kami akan mengirim email atau mengirim SMS kepada Anda tautan "
+"ke halaman tempat Anda dapat dengan mudah membuat kata sandi baru."
+
+msgid "Request Code"
+msgstr "Kode permintaan"
+
+msgid "Requesting..."
+msgstr "Meminta ..."
+
+msgid "CASEACTIVE IS COMING SOON"
+msgstr "CASEACTIVE akan segera hadir"
+
+msgid "Create a free account"
+msgstr "Buat Akun gratis"
+
+msgid ""
+"We are putting final touches to it. We will notify you when it's ready!"
+msgstr ""
+"Kami sedang melakukan sentuhan akhir untuk itu. Kami akan memberi tahu Anda "
+"jika sudah siap!"
+
+msgid "You’re minutes away from a better collaboration."
+msgstr "Hanya beberapa menit dari kolaborasi yang lebih baik."
+
+msgid "First Name"
+msgstr "Nama depan"
+
+msgid "Last Name"
+msgstr "Nama keluarga"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Company"
+msgstr "Perusahaan"
+
+msgid "No language selected"
+msgstr "Tidak ada bahasa yang dipilih"
+
+msgid "I agree with"
+msgstr "saya setuju dengan"
+
+msgid "Terms of Service"
+msgstr "Persyaratan Layanan"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Have at least one lower case character"
+msgstr "Memiliki setidaknya satu karakter huruf kecil"
+
+msgid "Have at least one capital letter"
+msgstr "Memiliki setidaknya satu huruf kapital"
+
+msgid "Have at least one number"
+msgstr "Miliki setidaknya satu nomor"
+
+msgid "Have at least 8 characters in length"
+msgstr "Panjangnya minimal 8 karakter"
+
+msgid "Type your current password"
+msgstr "Ketikkan kata sandi Anda saat ini"
+
+msgid "Passwords must match"
+msgstr "kata sandi harus cocok"
+
+msgid "Domains"
+msgstr "Domain"
+
+msgid "Javascript are disabled. Please enable it."
+msgstr "Javascript dinonaktifkan Mohon aktifkan."
+
+msgid "Cookies are disabled. Please enable it."
+msgstr "Cookie dinonaktifkan Mohon aktifkan."
+
+msgid "New"
+msgstr "Baru"
+
+msgid "Create A New App"
+msgstr "Buat Aplikasi Baru"
+
+msgid "Apps"
+msgstr "Aplikasi"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Logout"
+msgstr "Keluar"
+
+msgid "Hi"
+msgstr "Hai"
+
+msgid "View your account"
+msgstr "Lihat akun Anda"
+
+msgid "View page"
+msgstr "Lihat halaman"
+
+msgid "You don’t have any apps"
+msgstr "Anda tidak memiliki aplikasi apa pun"
+
+msgid "App"
+msgstr "Aplikasi"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Notifications"
+msgstr "Pemberitahuan"
+
+msgid "No notifications yet."
+msgstr "Belum ada notifikasi."
+
+msgid "Today"
+msgstr "Hari ini"
+
+msgid "Last Week"
+msgstr "Minggu lalu"
+
+msgid "No timezone selected"
+msgstr "Tidak ada zona waktu yang dipilih"
+
+msgid "Complete profile to continue"
+msgstr "Profil lengkap untuk melanjutkan"
+
+msgid "Timezone"
+msgstr "Zona waktu"
+
+msgid "Update"
+msgstr "Memperbarui"
+
+msgid "Website:"
+msgstr "Situs web:"
+
+msgid "Homepage:"
+msgstr "Beranda:"
+
+msgid "Approve Access"
+msgstr "Setujui Akses"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Permissions"
+msgstr "Izin"
+
+msgid "Billing"
+msgstr "Penagihan"
+
+msgid "Payment Plan"
+msgstr "Rencana pembayaran"
+
+msgid "Edit"
+msgstr "Sunting"
+
+msgid "Save"
+msgstr "Menyimpan"
+
+msgid "has access to your information below:"
+msgstr "memiliki akses ke informasi Anda di bawah ini:"
+
+msgid "has invited you to their client portal."
+msgstr "telah mengundang Anda ke portal klien mereka."
+
+msgid "want access to the following information:"
+msgstr "ingin akses ke informasi berikut:"
+
+msgid "Decline"
+msgstr "Menurun"
+
+msgid "Remove Access"
+msgstr "Hapus Akses"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Invites"
+msgstr "Undangan"
+
+msgid "Disabled"
+msgstr "Dengan disabilitas"
+
+msgid "No apps found"
+msgstr "Tidak ada aplikasi yang ditemukan"
+
+msgid "admin"
+msgstr "Admin"
+
+msgid "user"
+msgstr "pengguna"
+
+msgid "manager"
+msgstr "Pengelola"
+
+msgid "active"
+msgstr "aktif"
+
+msgid "inactive"
+msgstr "Tidak aktif"
+
+msgid "Company Name"
+msgstr "Nama Perusahaan"
+
+msgid "Type"
+msgstr "Mengetik"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Invitation"
+msgstr "Undangan"
+
+msgid "About App"
+msgstr "Tentang Aplikasi"
+
+msgid "Billing Info"
+msgstr "Info pembayaran"
+
+msgid "Your Company Name"
+msgstr "Nama perusahaan Anda"
+
+msgid "Your Company Website"
+msgstr "Situs Perusahaan Anda"
+
+msgid "Saving..."
+msgstr "Penghematan..."
+
+msgid "Billing Information"
+msgstr "Informasi tagihan"
+
+msgid "Please add the APP ID provided by the company"
+msgstr "Silakan tambahkan ID APLIKASI yang disediakan oleh perusahaan"
+
+msgid "Select an option"
+msgstr "Pilih opsi"
+
+msgid "Join an existing app as a client"
+msgstr "Bergabunglah dengan aplikasi yang ada sebagai klien"
+
+msgid "Create a new app for my business"
+msgstr "Buat aplikasi baru untuk bisnis saya"
+
+msgid "Create Domain"
+msgstr "Buat Domain"
+
+msgid "Select enterprise app"
+msgstr "Pilih aplikasi perusahaan"
+
+msgid "No item selected"
+msgstr "Tidak ada item yang dipilih"
+
+msgid "Domain name"
+msgstr "Nama domain"
+
+msgid "Add"
+msgstr "Menambahkan"
+
+msgid "No enterprise app found"
+msgstr "Tidak ditemukan aplikasi perusahaan"
+
+msgid "Pending"
+msgstr "Tertunda"
+
+msgid "No domains found"
+msgstr "Tidak ada domain yang ditemukan"
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid "Txt Value"
+msgstr "Nilai Txt"
+
+msgid "Enterprise Host ID"
+msgstr "ID Host Perusahaan"
+
+msgid "Sso"
+msgstr "Sso"
+
+msgid "Action"
+msgstr "Tindakan"
+
+msgid "Delete"
+msgstr "Menghapus"
+
+msgid "Reset"
+msgstr "Mengatur ulang"
+
+msgid "Allow Manual Sign In"
+msgstr "Izinkan Masuk Manual"
+
+msgid "Exclude Emails From SSO"
+msgstr "Kecualikan Email Dari SSO"
+
+msgid "SAML Identity Provider Metadata"
+msgstr "Metadata Penyedia Identitas SAML"
+
+msgid "Submit"
+msgstr "Kirim"
+
+msgid "Profile photo"
+msgstr "Foto Profil"
+
+msgid "Uploading..."
+msgstr "Mengunggah ..."
+
+msgid "has been claimed by another account, please, change it or"
+msgstr "telah diklaim oleh akun lain, tolong, ubah atau"
+
+msgid "reclaim"
+msgstr "memperoleh kembali"
+
+msgid "it"
+msgstr "saya t"
+
+msgid "pending verification:"
+msgstr "verifikasi tertunda:"
+
+msgid "verify"
+msgstr "memeriksa"
+
+msgid "Phone Number"
+msgstr "Nomor telepon"
+
+msgid "Current Password"
+msgstr "kata sandi saat ini"
+
+msgid "Change password"
+msgstr "Ganti kata sandi"
+
+msgid "No gender selected"
+msgstr "Tidak ada jenis kelamin yang dipilih"
+
+msgid "Company Title"
+msgstr "Judul perusahaan"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "Address 2"
+msgstr "alamat 2"
+
+msgid "City/Locality"
+msgstr "Kota / lokalitas"
+
+msgid "State/Region"
+msgstr "Negara bagian / wilayah"
+
+msgid "No country selected"
+msgstr "Tidak ada negara yang dipilih"
+
+msgid "Zip/Postal Code"
+msgstr "Kode pos / pos"
+
+msgid "Basic"
+msgstr "Dasar"
+
+msgid "Date of Birth"
+msgstr "Tanggal lahir"
+
+msgid "Gender"
+msgstr "Jenis kelamin"
+
+msgid "Occupation"
+msgstr "Pendudukan"
+
+msgid "Location"
+msgstr "Lokasi"
+
+msgid "Address is not valid"
+msgstr "Alamat tidak valid"
+
+msgid "City/Locality is not valid"
+msgstr "Kota / Lokalitas tidak valid"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "State/Region is not valid"
+msgstr "Negara Bagian / Wilayah tidak valid"
+
+msgid "Contact Info"
+msgstr "Info kontak"
+
+msgid "Language & Region"
+msgstr "Bahasa &amp; Wilayah"
+
+msgid "Saving"
+msgstr "Penghematan"
+
+msgid "Verify Your"
+msgstr "Verifikasi Anda"
+
+msgid "Verification Code"
+msgstr "Kode verifikasi"
+
+msgid "Resend Code"
+msgstr "Kirim ulang Kode"
+
+msgid "Resending"
+msgstr "Kirim ulang"
+
+msgid "Verify"
+msgstr "Memeriksa"
+
+msgid "Verifying..."
+msgstr "Memverifikasi ..."
+
+msgid "Later"
+msgstr "Kemudian"
+
+msgid "We're here to help"
+msgstr "Kami di sini untuk membantu"
+
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Terima kasih sudah menghubungi kami. Pesan anda telah terkirim. Kami akan "
+"menghubungi Anda segera!"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "characters left"
+msgstr "karakter tersisa"
+
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+msgid "Send"
+msgstr "Kirim"
+
+msgid "Sending..."
+msgstr "Mengirimkan ..."
+
+msgid "You will no longer receive email marketing from the list."
+msgstr "Anda tidak akan lagi menerima pemasaran email dari daftar."
+
+msgid "If you have a moment, please let us know why you unsubscribed:"
+msgstr ""
+"Jika Anda punya waktu, beri tahu kami alasan Anda berhenti berlangganan:"
+
+msgid "Return to our website"
+msgstr "Kembali ke situs web kami"
+
+msgid "Thank you. Your response has been submitted."
+msgstr "Terima kasih. Tanggapan Anda telah dikirimkan."
+
+msgid "No Cases"
+msgstr "Tidak Ada Kasus"
+
+msgid "Layout"
+msgstr "Tata Letak"
+
+msgid "Gallery"
+msgstr "Galeri"
+
+msgid "Speaker"
+msgstr "Pembicara"
+
+msgid "This case has been closed"
+msgstr "Kasus ini telah ditutup"
+
+msgid "Feed"
+msgstr "Makan"
+
+msgid "Images"
+msgstr "Gambar"
+
+msgid "Docs"
+msgstr "Dokumen"
+
+msgid "Audios"
+msgstr "Audios"
+
+msgid "Videos"
+msgstr "Video"
+
+msgid "Files"
+msgstr "File"
+
+msgid "Events"
+msgstr "Acara"
+
+msgid "Forms"
+msgstr "Formulir"
+
+msgid "E-signs"
+msgstr "tanda elektronik"
+
+msgid "Invoices"
+msgstr "Faktur"
+
+msgid "Notes"
+msgstr "Catatan"
+
+msgid "Tasks"
+msgstr "Tugas"
+
+msgid "Convo"
+msgstr "obrolan"
+
+msgid "Great job!"
+msgstr "Kerja bagus!"
+
+msgid "You did all"
+msgstr "Anda melakukan semuanya"
+
+msgid "the tasks"
+msgstr "tugas-tugasnya"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Skip to navigation (n)"
+msgstr "Lewati ke navigasi (n)"
+
+msgid "Skip to content (c)"
+msgstr "Lewati ke konten (c)"
+
+msgid "Skip to footer (f)"
+msgstr "Lewati ke footer (f)"
+
+msgid "Case"
+msgstr "Kasus"
+
+msgid "Search"
+msgstr "Pencarian"
+
+msgid "Using Form Builder"
+msgstr "Menggunakan Form Builder"
+
+msgid "Using Forms Library"
+msgstr "Menggunakan Pustaka Formulir"
+
+msgid "Using E-sign Builder"
+msgstr "Menggunakan Pembuat Tanda Elektronik"
+
+msgid "Using E-signs Library"
+msgstr "Menggunakan Perpustakaan E-sign"
+
+msgid "Documents"
+msgstr "Dokumen"
+
+msgid "Create Note"
+msgstr "Buat Catatan"
+
+msgid "Edit Note"
+msgstr "Edit Catatan"
+
+msgid "End Convo"
+msgstr "Akhiri Obrolan"
+
+msgid "Create Form"
+msgstr "Buat Form"
+
+msgid "Create Sign"
+msgstr "Buat Tanda"
+
+msgid "Event Create"
+msgstr "Pembuatan Acara"
+
+msgid "Convo Videos"
+msgstr "Video Obrolan"
+
+msgid "Convo Audios"
+msgstr "Audio percakapan"
+
+msgid "Cases"
+msgstr "kasus"
+
+msgid "Case categories"
+msgstr "Kategori kasus"
+
+msgid "Your team"
+msgstr "Tim Anda"
+
+msgid "To do"
+msgstr "Melakukan"
+
+msgid "To Do:"
+msgstr "Melakukan:"
+
+msgid "Case Categories"
+msgstr "Kategori Kasus"
+
+msgid "Your Team"
+msgstr "Tim Anda"
+
+msgid "To Do"
+msgstr "Melakukan"
+
+msgid "Yes"
+msgstr "Iya"
+
+msgid "Close"
+msgstr "Dekat"
+
+msgid "Publish"
+msgstr "Menerbitkan"
+
+msgid "Visibility"
+msgstr "Visibilitas"
+
+msgid "all"
+msgstr "semua"
+
+msgid "sign"
+msgstr "tanda"
+
+msgid "Page"
+msgstr "Halaman"
+
+msgid "of"
+msgstr "dari"
+
+msgid "Processing"
+msgstr "Pengolahan"
+
+msgid "failed."
+msgstr "gagal."
+
+msgid "Value should be greater or equal to 1"
+msgstr "Nilai harus lebih besar atau sama dengan 1"
+
+msgid "Repeat end:"
+msgstr "Ulangi akhir:"
+
+msgid "Signature"
+msgstr "Tanda tangan"
+
+msgid "Draw"
+msgstr "Menggambar"
+
+msgid "Write"
+msgstr "Menulis"
+
+msgid "Clear Signature"
+msgstr "Hapus Tanda Tangan"
+
+msgid "Still processing video..."
+msgstr "Masih memproses video ..."
+
+msgid "You"
+msgstr "Anda"
+
+msgid "You are about to delete feed. Are you sure?"
+msgstr "Anda akan menghapus umpan. Apa kamu yakin?"
+
+msgid "No convo audios yet"
+msgstr "Belum ada audio obrolan"
+
+msgid "No convo videos yet"
+msgstr "Belum ada video obrolan"
+
+msgid "Start Convo"
+msgstr "Mulai Obrolan"
+
+msgid "Notify the Host"
+msgstr "Beri tahu Tuan Rumah"
+
+msgid "is in the call"
+msgstr "sedang dalam panggilan"
+
+msgid "and"
+msgstr "dan"
+
+msgid "others are in the call"
+msgstr "yang lain sedang dalam panggilan"
+
+msgid "Audio call is being recorded"
+msgstr "Panggilan audio sedang direkam"
+
+msgid "Video call is being recorded"
+msgstr "Panggilan video sedang direkam"
+
+msgid "Join now"
+msgstr "Bergabung sekarang"
+
+msgid "Dismiss"
+msgstr "Membubarkan"
+
+msgid "Can’t find your "
+msgstr "Tidak dapat menemukan"
+
+msgid "microphone"
+msgstr "mikropon"
+
+msgid "Check your system settings to make sure that "
+msgstr "Periksa pengaturan sistem Anda untuk memastikan bahwa"
+
+msgid ""
+"is available. If not, plug one in. You might need to restart your browser."
+msgstr ""
+"tersedia. Jika tidak, colokkan satu. Anda mungkin perlu memulai ulang "
+"browser Anda."
+
+msgid "web camera"
+msgstr "kamera web"
+
+msgid "You are going to start a Convo call. Start with:"
+msgstr "Anda akan memulai panggilan Convo. Dimulai dari:"
+
+msgid "Video & Audio"
+msgstr "Video & Audio"
+
+msgid "Audio Only"
+msgstr "Audio Saja"
+
+msgid "Record the meeting"
+msgstr "Rekam pertemuan"
+
+msgid "Waiting for someone with permission to start a Convo call"
+msgstr "Menunggu seseorang dengan izin untuk memulai panggilan Convo"
+
+msgid "Add Ticket"
+msgstr "Tambahkan Tiket"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Open"
+msgstr "Membuka"
+
+msgid "Closed"
+msgstr "Tutup"
+
+msgid "You are about to close ticket. Are you sure?"
+msgstr "Anda akan menutup tiket. Apa kamu yakin?"
+
+msgid "Announcements"
+msgstr "Pengumuman"
+
+msgid "Support"
+msgstr "Mendukung"
+
+msgid "Opened"
+msgstr "Dibuka"
+
+msgid "View"
+msgstr "Melihat"
+
+msgid "Locations"
+msgstr "Lokasi"
+
+msgid "You currently have no announcements."
+msgstr "Saat ini Anda tidak memiliki pengumuman."
+
+msgid "You currently have no"
+msgstr "Anda saat ini tidak memiliki"
+
+msgid "open cases. Click"
+msgstr "kasus terbuka. Klik"
+
+msgid "here"
+msgstr "Di Sini"
+
+msgid "to contact support."
+msgstr "untuk menghubungi dukungan."
+
+msgid "closed cases."
+msgstr "kasus tertutup."
+
+msgid "open tickets."
+msgstr "tiket terbuka."
+
+msgid "closed tickets."
+msgstr "tiket tertutup."
+
+msgid "You currently have no locations."
+msgstr "Saat ini Anda tidak memiliki lokasi."
+
+msgid "Write a comment...."
+msgstr "Tulis komen...."
+
+msgid "Post"
+msgstr "Pos"
+
+msgid "Add Location"
+msgstr "Menambahkan lokasi"
+
+msgid "Save Event"
+msgstr "Simpan Acara"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Start Date"
+msgstr "Mulai tanggal"
+
+msgid "Start Time"
+msgstr "Waktu mulai"
+
+msgid "End Date"
+msgstr "Tanggal Akhir"
+
+msgid "End Time"
+msgstr "Akhir waktu"
+
+msgid "Repeat"
+msgstr "Ulang"
+
+msgid "Attendees"
+msgstr "Hadirin"
+
+msgid "Event Location"
+msgstr "Lokasi acara"
+
+msgid "Link"
+msgstr "Tautan"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Attending"
+msgstr "Menghadiri"
+
+msgid "Add to calendar"
+msgstr "Tambahkan ke kalender"
+
+msgid "Details"
+msgstr "rincian"
+
+msgid "Event by"
+msgstr "Acara oleh"
+
+msgid "Duration:"
+msgstr "Durasi:"
+
+msgid "more"
+msgstr "lebih"
+
+msgid "Maybe"
+msgstr "Mungkin"
+
+msgid "Not Attending"
+msgstr "Tidak menghadiri"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "CaseActive Convo"
+msgstr "Obrolan CaseActive"
+
+msgid "Video Conference"
+msgstr "Konferensi video"
+
+msgid "Event details"
+msgstr "Detail acara"
+
+msgid "You don't have permissions to view this page."
+msgstr "Anda tidak memiliki izin untuk melihat halaman ini."
+
+msgid "Your Upcoming Events"
+msgstr "Acara Mendatang Anda"
+
+msgid "Upcoming"
+msgstr "Mendatang"
+
+msgid "Your Past Events"
+msgstr "Acara Anda Yang Lalu"
+
+msgid "Past"
+msgstr "Masa lalu"
+
+msgid "Your Events"
+msgstr "Acara Anda"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "All Events"
+msgstr "Semua acara"
+
+msgid "Directions"
+msgstr "Arah"
+
+msgid "Edit settings"
+msgstr "Edit pengaturan"
+
+msgid "Delete event"
+msgstr "Hapus acara"
+
+msgid "Attending?"
+msgstr "Menghadiri?"
+
+msgid "No Events"
+msgstr "Tidak Ada Acara"
+
+msgid "more comment(s)"
+msgstr "lebih banyak komentar (s)"
+
+msgid "Loading comments"
+msgstr "Memuat komentar"
+
+msgid "You are about to delete comment. Are you sure?"
+msgstr "Anda akan menghapus komentar. Apakah kamu yakin"
+
+msgid "task"
+msgstr "tugas"
+
+msgid "to do"
+msgstr "melakukan"
+
+msgid "tasks"
+msgstr "tugas"
+
+msgid "Write something..."
+msgstr "Menulis sesuatu..."
+
+msgid "Attach File"
+msgstr "Lampirkan file"
+
+msgid "From Template"
+msgstr "Dari Templat"
+
+msgid "No feeds yet."
+msgstr "Belum ada feed."
+
+msgid "comments"
+msgstr "komentar"
+
+msgid "comment"
+msgstr "komentar"
+
+msgid "Add a comment"
+msgstr "Tambahkan komentar"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "No templates"
+msgstr "Tidak ada template"
+
+msgid "Done"
+msgstr "Selesai"
+
+msgid "Select the members who needs to fill this form"
+msgstr "Pilih anggota yang perlu mengisi formulir ini"
+
+msgid "Update Form"
+msgstr "Perbarui Formulir"
+
+msgid "Due Date"
+msgstr "Batas tanggal terakhir"
+
+msgid "Due Time"
+msgstr "Waktunya"
+
+msgid "Loading..."
+msgstr "Pemuatan..."
+
+msgid "Preview"
+msgstr "Pratinjau"
+
+msgid "Save & Close"
+msgstr "Simpan & Tutup"
+
+msgid "Add an element"
+msgstr "Tambahkan elemen"
+
+msgid "Media is converting. We will notify you when it is ready"
+msgstr "Media berubah. Kami akan memberi tahu Anda jika sudah siap"
+
+msgid "Add "
+msgstr "Menambahkan"
+
+msgid "Field"
+msgstr "Bidang"
+
+msgid "Edit "
+msgstr "Sunting"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid "Sub Text"
+msgstr "Sub Teks"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Media failed in converting. Please delete and try again or another."
+msgstr "Media gagal mengonversi. Hapus dan coba lagi atau lainnya."
+
+msgid "Pages"
+msgstr "halaman"
+
+msgid "Saved"
+msgstr "Diselamatkan"
+
+msgid "Insert"
+msgstr "Memasukkan"
+
+msgid "Elements"
+msgstr "Elemen"
+
+msgid "Action Required"
+msgstr "Diperlukan Tindakan"
+
+msgid "Add a new page"
+msgstr "Tambahkan halaman baru"
+
+msgid "Blank page"
+msgstr "Halaman kosong"
+
+msgid "From PDF"
+msgstr "Dari PDF"
+
+msgid "From image"
+msgstr "Dari gambar"
+
+msgid "Add PDF"
+msgstr "Tambahkan PDF"
+
+msgid "Add Image"
+msgstr "Menambahkan gambar"
+
+msgid "Options"
+msgstr "Pilihan"
+
+msgid "Column Names"
+msgstr "Nama Kolom"
+
+msgid "Option already exists."
+msgstr "Opsi sudah ada."
+
+msgid "options list is empty"
+msgstr "daftar opsi kosong"
+
+msgid ""
+"Checkboxes field supports only 5 options. You can change field to dropdown "
+"to add more options"
+msgstr ""
+"Bidang kotak centang hanya mendukung 5 opsi. Anda dapat mengubah bidang "
+"menjadi dropdown untuk menambahkan lebih banyak opsi"
+
+msgid "columns list is empty"
+msgstr "daftar kolom kosong"
+
+msgid "Default Value"
+msgstr "Nilai Default"
+
+msgid "Delete row"
+msgstr "Hapus baris"
+
+msgid "Add a new row"
+msgstr "Tambahkan baris baru"
+
+msgid "Download"
+msgstr "Unduh"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Question"
+msgstr "Pertanyaan"
+
+msgid "Default answer"
+msgstr "Jawaban default"
+
+msgid "Media is converting"
+msgstr "Media sedang mengonversi"
+
+msgid "Send Form"
+msgstr "Kirim Formulir"
+
+msgid "Form Submited."
+msgstr "Formulir Diserahkan."
+
+msgid "You don't have permissions to submit forms."
+msgstr "Anda tidak memiliki izin untuk mengirimkan formulir."
+
+msgid "You currently have no forms of your own"
+msgstr "Saat ini Anda tidak memiliki formulir sendiri"
+
+msgid "Your Uncompleted Forms"
+msgstr "Formulir Anda yang Belum Selesai"
+
+msgid "Uncompleted"
+msgstr "Belum selesai"
+
+msgid "Your Completed Forms"
+msgstr "Formulir Anda yang Diselesaikan"
+
+msgid "Completed"
+msgstr "Lengkap"
+
+msgid "Your Forms"
+msgstr "Formulir Anda"
+
+msgid "All Forms"
+msgstr "Semua Formulir"
+
+msgid "Form Title"
+msgstr "Judul Formulir"
+
+msgid "Author"
+msgstr "Penulis"
+
+msgid "Published"
+msgstr "Diterbitkan"
+
+msgid "Submissions"
+msgstr "Kiriman"
+
+msgid "No Forms"
+msgstr "Tanpa Formulir"
+
+msgid "Upload Form Document"
+msgstr "Unggah Dokumen Formulir"
+
+msgid "Forms Library"
+msgstr "Perpustakaan Formulir"
+
+msgid "No Forms In Library"
+msgstr "Tidak Ada Formulir Di Perpustakaan"
+
+msgid "Answers"
+msgstr "Jawaban"
+
+msgid "Close - Status changed"
+msgstr "Tutup - Status berubah"
+
+msgid "Change Status"
+msgstr "Merubah status"
+
+msgid "Case Number"
+msgstr "Nomor kasus"
+
+msgid "Tag Id"
+msgstr "ID Tag"
+
+msgid "Date Opened"
+msgstr "Tanggal Dibuka"
+
+msgid "Host Id"
+msgstr "ID Tuan Rumah"
+
+msgid "User Id"
+msgstr "Identitas pengguna"
+
+msgid "Case Id"
+msgstr "ID Kasus"
+
+msgid "Confirm your details"
+msgstr "Konfirmasi detail Anda"
+
+msgid "Form Submitted."
+msgstr "Formulir Dikirim."
+
+msgid "Invoice"
+msgstr "Faktur"
+
+msgid "PO No:"
+msgstr "Nomor PO:"
+
+msgid "Reference ID:"
+msgstr "ID Referensi:"
+
+msgid "Term:"
+msgstr "Ketentuan:"
+
+msgid "Note:"
+msgstr "Catatan:"
+
+msgid "QTY"
+msgstr "QTY"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Add more"
+msgstr "Tambahkan lebih banyak"
+
+msgid "Subtotal($)"
+msgstr "Subtotal($)"
+
+msgid "Discount(%)"
+msgstr "Diskon(%)"
+
+msgid "TAX(%)"
+msgstr "PAJAK(%)"
+
+msgid "Total($)"
+msgstr "Jumlah($)"
+
+msgid "Invoice No"
+msgstr "Nomor faktur"
+
+msgid "Select the members who needs to view or pay this invoice"
+msgstr "Pilih anggota yang perlu melihat atau membayar faktur ini"
+
+msgid "Update Invoice"
+msgstr "Perbarui Faktur"
+
+msgid "Create Invoice"
+msgstr "Buat Faktur"
+
+msgid "PO No."
+msgstr "Nomor PO"
+
+msgid "Reference ID"
+msgstr "ID Referensi"
+
+msgid "Term"
+msgstr "Ketentuan"
+
+msgid "Note"
+msgstr "Catatan"
+
+msgid "Quantity"
+msgstr "Kuantitas"
+
+msgid "Price ($)"
+msgstr "Harga ($)"
+
+msgid "Subtotal ($)"
+msgstr "Subtotal ($)"
+
+msgid "Discount (%)"
+msgstr "Diskon (%)"
+
+msgid "Tax (%)"
+msgstr "Pajak (%)"
+
+msgid "Total ($)"
+msgstr "Jumlah ($)"
+
+msgid "Pay Invoice"
+msgstr "Bayar Faktur"
+
+msgid "Payment method"
+msgstr "Cara Pembayaran"
+
+msgid "Add a new payment method"
+msgstr "Tambahkan metode pembayaran baru"
+
+msgid "Summary"
+msgstr "Ringkasan"
+
+msgid "Payment:"
+msgstr "Pembayaran:"
+
+msgid "Total charge:"
+msgstr "Total biaya:"
+
+msgid "Your Unpaid Invoices"
+msgstr "Faktur Anda yang Belum Dibayar"
+
+msgid "Unpaid"
+msgstr "belum dibayar"
+
+msgid "Your Paid Invoices"
+msgstr "Faktur Berbayar Anda"
+
+msgid "Paid"
+msgstr "Dibayar"
+
+msgid "Your Invoices"
+msgstr "Faktur Anda"
+
+msgid "All Invoices"
+msgstr "Semua Faktur"
+
+msgid "Invoice Title"
+msgstr "Judul Faktur"
+
+msgid "No Invoices"
+msgstr "Tidak ada Faktur"
+
+msgid "No Audios yet."
+msgstr "Belum ada Audio."
+
+msgid "Loading failed."
+msgstr "Gagal Memuat."
+
+msgid "retry"
+msgstr "mencoba kembali"
+
+msgid "No documents yet."
+msgstr "Belum ada dokumen."
+
+msgid "No Files yet."
+msgstr "Belum ada File."
+
+msgid "No Images yet."
+msgstr "Belum ada Gambar."
+
+msgid "No Videos yet."
+msgstr "Belum ada Video."
+
+msgid "Page Not Found"
+msgstr "Halaman tidak ditemukan"
+
+msgid "Attachments"
+msgstr "Lampiran"
+
+msgid "Note View"
+msgstr "Tampilan Catatan"
+
+msgid "No Notes"
+msgstr "Tidak ada catatan"
+
+msgid "Select the person to answer this field"
+msgstr "Pilih orang untuk menjawab bidang ini"
+
+msgid "Create E-sign"
+msgstr "Buat tanda elektronik"
+
+msgid "Update E-signs"
+msgstr "Perbarui tanda elektronik"
+
+msgid "Signs"
+msgstr "Tanda-tanda"
+
+msgid "Add Field"
+msgstr "Tambahkan Field"
+
+msgid "Edit Field"
+msgstr "Edit Field"
+
+msgid "Send E-sign"
+msgstr "Kirim tanda elektronik"
+
+msgid "E-sign Submitted."
+msgstr "E-tanda Dikirim."
+
+msgid "You don't have permissions to submit e-signs."
+msgstr "Anda tidak memiliki izin untuk mengirimkan tanda elektronik."
+
+msgid "You currently have no E-signs of your own"
+msgstr "Saat ini Anda tidak memiliki tanda elektronik sendiri"
+
+msgid "Your Uncompleted E-signs"
+msgstr "Tanda-E Anda yang Belum Selesai"
+
+msgid "Your Completed E-signs"
+msgstr "Tanda-E Anda yang Sudah Selesai"
+
+msgid "Your Signs"
+msgstr "Tanda Anda"
+
+msgid "All E-signs"
+msgstr "Semua tanda-E"
+
+msgid "E-sign Title"
+msgstr "Judul tanda elektronik"
+
+msgid "No E-signs"
+msgstr "Tidak ada tanda-E"
+
+msgid "E-Signs Library"
+msgstr "Perpustakaan Tanda Tangan Elektronik"
+
+msgid "No E-signs In Library"
+msgstr "Tidak ada tanda elektronik di Perpustakaan"
+
+msgid "Upload E-sign Document"
+msgstr "Unggah Dokumen Tanda Tangan Elektronik"
+
+msgid "Update Task"
+msgstr "Perbarui Tugas"
+
+msgid "Create Task"
+msgstr "Buat Tugas"
+
+msgid "You currently have no tasks of your own"
+msgstr "Saat ini Anda tidak memiliki tugas sendiri"
+
+msgid "Your Uncompleted Tasks"
+msgstr "Tugas Anda yang Belum Selesai"
+
+msgid "Your Completed Tasks"
+msgstr "Tugas Selesai Anda"
+
+msgid "Your Tasks"
+msgstr "Tugas Anda"
+
+msgid "All Tasks"
+msgstr "Semua Tugas"
+
+msgid "Task"
+msgstr "Tugas"
+
+msgid "Deadline"
+msgstr "Tenggat waktu"
+
+msgid "Assignees"
+msgstr "Penerima tugas"
+
+msgid "In Progress"
+msgstr "Sedang berlangsung"
+
+msgid "Delete task"
+msgstr "Hapus tugas"
+
+msgid "No Tasks"
+msgstr "Tidak Ada Tugas"
+
+msgid "wants access"
+msgstr "menginginkan akses"
+
+msgid "No Answers"
+msgstr "Tidak ada Jawaban"
+
+msgid "Select Field Type"
+msgstr "Pilih Tipe Bidang"
+
+msgid "Text Only"
+msgstr "Hanya Teks"
+
+msgid "Multiple Line Text"
+msgstr "Beberapa Baris Teks"
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+msgid "Multi Dropdown"
+msgstr "Multi Dropdown"
+
+msgid "Checkboxes"
+msgstr "Kotak centang"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Time"
+msgstr "Waktu"
+
+msgid "Yes/No"
+msgstr "Ya Tidak"
+
+msgid "Number"
+msgstr "Jumlah"
+
+msgid "Access Denied"
+msgstr "Akses ditolak"
+
+msgid "You don't have access to this case."
+msgstr "Anda tidak memiliki akses ke kasus ini."
+
+msgid "Imports"
+msgstr "Impor"
+
+msgid "View import"
+msgstr "Lihat impor"
+
+msgid "Sessions"
+msgstr "Sesi"
+
+msgid "Home"
+msgstr "Rumah"
+
+msgid "Users"
+msgstr "Pengguna"
+
+msgid "Library"
+msgstr "Perpustakaan"
+
+msgid "Integration"
+msgstr "Integrasi"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgid "Keys"
+msgstr "Kunci"
+
+msgid "Feed Templates"
+msgstr "Template Umpan"
+
+msgid "Form Templates"
+msgstr "Templat formulir"
+
+msgid "E-sign Templates"
+msgstr "Template tanda elektronik"
+
+msgid "Task Templates"
+msgstr "Templat Tugas"
+
+msgid "Dashboard"
+msgstr "Dasbor"
+
+msgid "Payments"
+msgstr "Pembayaran"
+
+msgid "From"
+msgstr "Dari"
+
+msgid "To"
+msgstr "Untuk"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "User Intake"
+msgstr "Asupan Pengguna"
+
+msgid "Custom Fields"
+msgstr "Bidang Kustom"
+
+msgid "After Actions"
+msgstr "Setelah Tindakan"
+
+msgid "Advance Settings"
+msgstr "Pengaturan Lanjutan"
+
+msgid "Label Name"
+msgstr "Label Nama"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Tag ID"
+msgstr "ID Tag"
+
+msgid "Have many users?"
+msgstr "Memiliki banyak pengguna?"
+
+msgid "Import users"
+msgstr "Impor pengguna"
+
+msgid "or"
+msgstr "atau"
+
+msgid "Send them a signup link."
+msgstr "Kirimi mereka tautan pendaftaran."
+
+msgid "Let's start by entering the email or phone number"
+msgstr "Mari kita mulai dengan memasukkan email atau nomor telepon"
+
+msgid "Phone"
+msgstr "Telepon"
+
+msgid "Invalid phone number entered"
+msgstr "Nomor telepon yang dimasukkan tidak valid"
+
+msgid "A label to easily find a case. it cannot be changed later"
+msgstr ""
+"Label untuk menemukan kasing dengan mudah. itu tidak dapat diubah nanti"
+
+msgid "Visibility:"
+msgstr "Visibilitas:"
+
+msgid "Who can use this template"
+msgstr "Siapa yang dapat menggunakan templat ini?"
+
+msgid "One time"
+msgstr "Satu kali"
+
+msgid "Please enter valid payment information before proceeding"
+msgstr "Harap masukkan informasi pembayaran yang valid sebelum melanjutkan"
+
+msgid "Add Payment"
+msgstr "Tambahkan Pembayaran"
+
+msgid "Repeat every:"
+msgstr "Ulangi setiap:"
+
+msgid "Let's get started"
+msgstr "Mari kita mulai"
+
+msgid "Take me there"
+msgstr "Bawa aku kesana"
+
+msgid "Mark"
+msgstr "Tanda"
+
+msgid "Onboarding"
+msgstr "Orientasi"
+
+msgid "Created on"
+msgstr "Dibuat pada"
+
+msgid "Expires on"
+msgstr "Kadaluarsa pada"
+
+msgid "No announcements yet."
+msgstr "Belum ada pengumuman."
+
+msgid "Add Announcement"
+msgstr "Tambahkan Pengumuman"
+
+msgid "Edit Announcement"
+msgstr "Sunting Pengumuman"
+
+msgid "Date and time should be at least one hour ahead"
+msgstr "Tanggal dan waktu harus setidaknya satu jam lebih awal"
+
+msgid "Delete Date"
+msgstr "Hapus Tanggal"
+
+msgid "Delete Time"
+msgstr "Hapus Waktu"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "No Users Found"
+msgstr "Tidak Ada Pengguna yang Ditemukan"
+
+msgid "No role selected"
+msgstr "Tidak ada peran yang dipilih"
+
+msgid "No permissions added!"
+msgstr "Tidak ada izin ditambahkan!"
+
+msgid "ASSIGNED USERS"
+msgstr "PENGGUNA YANG TETAPKAN"
+
+msgid "CASE PERMISSIONS"
+msgstr "IZIN KASUS"
+
+msgid "User ID"
+msgstr "identitas pengguna"
+
+msgid "Role"
+msgstr "Peran"
+
+msgid "remove"
+msgstr "menghapus"
+
+msgid "Assign User"
+msgstr "Tetapkan Pengguna"
+
+msgid "User"
+msgstr "Pengguna"
+
+msgid "ADD USER"
+msgstr "TAMBAHKAN PENGGUNA"
+
+msgid "Email user about case assignment"
+msgstr "Pengguna email tentang penugasan kasus"
+
+msgid "Keyword"
+msgstr "Kata kunci"
+
+msgid "No cases found."
+msgstr "Tidak ada kasus yang ditemukan."
+
+msgid "Create a case for a business"
+msgstr "Buat sebuah kasus untuk bisnis"
+
+msgid "Case ID"
+msgstr "ID Kasus"
+
+msgid "Created On"
+msgstr "Dibuat pada"
+
+msgid "Case Status"
+msgstr "Status Kasus"
+
+msgid "Case Type"
+msgstr "Jenis Kasus"
+
+msgid "Assign Users"
+msgstr "Tetapkan Pengguna"
+
+msgid "No cases found"
+msgstr "Tidak ada kasus yang ditemukan"
+
+msgid "Have many cases?"
+msgstr "Punya banyak kasus?"
+
+msgid "Click here to import cases."
+msgstr "Klik di sini untuk mengimpor kasus."
+
+msgid "No status selected"
+msgstr "Tidak ada status yang dipilih"
+
+msgid "No type selected"
+msgstr "Tidak ada jenis yang dipilih"
+
+msgid "Case Info"
+msgstr "Info Kasus"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "A permanent label to easily find a case. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Label permanen untuk menemukan kasing dengan mudah. (a-z, 0-9, -, /) "
+"diperbolehkan"
+
+msgid "Case Types"
+msgstr "Jenis Kasus"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "to edit case types"
+msgstr "untuk mengedit jenis kasus"
+
+msgid "No Type selected"
+msgstr "Tidak ada Jenis yang dipilih"
+
+msgid "Case not found!"
+msgstr "Kasus tidak ditemukan!"
+
+msgid "Media Size"
+msgstr "Ukuran Media"
+
+msgid "All statistics"
+msgstr "Semua statistik"
+
+msgid "Import not found."
+msgstr "Impor tidak ditemukan."
+
+msgid ""
+"Processing of file failed. Ensure it is a CSV file type and contain the "
+"correct headers"
+msgstr ""
+"Pemrosesan file gagal. Pastikan itu adalah jenis file CSV dan berisi header "
+"yang benar"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "No Imports yet."
+msgstr "Belum ada Impor."
+
+msgid "Source"
+msgstr "Sumber"
+
+msgid "Stats"
+msgstr "Statistik"
+
+msgid "Passed:"
+msgstr "Lulus:"
+
+msgid "Failed:"
+msgstr "Gagal:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Add Imports"
+msgstr "Tambahkan Impor"
+
+msgid "Download Sample"
+msgstr "Unduh Sampel"
+
+msgid "Choose a file"
+msgstr "Pilih file"
+
+msgid "Edit Key"
+msgstr "Edit Kunci"
+
+msgid "Add Key"
+msgstr "Tambahkan Kunci"
+
+msgid "No Keys yet."
+msgstr "Belum ada kunci."
+
+msgid "Source CIDR"
+msgstr "Sumber CIDR"
+
+msgid "Remove"
+msgstr "Menghapus"
+
+msgid "is invalid."
+msgstr "tidak valid."
+
+msgid "Secret Key"
+msgstr "Kunci rahasia"
+
+msgid ""
+"Make sure to copy your new secret key now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Pastikan untuk menyalin kunci rahasia baru Anda sekarang. Anda tidak akan "
+"bisa melihatnya lagi!"
+
+msgid "Edit Webhook"
+msgstr "Edit Webhook"
+
+msgid "Add Webhook"
+msgstr "Tambahkan Webhook"
+
+msgid "No event selected"
+msgstr "Tidak ada acara yang dipilih"
+
+msgid "No Webhooks yet."
+msgstr "Belum ada Webhook."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Secret Webhook"
+msgstr "Webhook Rahasia"
+
+msgid ""
+"Make sure to copy your new secret webhook now. You won’t be able to see it "
+"again!"
+msgstr ""
+"Pastikan untuk menyalin webhook rahasia baru Anda sekarang. Anda tidak akan "
+"bisa melihatnya lagi!"
+
+msgid "Sign In"
+msgstr "Masuk"
+
+msgid "Login in account page."
+msgstr "Login di halaman akun."
+
+msgid "Edit form builder"
+msgstr "Edit pembuat formulir"
+
+msgid "Delete form"
+msgstr "Hapus formulir"
+
+msgid "No forms yet."
+msgstr "Belum ada formulir."
+
+msgid "Intake Forms"
+msgstr "Formulir Asupan"
+
+msgid "Upload Intake Form Document"
+msgstr "Unggah Dokumen Formulir Penerimaan"
+
+msgid "Add Intake Form"
+msgstr "Tambahkan Formulir Penerimaan"
+
+msgid "Edit Intake Form"
+msgstr "Edit Formulir Penerimaan"
+
+msgid "Show Media"
+msgstr "Tampilkan Media"
+
+msgid "Add Post"
+msgstr "Tambahkan Posting"
+
+msgid "Edit Post"
+msgstr "Edit Pos"
+
+msgid "Files Amount"
+msgstr "Jumlah File"
+
+msgid "No Feed Templates yet."
+msgstr "Belum Ada Template Umpan."
+
+msgid "Post Name"
+msgstr "Nama Pos"
+
+msgid "Post Message"
+msgstr "Kirim Pesan"
+
+msgid "Processing media ..."
+msgstr "Memproses media ..."
+
+msgid "Download original file"
+msgstr "Unduh file asli"
+
+msgid "Could not display media"
+msgstr "Tidak dapat menampilkan media"
+
+msgid "No locations found."
+msgstr "Tidak ditemukan lokasi."
+
+msgid "Main Office"
+msgstr "Kantor pusat"
+
+msgid "Location Name"
+msgstr "Nama lokasi"
+
+msgid "Delete e-sign"
+msgstr "Hapus tanda elektronik"
+
+msgid "No e-signs yet."
+msgstr "Belum ada tanda elektronik."
+
+msgid "Subtasks Count"
+msgstr "Hitungan Subtugas"
+
+msgid "No tasks yet."
+msgstr "Belum ada tugas."
+
+msgid "Invoice ID"
+msgstr "ID faktur"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Refund"
+msgstr "Pengembalian dana"
+
+msgid "No invoices yet."
+msgstr "Belum ada tagihan."
+
+msgid "Refund Reason"
+msgstr "Alasan Pengembalian Dana"
+
+msgid "Duplicate charge"
+msgstr "Biaya duplikat"
+
+msgid "Fraudulent charge"
+msgstr "Biaya penipuan"
+
+msgid "Requested by customer"
+msgstr "Diminta oleh pelanggan"
+
+msgid "On Board"
+msgstr "Di atas kapal"
+
+msgid "Stripe"
+msgstr "Garis"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Role Info"
+msgstr "Info Peran"
+
+msgid "It cannot be changed later"
+msgstr "Itu tidak bisa diubah nanti"
+
+msgid "Role Permissions"
+msgstr "Izin Peran"
+
+msgid "e-signs"
+msgstr "tanda elektronik"
+
+msgid "on"
+msgstr "di"
+
+msgid "Allowed File Sizes"
+msgstr "Ukuran File Diizinkan"
+
+msgid "Create"
+msgstr "Membuat"
+
+msgid "Creating..."
+msgstr "Menciptakan ..."
+
+msgid "Modules"
+msgstr "Modul"
+
+msgid "Roles"
+msgstr "Peran"
+
+msgid "Profile information"
+msgstr "Informasi Profil"
+
+msgid "No role found."
+msgstr "Tidak ditemukan peran."
+
+msgid "When a case is created, auto assign these users"
+msgstr "Saat kasus dibuat, tetapkan pengguna ini secara otomatis"
+
+msgid "Remove All"
+msgstr "Hapus semua"
+
+msgid "User Name"
+msgstr "Nama belakang"
+
+msgid "Notify"
+msgstr "Memberitahukan"
+
+msgid "Host User"
+msgstr "Pengguna Tuan Rumah"
+
+msgid "When a user is assigned to a case, auto add templates"
+msgstr ""
+"Saat pengguna ditugaskan ke sebuah kasus, tambahkan template secara otomatis"
+
+msgid "No post selected"
+msgstr "Tidak ada pos yang dipilih"
+
+msgid "No form selected"
+msgstr "Tidak ada formulir yang dipilih"
+
+msgid "No e-sign selected"
+msgstr "Tidak ada tanda elektronik yang dipilih"
+
+msgid "Templates"
+msgstr "Template"
+
+msgid "Add Templates"
+msgstr "Tambahkan Templat"
+
+msgid "Idle Cases"
+msgstr "Kasus menganggur"
+
+msgid "When a case is idle, post this message"
+msgstr "Saat kasing menganggur, poskan pesan ini"
+
+msgid "No case type selected"
+msgstr "Tidak ada jenis kasus yang dipilih"
+
+msgid "Idle Days"
+msgstr "Hari-hari Menganggur"
+
+msgid "Post Id"
+msgstr "Posting Id"
+
+msgid "Set Idle Message"
+msgstr "Setel Pesan Diam"
+
+msgid "No task selected"
+msgstr "Tidak ada tugas yang dipilih"
+
+msgid "No operation order selected"
+msgstr "Tidak ada urutan operasi yang dipilih"
+
+msgid "Operation Order"
+msgstr "Perintah Operasi"
+
+msgid "Add Templates to Assign Users"
+msgstr "Tambahkan Template untuk Menetapkan Pengguna"
+
+msgid "CaseType"
+msgstr "Tipe Kasus"
+
+msgid "Case Form"
+msgstr "Formulir Kasus"
+
+msgid "User Form"
+msgstr "Formulir Pengguna"
+
+msgid "Notes Form"
+msgstr "Formulir Catatan"
+
+msgid "Defaults"
+msgstr "Default"
+
+msgid "Required"
+msgstr "Wajib"
+
+msgid "Public User Signup link:"
+msgstr "Tautan Pendaftaran Pengguna Publik:"
+
+msgid "Design Settings"
+msgstr "Pengaturan Desain"
+
+msgid "Favicon:"
+msgstr "Favicon:"
+
+msgid "Change file"
+msgstr "Ubah file"
+
+msgid "Delete Favicon"
+msgstr "Hapus Favicon"
+
+msgid "Logo:"
+msgstr "Logo:"
+
+msgid "Delete Logo"
+msgstr "Hapus Logo"
+
+msgid "Text Color"
+msgstr "Warna teks"
+
+msgid "Recommended Colors:"
+msgstr "Warna yang Direkomendasikan:"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "reset"
+msgstr "reset"
+
+msgid "Background Color"
+msgstr "Warna latar belakang"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Company Info"
+msgstr "Info perusahaan"
+
+msgid "Website"
+msgstr "Situs web"
+
+msgid "Terms of Use URL"
+msgstr "Ketentuan Penggunaan URL"
+
+msgid "User Signup"
+msgstr "Pendaftaran Pengguna"
+
+msgid "Allow Signup"
+msgstr "Izinkan Pendaftaran"
+
+msgid "Auto Create Case"
+msgstr "Buat Kasing Otomatis"
+
+msgid "Case User Role"
+msgstr "Peran Pengguna Kasus"
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgid "Analytics Key"
+msgstr "Kunci Analytics"
+
+msgid "delete"
+msgstr "menghapus"
+
+msgid "Crop Image"
+msgstr "Pangkas Gambar"
+
+msgid "No Filter"
+msgstr "Tanpa Filter"
+
+msgid "No logs requested."
+msgstr "Tidak ada log yang diminta."
+
+msgid "Logs list is empty."
+msgstr "Daftar log kosong."
+
+msgid "Download CSV"
+msgstr "Unduh CSV"
+
+msgid "Request Logs"
+msgstr "Minta Log"
+
+msgid "Log Type"
+msgstr "Jenis Log"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Select a case"
+msgstr "Pilih sebuah kasing"
+
+msgid "Enter the email address"
+msgstr "Masukkan alamat email"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Header (3 max)"
+msgstr "Tajuk (3 maks)"
+
+msgid "When a user join app, ask the user to share the following"
+msgstr ""
+"Saat pengguna bergabung dengan aplikasi, minta pengguna untuk membagikan hal"
+" berikut"
+
+msgid "No user intake found."
+msgstr "Tidak ada asupan pengguna yang ditemukan."
+
+msgid "User Type"
+msgstr "Tipe Pengguna"
+
+msgid "Intake Form"
+msgstr "Formulir Asupan"
+
+msgid "Complete After"
+msgstr "Selesaikan Setelah"
+
+msgid "No user type selected"
+msgstr "Tidak ada jenis pengguna yang dipilih"
+
+msgid "No intake form selected"
+msgstr "Tidak ada formulir asupan yang dipilih"
+
+msgid "Complete After Date"
+msgstr "Lengkap Setelah Tanggal"
+
+msgid "Complete After Time"
+msgstr "Lengkap Setelah Waktu"
+
+msgid "Date and time should be less or equal to now"
+msgstr "Tanggal dan waktu harus lebih kecil atau sama dengan sekarang"
+
+msgid "Comment ct"
+msgstr "komentar ct"
+
+msgid "View Ticket"
+msgstr "Lihat Tiket"
+
+msgid "Ticket"
+msgstr "Tiket"
+
+msgid "No tickets yet."
+msgstr "Belum ada tiket."
+
+msgid "User not found."
+msgstr "Pengguna tidak ditemukan."
+
+msgid ""
+"User can edit their account information except for the host user attributes "
+"section."
+msgstr ""
+"Pengguna dapat mengedit informasi akun mereka kecuali untuk bagian atribut "
+"pengguna host."
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "Phone number"
+msgstr "Nomor telepon"
+
+msgid "Zip Postal Code"
+msgstr "Kode Pos Zip"
+
+msgid "Host User Attributes"
+msgstr "Atribut Pengguna Inang"
+
+msgid "User Status"
+msgstr "Status pengguna"
+
+msgid "A permanent label to easily find a user. (a-z, 0-9, -, /) are allowed"
+msgstr ""
+"Label permanen untuk menemukan pengguna dengan mudah. (a-z, 0-9, -, /) "
+"diperbolehkan"
+
+msgid "App only User Intake Fields"
+msgstr "Bidang Intake Pengguna hanya aplikasi"
+
+msgid "APP ONLY CUSTOM FIELDS"
+msgstr "APP HANYA BIDANG KUSTOM"
+
+msgid "s found."
+msgstr "ditemukan."
+
+msgid "Created Date"
+msgstr "Tanggal dibuat"
+
+msgid "View Cases"
+msgstr "Lihat Kasus"
+
+msgid "VIEW CASES"
+msgstr "LIHAT KASUS"
+
+msgid "Get Started"
+msgstr "Memulai"
+
+msgid "Password"
+msgstr "Kata sandi"
+
+msgid "Email is not valid."
+msgstr "Email tidak valid"
+
+msgid "CaseActive lets you and your client"
+msgstr "CaseActive memungkinkan Anda dan klien Anda"
+
+msgid "work together"
+msgstr "bekerja sama"
+
+msgid "at any time, in any place."
+msgstr "kapan saja, di mana saja."
+
+msgid "Explore"
+msgstr "Jelajahi"
+
+msgid "Pricing"
+msgstr "Harga"
+
+msgid "Support & Docs"
+msgstr "Dukungan & Dokumen"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Failed to validate if you are human"
+msgstr "Gagal memvalidasi jika Anda manusia"
+
+msgid "NOTIFY ME WHEN IT'S READY!"
+msgstr "PEMBERITAHUAN SAYA KETIKA SIAP!"
+
+msgid "Thank You!"
+msgstr "Terima kasih!"
+
+msgid "We will notify you when the app is ready"
+msgstr "Kami akan memberi tahu Anda ketika aplikasi siap"
+
+msgid "Most popular"
+msgstr "Paling populer"
+
+msgid "All languages"
+msgstr "Semua bahasa"
+
+msgid "Oops, Something went wrong."
+msgstr "Ups! Ada yang tidak beres."
+
+msgid ""
+"Oops, Something went wrong. Our team has been notified. Please try again "
+"later."
+msgstr ""
+"Ups! Ada yang tidak beres. Tim kami telah diberitahu. Silakan coba lagi "
+"nanti."
+
+msgid "Support Documentation"
+msgstr "Dokumentasi Pendukung"
+
+msgid "All Categories"
+msgstr "semua Kategori"
+
+msgid "Contents"
+msgstr "Isi"
+
+msgid "Related Articles"
+msgstr "Artikel Terkait"
+
+msgid "Get started: processes, best practices, setup guides, and more!"
+msgstr "Mulai: proses, praktik terbaik, panduan penyiapan, dan banyak lagi!"
+
+msgid "Find anything you need to get to work in CaseActive."
+msgstr "Temukan apa pun yang Anda perlukan untuk mulai bekerja di CaseActive."
+
+msgid "All case communication in one spot"
+msgstr "Semua komunikasi kasus dalam satu tempat"
+
+msgid ""
+"Converse, post updates, answer questions, take notes, comment, and have all "
+"discussions tagged by real-time email and SMS notifications."
+msgstr ""
+"Berkomunikasi, memposting pembaruan, menjawab pertanyaan, mencatat, "
+"mengomentari, dan meminta semua diskusi ditandai dengan pemberitahuan waktu-"
+"nyata melalui email dan SMS."
+
+msgid "Share with confidence"
+msgstr "Bagikan dengan percaya diri"
+
+msgid ""
+"Share documents and photos between clients and team members across any and "
+"all devices, so everyone keeps up-to-date."
+msgstr ""
+"Bagikan dokumen dan foto antara klien dan anggota tim di setiap dan semua "
+"perangkat, sehingga semua orang tetap terbarui."
+
+msgid "Take it on the go"
+msgstr "Ikuti terus"
+
+msgid ""
+"Use mobile devices like tablets and smartphones to collaborate on key "
+"details, discuss major issues, exchange documents, and chart case progress "
+"in real time."
+msgstr ""
+"Gunakan perangkat seluler seperti tablet dan smartphone untuk berkolaborasi "
+"pada detail utama, membahas masalah utama, bertukar dokumen, dan membuat "
+"bagan kemajuan secara real time."
+
+msgid "Immediate records access"
+msgstr "Akses catatan langsung"
+
+msgid ""
+"Authorized users can quickly access client data and case information "
+"(including current, past, open, closed, and pending cases), all through one "
+"portal."
+msgstr ""
+"Pengguna yang berwenang dapat dengan cepat mengakses data klien dan "
+"informasi kasus (termasuk case saat ini, masa lalu, buka, tutup, dan "
+"tertunda), semua melalui satu portal."
+
+msgid "Automatic timezone conversion"
+msgstr "Konversi zona waktu otomatis"
+
+msgid ""
+"Whether traveling or staying in another location, you’ll be in sync with our"
+" time-zone conversation management system."
+msgstr ""
+"Baik bepergian atau tinggal di lokasi lain, Anda akan sinkron dengan sistem "
+"manajemen percakapan zona waktu kami."
+
+msgid "Track Events"
+msgstr "Lacak Acara"
+
+msgid ""
+"Quickly schedule meetings, monitor upcoming events, and invite clients and "
+"team members as attendees."
+msgstr ""
+"Jadwalkan rapat dengan cepat, pantau acara mendatang, dan undang klien dan "
+"anggota tim sebagai peserta."
+
+msgid "Video Conferencing"
+msgstr "Konferensi video"
+
+msgid ""
+"Connect with clients and team members via live video chats for even more "
+"interactivity."
+msgstr ""
+"Terhubung dengan klien dan anggota tim melalui obrolan video langsung untuk "
+"lebih banyak interaktivitas."
+
+msgid "Automate tasks when a case is created or a user is assigned to a case."
+msgstr ""
+"Mengotomatiskan tugas saat kasus dibuat atau pengguna ditugaskan ke kasus."
+
+msgid "Automated Alerts"
+msgstr "Lansiran Otomatis"
+
+msgid ""
+"Want to wish your clients a Happy Birthday? Set up an automatic message for "
+"both past and current clients for their special day!"
+msgstr ""
+"Ingin mengucapkan Selamat Ulang Tahun kepada klien Anda? Siapkan pesan "
+"otomatis untuk klien masa lalu dan saat ini untuk hari istimewa mereka!"
+
+msgid "Keeping Client details up-to-date"
+msgstr "Menjaga detail Klien tetap mutakhir"
+
+msgid ""
+"Clients can modify their profiles with updated data, photos, passwords, and "
+"account settings."
+msgstr ""
+"Klien dapat memodifikasi profil mereka dengan data yang diperbarui, foto, "
+"kata sandi, dan pengaturan akun."
+
+msgid "Ask Questions, Get Answers."
+msgstr "Ajukan Pertanyaan, Dapatkan Jawaban."
+
+msgid ""
+"Create custom forms and send them to clients for completion. Gather "
+"essential information, provide exit surveys, and get all the data you need "
+"to do your job well!"
+msgstr ""
+"Buat formulir kustom dan kirimkan ke klien untuk penyelesaian. Kumpulkan "
+"informasi penting, berikan survei keluar, dan dapatkan semua data yang Anda "
+"butuhkan untuk melakukan pekerjaan Anda dengan baik!"
+
+msgid ", Director of Sales of Cain & Company"
+msgstr ", Direktur Penjualan Kain &amp; Perusahaan"
+
+msgid ""
+"Make client billing as straightforward as possible with online invoices and "
+"payments."
+msgstr ""
+"Buat penagihan klien semudah mungkin dengan faktur dan pembayaran online."
+
+msgid ""
+"We love the case invoicing because it lets clients see exactly what they’re "
+"paying for."
+msgstr ""
+"Kami menyukai faktur kasing karena memungkinkan klien melihat persis apa "
+"yang mereka bayar."
+
+msgid ", Vice President of Sky Digital"
+msgstr ", Wakil Presiden Sky Digital"
+
+msgid "Enjoy the ease of e-signing"
+msgstr "Nikmati kemudahan e-penandatanganan"
+
+msgid ""
+"Electronically sign off all documents through DocSign, using uploaded "
+"documents and digital client signature requests and confirmation."
+msgstr ""
+"Keluar secara elektronik dari semua dokumen melalui DocSign, menggunakan "
+"dokumen yang diunggah dan permintaan dan konfirmasi tanda tangan klien "
+"digital."
+
+msgid ""
+"Upload a document, mark it for signature, and then the client logs in and "
+"e-signs it. Everything gets done without the client having to come into our "
+"building. This is handy with clients who aren’t close to an office or who "
+"live out-of-state.."
+msgstr ""
+"Unggah dokumen, tandai untuk tanda tangan, lalu klien masuk dan "
+"menandatanganinya secara elektronik. Semuanya dilakukan tanpa klien harus "
+"datang ke gedung kami. Ini berguna untuk klien yang tidak dekat dengan "
+"kantor atau yang tinggal di luar negara bagian.."
+
+msgid ", Director of Operations of Capital Insurance"
+msgstr ", Direktur Operasi Asuransi Modal"
+
+msgid "Enhance Your System. Less Work, More Results."
+msgstr "Tingkatkan Sistem Anda. Kurang Bekerja, Lebih Banyak Hasil."
+
+msgid "Use the Self-Serve Administrative Feature"
+msgstr "Gunakan Fitur Administratif Swa-Sajikan"
+
+msgid ""
+"Take total control of your CaseActive management suite from the platform "
+"itself."
+msgstr ""
+"Ambil kendali total dari suite manajemen CaseActive Anda dari platform itu "
+"sendiri."
+
+msgid "Effortlessly link your existing system with CaseActive"
+msgstr "Tautkan sistem Anda yang ada dengan CaseActive dengan mudah"
+
+msgid ""
+"Integrate our proprietary API to automatically create cases, assign users, "
+"and generate reports based on your system input."
+msgstr ""
+"Integrasikan API eksklusif kami untuk secara otomatis membuat kasus, "
+"menetapkan pengguna, dan menghasilkan laporan berdasarkan input sistem Anda."
+
+msgid "Acting as a"
+msgstr "Bertindak sebagai"
+
+msgid "virtual administrative assistant"
+msgstr "asisten administrasi virtual"
+
+msgid ""
+", CaseActive empowers you with streamlined document and media handling, "
+"private"
+msgstr ""
+", CaseActive memberdayakan Anda dengan penanganan dokumen dan media yang "
+"efisien, pribadi"
+
+msgid "client-to-customer communications"
+msgstr "komunikasi klien-ke-pelanggan"
+
+msgid "event scheduling, and step-by-step case processing."
+msgstr "penjadwalan acara, dan pemrosesan kasus selangkah demi selangkah."
+
+msgid "Self-Serve Administration"
+msgstr "Administrasi Mandiri"
+
+msgid ""
+"Acting as a virtual administrative assistant, CaseActive empowers you with "
+"streamlined document and media handling, private client-to-customer "
+"communications, event scheduling, and step-by-step case processing."
+msgstr ""
+"Bertindak sebagai asisten administrasi virtual, CaseActive memberdayakan "
+"Anda dengan penanganan dokumen dan media yang efisien, komunikasi klien-ke-"
+"pelanggan, penjadwalan acara, dan pemrosesan kasus selangkah demi selangkah."
+
+msgid "Manage User Logins & Case Creation"
+msgstr "Kelola Login Pengguna &amp; Pembuatan Kasus"
+
+msgid ""
+"Directly oversee the creation of user accounts while authorizing their "
+"access permissions on a case-by-case basis. Manage case creation, progress, "
+"and closing, with full reporting every step of the way."
+msgstr ""
+"Langsung mengawasi pembuatan akun pengguna sambil mengotorisasi izin akses "
+"mereka berdasarkan kasus per kasus. Kelola pembuatan kasus, kemajuan, dan "
+"penutupan, dengan pelaporan lengkap di setiap langkah."
+
+msgid "View Caseactive Analytics"
+msgstr "Lihat Analisis Caseactive"
+
+msgid ""
+"See exactly how a case is progressing, the number of cases successfully "
+"closed, and see response times via CaseActive’s thorough analytics module. "
+"Knowledge is power, and we’ve given you everything there is to know about "
+"your own projects."
+msgstr ""
+"Lihat persis bagaimana suatu kasus berkembang, jumlah kasus berhasil "
+"ditutup, dan lihat waktu tanggapan melalui modul analitik menyeluruh "
+"CaseActive. Pengetahuan adalah kekuatan, dan kami telah memberi Anda segala "
+"sesuatu yang perlu diketahui tentang proyek Anda sendiri."
+
+msgid "Monitor User Logs"
+msgstr "Monitor Log Pengguna"
+
+msgid ""
+"Keep an eye on client and team member logins and platform activity to ensure"
+" all their actions are authorized within the case parameters and that all "
+"members are performing their duties as required."
+msgstr ""
+"Mengawasi login klien dan anggota tim dan aktivitas platform untuk "
+"memastikan semua tindakan mereka diotorisasi dalam parameter kasus dan bahwa"
+" semua anggota melakukan tugas mereka sebagaimana diperlukan."
+
+msgid "Employ Advanced Searches"
+msgstr "Gunakan Pencarian Lanjutan"
+
+msgid ""
+"Find exactly what you need when you need it. Search cases by user and client"
+" names, keywords, timelines, uploaded documents, and much more!"
+msgstr ""
+"Temukan apa yang Anda butuhkan saat Anda membutuhkannya. Cari kasus "
+"berdasarkan nama pengguna dan klien, kata kunci, jadwal, dokumen yang "
+"diunggah, dan banyak lagi!"
+
+msgid "Create Custom Fields"
+msgstr "Buat Bidang Kustom"
+
+msgid ""
+"Generate specialized case fields for client and team member input, and "
+"gather the data you need from everyone involved. Make the case interface "
+"unique to your business and brand!"
+msgstr ""
+"Hasilkan bidang kasus khusus untuk input klien dan anggota tim, dan "
+"kumpulkan data yang Anda butuhkan dari semua orang yang terlibat. Jadikan "
+"antarmuka case unik untuk bisnis dan merek Anda!"
+
+msgid "Create Custom Templates"
+msgstr "Buat Template Kustom"
+
+msgid ""
+"Develop an enormous range of custom forms and templates for distribution and"
+" completion both during and after a case (like client exit surveys). "
+"Whatever form you need, you can create!"
+msgstr ""
+"Kembangkan sejumlah besar formulir dan templat khusus untuk distribusi dan "
+"penyelesaian selama dan setelah suatu kasus (seperti survei keluar klien). "
+"Apa pun bentuk yang Anda butuhkan, Anda dapat membuatnya!"
+
+msgid "Violet Cherry"
+msgstr "Violet Cherry"
+
+msgid "As-You-Go Invoicing"
+msgstr "Faktur As-You-Go"
+
+msgid "Kenny Herndon"
+msgstr "Kenny Herndon"
+
+msgid "Patrick Bennett"
+msgstr "Patrick Bennett"
+
+msgid ""
+"We’re here to help! Get in touch if you still have any questions and we’ll "
+"reply within two working days."
+msgstr ""
+"Kami di sini untuk membantu! Hubungi jika Anda masih memiliki pertanyaan dan"
+" kami akan membalas dalam dua hari kerja."
+
+msgid "* Email is not valid."
+msgstr "* Email tidak valid"
+
+msgid "Low"
+msgstr "Rendah"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "High"
+msgstr "Tinggi"
+
+msgid "Critical"
+msgstr "Kritis"
+
+msgid "Choose Importance"
+msgstr "Pilih Pentingnya"
+
+msgid "Department"
+msgstr "Departemen"
+
+msgid "Sales"
+msgstr "Penjualan"
+
+msgid "Other"
+msgstr "Lain"
+
+msgid "Choose Department"
+msgstr "Pilih Departemen"
+
+msgid "Loading"
+msgstr "Pemuatan"
+
+msgid "Importance"
+msgstr "Pentingnya"
+
+msgid "Send A New Message"
+msgstr "Kirim Pesan Baru"
+
+msgid "Send message"
+msgstr "Mengirim pesan"
+
+msgid "Answers to Questions"
+msgstr "Jawaban atas Pertanyaan"
+
+msgid ""
+"Have any questions? Read further guidance in our answers to customers’ "
+"queries and find the answers to your own."
+msgstr ""
+"Ada pertanyaan? Baca panduan lebih lanjut dalam jawaban kami untuk "
+"pertanyaan pelanggan dan temukan jawaban Anda sendiri."
+
+msgid "How secure is CaseActive?"
+msgstr "Seberapa aman CaseActive?"
+
+msgid ""
+"CaseActive uses military and bank grade 128-bit SSL encryption for data "
+"transmission and 256-bit AES encryption for data at rest. Every CaseActive "
+"instance has a unique key generated, providing an additional layer of "
+"security for your business. We will never allow another company to access "
+"your database or storage system."
+msgstr ""
+"CaseActive menggunakan enkripsi SSL 128-bit kelas militer dan bank untuk "
+"transmisi data dan enkripsi AES 256-bit untuk data saat istirahat. Setiap "
+"instans CaseActive memiliki kunci unik yang dihasilkan, memberikan lapisan "
+"keamanan tambahan untuk bisnis Anda. Kami tidak akan pernah mengizinkan "
+"perusahaan lain untuk mengakses database atau sistem penyimpanan Anda."
+
+msgid ""
+"I have an existing system in place, Can CaseActive work with my existing "
+"system?"
+msgstr ""
+"Saya memiliki sistem yang sudah ada, Dapatkah CaseActive bekerja dengan "
+"sistem saya yang sudah ada?"
+
+msgid ""
+"Yes, you can integrate our proprietary API or import module to automatically"
+" create cases, assign users, and generate reports based on your system "
+"input."
+msgstr ""
+"Ya, Anda dapat mengintegrasikan API milik kami atau modul impor untuk "
+"membuat kasus secara otomatis, menetapkan pengguna, dan menghasilkan laporan"
+" berdasarkan masukan sistem Anda."
+
+msgid ""
+"We have clients all over the world. Is CaseActive available in other "
+"languages?"
+msgstr ""
+"Kami memiliki klien di seluruh dunia. Apakah CaseActive tersedia dalam "
+"bahasa lain?"
+
+msgid ""
+"Yes, CaseActive app and communication can be translated into over 60 "
+"languages, including, Mandarin Chinese, Spanish, Hindi and Russian as well "
+"as English."
+msgstr ""
+"Ya, aplikasi dan komunikasi CaseActive dapat diterjemahkan ke lebih dari 60 "
+"bahasa, termasuk, Cina Mandarin, Spanyol, Hindi dan Rusia serta Inggris."
+
+msgid "Can I add a logo or customize CaseActive in any way?"
+msgstr ""
+"Dapatkah saya menambahkan logo atau menyesuaikan CaseActive dengan cara apa "
+"pun?"
+
+msgid ""
+"Absolutely! CaseActive was designed with you in mind. On the admin panel "
+"setting page, you can upload your own personal color and choose your company"
+" colors."
+msgstr ""
+"Sangat! CaseActive dirancang dengan mempertimbangkan Anda. Pada halaman "
+"pengaturan panel admin, Anda dapat mengunggah warna pribadi Anda dan memilih"
+" warna perusahaan Anda."
+
+msgid "Is CaseActive compatible with any device (PC, Mac, Tablet and Mobile)?"
+msgstr ""
+"Apakah CaseActive kompatibel dengan perangkat apa pun (PC, Mac, Tablet, dan "
+"Seluler)?"
+
+msgid ""
+"CaseActive is a responsive web app. It runs in any web browser like Internet"
+" Explorer, Firefox, Safari or Chrome, etc. This means that the type of "
+"device (PC, Mac, Tablet and Mobile) you are using makes no difference. "
+"Simply open the web browser, log in to your CaseActive account, and you are "
+"all set."
+msgstr ""
+"CaseActive adalah aplikasi web responsif. Ini berjalan di browser web apa "
+"pun seperti Internet Explorer, Firefox, Safari atau Chrome, dll. Ini berarti"
+" bahwa jenis perangkat (PC, Mac, Tablet, dan Seluler) yang Anda gunakan "
+"tidak ada bedanya. Cukup buka browser web, masuk ke akun CaseActive Anda, "
+"dan Anda sudah siap."
+
+msgid "How many clients can I have?"
+msgstr "Berapa banyak klien yang dapat saya miliki?"
+
+msgid ""
+"You are billed per staff seat, per month. You can have unlimited client "
+"users."
+msgstr ""
+"Anda ditagih per kursi staf, per bulan. Anda dapat memiliki pengguna klien "
+"yang tidak terbatas."
+
+msgid "Enhance User Experience"
+msgstr "Tingkatkan Pengalaman Pengguna"
+
+msgid ""
+"There are no minimum fees and no upfront commitments. You only pay per staff"
+" seat, per month."
+msgstr ""
+"Tidak ada biaya minimum dan tidak ada komitmen di muka. Anda hanya membayar "
+"per kursi staf, per bulan."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "per Month"
+msgstr "per bulan"
+
+msgid "Everything you need to get started. 3 seats are included."
+msgstr "Semua yang Anda butuhkan untuk memulai. 3 kursi disertakan."
+
+msgid "Business"
+msgstr "Bisnis"
+
+msgid "Popular"
+msgstr "Populer"
+
+msgid "Our most popular plan. 4 seats are included."
+msgstr "Rencana kami yang paling populer. 4 kursi disertakan."
+
+msgid "Enterprise"
+msgstr "Perusahaan"
+
+msgid "Contact sales for pricing"
+msgstr "Hubungi penjualan untuk harga"
+
+msgid "Custom Pricing, Advanced features, SSO, Webhooks."
+msgstr "Harga Khusus, Fitur lanjutan, SSO, Webhook."
+
+msgid "Contact Sales"
+msgstr "Hubungi Penjualan"
+
+msgid "Overview"
+msgstr "Ringkasan"
+
+msgid "Communicate and share docs with your clients"
+msgstr "Berkomunikasi dan berbagi dokumen dengan klien Anda"
+
+msgid "Schedule recurring events and meetings"
+msgstr "Jadwalkan acara dan rapat berulang"
+
+msgid "Fully customize your form to generate data"
+msgstr "Sesuaikan formulir Anda sepenuhnya untuk menghasilkan data"
+
+msgid "Keep track of case progression"
+msgstr "Melacak perkembangan kasus"
+
+msgid "Request compliant e-signatures from multiple users"
+msgstr "Minta tanda tangan elektronik yang sesuai dari banyak pengguna"
+
+msgid "Generate invoice for your client to view or pay"
+msgstr "Hasilkan faktur untuk dilihat atau dibayar klien Anda"
+
+msgid "ToDos"
+msgstr "Yang Harus Dilakukan"
+
+msgid "Allows everyone to know what is coming up and due"
+msgstr "Memungkinkan semua orang tahu apa yang akan datang dan jatuh tempo"
+
+msgid "Auto notify the user when something is due"
+msgstr ""
+"Beri tahu pengguna secara otomatis ketika ada sesuatu yang jatuh tempo"
+
+msgid "Add custom case fields for all your cases"
+msgstr "Tambahkan bidang kasus khusus untuk semua kasus Anda"
+
+msgid "Custom Branding"
+msgstr "Merek Kustom"
+
+msgid "Make your app unique with logo and color styles"
+msgstr "Jadikan aplikasi Anda unik dengan logo dan gaya warna"
+
+msgid "Access to customer support"
+msgstr "Akses ke dukungan pelanggan"
+
+msgid "Storage"
+msgstr "Penyimpanan"
+
+msgid "Unlimited"
+msgstr "Tak terbatas"
+
+msgid "Additional Users Seats"
+msgstr "Kursi Pengguna Tambahan"
+
+msgid "N/A"
+msgstr "T/A"
+
+msgid "$83.34"
+msgstr "$83,34"
+
+msgid "Convo with recording"
+msgstr "Obrolan dengan rekaman"
+
+msgid "Video or audio chat with recording saved to the case"
+msgstr "Obrolan video atau audio dengan rekaman yang disimpan ke kasing"
+
+msgid "API Access"
+msgstr "Akses API"
+
+msgid "Automate tasks with access to API"
+msgstr "Mengotomatiskan tugas dengan akses ke API"
+
+msgid "Module Templates"
+msgstr "Template Modul"
+
+msgid "Create a standard template and reuse it"
+msgstr "Buat template standar dan gunakan kembali"
+
+msgid "Autorun an action when a case or case assigned is triggered"
+msgstr ""
+"Jalankan otomatis tindakan saat kasus atau kasus yang ditetapkan dipicu"
+
+msgid "Newsletter"
+msgstr "Buletin"
+
+msgid "Send general, birthday, or holiday messages to clients (Coming Soon)"
+msgstr "Kirim pesan umum, ulang tahun, atau liburan ke klien (Segera Hadir)"
+
+msgid "Encryption at rest"
+msgstr "Enkripsi saat istirahat"
+
+msgid "Protects your data from system compromise"
+msgstr "Melindungi data Anda dari gangguan sistem"
+
+msgid "Encryption in transit"
+msgstr "Enkripsi dalam perjalanan"
+
+msgid "Protects your data if communications are intercepted"
+msgstr "Melindungi data Anda jika komunikasi dicegat"
+
+msgid "SAML-based single sign-on (SSO)"
+msgstr "Sistem masuk tunggal (SSO) berbasis SAML"
+
+msgid "Respond realtime to events"
+msgstr "Tanggapi acara secara realtime"
+
+msgid "Seamless Collaboration"
+msgstr "Kolaborasi yang Mulus"
+
+msgid ""
+"CaseActive streamlines digital collaboration between your company and "
+"clients - from consultation to resolution, all on one platform."
+msgstr ""
+"CaseActive merampingkan kolaborasi digital antara perusahaan Anda dan klien "
+"- dari konsultasi hingga resolusi, semuanya dalam satu platform."
+
+msgid "Take a tour"
+msgstr "Ikuti tur"
+
+msgid "Stay Connected"
+msgstr "Tetap terhubung"
+
+msgid ""
+"Maintain instant contact with team members using CaseActive's user-friendly "
+"interface as your one-stop hub for client and case management."
+msgstr ""
+"Pertahankan kontak instan dengan anggota tim menggunakan antarmuka yang "
+"ramah pengguna dari CaseActive sebagai hub terpadu untuk manajemen klien dan"
+" kasus."
+
+msgid "Connect"
+msgstr "Menghubungkan"
+
+msgid "Case Feed keeps you up-to-date with your clients."
+msgstr "Umpan Kasus membuat Anda tetap terbarui dengan klien Anda."
+
+msgid "Schedule"
+msgstr "Susunan acara"
+
+msgid "Create events, invite attendees, and monitor your calendar."
+msgstr "Buat acara, undang peserta, dan pantau kalender Anda."
+
+msgid "Call"
+msgstr "Panggilan"
+
+msgid "Engage in live video conference calls any time, anywhere."
+msgstr ""
+"Terlibat dalam panggilan konferensi video langsung kapan saja, di mana saja."
+
+msgid "Share"
+msgstr "Bagikan"
+
+msgid "Securely upload files, discuss them, and share."
+msgstr "Unggah file dengan aman, diskusikan, dan bagikan."
+
+msgid "Powerful Case Management"
+msgstr "Manajemen Kasus yang Kuat"
+
+msgid "Out-of-the-Box Functionality"
+msgstr "Fungsionalitas Out-of-the-Box"
+
+msgid "Easily assign individuals"
+msgstr "Mudah menetapkan individu"
+
+msgid "or teams to a case and collaborate with clients."
+msgstr "atau tim ke kasing dan berkolaborasi dengan klien."
+
+msgid "Manage user groups"
+msgstr "Kelola grup pengguna"
+
+msgid "and customize access permissions."
+msgstr "dan menyesuaikan izin akses."
+
+msgid "All data is automatically backed up"
+msgstr "Semua data dicadangkan secara otomatis"
+
+msgid "in case a recovery is ever needed."
+msgstr "dalam hal pemulihan pernah diperlukan."
+
+msgid "All information"
+msgstr "Semua informasi"
+
+msgid "is securely encrypted, ensuring your absolute privacy."
+msgstr "dienkripsi dengan aman, memastikan privasi absolut Anda."
+
+msgid "Customize"
+msgstr "Sesuaikan"
+
+msgid "with your own colors and logo."
+msgstr "dengan warna dan logo Anda sendiri."
+
+msgid "can be enabled/disabled at any time."
+msgstr "dapat diaktifkan / dinonaktifkan kapan saja."
+
+msgid "Benefits of "
+msgstr "Manfaat dari"
+
+msgid "Reduction in time "
+msgstr "Pengurangan waktu"
+
+msgid "to intake new clients"
+msgstr "untuk menerima klien baru"
+
+msgid "Minimize "
+msgstr "Memperkecil"
+
+msgid "the chance of "
+msgstr "kesempatan untuk"
+
+msgid "malpractice"
+msgstr "malpraktik"
+
+msgid "Better experience "
+msgstr "Pengalaman yang lebih baik"
+
+msgid "for your client"
+msgstr "untuk klien Anda"
+
+msgid "Increase in caseload capacity "
+msgstr "Peningkatan kapasitas beban kasus"
+
+msgid "per staff"
+msgstr "per staf"
+
+msgid "Get Started with our Built-in Apps"
+msgstr "Mulailah dengan Aplikasi Internal kami"
+
+msgid "All you need in one place."
+msgstr "Yang Anda butuhkan di satu tempat."
+
+msgid "Case Feed"
+msgstr "Umpan Kasus"
+
+msgid ""
+"Easily assign a client, staff, and associates to a case and engage in a "
+"secure space that lets you post case progress, have real-time chat and video"
+" conversations, as well as schedule events, e-sign/upload/download "
+"documents, and much more."
+msgstr ""
+"Dengan mudah menugaskan klien, staf, dan rekanan untuk sebuah kasus dan "
+"terlibat dalam ruang aman yang memungkinkan Anda memposting perkembangan "
+"kasus, melakukan obrolan real-time dan percakapan video, serta menjadwalkan "
+"acara, menandatangani e-tanda / mengunggah / mengunduh dokumen, dan lebih "
+"banyak."
+
+msgid "Case Invoices"
+msgstr "Faktur Kasus"
+
+msgid ""
+"With as-you-go invoicing, client billing is just a click away, and lets you "
+"send automatically-generated fund requests and receive direct payments in "
+"return."
+msgstr ""
+"Dengan faktur saat bepergian, penagihan klien hanya dengan sekali klik, dan "
+"memungkinkan Anda mengirim permintaan dana yang dihasilkan secara otomatis "
+"dan menerima pembayaran langsung sebagai imbalan."
+
+msgid "Case Events"
+msgstr "Acara Kasus"
+
+msgid ""
+"Keep your case calendar organized at all times, scheduling events, inviting "
+"attendees, sending event reminders, and ensuring everything remains on-"
+"track."
+msgstr ""
+"Jadikan kalender kasus Anda teratur setiap saat, penjadwalan acara, "
+"mengundang peserta, mengirim pengingat acara, dan memastikan semuanya tetap "
+"di jalurnya."
+
+msgid "Case Convo"
+msgstr "Obrolan Kasus"
+
+msgid ""
+"Meet with the clients and team members virtually 'face-to-face' through "
+"built-in video conferencing so you can speak directly with everyone "
+"involved."
+msgstr ""
+"Bertemu dengan klien dan anggota tim secara virtual &#39;tatap muka&#39; "
+"melalui konferensi video bawaan sehingga Anda dapat berbicara langsung "
+"dengan semua orang yang terlibat."
+
+msgid "Case Forms & E-signs"
+msgstr "Formulir Kasus & tanda-E"
+
+msgid ""
+"Fully customize your case form to generate unique templates that serve your "
+"specific needs. These templates can then be distributed to clients and team "
+"members to fill and sign"
+msgstr ""
+"Kustomisasi formulir kasus Anda untuk menghasilkan templat unik yang "
+"melayani kebutuhan spesifik Anda. Template ini kemudian dapat "
+"didistribusikan ke klien dan anggota tim untuk diisi dan ditandatangani"
+
+msgid "Case notes"
+msgstr "Catatan kasus"
+
+msgid ""
+"Keep notes with custom fields and attachments on case progression for "
+"current and future team members"
+msgstr ""
+"Simpan catatan dengan bidang khusus dan lampiran tentang perkembangan kasus "
+"untuk anggota tim saat ini dan yang akan datang"
+
+msgid "Case Media"
+msgstr "Media Kasus"
+
+msgid ""
+"Upload, share, comment on, and download files pertaining to the case so "
+"everyone has a reference on all the important details, people, and "
+"situations."
+msgstr ""
+"Unggah, bagikan, komentari, dan unduh file yang berkaitan dengan kasus "
+"sehingga setiap orang memiliki referensi tentang semua detail penting, "
+"orang, dan situasi."
+
+msgid "About Case"
+msgstr "Tentang Kasus"
+
+msgid ""
+"Let clients and staff view general details for the cases they're involved "
+"in. You can then close the case once everything is wrapped up, or give a "
+"team member authorization to do so."
+msgstr ""
+"Biarkan klien dan staf melihat detail umum untuk kasus-kasus yang mereka "
+"tangani. Anda kemudian dapat menutup kasus ini setelah semuanya selesai, "
+"atau memberikan otorisasi anggota tim untuk melakukannya."
+
+msgid "Plus Many More Features"
+msgstr "Ditambah Banyak Lebih Banyak Fitur"
+
+msgid ""
+"Use the Self-Serve Administrative Feature Take total control of your "
+"CaseActive management suite from the platform itself."
+msgstr ""
+"Gunakan Fitur Administratif Swa-Layani Ambil kendali penuh dari suite "
+"manajemen CaseActive Anda dari platform itu sendiri."
+
+msgid ""
+"Effortlessly link your existing system with CaseActive Integrate our "
+"proprietary API to automatically create cases, assign users, and generate "
+"reports based on your system input."
+msgstr ""
+"Menautkan sistem Anda yang ada dengan mudah dengan CaseActive Integrasikan "
+"API milik kami untuk secara otomatis membuat kasus, menetapkan pengguna, dan"
+" menghasilkan laporan berdasarkan input sistem Anda."
+
+msgid "Multi-Language Enabled:"
+msgstr "Multi-Bahasa Diaktifkan:"
+
+msgid "Interact with clients in"
+msgstr "Berinteraksi dengan klien di"
+
+msgid "70+ languages"
+msgstr "70+ bahasa"
+
+msgid ""
+"Whether working locally or globally, you can translate your client's native "
+"tongue through CaseActive's"
+msgstr ""
+"Baik bekerja secara lokal maupun global, Anda dapat menerjemahkan bahasa ibu"
+" klien Anda melalui CaseActive"
+
+msgid "language management system"
+msgstr "sistem manajemen bahasa"
+
+msgid "No more confusion or limits."
+msgstr "Tidak ada lagi kebingungan atau batasan."
+
+msgid "Let's see what others are saying"
+msgstr "Mari kita lihat apa yang orang lain katakan"
+
+msgid ""
+"Discover how our awesome customers - from small businesses to corporate "
+"enterprises - boosted their competitive advantage by becoming CaseActive "
+"warriors."
+msgstr ""
+"Temukan bagaimana pelanggan kami yang luar biasa - dari bisnis kecil hingga "
+"perusahaan - meningkatkan keunggulan kompetitif mereka dengan menjadi "
+"pejuang CaseActive."
+
+msgid "SUPPORT"
+msgstr "MENDUKUNG"
+
+msgid "Everything at Your Fingertips."
+msgstr "Semuanya ada di ujung jari Anda."
+
+msgid ""
+"Get started with your CaseActive app by following our video guide, and "
+"customize it to suit your needs."
+msgstr ""
+"Mulai dengan aplikasi CaseActive Anda dengan mengikuti panduan video kami, "
+"dan sesuaikan dengan kebutuhan Anda."
+
+msgid "What are you looking for..."
+msgstr "Apa yang sedang Anda cari..."
+
+msgid "Last Updated: June 7, 2021"
+msgstr "Terakhir Diperbarui: 7 Juni 2021"
+
+msgid ""
+"CaseActive reserves the right, at any time and at its sole discretion, to "
+"update and change any or all of these Terms of Service. When CaseActive "
+"changes these Terms of Service, CaseActive will modify the 'Last Updated' "
+"date above. You are responsible for regularly reviewing the most current "
+"version of the of Service. Your continued use of the Services after any such"
+" changes have been made shall constitute your consent to be bound by such "
+"changes. If you object to any changes to these Terms of Service, your sole "
+"and exclusive remedy shall be to terminate the Services according to the "
+"terms herein."
+msgstr ""
+"CaseActive berhak, kapan pun dan atas kebijakannya sendiri, memperbarui dan "
+"mengubah salah satu atau semua Ketentuan Layanan ini. Ketika CaseActive "
+"mengubah Persyaratan Layanan ini, CaseActive akan mengubah tanggal "
+"&#39;Terakhir Diperbarui&#39; di atas. Anda bertanggung jawab untuk secara "
+"teratur meninjau versi terbaru dari Layanan. Penggunaan Anda yang "
+"berkelanjutan atas Layanan setelah perubahan apa pun dilakukan merupakan "
+"persetujuan Anda untuk terikat oleh perubahan tersebut. Jika Anda keberatan "
+"dengan perubahan apa pun pada Ketentuan Layanan ini, satu-satunya upaya "
+"hukum Anda adalah dengan menghentikan Layanan sesuai dengan ketentuan di "
+"sini."
+
+msgid ""
+"These General Terms of Service apply to the Services in general. The "
+"additional terms applicable to each Service offered are set forth in the "
+"links provided below (the 'Additional Terms of Service')."
+msgstr ""
+"Persyaratan Layanan Umum ini berlaku untuk Layanan secara umum. Persyaratan "
+"tambahan yang berlaku untuk setiap Layanan yang ditawarkan diuraikan dalam "
+"tautan yang disediakan di bawah ini (&#39;Persyaratan Layanan "
+"Tambahan&#39;)."
+
+msgid "1. Services:"
+msgstr "1. Layanan:"
+
+msgid ""
+"Our proprietary software is a service platform that we host for our "
+"customers in order to offer the services detailed below. To subscribe for a "
+"Service, you must execute an Order Form for that Service and/or complete the"
+" sign-up flow for that Service. You are only entitled to use the Services "
+"for which you have subscribed and paid, and your use of the Services is "
+"subject to your compliance with all terms and conditions of the Agreement. "
+"You acknowledge and agree that we reserve the right to modify the Services "
+"(or any part thereof) from time to time and that we shall not be liable to "
+"you or to any third party for any modification to the Services."
+msgstr ""
+"Perangkat lunak berpemilik kami adalah platform layanan yang kami host bagi "
+"pelanggan kami untuk menawarkan layanan yang dirinci di bawah ini. Untuk "
+"berlangganan Layanan, Anda harus menjalankan Formulir Pemesanan untuk "
+"Layanan itu dan / atau melengkapi alur pendaftaran untuk Layanan itu. Anda "
+"hanya berhak menggunakan Layanan yang telah Anda langgani dan bayar, dan "
+"penggunaan Layanan oleh Anda tunduk pada kepatuhan Anda dengan semua syarat "
+"dan ketentuan Perjanjian. Anda mengakui dan setuju bahwa kami berhak untuk "
+"memodifikasi Layanan (atau bagiannya) dari waktu ke waktu dan bahwa kami "
+"tidak akan bertanggung jawab kepada Anda atau kepada pihak ketiga mana pun "
+"atas modifikasi apa pun atas Layanan."
+
+msgid ""
+"1.2 Description of CaseActive Service: CaseActive Service is the suite of "
+"hosted software services for online client collaboration management offered "
+"by CaseActive LLC. The sign-up flow that you have agreed to, or the Order "
+"Form you have executed, identifies the CaseActive Service you have "
+"subscribed for, the subscription term and the fees payable by you for the "
+"CaseActive Service. The additional terms and conditions applicable to your "
+"use of the CaseActive Service are set forth at:"
+msgstr ""
+"1.2 Deskripsi Layanan CaseActive: Layanan CaseActive adalah rangkaian "
+"layanan perangkat lunak yang dihosting untuk manajemen kolaborasi klien "
+"online yang ditawarkan oleh CaseActive LLC. Alur pendaftaran yang telah Anda"
+" setujui, atau Formulir Pesanan yang telah Anda jalankan, mengidentifikasi "
+"Layanan CaseActive yang telah Anda langgani, jangka waktu berlangganan dan "
+"biaya yang harus Anda bayar untuk Layanan CaseActive. Syarat dan ketentuan "
+"tambahan yang berlaku untuk penggunaan Anda atas Layanan CaseActive "
+"ditetapkan di:"
+
+msgid "2. Expanding the Services:"
+msgstr "2. Memperluas Layanan:"
+
+msgid ""
+"You may subscribe to any additional Services, including new Services as may "
+"be made available by CaseActive from time to time, or increase your existing"
+" Services by executing an additional Order Form or sign-up flow, as part of "
+"the Services. Each new sign-up flow or Order Form will include the price and"
+" billing date(s) of the Services being added at that time. All new Services "
+"are subject to these General Terms of Service and any additional terms and "
+"conditions that may specifically apply to such additional Services."
+msgstr ""
+"Anda dapat berlangganan Layanan tambahan apa pun, termasuk Layanan baru yang"
+" dapat disediakan oleh CaseActive dari waktu ke waktu, atau menambah Layanan"
+" yang ada dengan mengeksekusi Formulir Pesanan tambahan atau aliran "
+"pendaftaran, sebagai bagian dari Layanan. Setiap aliran pendaftaran baru "
+"atau Formulir Pemesanan akan mencakup harga dan tanggal penagihan Layanan "
+"yang ditambahkan pada saat itu. Semua Layanan baru tunduk pada Ketentuan "
+"Layanan Umum ini dan setiap syarat dan ketentuan tambahan yang secara khusus"
+" berlaku untuk Layanan tambahan tersebut."
+
+msgid "3. Customer Support:"
+msgstr "3. Dukungan Pelanggan:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we will use"
+" commercially reasonable efforts to provide, at no charge to you, technical "
+"support services to you and your authorized users who have subscribed to the"
+" Services. A client services representative will be assigned to your cases. "
+"Unlimited cases are accepted from authorized users. Our standard support is "
+"available 24/7, excluding major holidays, which include Memorial Day, "
+"Independence Day, Labor Day, Thanksgiving, Christmas, and New Year’s Day. "
+"You may contact customer support by using our"
+msgstr ""
+"Asalkan Anda telah membayar semua biaya yang dibayarkan oleh Anda untuk "
+"Layanan, kami akan menggunakan upaya yang wajar secara komersial untuk "
+"memberikan, tanpa biaya kepada Anda, layanan dukungan teknis untuk Anda dan "
+"pengguna resmi Anda yang telah berlangganan Layanan. Perwakilan layanan "
+"klien akan ditugaskan untuk kasus Anda. Kasing tak terbatas diterima dari "
+"pengguna yang berwenang. Dukungan standar kami tersedia 24/7, tidak termasuk"
+" hari libur besar, yang meliputi Hari Peringatan, Hari Kemerdekaan, Hari "
+"Buruh, Thanksgiving, Natal, dan Hari Tahun Baru. Anda dapat menghubungi "
+"dukungan pelanggan dengan menggunakan"
+
+msgid "Contact Form"
+msgstr "formulir kontak"
+
+msgid ". Our response time shall not be greater than two business days."
+msgstr ". Waktu respons kami tidak boleh lebih dari dua hari kerja."
+
+msgid "4. Training:"
+msgstr "4. Pelatihan:"
+
+msgid ""
+"Provided you have paid all fees payable by you for the Services, we shall "
+"make available remote, live or recorded training sessions to your "
+"designated, named and authorized users as well as provide tutorials that are"
+" accessible via the Help and Training section of our website at no "
+"additional charge. For some Services we provide some on-site training on "
+"request and for an additional charge. Please contact us by using our"
+msgstr ""
+"Asalkan Anda telah membayar semua biaya yang dibayarkan oleh Anda untuk "
+"Layanan, kami akan menyediakan sesi pelatihan jarak jauh, langsung, atau "
+"direkam untuk pengguna yang ditunjuk, disebutkan, dan resmi serta memberikan"
+" tutorial yang dapat diakses melalui bagian Bantuan dan Pelatihan situs web "
+"kami di tanpa biaya tambahan. Untuk beberapa Layanan, kami menyediakan "
+"beberapa pelatihan di tempat berdasarkan permintaan dan dengan biaya "
+"tambahan. Silakan hubungi kami dengan menggunakan"
+
+msgid "for more information about on-site training."
+msgstr "untuk informasi lebih lanjut tentang pelatihan di tempat."
+
+msgid "5. Your Rights and Restrictions:"
+msgstr "5. Hak dan Batasan Anda:"
+
+msgid ""
+"5.1 License: Subject to the terms and conditions of the Agreement, and upon "
+"timely payment of all applicable fees set forth in the Order Form or sign-up"
+" flow, we hereby grant to you a non-exclusive, non-transferable, limited "
+"right and license to use (and permit your authorized users to use) the "
+"Services to which you have subscribed, solely for your internal business "
+"purposes."
+msgstr ""
+"5.1 Lisensi: Tunduk pada syarat dan ketentuan Perjanjian, dan setelah "
+"pembayaran tepat waktu dari semua biaya yang berlaku yang tercantum dalam "
+"Formulir Pemesanan atau proses pendaftaran, kami dengan ini memberikan "
+"kepada Anda hak non-eksklusif, tidak dapat dipindahtangankan, hak terbatas "
+"dan lisensi untuk menggunakan (dan mengizinkan pengguna resmi Anda untuk "
+"menggunakan) Layanan yang telah Anda langgani, semata-mata untuk tujuan "
+"bisnis internal Anda."
+
+msgid ""
+"5.2 Authorized Users: You (i) are responsible for your authorized users' "
+"compliance with the Agreement, and (ii) shall use commercially reasonable "
+"efforts to prevent unauthorized access to or use of the Services and shall "
+"notify us immediately of any such unauthorized access or use. It is your "
+"responsibility to remove access to the Services if the authorized status of "
+"a user or designated employee changes."
+msgstr ""
+"5.2 Pengguna yang Sah: Anda (i) bertanggung jawab atas kepatuhan pengguna "
+"sah Anda dengan Perjanjian ini, dan (ii) akan menggunakan upaya yang wajar "
+"secara komersial untuk mencegah akses tidak sah ke atau penggunaan Layanan "
+"dan akan segera memberi tahu kami tentang akses yang tidak sah atau "
+"menggunakan. Adalah tanggung jawab Anda untuk menghapus akses ke Layanan "
+"jika status resmi dari pengguna atau karyawan yang ditunjuk berubah."
+
+msgid ""
+"5.3 Your Responsibilities and Restrictions: You are responsible for all "
+"activities that occur under your user accounts or by your authorized users. "
+"You shall: (i) have sole responsibility for the accuracy, quality, "
+"integrity, legality, reliability and appropriateness of all data that you "
+"submit to the Services; (ii) use commercially reasonable efforts to prevent "
+"unauthorized control or tampering or any other unauthorized access to, or "
+"use of, the Services and notify us promptly of any unauthorized use or "
+"security breach; (iii) comply with all applicable local, state, federal, and"
+" foreign laws (including laws regarding privacy and protection of personal "
+"or consumer information) in using the Services; (iv) to the extent "
+"applicable, comply with all applicable rules of credit card associations "
+"(including American Express, MasterCard and Visa); and(v) obtain and "
+"maintain all the computer hardware, software and communications equipment "
+"needed to access the Services, and pay all access charges (e.g. ISP fees) "
+"incurred by you in connection with your use of the Services."
+msgstr ""
+"5.3 Tanggung Jawab dan Batasan Anda: Anda bertanggung jawab atas semua "
+"aktivitas yang terjadi di bawah akun pengguna Anda atau oleh pengguna yang "
+"sah. Anda harus: (i) memiliki tanggung jawab penuh atas keakuratan, "
+"kualitas, integritas, legalitas, keandalan, dan kesesuaian semua data yang "
+"Anda serahkan ke Layanan; (ii) menggunakan upaya yang wajar secara komersial"
+" untuk mencegah kontrol atau perusakan yang tidak sah atau akses tidak sah "
+"lainnya ke, atau penggunaan, Layanan dan segera memberi tahu kami jika ada "
+"pelanggaran penggunaan atau pelanggaran keamanan yang tidak sah; (iii) "
+"mematuhi semua hukum setempat, negara bagian, federal, dan asing yang "
+"berlaku (termasuk undang-undang tentang privasi dan perlindungan informasi "
+"pribadi atau konsumen) dalam menggunakan Layanan; (iv) sejauh yang berlaku, "
+"patuhi semua aturan asosiasi kartu kredit yang berlaku (termasuk American "
+"Express, MasterCard, dan Visa); dan (v) memperoleh dan memelihara semua "
+"perangkat keras komputer, perangkat lunak, dan peralatan komunikasi yang "
+"diperlukan untuk mengakses Layanan, dan membayar semua biaya akses (misalnya"
+" biaya ISP) yang Anda tanggung sehubungan dengan penggunaan Layanan oleh "
+"Anda."
+
+msgid ""
+"You may not, and you shall ensure your authorized users do not, (i) "
+"disassemble, reverse engineer, decompile or otherwise attempt to decipher "
+"any code in connection with the Services, or modify, adapt, create derivate "
+"works based upon, or translate the Services; (ii) license, sublicense, sell,"
+" rent , assign, distribute, timeshare transfer, lease, loan, resell for "
+"profit, distribute or otherwise commercially exploit, grant rights in or "
+"make the Services available to any third party; (iii) use the Services "
+"except as expressly authorized hereunder or in violation of any applicable "
+"laws; (iv) engage in any illegal or deceptive trade practices with respect "
+"to the Services; (v) circumvent or disable any security or other technical "
+"features or measures of the Services or any other aspect of the Software or,"
+" in any manner, attempt to gain or attain unauthorized access to the "
+"Services or the related computer systems or networks; (vi) use the Services "
+"to transmit infringing, libelous, obscene, threatening or otherwise "
+"unlawful, unsafe, malicious, abusive or tortious material, or to store or "
+"transmit material in violation of third-party privacy rights; (vii) use the "
+"Service to store or transmit any viruses, worms, time bombs, Trojan horses "
+"and other harmful or malicious code, files, scripts, agents or programs, or "
+"to send spam or otherwise duplicative or unsolicited messages in violation "
+"of applicable laws; or (viii) interfere with or disrupt the integrity or "
+"performance of the Services or third-party data contained therein."
+msgstr ""
+"Anda tidak boleh, dan Anda harus memastikan bahwa pengguna resmi Anda tidak,"
+" (i) membongkar, merekayasa balik, mendekompilasi atau mencoba menguraikan "
+"kode apa pun sehubungan dengan Layanan, atau memodifikasi, mengadaptasi, "
+"membuat karya turunan berdasarkan, atau menerjemahkan Jasa; (ii) lisensi, "
+"mensublisensikan, menjual, menyewakan, menugaskan, mendistribusikan, "
+"mentransfer timeshare, menyewakan, meminjamkan, dijual kembali untuk "
+"keuntungan, mendistribusikan atau mengeksploitasi secara komersial, "
+"memberikan hak dalam atau membuat Layanan tersedia untuk pihak ketiga; (iii)"
+" menggunakan Layanan kecuali secara tegas diizinkan di bawah ini atau "
+"melanggar hukum apa pun yang berlaku; (iv) terlibat dalam praktik "
+"perdagangan ilegal atau menipu sehubungan dengan Layanan; (v) menghindari "
+"atau menonaktifkan keamanan atau fitur teknis atau tindakan apa pun dari "
+"Layanan atau aspek lain dari Perangkat Lunak ini, atau dengan cara apa pun, "
+"berupaya untuk mendapatkan atau mendapatkan akses tidak sah ke Layanan atau "
+"sistem komputer atau jaringan terkait; (vi) menggunakan Layanan untuk "
+"mengirimkan materi yang melanggar, memfitnah, cabul, mengancam atau "
+"melanggar hukum, tidak aman, berbahaya, kasar atau menyiksa, atau untuk "
+"menyimpan atau mengirimkan materi yang melanggar hak privasi pihak ketiga; "
+"(vii) menggunakan Layanan untuk menyimpan atau mengirimkan virus, worm, bom "
+"waktu, kuda Troya dan kode, file, skrip, agen atau program berbahaya atau "
+"berbahaya lainnya, atau untuk mengirim spam atau pesan duplikat atau tidak "
+"diminta yang melanggar undang-undang yang berlaku ; atau (viii) mengganggu "
+"atau mengganggu integritas atau kinerja Layanan atau data pihak ketiga yang "
+"terkandung di dalamnya."
+
+msgid ""
+"5.4 Reservation of Rights: No other rights are granted except as expressly "
+"set forth in the Agreement. The Agreement is not a sale and does not convey "
+"any rights or ownership in, or to, the Services or any underlying software. "
+"We own all rights, title, and interest, including all intellectual property "
+"rights, in and to the Services and the underlying software and any and all "
+"updates, upgrades, modifications, enhancements, improvements or derivative "
+"works thereof, and in any idea, know-how, and programs developed by us or "
+"our licensors during the course of performance of the Services."
+msgstr ""
+"5.4 Reservasi Hak: Tidak ada hak lain yang diberikan kecuali sebagaimana "
+"diatur secara tegas dalam Perjanjian. Perjanjian ini bukan penjualan dan "
+"tidak menyampaikan hak atau kepemilikan apa pun dalam, atau kepada, Layanan "
+"atau perangkat lunak apa pun yang mendasarinya. Kami memiliki semua hak, "
+"kepemilikan, dan kepentingan, termasuk semua hak kekayaan intelektual, di "
+"dalam dan pada Layanan dan perangkat lunak yang mendasari dan setiap dan "
+"semua pembaruan, peningkatan, modifikasi, peningkatan, perbaikan atau karya "
+"turunannya, dan dalam setiap gagasan, pengetahuan bagaimana, dan program "
+"yang dikembangkan oleh kami atau pemberi lisensi kami selama kinerja "
+"Layanan."
+
+msgid "6. Term and Termination:"
+msgstr "6. Ketentuan dan Pengakhiran:"
+
+msgid ""
+"6.1 Term: The term of the Services varies depending on the Service you have "
+"subscribed to and shall be set forth on the Order Form or agreed to in the "
+"sign-up flow and shall renew as follows:"
+msgstr ""
+"6.1 Jangka Waktu: Jangka waktu Layanan bervariasi tergantung pada Layanan "
+"yang Anda telah berlangganan dan akan ditetapkan pada Formulir Pemesanan "
+"atau disetujui dalam aliran pendaftaran dan akan diperpanjang sebagai "
+"berikut:"
+
+msgid ""
+"6.1.1 CaseActive Service Term: Your Subscription to CaseActive Service shall"
+" automatically renew for successive one-month or one-year terms, as set out "
+"on the Order Form or sign-up flow, unless we discontinue the Service you "
+"provide us with notice of non-renewal at least thirty (30) days prior to the"
+" expiration of the then-current term."
+msgstr ""
+"6.1.1 Jangka Waktu Layanan CaseActive: Berlangganan Anda ke Layanan "
+"CaseActive akan secara otomatis memperbarui untuk jangka waktu satu bulan "
+"atau satu tahun berturut-turut, sebagaimana tercantum dalam Formulir "
+"Pemesanan atau aliran pendaftaran, kecuali jika kami menghentikan Layanan "
+"yang Anda berikan kepada kami pemberitahuan dari tidak diperpanjang "
+"setidaknya tiga puluh (30) hari sebelum berakhirnya jangka waktu saat ini."
+
+msgid ""
+"6.1.2 CaseActive Website Services Term: Your subscription to CaseActive "
+"website services shall automatically renew for successive one-month or one-"
+"year terms, as set out on the Order Form or sign-up flow, unless we "
+"discontinue the Service or you provide us with notice of non-renewal at "
+"least thirty (30) days prior to the expiration of the then-current term."
+msgstr ""
+"6.1.2 Jangka Waktu Layanan Situs Web CaseActive: Berlangganan Anda ke "
+"layanan situs web CaseActive akan secara otomatis diperpanjang untuk jangka "
+"waktu satu bulan atau satu tahun, sebagaimana tercantum pada Formulir "
+"Pemesanan atau aliran pendaftaran, kecuali jika kami menghentikan Layanan "
+"atau Anda memberikan kepada kami dengan pemberitahuan tidak diperpanjang "
+"setidaknya tiga puluh (30) hari sebelum berakhirnya masa berlaku saat itu."
+
+msgid ""
+"6.1.3 Written notice of non-renewal by you must be submitted to CaseActive, "
+"LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY 82003."
+msgstr ""
+"6.1.3 Pemberitahuan tertulis untuk tidak diperpanjang oleh Anda harus "
+"diserahkan kepada CaseActive, LLC, 1107 W. 6th Ave., Ste B. Cheyenne, WY "
+"82003."
+
+msgid ""
+"6.2 Termination: Either party may terminate the Agreement and all Service "
+"subscriptions (i) if the other party breaches any of its material "
+"obligations under the Agreement and such breach is not cured within thirty "
+"(30) days of receipt of notice from the non-breaching party, or (ii) if the "
+"other party becomes insolvent or bankrupt, liquidated or is dissolved, or "
+"ceases substantially all of its business. We may terminate the Agreement "
+"immediately in the event of a breach of Section 5.3 above. Upon a "
+"termination of the Agreement, you will immediately discontinue all use of "
+"the Services, cease to represent in any form that you are a user of the "
+"Services, and destroy all our confidential Information in your possession. "
+"Neither party shall be liable for any damages resulting from a termination "
+"of the Agreement or any subscriptions to Services as provided for herein; "
+"provided, however, that the termination of the Agreement shall not affect "
+"any claim arising prior to such termination."
+msgstr ""
+"6.2 Pengakhiran: Salah satu pihak dapat mengakhiri Perjanjian dan semua "
+"langganan Layanan (i) jika pihak lain melanggar kewajiban materialnya "
+"berdasarkan Perjanjian dan pelanggaran tersebut tidak dapat disembuhkan "
+"dalam waktu tiga puluh (30) hari sejak diterimanya pemberitahuan dari non-"
+"pelanggaran. pihak, atau (ii) jika pihak lain menjadi pailit atau bangkrut, "
+"dilikuidasi atau dibubarkan, atau menghentikan secara substansial semua "
+"bisnisnya. Kami dapat segera mengakhiri Perjanjian jika terjadi pelanggaran "
+"Bagian 5.3 di atas. Setelah pengakhiran Perjanjian, Anda akan segera "
+"menghentikan semua penggunaan Layanan, berhenti mewakili dalam bentuk apa "
+"pun bahwa Anda adalah pengguna Layanan, dan menghancurkan semua Informasi "
+"rahasia kami yang Anda miliki. Tidak ada pihak yang akan bertanggung jawab "
+"atas kerusakan yang diakibatkan dari pengakhiran Perjanjian atau langganan "
+"ke Layanan sebagaimana diatur di sini; dengan ketentuan, bagaimanapun, bahwa"
+" pengakhiran Perjanjian tidak akan mempengaruhi klaim yang timbul sebelum "
+"pengakhiran tersebut."
+
+msgid ""
+"6.3 Handling of Your Data in the Event of Termination: You acknowledge and "
+"agree that following expiration or termination of any of your subscriptions "
+"to the Services, we may immediately deactivate the affected Services and "
+"that, following a reasonable period of not less than ninety (90) days, may "
+"delete your account and data. However, in the event that the Services are "
+"terminated by us, we will grant you temporary, limited access to the "
+"Services, not to exceed thirty (30) days, for the sole purpose of permitting"
+" you to retrieve your proprietary data, provided, that you have paid in full"
+" all good faith undisputed amounts owed to us. You further agree that we "
+"shall not be liable to you or to any third party for any termination of your"
+" access to the Services or deletion of your data, provided that we are in "
+"compliance with the terms of this Section 6.3."
+msgstr ""
+"6.3 Penanganan Data Anda dalam Hal Pengakhiran: Anda mengakui dan menyetujui"
+" bahwa setelah berakhirnya atau pengakhiran salah satu langganan Anda ke "
+"Layanan, kami dapat segera menonaktifkan Layanan yang terpengaruh dan bahwa,"
+" setelah periode yang wajar tidak kurang dari sembilan puluh (90) ) hari, "
+"dapat menghapus akun dan data Anda. Namun, jika Layanan dihentikan oleh "
+"kami, kami akan memberi Anda akses sementara dan terbatas ke Layanan, tidak "
+"melebihi tiga puluh (30) hari, dengan tujuan tunggal memungkinkan Anda untuk"
+" mengambil data kepemilikan Anda, dengan ketentuan, bahwa Anda telah "
+"membayar penuh semua itikad baik jumlah yang tak terbantahkan kepada kami. "
+"Anda selanjutnya setuju bahwa kami tidak akan bertanggung jawab kepada Anda "
+"atau kepada pihak ketiga mana pun atas penghentian akses Anda ke Layanan "
+"atau penghapusan data Anda, dengan ketentuan bahwa kami mematuhi ketentuan-"
+"ketentuan Bagian 6.3 ini."
+
+msgid "7. Fees:"
+msgstr "7. Biaya:"
+
+msgid ""
+"7.1 Service Fees: You shall pay the non-refundable fees for the Services in "
+"the amount set forth in the sign-up flow or Order Form ('Service Fees') and "
+"according to the billing frequency stated in the sign-up flow or Order Form."
+" Service Fees shall be due and payable on the date of the invoice. Service "
+"Fees may be increased based upon our then-current fees. Service Fees are "
+"non-refundable even if you terminate your subscription early."
+msgstr ""
+"7.1 Biaya Layanan: Anda harus membayar biaya yang tidak dapat dikembalikan "
+"untuk Layanan dalam jumlah yang ditetapkan dalam alur pendaftaran atau "
+"Formulir Pemesanan (&#39;Biaya Layanan&#39;) dan sesuai dengan frekuensi "
+"penagihan yang dinyatakan dalam alur pendaftaran atau Pesanan Bentuk. Biaya "
+"Layanan harus jatuh tempo dan harus dibayar pada tanggal faktur. Biaya "
+"Layanan dapat dinaikkan berdasarkan biaya kami saat itu. Biaya Layanan tidak"
+" dapat dikembalikan meskipun Anda menghentikan langganan lebih awal."
+
+msgid ""
+"7.2 Additional Fees: You may incur other non-refundable fees or charges for "
+"your use of the Services in addition to those fees set forth in the Order "
+"Form and/or sign-up flow. The additional non-refundable fees and charges are"
+" set forth in the additional terms for the applicable Service."
+msgstr ""
+"7.2 Biaya Tambahan: Anda mungkin dikenai biaya atau biaya lain yang tidak "
+"dapat dikembalikan untuk penggunaan Layanan Anda selain biaya-biaya yang "
+"tercantum dalam Formulir Pemesanan dan / atau aliran pendaftaran. Biaya dan "
+"biaya tambahan yang tidak dapat dikembalikan diatur dalam persyaratan "
+"tambahan untuk Layanan yang berlaku."
+
+msgid ""
+"7.3 Late Payments: You acknowledge that your failure to pay any fees or "
+"charges when due may result in suspension or termination of your CaseActive "
+"product subscription(s). If you fail to pay any of the fees or charges due "
+"hereunder, CaseActive reserves the right to engage a collections agency to "
+"collect the fees and charges and you shall pay all costs incurred by "
+"CaseActive in connection with the collection of such past due amounts, "
+"including, without limitation, reasonable attorneys’ and collections "
+"agencies’ fees plus interest in an amount equal to the lesser of 1.0% per "
+"month or the maximum rate permitted by applicable law."
+msgstr ""
+"7.3 Pembayaran Terlambat: Anda mengakui bahwa kegagalan Anda untuk membayar "
+"biaya atau ongkos ketika jatuh tempo dapat mengakibatkan penangguhan atau "
+"penghentian berlangganan produk CaseActive Anda. Jika Anda gagal membayar "
+"biaya atau ongkos yang jatuh tempo di bawah ini, CaseActive berhak untuk "
+"melibatkan agen penagihan untuk mengumpulkan biaya dan ongkos dan Anda harus"
+" membayar semua biaya yang dikeluarkan oleh CaseActive sehubungan dengan "
+"pengumpulan jumlah yang jatuh tempo di masa lalu, termasuk , tanpa batasan, "
+"biaya pengacara dan agen penagihan yang masuk akal ditambah bunga dalam "
+"jumlah yang sama dengan yang lebih rendah 1,0% per bulan atau tarif maksimum"
+" yang diizinkan oleh hukum yang berlaku."
+
+msgid ""
+"7.4 Taxes: You shall be responsible for all sales tax, use tax, value added "
+"taxes, withholding taxes and any other similar taxes and charges of any kind"
+" imposed by federal, state or local governmental entities on the "
+"transactions contemplated by the Agreement. When we have the legal "
+"obligation to pay or collect taxes for which you are responsible, pursuant "
+"to this Section, the appropriate amount shall be invoiced to and paid by you"
+" unless you provide us with a valid tax exemption certificate authorized by "
+"the appropriate taxing authority."
+msgstr ""
+"7.4 Pajak: Anda harus bertanggung jawab atas semua pajak penjualan, pajak "
+"penggunaan, pajak pertambahan nilai, pajak pemotongan dan segala bentuk "
+"pajak dan ongkos sejenis lainnya yang dikenakan oleh badan pemerintah "
+"federal, negara bagian atau lokal atas transaksi yang dimaksud dalam "
+"Perjanjian. Ketika kami memiliki kewajiban hukum untuk membayar atau "
+"memungut pajak yang menjadi tanggung jawab Anda, sesuai dengan Bagian ini, "
+"jumlah yang sesuai akan ditagih dan dibayar oleh Anda kecuali Anda "
+"memberikan kami sertifikat pembebasan pajak yang sah yang disahkan oleh "
+"otoritas perpajakan yang sesuai."
+
+msgid "8. Representations and Warranties:"
+msgstr "8. Representasi dan Jaminan:"
+
+msgid ""
+"8.1 Mutual Representations and Warranties: Each party hereby represents and "
+"warrants to the other party that (i) it has all necessary authority to enter"
+" into and perform its obligations under the Agreement without the consent of"
+" any third party or breach of any contract or agreement with any third "
+"party, (ii) all persons performing any obligations hereunder have entered "
+"into all necessary agreements in order for it to comply with the terms and "
+"conditions of the Agreement, and (iii) it shall comply in all material "
+"respects with all laws applicable to the Services."
+msgstr ""
+"8.1 Representasi dan Jaminan Bersama: Setiap pihak dengan ini mewakili dan "
+"menjamin kepada pihak lain bahwa (i) ia memiliki semua otoritas yang "
+"diperlukan untuk masuk ke dalam dan melaksanakan kewajibannya berdasarkan "
+"Perjanjian tanpa persetujuan dari pihak ketiga atau pelanggaran kontrak atau"
+" perjanjian dengan pihak ketiga mana pun, (ii) semua orang yang melakukan "
+"kewajiban apa pun di bawah ini telah menandatangani semua perjanjian yang "
+"diperlukan untuk memenuhi persyaratan dan ketentuan Perjanjian, dan (iii) ia"
+" harus mematuhi semua hal yang material dengan semua hukum yang berlaku "
+"untuk semua pelayanan."
+
+msgid ""
+"8.2 Additional Representations and Warranties: You warrant, represent and "
+"covenant to us that you will use the Services only for lawful purposes in "
+"accordance with the Agreement and all applicable CaseActive policies and "
+"guidelines."
+msgstr ""
+"8.2 Representasi dan Jaminan Tambahan: Anda menjamin, mewakili, dan berjanji"
+" kepada kami bahwa Anda akan menggunakan Layanan hanya untuk tujuan yang sah"
+" sesuai dengan Perjanjian dan semua kebijakan dan pedoman CaseActive yang "
+"berlaku."
+
+msgid ""
+"8.3 Disclaimer of Warranties: EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN"
+" THIS SECTION 8, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE "
+"NO OTHER WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, IN LAW OR "
+"FROM A COURSE OF DEALING OR USE OF TRADE, AS TO ANY MATTER, INCLUDING THOSE "
+"OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR "
+"PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE OR THE "
+"SERVICES WILL MEET ALL OF YOUR REQUIREMENTS, INCLUDING ACCOUNTING "
+"REQUIREMENTS, OR THAT THE USE OF THE SOFTWARE OR THE SERVICES WILL BE "
+"UNINTERRUPTED OR ERROR-FREE. THE SOFTWARE AND SERVICES ARE PROVIDED TO YOU "
+"ON AN 'AS IS' BASIS AND YOUR USE OF SOFTWARE AND SERVICES IS AT YOUR OWN "
+"RISK, INCLUDING, WITHOUT LIMITATION, COMPLIANCE WITH ANY LAWS. THE PARTIES "
+"EXPRESSLY ACKNOWLEDGE THAT THE DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THE AGREEMENT."
+msgstr ""
+"8.3 Penafian Jaminan: KECUALI JAMINAN TERSURAT YANG TERCANTUM DALAM BAGIAN 8"
+" INI, SEJAUH DIIZINKAN OLEH HUKUM YANG BERLAKU, KAMI TIDAK MEMBERIKAN "
+"JAMINAN LAIN, TERSURAT, TERSIRAT, BERHATI ATAU LAINNYA, DALAM HUKUM ATAU "
+"DARI KURSUS BERHUBUNGAN ATAU PERDAGANGAN, SEPERTI HAL APA PUN, TERMASUK YANG"
+" DAPAT DIPERDAGANGKAN, KUALITAS YANG MEMUASKAN, JUDUL, KESESUAIAN UNTUK "
+"TUJUAN TERTENTU, ATAU KETIDAK-PELANGGARAN. KAMI TIDAK MENJAMIN BAHWA "
+"PERANGKAT LUNAK ATAU LAYANAN AKAN MEMENUHI SEMUA KEBUTUHAN ANDA, TERMASUK "
+"PERSYARATAN AKUNTANSI, ATAU BAHWA PENGGUNAAN PERANGKAT LUNAK ATAU LAYANAN "
+"TIDAK AKAN TERGANGGU ATAU BEBAS DARI KESALAHAN. PERANGKAT LUNAK DAN LAYANAN "
+"DIBERIKAN KEPADA ANDA ATAS DASAR &#39;SEBAGAIMANA ADANYA&#39; DAN PENGGUNAAN"
+" PERANGKAT LUNAK DAN LAYANAN ADALAH RISIKO ANDA SENDIRI, TERMASUK, TANPA "
+"BATASAN, KEPATUHAN PADA HUKUM APA PUN. PARA PARA PIHAK SECARA TEGAS MENGAKUI"
+" BAHWA PENAFIAN JAMINAN MENJADI BAGIAN PENTING DARI PERJANJIAN."
+
+msgid ""
+"WE DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES "
+"WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR "
+"REGULATIONS. THIS DISCLAIMER APPLIES TO BUT IS NOT LIMITED TO ANY FEDERAL OR"
+" STATE STATUTES OR REGULATIONS THAT MAY BE APPLICABLE TO YOU. YOU ARE SOLELY"
+" RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES IS IN ACCORDANCE "
+"WITH APPLICABLE LAW."
+msgstr ""
+"KAMI MENYANGKAL SETIAP PERNYATAAN ATAU JAMINAN BAHWA PENGGUNAAN LAYANAN ANDA"
+" AKAN MEMENUHI ATAU MEMENUHI KEPATUHAN DENGAN KEWAJIBAN HUKUM ATAU HUKUM "
+"ATAU PERATURAN. PERNYATAAN INI BERLAKU UNTUK TETAPI TIDAK TERBATAS PADA "
+"SETIAP FEDERAL ATAU NEGARA ATAU PERATURAN YANG MUNGKIN BERLAKU BAGI ANDA. "
+"ANDA BERTANGGUNG JAWAB UNTUK MEMASTIKAN BAHWA PENGGUNAAN LAYANAN INI SESUAI "
+"DENGAN HUKUM YANG BERLAKU."
+
+msgid ""
+"IF YOU ARE DISSATISFIED WITH THE SERVICES OR THIS AGREEMENT, YOUR SOLE AND "
+"EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES."
+msgstr ""
+"JIKA ANDA TIDAK puas dengan LAYANAN ATAU PERJANJIAN INI, PERBAIKAN SATU-"
+"SATUNYA DAN EKSKLUSIF ANDA ADALAH UNTUK MENGHENTIKAN PENGGUNAAN LAYANAN."
+
+msgid "9. Confidential Information:"
+msgstr "9. Informasi Rahasia:"
+
+msgid ""
+"Unless expressly authorized by the other party, neither party shall disclose"
+" to any third party any information or materials provided by the other party"
+" under the Agreement and reasonably understood to be confidential "
+"('Confidential Information'), or use such Confidential Information in any "
+"manner other than to perform its obligations under the Agreement. The "
+"foregoing restrictions do not apply to any information that is in the public"
+" domain or already in the receiving party's possession, was known to the "
+"receiving party prior to the date of disclosure or becomes known to the "
+"receiving party thereafter from a third party having an apparent bona fide "
+"right to disclose the information, or Confidential Information that the "
+"receiving party is obligated to produce pursuant to an order of a court of "
+"competent jurisdiction or a valid administrative subpoena, providing the "
+"receiving party provides the disclosing party of timely notice of such a "
+"court order or subpoena. Furthermore, you will ensure your authorized users "
+"will keep in strict confidence all passwords and other access information to"
+" the Services. This Section 9 shall survive termination or expiration of "
+"this Agreement."
+msgstr ""
+"Kecuali secara tegas diizinkan oleh pihak lain, tidak ada pihak yang akan "
+"mengungkapkan kepada pihak ketiga mana pun informasi atau materi apa pun "
+"yang disediakan oleh pihak lain berdasarkan Perjanjian dan secara wajar "
+"dipahami sebagai rahasia (&#39;Informasi Rahasia&#39;), atau menggunakan "
+"Informasi Rahasia tersebut dengan cara apa pun selain daripada melakukan "
+"kewajibannya berdasarkan Perjanjian. Pembatasan di atas tidak berlaku untuk "
+"informasi apa pun yang ada di domain publik atau sudah dimiliki pihak "
+"penerima, diketahui pihak penerima sebelum tanggal pengungkapan, atau "
+"diketahui oleh pihak penerima setelahnya dari pihak ketiga yang jelas hak "
+"bonafide untuk mengungkapkan informasi, atau Informasi Rahasia yang wajib "
+"dibuat oleh pihak penerima sesuai dengan perintah pengadilan dengan "
+"yurisdiksi yang kompeten atau panggilan pengadilan administratif yang valid,"
+" asalkan pihak penerima memberikan pemberitahuan tepat waktu kepada pihak "
+"yang mengungkapkan dari pengadilan tersebut perintah atau panggilan "
+"pengadilan. Lebih lanjut, Anda akan memastikan pengguna resmi Anda akan "
+"menjaga kerahasiaan ketat semua kata sandi dan informasi akses lainnya ke "
+"Layanan. Bagian 9 ini akan tetap berlaku setelah pengakhiran atau "
+"berakhirnya Perjanjian ini."
+
+msgid "10. Indemnification:"
+msgstr "10. Ganti Rugi:"
+
+msgid ""
+"10.1 Indemnification for Infringement: Subject to Section 10.4, we shall, at"
+" our expense, defend you against any third party claim brought against you "
+"which alleges that the Services infringe any US patent issued to a third "
+"party as of the Effective Date; or infringe any copyright, trademark or "
+"trade secret of any third party (collectively referred to as the "
+"'Intellectual Property Underlying the Services'). In the event that an "
+"injunction is sought or obtained against use of the Intellectual Property "
+"Underlying the Services or in our opinion is likely to be sought or "
+"obtained, we shall, at our option and expense, either (i) procure for you "
+"and your named authorized users the right to continue to use the Services, "
+"or (ii) replace or modify the Services to make their use non-infringing "
+"while being capable of substantially performing the same function. In the "
+"event subsections (i) and (ii) above are not commercially practicable, we "
+"may terminate the Services and refund any prepaid, but unused Service Fees. "
+"We shall not be obligated to defend or be liable for any costs or damages "
+"under this Section 10.1 if the alleged infringement arises out of or is in "
+"any manner attributable to (i) any modification of any Services by you (or "
+"any of your authorized or designated users) or (ii) use of Services in "
+"combination with services and products not provided by CaseActive if such "
+"infringement would have been avoided without such modification or "
+"combination, or (iii) compliance with your designs or instructions or (iv) a"
+" claim that does not state with specificity that the Services are the "
+"subject of the claim (each an 'Excluded Claim'). The indemnification "
+"obligations contained in this Section 10.1 shall survive any termination or "
+"expiration of this Agreement."
+msgstr ""
+"10.1 Ganti Rugi atas Pelanggaran: Sesuai dengan Bagian 10.4, kami akan, "
+"dengan biaya kami sendiri, membela Anda terhadap klaim pihak ketiga yang "
+"diajukan terhadap Anda yang menuduh bahwa Layanan melanggar paten AS yang "
+"diberikan kepada pihak ketiga sejak Tanggal Berlaku; atau melanggar hak "
+"cipta, merek dagang, atau rahasia dagang pihak ketiga mana pun (secara "
+"kolektif disebut sebagai &#39;Kekayaan Intelektual yang Mendasari "
+"Layanan&#39;). Jika ada perintah yang diminta atau diperoleh untuk menentang"
+" penggunaan Kekayaan Intelektual yang Mendasari Layanan atau menurut "
+"pendapat kami kemungkinan besar akan dicari atau diperoleh, kami akan, atas "
+"pilihan dan biaya kami, baik (i) mengadakan untuk Anda dan nama Anda. "
+"pengguna yang berwenang hak untuk terus menggunakan Layanan, atau (ii) "
+"mengganti atau memodifikasi Layanan agar penggunaannya tidak melanggar "
+"sementara mampu melakukan fungsi yang sama secara substansial. Jika sub-"
+"bagian (i) dan (ii) di atas tidak dapat diterapkan secara komersial, kami "
+"dapat menghentikan Layanan dan mengembalikan semua Biaya Layanan prabayar, "
+"tetapi tidak terpakai. Kami tidak berkewajiban untuk membela atau "
+"bertanggung jawab atas biaya atau kerusakan apa pun berdasarkan Bagian 10.1 "
+"ini jika dugaan pelanggaran muncul dari atau dengan cara apa pun disebabkan "
+"oleh (i) modifikasi apa pun dari Layanan apa pun oleh Anda (atau salah satu "
+"pihak yang berwenang atau pengguna yang ditunjuk) atau (ii) penggunaan "
+"Layanan dalam kombinasi dengan layanan dan produk yang tidak disediakan oleh"
+" CaseActive jika pelanggaran tersebut dapat dihindari tanpa modifikasi atau "
+"kombinasi tersebut, atau (iii) kepatuhan dengan desain atau instruksi Anda "
+"atau (iv) klaim yang tidak menyatakan secara spesifik bahwa Layanan adalah "
+"subjek klaim (masing-masing disebut &#39;Klaim yang Dikecualikan&#39;). "
+"Kewajiban ganti rugi yang terkandung dalam Bagian 10.1 ini akan tetap "
+"berlaku setelah pengakhiran atau kedaluwarsa Perjanjian ini."
+
+msgid ""
+"10.2 Indemnification for Data Security and Privacy: Subject to Section 10.4,"
+" and during the term of your subscription to the Services, we shall, at our "
+"expense, defend you against any third party claim brought against you that "
+"alleges our gross negligence in preventing unauthorized access to, or our "
+"willful misconduct in disclosing, Personally Identifiable Information of "
+"your customers in our possession or control. This indemnity will not apply "
+"to the extent that such claim arises from or relates to your negligence or "
+"willful misconduct or that of your agents or representatives, or to the "
+"extent liability is disclaimed or limited by either party under the "
+"Agreement. The indemnity obligations set forth in this section are "
+"contingent upon you proving our gross negligence or willful misconduct has "
+"directly and proximately resulted in the unauthorized access to or "
+"disclosure of personally identifiable information of your customers in our "
+"possession or control."
+msgstr ""
+"10.2 Ganti Rugi untuk Keamanan Data dan Privasi: Tunduk pada Bagian 10.4, "
+"dan selama jangka waktu berlangganan Anda ke Layanan, kami akan, dengan "
+"biaya kami, membela Anda terhadap klaim pihak ketiga mana pun yang diajukan "
+"kepada Anda yang menuduh kelalaian kami dalam mencegah akses yang tidak sah "
+"untuk, atau kesalahan kami yang disengaja dalam mengungkapkan, Informasi "
+"yang Dapat Diidentifikasi Secara Pribadi dari pelanggan Anda dalam "
+"kepemilikan atau kendali kami. Ganti rugi ini tidak akan berlaku sejauh "
+"klaim tersebut muncul dari atau terkait dengan kelalaian Anda atau kesalahan"
+" yang disengaja atau agen atau perwakilan Anda, atau sejauh tanggung jawab "
+"ditolak atau dibatasi oleh salah satu pihak berdasarkan Perjanjian. "
+"Kewajiban ganti rugi yang ditetapkan dalam bagian ini bergantung pada Anda "
+"yang membuktikan kelalaian kami atau kesalahan yang disengaja telah secara "
+"langsung dan secara progresif menghasilkan akses yang tidak sah ke atau "
+"pengungkapan informasi yang dapat diidentifikasi secara pribadi dari "
+"pelanggan Anda dalam kepemilikan atau kontrol kami."
+
+msgid ""
+"10.3 Your Indemnification: You agree to indemnify, hold harmless, and defend"
+" us and all our employees, officers, directors and agents from any and all "
+"claims, demands, suits, proceedings, investigations, damages, costs, "
+"expenses, losses, and any other liabilities (including reasonable attorneys'"
+" fees, court costs and expenses) arising out of or relating to (i) your use "
+"of the Services in violation of the Agreement, (ii) an Excluded Claim, (iii)"
+" any actual or alleged breach by you of any representation, warranty, "
+"covenant or obligation under the Agreement, or (iv) your gross negligence or"
+" willful misconduct. Your indemnification obligations under this Section "
+"10.3 shall survive any termination or expiration of the Agreement."
+msgstr ""
+"10.3 Ganti Rugi Anda: Anda setuju untuk mengganti rugi, tidak berbahaya, dan"
+" membela kami dan semua karyawan, pejabat, direktur, dan agen kami dari "
+"setiap dan semua klaim, tuntutan, tuntutan, tuntutan, proses, penyelidikan, "
+"kerusakan, biaya, pengeluaran, kerugian, dan lainnya kewajiban (termasuk "
+"biaya pengacara yang masuk akal, biaya pengadilan dan biaya) yang timbul "
+"dari atau berkaitan dengan (i) penggunaan Anda terhadap Layanan yang "
+"melanggar Perjanjian, (ii) Klaim yang Dikecualikan, (iii) setiap pelanggaran"
+" aktual atau dugaan pelanggaran oleh Anda representasi, jaminan, perjanjian "
+"atau kewajiban apa pun berdasarkan Perjanjian, atau (iv) kelalaian Anda atau"
+" kesalahan yang disengaja. Kewajiban ganti rugi Anda berdasarkan Bagian 10.3"
+" ini akan tetap berlaku setelah pengakhiran atau berakhirnya Perjanjian."
+
+msgid ""
+"10.4 Notification and Cooperation: The indemnifying party's obligations to "
+"the indemnified party under this Section 10 above are conditioned upon (i) "
+"indemnified party notifying indemnifying party promptly in writing, upon "
+"knowledge of any claim, for which it may be entitled to indemnification "
+"under the Agreement; (ii) to the extent applicable, indemnified party "
+"ceasing use of the claimed infringing Services upon receipt of notice of "
+"same; (iii) indemnified party permitting indemnifying party to have the sole"
+" right to control the defense and settlement of any such claim (provided "
+"that indemnifying party may not settle any claim without the indemnified "
+"party's consent unless the settlement unconditionally releases indemnified "
+"party from all liability); (iv) indemnified party providing reasonable "
+"assistance to indemnifying party, at indemnifying party's expense, in the "
+"defense of such claim; (v) indemnified party not entering into any "
+"settlement agreement or otherwise settling any such claim without "
+"indemnifying party's express prior written consent or request; and (vi) "
+"indemnified party complying with any settlement or court order made in "
+"connection with the claim (related to the future use of any infringing "
+"materials). The indemnified party may participate in the defense or "
+"settlement of a claim with counsel of its own choice and at its own expense."
+msgstr ""
+"10.4 Pemberitahuan dan Kerja Sama: Kewajiban pihak yang melindungi dari "
+"kerugian kepada pihak yang dilindungi dari kerugian berdasarkan Pasal 10 di "
+"atas dikondisikan pada (i) pihak yang dilindungi dari kerugian yang memberi "
+"tahu pihak yang melindungi dari kerugian segera secara tertulis, setelah "
+"mengetahui klaim apa pun, yang mungkin berhak mendapatkan ganti rugi "
+"berdasarkan Perjanjian ; (ii) sejauh yang berlaku, pihak yang dilindungi "
+"dari kerugian menghentikan penggunaan Layanan yang diklaim melanggar setelah"
+" menerima pemberitahuan yang sama; (iii) pihak yang melindungi dari kerugian"
+" yang mengizinkan pihak yang melindungi dari kerugian memiliki hak tunggal "
+"untuk mengontrol pembelaan dan penyelesaian klaim tersebut (dengan ketentuan"
+" bahwa pihak yang melindungi dari kerugian tidak dapat menyelesaikan klaim "
+"apa pun tanpa persetujuan pihak yang dilindungi dari kerugian kecuali "
+"penyelesaian tanpa syarat membebaskan pihak yang dilindungi dari semua "
+"tanggung jawab); (iv) pihak yang dilindungi dari kerugian memberikan bantuan"
+" yang wajar kepada pihak yang melindungi, atas biaya pihak yang melindungi, "
+"untuk membela klaim tersebut; (v) pihak yang dilindungi dari kerugian yang "
+"tidak memasuki perjanjian penyelesaian apa pun atau menyelesaikan klaim "
+"tersebut tanpa memberikan izin atau permintaan tertulis sebelumnya dari "
+"pihak yang melindungi; dan (vi) pihak yang dilindungi dari kerugian yang "
+"mematuhi setiap penyelesaian atau perintah pengadilan yang dibuat sehubungan"
+" dengan klaim tersebut (terkait dengan penggunaan materi yang melanggar di "
+"masa mendatang). Pihak yang dilindungi dari kerugian dapat berpartisipasi "
+"dalam pembelaan atau penyelesaian klaim dengan penasihat hukum pilihannya "
+"sendiri dan atas biayanya sendiri."
+
+msgid ""
+"10.5 Exclusive Remedy: This Section 10 states the indemnifying party's sole "
+"liability to, and the indemnified party's exclusive remedy against, the "
+"other party for any type of claim described in this Section."
+msgstr ""
+"10.5 Obat Eksklusif: Bagian 10 ini menyatakan tanggung jawab satu-satunya "
+"pihak yang mengganti kerugian kepada, dan ganti rugi eksklusif pihak yang "
+"mendapatkan ganti rugi terhadap, pihak lain untuk segala jenis klaim yang "
+"dijelaskan dalam Bagian ini."
+
+msgid "11. Limitation on Liability:"
+msgstr "11. Batasan Tanggung Jawab:"
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THE "
+"AGREEMENT EXCEED THE SUM OF THE AMOUNTS PAID BY YOU FOR THE SERVICES GIVING "
+"RISE TO THE LIABILITY DURING THE ONE-YEAR PERIOD IMMEDIATELY PRECEEDING THE "
+"DATE THE CAUSE OF ACTION AROSE."
+msgstr ""
+"KECUALI DENGAN MENGHORMATI KERUSAKAN YANG MENUNJUKKAN DALAM HUBUNGAN DENGAN "
+"PELANGGARAN BAGIAN 5.3 ATAU 12, SAMPAI MAKSIMUM MAKSIMUM YANG DIIZINKAN OLEH"
+" UNDANG-UNDANG, DALAM HAL APAPUN TIDAK AKAN KEWAJIBAN TOTAL KUMULATIF PARTAI"
+" LAIN YANG TINGGAL DARI ATAU TERKAIT DENGAN PERSETUJUAN TERSEBUT DI LUAR "
+"NEGERI DI LUAR NEGERI DI LUAR NEGERI TERSEBUT TERSEBUT DI LUAR NEGERI "
+"TERSEBUT DI LUAR NEGERI TERSEBUT DI LUAR NEGERI TERSEBUT DI LUAR NEGERI "
+"TERSEBUT DI LUAR NEGERI TERSEBUT DI LUAR NEGERI TERSEBUT DI SINI JAUH, "
+"KECUALI TERSEBUT DI LUAR NEGERIAH, KABUPATEN JAUH KELUARGA TERSEBUT DI LUAR "
+"NEGERI, JUMLAH. ANDA UNTUK LAYANAN YANG MEMBERIKAN KEWAJIBAN ATAS KEWAJIBAN "
+"SELAMA PERIODE SATU TAHUN, SEGERA MENJADI TANGGAL TANGGAL PENYEBAB PENYEBAB "
+"TINDAKAN."
+
+msgid ""
+"EXCEPT WITH RESPECT TO DAMAGES ARISING IN CONNECTION WITH A BREACH OF "
+"SECTION 5.3 OR 12, TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL"
+" EITHER PARTY HERETO, ITS LICENSORS OR SUPPLIERS, HAVE ANY LIABILITY TO THE "
+"OTHER PARTY FOR ANY LOST PROFITS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS "
+"OR SERVICES OR FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR "
+"INCIDENTAL DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY "
+"(INCLUDING NEGLIGENCE), ARISING OUT OF THE AGREEMENT, THE PERFORMANCE OR "
+"NONPERFORMANCE BY EITHER PARTY OF ITS OBLIGATIONS HEREUNDER, WHETHER OR NOT "
+"SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"KECUALI DENGAN MENGHORMATI KERUSAKAN YANG MENDAPATKAN HUBUNGAN DENGAN "
+"PELANGGARAN BAGIAN 5.3 ATAU 12, SAMPAI DENGAN MAKSIMUM MAKSIMUM YANG "
+"DIIZINKAN OLEH HUKUM, DALAM HAL APA PUN, PIHAK PENDAFTARAN ATAU PEMASOK, "
+"MEMILIKI KEWAJIBAN BAGI ORANG LAIN. BIAYA PENGADAAN BARANG ATAU LAYANAN "
+"PENGGANTI ATAU UNTUK SETIAP KERUSAKAN, KHUSUS, KONSEKUENSIAL, KERUSAKAN LUAR"
+" BIASA ATAU INSIDENTAL, BAGAIMANA PENYEBAB DAN BERDASARKAN PADA TEORI "
+"KEWAJIBAN (TERMASUK NEGLIGENSI), MENYEBUTKAN KETENTUAN KETENAGA KERJA, "
+"KEWAJIBANNYA DI SINI, BAIK ATAU ATAU PIHAK TERSEBUT TELAH MENYARANKAN "
+"KEMUNGKINAN KERUSAKAN TERSEBUT."
+
+msgid ""
+"BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION "
+"OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION "
+"MAY NOT APPLY TO YOU, IN WHICH CASE OUR LIABILITY SHALL BE LIMITED TO THE "
+"MAXIMUM EXTENT PERMITTED BY LAW."
+msgstr ""
+"KARENA BEBERAPA NEGARA / YURISDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU "
+"PEMBATASAN TANGGUNG JAWAB ATAS KERUSAKAN KONSEKUENSIAL ATAU INSIDENTAL, "
+"BATASAN DI ATAS MUNGKIN TIDAK BERLAKU BAGI ANDA, DALAM KASUS KEWAJIBAN KAMI "
+"AKAN DIBATASI DENGAN KEMUNGKINAN LAINNYA."
+
+msgid "12. Personal Information and Privacy Statement:"
+msgstr "12. Informasi Pribadi dan Pernyataan Privasi:"
+
+msgid ""
+"You will comply with all applicable privacy and other laws, rules, "
+"regulations and guidelines relating to the protection, collection, use and "
+"distribution of Personally Identifiable Information (as defined below) of "
+"any person. You will post a privacy statement on the page where you collect "
+"Personally Identifiable Information ('Privacy Statement') that complies with"
+" all applicable laws, rules, regulations and guidelines and, at a minimum, "
+"notifies users of the Personally Identifiable Information collected, how it "
+"will be used and how it will be secured, and that identifies the collection "
+"method (cookies, web beacons or other applicable means) and the use of "
+"information gathered in connection with the Services, obtaining prior "
+"informed consent (opt-in) before utilizing any tracking technologies, to the"
+" extent required by applicable laws and regulations. Such a Privacy "
+"Statement shall also include technical information related to the "
+"collection, transmission and storage of the Personally Identifiable "
+"Information provided by us through the Services. If required by applicable "
+"data protection legislation or other law or regulation, you will inform "
+"third parties that you are providing their Personally Identifiable "
+"Information to us for processing and will ensure that any required third "
+"parties have given their consent to such disclosure and processing. You "
+"agree to comply with the descriptions and provisions of the Privacy "
+"Statement. 'Personally Identifiable Information' means any information that "
+"can be associated with or traced to any individual, including an "
+"individual's name, address, telephone number, e-mail address, credit card "
+"information, social security number or other similar specific factual "
+"information, regardless of the media on which such information is stored "
+"(e.g. on paper or electronically)."
+msgstr ""
+"Anda akan mematuhi semua privasi yang berlaku dan undang-undang, aturan, "
+"regulasi, dan pedoman lain yang berkaitan dengan perlindungan, pengumpulan, "
+"penggunaan, dan distribusi Informasi Identitas Pribadi (sebagaimana "
+"didefinisikan di bawah) dari siapa pun. Anda akan memposting pernyataan "
+"privasi di halaman tempat Anda mengumpulkan Informasi Identitas Pribadi "
+"(&#39;Pernyataan Privasi&#39;) yang mematuhi semua undang-undang, aturan, "
+"peraturan, dan pedoman yang berlaku dan, setidaknya, memberi tahu pengguna "
+"tentang Informasi Identitas Pribadi yang dikumpulkan, bagaimana itu akan "
+"digunakan dan bagaimana itu akan diamankan, dan yang mengidentifikasi metode"
+" pengumpulan (cookie, suar web atau cara lain yang berlaku) dan penggunaan "
+"informasi yang dikumpulkan sehubungan dengan Layanan, memperoleh persetujuan"
+" yang diinformasikan sebelumnya (opt-in) sebelum menggunakan teknologi "
+"pelacakan, sejauh yang dipersyaratkan oleh hukum dan peraturan yang berlaku."
+" Pernyataan Privasi tersebut juga harus mencakup informasi teknis yang "
+"terkait dengan pengumpulan, transmisi, dan penyimpanan Informasi Identitas "
+"Pribadi yang kami sediakan melalui Layanan. Jika diwajibkan oleh undang-"
+"undang perlindungan data yang berlaku atau undang-undang atau peraturan "
+"lainnya, Anda akan memberi tahu pihak ketiga bahwa Anda memberikan Informasi"
+" Identitas Pribadi mereka kepada kami untuk diproses dan akan memastikan "
+"bahwa pihak ketiga yang diwajibkan telah memberikan persetujuan mereka untuk"
+" pengungkapan dan pemrosesan tersebut. Anda setuju untuk mematuhi deskripsi "
+"dan ketentuan Pernyataan Privasi. &#39;Informasi Identitas Pribadi&#39; "
+"berarti setiap informasi yang dapat dikaitkan dengan atau dilacak ke "
+"individu mana pun, termasuk nama, alamat, nomor telepon, alamat email, "
+"informasi kartu kredit, nomor jaminan sosial, atau informasi faktual "
+"spesifik serupa lainnya, terlepas dari media di mana informasi tersebut "
+"disimpan (misalnya di atas kertas atau secara elektronik)."
+
+msgid "13. Miscellaneous:"
+msgstr "13. Lain-lain:"
+
+msgid ""
+"13.1 Independent Parties: You and CaseActive are independent contractors. "
+"The Agreement does not create any joint venture, partnership, agency or "
+"employment relationship between the parties. You shall be solely responsible"
+" for managing your employees and for any and all compensation, taxes, "
+"benefits and liabilities to your employees and any of your other "
+"representatives or service providers. Neither you nor any of your employees,"
+" representatives, or service providers shall make any representations, "
+"warranties or guarantees with respect to us, the Agreement or the Services "
+"other than as expressly authorized by us in writing."
+msgstr ""
+"13.1 Pihak Independen: Anda dan CaseActive adalah kontraktor independen. "
+"Perjanjian ini tidak menciptakan usaha patungan, kemitraan, agensi atau "
+"hubungan kerja di antara para pihak. Anda bertanggung jawab sepenuhnya untuk"
+" mengelola karyawan Anda dan untuk setiap dan semua kompensasi, pajak, "
+"tunjangan dan kewajiban kepada karyawan Anda dan perwakilan atau penyedia "
+"layanan Anda. Baik Anda maupun karyawan, perwakilan, atau penyedia layanan "
+"Anda tidak akan membuat pernyataan, jaminan atau jaminan apa pun sehubungan "
+"dengan kami, Perjanjian atau Layanan selain dari yang diizinkan secara "
+"tertulis oleh kami."
+
+msgid ""
+"13.2 Assignment: Neither the Agreement nor any of your rights or obligations"
+" under the Agreement may be assigned or transferred, by operation of law or "
+"otherwise, without our prior written consent, unless assigned to a successor"
+" in interest, or pursuant to a merger, corporate reorganization, or a sale "
+"or transfer of all or substantially all of your assets of which you provide "
+"us notice at least thirty (30) days prior to the consummation of the "
+"transaction. An assignment by you, based on any other circumstances, "
+"requires our prior consent, which consent shall not be unreasonably "
+"withheld. We may freely assign this Agreement without your consent. Subject "
+"to the foregoing, this Agreement shall bind and inure to the benefit of the "
+"parties, their respective successors and permitted assigns."
+msgstr ""
+"13.2 Penugasan: Baik Perjanjian maupun hak atau kewajiban Anda berdasarkan "
+"Perjanjian tidak dapat dialihkan atau ditransfer, dengan hukum atau "
+"sebaliknya, tanpa persetujuan tertulis sebelumnya dari kami, kecuali "
+"ditugaskan untuk penerus bunga, atau berdasarkan merger, perusahaan "
+"reorganisasi, atau penjualan atau pengalihan semua atau secara substansial "
+"semua aset Anda yang Anda berikan kepada kami pemberitahuan setidaknya tiga "
+"puluh (30) hari sebelum penyelesaian transaksi. Penugasan oleh Anda, "
+"berdasarkan keadaan lain, membutuhkan persetujuan kami sebelumnya, yang "
+"persetujuannya tidak akan ditahan secara tidak masuk akal. Kami dapat dengan"
+" bebas menetapkan Perjanjian ini tanpa persetujuan Anda. Tunduk pada hal "
+"tersebut di atas, Perjanjian ini akan mengikat dan memastikan untuk "
+"kepentingan para pihak, penerus masing-masing dan penugasan yang diizinkan."
+
+msgid ""
+"13.3 Force Majeure: Neither party will be responsible for any delay, "
+"interruption or other failure to perform under the Agreement due to acts "
+"beyond the control of the responsible party, but only for so long as such "
+"conditions persist. Force majeure events include, but are not limited to: "
+"natural disasters (e.g. lightning, earthquakes, hurricanes, floods); wars, "
+"riots, terrorist activities, and civil commotions; a local exchange "
+"carrier's activities, and other acts of third parties; explosions and fires;"
+" embargoes, strikes and labor disputes; governmental decrees; failures of "
+"telecommunications providers or internet service providers; failures of "
+"third party suppliers, service providers or vendors; and any other cause "
+"beyond the reasonable control of a party."
+msgstr ""
+"13.3 Force Majeure: Tidak ada pihak yang akan bertanggung jawab atas "
+"keterlambatan, gangguan atau kegagalan lainnya untuk melakukan berdasarkan "
+"Perjanjian karena tindakan di luar kendali pihak yang bertanggung jawab, "
+"tetapi hanya selama kondisi tersebut tetap ada. Kejadian force majeure "
+"termasuk, tetapi tidak terbatas pada: bencana alam (misalnya petir, gempa "
+"bumi, angin topan, banjir); perang, kerusuhan, kegiatan teroris, dan "
+"kerusuhan sipil; kegiatan pertukaran penukaran lokal, dan tindakan lain dari"
+" pihak ketiga; ledakan dan kebakaran; embargo, pemogokan, dan perselisihan "
+"perburuhan; keputusan pemerintah; kegagalan penyedia telekomunikasi atau "
+"penyedia layanan internet; kegagalan pemasok, penyedia layanan, atau vendor "
+"pihak ketiga; dan sebab lain apa pun di luar kendali wajar suatu pihak."
+
+msgid ""
+"13.4 Choice of Law: The Agreement and any dispute arising out of or in "
+"connection with the Agreement shall be governed by and construed under the "
+"laws of the State of California, without regard to the principles of "
+"conflict of laws. All disputes arising out of or related to the Agreement "
+"shall be subject to the exclusive jurisdiction and venue of the California "
+"state and federal courts for Santa Barbara, California, and the parties "
+"consent to the personal and exclusive jurisdiction of these courts."
+msgstr ""
+"13.4 Pilihan Hukum: Perjanjian dan setiap perselisihan yang timbul dari atau"
+" sehubungan dengan Perjanjian akan diatur oleh dan ditafsirkan berdasarkan "
+"hukum Negara Bagian California, tanpa memperhatikan prinsip-prinsip "
+"pertentangan hukum. Semua perselisihan yang timbul dari atau terkait dengan "
+"Perjanjian akan tunduk pada yurisdiksi eksklusif dan tempat pengadilan "
+"negara bagian dan federal California untuk Santa Barbara, California, dan "
+"para pihak menyetujui yurisdiksi pribadi dan eksklusif pengadilan ini."
+
+msgid ""
+"13.5 E-mail and Notices: You further agree that we may provide any and all "
+"notices, statements and other communications to you through either e-mail, "
+"mail, express delivery service, or delivered by a recognized commercial "
+"carrier addressed to the address last designated on the Agreement. You are "
+"responsible for providing us with any updated contact information."
+msgstr ""
+"13.5 E-mail dan Pemberitahuan: Anda selanjutnya setuju bahwa kami dapat "
+"memberikan semua dan semua pemberitahuan, pernyataan dan komunikasi lainnya "
+"kepada Anda melalui email, surat, layanan pengiriman ekspres, atau dikirim "
+"oleh maskapai komersial yang diakui yang dialamatkan ke alamat yang ditunjuk"
+" terakhir pada Perjanjian. Anda bertanggung jawab untuk menyediakan "
+"informasi kontak terbaru kepada kami."
+
+msgid ""
+"13.6 No Waiver; Cumulative Remedies: No failure or delay by either party in "
+"exercising any right under this Agreement shall constitute a waiver of that "
+"right. Other than as expressly stated herein, the remedies provided herein "
+"are in addition to, and not exclusive of, any other remedies of a party at "
+"law or in equity."
+msgstr ""
+"13.6 Tidak Ada Pengabaian; Pemulihan Kumulatif: Tidak ada kegagalan atau "
+"keterlambatan oleh salah satu pihak dalam melaksanakan hak apa pun "
+"berdasarkan Perjanjian ini merupakan pengabaian hak tersebut. Selain dari "
+"yang dinyatakan secara tertulis di sini, ganti rugi yang diberikan di sini "
+"adalah sebagai tambahan terhadap, dan tidak eksklusif dari, pemulihan "
+"lainnya dari suatu pihak menurut hukum atau dalam ekuitas."
+
+msgid ""
+"13.7 Severability: If any provision of this Agreement is held by a court of "
+"competent jurisdiction to be contrary to law, the provision shall be "
+"modified by the court and interpreted so as to best accomplish the "
+"objectives of the original provision to the fullest extent permitted by law,"
+" and the remaining provisions of this Agreement shall remain in full force "
+"and effect."
+msgstr ""
+"13.7 Keterpisahan: Jika ada ketentuan dalam Perjanjian ini yang dipegang "
+"oleh pengadilan yang berwenang untuk bertentangan dengan hukum, ketentuan "
+"tersebut harus dimodifikasi oleh pengadilan dan ditafsirkan untuk mencapai "
+"tujuan ketentuan ketentuan semaksimal mungkin sejauh diizinkan oleh hukum, "
+"dan ketentuan yang tersisa dari Perjanjian ini akan tetap berlaku dan "
+"berlaku penuh."
+
+msgid ""
+"13.8 Entire Agreement: To the maximum extent permitted by applicable law, "
+"this Agreement, together with the documents referenced herein and all Order "
+"Forms and sign-up flows, constitute the entire agreement between the parties"
+" as to its subject matter, and supersede all previous and contemporaneous "
+"agreements, proposals or representations, written or oral, concerning the "
+"subject matter of this Agreement. No representation, undertaking or promise "
+"shall be taken to have been given or be implied from anything said or "
+"written in negotiations between the parties prior to this Agreement except "
+"as expressly stated in this Agreement. Neither party shall have any remedy "
+"in respect of any untrue statement made by the other upon which that party "
+"relied in entering into this Agreement (unless such untrue statement was "
+"made fraudulently) and that a party’s only remedy in respect of any untrue "
+"statement shall be for breach of contract as provided in this Agreement. You"
+" acknowledge and agree that your agreement hereunder is not contingent upon "
+"the delivery of any future functionality or features not specified herein or"
+" in an Order Form or dependent upon any oral or written, public or private "
+"comments made by us with respect to future functionality or features for the"
+" Services. In the event of any conflict between the provisions in these "
+"General Terms of Service and any Order Form or Additional Terms of Service, "
+"the terms of such Order Form or Additional Terms of Service shall prevail, "
+"to the extent of such conflict. No terms or conditions stated in your "
+"purchase order or in any other of your order documentation shall be "
+"incorporated into or form any part of this Agreement, and all such terms or "
+"conditions shall be null and void."
+msgstr ""
+"13.8 Seluruh Perjanjian: Sejauh yang diizinkan oleh hukum yang berlaku, "
+"Perjanjian ini, bersama dengan dokumen yang dirujuk di sini dan semua "
+"Formulir Pemesanan dan arus pendaftaran, merupakan keseluruhan perjanjian "
+"antara para pihak sehubungan dengan masalah pokoknya, dan menggantikan semua"
+" sebelumnya dan perjanjian kontemporer, proposal atau representasi, tertulis"
+" atau lisan, mengenai pokok masalah Perjanjian ini. Tidak ada perwakilan, "
+"usaha atau janji yang dianggap telah diberikan atau disiratkan dari apa pun "
+"yang dikatakan atau ditulis dalam negosiasi antara para pihak sebelum "
+"Perjanjian ini kecuali sebagaimana yang secara tegas dinyatakan dalam "
+"Perjanjian ini. Tidak ada satu pihak pun yang dapat melakukan pemulihan "
+"sehubungan dengan pernyataan tidak benar yang dibuat oleh pihak lain yang "
+"menjadi dasar pihak tersebut untuk menandatangani Perjanjian ini (kecuali "
+"pernyataan tidak benar tersebut dibuat secara curang) dan bahwa satu-satunya"
+" pemulihan satu pihak sehubungan dengan pernyataan tidak benar adalah untuk "
+"pelanggaran kontrak sebagaimana ditentukan dalam Perjanjian ini. Anda "
+"mengakui dan menyetujui bahwa perjanjian Anda di bawah ini tidak bergantung "
+"pada pengiriman fungsionalitas atau fitur di masa depan yang tidak "
+"ditentukan di sini atau dalam Formulir Pemesanan atau bergantung pada "
+"komentar lisan atau tertulis, publik atau pribadi yang dibuat oleh kami "
+"sehubungan dengan fungsionalitas atau fitur di masa depan. untuk Layanan. "
+"Dalam hal terjadi pertentangan antara ketentuan dalam Ketentuan Layanan Umum"
+" ini dan Formulir Pemesanan atau Ketentuan Layanan Tambahan, syarat-syarat "
+"Formulir Pemesanan atau Ketentuan Layanan Tambahan tersebut akan berlaku, "
+"sejauh konflik tersebut. Tidak ada syarat atau ketentuan yang dinyatakan "
+"dalam pesanan pembelian Anda atau dokumentasi pesanan Anda lainnya yang akan"
+" dimasukkan ke dalam atau membentuk bagian apa pun dari Perjanjian ini, dan "
+"semua syarat atau ketentuan tersebut akan batal demi hukum."
+
+msgid ""
+"13.9 Export: Both parties agree to comply with applicable US export and "
+"import laws and regulations. You shall not permit your users to access or "
+"use the Services in violation of any U.S. export embargo, prohibition or "
+"restriction."
+msgstr ""
+"13.9 Ekspor: Kedua belah pihak sepakat untuk mematuhi hukum dan peraturan "
+"ekspor dan impor AS yang berlaku. Anda tidak akan mengizinkan pengguna Anda "
+"untuk mengakses atau menggunakan Layanan yang melanggar embargo, larangan "
+"atau pembatasan ekspor AS."
+
+msgid ""
+"13.10 Publicity: We may not name you as a user of the Services without your "
+"written consent."
+msgstr ""
+"13.10 Publisitas: Kami tidak dapat menyebut Anda sebagai pengguna Layanan "
+"tanpa persetujuan tertulis dari Anda."
+
+msgid ""
+"13.11 Links to Third Party Sites: The Services or our website may include "
+"links to third party sites ('Linked Sites'). The Linked Sites are not under "
+"our control and we are not responsible for the contents of any Linked Site, "
+"including without limitation any link contained in a Linked Site, or any "
+"changes or updates to a Linked Site or the Services provided via a Linked "
+"Site. We are providing these links to you only as a convenience, and the "
+"inclusion of any link does not imply endorsement by us of the site or any "
+"associated services provided by the site."
+msgstr ""
+"13.11 Tautan ke Situs Pihak Ketiga: Layanan atau situs web kami dapat "
+"menyertakan tautan ke situs pihak ketiga (&#39;Situs Tertaut&#39;). Situs "
+"Tertaut tidak berada di bawah kendali kami dan kami tidak bertanggung jawab "
+"atas konten Situs Tertaut mana pun, termasuk tanpa batasan tautan apa pun "
+"yang terdapat dalam Situs Tertaut, atau perubahan atau pembaruan apa pun ke "
+"Situs Tertaut atau Layanan yang disediakan melalui Situs Tertaut. Kami "
+"menyediakan tautan ini kepada Anda hanya untuk kenyamanan, dan penyertaan "
+"tautan apa pun tidak menyiratkan dukungan kami terhadap situs atau layanan "
+"terkait apa pun yang disediakan oleh situs."
+
+msgid ""
+"13.12 You consent to receive emails, phone calls and SMS messages from "
+"CaseActive to provide updates on your order and/or for marketing purposes. "
+"Message frequency depends on your activity. You may opt-out by unchecking "
+"notifications from your account or deleting your account. Message and data "
+"rates may apply."
+msgstr ""
+"13.12 Anda setuju untuk menerima email, panggilan telepon, dan pesan SMS "
+"dari CaseActive untuk memberikan pembaruan pada pesanan Anda dan/atau untuk "
+"tujuan pemasaran. Frekuensi pesan tergantung pada aktivitas Anda. Anda dapat"
+" memilih keluar dengan menghapus centang pemberitahuan dari akun Anda atau "
+"menghapus akun Anda. Tarif pesan dan data mungkin berlaku."
+
+msgid "An error occurred"
+msgstr "Terjadi kesalahan"
+
+msgid ""
+"Something went wrong. Our engineers have been notified. Press reload button "
+"to reload."
+msgstr ""
+"Ada yang salah. Teknisi kami telah diberitahu. Tekan tombol muat ulang untuk"
+" memuat ulang."
+
+msgid "Reload"
+msgstr "Muat ulang"

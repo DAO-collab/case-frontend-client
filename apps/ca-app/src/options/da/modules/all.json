@@ -1,0 +1,55 @@
+{
+  "case": { "read": "L\u00e6s alle sagsfelter angivet i rolle", "write": "Skriv alt sagsfelt specificer i rolle" },
+  "convos": {
+    "read_all": "Se den aktuelle status for konvoserne.",
+    "manage_own": "Deltag og afmeld konvo.",
+    "moderate_others": "Start samtale, afslut samtale, og fjern deltager.",
+    "read_all_submissions": "L\u00e6s alle optagede samtaler."
+  },
+  "events": {
+    "read_all": "L\u00e6s alle begivenheder.",
+    "manage_own": "Opret, opdater og slet egen begivenhed.",
+    "moderate_others": "Opdater og slet andres begivenhed.",
+    "read_all_submissions": "L\u00e6s alle begivenhedsbekr\u00e6ftelser.",
+    "submit_own": "Bekr\u00e6ft anmodning om eventdeltagelse."
+  },
+  "posts": {
+    "read_all": "L\u00e6s alle indl\u00e6g.",
+    "manage_own": "Opret, opdater og slet eget indl\u00e6g.",
+    "moderate_others": "Opdater og slet andres indl\u00e6g."
+  },
+  "forms": {
+    "read_all": "L\u00e6s alle formularer.",
+    "manage_own": "Opret, opdater og slet egen formular.",
+    "moderate_others": "Opdater og slet andres formular.",
+    "read_all_submissions": "L\u00e6s alle formularindsendelser.",
+    "submit_own": "Indsend formularanmodning."
+  },
+  "invoices": {
+    "read_all": "L\u00e6s alle fakturaer.",
+    "manage_own": "Opret, opdater og slet egen faktura.",
+    "moderate_others": "Opdater og slet andres faktura.",
+    "read_all_submissions": "L\u00e6s alle fakturaindsendelser.",
+    "submit_own": "Indsend fakturaanmodning."
+  },
+  "notes": {
+    "read_all": "L\u00e6s alle noter.",
+    "manage_own": "Opret, opdater og slet egen note.",
+    "moderate_others": "Opdater og slet andres note."
+  },
+  "signs": {
+    "read_all": "L\u00e6s alle e-skilte.",
+    "manage_own": "Opret, opdater og slet eget e-skilt.",
+    "moderate_others": "Opdater og slet andres e-tegn.",
+    "read_all_submissions": "L\u00e6s alle indsendelser af e-skilte.",
+    "submit_own": "Indsend feltanmodning."
+  },
+  "tasks": {
+    "read_all": "L\u00e6s alle opgaver.",
+    "manage_own": "Opret, opdater og slet egen opgave.",
+    "moderate_others": "Opdater og slet andres opgave.",
+    "read_all_submissions": "L\u00e6s alle opgaveafleveringer.",
+    "submit_own": "Send opgaveanmodning."
+  },
+  "team": { "read_all": "L\u00e6s hold i tilf\u00e6lde af" }
+}

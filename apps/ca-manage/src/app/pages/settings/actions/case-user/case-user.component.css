@@ -1,0 +1,41 @@
+#content {
+  margin-top: 10px;
+}
+
+.action-title-button {
+  background: transparent;
+  margin: 0 0 0 20px;
+  float: none;
+  padding: 1px 15px 0;
+  color: #16b0c5;
+}
+
+.action-title-button:hover {
+  color: white;
+  background: #16b0c5;
+}
+
+.icon-plus {
+  transition: none;
+  font-size: 16px;
+  top: 3px;
+  position: relative;
+}
+
+.icon-plus:before {
+  transition: none;
+}
+
+.action-title-h3 {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 500px) {
+  .action-title-button {
+    width: 70px;
+    padding: 1px 5px 0;
+    margin: 0 0 0 10px;
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "L\u00eas alle saak fjild spesifisearje yn rol",
+    "write": "Skriuw alle saak fjild spesifisearje yn rol"
+  },
+  "convos": {
+    "read_all": "Besjoch aktuele status fan convos.",
+    "manage_own": "Join en unjoin convo.",
+    "moderate_others": "Start convo, ein convo, en fuortsmite dielnimmer.",
+    "read_all_submissions": "L\u00eas alle opnommen convos."
+  },
+  "events": {
+    "read_all": "L\u00eas alle eveneminten.",
+    "manage_own": "Meitsje, bywurkje en wiskje eigen evenemint.",
+    "moderate_others": "Bywurkje en wiskje oar syn evenemint.",
+    "read_all_submissions": "L\u00eas alle evenemint bef\u00eastigings.",
+    "submit_own": "Bef\u00eastigje oanfraach foar oanw\u00eazichheid fan eveneminten."
+  },
+  "posts": {
+    "read_all": "L\u00eas alle berjochten.",
+    "manage_own": "Meitsje, bywurkje en wiskje eigen post.",
+    "moderate_others": "Update en wiskje de post fan oaren."
+  },
+  "forms": {
+    "read_all": "L\u00eas alle formulieren.",
+    "manage_own": "Meitsje, bywurkje en wiskje eigen formulier.",
+    "moderate_others": "Update en wiskje it formulier fan oaren.",
+    "read_all_submissions": "L\u00eas alle yntsjinjen fan formulieren.",
+    "submit_own": "Formulier oanfraach yntsjinje."
+  },
+  "invoices": {
+    "read_all": "L\u00eas alle faktueren.",
+    "manage_own": "Meitsje, bywurkje en wiskje eigen faktuer.",
+    "moderate_others": "Update en wiskje de faktuer fan oaren.",
+    "read_all_submissions": "L\u00eas alle faktueren yntsjinjen.",
+    "submit_own": "Submit invoice fersyk."
+  },
+  "notes": {
+    "read_all": "L\u00eas alle notysjes.",
+    "manage_own": "Meitsje, bywurkje en wiskje eigen notysje.",
+    "moderate_others": "Update en wiskje de notysje fan oaren."
+  },
+  "signs": {
+    "read_all": "L\u00eas alle e-tekens.",
+    "manage_own": "Meitsje, bywurkje en wiskje eigen e-teken.",
+    "moderate_others": "Update en wiskje it e-teken fan oaren.",
+    "read_all_submissions": "L\u00eas alle ynstjoerings foar e-teken.",
+    "submit_own": "Submit fjild fersyk."
+  },
+  "tasks": {
+    "read_all": "L\u00eas alle taken.",
+    "manage_own": "Meitsje, bywurkje en wiskje eigen taak.",
+    "moderate_others": "Update en wiskje de taak fan oaren.",
+    "read_all_submissions": "L\u00eas alle taak yntsjinjen.",
+    "submit_own": "Submit taak fersyk."
+  },
+  "team": { "read_all": "L\u00eas team yn gefal" }
+}

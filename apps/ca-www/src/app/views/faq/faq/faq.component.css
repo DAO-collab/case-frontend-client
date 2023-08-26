@@ -1,0 +1,13 @@
+.heading-a {
+  padding-top: 150px;
+}
+
+.answer-to-questions-span {
+  font-size: 56px;
+}
+
+@media only screen and (max-width: 760px) {
+  .answer-to-questions-span {
+    font-size: 48px;
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noImplicitReturns": true,
+    "baseUrl": ".",
+    "paths": {
+      "@acc-envs/*": ["apps/ca-account/src/environments/*"],
+      "@acc/*": ["apps/ca-account/src/app/*"],
+      "@app/*": ["apps/ca-app/src/app/*"],
+      "@ca/ui": ["libs/ui/src/index.ts"],
+      "@ca/ui/*": ["libs/ui/src/*"],
+      "@manage/*": ["apps/ca-manage/src/app/*"],
+      "@www-src/*": ["apps/ca-www/src/*"],
+      "@www/*": ["apps/ca-www/src/app/*"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

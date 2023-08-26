@@ -1,0 +1,7 @@
+<app-main *ngIf="!(initialLoading$ | async)">
+  <router-outlet></router-outlet>
+</app-main>
+
+<div *ngIf="(initialLoading$ | async) as initialLoading" class="loader-wrapper">
+  <app-loader [active]="initialLoading"></app-loader>
+</div>

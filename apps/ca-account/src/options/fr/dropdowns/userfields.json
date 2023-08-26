@@ -1,0 +1,18 @@
+{
+  "family_name": "Nom de famille",
+  "given_name": "Pr\u00e9nom",
+  "locale": "Langue pr\u00e9f\u00e9r\u00e9e",
+  "zoneinfo": "Fuseau horaire",
+  "email": "Adresse \u00e9lectronique",
+  "phone": "Num\u00e9ro de t\u00e9l\u00e9phone",
+  "address1": "Adresse de rue",
+  "address2": "Apt # ou Unit #",
+  "locality": "Ville ou localit\u00e9",
+  "region": "\u00c9tat ou r\u00e9gion",
+  "postal_code": "Code postal ou code postal",
+  "country": "Pays",
+  "birthdate": "Date de naissance",
+  "gender": "Le genre",
+  "company": "Compagnie",
+  "title": "Nom Titre"
+}

@@ -1,0 +1,67 @@
+<div *ngIf="invoice?.name">
+  <div class="invoice-preview-header">
+    <span class="invoice-preview-header-title">{{ invoice?.name }}</span>
+    <hr class="invoice-preview-line" />
+  </div>
+  <div class="invoice-preview-flex-one-row mt-item">
+    <div class="invoice-preview-item invoice-preview-PO-No" *ngIf="invoice?.po_number">
+      <div class="invoice-preview-title" translate>PO No.</div>
+      <div class="invoice-preview-info">{{ invoice?.po_number }}</div>
+    </div>
+    <div class="invoice-preview-item invoice-preview-reference-id" *ngIf="invoice?.reference_id">
+      <div class="invoice-preview-title" translate>Reference ID</div>
+      <div class="invoice-preview-info">{{ invoice?.reference_id }}</div>
+    </div>
+  </div>
+  <div class="invoice-preview-item mt-item" *ngIf="invoice?.terms">
+    <div class="invoice-preview-title" translate>Term</div>
+    <div class="invoice-preview-info">{{ invoice?.terms }}</div>
+  </div>
+  <div class="invoice-preview-item mt-item" *ngIf="invoice?.notes">
+    <div class="invoice-preview-title" translate>Note</div>
+    <div class="invoice-preview-info">{{ invoice?.notes }}</div>
+  </div>
+  <table class="mt-item invoice-preview-table" *ngIf="invoice?.transactions?.transactions?.length">
+    <tr class="invoice-table-tr">
+      <th class="invoice-preview-title invoice-preview-table-th builder-table-cell-head-1" translate>Type</th>
+      <th class="invoice-preview-title invoice-preview-table-th" translate>Description</th>
+      <th class="invoice-preview-title invoice-preview-table-th" translate>Quantity</th>
+      <th class="invoice-preview-title invoice-preview-table-th" translate>Price ($)</th>
+    </tr>
+    <ng-container *ngFor="let transaction of invoice?.transactions?.transactions">
+      <tr class="invoice-table-tr">
+        <td class="builder-table-cell-1">
+          {{ transaction.transaction_type }}
+        </td>
+        <td class="builder-table-cell-2">
+          {{ transaction.description }}
+        </td>
+        <td class="builder-table-cell-3">
+          {{ transaction.quantity }}
+        </td>
+        <td class="builder-table-cell-4">
+          <ng-container *ngIf="transaction.transaction_type === 'charge'">{{ transaction?.value! / 100 }}</ng-container>
+          <ng-container *ngIf="transaction.transaction_type !== 'charge'">-{{ transaction?.value! / 100 }}</ng-container>
+        </td>
+      </tr>
+    </ng-container>
+  </table>
+  <div class="invoice-preview-item mt-item invoice-preview-flex">
+    <div class="invoice-preview-title mb-title-0" translate>Subtotal ($)</div>
+    <div class="invoice-preview-info">{{ calculateSubTotal() }}</div>
+  </div>
+  <div class="invoice-preview-item mt-item invoice-preview-flex" *ngIf="invoice?.transactions?.discount">
+    <div class="invoice-preview-title mb-title-0" translate>Discount (%)</div>
+    <div class="invoice-preview-info">{{ invoice?.transactions?.discount }}</div>
+  </div>
+  <div class="invoice-preview-item mt-item invoice-preview-flex" *ngIf="invoice?.transactions?.tax">
+    <div class="invoice-preview-title mb-title-0" translate>Tax (%)</div>
+    <div class="invoice-preview-info">{{ invoice?.transactions?.tax }}</div>
+  </div>
+  <hr class="invoice-preview-line mt-item" />
+  <div class="invoice-preview-item mt-item invoice-preview-flex invoice-preview-last-block-mb">
+    <div class="invoice-preview-title mb-title-0" translate>Total ($)</div>
+    <div class="invoice-preview-info">{{ calculateTotal() }}</div>
+  </div>
+  <hr class="invoice-preview-line invoice-preview-last-hr" *ngIf="!router.url.includes('/invoice-submit')" />
+</div>

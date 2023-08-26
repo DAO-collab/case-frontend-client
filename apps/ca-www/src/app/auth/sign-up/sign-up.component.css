@@ -1,0 +1,7 @@
+:host ::ng-deep .pv-wrapper {
+  margin-top: 15px !important;
+}
+
+input.invalid {
+  border: 1px solid #de554b;
+}

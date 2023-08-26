@@ -1,0 +1,58 @@
+{
+  "case": {
+    "read": "Rolda ko&#39;rsatilgan barcha ish maydonini o&#39;qing",
+    "write": "Rolda ko&#39;rsatilgan barcha holatlar maydonini yozing"
+  },
+  "convos": {
+    "read_all": "Konvoslarning hozirgi holatini ko&#39;ring.",
+    "manage_own": "Konvoga qo&#39;shiling va uni tark eting.",
+    "moderate_others": "Konvoni boshlang, konvoni tugating va ishtirokchini olib tashlang.",
+    "read_all_submissions": "Barcha yozilgan konvoylarni o&#39;qing."
+  },
+  "events": {
+    "read_all": "Barcha voqealarni o&#39;qing.",
+    "manage_own": "O&#39;zingizning tadbiringizni yarating, yangilang va o&#39;chiring.",
+    "moderate_others": "Boshqalarning hodisasini yangilang va o&#39;chiring.",
+    "read_all_submissions": "Barcha voqea tasdiqlarini o&#39;qing.",
+    "submit_own": "Tadbirda ishtirok etish so&#39;rovini tasdiqlang."
+  },
+  "posts": {
+    "read_all": "Barcha xabarlarni o&#39;qing.",
+    "manage_own": "O&#39;zingizning postingizni yarating, yangilang va o&#39;chiring.",
+    "moderate_others": "Boshqalarning xabarlarini yangilang va o&#39;chiring."
+  },
+  "forms": {
+    "read_all": "Barcha shakllarni o&#39;qing.",
+    "manage_own": "Shaxsiy shaklni yarating, yangilang va o&#39;chiring.",
+    "moderate_others": "Boshqalar shaklini yangilang va o&#39;chiring.",
+    "read_all_submissions": "Barcha arizalarni o&#39;qing.",
+    "submit_own": "Shakl so&#39;rovini yuborish."
+  },
+  "invoices": {
+    "read_all": "Barcha hisob-fakturalarni o&#39;qing.",
+    "manage_own": "Shaxsiy hisob-fakturani yarating, yangilang va o&#39;chiring.",
+    "moderate_others": "Boshqa hisob-fakturani yangilang va o&#39;chiring.",
+    "read_all_submissions": "Barcha hisob-fakturalarni o&#39;qing.",
+    "submit_own": "Hisob-faktura so&#39;rovini yuboring."
+  },
+  "notes": {
+    "read_all": "Barcha eslatmalarni o&#39;qing.",
+    "manage_own": "O&#39;z qaydlaringizni yarating, yangilang va o&#39;chiring.",
+    "moderate_others": "Boshqalarning eslatmasini yangilang va o&#39;chiring."
+  },
+  "signs": {
+    "read_all": "Barcha elektron belgilarni o&#39;qing.",
+    "manage_own": "O&#39;zingizning elektron belgilaringizni yarating, yangilang va o&#39;chiring.",
+    "moderate_others": "Boshqalarning elektron belgisini yangilang va o&#39;chiring.",
+    "read_all_submissions": "Barcha elektron imzolarni o&#39;qing.",
+    "submit_own": "Maydon so&#39;rovini yuboring."
+  },
+  "tasks": {
+    "read_all": "Barcha vazifalarni o&#39;qing.",
+    "manage_own": "O&#39;zingizning vazifangizni yarating, yangilang va o&#39;chiring.",
+    "moderate_others": "Boshqalarning topshirig&#39;ini yangilang va o&#39;chiring.",
+    "read_all_submissions": "Barcha topshiriqlarni o\u02bbqing.",
+    "submit_own": "Vazifa so&#39;rovini yuboring."
+  },
+  "team": { "read_all": "Har holda jamoani o&#39;qing" }
+}

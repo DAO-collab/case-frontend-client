@@ -1,0 +1,8 @@
+{
+  "attending_yes": "Attending",
+  "attending_no": "Not attending",
+  "attending_maybe": "Maybe attending",
+  "your_current_status": "Your current status",
+  "change_status": "Change Status",
+  "event_created_by": "This event was created by"
+}

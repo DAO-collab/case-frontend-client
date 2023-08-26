@@ -1,0 +1,64 @@
+.ntf-item {
+  display: inline-block;
+  vertical-align: top;
+  width: 150px;
+  max-height: 40px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 47.5em) {
+  .ntf-item-group {
+    display: flex;
+  }
+
+  .ntf-item {
+    width: unset;
+    flex: 1 1 0;
+    margin-right: 4px;
+  }
+
+  .ntf-item ::ng-deep .ng-select .ng-select-container .ng-value-container .ng-value {
+    padding: 0 7px !important;
+  }
+
+  .ntf-item > input {
+    padding: 0 7px !important;
+  }
+}
+
+.ntf-item input {
+  height: 39px;
+  max-width: 100%;
+  font-size: 14px;
+}
+
+.line-block {
+  padding: 4px 4px;
+  background: #fff;
+}
+
+.line-block .ntf-item:nth-of-type(3) .ng-select {
+  text-transform: capitalize;
+}
+
+.ntf-item > span {
+  font-size: 15px;
+  line-height: 40px;
+  padding: 0 3px;
+  display: block;
+  min-width: 100px;
+}
+
+.ntf-item.input-remove {
+  min-height: 40px;
+  max-width: 30px;
+}
+
+.ntf-item:nth-child(2) {
+  width: 56px;
+}
+
+:host ::ng-deep .notification-type-select .ng-select-container .ng-value-container .ng-input > input {
+  box-sizing: border-box !important;
+}

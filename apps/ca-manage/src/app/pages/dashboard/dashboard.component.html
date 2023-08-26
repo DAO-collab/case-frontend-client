@@ -1,0 +1,18 @@
+<article id="content" [hidden]="!dataLoaded">
+  <div class="module-e">
+    <div class="dashboard-chart" style="height: 300px">
+      <canvas [hidden]="metricsLoading" id="dashboard-chart"></canvas>
+      <app-loader [active]="metricsLoading"></app-loader>
+    </div>
+  </div>
+
+  <ul class="list-d" *ngIf="metricsData">
+    <li><span class="title" translate>Users</span> {{ metricsData?.users || 0 }}</li>
+    <li><span class="title" translate>Cases</span> {{ metricsData?.cases || 0 }}</li>
+    <li><span class="title" translate>Media Size</span> {{ getAbstractSize(metricsData?.media) }}</li>
+    <li class="img"><img src="/images/illustrations/b.svg" alt="Placeholder" width="148" height="44" /></li>
+  </ul>
+  <h2 class="header-d" translate>All statistics <span class="sub-title"> updated daily </span></h2>
+</article>
+
+<app-loader [active]="!dataLoaded"></app-loader>

@@ -1,0 +1,333 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="notFound">
+    <p class="text-center" translate>Case not found!</p>
+  </div>
+
+  <form
+    novalidate
+    name="form"
+    role="form"
+    id="formcase"
+    autocomplete="off"
+    *ngIf="!loading"
+    [ngClass]="{ touchedSubmit: formTouched }"
+    [formGroup]="caseForm"
+    (submit)="save()"
+  >
+    <h3 translate>Case Info</h3>
+
+    <p class="triple a">
+      <span>
+        <label for="about" class="required" translate>About</label>
+        <input #aboutF required type="text" name="about" id="about" class="form-control" formControlName="about" />
+        <app-error
+          [field]="aboutF"
+          [fieldValue]="caseForm.controls['about'].value"
+          [serverErrors]="serverErrors"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+      <span>
+        <label for="tagId" class="required" translate>Tag ID</label>
+        <input #tagIdF required type="text" name="tag-id" id="tagId" class="form-control" formControlName="tag_id" />
+        <app-error
+          [field]="tagIdF"
+          [fieldValue]="caseForm.controls['tag_id'].value"
+          [serverErrors]="serverErrors"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <label for="dateOpened" class="required" translate>Date Opened</label>
+        <input
+          #dateF
+          mwlFlatpickr
+          type="text"
+          id="dateOpened"
+          name="date_opened"
+          dateFormat="m/d/Y"
+          class="form-control"
+          placeholder="mm/dd/yyyy"
+          formControlName="date_opened"
+        />
+        <app-error
+          [field]="dateF"
+          [fieldValue]="caseForm.controls['date_opened'].value"
+          [serverErrors]="serverErrors"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+      <span>
+        <label for="caseStatus" class="required" translate>Case Status</label>
+        <ng-select
+          class="edit-case-status-select"
+          #statusF
+          name="case-status"
+          id="caseStatus"
+          bindLabel="text"
+          bindValue="id"
+          placeholder="{{ 'No status selected' | translate }}"
+          formControlName="case_status"
+          [items]="statusSelectList"
+        >
+        </ng-select>
+        <app-error
+          regularHtmlElementName="case-status"
+          [field]="statusF.element"
+          [fieldValue]="caseForm.controls['case_status'].value?.length"
+          [serverErrors]="serverErrors"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+    </p>
+    <p class="triple a">
+      <span>
+        <label for="caseType" class="required" translate>Case Types</label>
+        <ng-select
+          class="edit-case-status-select"
+          #statusF
+          name="case-type"
+          id="caseType"
+          bindLabel="text"
+          bindValue="id"
+          placeholder="{{ 'No Type selected' | translate }}"
+          formControlName="case_type"
+          [items]="typeSelectList"
+        >
+        </ng-select>
+        <app-error
+          regularHtmlElementName="case-type"
+          [field]="statusF.element"
+          [fieldValue]="caseForm.controls['case_type'].value?.length"
+          [serverErrors]="serverErrors"
+          [validationErrors]="validationErrors"
+          [validation]="{ required: true }"
+        ></app-error>
+      </span>
+    </p>
+
+    <div formGroupName="meta_data">
+      <p class="custom-fields-group triple a" *ngIf="extraFields?.length">
+        <span *ngFor="let customField of extraFields">
+          <span
+            *ngIf="(customField.fieldType === 'text' || customField.fieldType === 'text-only') && !customField.readonly"
+          >
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customTextField
+              type="text"
+              class="form-control"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            />
+            <app-error
+              [field]="customTextField"
+              [fieldValue]="metaData.controls[customField.id].value"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+              [regularHtmlElementName]="customField.id"
+              [serverErrors]="serverErrors"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'dropdown' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <ng-select
+              #customDropdown
+              name="custom-dropdown"
+              [id]="customField.id"
+              [items]="customField.items.enum"
+              [formControlName]="customField.id"
+            ></ng-select>
+            <app-error
+              regularHtmlElementName="custom-dropdown"
+              [field]="customDropdown.element"
+              [fieldValue]="metaData.controls[customField.id].value?.length"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+              [serverErrors]="serverErrors"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'textarea' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <textarea
+              #customTextArea
+              class="form-control"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            ></textarea>
+            <app-error
+              [field]="customTextArea"
+              [fieldValue]="metaData.controls[customField.id].value"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+              [regularHtmlElementName]="customField.id"
+              [serverErrors]="serverErrors"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'multidropdown' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <ng-select
+              #customMultiDropdown
+              [id]="customField.id"
+              [multiple]="true"
+              [items]="customField.items.enum"
+              [formControlName]="customField.id"
+            >
+            </ng-select>
+            <app-error
+              [field]="customMultiDropdown.element"
+              [fieldValue]="metaData.controls[customField.id].value?.length"
+              [validationErrors]="validationErrors"
+              [regularHtmlElementName]="customField.id"
+              [validation]="{ 'min-required': customField.required }"
+              [serverErrors]="serverErrors"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'checkboxes' && !customField.readonly">
+            <label [ngClass]="{ required: customField.required }" translate>{{ customField.title }}</label>
+            <span class="checkboxes-group">
+              <span *ngFor="let option of customField.items.enum" class="cb-item">
+                <span class="cg-label" translate>{{ option }}</span>
+                <label class="container cg-box">
+                  <input
+                    #customCheckbox
+                    type="checkbox"
+                    class="form-control"
+                    [name]="customField.id"
+                    [checked]="metaData.controls[customField.id].value.includes(option)"
+                    (change)="customCheckboxChangeValue(customField.id, option)"
+                  />
+                  <span class="checkmark"></span>
+                </label>
+              </span>
+            </span>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'boolean' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <label class="container">
+              <input
+                #customBoolean
+                type="checkbox"
+                class="form-control"
+                [id]="customField.id"
+                [name]="customField.id"
+                [formControlName]="customField.id"
+              />
+              <span class="checkmark"></span>
+            </label>
+            <app-error
+              [field]="customBoolean"
+              [fieldValue]="metaData.controls[customField.id].value"
+              [validationErrors]="validationErrors"
+              [regularHtmlElementName]="customField.id"
+              [validation]="{ required: customField.required }"
+              [serverErrors]="serverErrors"
+            ></app-error>
+          </span>
+
+          <span *ngIf="customField.fieldType === 'number' && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customNumber
+              appNumberField
+              type="number"
+              class="form-control"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            />
+            <app-error
+              [field]="customNumber"
+              [fieldValue]="metaData.controls[customField.id].value"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required }"
+              [regularHtmlElementName]="customField.id"
+              [serverErrors]="serverErrors"
+            ></app-error>
+          </span>
+
+          <span *ngIf="(customField.fieldType === 'date' || customField.fieldType === 'time') && !customField.readonly">
+            <label [for]="customField.id" [ngClass]="{ required: customField.required }" translate>{{
+              customField.title
+            }}</label>
+            <input
+              #customPicker
+              mwlFlatpickr
+              type="text"
+              dateFormat="m/d/Y"
+              class="form-control"
+              placeholder="mm/dd/yyyy"
+              *ngIf="customField.fieldType === 'date'"
+              [id]="customField.id"
+              [name]="customField.id"
+              [formControlName]="customField.id"
+            />
+
+            <ng-container *ngIf="customField.fieldType === 'time'">
+              <input
+              #customPicker
+              mwlFlatpickr
+              type="text"
+              [altInput]="true"
+              class="form-control"
+              placeholder="4:00:00 AM"
+              altFormat="G:i:S K"
+              dateFormat="G:i:S K"
+              [convertModelValue]="true"
+              [formControlName]="customField.id"
+              [id]="customField.id"
+              [name]="customField.id"
+              [noCalendar]="true"
+              [enableSeconds]="true"
+              [enableTime]="true"
+              [dateFormat]="'G:i:S K'"
+            />
+            <app-error
+              [field]="customPicker"
+              [fieldValue]="metaData.controls[customField.id].value"
+              [regularHtmlElementName]="customField.id"
+              [validationErrors]="validationErrors"
+              [validation]="{ required: customField.required, pattern: customField.pattern }"
+            >
+            </app-error>
+            </ng-container>
+          </span>
+        </span>
+      </p>
+    </div>
+    <p class="submit">
+      <button type="submit" class="f-right" [disabled]="saving">
+        <span *ngIf="!saving" translate>Save</span>
+        <span *ngIf="saving" translate>Saving...</span>
+      </button>
+      <button type="reset" class="f-right" (click)="notInterested()" translate><a>Cancel</a></button>
+    </p>
+  </form>
+</article>

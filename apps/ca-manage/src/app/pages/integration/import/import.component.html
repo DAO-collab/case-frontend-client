@@ -1,0 +1,78 @@
+<article id="content" class="module-d">
+  <app-loader [active]="loading"></app-loader>
+
+  <div *ngIf="!loading && notFound">
+    <p class="text-center" translate>Import not found.</p>
+  </div>
+
+  <div *ngIf="!loading && !notFound">
+    <div *ngIf="!importItems?.length" class="text-center">
+      <p translate>Processing of file failed. Ensure it is a CSV file type and contain the correct headers</p>
+    </div>
+
+    <div class="table-wrapper">
+      <table class="table-b a" *ngIf="importItems?.length">
+        <tr>
+          <th style="width: 50px">#</th>
+          <th translate>Data</th>
+          <th translate>Created On</th>
+          <th translate>Type</th>
+          <th translate>Status</th>
+          <!--          <th translate *ngIf="!hasAllImportsPassed()">Action</th>-->
+          <th translate>Action</th>
+        </tr>
+        <tr *ngFor="let import of importItems; let index = index">
+          <td>{{ index + 1 }}</td>
+          <td *ngIf="import.data" style="font-size: 19px; padding: 13px 2px 9px">
+            <i
+              class="icon-info"
+              triggers="mouseenter:mouseleave"
+              [popover]="tipTemplate"
+              container="body"
+              [popoverContext]="{ data: import.data }"
+              placement="right"
+            ></i>
+          </td>
+          <td>{{ import.created_on | date : 'medium' }}</td>
+          <td>{{ importTypes[import.type] }}</td>
+          <td style="padding: 13px 2px 9px">
+            <app-loader [active]="retryImportIndex === index" class="import-loader"></app-loader>
+
+            <i
+              class="icon-warning"
+              style="font-size: 19px; vertical-align: text-bottom; margin-right: 5px"
+              triggers="mouseenter:mouseleave"
+              [popover]="tipTemplate"
+              container="body"
+              [popoverContext]="{ data: import.schema_errors }"
+              *ngIf="import.schema_errors && retryImportIndex !== index"
+            ></i>
+
+            <ng-container *ngIf="retryImportIndex !== index">
+              {{ import.status | translate }}
+            </ng-container>
+          </td>
+          <!--          <td *ngIf="!hasAllImportsPassed()">-->
+          <td>
+            <!--            *ngIf="import.schema_errors"-->
+            <a
+              class="retry-button"
+              (click)="retryImport(importId!, import.unique_id, index)"
+              [ngClass]="{ 'retry-disabled': !isRetryAvailable }"
+            >
+              Retry
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <p class="submit">
+      <button type="reset" class="f-right" (click)="navigateBack()" translate>Close</button>
+    </p>
+  </div>
+</article>
+
+<ng-template #tipTemplate let-data="data">
+  <div *ngFor="let item of data | keyvalue">{{ $any(item).key.replaceAll('_', ' ') | titlecase }}: {{ item.value }}</div>
+</ng-template>

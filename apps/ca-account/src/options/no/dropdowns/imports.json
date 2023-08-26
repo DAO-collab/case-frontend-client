@@ -1,0 +1,11 @@
+{
+  "post_user": "Legg til brukere",
+  "put_user": "Endre brukere",
+  "put_user_status": "Endre brukerstatus",
+  "post_case": "Lag saker",
+  "put_case": "Endre saker",
+  "post_case_permission": "Tilordne brukere til saker",
+  "put_case_permission": "Endre brukere som er tildelt saker",
+  "post_case_post": "Lag saksposter",
+  "delete_case_permission": "Fjern brukere som er tildelt saker"
+}
