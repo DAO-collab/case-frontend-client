@@ -9,6 +9,7 @@ namespace AspNetCoreSpa.Application.Common.Models
         {
             Succeeded = succeeded;
             Errors = errors.ToArray();
+            return errors
         }
 
         public bool Succeeded { get; set; }
@@ -17,7 +18,7 @@ namespace AspNetCoreSpa.Application.Common.Models
 
         public static Result Success()
         {
-            return new Result(true, new string[]{});
+            return new Result(true, new string[] { });
         }
 
         public static Result Failure(IEnumerable<string> errors)
